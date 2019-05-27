@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="C10B1/00 炭化炉" Target="frmContent" Href="../searchservlet?query=C10B1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B1/00">
+    <TreeNode Title="C10B1/02 #固定式炭化炉" Target="frmContent" Href="../searchservlet?query=C10B1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B1/02">
+      <TreeNode Title="C10B1/04 ##立式炭化炉" Target="frmContent" Href="../searchservlet?query=C10B1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B1/04"/>
+      <TreeNode Title="C10B1/06 ##卧式炭化炉" Target="frmContent" Href="../searchservlet?query=C10B1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B1/06"/>
+      <TreeNode Title="C10B1/08 ##倾斜式炭化炉" Target="frmContent" Href="../searchservlet?query=C10B1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B1/08"/>
+    </TreeNode>
+    <TreeNode Title="C10B1/10 #转动式炭化炉" Target="frmContent" Href="../searchservlet?query=C10B1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B1/10"/>
+  </TreeNode>
+  <TreeNode Title="C10B3/00 带立式炭化室的炼焦炉" Target="frmContent" Href="../searchservlet?query=C10B3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B3/00">
+    <TreeNode Title="C10B3/02 #带热交换装置" Target="frmContent" Href="../searchservlet?query=C10B3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B3/02"/>
+  </TreeNode>
+  <TreeNode Title="C10B5/00 带卧式炭化室的炼焦炉" Target="frmContent" Href="../searchservlet?query=C10B5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B5/00">
+    <TreeNode Title="C10B5/02 #带立式加热烟道" Target="frmContent" Href="../searchservlet?query=C10B5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B5/02">
+      <TreeNode Title="C10B5/04 ##带交叉内连件的" Target="frmContent" Href="../searchservlet?query=C10B5/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B5/04"/>
+    </TreeNode>
+    <TreeNode Title="C10B5/06 #带卧式加热烟道" Target="frmContent" Href="../searchservlet?query=C10B5/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B5/06"/>
+    <TreeNode Title="C10B5/08 #带卧式并立式的加热烟道" Target="frmContent" Href="../searchservlet?query=C10B5/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B5/08"/>
+    <TreeNode Title="C10B5/10 #带热交换装置" Target="frmContent" Href="../searchservlet?query=C10B5/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B5/10">
+      <TreeNode Title="C10B5/12 ##带蓄热室" Target="frmContent" Href="../searchservlet?query=C10B5/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B5/12">
+        <TreeNode Title="C10B5/14 ###位于炭化室的纵向" Target="frmContent" Href="../searchservlet?query=C10B5/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B5/14">
+          <TreeNode Title="C10B5/16 ####带分隔开的烟道" Target="frmContent" Href="../searchservlet?query=C10B5/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B5/16"/>
+        </TreeNode>
+        <TreeNode Title="C10B5/18 ###位于炉组的纵向" Target="frmContent" Href="../searchservlet?query=C10B5/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B5/18"/>
+      </TreeNode>
+      <TreeNode Title="C10B5/20 ##带同流式换热器" Target="frmContent" Href="../searchservlet?query=C10B5/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B5/20"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="C10B7/00 在炉内有传送原料的机械装置的炼焦炉" Target="frmContent" Href="../searchservlet?query=C10B7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B7/00">
+    <TreeNode Title="C10B7/02 #带旋转扒刮装置" Target="frmContent" Href="../searchservlet?query=C10B7/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B7/02"/>
+    <TreeNode Title="C10B7/04 #带摇震或振动装置" Target="frmContent" Href="../searchservlet?query=C10B7/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B7/04"/>
+    <TreeNode Title="C10B7/06 #带环状的运送装置" Target="frmContent" Href="../searchservlet?query=C10B7/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B7/06">
+      <TreeNode Title="C10B7/08 ##竖直方向" Target="frmContent" Href="../searchservlet?query=C10B7/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B7/08"/>
+    </TreeNode>
+    <TreeNode Title="C10B7/10 #带螺旋运送机" Target="frmContent" Href="../searchservlet?query=C10B7/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B7/10"/>
+    <TreeNode Title="C10B7/12 #带翻转或摇动装置" Target="frmContent" Href="../searchservlet?query=C10B7/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B7/12"/>
+    <TreeNode Title="C10B7/14 #带运货车、容器或料盘" Target="frmContent" Href="../searchservlet?query=C10B7/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B7/14"/>
+  </TreeNode>
+  <TreeNode Title="C10B9/00 蜂巢式焦炉" Target="frmContent" Href="../searchservlet?query=C10B9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B9/00"/>
+  <TreeNode Title="C10B11/00 带倾斜碳化室的炼焦炉" Target="frmContent" Href="../searchservlet?query=C10B11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B11/00"/>
+  <TreeNode Title="C10B13/00 带有在机械压力下供给并保持炉料装置的炼焦炉" Target="frmContent" Href="../searchservlet?query=C10B13/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B13/00"/>
+  <TreeNode Title="C10B15/00 其他炼焦炉" Target="frmContent" Href="../searchservlet?query=C10B15/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B15/00">
+    <TreeNode Title="C10B15/02 #带底部加热" Target="frmContent" Href="../searchservlet?query=C10B15/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B15/02"/>
+  </TreeNode>
+  <TreeNode Title="C10B17/00 炼焦炉的预热" Target="frmContent" Href="../searchservlet?query=C10B17/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B17/00"/>
+  <TreeNode Title="C10B19/00 以电加热炼焦炉" Target="frmContent" Href="../searchservlet?query=C10B19/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B19/00"/>
+  <TreeNode Title="C10B21/00 以可燃气体加热炼焦炉" Target="frmContent" Href="../searchservlet?query=C10B21/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B21/00">
+    <TreeNode Title="C10B21/02 #用贫煤气" Target="frmContent" Href="../searchservlet?query=C10B21/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B21/02"/>
+    <TreeNode Title="C10B21/04 #用富煤气" Target="frmContent" Href="../searchservlet?query=C10B21/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B21/04"/>
+    <TreeNode Title="C10B21/06 #在适用贫煤气或富煤气的炼焦炉中" Target="frmContent" Href="../searchservlet?query=C10B21/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B21/06"/>
+    <TreeNode Title="C10B21/08 #应用特殊的加热气体" Target="frmContent" Href="../searchservlet?query=C10B21/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B21/08"/>
+    <TreeNode Title="C10B21/10 #调节并控制燃烧" Target="frmContent" Href="../searchservlet?query=C10B21/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B21/10">
+      <TreeNode Title="C10B21/12 ##燃烧器" Target="frmContent" Href="../searchservlet?query=C10B21/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B21/12"/>
+      <TreeNode Title="C10B21/14 ##排烟换向装置" Target="frmContent" Href="../searchservlet?query=C10B21/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B21/14"/>
+      <TreeNode Title="C10B21/16 ##通过控制或改变加热烟道及蓄热室烟道之间的开口" Target="frmContent" Href="../searchservlet?query=C10B21/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B21/16"/>
+      <TreeNode Title="C10B21/18 ##烟道气的再循环" Target="frmContent" Href="../searchservlet?query=C10B21/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B21/18"/>
+    </TreeNode>
+    <TreeNode Title="C10B21/20 #箱式炼焦炉的加热方法" Target="frmContent" Href="../searchservlet?query=C10B21/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B21/20">
+      <TreeNode Title="C10B21/22 ##在不同水平引入加热煤气与空气" Target="frmContent" Href="../searchservlet?query=C10B21/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B21/22">
+        <TreeNode Title="C10B21/24 ###在立式加热烟道的顶部和底部" Target="frmContent" Href="../searchservlet?query=C10B21/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B21/24"/>
+      </TreeNode>
+      <TreeNode Title="C10B21/26 ##只在立式烟道的顶部引入加热煤气与空气" Target="frmContent" Href="../searchservlet?query=C10B21/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B21/26"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="C10B23/00 其他加热炼焦炉的方法" Target="frmContent" Href="../searchservlet?query=C10B23/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B23/00"/>
+  <TreeNode Title="C10B25/00 炼焦炉的门或封闭物" Target="frmContent" Href="../searchservlet?query=C10B25/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B25/00">
+    <TreeNode Title="C10B25/02 #门；门框" Target="frmContent" Href="../searchservlet?query=C10B25/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B25/02">
+      <TreeNode Title="C10B25/04 ##用于立式炭化室炼焦炉的" Target="frmContent" Href="../searchservlet?query=C10B25/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B25/04"/>
+      <TreeNode Title="C10B25/06 ##用于卧式炭化室炼焦炉的" Target="frmContent" Href="../searchservlet?query=C10B25/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B25/06"/>
+      <TreeNode Title="C10B25/08 ##门的开闭" Target="frmContent" Href="../searchservlet?query=C10B25/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B25/08">
+        <TreeNode Title="C10B25/10 ###对立式炭化室炼焦炉的" Target="frmContent" Href="../searchservlet?query=C10B25/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B25/10"/>
+        <TreeNode Title="C10B25/12 ###对卧式炭化室的炼焦炉的" Target="frmContent" Href="../searchservlet?query=C10B25/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B25/12"/>
+        <TreeNode Title="C10B25/14 ###炉门提升装置" Target="frmContent" Href="../searchservlet?query=C10B25/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B25/14"/>
+      </TreeNode>
+      <TreeNode Title="C10B25/16 ##密封；密封装置" Target="frmContent" Href="../searchservlet?query=C10B25/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B25/16"/>
+      <TreeNode Title="C10B25/18 ##冷却" Target="frmContent" Href="../searchservlet?query=C10B25/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B25/18"/>
+    </TreeNode>
+    <TreeNode Title="C10B25/20 #装料孔的盖及封闭物" Target="frmContent" Href="../searchservlet?query=C10B25/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B25/20">
+      <TreeNode Title="C10B25/22 ##用于立式炭化室炼焦炉" Target="frmContent" Href="../searchservlet?query=C10B25/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B25/22"/>
+      <TreeNode Title="C10B25/24 ##用于卧式炭化室炼焦炉" Target="frmContent" Href="../searchservlet?query=C10B25/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B25/24"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="C10B27/00 干馏气的排出装置" Target="frmContent" Href="../searchservlet?query=C10B27/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B27/00">
+    <TreeNode Title="C10B27/02 #安在炭化室不同水平处的排出口" Target="frmContent" Href="../searchservlet?query=C10B27/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B27/02"/>
+    <TreeNode Title="C10B27/04 #在炼焦炉装料操作期间" Target="frmContent" Href="../searchservlet?query=C10B27/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B27/04"/>
+    <TreeNode Title="C10B27/06 #导管零件，如阀门" Target="frmContent" Href="../searchservlet?query=C10B27/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B27/06"/>
+  </TreeNode>
+  <TreeNode Title="C10B29/00 炼焦炉的其他部件" Target="frmContent" Href="../searchservlet?query=C10B29/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B29/00">
+    <TreeNode Title="C10B29/02 #砌砖作业，如砌砖、衬里、墙壁" Target="frmContent" Href="../searchservlet?query=C10B29/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B29/02"/>
+    <TreeNode Title="C10B29/04 #膨胀与收缩的控制及防止" Target="frmContent" Href="../searchservlet?query=C10B29/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B29/04"/>
+    <TreeNode Title="C10B29/06 #防止及修复砌砖的漏泄" Target="frmContent" Href="../searchservlet?query=C10B29/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B29/06"/>
+    <TreeNode Title="C10B29/08 #炉的支柱与地基" Target="frmContent" Href="../searchservlet?query=C10B29/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B29/08"/>
+  </TreeNode>
+  <TreeNode Title="C10B31/00 用于炼焦炉的装料装置" Target="frmContent" Href="../searchservlet?query=C10B31/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B31/00">
+    <TreeNode Title="C10B31/02 #用于垂直装料的" Target="frmContent" Href="../searchservlet?query=C10B31/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B31/02">
+      <TreeNode Title="C10B31/04 ##卧式炭化室炼焦炉" Target="frmContent" Href="../searchservlet?query=C10B31/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B31/04"/>
+    </TreeNode>
+    <TreeNode Title="C10B31/06 #用于水平装料的" Target="frmContent" Href="../searchservlet?query=C10B31/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B31/06">
+      <TreeNode Title="C10B31/08 ##卧式炭化室炼焦炉" Target="frmContent" Href="../searchservlet?query=C10B31/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B31/08">
+        <TreeNode Title="C10B31/10 ###带一压实装料的" Target="frmContent" Href="../searchservlet?query=C10B31/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B31/10"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="C10B31/12 #用于液体材料的" Target="frmContent" Href="../searchservlet?query=C10B31/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B31/12"/>
+  </TreeNode>
+  <TreeNode Title="C10B33/00 用于炼焦炉的卸料装置；焦炭导向装置" Target="frmContent" Href="../searchservlet?query=C10B33/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B33/00">
+    <TreeNode Title="C10B33/02 #用内装的装置排出焦炭，如齿轮、螺旋" Target="frmContent" Href="../searchservlet?query=C10B33/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B33/02"/>
+    <TreeNode Title="C10B33/04 #拉出装置" Target="frmContent" Href="../searchservlet?query=C10B33/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B33/04">
+      <TreeNode Title="C10B33/06 ##用于卧式炭化室的" Target="frmContent" Href="../searchservlet?query=C10B33/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B33/06"/>
+    </TreeNode>
+    <TreeNode Title="C10B33/08 #推出器，如推焦机" Target="frmContent" Href="../searchservlet?query=C10B33/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B33/08">
+      <TreeNode Title="C10B33/10 ##用于卧式炭化室的" Target="frmContent" Href="../searchservlet?query=C10B33/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B33/10"/>
+    </TreeNode>
+    <TreeNode Title="C10B33/12 #卸料阀" Target="frmContent" Href="../searchservlet?query=C10B33/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B33/12"/>
+    <TreeNode Title="C10B33/14 #焦炭导向装置" Target="frmContent" Href="../searchservlet?query=C10B33/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B33/14"/>
+  </TreeNode>
+  <TreeNode Title="C10B35/00 用于炼焦炉的装料、卸料联合装置" Target="frmContent" Href="../searchservlet?query=C10B35/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B35/00"/>
+  <TreeNode Title="C10B37/00 装入炉内的煤的机械处理" Target="frmContent" Href="../searchservlet?query=C10B37/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B37/00">
+    <TreeNode Title="C10B37/02 #平料，如用铁条" Target="frmContent" Href="../searchservlet?query=C10B37/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B37/02"/>
+    <TreeNode Title="C10B37/04 #压紧料(在焦化期间入C10B 47/12)" Target="frmContent" Href="../searchservlet?query=C10B37/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B37/04"/>
+    <TreeNode Title="C10B37/06 #在物料中形成孔" Target="frmContent" Href="../searchservlet?query=C10B37/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B37/06"/>
+  </TreeNode>
+  <TreeNode Title="C10B39/00 焦炭的冷却或骤熄" Target="frmContent" Href="../searchservlet?query=C10B39/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B39/00">
+    <TreeNode Title="C10B39/02 #炉外干式冷却" Target="frmContent" Href="../searchservlet?query=C10B39/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B39/02"/>
+    <TreeNode Title="C10B39/04 #湿式骤熄" Target="frmContent" Href="../searchservlet?query=C10B39/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B39/04">
+      <TreeNode Title="C10B39/06 ##在炉中" Target="frmContent" Href="../searchservlet?query=C10B39/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B39/06"/>
+      <TreeNode Title="C10B39/08 ##焦炭骤熄塔" Target="frmContent" Href="../searchservlet?query=C10B39/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B39/08"/>
+    </TreeNode>
+    <TreeNode Title="C10B39/10 #与搅拌装置相结合，如旋转台或转筒" Target="frmContent" Href="../searchservlet?query=C10B39/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B39/10"/>
+    <TreeNode Title="C10B39/12 #与传送装置相结合" Target="frmContent" Href="../searchservlet?query=C10B39/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B39/12"/>
+    <TreeNode Title="C10B39/14 #车辆" Target="frmContent" Href="../searchservlet?query=C10B39/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B39/14"/>
+    <TreeNode Title="C10B39/16 #与分选相结合" Target="frmContent" Href="../searchservlet?query=C10B39/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B39/16"/>
+    <TreeNode Title="C10B39/18 #焦炭斜台" Target="frmContent" Href="../searchservlet?query=C10B39/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B39/18"/>
+  </TreeNode>
+  <TreeNode Title="C10B41/00 安全装置，如用于焦炭卸料中的信号及控制装置" Target="frmContent" Href="../searchservlet?query=C10B41/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B41/00">
+    <TreeNode Title="C10B41/02 #用于焦炭卸料的" Target="frmContent" Href="../searchservlet?query=C10B41/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B41/02">
+      <TreeNode Title="C10B41/04 ##用电动方法" Target="frmContent" Href="../searchservlet?query=C10B41/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B41/04"/>
+      <TreeNode Title="C10B41/06 ##用气动或液压方法" Target="frmContent" Href="../searchservlet?query=C10B41/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B41/06"/>
+    </TreeNode>
+    <TreeNode Title="C10B41/08 #用于排出干馏气体的" Target="frmContent" Href="../searchservlet?query=C10B41/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B41/08"/>
+  </TreeNode>
+  <TreeNode Title="C10B43/00 防止或去除积垢" Target="frmContent" Href="../searchservlet?query=C10B43/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B43/00">
+    <TreeNode Title="C10B43/02 #去除积垢" Target="frmContent" Href="../searchservlet?query=C10B43/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B43/02">
+      <TreeNode Title="C10B43/04 ##用机械方法" Target="frmContent" Href="../searchservlet?query=C10B43/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B43/04">
+        <TreeNode Title="C10B43/06 ###从导管、阀及类似部件上" Target="frmContent" Href="../searchservlet?query=C10B43/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B43/06"/>
+      </TreeNode>
+      <TreeNode Title="C10B43/08 ##用液体" Target="frmContent" Href="../searchservlet?query=C10B43/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B43/08"/>
+      <TreeNode Title="C10B43/10 ##用烧除的方法" Target="frmContent" Href="../searchservlet?query=C10B43/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B43/10">
+        <TreeNode Title="C10B43/12 ###燃烧器" Target="frmContent" Href="../searchservlet?query=C10B43/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B43/12"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="C10B43/14 #防止积垢" Target="frmContent" Href="../searchservlet?query=C10B43/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B43/14"/>
+  </TreeNode>
+  <TreeNode Title="C10B45/00 其他部件" Target="frmContent" Href="../searchservlet?query=C10B45/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B45/00">
+    <TreeNode Title="C10B45/02 #在炉外制备密实一致的煤料的装置" Target="frmContent" Href="../searchservlet?query=C10B45/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B45/02"/>
+  </TreeNode>
+  <TreeNode Title="C10B47/00 间接加热使固体含碳物料干馏，如用外部燃烧" Target="frmContent" Href="../searchservlet?query=C10B47/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B47/00">
+    <TreeNode Title="C10B47/02 #对固定的物料" Target="frmContent" Href="../searchservlet?query=C10B47/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B47/02">
+      <TreeNode Title="C10B47/04 ##在竖炉中" Target="frmContent" Href="../searchservlet?query=C10B47/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B47/04"/>
+      <TreeNode Title="C10B47/06 ##在炭化炉中" Target="frmContent" Href="../searchservlet?query=C10B47/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B47/06"/>
+      <TreeNode Title="C10B47/08 ##在蜂房式炉中" Target="frmContent" Href="../searchservlet?query=C10B47/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B47/08"/>
+      <TreeNode Title="C10B47/10 ##在箱式炼焦炉中" Target="frmContent" Href="../searchservlet?query=C10B47/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B47/10"/>
+      <TreeNode Title="C10B47/12 ##其中在焦化时物料受机械压力" Target="frmContent" Href="../searchservlet?query=C10B47/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B47/12"/>
+      <TreeNode Title="C10B47/14 ##借助热液体，如熔融盐" Target="frmContent" Href="../searchservlet?query=C10B47/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B47/14"/>
+      <TreeNode Title="C10B47/16 ##在炭化炉内外都有间接加热装置" Target="frmContent" Href="../searchservlet?query=C10B47/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B47/16"/>
+    </TreeNode>
+    <TreeNode Title="C10B47/18 #对移动的物料" Target="frmContent" Href="../searchservlet?query=C10B47/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B47/18">
+      <TreeNode Title="C10B47/20 ##按“移动床”技术的(C10B 47/26优先)" Target="frmContent" Href="../searchservlet?query=C10B47/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B47/20"/>
+      <TreeNode Title="C10B47/22 ##以分散的形式(C10B 47/26优先)" Target="frmContent" Href="../searchservlet?query=C10B47/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B47/22">
+        <TreeNode Title="C10B47/24 ###按“流化床”技术的" Target="frmContent" Href="../searchservlet?query=C10B47/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B47/24"/>
+      </TreeNode>
+      <TreeNode Title="C10B47/26 ##借助热液体，如熔融盐" Target="frmContent" Href="../searchservlet?query=C10B47/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B47/26"/>
+    </TreeNode>
+    <TreeNode Title="C10B47/28 #其他工艺过程" Target="frmContent" Href="../searchservlet?query=C10B47/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B47/28">
+      <TreeNode Title="C10B47/30 ##在旋转炉或炭化炉中" Target="frmContent" Href="../searchservlet?query=C10B47/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B47/30"/>
+      <TreeNode Title="C10B47/32 ##在有机械传送装置的炉中" Target="frmContent" Href="../searchservlet?query=C10B47/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B47/32">
+        <TreeNode Title="C10B47/34 ###带旋转刮动装置" Target="frmContent" Href="../searchservlet?query=C10B47/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B47/34">
+          <TreeNode Title="C10B47/36 ####在多段炉中" Target="frmContent" Href="../searchservlet?query=C10B47/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B47/36"/>
+        </TreeNode>
+        <TreeNode Title="C10B47/38 ###带摇动或振动装置" Target="frmContent" Href="../searchservlet?query=C10B47/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B47/38"/>
+        <TreeNode Title="C10B47/40 ###带环状传送装置" Target="frmContent" Href="../searchservlet?query=C10B47/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B47/40">
+          <TreeNode Title="C10B47/42 ####在垂直方向" Target="frmContent" Href="../searchservlet?query=C10B47/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B47/42"/>
+        </TreeNode>
+        <TreeNode Title="C10B47/44 ###带螺旋传送器" Target="frmContent" Href="../searchservlet?query=C10B47/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B47/44"/>
+        <TreeNode Title="C10B47/46 ###带有料车、容器或料盘" Target="frmContent" Href="../searchservlet?query=C10B47/46&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B47/46"/>
+        <TreeNode Title="C10B47/48 ###带倾斜或摇动装置" Target="frmContent" Href="../searchservlet?query=C10B47/48&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B47/48"/>
+      </TreeNode>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="C10B49/00 以热载体，包括待加工的固态物料的部分燃烧，直接加热使固态含碳物料干馏" Target="frmContent" Href="../searchservlet?query=C10B49/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B49/00">
+    <TreeNode Title="C10B49/02 #以热气体或蒸气，如用物料的部分燃烧所得的热气体" Target="frmContent" Href="../searchservlet?query=C10B49/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B49/02">
+      <TreeNode Title="C10B49/04 ##在移动待处理的固态物料的情况下" Target="frmContent" Href="../searchservlet?query=C10B49/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B49/04">
+        <TreeNode Title="C10B49/06 ###按“移动床”技术的" Target="frmContent" Href="../searchservlet?query=C10B49/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B49/06"/>
+        <TreeNode Title="C10B49/08 ###按分散的形式" Target="frmContent" Href="../searchservlet?query=C10B49/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B49/08">
+          <TreeNode Title="C10B49/10 ####按“流化床”技术的" Target="frmContent" Href="../searchservlet?query=C10B49/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B49/10"/>
+          <TreeNode Title="C10B49/12 ####用切线方向混合的，如在旋涡式炉室中的" Target="frmContent" Href="../searchservlet?query=C10B49/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B49/12"/>
+        </TreeNode>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="C10B49/14 #以热液体，如熔融金属" Target="frmContent" Href="../searchservlet?query=C10B49/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B49/14"/>
+    <TreeNode Title="C10B49/16 #以分散的形式移动固体热载体" Target="frmContent" Href="../searchservlet?query=C10B49/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B49/16">
+      <TreeNode Title="C10B49/18 ##按“移动床”技术的" Target="frmContent" Href="../searchservlet?query=C10B49/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B49/18"/>
+      <TreeNode Title="C10B49/20 ##以分散的形式" Target="frmContent" Href="../searchservlet?query=C10B49/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B49/20">
+        <TreeNode Title="C10B49/22 ###按“流化床”技术的" Target="frmContent" Href="../searchservlet?query=C10B49/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B49/22"/>
+      </TreeNode>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="C10B51/00 以直接与间接加热相结合的固态含碳物料的干馏" Target="frmContent" Href="../searchservlet?query=C10B51/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B51/00"/>
+  <TreeNode Title="C10B53/00 专用于特定的固态原物料或特殊形式的固态原物料的干馏(泥煤的湿式碳化入C10F)" Target="frmContent" Href="../searchservlet?query=C10B53/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B53/00">
+    <TreeNode Title="C10B53/02 #对含纤维素物料的(焦木酸的生产入C10C 5/00)" Target="frmContent" Href="../searchservlet?query=C10B53/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B53/02"/>
+    <TreeNode Title="C10B53/04 #粉煤的" Target="frmContent" Href="../searchservlet?query=C10B53/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B53/04"/>
+    <TreeNode Title="C10B53/06 #油页岩或沥青岩的" Target="frmContent" Href="../searchservlet?query=C10B53/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B53/06"/>
+    <TreeNode Title="C10B53/07 #合成聚合物材料的，如轮胎(用干热处理法回收和加工其基体是有机高分子化合物或组合物的废料，用以制得部分解聚材料的入C08J 11/10；由橡胶或橡胶废料制取液烃混合物入C10G 1/10)[8]" Target="frmContent" Href="../searchservlet?query=C10B53/07&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B53/07"/>
+    <TreeNode Title="C10B53/08 #以压块、团块或类似形式" Target="frmContent" Href="../searchservlet?query=C10B53/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B53/08"/>
+  </TreeNode>
+  <TreeNode Title="C10B55/00 矿物油、沥青、焦油或类似物，或它们与固态含碳物料的混合物的焦化(油的裂化入C10G)" Target="frmContent" Href="../searchservlet?query=C10B55/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B55/00">
+    <TreeNode Title="C10B55/02 #固态物料" Target="frmContent" Href="../searchservlet?query=C10B55/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B55/02">
+      <TreeNode Title="C10B55/04 ##移动的固态物料" Target="frmContent" Href="../searchservlet?query=C10B55/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B55/04">
+        <TreeNode Title="C10B55/06 ###按“移动床”技术" Target="frmContent" Href="../searchservlet?query=C10B55/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B55/06"/>
+        <TreeNode Title="C10B55/08 ###以分散形式" Target="frmContent" Href="../searchservlet?query=C10B55/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B55/08">
+          <TreeNode Title="C10B55/10 ####按“流化床”技术" Target="frmContent" Href="../searchservlet?query=C10B55/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B55/10"/>
+        </TreeNode>
+      </TreeNode>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="C10B57/00 其他的炭化或炼焦工艺过程；一般的干馏工艺的特性" Target="frmContent" Href="../searchservlet?query=C10B57/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B57/00">
+    <TreeNode Title="C10B57/02 #多步碳化或焦化工艺过程" Target="frmContent" Href="../searchservlet?query=C10B57/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B57/02"/>
+    <TreeNode Title="C10B57/04 #使用特殊成分的物料" Target="frmContent" Href="../searchservlet?query=C10B57/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B57/04">
+      <TreeNode Title="C10B57/06 ##含有添加剂的" Target="frmContent" Href="../searchservlet?query=C10B57/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B57/06"/>
+    </TreeNode>
+    <TreeNode Title="C10B57/08 #物料的非机械预处理" Target="frmContent" Href="../searchservlet?query=C10B57/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B57/08">
+      <TreeNode Title="C10B57/10 ##干燥" Target="frmContent" Href="../searchservlet?query=C10B57/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B57/10"/>
+    </TreeNode>
+    <TreeNode Title="C10B57/12 #焦化期间使用添加剂" Target="frmContent" Href="../searchservlet?query=C10B57/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B57/12"/>
+    <TreeNode Title="C10B57/14 #低温碳化工艺过程的特征" Target="frmContent" Href="../searchservlet?query=C10B57/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B57/14"/>
+    <TreeNode Title="C10B57/16 #高温碳化工艺过程的特征" Target="frmContent" Href="../searchservlet?query=C10B57/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B57/16"/>
+    <TreeNode Title="C10B57/18 #炉中干馏气性能的改良" Target="frmContent" Href="../searchservlet?query=C10B57/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10B57/18"/>
+  </TreeNode>
+</Root>

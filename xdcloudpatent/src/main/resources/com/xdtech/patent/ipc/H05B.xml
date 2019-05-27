@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="H05B1/00 电热装置的零部件" Target="frmContent" Href="../searchservlet?query=H05B1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B1/00">
+    <TreeNode Title="H05B1/02 #专用于加热设备的自动开关装置(一般温度控制入G05D 23/00；热致动开关入H01H 37/00)" Target="frmContent" Href="../searchservlet?query=H05B1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B1/02"/>
+  </TreeNode>
+  <TreeNode Title="H05B3/00 欧姆电阻加热的" Target="frmContent" Href="../searchservlet?query=H05B3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B3/00">
+    <TreeNode Title="H05B3/02 #零部件" Target="frmContent" Href="../searchservlet?query=H05B3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B3/02">
+      <TreeNode Title="H05B3/03 ##电极(矿石的电热处理入C22B 4/00)[2]" Target="frmContent" Href="../searchservlet?query=H05B3/03&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B3/03"/>
+      <TreeNode Title="H05B3/04 ##电热器的防水或气密" Target="frmContent" Href="../searchservlet?query=H05B3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B3/04"/>
+      <TreeNode Title="H05B3/06 ##在结构上与耦合元件或者与支承物相结合的加热器元件" Target="frmContent" Href="../searchservlet?query=H05B3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B3/06">
+        <TreeNode Title="H05B3/08 ###具有专门适用于高温的电连接体的" Target="frmContent" Href="../searchservlet?query=H05B3/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B3/08"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="H05B3/10 #以材料的成分或性质为特征或者以导体的配置为特征的加热元件(成分本身见有关小类)" Target="frmContent" Href="../searchservlet?query=H05B3/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B3/10">
+      <TreeNode Title="H05B3/12 ##以导电材料的成分或性质为特征的" Target="frmContent" Href="../searchservlet?query=H05B3/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B3/12">
+        <TreeNode Title="H05B3/14 ###其材料是非金属的" Target="frmContent" Href="../searchservlet?query=H05B3/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B3/14"/>
+      </TreeNode>
+      <TreeNode Title="H05B3/16 ##该导体是安装在绝缘基座上的" Target="frmContent" Href="../searchservlet?query=H05B3/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B3/16"/>
+      <TreeNode Title="H05B3/18 ##该导体是被嵌入绝缘材料内的" Target="frmContent" Href="../searchservlet?query=H05B3/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B3/18"/>
+    </TreeNode>
+    <TreeNode Title="H05B3/20 #基本上在一个二维平面内扩展表面积的加热元件，例如平板电热器(H05B 3/62，H05B 3/68，H05B 3/78，H05B 3/84优先)[5]" Target="frmContent" Href="../searchservlet?query=H05B3/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B3/20">
+      <TreeNode Title="H05B3/22 ##不可弯曲的" Target="frmContent" Href="../searchservlet?query=H05B3/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B3/22">
+        <TreeNode Title="H05B3/24 ###加热导体为自支承的" Target="frmContent" Href="../searchservlet?query=H05B3/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B3/24"/>
+        <TreeNode Title="H05B3/26 ###加热导体安装在绝缘基座上的" Target="frmContent" Href="../searchservlet?query=H05B3/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B3/26"/>
+        <TreeNode Title="H05B3/28 ###加热导体嵌入绝缘材料内的" Target="frmContent" Href="../searchservlet?query=H05B3/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B3/28">
+          <TreeNode Title="H05B3/30 ####在金属板上或金属板之间的" Target="frmContent" Href="../searchservlet?query=H05B3/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B3/30"/>
+        </TreeNode>
+        <TreeNode Title="H05B3/32 ###加热导体安装在一个金属框架上的绝缘体上的" Target="frmContent" Href="../searchservlet?query=H05B3/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B3/32"/>
+      </TreeNode>
+      <TreeNode Title="H05B3/34 ##可弯曲的，例如,加热网或加热片" Target="frmContent" Href="../searchservlet?query=H05B3/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B3/34">
+        <TreeNode Title="H05B3/36 ###加热导体嵌入绝缘材料内的" Target="frmContent" Href="../searchservlet?query=H05B3/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B3/36">
+          <TreeNode Title="H05B3/38 ####粉末导体" Target="frmContent" Href="../searchservlet?query=H05B3/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B3/38"/>
+        </TreeNode>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="H05B3/40 #棒状或管状的加热元件(H05B 3/62，H05B 3/68，H05B 3/78优先)" Target="frmContent" Href="../searchservlet?query=H05B3/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B3/40">
+      <TreeNode Title="H05B3/42 ##不可弯曲的" Target="frmContent" Href="../searchservlet?query=H05B3/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B3/42">
+        <TreeNode Title="H05B3/44 ###加热导体装在绝缘棒或绝缘管内的" Target="frmContent" Href="../searchservlet?query=H05B3/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B3/44"/>
+        <TreeNode Title="H05B3/46 ###加热导体装在绝缘基座上的" Target="frmContent" Href="../searchservlet?query=H05B3/46&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B3/46"/>
+        <TreeNode Title="H05B3/48 ###加热导体嵌入绝缘材料内的" Target="frmContent" Href="../searchservlet?query=H05B3/48&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B3/48">
+          <TreeNode Title="H05B3/50 ####加热导体装在金属管内，其散热表面上有散热片" Target="frmContent" Href="../searchservlet?query=H05B3/50&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B3/50"/>
+          <TreeNode Title="H05B3/52 ####用于向管内填充或压入绝缘材料的设备或方法" Target="frmContent" Href="../searchservlet?query=H05B3/52&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B3/52"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="H05B3/54 ##可弯曲的" Target="frmContent" Href="../searchservlet?query=H05B3/54&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B3/54">
+        <TreeNode Title="H05B3/56 ###加热电缆" Target="frmContent" Href="../searchservlet?query=H05B3/56&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B3/56"/>
+        <TreeNode Title="H05B3/58 ###加热软管；加热套环" Target="frmContent" Href="../searchservlet?query=H05B3/58&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B3/58"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="H05B3/60 #其中加热电流流过颗粒状材料、粉末材料或流体材料的电热装置，例如，用于盐浴炉、电解加热的(H05B 3/38优先)" Target="frmContent" Href="../searchservlet?query=H05B3/60&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B3/60"/>
+    <TreeNode Title="H05B3/62 #专门适用于炉子的电热元件(H05B 3/60优先；这种元件在炉中的配置入F27，例如F27D 11/00)" Target="frmContent" Href="../searchservlet?query=H05B3/62&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B3/62">
+      <TreeNode Title="H05B3/64 ##使用带状、棒状、或线状发热体的" Target="frmContent" Href="../searchservlet?query=H05B3/64&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B3/64"/>
+      <TreeNode Title="H05B3/66 ##炉壁或炉顶内或其上的发热体的支承物或安装件" Target="frmContent" Href="../searchservlet?query=H05B3/66&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B3/66"/>
+    </TreeNode>
+    <TreeNode Title="H05B3/68 #专门适用于烹饪烘烤板或类似加热板的加热装置" Target="frmContent" Href="../searchservlet?query=H05B3/68&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B3/68">
+      <TreeNode Title="H05B3/70 ##铸造金属加热板" Target="frmContent" Href="../searchservlet?query=H05B3/70&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B3/70"/>
+      <TreeNode Title="H05B3/72 ##薄片金属加热板" Target="frmContent" Href="../searchservlet?query=H05B3/72&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B3/72"/>
+      <TreeNode Title="H05B3/74 ##非金属加热板" Target="frmContent" Href="../searchservlet?query=H05B3/74&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B3/74"/>
+      <TreeNode Title="H05B3/76 ##具有绕成螺旋形加热管的加热板" Target="frmContent" Href="../searchservlet?query=H05B3/76&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B3/76"/>
+    </TreeNode>
+    <TreeNode Title="H05B3/78 #专门适用于浸没式加热的加热装置" Target="frmContent" Href="../searchservlet?query=H05B3/78&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B3/78">
+      <TreeNode Title="H05B3/80 ##便携型浸没式发热体" Target="frmContent" Href="../searchservlet?query=H05B3/80&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B3/80"/>
+      <TreeNode Title="H05B3/82 ##固定安装型浸没式加热体" Target="frmContent" Href="../searchservlet?query=H05B3/82&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B3/82"/>
+    </TreeNode>
+    <TreeNode Title="H05B3/84 #专用于透明面或反射面的加热装置，例如用于对窗户、镜子或车辆风挡玻璃进行除雾或防止结冰的[5]" Target="frmContent" Href="../searchservlet?query=H05B3/84&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B3/84">
+      <TreeNode Title="H05B3/86 ##加热导体为嵌入透明或反射材料中的[5]" Target="frmContent" Href="../searchservlet?query=H05B3/86&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B3/86"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="H05B6/00 通过电场、磁场或电磁场加热的(用于医疗的入A61N 5/00；通过加热塑料或塑态物质将预制部件进行连接的入B29C 65/02)[3]" Target="frmContent" Href="../searchservlet?query=H05B6/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B6/00">
+    <TreeNode Title="H05B6/02 #感应加热[3]" Target="frmContent" Href="../searchservlet?query=H05B6/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B6/02">
+      <TreeNode Title="H05B6/04 ##电流源[3]" Target="frmContent" Href="../searchservlet?query=H05B6/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B6/04"/>
+      <TreeNode Title="H05B6/06 ##控制，例如温度控制、电源控制[3]" Target="frmContent" Href="../searchservlet?query=H05B6/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B6/06">
+        <TreeNode Title="H05B6/08 ###应用补偿定置或平衡装置的[3]" Target="frmContent" Href="../searchservlet?query=H05B6/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B6/08"/>
+      </TreeNode>
+      <TreeNode Title="H05B6/10 ##除炉子外特殊用途的感应加热设备[3]" Target="frmContent" Href="../searchservlet?query=H05B6/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B6/10">
+        <TreeNode Title="H05B6/12 ###烹调设备[3]" Target="frmContent" Href="../searchservlet?query=H05B6/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B6/12"/>
+        <TreeNode Title="H05B6/14 ###用具，例如喷嘴，轧辊、轮压机[3]" Target="frmContent" Href="../searchservlet?query=H05B6/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B6/14"/>
+      </TreeNode>
+      <TreeNode Title="H05B6/16 ##有环状芯的炉子(H05B 6/34优先)[3]" Target="frmContent" Href="../searchservlet?query=H05B6/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B6/16">
+        <TreeNode Title="H05B6/18 ###有熔缸的[3]" Target="frmContent" Href="../searchservlet?query=H05B6/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B6/18"/>
+        <TreeNode Title="H05B6/20 ###只有熔化槽的[3]" Target="frmContent" Href="../searchservlet?query=H05B6/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B6/20"/>
+      </TreeNode>
+      <TreeNode Title="H05B6/22 ##没有环状芯的炉子(H05B 6/34优先)[3]" Target="frmContent" Href="../searchservlet?query=H05B6/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B6/22">
+        <TreeNode Title="H05B6/24 ###坩埚炉(H05B 6/30优先)[3]" Target="frmContent" Href="../searchservlet?query=H05B6/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B6/24">
+          <TreeNode Title="H05B6/26 ####应用真空的或特殊气体环境的[3]" Target="frmContent" Href="../searchservlet?query=H05B6/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B6/26"/>
+          <TreeNode Title="H05B6/28 ####保护系统[3]" Target="frmContent" Href="../searchservlet?query=H05B6/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B6/28"/>
+        </TreeNode>
+        <TreeNode Title="H05B6/30 ###用于再熔化或区域熔化的装置[3]" Target="frmContent" Href="../searchservlet?query=H05B6/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B6/30"/>
+        <TreeNode Title="H05B6/32 ###用于在悬浮的同时进行加热的装置[3]" Target="frmContent" Href="../searchservlet?query=H05B6/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B6/32"/>
+      </TreeNode>
+      <TreeNode Title="H05B6/34 ##用于循环熔化的装置[3]" Target="frmContent" Href="../searchservlet?query=H05B6/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B6/34"/>
+      <TreeNode Title="H05B6/36 ##线圈装置[3]" Target="frmContent" Href="../searchservlet?query=H05B6/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B6/36">
+        <TreeNode Title="H05B6/38 ###专门适用于装入工件中空部分的[3]" Target="frmContent" Href="../searchservlet?query=H05B6/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B6/38"/>
+        <TreeNode Title="H05B6/40 ###建立所需的热分布，例如加热工件的特别部分[3]" Target="frmContent" Href="../searchservlet?query=H05B6/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B6/40"/>
+        <TreeNode Title="H05B6/42 ###线圈的冷却[3]" Target="frmContent" Href="../searchservlet?query=H05B6/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B6/42"/>
+        <TreeNode Title="H05B6/44 ###具有多个线圈或线圈段的[3]" Target="frmContent" Href="../searchservlet?query=H05B6/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B6/44"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="H05B6/46 #介电加热(H05B 6/64优先)[3]" Target="frmContent" Href="../searchservlet?query=H05B6/46&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B6/46">
+      <TreeNode Title="H05B6/48 ##电路[3]" Target="frmContent" Href="../searchservlet?query=H05B6/48&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B6/48">
+        <TreeNode Title="H05B6/50 ###用于监测或控制的[3]" Target="frmContent" Href="../searchservlet?query=H05B6/50&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B6/50"/>
+      </TreeNode>
+      <TreeNode Title="H05B6/52 ##馈电线[3]" Target="frmContent" Href="../searchservlet?query=H05B6/52&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B6/52"/>
+      <TreeNode Title="H05B6/54 ##电极[3]" Target="frmContent" Href="../searchservlet?query=H05B6/54&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B6/54">
+        <TreeNode Title="H05B6/56 ###滚动电极[3]" Target="frmContent" Href="../searchservlet?query=H05B6/56&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B6/56"/>
+        <TreeNode Title="H05B6/58 ###“缝纫机”型的[3]" Target="frmContent" Href="../searchservlet?query=H05B6/58&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B6/58"/>
+      </TreeNode>
+      <TreeNode Title="H05B6/60 ##用于连续移动材料的装置[3]" Target="frmContent" Href="../searchservlet?query=H05B6/60&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B6/60"/>
+      <TreeNode Title="H05B6/62 ##用于特定应用的设备[3]" Target="frmContent" Href="../searchservlet?query=H05B6/62&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B6/62"/>
+    </TreeNode>
+    <TreeNode Title="H05B6/64 #微波加热[3]" Target="frmContent" Href="../searchservlet?query=H05B6/64&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B6/64">
+      <TreeNode Title="H05B6/66 ##电路[3]" Target="frmContent" Href="../searchservlet?query=H05B6/66&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B6/66">
+        <TreeNode Title="H05B6/68 ###用于监测或控制的[3]" Target="frmContent" Href="../searchservlet?query=H05B6/68&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B6/68"/>
+      </TreeNode>
+      <TreeNode Title="H05B6/70 ##馈电线[3]" Target="frmContent" Href="../searchservlet?query=H05B6/70&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B6/70"/>
+      <TreeNode Title="H05B6/72 ##辐射器或天线[3]" Target="frmContent" Href="../searchservlet?query=H05B6/72&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B6/72"/>
+      <TreeNode Title="H05B6/74 ##模式变换器或模式搅拌器[3]" Target="frmContent" Href="../searchservlet?query=H05B6/74&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B6/74"/>
+      <TreeNode Title="H05B6/76 ##防止微波泄漏的，例如门密封[3]" Target="frmContent" Href="../searchservlet?query=H05B6/76&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B6/76"/>
+      <TreeNode Title="H05B6/78 ##用于连续移动材料的装置[3]" Target="frmContent" Href="../searchservlet?query=H05B6/78&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B6/78"/>
+      <TreeNode Title="H05B6/80 ##用于特定应用的设备(炉子或其配置入F24C 7/02)[3]" Target="frmContent" Href="../searchservlet?query=H05B6/80&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B6/80"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="H05B7/00 通过放电加热的(用于物体局部处理的电子束管或离子束管入H01J 37/30；等离子体焊枪入H05H 1/26)" Target="frmContent" Href="../searchservlet?query=H05B7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B7/00">
+    <TreeNode Title="H05B7/02 #零部件" Target="frmContent" Href="../searchservlet?query=H05B7/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B7/02">
+      <TreeNode Title="H05B7/06 ##电极" Target="frmContent" Href="../searchservlet?query=H05B7/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B7/06">
+        <TreeNode Title="H05B7/07 ###设计成使用时要熔化的[2]" Target="frmContent" Href="../searchservlet?query=H05B7/07&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B7/07"/>
+        <TreeNode Title="H05B7/08 ###非消耗的[2]" Target="frmContent" Href="../searchservlet?query=H05B7/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B7/08">
+          <TreeNode Title="H05B7/085 ####主要由碳组成的[2]" Target="frmContent" Href="../searchservlet?query=H05B7/085&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B7/085">
+            <TreeNode Title="H05B7/09 #####自焙电极[2]" Target="frmContent" Href="../searchservlet?query=H05B7/09&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B7/09"/>
+          </TreeNode>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="H05B7/10 ##用于电极馈进或导引的固定件、支承件、端接头或装置[2]" Target="frmContent" Href="../searchservlet?query=H05B7/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B7/10">
+        <TreeNode Title="H05B7/101 ###在电极顶部上的，即在远离电弧的一端上的固定件、支承件或端接头[2]" Target="frmContent" Href="../searchservlet?query=H05B7/101&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B7/101">
+          <TreeNode Title="H05B7/102 ####专门适用于可耗尽型电极的[2]" Target="frmContent" Href="../searchservlet?query=H05B7/102&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B7/102"/>
+        </TreeNode>
+        <TreeNode Title="H05B7/103 ###有夹具的固定件、支承件、或端接头(H05B 7/101优先)[2]" Target="frmContent" Href="../searchservlet?query=H05B7/103&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B7/103">
+          <TreeNode Title="H05B7/105 ####包含有多于两个沿圆周等间距分布的夹具的，例如，环形电极夹[2]" Target="frmContent" Href="../searchservlet?query=H05B7/105&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B7/105"/>
+        </TreeNode>
+        <TreeNode Title="H05B7/107 ###专门适用于自焙电极的[2]" Target="frmContent" Href="../searchservlet?query=H05B7/107&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B7/107"/>
+        <TreeNode Title="H05B7/109 ###馈进装置(H05B 7/107优先；其电极的移动是用于电源自动控制闭环的一部分的入H05B 7/148)[2]" Target="frmContent" Href="../searchservlet?query=H05B7/109&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B7/109"/>
+      </TreeNode>
+      <TreeNode Title="H05B7/11 ##用于将电流导向电极端接头的装置(一般非绝缘体或导电体入H01B 5/00；一般绝缘导体或电缆入H01B 7/00)[2]" Target="frmContent" Href="../searchservlet?query=H05B7/11&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B7/11"/>
+      <TreeNode Title="H05B7/12 ##用于电极的冷却、密封或保护的装置[2]" Target="frmContent" Href="../searchservlet?query=H05B7/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B7/12"/>
+      <TreeNode Title="H05B7/14 ##用于连接接续电极端的装置或方法[2]" Target="frmContent" Href="../searchservlet?query=H05B7/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B7/14"/>
+      <TreeNode Title="H05B7/144 ##专门适用于放电加热的电源；电源的自动控制，例如，通过电极的定位进行自动控制的(一般供电电路装置入H02J)[2]" Target="frmContent" Href="../searchservlet?query=H05B7/144&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B7/144">
+        <TreeNode Title="H05B7/148 ###电源的自动控制(电极馈进装置入H05B 7/109；用于点焊或缝焊或切割的电极的自动馈进入B23K 9/12；在炉内或炉上电极的配置入F27D 11/10；一般位置控制入G05D 3/00；一般调整电弧电性能的入G05F 1/02；一般电源调节入G05F 1/66)[2]" Target="frmContent" Href="../searchservlet?query=H05B7/148&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B7/148">
+          <TreeNode Title="H05B7/152 ####通过机电方法进行电极定位的[2]" Target="frmContent" Href="../searchservlet?query=H05B7/152&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B7/152"/>
+          <TreeNode Title="H05B7/156 ####通过液压或气动方法进行电极定位的[2]" Target="frmContent" Href="../searchservlet?query=H05B7/156&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B7/156"/>
+        </TreeNode>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="H05B7/16 #辉光放电加热的" Target="frmContent" Href="../searchservlet?query=H05B7/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B7/16"/>
+    <TreeNode Title="H05B7/18 #弧光放电加热的" Target="frmContent" Href="../searchservlet?query=H05B7/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B7/18">
+      <TreeNode Title="H05B7/20 ##通过弧光放电直接加热的，即至少其电弧的一端直接作用在被加热的材料上，包括由流过被加热材料的电弧电流进行附加电阻加热的[2]" Target="frmContent" Href="../searchservlet?query=H05B7/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B7/20"/>
+      <TreeNode Title="H05B7/22 ##通过弧光放电间接加热的[2]" Target="frmContent" Href="../searchservlet?query=H05B7/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B7/22"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="H05B11/00 联合应用H05B 3/00至H05B 7/00各组中两个组或更多个组的方法进行加热(H05B 7/20优先)" Target="frmContent" Href="../searchservlet?query=H05B11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B11/00"/>
+  <TreeNode Title="H05B31/00 电弧灯(电弧电性能的调节入G05F 1/02；有非消耗型电极的入H01J 61/00)" Target="frmContent" Href="../searchservlet?query=H05B31/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B31/00">
+    <TreeNode Title="H05B31/02 #零部件" Target="frmContent" Href="../searchservlet?query=H05B31/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B31/02">
+      <TreeNode Title="H05B31/04 ##罩" Target="frmContent" Href="../searchservlet?query=H05B31/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B31/04"/>
+      <TreeNode Title="H05B31/06 ##电极" Target="frmContent" Href="../searchservlet?query=H05B31/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B31/06">
+        <TreeNode Title="H05B31/08 ###碳电极" Target="frmContent" Href="../searchservlet?query=H05B31/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B31/08">
+          <TreeNode Title="H05B31/10 ####碳芯电极" Target="frmContent" Href="../searchservlet?query=H05B31/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B31/10"/>
+          <TreeNode Title="H05B31/12 ####贝克效应电极" Target="frmContent" Href="../searchservlet?query=H05B31/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B31/12"/>
+        </TreeNode>
+        <TreeNode Title="H05B31/14 ###金属电极" Target="frmContent" Href="../searchservlet?query=H05B31/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B31/14"/>
+        <TreeNode Title="H05B31/16 ###专门适用于制造电极的设备或方法" Target="frmContent" Href="../searchservlet?query=H05B31/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B31/16"/>
+      </TreeNode>
+      <TreeNode Title="H05B31/18 ##电极的安装件；电极馈进装置" Target="frmContent" Href="../searchservlet?query=H05B31/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B31/18">
+        <TreeNode Title="H05B31/20 ###用于电极的馈进的机械装置" Target="frmContent" Href="../searchservlet?query=H05B31/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B31/20"/>
+        <TreeNode Title="H05B31/22 ###用于电极馈进的电磁装置" Target="frmContent" Href="../searchservlet?query=H05B31/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B31/22"/>
+      </TreeNode>
+      <TreeNode Title="H05B31/24 ##冷却装置" Target="frmContent" Href="../searchservlet?query=H05B31/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B31/24"/>
+      <TreeNode Title="H05B31/26 ##用吹气装置改变电弧放电形状" Target="frmContent" Href="../searchservlet?query=H05B31/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B31/26"/>
+      <TreeNode Title="H05B31/28 ##用磁性装置改变电弧放电形状" Target="frmContent" Href="../searchservlet?query=H05B31/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B31/28"/>
+      <TreeNode Title="H05B31/30 ##起动；点火" Target="frmContent" Href="../searchservlet?query=H05B31/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B31/30"/>
+      <TreeNode Title="H05B31/32 ##切断" Target="frmContent" Href="../searchservlet?query=H05B31/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B31/32"/>
+      <TreeNode Title="H05B31/34 ##指示电极消耗情况" Target="frmContent" Href="../searchservlet?query=H05B31/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B31/34"/>
+    </TreeNode>
+    <TreeNode Title="H05B31/36 #有两个成直线排列的电极的" Target="frmContent" Href="../searchservlet?query=H05B31/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B31/36">
+      <TreeNode Title="H05B31/38 ##专门适用于交流电的" Target="frmContent" Href="../searchservlet?query=H05B31/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B31/38"/>
+    </TreeNode>
+    <TreeNode Title="H05B31/40 #有两个成角度排列的电极的" Target="frmContent" Href="../searchservlet?query=H05B31/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B31/40">
+      <TreeNode Title="H05B31/42 ##专门适用于交流电的" Target="frmContent" Href="../searchservlet?query=H05B31/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B31/42"/>
+    </TreeNode>
+    <TreeNode Title="H05B31/44 #有两个平行电极的" Target="frmContent" Href="../searchservlet?query=H05B31/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B31/44">
+      <TreeNode Title="H05B31/46 ##专门适用于交流电的" Target="frmContent" Href="../searchservlet?query=H05B31/46&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B31/46"/>
+    </TreeNode>
+    <TreeNode Title="H05B31/48 #有多于两个电极的" Target="frmContent" Href="../searchservlet?query=H05B31/48&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B31/48">
+      <TreeNode Title="H05B31/50 ##专门适用于交流电的" Target="frmContent" Href="../searchservlet?query=H05B31/50&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B31/50">
+        <TreeNode Title="H05B31/52 ###从不同相电源供电的电极" Target="frmContent" Href="../searchservlet?query=H05B31/52&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B31/52"/>
+      </TreeNode>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="H05B33/00 电致发光光源(放电灯入H01J 61/00至H01J 65/00；专门适用于光发射的、至少有一个特定跃变势垒或表面势垒的半导体器件入H01L 27/15，H01L 33/00；有机光发射器件入H01L 27/32，H01L 51/50；激光器入H01S 3/00，H01S 5/00；组成成分本身见有关小类)[1，8]" Target="frmContent" Href="../searchservlet?query=H05B33/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B33/00">
+    <TreeNode Title="H05B33/02 #零部件" Target="frmContent" Href="../searchservlet?query=H05B33/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B33/02">
+      <TreeNode Title="H05B33/04 ##密封装置" Target="frmContent" Href="../searchservlet?query=H05B33/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B33/04"/>
+      <TreeNode Title="H05B33/06 ##电极端接头" Target="frmContent" Href="../searchservlet?query=H05B33/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B33/06"/>
+      <TreeNode Title="H05B33/08 ##并非适用于一种特殊应用的电路装置" Target="frmContent" Href="../searchservlet?query=H05B33/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B33/08"/>
+    </TreeNode>
+    <TreeNode Title="H05B33/10 #专门适用于制造电致发光光源的设备或方法" Target="frmContent" Href="../searchservlet?query=H05B33/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B33/10"/>
+    <TreeNode Title="H05B33/12 #实质上有二维辐射表面的光源" Target="frmContent" Href="../searchservlet?query=H05B33/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B33/12">
+      <TreeNode Title="H05B33/14 ##以电致发光材料的化学成分或物理组成或其配置为特征的" Target="frmContent" Href="../searchservlet?query=H05B33/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B33/14"/>
+      <TreeNode Title="H05B33/18 ##以其激活剂的性质或浓度为特征的" Target="frmContent" Href="../searchservlet?query=H05B33/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B33/18"/>
+      <TreeNode Title="H05B33/20 ##以嵌入电致发光材料的原料的化学成分或物理组成或其配置为特征的" Target="frmContent" Href="../searchservlet?query=H05B33/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B33/20"/>
+      <TreeNode Title="H05B33/22 ##以辅助介电层或反射层的化学成分或物理组成或其配置为特征的" Target="frmContent" Href="../searchservlet?query=H05B33/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B33/22">
+        <TreeNode Title="H05B33/24 ###金属反射层的(H05B 33/26优先)" Target="frmContent" Href="../searchservlet?query=H05B33/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B33/24"/>
+      </TreeNode>
+      <TreeNode Title="H05B33/26 ##以用作电极的导电材料的成分或配置为特征的" Target="frmContent" Href="../searchservlet?query=H05B33/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B33/26">
+        <TreeNode Title="H05B33/28 ###半透明电极的" Target="frmContent" Href="../searchservlet?query=H05B33/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B33/28"/>
+      </TreeNode>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="H05B35/00 应用不同的发光类型相互组合的电光源" Target="frmContent" Href="../searchservlet?query=H05B35/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B35/00"/>
+  <TreeNode Title="H05B37/00 用于一般电光源的电路装置" Target="frmContent" Href="../searchservlet?query=H05B37/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B37/00">
+    <TreeNode Title="H05B37/02 #控制" Target="frmContent" Href="../searchservlet?query=H05B37/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B37/02"/>
+    <TreeNode Title="H05B37/03 #灯故障的检测" Target="frmContent" Href="../searchservlet?query=H05B37/03&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B37/03">
+      <TreeNode Title="H05B37/04 ##在灯出现故障的情况下提供代用光源的电路" Target="frmContent" Href="../searchservlet?query=H05B37/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B37/04"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="H05B39/00 用于操纵白炽光源的，但并非用于一种特殊用途的电路装置或设备" Target="frmContent" Href="../searchservlet?query=H05B39/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B39/00">
+    <TreeNode Title="H05B39/02 #开启，例如，以预定速率增大点灯电流的" Target="frmContent" Href="../searchservlet?query=H05B39/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B39/02"/>
+    <TreeNode Title="H05B39/04 #控制" Target="frmContent" Href="../searchservlet?query=H05B39/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B39/04">
+      <TreeNode Title="H05B39/06 ##切换装置，例如，从串联工作换到并联工作" Target="frmContent" Href="../searchservlet?query=H05B39/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B39/06"/>
+      <TreeNode Title="H05B39/08 ##通过加给充气控制管的触发电压的相移进行控制的" Target="frmContent" Href="../searchservlet?query=H05B39/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B39/08"/>
+    </TreeNode>
+    <TreeNode Title="H05B39/09 #其中用脉冲对灯馈电的" Target="frmContent" Href="../searchservlet?query=H05B39/09&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B39/09"/>
+    <TreeNode Title="H05B39/10 #在灯出现故障的情况下提供代用光源的电路" Target="frmContent" Href="../searchservlet?query=H05B39/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B39/10"/>
+  </TreeNode>
+  <TreeNode Title="H05B41/00 用于放电灯点火或控制的电路装置或设备" Target="frmContent" Href="../searchservlet?query=H05B41/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B41/00">
+    <TreeNode Title="H05B41/02 #零部件" Target="frmContent" Href="../searchservlet?query=H05B41/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B41/02">
+      <TreeNode Title="H05B41/04 ##启动开关" Target="frmContent" Href="../searchservlet?query=H05B41/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B41/04">
+        <TreeNode Title="H05B41/06 ###仅由热启动的" Target="frmContent" Href="../searchservlet?query=H05B41/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B41/06">
+          <TreeNode Title="H05B41/08 ####通过辉光放电加热的" Target="frmContent" Href="../searchservlet?query=H05B41/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B41/08"/>
+        </TreeNode>
+        <TreeNode Title="H05B41/10 ###仅由磁启动的" Target="frmContent" Href="../searchservlet?query=H05B41/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B41/10"/>
+        <TreeNode Title="H05B41/12 ###由热和磁联合启动的" Target="frmContent" Href="../searchservlet?query=H05B41/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B41/12"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="H05B41/14 #电路装置" Target="frmContent" Href="../searchservlet?query=H05B41/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B41/14">
+      <TreeNode Title="H05B41/16 ##其中通过直流电或通过低频交流，如每秒50周的交流电对灯供电的(H05B 41/26优先)" Target="frmContent" Href="../searchservlet?query=H05B41/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B41/16">
+        <TreeNode Title="H05B41/18 ###有启动开关的" Target="frmContent" Href="../searchservlet?query=H05B41/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B41/18">
+          <TreeNode Title="H05B41/19 ####用于有一个辅助启动电极的灯的" Target="frmContent" Href="../searchservlet?query=H05B41/19&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B41/19"/>
+        </TreeNode>
+        <TreeNode Title="H05B41/20 ###没有启动开关的" Target="frmContent" Href="../searchservlet?query=H05B41/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B41/20">
+          <TreeNode Title="H05B41/22 ####用于有一个辅助启动电极的灯的" Target="frmContent" Href="../searchservlet?query=H05B41/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B41/22"/>
+          <TreeNode Title="H05B41/23 ####用于无辅助启动电极的灯的" Target="frmContent" Href="../searchservlet?query=H05B41/23&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B41/23">
+            <TreeNode Title="H05B41/231 #####用于高压灯的" Target="frmContent" Href="../searchservlet?query=H05B41/231&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B41/231"/>
+            <TreeNode Title="H05B41/232 #####用于低压灯的" Target="frmContent" Href="../searchservlet?query=H05B41/232&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B41/232">
+              <TreeNode Title="H05B41/233 ######应用谐振电路的" Target="frmContent" Href="../searchservlet?query=H05B41/233&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B41/233"/>
+              <TreeNode Title="H05B41/234 ######用以消除频闪效应的，例如以不同相位对两个灯进行供电的" Target="frmContent" Href="../searchservlet?query=H05B41/234&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B41/234"/>
+            </TreeNode>
+          </TreeNode>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="H05B41/24 ##其中通过高频交流电对灯供电的(H05B 41/26优先)" Target="frmContent" Href="../searchservlet?query=H05B41/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B41/24"/>
+      <TreeNode Title="H05B41/26 ##其中通过利用转换器由直流所产生的功率对灯供电的，例如通过高压直流电" Target="frmContent" Href="../searchservlet?query=H05B41/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B41/26">
+        <TreeNode Title="H05B41/28 ###应用静态转换器的" Target="frmContent" Href="../searchservlet?query=H05B41/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B41/28">
+          <TreeNode Title="H05B41/282 ####带有半导体器件的(H05B 41/288，H05B 41/295优先)[7]" Target="frmContent" Href="../searchservlet?query=H05B41/282&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B41/282">
+            <TreeNode Title="H05B41/285 #####用于保护灯或电路防止异常操作状况的装置[7]" Target="frmContent" Href="../searchservlet?query=H05B41/285&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B41/285"/>
+          </TreeNode>
+          <TreeNode Title="H05B41/288 ####带有半导体器件并特别适合于没有预热电极的灯，诸如高亮度放电灯、高压汞或钠灯或者低压钠灯[7]" Target="frmContent" Href="../searchservlet?query=H05B41/288&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B41/288">
+            <TreeNode Title="H05B41/292 #####用于保护灯或电路防止异常操作状态的装置[7]" Target="frmContent" Href="../searchservlet?query=H05B41/292&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B41/292"/>
+          </TreeNode>
+          <TreeNode Title="H05B41/295 ####带有半导体器件并特别适合于有预热电极的灯，例如荧光灯[7]" Target="frmContent" Href="../searchservlet?query=H05B41/295&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B41/295">
+            <TreeNode Title="H05B41/298 #####用于保护灯或电路防止异常操作状态的装置[7]" Target="frmContent" Href="../searchservlet?query=H05B41/298&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B41/298"/>
+          </TreeNode>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="H05B41/30 ##其中通过脉冲对灯供电的，例如闪光灯" Target="frmContent" Href="../searchservlet?query=H05B41/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B41/30">
+        <TreeNode Title="H05B41/32 ###用于单次闪光的" Target="frmContent" Href="../searchservlet?query=H05B41/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B41/32"/>
+        <TreeNode Title="H05B41/34 ###用以提供一系列闪光的" Target="frmContent" Href="../searchservlet?query=H05B41/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B41/34"/>
+      </TreeNode>
+      <TreeNode Title="H05B41/36 ##控制" Target="frmContent" Href="../searchservlet?query=H05B41/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B41/36">
+        <TreeNode Title="H05B41/38 ###控制灯光强度的" Target="frmContent" Href="../searchservlet?query=H05B41/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B41/38">
+          <TreeNode Title="H05B41/39 ####连续地" Target="frmContent" Href="../searchservlet?query=H05B41/39&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B41/39">
+            <TreeNode Title="H05B41/391 #####应用磁饱和器件的" Target="frmContent" Href="../searchservlet?query=H05B41/391&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B41/391"/>
+            <TreeNode Title="H05B41/392 #####应用半导体器件的，例如可控硅" Target="frmContent" Href="../searchservlet?query=H05B41/392&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B41/392"/>
+          </TreeNode>
+          <TreeNode Title="H05B41/40 ####不连续地" Target="frmContent" Href="../searchservlet?query=H05B41/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B41/40">
+            <TreeNode Title="H05B41/42 #####只用两步的" Target="frmContent" Href="../searchservlet?query=H05B41/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B41/42"/>
+          </TreeNode>
+        </TreeNode>
+        <TreeNode Title="H05B41/44 ###用于提供特别光学效果的，例如光的渐进运动" Target="frmContent" Href="../searchservlet?query=H05B41/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B41/44"/>
+      </TreeNode>
+      <TreeNode Title="H05B41/46 ##在灯出现故障的情况下提供替换的电路" Target="frmContent" Href="../searchservlet?query=H05B41/46&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B41/46"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="H05B43/00 其他类目不包含的光源的电路装置(H05B 37/00优先)" Target="frmContent" Href="../searchservlet?query=H05B43/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B43/00">
+    <TreeNode Title="H05B43/02 #用于使用装载有易燃材料的光源的" Target="frmContent" Href="../searchservlet?query=H05B43/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05B43/02"/>
+  </TreeNode>
+</Root>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="C10H1/00 以逐滴地、重力作用、非自动给水的乙炔发生器" Target="frmContent" Href="../searchservlet?query=C10H1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10H1/00">
+    <TreeNode Title="C10H1/02 #阀门" Target="frmContent" Href="../searchservlet?query=C10H1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10H1/02">
+      <TreeNode Title="C10H1/04 ##螺旋阀" Target="frmContent" Href="../searchservlet?query=C10H1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10H1/04"/>
+      <TreeNode Title="C10H1/06 ##旋塞" Target="frmContent" Href="../searchservlet?query=C10H1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10H1/06"/>
+    </TreeNode>
+    <TreeNode Title="C10H1/08 #其他控制给水的设施" Target="frmContent" Href="../searchservlet?query=C10H1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10H1/08"/>
+    <TreeNode Title="C10H1/10 #通过一个中心管或侧管从上部给水" Target="frmContent" Href="../searchservlet?query=C10H1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10H1/10"/>
+    <TreeNode Title="C10H1/12 #通过多孔材料独立从上部给水" Target="frmContent" Href="../searchservlet?query=C10H1/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10H1/12"/>
+  </TreeNode>
+  <TreeNode Title="C10H3/00 用不属储气罐的独立部件自动调节给水的乙炔发生器" Target="frmContent" Href="../searchservlet?query=C10H3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10H3/00">
+    <TreeNode Title="C10H3/02 #带隔膜的" Target="frmContent" Href="../searchservlet?query=C10H3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10H3/02"/>
+    <TreeNode Title="C10H3/04 #带浮筒的" Target="frmContent" Href="../searchservlet?query=C10H3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10H3/04"/>
+    <TreeNode Title="C10H3/06 #带活塞的" Target="frmContent" Href="../searchservlet?query=C10H3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10H3/06"/>
+  </TreeNode>
+  <TreeNode Title="C10H5/00 用储气罐自动调节给水的乙炔发生器" Target="frmContent" Href="../searchservlet?query=C10H5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10H5/00">
+    <TreeNode Title="C10H5/02 #带溢水流道的" Target="frmContent" Href="../searchservlet?query=C10H5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10H5/02"/>
+    <TreeNode Title="C10H5/04 #用与储气罐相连接的逐滴加水的阀" Target="frmContent" Href="../searchservlet?query=C10H5/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10H5/04">
+      <TreeNode Title="C10H5/06 ##用与储气罐相连接的逐滴加水的旋塞" Target="frmContent" Href="../searchservlet?query=C10H5/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10H5/06"/>
+    </TreeNode>
+    <TreeNode Title="C10H5/08 #带有与储气罐相连接的浸没式阀门或旋塞" Target="frmContent" Href="../searchservlet?query=C10H5/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10H5/08"/>
+  </TreeNode>
+  <TreeNode Title="C10H7/00 以基普氏原理给水的乙炔气发生器" Target="frmContent" Href="../searchservlet?query=C10H7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10H7/00">
+    <TreeNode Title="C10H7/02 #自下部给水" Target="frmContent" Href="../searchservlet?query=C10H7/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10H7/02"/>
+    <TreeNode Title="C10H7/04 #自上部给水" Target="frmContent" Href="../searchservlet?query=C10H7/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10H7/04"/>
+  </TreeNode>
+  <TreeNode Title="C10H9/00 按多伯林纳氏原理、装有固定式碳化钙装料斗的乙炔发生器" Target="frmContent" Href="../searchservlet?query=C10H9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10H9/00">
+    <TreeNode Title="C10H9/02 #通过多孔物质自下部给水(用毛细管给水)" Target="frmContent" Href="../searchservlet?query=C10H9/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10H9/02"/>
+    <TreeNode Title="C10H9/04 #由储气罐操纵的气体旋塞" Target="frmContent" Href="../searchservlet?query=C10H9/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10H9/04"/>
+    <TreeNode Title="C10H9/06 #以储气罐调节气体出口管的高度" Target="frmContent" Href="../searchservlet?query=C10H9/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10H9/06"/>
+    <TreeNode Title="C10H9/08 #带可移动的储气罐" Target="frmContent" Href="../searchservlet?query=C10H9/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10H9/08"/>
+    <TreeNode Title="C10H9/10 #仅在底部湿润碳化钙的" Target="frmContent" Href="../searchservlet?query=C10H9/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10H9/10"/>
+  </TreeNode>
+  <TreeNode Title="C10H11/00 碳化钙浸没于水中的乙炔气发生器" Target="frmContent" Href="../searchservlet?query=C10H11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10H11/00">
+    <TreeNode Title="C10H11/02 #在储气罐内部" Target="frmContent" Href="../searchservlet?query=C10H11/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10H11/02"/>
+    <TreeNode Title="C10H11/04 #密封水与反应水彼此分开的" Target="frmContent" Href="../searchservlet?query=C10H11/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10H11/04"/>
+  </TreeNode>
+  <TreeNode Title="C10H13/00 具有浸液式与逐滴加入式相结合的乙炔发生器" Target="frmContent" Href="../searchservlet?query=C10H13/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10H13/00"/>
+  <TreeNode Title="C10H15/00 带或不带气压调节碳化钙供料的乙炔发生器" Target="frmContent" Href="../searchservlet?query=C10H15/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10H15/00">
+    <TreeNode Title="C10H15/02 #非自动供给碳化钙" Target="frmContent" Href="../searchservlet?query=C10H15/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10H15/02">
+      <TreeNode Title="C10H15/04 ##装料斗上的关闭装置" Target="frmContent" Href="../searchservlet?query=C10H15/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10H15/04"/>
+    </TreeNode>
+    <TreeNode Title="C10H15/06 #以阀门自动供给碳化钙" Target="frmContent" Href="../searchservlet?query=C10H15/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10H15/06">
+      <TreeNode Title="C10H15/08 ##用闸阀或滑阀" Target="frmContent" Href="../searchservlet?query=C10H15/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10H15/08"/>
+      <TreeNode Title="C10H15/10 ##用浮阀" Target="frmContent" Href="../searchservlet?query=C10H15/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10H15/10"/>
+      <TreeNode Title="C10H15/12 ##用计量阀，包括星形轮" Target="frmContent" Href="../searchservlet?query=C10H15/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10H15/12"/>
+    </TreeNode>
+    <TreeNode Title="C10H15/14 #带进料螺杆或进料输送器" Target="frmContent" Href="../searchservlet?query=C10H15/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10H15/14"/>
+    <TreeNode Title="C10H15/16 #带进料鼓轮" Target="frmContent" Href="../searchservlet?query=C10H15/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10H15/16"/>
+    <TreeNode Title="C10H15/18 #带可移动的进料盘及固定的碳化钙容器" Target="frmContent" Href="../searchservlet?query=C10H15/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10H15/18"/>
+    <TreeNode Title="C10H15/20 #以筒或其他包装形式供给碳化钙" Target="frmContent" Href="../searchservlet?query=C10H15/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10H15/20"/>
+    <TreeNode Title="C10H15/22 #从贮罐或通过储气罐供给粉状碳化钙" Target="frmContent" Href="../searchservlet?query=C10H15/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10H15/22"/>
+    <TreeNode Title="C10H15/24 #用活塞供给碳化钙" Target="frmContent" Href="../searchservlet?query=C10H15/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10H15/24"/>
+  </TreeNode>
+  <TreeNode Title="C10H17/00 高压乙炔发生器" Target="frmContent" Href="../searchservlet?query=C10H17/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10H17/00"/>
+  <TreeNode Title="C10H19/00 其他乙炔发生器" Target="frmContent" Href="../searchservlet?query=C10H19/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10H19/00">
+    <TreeNode Title="C10H19/02 #转动的碳化钙贮罐" Target="frmContent" Href="../searchservlet?query=C10H19/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10H19/02"/>
+  </TreeNode>
+  <TreeNode Title="C10H21/00 乙炔发生器的零部件；湿法生产乙炔的附属设备或特征" Target="frmContent" Href="../searchservlet?query=C10H21/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10H21/00">
+    <TreeNode Title="C10H21/02 #用于发生器内的碳化钙的包装，如料筒" Target="frmContent" Href="../searchservlet?query=C10H21/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10H21/02">
+      <TreeNode Title="C10H21/04 ##将包装物放入发生器" Target="frmContent" Href="../searchservlet?query=C10H21/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10H21/04">
+        <TreeNode Title="C10H21/06 ###打开发生器内包装物的装置" Target="frmContent" Href="../searchservlet?query=C10H21/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10H21/06"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="C10H21/08 #乙炔发生器的安全装置" Target="frmContent" Href="../searchservlet?query=C10H21/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10H21/08"/>
+    <TreeNode Title="C10H21/10 #碳化钙组合物" Target="frmContent" Href="../searchservlet?query=C10H21/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10H21/10"/>
+    <TreeNode Title="C10H21/12 #气体密封装置，如发生器的液封" Target="frmContent" Href="../searchservlet?query=C10H21/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10H21/12"/>
+    <TreeNode Title="C10H21/14 #通风装置；冷却装置" Target="frmContent" Href="../searchservlet?query=C10H21/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10H21/14"/>
+    <TreeNode Title="C10H21/16 #从发生器去除残渣" Target="frmContent" Href="../searchservlet?query=C10H21/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10H21/16"/>
+  </TreeNode>
+</Root>

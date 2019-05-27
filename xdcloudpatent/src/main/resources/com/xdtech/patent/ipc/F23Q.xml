@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="F23Q1/00 机械点火(装有燃料的点火器入F23Q 2/00；火柴入C06F)" Target="frmContent" Href="../searchservlet?query=F23Q1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23Q1/00">
+    <TreeNode Title="F23Q1/02 #利用摩擦或冲击作用的" Target="frmContent" Href="../searchservlet?query=F23Q1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23Q1/02">
+      <TreeNode Title="F23Q1/04 ##作用在通过燃料控制元件带动的零件上，例如用煤气灶开关" Target="frmContent" Href="../searchservlet?query=F23Q1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23Q1/04"/>
+      <TreeNode Title="F23Q1/06 ##轻便点火器" Target="frmContent" Href="../searchservlet?query=F23Q1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23Q1/06"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="F23Q2/00 装有燃料的点火器，例如点烟用打火机" Target="frmContent" Href="../searchservlet?query=F23Q2/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23Q2/00">
+    <TreeNode Title="F23Q2/02 #液体燃料点火器" Target="frmContent" Href="../searchservlet?query=F23Q2/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23Q2/02">
+      <TreeNode Title="F23Q2/04 ##用铈铁合金和吸油绳的" Target="frmContent" Href="../searchservlet?query=F23Q2/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23Q2/04">
+        <TreeNode Title="F23Q2/06 ###使用摩擦轮的" Target="frmContent" Href="../searchservlet?query=F23Q2/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23Q2/06">
+          <TreeNode Title="F23Q2/08 ####借助盖上的弹力作用点火的" Target="frmContent" Href="../searchservlet?query=F23Q2/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23Q2/08"/>
+        </TreeNode>
+        <TreeNode Title="F23Q2/10 ###使用其他摩擦元件的" Target="frmContent" Href="../searchservlet?query=F23Q2/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23Q2/10"/>
+      </TreeNode>
+      <TreeNode Title="F23Q2/12 ##用铈铁合金而不用吸油绳的" Target="frmContent" Href="../searchservlet?query=F23Q2/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23Q2/12"/>
+      <TreeNode Title="F23Q2/14 ##用铈铁合金和借助触击或推擦点燃火舌的" Target="frmContent" Href="../searchservlet?query=F23Q2/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23Q2/14"/>
+    </TreeNode>
+    <TreeNode Title="F23Q2/16 #气体燃料点火器，例如以液态贮存的可燃气" Target="frmContent" Href="../searchservlet?query=F23Q2/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23Q2/16">
+      <TreeNode Title="F23Q2/167 ##火焰可调节的[3]" Target="frmContent" Href="../searchservlet?query=F23Q2/167&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23Q2/167">
+        <TreeNode Title="F23Q2/173 ###其所用阀门[3]" Target="frmContent" Href="../searchservlet?query=F23Q2/173&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23Q2/173"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="F23Q2/18 #固体燃料点火器" Target="frmContent" Href="../searchservlet?query=F23Q2/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23Q2/18">
+      <TreeNode Title="F23Q2/20 ##使用铈铁合金和摩擦轮的" Target="frmContent" Href="../searchservlet?query=F23Q2/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23Q2/20"/>
+      <TreeNode Title="F23Q2/22 ##使用铈铁合金和火绒的" Target="frmContent" Href="../searchservlet?query=F23Q2/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23Q2/22"/>
+      <TreeNode Title="F23Q2/24 ##使用有可燃成分的点火球或点火条的" Target="frmContent" Href="../searchservlet?query=F23Q2/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23Q2/24"/>
+      <TreeNode Title="F23Q2/26 ##和液体燃料点火器结合在一起的" Target="frmContent" Href="../searchservlet?query=F23Q2/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23Q2/26"/>
+    </TreeNode>
+    <TreeNode Title="F23Q2/28 #以电点燃料为特征的点火器" Target="frmContent" Href="../searchservlet?query=F23Q2/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23Q2/28"/>
+    <TreeNode Title="F23Q2/30 #以催化作用点燃燃料为特征的点火器" Target="frmContent" Href="../searchservlet?query=F23Q2/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23Q2/30"/>
+    <TreeNode Title="F23Q2/32 #与其他物体结合在一起为特征的点火器(与吸烟器具结合在一起的入A24F)" Target="frmContent" Href="../searchservlet?query=F23Q2/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23Q2/32"/>
+    <TreeNode Title="F23Q2/34 #零件或附件" Target="frmContent" Href="../searchservlet?query=F23Q2/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23Q2/34">
+      <TreeNode Title="F23Q2/36 ##外壳" Target="frmContent" Href="../searchservlet?query=F23Q2/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23Q2/36">
+        <TreeNode Title="F23Q2/38 ###有装火石或其他工具的容器" Target="frmContent" Href="../searchservlet?query=F23Q2/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23Q2/38"/>
+      </TreeNode>
+      <TreeNode Title="F23Q2/40 ##盖的紧固件" Target="frmContent" Href="../searchservlet?query=F23Q2/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23Q2/40"/>
+      <TreeNode Title="F23Q2/42 ##燃料容器；燃料容器的罩" Target="frmContent" Href="../searchservlet?query=F23Q2/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23Q2/42"/>
+      <TreeNode Title="F23Q2/44 ##吸油绳 ；吸油绳的导槽或紧固件" Target="frmContent" Href="../searchservlet?query=F23Q2/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23Q2/44"/>
+      <TreeNode Title="F23Q2/46 ##摩擦轮；摩擦轮的配置" Target="frmContent" Href="../searchservlet?query=F23Q2/46&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23Q2/46"/>
+      <TreeNode Title="F23Q2/48 ##火石(成分、制造入C06C 15/00)；火石导槽或火石的配置" Target="frmContent" Href="../searchservlet?query=F23Q2/48&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23Q2/48"/>
+      <TreeNode Title="F23Q2/50 ##防护罩" Target="frmContent" Href="../searchservlet?query=F23Q2/50&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23Q2/50"/>
+      <TreeNode Title="F23Q2/52 ##装填装置" Target="frmContent" Href="../searchservlet?query=F23Q2/52&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23Q2/52"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="F23Q3/00 利用电火花的点火(装有燃料的点火器入F23Q 2/28；火花塞入H01T 13/00)" Target="frmContent" Href="../searchservlet?query=F23Q3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23Q3/00">
+    <TreeNode Title="F23Q3/01 #手持点火器，例如吸烟用的" Target="frmContent" Href="../searchservlet?query=F23Q3/01&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23Q3/01"/>
+  </TreeNode>
+  <TreeNode Title="F23Q5/00 断续火花点火，即利用断开电极之间的接触而在电极间产生电火花" Target="frmContent" Href="../searchservlet?query=F23Q5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23Q5/00"/>
+  <TreeNode Title="F23Q7/00 炽热点火；采用电热的点火，例如点烟用打火机；电加热的热线点火塞" Target="frmContent" Href="../searchservlet?query=F23Q7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23Q7/00">
+    <TreeNode Title="F23Q7/02 #点燃固体燃料的" Target="frmContent" Href="../searchservlet?query=F23Q7/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23Q7/02">
+      <TreeNode Title="F23Q7/04 ##带有向燃料传热的鼓风装置" Target="frmContent" Href="../searchservlet?query=F23Q7/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23Q7/04"/>
+    </TreeNode>
+    <TreeNode Title="F23Q7/06 #在结构上与液体燃料燃烧器有关的点火器(装有燃料的点火器入F23Q 2/00)" Target="frmContent" Href="../searchservlet?query=F23Q7/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23Q7/06">
+      <TreeNode Title="F23Q7/08 ##用于汽化和点燃液体燃料的，例如在防风灯中" Target="frmContent" Href="../searchservlet?query=F23Q7/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23Q7/08"/>
+      <TreeNode Title="F23Q7/10 ##用于气体燃料的，例如在焊接用具中" Target="frmContent" Href="../searchservlet?query=F23Q7/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23Q7/10">
+        <TreeNode Title="F23Q7/12 ###由气体控制装置启动的" Target="frmContent" Href="../searchservlet?query=F23Q7/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23Q7/12"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="F23Q7/14 #轻便点火器" Target="frmContent" Href="../searchservlet?query=F23Q7/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23Q7/14">
+      <TreeNode Title="F23Q7/16 ##内装电池的" Target="frmContent" Href="../searchservlet?query=F23Q7/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23Q7/16"/>
+      <TreeNode Title="F23Q7/18 ##内装发电机的" Target="frmContent" Href="../searchservlet?query=F23Q7/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23Q7/18"/>
+      <TreeNode Title="F23Q7/20 ##内装电源变压器的" Target="frmContent" Href="../searchservlet?query=F23Q7/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23Q7/20"/>
+    </TreeNode>
+    <TreeNode Title="F23Q7/22 #零部件" Target="frmContent" Href="../searchservlet?query=F23Q7/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23Q7/22">
+      <TreeNode Title="F23Q7/24 ##安全装置" Target="frmContent" Href="../searchservlet?query=F23Q7/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23Q7/24">
+        <TreeNode Title="F23Q7/26 ###再点火装置" Target="frmContent" Href="../searchservlet?query=F23Q7/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23Q7/26"/>
+      </TreeNode>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="F23Q9/00 通过导向火舌点火" Target="frmContent" Href="../searchservlet?query=F23Q9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23Q9/00">
+    <TreeNode Title="F23Q9/02 #无主燃料供给联锁装置的" Target="frmContent" Href="../searchservlet?query=F23Q9/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23Q9/02">
+      <TreeNode Title="F23Q9/04 ##直立燃烧器用的，例如煤气灶燃烧器" Target="frmContent" Href="../searchservlet?query=F23Q9/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23Q9/04"/>
+      <TreeNode Title="F23Q9/06 ##倒置燃烧器用的，例如煤气灯" Target="frmContent" Href="../searchservlet?query=F23Q9/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23Q9/06"/>
+    </TreeNode>
+    <TreeNode Title="F23Q9/08 #带有主燃料供给联锁装置的" Target="frmContent" Href="../searchservlet?query=F23Q9/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23Q9/08">
+      <TreeNode Title="F23Q9/10 ##确定了向导向装置和主燃烧器供给燃料顺序的" Target="frmContent" Href="../searchservlet?query=F23Q9/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23Q9/10"/>
+      <TreeNode Title="F23Q9/12 ##根据导向火舌的存在向主燃烧器供给燃料的" Target="frmContent" Href="../searchservlet?query=F23Q9/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23Q9/12">
+        <TreeNode Title="F23Q9/14 ###利用电气装置的，例如使用光敏元件" Target="frmContent" Href="../searchservlet?query=F23Q9/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23Q9/14"/>
+      </TreeNode>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="F23Q11/00 催化点火器的配置" Target="frmContent" Href="../searchservlet?query=F23Q11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23Q11/00">
+    <TreeNode Title="F23Q11/04 #在燃烧器上" Target="frmContent" Href="../searchservlet?query=F23Q11/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23Q11/04"/>
+    <TreeNode Title="F23Q11/06 #远离燃烧器，例如在灯罩上" Target="frmContent" Href="../searchservlet?query=F23Q11/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23Q11/06"/>
+    <TreeNode Title="F23Q11/08 #在由燃料控制元件带动的零件上" Target="frmContent" Href="../searchservlet?query=F23Q11/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23Q11/08">
+      <TreeNode Title="F23Q11/10 ##并且在点火后移离火焰" Target="frmContent" Href="../searchservlet?query=F23Q11/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23Q11/10"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="F23Q13/00 其他类目中不包括的点火" Target="frmContent" Href="../searchservlet?query=F23Q13/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23Q13/00">
+    <TreeNode Title="F23Q13/02 #利用气体燃烧器的，例如气体火钳" Target="frmContent" Href="../searchservlet?query=F23Q13/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23Q13/02"/>
+    <TreeNode Title="F23Q13/04 #利用轻便燃烧器的，例如焰炬、火盆" Target="frmContent" Href="../searchservlet?query=F23Q13/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23Q13/04"/>
+  </TreeNode>
+  <TreeNode Title="F23Q21/00 远距离点火装置" Target="frmContent" Href="../searchservlet?query=F23Q21/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23Q21/00"/>
+  <TreeNode Title="F23Q23/00 点火装置的试验(内燃机专用的入F02P 17/00；火花塞的试验入H01T 13/58)" Target="frmContent" Href="../searchservlet?query=F23Q23/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23Q23/00">
+    <TreeNode Title="F23Q23/02 #点火正时试验" Target="frmContent" Href="../searchservlet?query=F23Q23/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23Q23/02"/>
+    <TreeNode Title="F23Q23/08 #构件试验" Target="frmContent" Href="../searchservlet?query=F23Q23/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23Q23/08">
+      <TreeNode Title="F23Q23/10 ##电的" Target="frmContent" Href="../searchservlet?query=F23Q23/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23Q23/10"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="F23Q25/00 灭火装置，例如吹灭或熄灭烛焰的" Target="frmContent" Href="../searchservlet?query=F23Q25/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23Q25/00"/>
+</Root>

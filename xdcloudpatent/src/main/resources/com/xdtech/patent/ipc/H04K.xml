@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="H04K1/00 保密通信(编密码或解密码装置本身入G09C；具有减少带宽或压缩载波的系统入H04B 1/66；一般的扩频技术入H04B 1/69；使用一个副载波的入H04B 14/08；用多路复用的入H04J；保密数字信息传输系统入H04L 9/00；保密或收费制电视系统入H04N 7/16)" Target="frmContent" Href="../searchservlet?query=H04K1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04K1/00">
+    <TreeNode Title="H04K1/02 #通过加入第二信号使有用信号不可解读" Target="frmContent" Href="../searchservlet?query=H04K1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04K1/02"/>
+    <TreeNode Title="H04K1/04 #用搅频法，即用调换或倒置频段中若干部分或倒置整个频段的方法" Target="frmContent" Href="../searchservlet?query=H04K1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04K1/04"/>
+    <TreeNode Title="H04K1/06 #以不规则的速度，或者搞乱顺序或逆序发送信息或其码元" Target="frmContent" Href="../searchservlet?query=H04K1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04K1/06"/>
+    <TreeNode Title="H04K1/08 #用改变发射波极性的方法" Target="frmContent" Href="../searchservlet?query=H04K1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04K1/08"/>
+    <TreeNode Title="H04K1/10 #使用同时或连续地发送的两个信号" Target="frmContent" Href="../searchservlet?query=H04K1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04K1/10"/>
+  </TreeNode>
+  <TreeNode Title="H04K3/00 对通信的干扰；反干扰(用于雷达或类似系统的电子对抗入G01S 7/00)" Target="frmContent" Href="../searchservlet?query=H04K3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04K3/00"/>
+</Root>

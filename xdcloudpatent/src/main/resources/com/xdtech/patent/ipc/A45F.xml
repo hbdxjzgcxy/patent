@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="A45F3/00 旅行或野营用品(旅行毯入A47G 9/06)；随身携带的袋或包(可变成其他用品的入A45F 4/00) [1，8]" Target="frmContent" Href="../searchservlet?query=A45F3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A45F3/00">
+    <TreeNode Title="A45F3/02 #用一条布带背在肩上的袋或包" Target="frmContent" Href="../searchservlet?query=A45F3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A45F3/02"/>
+    <TreeNode Title="A45F3/04 #用两条布带背在双肩上的袋或包" Target="frmContent" Href="../searchservlet?query=A45F3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A45F3/04">
+      <TreeNode Title="A45F3/06 ##专适于军用" Target="frmContent" Href="../searchservlet?query=A45F3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A45F3/06"/>
+      <TreeNode Title="A45F3/08 ##携带框架；与袋结合的框架(带轮的支架入A45C 13/38)" Target="frmContent" Href="../searchservlet?query=A45F3/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A45F3/08"/>
+    </TreeNode>
+    <TreeNode Title="A45F3/10 #人体上带的包架" Target="frmContent" Href="../searchservlet?query=A45F3/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A45F3/10"/>
+    <TreeNode Title="A45F3/12 #垫肩" Target="frmContent" Href="../searchservlet?query=A45F3/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A45F3/12"/>
+    <TreeNode Title="A45F3/14 #携带用带子；携包用的装具" Target="frmContent" Href="../searchservlet?query=A45F3/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A45F3/14">
+      <TreeNode Title="A45F3/15 ##专适用于带小船的装具" Target="frmContent" Href="../searchservlet?query=A45F3/15&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A45F3/15"/>
+    </TreeNode>
+    <TreeNode Title="A45F3/16 #水瓶；饭盒；杯子" Target="frmContent" Href="../searchservlet?query=A45F3/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A45F3/16">
+      <TreeNode Title="A45F3/18 ##刚性材料的" Target="frmContent" Href="../searchservlet?query=A45F3/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A45F3/18"/>
+      <TreeNode Title="A45F3/20 ##柔性材料的；可折叠或可堆放的杯" Target="frmContent" Href="../searchservlet?query=A45F3/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A45F3/20"/>
+    </TreeNode>
+    <TreeNode Title="A45F3/22 #吊床；吊床展开装置" Target="frmContent" Href="../searchservlet?query=A45F3/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A45F3/22">
+      <TreeNode Title="A45F3/24 ##台；支架" Target="frmContent" Href="../searchservlet?query=A45F3/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A45F3/24"/>
+    </TreeNode>
+    <TreeNode Title="A45F3/26 #吊座" Target="frmContent" Href="../searchservlet?query=A45F3/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A45F3/26"/>
+    <TreeNode Title="A45F3/44 #适用于插在地上的物件支架" Target="frmContent" Href="../searchservlet?query=A45F3/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A45F3/44"/>
+    <TreeNode Title="A45F3/46 #野餐用具(午餐盒或野餐盒入A45C 11/20)" Target="frmContent" Href="../searchservlet?query=A45F3/46&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A45F3/46"/>
+    <TreeNode Title="A45F3/48 #针线包" Target="frmContent" Href="../searchservlet?query=A45F3/48&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A45F3/48"/>
+    <TreeNode Title="A45F3/50 #作为旅行用品的地图盒(地图架或柜入A47B 97/02)" Target="frmContent" Href="../searchservlet?query=A45F3/50&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A45F3/50"/>
+    <TreeNode Title="A45F3/52 #防虫网" Target="frmContent" Href="../searchservlet?query=A45F3/52&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A45F3/52"/>
+  </TreeNode>
+  <TreeNode Title="A45F4/00 旅行或野营用品可变成其他用品的；随身携带并可变成其他用品的袋或包 [1，8]" Target="frmContent" Href="../searchservlet?query=A45F4/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A45F4/00">
+    <TreeNode Title="A45F4/02 #可变成其他用品的袋或包" Target="frmContent" Href="../searchservlet?query=A45F4/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A45F4/02">
+      <TreeNode Title="A45F4/04 ##变成帐篷" Target="frmContent" Href="../searchservlet?query=A45F4/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A45F4/04"/>
+      <TreeNode Title="A45F4/06 ##变成床或床垫" Target="frmContent" Href="../searchservlet?query=A45F4/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A45F4/06"/>
+      <TreeNode Title="A45F4/08 ##变成吊床、担架或睡袋" Target="frmContent" Href="../searchservlet?query=A45F4/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A45F4/08"/>
+      <TreeNode Title="A45F4/10 ##变成船或雪橇" Target="frmContent" Href="../searchservlet?query=A45F4/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A45F4/10"/>
+      <TreeNode Title="A45F4/12 ##变成外衣或披肩" Target="frmContent" Href="../searchservlet?query=A45F4/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A45F4/12"/>
+    </TreeNode>
+    <TreeNode Title="A45F4/14 #可变成帐篷盖的外衣或披肩" Target="frmContent" Href="../searchservlet?query=A45F4/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A45F4/14"/>
+  </TreeNode>
+  <TreeNode Title="A45F5/00 手执物品的夹持件或承载物；旅行或野营用的夹持件或承载物" Target="frmContent" Href="../searchservlet?query=A45F5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A45F5/00">
+    <TreeNode Title="A45F5/02 #将物品固定于外衣上" Target="frmContent" Href="../searchservlet?query=A45F5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A45F5/02">
+      <TreeNode Title="A45F5/04 ##固定手帕、餐巾或类似物" Target="frmContent" Href="../searchservlet?query=A45F5/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A45F5/04"/>
+      <TreeNode Title="A45F5/06 ##固定帽子或其他衣饰" Target="frmContent" Href="../searchservlet?query=A45F5/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A45F5/06"/>
+      <TreeNode Title="A45F5/08 ##固定花朵" Target="frmContent" Href="../searchservlet?query=A45F5/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A45F5/08"/>
+    </TreeNode>
+    <TreeNode Title="A45F5/10 #携带用的夹持件(手提箱或袋的柄入A45C 13/26)" Target="frmContent" Href="../searchservlet?query=A45F5/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A45F5/10"/>
+    <TreeNode Title="A45F5/12 #提书物" Target="frmContent" Href="../searchservlet?query=A45F5/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A45F5/12"/>
+    <TreeNode Title="A45F5/14 #铲柄、小斧或类似工具的夹持件" Target="frmContent" Href="../searchservlet?query=A45F5/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A45F5/14"/>
+  </TreeNode>
+</Root>

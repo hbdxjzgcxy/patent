@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="B07C1/00 根据目标分拣邮件或文件的预备措施" Target="frmContent" Href="../searchservlet?query=B07C1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B07C1/00">
+    <TreeNode Title="B07C1/02 #使物品形成流水线；将流水线上物品加以排列，如按一定间距或方位" Target="frmContent" Href="../searchservlet?query=B07C1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B07C1/02">
+      <TreeNode Title="B07C1/04 ##使大量堆放物品形成流水线；管理流水线，如把物品按一定间距排列" Target="frmContent" Href="../searchservlet?query=B07C1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B07C1/04"/>
+      <TreeNode Title="B07C1/06 ##定位；排成一线" Target="frmContent" Href="../searchservlet?query=B07C1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B07C1/06"/>
+    </TreeNode>
+    <TreeNode Title="B07C1/10 #根据大小或柔韧性来分选" Target="frmContent" Href="../searchservlet?query=B07C1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B07C1/10">
+      <TreeNode Title="B07C1/12 ##把信件与邮包分开" Target="frmContent" Href="../searchservlet?query=B07C1/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B07C1/12"/>
+      <TreeNode Title="B07C1/14 ##根据长度或宽度分选" Target="frmContent" Href="../searchservlet?query=B07C1/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B07C1/14"/>
+      <TreeNode Title="B07C1/16 ##根据厚度或硬度来分选" Target="frmContent" Href="../searchservlet?query=B07C1/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B07C1/16"/>
+    </TreeNode>
+    <TreeNode Title="B07C1/18 #除排成流水线外物品的定位" Target="frmContent" Href="../searchservlet?query=B07C1/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B07C1/18"/>
+    <TreeNode Title="B07C1/20 #根据定位来分选，如根据邮票位置" Target="frmContent" Href="../searchservlet?query=B07C1/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B07C1/20"/>
+  </TreeNode>
+  <TreeNode Title="B07C3/00 根据目标分拣邮件或文件" Target="frmContent" Href="../searchservlet?query=B07C3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B07C3/00">
+    <TreeNode Title="B07C3/02 #以分发方式为特征的设备" Target="frmContent" Href="../searchservlet?query=B07C3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B07C3/02">
+      <TreeNode Title="B07C3/04 ##鼓式分拣机" Target="frmContent" Href="../searchservlet?query=B07C3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B07C3/04"/>
+      <TreeNode Title="B07C3/06 ##直线分拣机，物品从机器流水线上的选定的位置提取出来" Target="frmContent" Href="../searchservlet?query=B07C3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B07C3/06"/>
+      <TreeNode Title="B07C3/08 ##使用传送带装置" Target="frmContent" Href="../searchservlet?query=B07C3/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B07C3/08"/>
+    </TreeNode>
+    <TreeNode Title="B07C3/10 #以检测目标所使用的方法为特征的设备(印刷或书写字符或几何图像的读出或识别的方法或装置入G06K 9/00)" Target="frmContent" Href="../searchservlet?query=B07C3/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B07C3/10">
+      <TreeNode Title="B07C3/12 ##用电气或电子检测方法(B07C 3/14优先)" Target="frmContent" Href="../searchservlet?query=B07C3/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B07C3/12"/>
+      <TreeNode Title="B07C3/14 ##利用光反应特性的检测方法" Target="frmContent" Href="../searchservlet?query=B07C3/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B07C3/14"/>
+      <TreeNode Title="B07C3/16 ##利用磁性检测方法" Target="frmContent" Href="../searchservlet?query=B07C3/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B07C3/16"/>
+    </TreeNode>
+    <TreeNode Title="B07C3/18 #指示目标的设备或装置，如用代码" Target="frmContent" Href="../searchservlet?query=B07C3/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B07C3/18"/>
+    <TreeNode Title="B07C3/20 #便于目视读出地址的装置，如显示装置" Target="frmContent" Href="../searchservlet?query=B07C3/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B07C3/20"/>
+  </TreeNode>
+  <TreeNode Title="B07C5/00 按照物品或材料的特性或特点分选，例如用检测或测量这些特性或特点的装置进行控制；用手动装置，例如开关，来分选(仅用手工的分选入B07C 7/00；用筛，过滤，筛选或用气流或适用于散装材料的其他干式分离法将固体从固体中分离入B07B；硬币的分选入G07D)[3]" Target="frmContent" Href="../searchservlet?query=B07C5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B07C5/00">
+    <TreeNode Title="B07C5/02 #分选前的措施，例如在流水线中排列物体，定方位" Target="frmContent" Href="../searchservlet?query=B07C5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B07C5/02"/>
+    <TreeNode Title="B07C5/04 #根据大小来分选" Target="frmContent" Href="../searchservlet?query=B07C5/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B07C5/04">
+      <TreeNode Title="B07C5/06 ##机械方法测定" Target="frmContent" Href="../searchservlet?query=B07C5/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B07C5/06">
+        <TreeNode Title="B07C5/07 ###利用卡规对相对运动的物品插合的办法测量，例如卡钳[2]" Target="frmContent" Href="../searchservlet?query=B07C5/07&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B07C5/07"/>
+      </TreeNode>
+      <TreeNode Title="B07C5/08 ##用电或电子方法测定(B07C 5/10优先)" Target="frmContent" Href="../searchservlet?query=B07C5/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B07C5/08"/>
+      <TreeNode Title="B07C5/10 ##用光响应装置测定" Target="frmContent" Href="../searchservlet?query=B07C5/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B07C5/10"/>
+      <TreeNode Title="B07C5/12 ##不包含在其他类目中的，以应用于特殊物品为特征的(分选蛋类入A01K 43/00)" Target="frmContent" Href="../searchservlet?query=B07C5/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B07C5/12">
+        <TreeNode Title="B07C5/14 ###木材或原木的分选" Target="frmContent" Href="../searchservlet?query=B07C5/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B07C5/14"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="B07C5/16 #根据重量分选(分选蛋类入A01K 43/00；称重量装置本身入G01G)" Target="frmContent" Href="../searchservlet?query=B07C5/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B07C5/16">
+      <TreeNode Title="B07C5/18 ##使用单个固定式称重机构" Target="frmContent" Href="../searchservlet?query=B07C5/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B07C5/18">
+        <TreeNode Title="B07C5/20 ###从比预定重量重的物品中分离出轻于预定重量的物品" Target="frmContent" Href="../searchservlet?query=B07C5/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B07C5/20"/>
+      </TreeNode>
+      <TreeNode Title="B07C5/22 ##使用多台固定式称重机构" Target="frmContent" Href="../searchservlet?query=B07C5/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B07C5/22"/>
+      <TreeNode Title="B07C5/24 ##使用移动式称重机构，如沿着圆周轨道移动的" Target="frmContent" Href="../searchservlet?query=B07C5/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B07C5/24">
+        <TreeNode Title="B07C5/26 ###上述称重机构的均衡作用是随着移动而变化的" Target="frmContent" Href="../searchservlet?query=B07C5/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B07C5/26"/>
+      </TreeNode>
+      <TreeNode Title="B07C5/28 ##用电控制的装置" Target="frmContent" Href="../searchservlet?query=B07C5/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B07C5/28"/>
+      <TreeNode Title="B07C5/30 ##带计数装置" Target="frmContent" Href="../searchservlet?query=B07C5/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B07C5/30"/>
+      <TreeNode Title="B07C5/32 ##带核对称重装置" Target="frmContent" Href="../searchservlet?query=B07C5/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B07C5/32"/>
+    </TreeNode>
+    <TreeNode Title="B07C5/34 #根据其他特殊性质来分选" Target="frmContent" Href="../searchservlet?query=B07C5/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B07C5/34">
+      <TreeNode Title="B07C5/342 ##根据光学性质，如颜色" Target="frmContent" Href="../searchservlet?query=B07C5/342&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B07C5/342"/>
+      <TreeNode Title="B07C5/344 ##根据电或电磁性质" Target="frmContent" Href="../searchservlet?query=B07C5/344&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B07C5/344"/>
+      <TreeNode Title="B07C5/346 ##根据放射性质" Target="frmContent" Href="../searchservlet?query=B07C5/346&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B07C5/346"/>
+    </TreeNode>
+    <TreeNode Title="B07C5/36 #以其分配方式为特征的分选装置" Target="frmContent" Href="../searchservlet?query=B07C5/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B07C5/36">
+      <TreeNode Title="B07C5/38 ##把物品收集或排列成组" Target="frmContent" Href="../searchservlet?query=B07C5/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B07C5/38"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="B07C7/00 只用手工的分选" Target="frmContent" Href="../searchservlet?query=B07C7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B07C7/00">
+    <TreeNode Title="B07C7/02 #分隔成小室的用具，如文件格架(贮藏架入B65G)" Target="frmContent" Href="../searchservlet?query=B07C7/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B07C7/02"/>
+    <TreeNode Title="B07C7/04 #手工拣选的装置或附件" Target="frmContent" Href="../searchservlet?query=B07C7/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B07C7/04"/>
+  </TreeNode>
+  <TreeNode Title="B07C99/00 本小类其他各组中不包括的技术主题。[2009.01]" Target="frmContent" Href="../searchservlet?query=B07C99/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B07C99/00"/>
+</Root>

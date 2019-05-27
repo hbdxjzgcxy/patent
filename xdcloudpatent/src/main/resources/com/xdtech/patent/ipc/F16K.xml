@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="F16K1/00 提升阀，即带有闭合元件的切断装置，闭合元件至少有打开和闭合运动的分力垂直于闭合面(隔膜阀入F16K 7/00)" Target="frmContent" Href="../searchservlet?query=F16K1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K1/00">
+    <TreeNode Title="F16K1/02 #带有螺旋轴(F16K 1/12至F16K 1/28优先；带螺旋轴的操纵机构入F16K 31/50)" Target="frmContent" Href="../searchservlet?query=F16K1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K1/02">
+      <TreeNode Title="F16K1/04 ##带有与轴固定连接的切断元件，如主阀" Target="frmContent" Href="../searchservlet?query=F16K1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K1/04"/>
+      <TreeNode Title="F16K1/06 ##改善流动的特殊配置，如特殊形状的通道或壳体" Target="frmContent" Href="../searchservlet?query=F16K1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K1/06">
+        <TreeNode Title="F16K1/08 ###其中轴垂直于一般流向" Target="frmContent" Href="../searchservlet?query=F16K1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K1/08"/>
+        <TreeNode Title="F16K1/10 ###其中轴倾斜于一般流向" Target="frmContent" Href="../searchservlet?query=F16K1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K1/10"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="F16K1/12 #带有流线型阀元件，当阀打开时，流体围绕它流动" Target="frmContent" Href="../searchservlet?query=F16K1/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K1/12"/>
+    <TreeNode Title="F16K1/14 #带有球形阀元件(单向阀入F16K 15/04)" Target="frmContent" Href="../searchservlet?query=F16K1/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K1/14"/>
+    <TreeNode Title="F16K1/16 #带有装在枢轴上的闭合元件" Target="frmContent" Href="../searchservlet?query=F16K1/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K1/16">
+      <TreeNode Title="F16K1/18 ##带有装在枢轴上的盘或瓣" Target="frmContent" Href="../searchservlet?query=F16K1/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K1/18">
+        <TreeNode Title="F16K1/20 ###旋转轴线配置在阀元件之外" Target="frmContent" Href="../searchservlet?query=F16K1/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K1/20"/>
+        <TreeNode Title="F16K1/22 ###旋转轴线与阀元件交叉，如蝶形阀" Target="frmContent" Href="../searchservlet?query=F16K1/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K1/22">
+          <TreeNode Title="F16K1/226 ####密封的成型或配置" Target="frmContent" Href="../searchservlet?query=F16K1/226&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K1/226">
+            <TreeNode Title="F16K1/228 #####可动的密封体" Target="frmContent" Href="../searchservlet?query=F16K1/228&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K1/228"/>
+          </TreeNode>
+        </TreeNode>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="F16K1/24 #在打开阀时，阀元件开始从阀座提升，然后围绕与阀座平行的轴线转动" Target="frmContent" Href="../searchservlet?query=F16K1/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K1/24">
+      <TreeNode Title="F16K1/26 ##密封的形状或配置" Target="frmContent" Href="../searchservlet?query=F16K1/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K1/26">
+        <TreeNode Title="F16K1/28 ###可动的密封体" Target="frmContent" Href="../searchservlet?query=F16K1/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K1/28"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="F16K1/30 #专门适用于压力容器" Target="frmContent" Href="../searchservlet?query=F16K1/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K1/30"/>
+    <TreeNode Title="F16K1/32 #零件(更一般适用的零件入F16K 25/00至F16K 51/00)" Target="frmContent" Href="../searchservlet?query=F16K1/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K1/32">
+      <TreeNode Title="F16K1/34 ##切断零件(F16K 1/06，F16K 1/12，F16K 1/14，F16K 1/26优先)" Target="frmContent" Href="../searchservlet?query=F16K1/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K1/34">
+        <TreeNode Title="F16K1/36 ###阀元件(用于双阀座阀入F16K 1/44)" Target="frmContent" Href="../searchservlet?query=F16K1/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K1/36">
+          <TreeNode Title="F16K1/38 ####锥形的" Target="frmContent" Href="../searchservlet?query=F16K1/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K1/38"/>
+          <TreeNode Title="F16K1/40 ####螺旋形的" Target="frmContent" Href="../searchservlet?query=F16K1/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K1/40"/>
+        </TreeNode>
+        <TreeNode Title="F16K1/42 ###阀座(用于双阀座阀入F16K 1/44)" Target="frmContent" Href="../searchservlet?query=F16K1/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K1/42"/>
+        <TreeNode Title="F16K1/44 ###双阀座阀的阀元件或阀座的零件" Target="frmContent" Href="../searchservlet?query=F16K1/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K1/44"/>
+        <TreeNode Title="F16K1/46 ###密封环的固定" Target="frmContent" Href="../searchservlet?query=F16K1/46&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K1/46"/>
+      </TreeNode>
+      <TreeNode Title="F16K1/48 ##将阀元件连接到阀轴上[4]" Target="frmContent" Href="../searchservlet?query=F16K1/48&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K1/48"/>
+      <TreeNode Title="F16K1/50 ##防止阀元件转动" Target="frmContent" Href="../searchservlet?query=F16K1/50&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K1/50"/>
+      <TreeNode Title="F16K1/52 ##流量的附加调整装置" Target="frmContent" Href="../searchservlet?query=F16K1/52&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K1/52"/>
+      <TreeNode Title="F16K1/54 ##变更通路的装置，在阀动作时，改变通路中的流量" Target="frmContent" Href="../searchservlet?query=F16K1/54&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K1/54"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="F16K3/00 闸门阀或滑阀，即带闭合元件的切断装置，闭合元件为了开启和关闭有沿阀座的滑动(F16K 5/00优先；堰坝或低坝中的阀入E02B 8/04)" Target="frmContent" Href="../searchservlet?query=F16K3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K3/00">
+    <TreeNode Title="F16K3/02 #带有平的密封面；其所用填料" Target="frmContent" Href="../searchservlet?query=F16K3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K3/02">
+      <TreeNode Title="F16K3/03 ##带有隔膜形式的闭合元件" Target="frmContent" Href="../searchservlet?query=F16K3/03&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K3/03"/>
+      <TreeNode Title="F16K3/04 ##带有转动式闭合元件" Target="frmContent" Href="../searchservlet?query=F16K3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K3/04">
+        <TreeNode Title="F16K3/06 ###以闭合板的形式配置在进出通道之间(F16K 3/10优先)" Target="frmContent" Href="../searchservlet?query=F16K3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K3/06">
+          <TreeNode Title="F16K3/08 ####带有围绕其中心旋转的圆形闭合板" Target="frmContent" Href="../searchservlet?query=F16K3/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K3/08"/>
+        </TreeNode>
+        <TreeNode Title="F16K3/10 ###带有把密封面分开或压在一起的特殊装置" Target="frmContent" Href="../searchservlet?query=F16K3/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K3/10"/>
+      </TreeNode>
+      <TreeNode Title="F16K3/12 ##带有密封面的楔形装置" Target="frmContent" Href="../searchservlet?query=F16K3/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K3/12">
+        <TreeNode Title="F16K3/14 ###带有把密封面分开或压在一起的特殊装置" Target="frmContent" Href="../searchservlet?query=F16K3/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K3/14"/>
+      </TreeNode>
+      <TreeNode Title="F16K3/16 ##带有把密封面分开或压在一起的特殊装置(F16K 3/10，F16K 3/14优先)" Target="frmContent" Href="../searchservlet?query=F16K3/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K3/16">
+        <TreeNode Title="F16K3/18 ###通过闭合元件的运动" Target="frmContent" Href="../searchservlet?query=F16K3/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K3/18"/>
+        <TreeNode Title="F16K3/20 ###通过阀座的运动" Target="frmContent" Href="../searchservlet?query=F16K3/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K3/20"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="F16K3/22 #带有形如旋转实体表面的密封面(F16K 13/02优先；带弹性阀元件入F16K 3/28)" Target="frmContent" Href="../searchservlet?query=F16K3/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K3/22">
+      <TreeNode Title="F16K3/24 ##带有圆柱形阀元件" Target="frmContent" Href="../searchservlet?query=F16K3/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K3/24">
+        <TreeNode Title="F16K3/26 ###在阀元件中有流体通道" Target="frmContent" Href="../searchservlet?query=F16K3/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K3/26"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="F16K3/28 #带有弹性阀元件" Target="frmContent" Href="../searchservlet?query=F16K3/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K3/28"/>
+    <TreeNode Title="F16K3/30 #零件" Target="frmContent" Href="../searchservlet?query=F16K3/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K3/30">
+      <TreeNode Title="F16K3/312 ##管线挡板" Target="frmContent" Href="../searchservlet?query=F16K3/312&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K3/312"/>
+      <TreeNode Title="F16K3/314 ##滑阀的形式或结构：滑阀与轴的连接" Target="frmContent" Href="../searchservlet?query=F16K3/314&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K3/314"/>
+      <TreeNode Title="F16K3/316 ##滑阀的导向" Target="frmContent" Href="../searchservlet?query=F16K3/316&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K3/316"/>
+      <TreeNode Title="F16K3/32 ##流量的附加调整装置" Target="frmContent" Href="../searchservlet?query=F16K3/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K3/32"/>
+      <TreeNode Title="F16K3/34 ##变更通路的装置，在阀动作时，改变通路中的流量" Target="frmContent" Href="../searchservlet?query=F16K3/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K3/34"/>
+      <TreeNode Title="F16K3/36 ##关于润滑的器件" Target="frmContent" Href="../searchservlet?query=F16K3/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K3/36"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="F16K5/00 只包含切断装置的龙头或旋塞，切断装置至少有一个密封面的形状近于旋转实体的完整表面，启闭运动主要是旋转运动(提升阀型的龙头入F16K 1/00)" Target="frmContent" Href="../searchservlet?query=F16K5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K5/00">
+    <TreeNode Title="F16K5/02 #带有锥形表面的塞子；其所用填料" Target="frmContent" Href="../searchservlet?query=F16K5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K5/02"/>
+    <TreeNode Title="F16K5/04 #带有圆柱形表面的塞子；其所用填料" Target="frmContent" Href="../searchservlet?query=F16K5/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K5/04"/>
+    <TreeNode Title="F16K5/06 #带有球形表面的塞子；其所用填料" Target="frmContent" Href="../searchservlet?query=F16K5/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K5/06"/>
+    <TreeNode Title="F16K5/08 #零件" Target="frmContent" Href="../searchservlet?query=F16K5/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K5/08">
+      <TreeNode Title="F16K5/10 ##流量的附加调整装置" Target="frmContent" Href="../searchservlet?query=F16K5/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K5/10"/>
+      <TreeNode Title="F16K5/12 ##变更通路的装置，在阀动作时，改变通路中的流量" Target="frmContent" Href="../searchservlet?query=F16K5/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K5/12"/>
+      <TreeNode Title="F16K5/14 ##把密封面分开或压在一起的特殊装置" Target="frmContent" Href="../searchservlet?query=F16K5/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K5/14">
+        <TreeNode Title="F16K5/16 ###用于有锥形表面的塞子" Target="frmContent" Href="../searchservlet?query=F16K5/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K5/16"/>
+        <TreeNode Title="F16K5/18 ###用于有圆柱形表面的塞子" Target="frmContent" Href="../searchservlet?query=F16K5/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K5/18"/>
+        <TreeNode Title="F16K5/20 ###用于有球形表面的塞子" Target="frmContent" Href="../searchservlet?query=F16K5/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K5/20"/>
+      </TreeNode>
+      <TreeNode Title="F16K5/22 ##关于润滑的器件" Target="frmContent" Href="../searchservlet?query=F16K5/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K5/22"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="F16K7/00 隔膜切断装置，如用元件变形来闭合通道，而元件不整个移动(靠挠性壁变形操作的容器闸门或封口件入B65D 90/56；塞住管子或软管的装置入F16L 55/10)" Target="frmContent" Href="../searchservlet?query=F16K7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K7/00">
+    <TreeNode Title="F16K7/02 #带有管状隔膜" Target="frmContent" Href="../searchservlet?query=F16K7/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K7/02">
+      <TreeNode Title="F16K7/04 ##可用外径向力压缩" Target="frmContent" Href="../searchservlet?query=F16K7/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K7/04">
+        <TreeNode Title="F16K7/06 ###用螺旋轴、凸轮或其他机械装置" Target="frmContent" Href="../searchservlet?query=F16K7/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K7/06"/>
+        <TreeNode Title="F16K7/07 ###用流体压力" Target="frmContent" Href="../searchservlet?query=F16K7/07&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K7/07"/>
+      </TreeNode>
+      <TreeNode Title="F16K7/08 ##可用扭曲压缩" Target="frmContent" Href="../searchservlet?query=F16K7/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K7/08"/>
+    </TreeNode>
+    <TreeNode Title="F16K7/10 #带有充气元件" Target="frmContent" Href="../searchservlet?query=F16K7/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K7/10"/>
+    <TreeNode Title="F16K7/12 #带有平的、盘形的或球形隔膜" Target="frmContent" Href="../searchservlet?query=F16K7/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K7/12">
+      <TreeNode Title="F16K7/14 ##变形时顶向平阀座" Target="frmContent" Href="../searchservlet?query=F16K7/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K7/14">
+        <TreeNode Title="F16K7/16 ###隔膜是机械操纵的，如用螺旋轴或凸轮" Target="frmContent" Href="../searchservlet?query=F16K7/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K7/16"/>
+        <TreeNode Title="F16K7/17 ###隔膜是流体压力操纵的" Target="frmContent" Href="../searchservlet?query=F16K7/17&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K7/17"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="F16K7/18 #隔膜只在一侧固定，如靠滚动作用放置在阀座上" Target="frmContent" Href="../searchservlet?query=F16K7/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K7/18"/>
+    <TreeNode Title="F16K7/20 #带有可压缩的固体闭合元件" Target="frmContent" Href="../searchservlet?query=F16K7/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K7/20"/>
+  </TreeNode>
+  <TreeNode Title="F16K11/00 多通阀，如混合阀；装有这种阀的管件；阀和专门适用于混合流体的流送管配置[4]" Target="frmContent" Href="../searchservlet?query=F16K11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K11/00">
+    <TreeNode Title="F16K11/02 #所有可移动的密封面作为一个单元移动" Target="frmContent" Href="../searchservlet?query=F16K11/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K11/02">
+      <TreeNode Title="F16K11/04 ##只包含提升阀" Target="frmContent" Href="../searchservlet?query=F16K11/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K11/04">
+        <TreeNode Title="F16K11/044 ###带有置于阀座之间的移动阀元件[4]" Target="frmContent" Href="../searchservlet?query=F16K11/044&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K11/044"/>
+        <TreeNode Title="F16K11/048 ###带有置于移动阀元件之间的阀座[4]" Target="frmContent" Href="../searchservlet?query=F16K11/048&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K11/048"/>
+        <TreeNode Title="F16K11/052 ###带有装在枢轴上的闭合元件，如蝶形阀[4]" Target="frmContent" Href="../searchservlet?query=F16K11/052&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K11/052"/>
+        <TreeNode Title="F16K11/056 ###带有滚珠形阀元件[4]" Target="frmContent" Href="../searchservlet?query=F16K11/056&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K11/056"/>
+      </TreeNode>
+      <TreeNode Title="F16K11/06 ##只包含滑阀" Target="frmContent" Href="../searchservlet?query=F16K11/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K11/06">
+        <TreeNode Title="F16K11/065 ###带有直线滑动的闭合元件[4]" Target="frmContent" Href="../searchservlet?query=F16K11/065&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K11/065">
+          <TreeNode Title="F16K11/07 ####带有圆柱形滑阀[4]" Target="frmContent" Href="../searchservlet?query=F16K11/07&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K11/07"/>
+        </TreeNode>
+        <TreeNode Title="F16K11/072 ###带有装在枢轴上的闭合元件[4]" Target="frmContent" Href="../searchservlet?query=F16K11/072&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K11/072">
+          <TreeNode Title="F16K11/074 ####带有扁平密封面[4]" Target="frmContent" Href="../searchservlet?query=F16K11/074&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K11/074"/>
+          <TreeNode Title="F16K11/076 ####带有形状如转动实体表面的密封面[4]" Target="frmContent" Href="../searchservlet?query=F16K11/076&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K11/076"/>
+        </TreeNode>
+        <TreeNode Title="F16K11/078 ###带有装在枢轴上的和可直线移动的闭合元件[4]" Target="frmContent" Href="../searchservlet?query=F16K11/078&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K11/078"/>
+      </TreeNode>
+      <TreeNode Title="F16K11/08 ##只包含龙头或旋塞" Target="frmContent" Href="../searchservlet?query=F16K11/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K11/08">
+        <TreeNode Title="F16K11/083 ###带有锥形塞子[2]" Target="frmContent" Href="../searchservlet?query=F16K11/083&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K11/083"/>
+        <TreeNode Title="F16K11/085 ###带有圆柱形塞子[2]" Target="frmContent" Href="../searchservlet?query=F16K11/085&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K11/085"/>
+        <TreeNode Title="F16K11/087 ###带有球形塞子[2]" Target="frmContent" Href="../searchservlet?query=F16K11/087&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K11/087"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="F16K11/10 #带有两个或多个闭合元件不作为一个单元移动" Target="frmContent" Href="../searchservlet?query=F16K11/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K11/10">
+      <TreeNode Title="F16K11/12 ##带有一个在另一个塞子内转动的塞子" Target="frmContent" Href="../searchservlet?query=F16K11/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K11/12"/>
+      <TreeNode Title="F16K11/14 ##由一个致动元件操作，如手柄(一个塞子在另一个内转动入F16K 11/12)" Target="frmContent" Href="../searchservlet?query=F16K11/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K11/14">
+        <TreeNode Title="F16K11/16 ###元件在一个平面内只是滑动，或只是转动，或只是摆动" Target="frmContent" Href="../searchservlet?query=F16K11/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K11/16"/>
+        <TreeNode Title="F16K11/18 ###带有分开的闭合元件的分开的操作运动" Target="frmContent" Href="../searchservlet?query=F16K11/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K11/18"/>
+      </TreeNode>
+      <TreeNode Title="F16K11/20 ##由分开的致动元件操作(一个塞子在另一个内转动入F16K 11/12)" Target="frmContent" Href="../searchservlet?query=F16K11/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K11/20">
+        <TreeNode Title="F16K11/22 ###每一个阀有一个操纵元件，如相互连接形成多通阀" Target="frmContent" Href="../searchservlet?query=F16K11/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K11/22"/>
+        <TreeNode Title="F16K11/24 ###带有一个电磁操作阀，如用于洗衣机" Target="frmContent" Href="../searchservlet?query=F16K11/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K11/24"/>
+      </TreeNode>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="F16K13/00 切断装置的其他结构形式(塞住管子或软管的装置入F16L 55/10)；用于切断的装置[4]" Target="frmContent" Href="../searchservlet?query=F16K13/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K13/00">
+    <TreeNode Title="F16K13/02 #两个密封面的形状为圆柱体的小段，活动元件是枢轴安装的" Target="frmContent" Href="../searchservlet?query=F16K13/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K13/02"/>
+    <TreeNode Title="F16K13/08 #用于切断的装置[4]" Target="frmContent" Href="../searchservlet?query=F16K13/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K13/08">
+      <TreeNode Title="F16K13/10 ##借助液体或粒状介质[4]" Target="frmContent" Href="../searchservlet?query=F16K13/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K13/10"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="F16K15/00 单向阀(专门适用于充气球的阀入A63B 41/00)" Target="frmContent" Href="../searchservlet?query=F16K15/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K15/00">
+    <TreeNode Title="F16K15/02 #带有导向的刚性阀元件" Target="frmContent" Href="../searchservlet?query=F16K15/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K15/02">
+      <TreeNode Title="F16K15/03 ##带有铰接闭合元件" Target="frmContent" Href="../searchservlet?query=F16K15/03&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K15/03"/>
+      <TreeNode Title="F16K15/04 ##形状如滚珠" Target="frmContent" Href="../searchservlet?query=F16K15/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K15/04"/>
+      <TreeNode Title="F16K15/06 ##带有导杆" Target="frmContent" Href="../searchservlet?query=F16K15/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K15/06"/>
+      <TreeNode Title="F16K15/08 ##形状如环" Target="frmContent" Href="../searchservlet?query=F16K15/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K15/08">
+        <TreeNode Title="F16K15/10 ###与普通阀板成一整体或与普通阀板成固定连接" Target="frmContent" Href="../searchservlet?query=F16K15/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K15/10"/>
+        <TreeNode Title="F16K15/12 ###用于环形阀的弹簧[3]" Target="frmContent" Href="../searchservlet?query=F16K15/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K15/12"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="F16K15/14 #带有挠性阀元件" Target="frmContent" Href="../searchservlet?query=F16K15/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K15/14">
+      <TreeNode Title="F16K15/16 ##带有舌形薄层片" Target="frmContent" Href="../searchservlet?query=F16K15/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K15/16"/>
+    </TreeNode>
+    <TreeNode Title="F16K15/18 #带有操纵机构；组合单向阀和操作阀" Target="frmContent" Href="../searchservlet?query=F16K15/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K15/18"/>
+    <TreeNode Title="F16K15/20 #专为充气体设计的，如轮胎(阀与充气弹性体连接入B60C 29/00)" Target="frmContent" Href="../searchservlet?query=F16K15/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K15/20"/>
+  </TreeNode>
+  <TreeNode Title="F16K17/00 安全阀；平衡阀(用于浮质容器的减压装置入B65D 83/70)" Target="frmContent" Href="../searchservlet?query=F16K17/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K17/00">
+    <TreeNode Title="F16K17/02 #在一侧过压时开启；在一侧压力不足时闭合(单向阀入F16K 15/00)" Target="frmContent" Href="../searchservlet?query=F16K17/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K17/02">
+      <TreeNode Title="F16K17/04 ##弹簧加载的" Target="frmContent" Href="../searchservlet?query=F16K17/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K17/04">
+        <TreeNode Title="F16K17/06 ###带有调整开启压力的特殊装置" Target="frmContent" Href="../searchservlet?query=F16K17/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K17/06"/>
+        <TreeNode Title="F16K17/08 ###带有提供大排出通道的特殊装置" Target="frmContent" Href="../searchservlet?query=F16K17/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K17/08"/>
+        <TreeNode Title="F16K17/10 ###带有用于主阀液压操作的辅助阀" Target="frmContent" Href="../searchservlet?query=F16K17/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K17/10"/>
+      </TreeNode>
+      <TreeNode Title="F16K17/12 ##重量加载的" Target="frmContent" Href="../searchservlet?query=F16K17/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K17/12"/>
+      <TreeNode Title="F16K17/14 ##带有断裂元件的" Target="frmContent" Href="../searchservlet?query=F16K17/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K17/14">
+        <TreeNode Title="F16K17/16 ###带有破裂膜" Target="frmContent" Href="../searchservlet?query=F16K17/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K17/16"/>
+      </TreeNode>
+      <TreeNode Title="F16K17/164 ##并在正常压力恢复后保持闭合" Target="frmContent" Href="../searchservlet?query=F16K17/164&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K17/164"/>
+      <TreeNode Title="F16K17/168 ##与手动控制阀组合，如一个阀与安全阀组合" Target="frmContent" Href="../searchservlet?query=F16K17/168&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K17/168"/>
+    </TreeNode>
+    <TreeNode Title="F16K17/18 #在任一侧过压时开启" Target="frmContent" Href="../searchservlet?query=F16K17/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K17/18">
+      <TreeNode Title="F16K17/19 ##主要用于容器的平衡阀" Target="frmContent" Href="../searchservlet?query=F16K17/19&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K17/19">
+        <TreeNode Title="F16K17/192 ###带有呈活动液柱形式的闭合元件" Target="frmContent" Href="../searchservlet?query=F16K17/192&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K17/192"/>
+        <TreeNode Title="F16K17/194 ###重量加载的" Target="frmContent" Href="../searchservlet?query=F16K17/194&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K17/194"/>
+        <TreeNode Title="F16K17/196 ###弹簧加载的" Target="frmContent" Href="../searchservlet?query=F16K17/196&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K17/196"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="F16K17/20 #流量限制阀(由于振动或类似的外界影响致动的入F16K 17/36)" Target="frmContent" Href="../searchservlet?query=F16K17/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K17/20">
+      <TreeNode Title="F16K17/22 ##由流送管内两处之间的压力差致动" Target="frmContent" Href="../searchservlet?query=F16K17/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K17/22">
+        <TreeNode Title="F16K17/24 ###直接作用在切断元件上" Target="frmContent" Href="../searchservlet?query=F16K17/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K17/24">
+          <TreeNode Title="F16K17/26 ####在任一方向操作" Target="frmContent" Href="../searchservlet?query=F16K17/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K17/26"/>
+          <TreeNode Title="F16K17/28 ####只在一个方向操作" Target="frmContent" Href="../searchservlet?query=F16K17/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K17/28">
+            <TreeNode Title="F16K17/30 #####弹簧加载的" Target="frmContent" Href="../searchservlet?query=F16K17/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K17/30"/>
+          </TreeNode>
+        </TreeNode>
+        <TreeNode Title="F16K17/32 ###作用在伺服机构上或制动释放机构上" Target="frmContent" Href="../searchservlet?query=F16K17/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K17/32"/>
+      </TreeNode>
+      <TreeNode Title="F16K17/34 ##其中流动介质的流动能量操纵闭合机构" Target="frmContent" Href="../searchservlet?query=F16K17/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K17/34"/>
+    </TreeNode>
+    <TreeNode Title="F16K17/36 #由于外界情况致动，如震动，改变位置" Target="frmContent" Href="../searchservlet?query=F16K17/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K17/36">
+      <TreeNode Title="F16K17/38 ##超温的" Target="frmContent" Href="../searchservlet?query=F16K17/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K17/38"/>
+    </TreeNode>
+    <TreeNode Title="F16K17/40 #带有断裂元件，如破裂膜、可熔接头(带有在一边过压时断裂元件开启的阀入F16K 17/14)" Target="frmContent" Href="../searchservlet?query=F16K17/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K17/40"/>
+    <TreeNode Title="F16K17/42 #防止空气渗入液体容器出口的阀" Target="frmContent" Href="../searchservlet?query=F16K17/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K17/42"/>
+  </TreeNode>
+  <TreeNode Title="F16K21/00 流体分配阀(专门适用于浮质容器的入B65D 83/44；用于液体输送入B67D；用于厕所或类似场所的冲洗装置入E03D)" Target="frmContent" Href="../searchservlet?query=F16K21/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K21/00">
+    <TreeNode Title="F16K21/02 #提供连续小流量" Target="frmContent" Href="../searchservlet?query=F16K21/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K21/02"/>
+    <TreeNode Title="F16K21/04 #自闭阀，即在操作后自动闭合" Target="frmContent" Href="../searchservlet?query=F16K21/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K21/04">
+      <TreeNode Title="F16K21/06 ##其中闭合运动，不论延迟与否，在开启后立即开始" Target="frmContent" Href="../searchservlet?query=F16K21/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K21/06">
+        <TreeNode Title="F16K21/08 ###带有球状闭合元件" Target="frmContent" Href="../searchservlet?query=F16K21/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K21/08"/>
+        <TreeNode Title="F16K21/10 ###带有作用于闭合元件上的液压制动缸" Target="frmContent" Href="../searchservlet?query=F16K21/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K21/10"/>
+        <TreeNode Title="F16K21/12 ###带有液压操作的开启装置；带有开启前卸压的装置" Target="frmContent" Href="../searchservlet?query=F16K21/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K21/12"/>
+      </TreeNode>
+      <TreeNode Title="F16K21/14 ##带有用于防止自闭的特殊装置" Target="frmContent" Href="../searchservlet?query=F16K21/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K21/14"/>
+      <TreeNode Title="F16K21/16 ##在输送预定量的流体后闭合(F16K 21/10优先)" Target="frmContent" Href="../searchservlet?query=F16K21/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K21/16"/>
+      <TreeNode Title="F16K21/18 ##在上升的液体达到预定液位时闭合(由浮子控制的阀入F16K 31/18)" Target="frmContent" Href="../searchservlet?query=F16K21/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K21/18">
+        <TreeNode Title="F16K21/20 ###通过一个由上升液体闭合的开口利用空气吸入的装置" Target="frmContent" Href="../searchservlet?query=F16K21/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K21/20"/>
+      </TreeNode>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="F16K23/00 用于防止从喷嘴滴漏的阀" Target="frmContent" Href="../searchservlet?query=F16K23/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K23/00"/>
+  <TreeNode Title="F16K24/00 用于罩套通风或充气的装置，如阀(平衡阀入F16K 17/00；配置或安装于管子或管系统内的入F16L 55/07；通风或充气作为凝汽阀或类似装置的一种附加功能入F16T；房间、车辆的通风见相关小类，如F24F)[2]" Target="frmContent" Href="../searchservlet?query=F16K24/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K24/00">
+    <TreeNode Title="F16K24/02 #罩套本身是一个阀，龙头，或旋塞[2]" Target="frmContent" Href="../searchservlet?query=F16K24/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K24/02"/>
+    <TreeNode Title="F16K24/04 #只用于通风(F16K 24/02优先)[2]" Target="frmContent" Href="../searchservlet?query=F16K24/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K24/04"/>
+    <TreeNode Title="F16K24/06 #只用于充气(F16K 24/02优先)[2]" Target="frmContent" Href="../searchservlet?query=F16K24/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K24/06"/>
+  </TreeNode>
+  <TreeNode Title="F16K25/00 关于阀元件和阀座之间接触的部件(除启闭以外的阀元件的运动入F16K 29/00；密封结构，按阀的型式见相应各组)" Target="frmContent" Href="../searchservlet?query=F16K25/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K25/00">
+    <TreeNode Title="F16K25/02 #使用从阀元件或阀座中流出流体的装置" Target="frmContent" Href="../searchservlet?query=F16K25/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K25/02"/>
+    <TreeNode Title="F16K25/04 #不包含在其他类目中的防止腐蚀的装置" Target="frmContent" Href="../searchservlet?query=F16K25/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K25/04"/>
+  </TreeNode>
+  <TreeNode Title="F16K27/00 阀壳结构(焊接阀壳的方法入B23K)；其材料的应用" Target="frmContent" Href="../searchservlet?query=F16K27/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K27/00">
+    <TreeNode Title="F16K27/02 #提升阀的(用于减少螺旋轴提升阀的流阻入F16K 1/06)" Target="frmContent" Href="../searchservlet?query=F16K27/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K27/02"/>
+    <TreeNode Title="F16K27/04 #滑阀的" Target="frmContent" Href="../searchservlet?query=F16K27/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K27/04"/>
+    <TreeNode Title="F16K27/06 #龙头或旋塞的" Target="frmContent" Href="../searchservlet?query=F16K27/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K27/06"/>
+    <TreeNode Title="F16K27/07 #贮气瓶切断零件的，如油罐车的[4]" Target="frmContent" Href="../searchservlet?query=F16K27/07&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K27/07"/>
+    <TreeNode Title="F16K27/08 #轴的导轭；闭合阀壳的装置；防尘盖，如用于轮胎阀" Target="frmContent" Href="../searchservlet?query=F16K27/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K27/08"/>
+    <TreeNode Title="F16K27/10 #焊接阀壳" Target="frmContent" Href="../searchservlet?query=F16K27/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K27/10"/>
+    <TreeNode Title="F16K27/12 #阀壳盖" Target="frmContent" Href="../searchservlet?query=F16K27/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K27/12"/>
+  </TreeNode>
+  <TreeNode Title="F16K29/00 除启闭阀以外的阀元件运动用的装置，如用于研配，用于防止卡住" Target="frmContent" Href="../searchservlet?query=F16K29/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K29/00">
+    <TreeNode Title="F16K29/02 #提供连续运动" Target="frmContent" Href="../searchservlet?query=F16K29/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K29/02"/>
+  </TreeNode>
+  <TreeNode Title="F16K31/00 操作装置；释放装置" Target="frmContent" Href="../searchservlet?query=F16K31/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K31/00">
+    <TreeNode Title="F16K31/02 #电力的；磁力的" Target="frmContent" Href="../searchservlet?query=F16K31/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K31/02">
+      <TreeNode Title="F16K31/04 ##使用马达" Target="frmContent" Href="../searchservlet?query=F16K31/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K31/04">
+        <TreeNode Title="F16K31/05 ###专适用于操作手动阀或适用于电机和手动联合操作" Target="frmContent" Href="../searchservlet?query=F16K31/05&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K31/05"/>
+      </TreeNode>
+      <TreeNode Title="F16K31/06 ##使用磁铁" Target="frmContent" Href="../searchservlet?query=F16K31/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K31/06">
+        <TreeNode Title="F16K31/08 ###使用永久磁铁" Target="frmContent" Href="../searchservlet?query=F16K31/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K31/08"/>
+        <TreeNode Title="F16K31/10 ###在衔铁和闭合元件之间有附加机构" Target="frmContent" Href="../searchservlet?query=F16K31/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K31/10">
+          <TreeNode Title="F16K31/11 ####带附加手动操作装置[2]" Target="frmContent" Href="../searchservlet?query=F16K31/11&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K31/11"/>
+        </TreeNode>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="F16K31/12 #由流体致动(流体致动单向阀入F16K 15/00；流体致动安全阀入F16K 17/00)" Target="frmContent" Href="../searchservlet?query=F16K31/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K31/12">
+      <TreeNode Title="F16K31/122 ##流体作用在活塞上(F16K 31/143，F16K 31/163，F16K 31/363，F16K 31/383优先)[2]" Target="frmContent" Href="../searchservlet?query=F16K31/122&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K31/122">
+        <TreeNode Title="F16K31/124 ###伺服致动的[2]" Target="frmContent" Href="../searchservlet?query=F16K31/124&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K31/124"/>
+      </TreeNode>
+      <TreeNode Title="F16K31/126 ##流体作用在隔膜、波纹管或类似件上(F16K 31/145，F16K 31/165，F16K 31/365，F16K 31/385优先)[2]" Target="frmContent" Href="../searchservlet?query=F16K31/126&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K31/126">
+        <TreeNode Title="F16K31/128 ###伺服致动的[2]" Target="frmContent" Href="../searchservlet?query=F16K31/128&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K31/128"/>
+      </TreeNode>
+      <TreeNode Title="F16K31/14 ##安装在手动阀上或与手动阀组合" Target="frmContent" Href="../searchservlet?query=F16K31/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K31/14">
+        <TreeNode Title="F16K31/143 ###流体作用在活塞上" Target="frmContent" Href="../searchservlet?query=F16K31/143&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K31/143"/>
+        <TreeNode Title="F16K31/145 ###流体作用在隔膜上" Target="frmContent" Href="../searchservlet?query=F16K31/145&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K31/145"/>
+      </TreeNode>
+      <TreeNode Title="F16K31/16 ##在液力马达和闭合元件之间带有一个不同于推杆或拉杆的机构(带浮子的入F16K 31/18)" Target="frmContent" Href="../searchservlet?query=F16K31/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K31/16">
+        <TreeNode Title="F16K31/163 ###流体作用在活塞上" Target="frmContent" Href="../searchservlet?query=F16K31/163&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K31/163"/>
+        <TreeNode Title="F16K31/165 ###流体作用在隔膜上" Target="frmContent" Href="../searchservlet?query=F16K31/165&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K31/165"/>
+      </TreeNode>
+      <TreeNode Title="F16K31/18 ##由浮子致动(浮子入F16K 33/00；凝汽阀中的浮子致动阀入F16T 1/20，锅炉中的浮子致动阀入F22D 5/08)" Target="frmContent" Href="../searchservlet?query=F16K31/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K31/18">
+        <TreeNode Title="F16K31/20 ###致动提升阀" Target="frmContent" Href="../searchservlet?query=F16K31/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K31/20">
+          <TreeNode Title="F16K31/22 ####浮子与阀刚性连接" Target="frmContent" Href="../searchservlet?query=F16K31/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K31/22"/>
+          <TreeNode Title="F16K31/24 ####带有其零件从单浮子至单阀连接在一起的传动装置" Target="frmContent" Href="../searchservlet?query=F16K31/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K31/24">
+            <TreeNode Title="F16K31/26 #####带有作直线运动的引导阀和与铰臂连接的浮子" Target="frmContent" Href="../searchservlet?query=F16K31/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K31/26"/>
+          </TreeNode>
+          <TreeNode Title="F16K31/28 ####带有两个或多个操纵1个阀的浮子" Target="frmContent" Href="../searchservlet?query=F16K31/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K31/28"/>
+        </TreeNode>
+        <TreeNode Title="F16K31/30 ###操纵一个闸阀或滑阀" Target="frmContent" Href="../searchservlet?query=F16K31/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K31/30"/>
+        <TreeNode Title="F16K31/32 ###操纵一个龙头或旋塞" Target="frmContent" Href="../searchservlet?query=F16K31/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K31/32"/>
+        <TreeNode Title="F16K31/34 ###作用在控制切断装置的先导阀上" Target="frmContent" Href="../searchservlet?query=F16K31/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K31/34"/>
+      </TreeNode>
+      <TreeNode Title="F16K31/36 ##其中来自导管的流体不断地供给液力马达" Target="frmContent" Href="../searchservlet?query=F16K31/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K31/36">
+        <TreeNode Title="F16K31/363 ###液体作用在活塞上(F16K 31/38优先)" Target="frmContent" Href="../searchservlet?query=F16K31/363&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K31/363"/>
+        <TreeNode Title="F16K31/365 ###流体作用在隔膜上" Target="frmContent" Href="../searchservlet?query=F16K31/365&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K31/365"/>
+        <TreeNode Title="F16K31/38 ###其中流体直接在液力马达的两侧工作，一侧用受限制的通道连接，马达由该侧操作排出口致动(F16K 31/40优先)" Target="frmContent" Href="../searchservlet?query=F16K31/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K31/38">
+          <TreeNode Title="F16K31/383 ####流体作用在活塞上" Target="frmContent" Href="../searchservlet?query=F16K31/383&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K31/383"/>
+          <TreeNode Title="F16K31/385 ####流体作用在隔膜上" Target="frmContent" Href="../searchservlet?query=F16K31/385&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K31/385"/>
+        </TreeNode>
+        <TreeNode Title="F16K31/40 ###在马达的排出口有电动元件" Target="frmContent" Href="../searchservlet?query=F16K31/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K31/40"/>
+      </TreeNode>
+      <TreeNode Title="F16K31/42 ##用在液力马达的供给或排出导管中的电动元件(F16K 31/40优先)" Target="frmContent" Href="../searchservlet?query=F16K31/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K31/42"/>
+    </TreeNode>
+    <TreeNode Title="F16K31/44 #机械致动装置" Target="frmContent" Href="../searchservlet?query=F16K31/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K31/44">
+      <TreeNode Title="F16K31/46 ##用于远距离操作" Target="frmContent" Href="../searchservlet?query=F16K31/46&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K31/46"/>
+      <TreeNode Title="F16K31/48 ##由机械定时装置致动，如带缓冲器(自闭阀入F16K 21/16)" Target="frmContent" Href="../searchservlet?query=F16K31/48&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K31/48"/>
+      <TreeNode Title="F16K31/50 ##带有螺旋轴" Target="frmContent" Href="../searchservlet?query=F16K31/50&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K31/50"/>
+      <TreeNode Title="F16K31/52 ##带有曲柄、偏心轮或凸轮" Target="frmContent" Href="../searchservlet?query=F16K31/52&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K31/52">
+        <TreeNode Title="F16K31/524 ###带有一个凸轮" Target="frmContent" Href="../searchservlet?query=F16K31/524&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K31/524"/>
+        <TreeNode Title="F16K31/528 ###带有销和槽" Target="frmContent" Href="../searchservlet?query=F16K31/528&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K31/528"/>
+      </TreeNode>
+      <TreeNode Title="F16K31/53 ##带有齿轮传动装置" Target="frmContent" Href="../searchservlet?query=F16K31/53&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K31/53">
+        <TreeNode Title="F16K31/54 ###带有齿轮齿条" Target="frmContent" Href="../searchservlet?query=F16K31/54&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K31/54"/>
+      </TreeNode>
+      <TreeNode Title="F16K31/56 ##无稳定的中间位置，如带有快动作" Target="frmContent" Href="../searchservlet?query=F16K31/56&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K31/56"/>
+      <TreeNode Title="F16K31/58 ##含有活动的排出喷嘴" Target="frmContent" Href="../searchservlet?query=F16K31/58&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K31/58"/>
+      <TreeNode Title="F16K31/60 ##手柄" Target="frmContent" Href="../searchservlet?query=F16K31/60&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K31/60"/>
+      <TreeNode Title="F16K31/62 ##踏板或类似操作元件，如用膝或臀部操纵" Target="frmContent" Href="../searchservlet?query=F16K31/62&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K31/62"/>
+    </TreeNode>
+    <TreeNode Title="F16K31/64 #对温度变化敏感的(取决于过高温度入F16K 17/38；消防设备的控制入A62C 37/00；防止水管因冻结而炸裂的装置入E03B 7/10)[4]" Target="frmContent" Href="../searchservlet?query=F16K31/64&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K31/64">
+      <TreeNode Title="F16K31/66 ##电或磁致动的，如通过可改变磁特性的磁铁[4]" Target="frmContent" Href="../searchservlet?query=F16K31/66&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K31/66"/>
+      <TreeNode Title="F16K31/68 ##由流体压力或改变封闭小室内的容积而致动的[4]" Target="frmContent" Href="../searchservlet?query=F16K31/68&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K31/68"/>
+      <TreeNode Title="F16K31/70 ##机械致动的，如由双金属片致动[4]" Target="frmContent" Href="../searchservlet?query=F16K31/70&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K31/70"/>
+    </TreeNode>
+    <TreeNode Title="F16K31/72 #操作方法或专门适用于提高阀反应速度的释放装置[4]" Target="frmContent" Href="../searchservlet?query=F16K31/72&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K31/72"/>
+  </TreeNode>
+  <TreeNode Title="F16K33/00 操纵阀或其他装置用的浮子" Target="frmContent" Href="../searchservlet?query=F16K33/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K33/00"/>
+  <TreeNode Title="F16K35/00 防止偶然的或未经许可动作的装置" Target="frmContent" Href="../searchservlet?query=F16K35/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K35/00">
+    <TreeNode Title="F16K35/02 #通过推或拉来锁定或断开" Target="frmContent" Href="../searchservlet?query=F16K35/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K35/02"/>
+    <TreeNode Title="F16K35/04 #用塑性变形阻碍动作" Target="frmContent" Href="../searchservlet?query=F16K35/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K35/04"/>
+    <TreeNode Title="F16K35/06 #使用可拆卸的致动或锁定元件，如键(F16K 35/10，F16K 35/12优先)" Target="frmContent" Href="../searchservlet?query=F16K35/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K35/06"/>
+    <TreeNode Title="F16K35/08 #需要按照代码调整，如互换锁" Target="frmContent" Href="../searchservlet?query=F16K35/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K35/08"/>
+    <TreeNode Title="F16K35/10 #带有锁定帽或锁杆" Target="frmContent" Href="../searchservlet?query=F16K35/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K35/10"/>
+    <TreeNode Title="F16K35/12 #带有密封引线" Target="frmContent" Href="../searchservlet?query=F16K35/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K35/12"/>
+    <TreeNode Title="F16K35/14 #联锁两个或多个阀" Target="frmContent" Href="../searchservlet?query=F16K35/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K35/14"/>
+    <TreeNode Title="F16K35/16 #带有由磁铁操纵的锁定元件" Target="frmContent" Href="../searchservlet?query=F16K35/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K35/16"/>
+  </TreeNode>
+  <TreeNode Title="F16K37/00 在阀或其他切断装置内或在其上的特殊装置，用于指示或记录其操作，或用于使能报警" Target="frmContent" Href="../searchservlet?query=F16K37/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K37/00"/>
+  <TreeNode Title="F16K39/00 用于在密封面上卸压的装置" Target="frmContent" Href="../searchservlet?query=F16K39/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K39/00">
+    <TreeNode Title="F16K39/02 #用于提升阀" Target="frmContent" Href="../searchservlet?query=F16K39/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K39/02"/>
+    <TreeNode Title="F16K39/04 #用于滑阀" Target="frmContent" Href="../searchservlet?query=F16K39/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K39/04"/>
+    <TreeNode Title="F16K39/06 #用于龙头或旋塞" Target="frmContent" Href="../searchservlet?query=F16K39/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K39/06"/>
+  </TreeNode>
+  <TreeNode Title="F16K41/00 轴密封" Target="frmContent" Href="../searchservlet?query=F16K41/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K41/00">
+    <TreeNode Title="F16K41/02 #带有填料函" Target="frmContent" Href="../searchservlet?query=F16K41/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K41/02">
+      <TreeNode Title="F16K41/04 ##在轴与外壳之间至少有一个橡胶或类似材料的环" Target="frmContent" Href="../searchservlet?query=F16K41/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K41/04"/>
+      <TreeNode Title="F16K41/06 ##至少有一个环连接轴与外壳" Target="frmContent" Href="../searchservlet?query=F16K41/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K41/06"/>
+      <TreeNode Title="F16K41/08 ##至少有一个具有轴向突出的周边闭合凸缘的环" Target="frmContent" Href="../searchservlet?query=F16K41/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K41/08"/>
+    </TreeNode>
+    <TreeNode Title="F16K41/10 #带有隔膜，如形状似波纹管或管子" Target="frmContent" Href="../searchservlet?query=F16K41/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K41/10">
+      <TreeNode Title="F16K41/12 ##带有近乎平的隔膜" Target="frmContent" Href="../searchservlet?query=F16K41/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K41/12"/>
+    </TreeNode>
+    <TreeNode Title="F16K41/14 #在轴上带锥形法兰与外壳内的锥面配合" Target="frmContent" Href="../searchservlet?query=F16K41/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K41/14"/>
+    <TreeNode Title="F16K41/16 #在轴上带靠在密封环上的法兰" Target="frmContent" Href="../searchservlet?query=F16K41/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K41/16">
+      <TreeNode Title="F16K41/18 ##仅在闭合元件处于开启位置时密封" Target="frmContent" Href="../searchservlet?query=F16K41/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K41/18"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="F16K43/00 在阀内的辅助闭合装置，在修理阀时，如清洗阀时，能承担正常闭合装置的功能；为相同目的而临时替换阀零件的装置" Target="frmContent" Href="../searchservlet?query=F16K43/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K43/00"/>
+  <TreeNode Title="F16K47/00 在阀内吸收流体能量的装置(用于管子的入F16L 55/00)" Target="frmContent" Href="../searchservlet?query=F16K47/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K47/00">
+    <TreeNode Title="F16K47/02 #用于防止水击或噪声" Target="frmContent" Href="../searchservlet?query=F16K47/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K47/02"/>
+    <TreeNode Title="F16K47/04 #用于减压，其节流包括在闭合元件内" Target="frmContent" Href="../searchservlet?query=F16K47/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K47/04">
+      <TreeNode Title="F16K47/06 ##节流取螺旋槽形式" Target="frmContent" Href="../searchservlet?query=F16K47/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K47/06"/>
+    </TreeNode>
+    <TreeNode Title="F16K47/08 #用于减压，并有一个节流元件和闭合元件分开" Target="frmContent" Href="../searchservlet?query=F16K47/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K47/08">
+      <TreeNode Title="F16K47/10 ##其中介质必须在一个方向流过节流槽，在另一方向可流过一个与节流槽平行的更宽的槽" Target="frmContent" Href="../searchservlet?query=F16K47/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K47/10"/>
+      <TreeNode Title="F16K47/12 ##节流槽为螺旋形" Target="frmContent" Href="../searchservlet?query=F16K47/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K47/12"/>
+      <TreeNode Title="F16K47/14 ##节流元件为多孔膜" Target="frmContent" Href="../searchservlet?query=F16K47/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K47/14"/>
+      <TreeNode Title="F16K47/16 ##节流元件为锥体" Target="frmContent" Href="../searchservlet?query=F16K47/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K47/16"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="F16K49/00 在阀内或阀上用于加热或冷却的装置(用于管子入F16L 53/00；有关管子或管系统的绝热入F16L 59/16)" Target="frmContent" Href="../searchservlet?query=F16K49/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K49/00"/>
+  <TreeNode Title="F16K51/00 非专门用于特殊型式的阀或切断装置的其他部件" Target="frmContent" Href="../searchservlet?query=F16K51/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K51/00">
+    <TreeNode Title="F16K51/02 #专门适用于高真空设备[2]" Target="frmContent" Href="../searchservlet?query=F16K51/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K51/02"/>
+  </TreeNode>
+  <TreeNode Title="F16K99/00 不包含在本小类其他组中的技术主题[8]" Target="frmContent" Href="../searchservlet?query=F16K99/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16K99/00"/>
+</Root>

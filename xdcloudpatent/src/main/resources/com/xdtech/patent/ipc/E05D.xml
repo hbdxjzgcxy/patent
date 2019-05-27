@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="E05D1/00 没有销的铰链；铰链的代用品" Target="frmContent" Href="../searchservlet?query=E05D1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E05D1/00">
+    <TreeNode Title="E05D1/02 #整块式铰链" Target="frmContent" Href="../searchservlet?query=E05D1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E05D1/02"/>
+    <TreeNode Title="E05D1/04 #具有圆弧形导向装置" Target="frmContent" Href="../searchservlet?query=E05D1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E05D1/04"/>
+    <TreeNode Title="E05D1/06 #由两个可易于脱开的部件组成" Target="frmContent" Href="../searchservlet?query=E05D1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E05D1/06"/>
+  </TreeNode>
+  <TreeNode Title="E05D3/00 有销的铰链" Target="frmContent" Href="../searchservlet?query=E05D3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E05D3/00">
+    <TreeNode Title="E05D3/02 #用1个销的" Target="frmContent" Href="../searchservlet?query=E05D3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E05D3/02">
+      <TreeNode Title="E05D3/04 ##连接3个或3个以上的部件，例如，用相互之间可活动的套筒，将两个或两个以上翼扇与另一个构件连接起来" Target="frmContent" Href="../searchservlet?query=E05D3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E05D3/04"/>
+    </TreeNode>
+    <TreeNode Title="E05D3/06 #用两个或两个以上销的(E05D 7/08优先)[２]" Target="frmContent" Href="../searchservlet?query=E05D3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E05D3/06">
+      <TreeNode Title="E05D3/08 ##用于双开式弹簧门的，也就是可从任何一边推开的" Target="frmContent" Href="../searchservlet?query=E05D3/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E05D3/08"/>
+      <TreeNode Title="E05D3/10 ##用不平行销的" Target="frmContent" Href="../searchservlet?query=E05D3/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E05D3/10"/>
+      <TreeNode Title="E05D3/12 ##用两个平行销和1个臂(E05D 3/08优先)[7]" Target="frmContent" Href="../searchservlet?query=E05D3/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E05D3/12"/>
+      <TreeNode Title="E05D3/14 ##用4个平行销和两个臂(E05D 3/08优先)[7]" Target="frmContent" Href="../searchservlet?query=E05D3/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E05D3/14"/>
+      <TreeNode Title="E05D3/16 ##用7个平行销和两个臂(E05D 3/08优先)[7]" Target="frmContent" Href="../searchservlet?query=E05D3/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E05D3/16"/>
+      <TreeNode Title="E05D3/18 ##用滑动销或导向件(E05D 3/08优先)[7]" Target="frmContent" Href="../searchservlet?query=E05D3/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E05D3/18"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="E05D5/00 单独部件的构造，例如，连接用的零件" Target="frmContent" Href="../searchservlet?query=E05D5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E05D5/00">
+    <TreeNode Title="E05D5/02 #连接部件，例如，折页板" Target="frmContent" Href="../searchservlet?query=E05D5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E05D5/02">
+      <TreeNode Title="E05D5/04 ##平折页板" Target="frmContent" Href="../searchservlet?query=E05D5/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E05D5/04"/>
+      <TreeNode Title="E05D5/06 ##弯折页板" Target="frmContent" Href="../searchservlet?query=E05D5/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E05D5/06"/>
+      <TreeNode Title="E05D5/08 ##圆筒形的" Target="frmContent" Href="../searchservlet?query=E05D5/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E05D5/08"/>
+    </TreeNode>
+    <TreeNode Title="E05D5/10 #销、插孔或套筒；活动销(E05D 15/522优先)[２]" Target="frmContent" Href="../searchservlet?query=E05D5/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E05D5/10">
+      <TreeNode Title="E05D5/12 ##将销钉固定于插孔内，可活动或不活动" Target="frmContent" Href="../searchservlet?query=E05D5/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E05D5/12"/>
+      <TreeNode Title="E05D5/14 ##插孔或套筒的构造" Target="frmContent" Href="../searchservlet?query=E05D5/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E05D5/14">
+        <TreeNode Title="E05D5/16 ###不用特殊连接件固定于插孔或套筒内的" Target="frmContent" Href="../searchservlet?query=E05D5/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E05D5/16"/>
+      </TreeNode>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="E05D7/00 特殊结构的铰链或枢轴(用于特殊悬挂装置者入E05D 15/00；能自动关闭者入E05F 1/06，E05F 1/12；在转动前即能抬起翼扇者入E05F 7/02)" Target="frmContent" Href="../searchservlet?query=E05D7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E05D7/00">
+    <TreeNode Title="E05D7/02 #用于左侧也可用于右侧的；可转换的左侧或右侧铰链" Target="frmContent" Href="../searchservlet?query=E05D7/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E05D7/02"/>
+    <TreeNode Title="E05D7/04 #对于翼扇或框可作相应调节的铰链" Target="frmContent" Href="../searchservlet?query=E05D7/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E05D7/04"/>
+    <TreeNode Title="E05D7/06 #可使部件倾斜的铰链" Target="frmContent" Href="../searchservlet?query=E05D7/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E05D7/06"/>
+    <TreeNode Title="E05D7/08 #用于包含了位于翼扇相对两端，特别是顶端和底部的塞栓的悬挂中，例如，耳轴" Target="frmContent" Href="../searchservlet?query=E05D7/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E05D7/08">
+      <TreeNode Title="E05D7/081 ##翼扇的枢轴位于翼扇的一个边缘附近(其制动器件入E05D 11/08)[２]" Target="frmContent" Href="../searchservlet?query=E05D7/081&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E05D7/081"/>
+      <TreeNode Title="E05D7/082 ##翼扇的枢轴离翼扇边缘较远[２]" Target="frmContent" Href="../searchservlet?query=E05D7/082&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E05D7/082">
+        <TreeNode Title="E05D7/083 ###有固定枢轴的[２]" Target="frmContent" Href="../searchservlet?query=E05D7/083&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E05D7/083"/>
+        <TreeNode Title="E05D7/084 ###有活动枢轴的[２]" Target="frmContent" Href="../searchservlet?query=E05D7/084&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E05D7/084">
+          <TreeNode Title="E05D7/085 ####具有两个或两个以上枢轴的，例如，同时使用的[２]" Target="frmContent" Href="../searchservlet?query=E05D7/085&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E05D7/085"/>
+        </TreeNode>
+        <TreeNode Title="E05D7/086 ###结构上与铰链联结起来的制动器件(窗上用的制动器件本身入E05F 5/00)[2]" Target="frmContent" Href="../searchservlet?query=E05D7/086&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E05D7/086"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="E05D7/10 #便于在铰链轴上拆卸的部件(铰链代用品入E05D 1/06)" Target="frmContent" Href="../searchservlet?query=E05D7/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E05D7/10"/>
+    <TreeNode Title="E05D7/12 #便于将铰链从翼扇或框上卸下的" Target="frmContent" Href="../searchservlet?query=E05D7/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E05D7/12"/>
+    <TreeNode Title="E05D7/14 #保险柜用铰链" Target="frmContent" Href="../searchservlet?query=E05D7/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E05D7/14"/>
+  </TreeNode>
+  <TreeNode Title="E05D9/00 用特殊材料，例如，箍铁、薄钢板、塑料制作的特别设计的折页板或套筒" Target="frmContent" Href="../searchservlet?query=E05D9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E05D9/00"/>
+  <TreeNode Title="E05D11/00 铰链的附加特征或附件" Target="frmContent" Href="../searchservlet?query=E05D11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E05D11/00">
+    <TreeNode Title="E05D11/02 #润滑装置" Target="frmContent" Href="../searchservlet?query=E05D11/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E05D11/02"/>
+    <TreeNode Title="E05D11/04 #关于用活动滚珠作支承面的(E05D 7/06优先)" Target="frmContent" Href="../searchservlet?query=E05D11/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E05D11/04"/>
+    <TreeNode Title="E05D11/06 #限止铰链开启动作的器件" Target="frmContent" Href="../searchservlet?query=E05D11/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E05D11/06"/>
+    <TreeNode Title="E05D11/08 #相对活动的铰链部件之间的摩擦器件(E05D 7/086优先)[２]" Target="frmContent" Href="../searchservlet?query=E05D11/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E05D11/08"/>
+    <TreeNode Title="E05D11/10 #相对活动的铰链部件之间的阻止活动器件" Target="frmContent" Href="../searchservlet?query=E05D11/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E05D11/10"/>
+  </TreeNode>
+  <TreeNode Title="E05D13/00 用于滑动或提升翼扇的附件，例如，滑轮、安全掣子(平衡器件入E05F 1/00，E05F 3/00)[4]" Target="frmContent" Href="../searchservlet?query=E05D13/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E05D13/00"/>
+  <TreeNode Title="E05D15/00 翼扇的悬挂装置(不以支承设施的构造为特征的翼扇布置入E06B 3/32)" Target="frmContent" Href="../searchservlet?query=E05D15/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E05D15/00">
+    <TreeNode Title="E05D15/02 #旋转翼扇用的" Target="frmContent" Href="../searchservlet?query=E05D15/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E05D15/02"/>
+    <TreeNode Title="E05D15/04 #有臂杆固定于翼扇，且翼扇围绕着翼扇外的轴旋转" Target="frmContent" Href="../searchservlet?query=E05D15/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E05D15/04"/>
+    <TreeNode Title="E05D15/06 #基本上在其自身平面内作水平滑动的翼扇用的" Target="frmContent" Href="../searchservlet?query=E05D15/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E05D15/06">
+      <TreeNode Title="E05D15/08 ##包括两个或两个以上可各自在其导杆移动的独立部件" Target="frmContent" Href="../searchservlet?query=E05D15/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E05D15/08"/>
+      <TreeNode Title="E05D15/10 ##可从1个平面滑出，进到第2个平行的平面" Target="frmContent" Href="../searchservlet?query=E05D15/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E05D15/10"/>
+      <TreeNode Title="E05D15/12 ##包括在它们的边缘相接的部件" Target="frmContent" Href="../searchservlet?query=E05D15/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E05D15/12"/>
+      <TreeNode Title="E05D15/14 ##在翼扇平面内装有可活动臂杆的" Target="frmContent" Href="../searchservlet?query=E05D15/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E05D15/14"/>
+    </TreeNode>
+    <TreeNode Title="E05D15/16 #基本上在其自身平面内作竖向滑动的翼扇用的" Target="frmContent" Href="../searchservlet?query=E05D15/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E05D15/16">
+      <TreeNode Title="E05D15/18 ##包括两个或两个以上可各自在其导杆移动的独立部件" Target="frmContent" Href="../searchservlet?query=E05D15/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E05D15/18"/>
+      <TreeNode Title="E05D15/20 ##可从1个平面滑出进到第2个平行平面的" Target="frmContent" Href="../searchservlet?query=E05D15/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E05D15/20"/>
+      <TreeNode Title="E05D15/22 ##允许1个附加的活动" Target="frmContent" Href="../searchservlet?query=E05D15/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E05D15/22"/>
+      <TreeNode Title="E05D15/24 ##包括在它们的边缘相接的部件" Target="frmContent" Href="../searchservlet?query=E05D15/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E05D15/24"/>
+    </TreeNode>
+    <TreeNode Title="E05D15/26 #用于可折叠翼扇的" Target="frmContent" Href="../searchservlet?query=E05D15/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E05D15/26"/>
+    <TreeNode Title="E05D15/28 #支撑在水平平面内能滑动的臂杆上" Target="frmContent" Href="../searchservlet?query=E05D15/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E05D15/28">
+      <TreeNode Title="E05D15/30 ##带有回转臂杆和滑动导杆的" Target="frmContent" Href="../searchservlet?query=E05D15/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E05D15/30"/>
+      <TreeNode Title="E05D15/32 ##带有两对回转臂杆的" Target="frmContent" Href="../searchservlet?query=E05D15/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E05D15/32">
+        <TreeNode Title="E05D15/34 ###具有以平行于自身的开启的翼扇" Target="frmContent" Href="../searchservlet?query=E05D15/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E05D15/34"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="E05D15/36 #翼扇沿滑道移动，使其一个导向构件沿基本上垂直于另一个导向构件的方向运动" Target="frmContent" Href="../searchservlet?query=E05D15/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E05D15/36">
+      <TreeNode Title="E05D15/38 ##用于向上移动的翼扇，例如向上移动并翻转的门" Target="frmContent" Href="../searchservlet?query=E05D15/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E05D15/38"/>
+    </TreeNode>
+    <TreeNode Title="E05D15/40 #支承在可于垂直平面内活动的臂杆上" Target="frmContent" Href="../searchservlet?query=E05D15/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E05D15/40">
+      <TreeNode Title="E05D15/42 ##带有回转臂杆和水平滑动导轨的" Target="frmContent" Href="../searchservlet?query=E05D15/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E05D15/42"/>
+      <TreeNode Title="E05D15/44 ##带有回转臂杆和垂直滑动导轨的" Target="frmContent" Href="../searchservlet?query=E05D15/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E05D15/44"/>
+      <TreeNode Title="E05D15/46 ##带有两对回转臂杆的" Target="frmContent" Href="../searchservlet?query=E05D15/46&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E05D15/46"/>
+    </TreeNode>
+    <TreeNode Title="E05D15/48 #可交替活动的(垂直滑动翼扇入E05D15/22)" Target="frmContent" Href="../searchservlet?query=E05D15/48&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E05D15/48">
+      <TreeNode Title="E05D15/50 ##可在两个相对边的任意一侧开启的" Target="frmContent" Href="../searchservlet?query=E05D15/50&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E05D15/50"/>
+      <TreeNode Title="E05D15/52 ##可绕垂直及水平轴向开启的" Target="frmContent" Href="../searchservlet?query=E05D15/52&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E05D15/52">
+        <TreeNode Title="E05D15/522 ###带有供适当回转部件用的脱卸装置[２]" Target="frmContent" Href="../searchservlet?query=E05D15/522&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E05D15/522">
+          <TreeNode Title="E05D15/523 ####采用活动连杆的[２]" Target="frmContent" Href="../searchservlet?query=E05D15/523&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E05D15/523">
+            <TreeNode Title="E05D15/524 #####带启动装置的[２]" Target="frmContent" Href="../searchservlet?query=E05D15/524&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E05D15/524"/>
+          </TreeNode>
+        </TreeNode>
+        <TreeNode Title="E05D15/526 ###带安全装置的[２]" Target="frmContent" Href="../searchservlet?query=E05D15/526&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E05D15/526"/>
+      </TreeNode>
+      <TreeNode Title="E05D15/54 ##可向内也可向外开启的" Target="frmContent" Href="../searchservlet?query=E05D15/54&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E05D15/54"/>
+    </TreeNode>
+    <TreeNode Title="E05D15/56 #可作连续的不同活动的" Target="frmContent" Href="../searchservlet?query=E05D15/56&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E05D15/56">
+      <TreeNode Title="E05D15/58 ##可兼作摇动及滑动动作的" Target="frmContent" Href="../searchservlet?query=E05D15/58&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E05D15/58"/>
+    </TreeNode>
+  </TreeNode>
+</Root>

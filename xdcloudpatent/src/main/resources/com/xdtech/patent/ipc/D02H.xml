@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="D02H1/00 筒子架，即把若干根单线组合起来的供应机构" Target="frmContent" Href="../searchservlet?query=D02H1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D02H1/00"/>
+  <TreeNode Title="D02H3/00 整经机" Target="frmContent" Href="../searchservlet?query=D02H3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D02H3/00"/>
+  <TreeNode Title="D02H5/00 倒轴机" Target="frmContent" Href="../searchservlet?query=D02H5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D02H5/00">
+    <TreeNode Title="D02H5/02 #同浆纱或其他经纱处理机构结合起来的(浆纱本身入D06B)" Target="frmContent" Href="../searchservlet?query=D02H5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D02H5/02"/>
+  </TreeNode>
+  <TreeNode Title="D02H7/00 整经和倒轴联合机" Target="frmContent" Href="../searchservlet?query=D02H7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D02H7/00"/>
+  <TreeNode Title="D02H9/00 分绞" Target="frmContent" Href="../searchservlet?query=D02H9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D02H9/00">
+    <TreeNode Title="D02H9/02 #分绞棒和分绞绳" Target="frmContent" Href="../searchservlet?query=D02H9/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D02H9/02"/>
+  </TreeNode>
+  <TreeNode Title="D02H11/00 组D02H 1/00至D02H 9/00未包括的方法或设备，如经纱洗涤" Target="frmContent" Href="../searchservlet?query=D02H11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D02H11/00"/>
+  <TreeNode Title="D02H13/00 本小类其他各组机器的零部件" Target="frmContent" Href="../searchservlet?query=D02H13/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D02H13/00">
+    <TreeNode Title="D02H13/02 #停车装置" Target="frmContent" Href="../searchservlet?query=D02H13/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D02H13/02">
+      <TreeNode Title="D02H13/04 ##带有检测器对单根或成组纱线断头、松弛或过紧作出反应的停车装置" Target="frmContent" Href="../searchservlet?query=D02H13/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D02H13/04">
+        <TreeNode Title="D02H13/06 ###机械的" Target="frmContent" Href="../searchservlet?query=D02H13/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D02H13/06"/>
+        <TreeNode Title="D02H13/08 ###电动的" Target="frmContent" Href="../searchservlet?query=D02H13/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D02H13/08"/>
+      </TreeNode>
+      <TreeNode Title="D02H13/10 ##与纱线测长装置相结合的停车装置，即整经绕到所需长度时自停" Target="frmContent" Href="../searchservlet?query=D02H13/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D02H13/10"/>
+    </TreeNode>
+    <TreeNode Title="D02H13/12 #变速传动机构" Target="frmContent" Href="../searchservlet?query=D02H13/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D02H13/12">
+      <TreeNode Title="D02H13/14 ##整经中由张力自动控制的" Target="frmContent" Href="../searchservlet?query=D02H13/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D02H13/14"/>
+    </TreeNode>
+    <TreeNode Title="D02H13/16 #决定纱线间隔的钢筘、钢梳或其他设备" Target="frmContent" Href="../searchservlet?query=D02H13/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D02H13/16">
+      <TreeNode Title="D02H13/18 ##间隔可调的" Target="frmContent" Href="../searchservlet?query=D02H13/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D02H13/18"/>
+      <TreeNode Title="D02H13/20 ##间隔固定的" Target="frmContent" Href="../searchservlet?query=D02H13/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D02H13/20"/>
+    </TreeNode>
+    <TreeNode Title="D02H13/22 #张力装置" Target="frmContent" Href="../searchservlet?query=D02H13/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D02H13/22">
+      <TreeNode Title="D02H13/24 ##单纱用" Target="frmContent" Href="../searchservlet?query=D02H13/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D02H13/24"/>
+      <TreeNode Title="D02H13/26 ##经纱用(控制经轴或类似物的传动，保持其张力恒定的入D02H 13/14)" Target="frmContent" Href="../searchservlet?query=D02H13/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D02H13/26"/>
+    </TreeNode>
+    <TreeNode Title="D02H13/28 #经轴(卷布辊入D03D 49/20)" Target="frmContent" Href="../searchservlet?query=D02H13/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D02H13/28">
+      <TreeNode Title="D02H13/30 ##带边盘的" Target="frmContent" Href="../searchservlet?query=D02H13/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D02H13/30">
+        <TreeNode Title="D02H13/32 ###可调节的" Target="frmContent" Href="../searchservlet?query=D02H13/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D02H13/32"/>
+      </TreeNode>
+      <TreeNode Title="D02H13/34 ##分段的" Target="frmContent" Href="../searchservlet?query=D02H13/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D02H13/34"/>
+      <TreeNode Title="D02H13/36 ##经纱连到经轴的装置" Target="frmContent" Href="../searchservlet?query=D02H13/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D02H13/36"/>
+    </TreeNode>
+    <TreeNode Title="D02H13/38 #经轴贮存架" Target="frmContent" Href="../searchservlet?query=D02H13/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D02H13/38"/>
+  </TreeNode>
+</Root>

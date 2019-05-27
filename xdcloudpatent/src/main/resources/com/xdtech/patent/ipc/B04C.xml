@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="B04C1/00 旋流主要方向为平面螺线的装置" Target="frmContent" Href="../searchservlet?query=B04C1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B04C1/00"/>
+  <TreeNode Title="B04C3/00 旋流的轴向保持不变的装置" Target="frmContent" Href="../searchservlet?query=B04C3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B04C3/00">
+    <TreeNode Title="B04C3/02 #有加热或冷却，如淬冷，装置的" Target="frmContent" Href="../searchservlet?query=B04C3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B04C3/02"/>
+    <TreeNode Title="B04C3/04 #它的复式装置" Target="frmContent" Href="../searchservlet?query=B04C3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B04C3/04"/>
+    <TreeNode Title="B04C3/06 #旋流室进口和出口的结构" Target="frmContent" Href="../searchservlet?query=B04C3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B04C3/06"/>
+  </TreeNode>
+  <TreeNode Title="B04C5/00 旋流的轴向可以反向的装置" Target="frmContent" Href="../searchservlet?query=B04C5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B04C5/00">
+    <TreeNode Title="B04C5/02 #产生旋流的注入口的结构" Target="frmContent" Href="../searchservlet?query=B04C5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B04C5/02">
+      <TreeNode Title="B04C5/04 ##切向注入口" Target="frmContent" Href="../searchservlet?query=B04C5/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B04C5/04"/>
+      <TreeNode Title="B04C5/06 ##轴向注入口" Target="frmContent" Href="../searchservlet?query=B04C5/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B04C5/06"/>
+    </TreeNode>
+    <TreeNode Title="B04C5/08 #旋流室的结构" Target="frmContent" Href="../searchservlet?query=B04C5/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B04C5/08">
+      <TreeNode Title="B04C5/081 ##形状和尺寸" Target="frmContent" Href="../searchservlet?query=B04C5/081&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B04C5/081"/>
+      <TreeNode Title="B04C5/085 ##有抗磨损装置的" Target="frmContent" Href="../searchservlet?query=B04C5/085&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B04C5/085"/>
+      <TreeNode Title="B04C5/087 ##有挠性气密壁的" Target="frmContent" Href="../searchservlet?query=B04C5/087&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B04C5/087"/>
+      <TreeNode Title="B04C5/10 ##有多孔壁的" Target="frmContent" Href="../searchservlet?query=B04C5/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B04C5/10"/>
+      <TreeNode Title="B04C5/103 ##壳体和元件，如旋流室中的隔板、导板(芯子入B04C 5/107)" Target="frmContent" Href="../searchservlet?query=B04C5/103&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B04C5/103"/>
+      <TreeNode Title="B04C5/107 ##芯子；在水力旋流器中造成空气芯的装置(出口管的成形部分入B04C 5/13)" Target="frmContent" Href="../searchservlet?query=B04C5/107&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B04C5/107"/>
+    </TreeNode>
+    <TreeNode Title="B04C5/12 #溢流管道的结构，如扩散的或螺旋形的引出端" Target="frmContent" Href="../searchservlet?query=B04C5/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B04C5/12">
+      <TreeNode Title="B04C5/13 ##形成旋流探测器并且延伸到旋流室中；从旋流探测器中而不是从旋流器顶部出料；控制溢流的设备" Target="frmContent" Href="../searchservlet?query=B04C5/13&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B04C5/13"/>
+    </TreeNode>
+    <TreeNode Title="B04C5/14 #下溢管道的结构；顶部构造；出料装置" Target="frmContent" Href="../searchservlet?query=B04C5/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B04C5/14">
+      <TreeNode Title="B04C5/15 ##有摆动翼片或转动闸门的；闸门；防逆阀" Target="frmContent" Href="../searchservlet?query=B04C5/15&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B04C5/15"/>
+      <TreeNode Title="B04C5/16 ##从下溢道起出口尺寸可变" Target="frmContent" Href="../searchservlet?query=B04C5/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B04C5/16"/>
+      <TreeNode Title="B04C5/18 ##有帮助出料的辅助液体" Target="frmContent" Href="../searchservlet?query=B04C5/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B04C5/18"/>
+      <TreeNode Title="B04C5/181 ##出料口处的隔板或芯体" Target="frmContent" Href="../searchservlet?query=B04C5/181&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B04C5/181"/>
+      <TreeNode Title="B04C5/185 ##集尘器" Target="frmContent" Href="../searchservlet?query=B04C5/185&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B04C5/185">
+        <TreeNode Title="B04C5/187 ###形成旋流室整体的一部分" Target="frmContent" Href="../searchservlet?query=B04C5/187&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B04C5/187"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="B04C5/20 #有加热或冷却(如淬冷)装置" Target="frmContent" Href="../searchservlet?query=B04C5/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B04C5/20"/>
+    <TreeNode Title="B04C5/22 #有清洁装置" Target="frmContent" Href="../searchservlet?query=B04C5/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B04C5/22">
+      <TreeNode Title="B04C5/23 ##使用液体的" Target="frmContent" Href="../searchservlet?query=B04C5/23&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B04C5/23"/>
+    </TreeNode>
+    <TreeNode Title="B04C5/24 #它的复式装置" Target="frmContent" Href="../searchservlet?query=B04C5/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B04C5/24">
+      <TreeNode Title="B04C5/26 ##用于串联的流道" Target="frmContent" Href="../searchservlet?query=B04C5/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B04C5/26"/>
+      <TreeNode Title="B04C5/28 ##用于并联的流道" Target="frmContent" Href="../searchservlet?query=B04C5/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B04C5/28"/>
+      <TreeNode Title="B04C5/30 ##在旋流器中或与旋流器一起的，使介质的一部分完成再循环的再循环结构，如利用输送管道" Target="frmContent" Href="../searchservlet?query=B04C5/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B04C5/30"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="B04C7/00 不包含在B04C 1/00，B04C 3/00或B04C 5/00组中的装置；不包含在B04C1/00，B04C3/00或B04C5/00单独一个组中的复式装置；包括在B04C 1/00，B04C 3/00或B04C 5/00两个或两个组以上的装置的组合" Target="frmContent" Href="../searchservlet?query=B04C7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B04C7/00"/>
+  <TreeNode Title="B04C9/00 与其他设备(如通风机)的组合(带有从气体或蒸气中分离粒子的过滤器入B01D 50/00；带有从气体或蒸气中分离粒子的干静电沉积的入B03C 3/15)" Target="frmContent" Href="../searchservlet?query=B04C9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B04C9/00"/>
+  <TreeNode Title="B04C11/00 其他类目中不包括的附属设备，如安全或控制装置" Target="frmContent" Href="../searchservlet?query=B04C11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B04C11/00"/>
+</Root>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="F41F1/00 用于自身管发射弹丸或导弹的发射装置，例如加农炮(F41F 3/00优先)；捕鲸炮" Target="frmContent" Href="../searchservlet?query=F41F1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41F1/00">
+    <TreeNode Title="F41F1/06 #迫击炮(底座入F41A 23/54)" Target="frmContent" Href="../searchservlet?query=F41F1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41F1/06"/>
+    <TreeNode Title="F41F1/08 #多筒炮，例如双筒炮[5]" Target="frmContent" Href="../searchservlet?query=F41F1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41F1/08">
+      <TreeNode Title="F41F1/10 ##回转式加农炮，即具有多个身管的多管炮及其固定于旋转部分的各自的后膛；后膛机构[5]" Target="frmContent" Href="../searchservlet?query=F41F1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41F1/10"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="F41F3/00 火箭或鱼雷发射装置" Target="frmContent" Href="../searchservlet?query=F41F3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41F3/00">
+    <TreeNode Title="F41F3/04 #用于火箭的" Target="frmContent" Href="../searchservlet?query=F41F3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41F3/04">
+      <TreeNode Title="F41F3/042 ##也用作火箭运输容器的发射装置[4]" Target="frmContent" Href="../searchservlet?query=F41F3/042&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41F3/042"/>
+      <TreeNode Title="F41F3/045 ##适宜于人员携带和使用的，例如火箭筒(F41F 3/042优先)[4]" Target="frmContent" Href="../searchservlet?query=F41F3/045&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41F3/045"/>
+      <TreeNode Title="F41F3/048 ##发射前把自旋传给火箭的装置[4]" Target="frmContent" Href="../searchservlet?query=F41F3/048&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41F3/048"/>
+      <TreeNode Title="F41F3/052 ##把火箭固定于发射装置中的设备[4]" Target="frmContent" Href="../searchservlet?query=F41F3/052&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41F3/052"/>
+      <TreeNode Title="F41F3/055 ##脐带式连接装置[4]" Target="frmContent" Href="../searchservlet?query=F41F3/055&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41F3/055"/>
+      <TreeNode Title="F41F3/058 ##排除哑弹或瞎火的装置[4]" Target="frmContent" Href="../searchservlet?query=F41F3/058&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41F3/058"/>
+      <TreeNode Title="F41F3/06 ##从飞机上发射的" Target="frmContent" Href="../searchservlet?query=F41F3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41F3/06">
+        <TreeNode Title="F41F3/065 ###火箭架，即用于发射多个火箭的可分开的容器[5]" Target="frmContent" Href="../searchservlet?query=F41F3/065&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41F3/065"/>
+      </TreeNode>
+      <TreeNode Title="F41F3/07 ##水下发射装置[4]" Target="frmContent" Href="../searchservlet?query=F41F3/07&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41F3/07"/>
+      <TreeNode Title="F41F3/073 ##火箭发射井，例如其中的固定或密封火箭(F41F 3/077优先)[5]" Target="frmContent" Href="../searchservlet?query=F41F3/073&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41F3/073"/>
+      <TreeNode Title="F41F3/077 ##发射筒的门或盖[5]" Target="frmContent" Href="../searchservlet?query=F41F3/077&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41F3/077"/>
+    </TreeNode>
+    <TreeNode Title="F41F3/08 #用于海上鱼雷的" Target="frmContent" Href="../searchservlet?query=F41F3/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41F3/08">
+      <TreeNode Title="F41F3/10 ##从水面下发射的" Target="frmContent" Href="../searchservlet?query=F41F3/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41F3/10"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="F41F5/00 用于重力推进的导弹或投射弹的发射装置(从飞行器上的入B64D 1/04)" Target="frmContent" Href="../searchservlet?query=F41F5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41F5/00">
+    <TreeNode Title="F41F5/04 #从舰艇上发射的，例如发射水雷用的，发射深水炸弹用的" Target="frmContent" Href="../searchservlet?query=F41F5/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41F5/04"/>
+  </TreeNode>
+  <TreeNode Title="F41F7/00 除用身管外的发射导弹或投射弹的其他发射设置(F41F 3/04优先)[3]" Target="frmContent" Href="../searchservlet?query=F41F7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41F7/00"/>
+</Root>

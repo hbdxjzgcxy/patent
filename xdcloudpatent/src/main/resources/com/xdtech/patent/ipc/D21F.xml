@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="D21F1/00 制造连续纸幅的纸机湿部" Target="frmContent" Href="../searchservlet?query=D21F1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D21F1/00">
+    <TreeNode Title="D21F1/02 #长网造纸机的网前箱" Target="frmContent" Href="../searchservlet?query=D21F1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D21F1/02"/>
+    <TreeNode Title="D21F1/04 #圆网造纸机的流浆箱" Target="frmContent" Href="../searchservlet?query=D21F1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D21F1/04"/>
+    <TreeNode Title="D21F1/06 #调节浆料流送" Target="frmContent" Href="../searchservlet?query=D21F1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D21F1/06"/>
+    <TreeNode Title="D21F1/08 #调节稠度" Target="frmContent" Href="../searchservlet?query=D21F1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D21F1/08"/>
+    <TreeNode Title="D21F1/10 #造纸网" Target="frmContent" Href="../searchservlet?query=D21F1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D21F1/10">
+      <TreeNode Title="D21F1/12 ##造纸网的接口" Target="frmContent" Href="../searchservlet?query=D21F1/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D21F1/12">
+        <TreeNode Title="D21F1/14 ###焊接的" Target="frmContent" Href="../searchservlet?query=D21F1/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D21F1/14"/>
+        <TreeNode Title="D21F1/16 ###缝接的" Target="frmContent" Href="../searchservlet?query=D21F1/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D21F1/16"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="D21F1/18 #造纸网摇振装置及附属零件" Target="frmContent" Href="../searchservlet?query=D21F1/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D21F1/18">
+      <TreeNode Title="D21F1/20 ##长网造纸机的" Target="frmContent" Href="../searchservlet?query=D21F1/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D21F1/20"/>
+      <TreeNode Title="D21F1/22 ##圆网造纸机的" Target="frmContent" Href="../searchservlet?query=D21F1/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D21F1/22"/>
+    </TreeNode>
+    <TreeNode Title="D21F1/24 #倾料、升降造纸网机构" Target="frmContent" Href="../searchservlet?query=D21F1/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D21F1/24">
+      <TreeNode Title="D21F1/26 ##长网造纸机的" Target="frmContent" Href="../searchservlet?query=D21F1/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D21F1/26"/>
+      <TreeNode Title="D21F1/28 ##圆网造纸机的" Target="frmContent" Href="../searchservlet?query=D21F1/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D21F1/28"/>
+    </TreeNode>
+    <TreeNode Title="D21F1/30 #保护造纸网防止机械破坏" Target="frmContent" Href="../searchservlet?query=D21F1/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D21F1/30"/>
+    <TreeNode Title="D21F1/32 #洗涤造纸网或毛布" Target="frmContent" Href="../searchservlet?query=D21F1/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D21F1/32"/>
+    <TreeNode Title="D21F1/34 #喷水管的构造或配置" Target="frmContent" Href="../searchservlet?query=D21F1/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D21F1/34"/>
+    <TreeNode Title="D21F1/36 #调整机构" Target="frmContent" Href="../searchservlet?query=D21F1/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D21F1/36">
+      <TreeNode Title="D21F1/38 ##垫" Target="frmContent" Href="../searchservlet?query=D21F1/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D21F1/38"/>
+      <TreeNode Title="D21F1/40 ##辊筒" Target="frmContent" Href="../searchservlet?query=D21F1/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D21F1/40"/>
+      <TreeNode Title="D21F1/42 ##喷嘴" Target="frmContent" Href="../searchservlet?query=D21F1/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D21F1/42"/>
+    </TreeNode>
+    <TreeNode Title="D21F1/44 #水印装置" Target="frmContent" Href="../searchservlet?query=D21F1/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D21F1/44">
+      <TreeNode Title="D21F1/46 ##水印辊" Target="frmContent" Href="../searchservlet?query=D21F1/46&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D21F1/46"/>
+    </TreeNode>
+    <TreeNode Title="D21F1/48 #抽吸装置(吸水辊入D21F 3/10)" Target="frmContent" Href="../searchservlet?query=D21F1/48&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D21F1/48">
+      <TreeNode Title="D21F1/50 ##带辊吸水箱" Target="frmContent" Href="../searchservlet?query=D21F1/50&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D21F1/50"/>
+      <TreeNode Title="D21F1/52 ##不带辊的吸水箱" Target="frmContent" Href="../searchservlet?query=D21F1/52&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D21F1/52"/>
+    </TreeNode>
+    <TreeNode Title="D21F1/54 #撇除装置，例如泡沫撇除器" Target="frmContent" Href="../searchservlet?query=D21F1/54&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D21F1/54"/>
+    <TreeNode Title="D21F1/56 #定边框架装置" Target="frmContent" Href="../searchservlet?query=D21F1/56&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D21F1/56"/>
+    <TreeNode Title="D21F1/58 #定边带" Target="frmContent" Href="../searchservlet?query=D21F1/58&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D21F1/58"/>
+    <TreeNode Title="D21F1/60 #网笼" Target="frmContent" Href="../searchservlet?query=D21F1/60&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D21F1/60"/>
+    <TreeNode Title="D21F1/62 #沉砂盘" Target="frmContent" Href="../searchservlet?query=D21F1/62&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D21F1/62"/>
+    <TreeNode Title="D21F1/64 #磁力分离器" Target="frmContent" Href="../searchservlet?query=D21F1/64&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D21F1/64"/>
+    <TreeNode Title="D21F1/66 #纸浆捕集、脱水及回收；浆水(即白水)再用" Target="frmContent" Href="../searchservlet?query=D21F1/66&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D21F1/66">
+      <TreeNode Title="D21F1/68 ##使用水力旋风器的" Target="frmContent" Href="../searchservlet?query=D21F1/68&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D21F1/68"/>
+      <TreeNode Title="D21F1/70 ##用浮选法的" Target="frmContent" Href="../searchservlet?query=D21F1/70&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D21F1/70"/>
+      <TreeNode Title="D21F1/72 ##用漏斗形沉淀塔的" Target="frmContent" Href="../searchservlet?query=D21F1/72&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D21F1/72"/>
+      <TreeNode Title="D21F1/74 ##使用圆网的" Target="frmContent" Href="../searchservlet?query=D21F1/74&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D21F1/74">
+        <TreeNode Title="D21F1/76 ###带有吸力的" Target="frmContent" Href="../searchservlet?query=D21F1/76&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D21F1/76"/>
+        <TreeNode Title="D21F1/78 ###带有压力的" Target="frmContent" Href="../searchservlet?query=D21F1/78&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D21F1/78"/>
+      </TreeNode>
+      <TreeNode Title="D21F1/80 ##使用无端筛带的" Target="frmContent" Href="../searchservlet?query=D21F1/80&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D21F1/80"/>
+      <TreeNode Title="D21F1/82 ##加添纤维凝聚物" Target="frmContent" Href="../searchservlet?query=D21F1/82&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D21F1/82"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="D21F2/00 从湿部端头到压榨部分传送连续的纸幅" Target="frmContent" Href="../searchservlet?query=D21F2/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D21F2/00"/>
+  <TreeNode Title="D21F3/00 制造连续纸幅的造纸机的压榨部" Target="frmContent" Href="../searchservlet?query=D21F3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D21F3/00">
+    <TreeNode Title="D21F3/02 #湿压榨" Target="frmContent" Href="../searchservlet?query=D21F3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D21F3/02">
+      <TreeNode Title="D21F3/04 ##湿压榨的配置" Target="frmContent" Href="../searchservlet?query=D21F3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D21F3/04"/>
+      <TreeNode Title="D21F3/06 ##调节压力的方法" Target="frmContent" Href="../searchservlet?query=D21F3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D21F3/06"/>
+      <TreeNode Title="D21F3/08 ##压辊" Target="frmContent" Href="../searchservlet?query=D21F3/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D21F3/08"/>
+      <TreeNode Title="D21F3/10 ##吸水辊，如真空伏辊" Target="frmContent" Href="../searchservlet?query=D21F3/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D21F3/10"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="D21F5/00 制造连续纸幅的造纸机的干燥器部" Target="frmContent" Href="../searchservlet?query=D21F5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D21F5/00">
+    <TreeNode Title="D21F5/02 #在烘缸上干燥" Target="frmContent" Href="../searchservlet?query=D21F5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D21F5/02">
+      <TreeNode Title="D21F5/04 ##在两个以上的烘缸上" Target="frmContent" Href="../searchservlet?query=D21F5/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D21F5/04"/>
+      <TreeNode Title="D21F5/06 ##调节温度" Target="frmContent" Href="../searchservlet?query=D21F5/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D21F5/06"/>
+      <TreeNode Title="D21F5/08 ##烘缸中蒸汽点的排布" Target="frmContent" Href="../searchservlet?query=D21F5/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D21F5/08"/>
+      <TreeNode Title="D21F5/10 ##从烘缸中排除冷凝水装置" Target="frmContent" Href="../searchservlet?query=D21F5/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D21F5/10"/>
+    </TreeNode>
+    <TreeNode Title="D21F5/12 #悬竿式干燥" Target="frmContent" Href="../searchservlet?query=D21F5/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D21F5/12"/>
+    <TreeNode Title="D21F5/14 #用真空干燥纸幅" Target="frmContent" Href="../searchservlet?query=D21F5/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D21F5/14"/>
+    <TreeNode Title="D21F5/16 #用电热干燥纸幅" Target="frmContent" Href="../searchservlet?query=D21F5/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D21F5/16"/>
+    <TreeNode Title="D21F5/18 #用热空气干燥纸幅" Target="frmContent" Href="../searchservlet?query=D21F5/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D21F5/18"/>
+    <TreeNode Title="D21F5/20 #废热回收" Target="frmContent" Href="../searchservlet?query=D21F5/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D21F5/20"/>
+  </TreeNode>
+  <TreeNode Title="D21F7/00 制造连续纸幅的造纸机的其他零件" Target="frmContent" Href="../searchservlet?query=D21F7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D21F7/00">
+    <TreeNode Title="D21F7/02 #机械传动装置" Target="frmContent" Href="../searchservlet?query=D21F7/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D21F7/02"/>
+    <TreeNode Title="D21F7/04 #控制断纸装置" Target="frmContent" Href="../searchservlet?query=D21F7/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D21F7/04"/>
+    <TreeNode Title="D21F7/06 #指示或调整纸张厚度；信号装置" Target="frmContent" Href="../searchservlet?query=D21F7/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D21F7/06"/>
+    <TreeNode Title="D21F7/08 #造纸毛毯" Target="frmContent" Href="../searchservlet?query=D21F7/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D21F7/08">
+      <TreeNode Title="D21F7/10 ##毛毯缝合" Target="frmContent" Href="../searchservlet?query=D21F7/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D21F7/10"/>
+      <TreeNode Title="D21F7/12 ##干燥" Target="frmContent" Href="../searchservlet?query=D21F7/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D21F7/12"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="D21F9/00 制造连续纸幅的整套纸机" Target="frmContent" Href="../searchservlet?query=D21F9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D21F9/00">
+    <TreeNode Title="D21F9/02 #长网机型的" Target="frmContent" Href="../searchservlet?query=D21F9/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D21F9/02"/>
+    <TreeNode Title="D21F9/04 #圆网机型的" Target="frmContent" Href="../searchservlet?query=D21F9/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D21F9/04"/>
+  </TreeNode>
+  <TreeNode Title="D21F11/00 在造纸机上制造连续的卡纸或卡片纸板或纤维板的湿纸幅的工艺方法" Target="frmContent" Href="../searchservlet?query=D21F11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D21F11/00">
+    <TreeNode Title="D21F11/02 #属于长网机型的" Target="frmContent" Href="../searchservlet?query=D21F11/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D21F11/02">
+      <TreeNode Title="D21F11/04 ##由两层或两层以上组成的纸或纸板" Target="frmContent" Href="../searchservlet?query=D21F11/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D21F11/04"/>
+    </TreeNode>
+    <TreeNode Title="D21F11/06 #属于圆网机型的" Target="frmContent" Href="../searchservlet?query=D21F11/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D21F11/06">
+      <TreeNode Title="D21F11/08 ##由两层或两层以上组成的纸或纸机" Target="frmContent" Href="../searchservlet?query=D21F11/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D21F11/08"/>
+    </TreeNode>
+    <TreeNode Title="D21F11/10 #制造仿模制纸" Target="frmContent" Href="../searchservlet?query=D21F11/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D21F11/10"/>
+    <TreeNode Title="D21F11/12 #制造瓦楞纸或纸板" Target="frmContent" Href="../searchservlet?query=D21F11/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D21F11/12"/>
+    <TreeNode Title="D21F11/14 #制造纤维素絮棉，过滤纸或吸墨纸" Target="frmContent" Href="../searchservlet?query=D21F11/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D21F11/14"/>
+    <TreeNode Title="D21F11/16 #制造为纺纱或加拈用的纸条" Target="frmContent" Href="../searchservlet?query=D21F11/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D21F11/16"/>
+  </TreeNode>
+  <TreeNode Title="D21F13/00 制造不连续纸页，浆板或卡片纸板，或为生产纤维板的湿纸幅的方法或装置(在模型中制造单张纸板入D21J；干燥单张纸、浆板或卡片纸板入F26B)" Target="frmContent" Href="../searchservlet?query=D21F13/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D21F13/00">
+    <TreeNode Title="D21F13/02 #制造手工纸" Target="frmContent" Href="../searchservlet?query=D21F13/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D21F13/02"/>
+    <TreeNode Title="D21F13/04 #在圆网板纸机上制造" Target="frmContent" Href="../searchservlet?query=D21F13/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D21F13/04">
+      <TreeNode Title="D21F13/06 ##成型辊" Target="frmContent" Href="../searchservlet?query=D21F13/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D21F13/06">
+        <TreeNode Title="D21F13/08 ###自动切断辊" Target="frmContent" Href="../searchservlet?query=D21F13/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D21F13/08"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="D21F13/10 #使用纸板压榨" Target="frmContent" Href="../searchservlet?query=D21F13/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D21F13/10">
+      <TreeNode Title="D21F13/12 ##板式压榨" Target="frmContent" Href="../searchservlet?query=D21F13/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D21F13/12"/>
+    </TreeNode>
+  </TreeNode>
+</Root>

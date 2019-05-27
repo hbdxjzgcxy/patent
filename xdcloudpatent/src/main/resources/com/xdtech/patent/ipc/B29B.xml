@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="B29B7/00 混合；糅合(一般的入B01F；与压延结合的入B29C 43/24，与注射结合的入B29C 45/46，与挤出结合的入B29C 47/36)[4]" Target="frmContent" Href="../searchservlet?query=B29B7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B29B7/00">
+    <TreeNode Title="B29B7/02 #非连续的机械混合或糅合装置，即分批式[4]" Target="frmContent" Href="../searchservlet?query=B29B7/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B29B7/02">
+      <TreeNode Title="B29B7/04 ##有不可活动的混合或糅合装置[4]" Target="frmContent" Href="../searchservlet?query=B29B7/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B29B7/04"/>
+      <TreeNode Title="B29B7/06 ##有可活动的搅拌或糅合装置[4]" Target="frmContent" Href="../searchservlet?query=B29B7/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B29B7/06">
+        <TreeNode Title="B29B7/08 ###摇动的、摆动的或振动的[4]" Target="frmContent" Href="../searchservlet?query=B29B7/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B29B7/08"/>
+        <TreeNode Title="B29B7/10 ###转动的[4]" Target="frmContent" Href="../searchservlet?query=B29B7/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B29B7/10">
+          <TreeNode Title="B29B7/12 ####有单根轴的[4]" Target="frmContent" Href="../searchservlet?query=B29B7/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B29B7/12">
+            <TreeNode Title="B29B7/14 #####有螺杆或螺旋形之物的[4]" Target="frmContent" Href="../searchservlet?query=B29B7/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B29B7/14"/>
+            <TreeNode Title="B29B7/16 #####有桨叶或转臂的[4]" Target="frmContent" Href="../searchservlet?query=B29B7/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B29B7/16"/>
+          </TreeNode>
+          <TreeNode Title="B29B7/18 ####有一根以上轴的[4]" Target="frmContent" Href="../searchservlet?query=B29B7/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B29B7/18">
+            <TreeNode Title="B29B7/20 #####有互相啮合的装置，如螺旋装置[4]" Target="frmContent" Href="../searchservlet?query=B29B7/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B29B7/20"/>
+          </TreeNode>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="B29B7/22 ##零件、部件或附件；辅助操作[4]" Target="frmContent" Href="../searchservlet?query=B29B7/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B29B7/22">
+        <TreeNode Title="B29B7/24 ###用于进料的[4]" Target="frmContent" Href="../searchservlet?query=B29B7/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B29B7/24"/>
+        <TreeNode Title="B29B7/26 ###用于出料的，如出料口[4]" Target="frmContent" Href="../searchservlet?query=B29B7/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B29B7/26"/>
+        <TreeNode Title="B29B7/28 ###用于测量、控制或调整的，如黏度控制部件[4]" Target="frmContent" Href="../searchservlet?query=B29B7/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B29B7/28"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="B29B7/30 #连续的机械混合或糅合装置[4]" Target="frmContent" Href="../searchservlet?query=B29B7/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B29B7/30">
+      <TreeNode Title="B29B7/32 ##有不可活动的混合或糅合装置[4]" Target="frmContent" Href="../searchservlet?query=B29B7/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B29B7/32"/>
+      <TreeNode Title="B29B7/34 ##有可活动的混合或糅合装置[4]" Target="frmContent" Href="../searchservlet?query=B29B7/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B29B7/34">
+        <TreeNode Title="B29B7/36 ###摇动的、摆动的或振动的[4]" Target="frmContent" Href="../searchservlet?query=B29B7/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B29B7/36"/>
+        <TreeNode Title="B29B7/38 ###转动的(B29B 7/52优先)[4]" Target="frmContent" Href="../searchservlet?query=B29B7/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B29B7/38">
+          <TreeNode Title="B29B7/40 ####有单根轴的[4]" Target="frmContent" Href="../searchservlet?query=B29B7/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B29B7/40">
+            <TreeNode Title="B29B7/42 #####有螺杆或螺旋形之物的[4]" Target="frmContent" Href="../searchservlet?query=B29B7/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B29B7/42"/>
+            <TreeNode Title="B29B7/44 #####有桨叶或转臂的[4]" Target="frmContent" Href="../searchservlet?query=B29B7/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B29B7/44"/>
+          </TreeNode>
+          <TreeNode Title="B29B7/46 ####有一根以上轴的[4]" Target="frmContent" Href="../searchservlet?query=B29B7/46&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B29B7/46">
+            <TreeNode Title="B29B7/48 #####有互相啮合的装置，如螺旋装置[4]" Target="frmContent" Href="../searchservlet?query=B29B7/48&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B29B7/48"/>
+          </TreeNode>
+          <TreeNode Title="B29B7/50 ####有转动壳体的[4]" Target="frmContent" Href="../searchservlet?query=B29B7/50&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B29B7/50"/>
+        </TreeNode>
+        <TreeNode Title="B29B7/52 ###有辊子或类似件，如压延机[4]" Target="frmContent" Href="../searchservlet?query=B29B7/52&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B29B7/52">
+          <TreeNode Title="B29B7/54 ####有与固定构件协同操作的单个辊子[4]" Target="frmContent" Href="../searchservlet?query=B29B7/54&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B29B7/54"/>
+          <TreeNode Title="B29B7/56 ####有协同操作的辊子[4]" Target="frmContent" Href="../searchservlet?query=B29B7/56&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B29B7/56"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="B29B7/58 ##零件、部件或附件；辅助操作[4]" Target="frmContent" Href="../searchservlet?query=B29B7/58&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B29B7/58">
+        <TreeNode Title="B29B7/60 ###用于进料的，例如进料用的端部导向零件[4]" Target="frmContent" Href="../searchservlet?query=B29B7/60&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B29B7/60"/>
+        <TreeNode Title="B29B7/62 ###辊子，如有槽辊子[4]" Target="frmContent" Href="../searchservlet?query=B29B7/62&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B29B7/62"/>
+        <TreeNode Title="B29B7/64 ###剥去辊子上材料的[4]" Target="frmContent" Href="../searchservlet?query=B29B7/64&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B29B7/64"/>
+        <TreeNode Title="B29B7/66 ###循环材料的[4]" Target="frmContent" Href="../searchservlet?query=B29B7/66&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B29B7/66"/>
+        <TreeNode Title="B29B7/68 ###定位辊子的[4]" Target="frmContent" Href="../searchservlet?query=B29B7/68&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B29B7/68"/>
+        <TreeNode Title="B29B7/70 ###整修辊子的，如清理[4]" Target="frmContent" Href="../searchservlet?query=B29B7/70&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B29B7/70"/>
+        <TreeNode Title="B29B7/72 ###用于测量、控制或调整的[4]" Target="frmContent" Href="../searchservlet?query=B29B7/72&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B29B7/72"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="B29B7/74 #使用其他混合器或不同类型混合器的组合[4]" Target="frmContent" Href="../searchservlet?query=B29B7/74&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B29B7/74">
+      <TreeNode Title="B29B7/76 ##有射流冲击混合头的[4]" Target="frmContent" Href="../searchservlet?query=B29B7/76&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B29B7/76"/>
+      <TreeNode Title="B29B7/78 ##靠重力的，例如下落颗粒混合器[4]" Target="frmContent" Href="../searchservlet?query=B29B7/78&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B29B7/78"/>
+    </TreeNode>
+    <TreeNode Title="B29B7/80 #零件、部件或附件；辅助操作(B29B 7/22，B29B 7/58优先)[4]" Target="frmContent" Href="../searchservlet?query=B29B7/80&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B29B7/80">
+      <TreeNode Title="B29B7/82 ##加热或冷却的[4]" Target="frmContent" Href="../searchservlet?query=B29B7/82&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B29B7/82"/>
+      <TreeNode Title="B29B7/84 ##通风或排气的[4]" Target="frmContent" Href="../searchservlet?query=B29B7/84&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B29B7/84"/>
+      <TreeNode Title="B29B7/86 ##用于在负压或超大气压力下工作的[4]" Target="frmContent" Href="../searchservlet?query=B29B7/86&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B29B7/86"/>
+      <TreeNode Title="B29B7/88 ##附加装料的[4]" Target="frmContent" Href="../searchservlet?query=B29B7/88&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B29B7/88">
+        <TreeNode Title="B29B7/90 ###填料或加强料[4]" Target="frmContent" Href="../searchservlet?query=B29B7/90&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B29B7/90">
+          <TreeNode Title="B29B7/92 ####木屑或木纤维[4]" Target="frmContent" Href="../searchservlet?query=B29B7/92&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B29B7/92"/>
+        </TreeNode>
+        <TreeNode Title="B29B7/94 ###液体装料[4]" Target="frmContent" Href="../searchservlet?query=B29B7/94&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B29B7/94"/>
+      </TreeNode>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="B29B9/00 制作颗粒(一般方法入B01J；化学方面入C08J 3/12)[4]" Target="frmContent" Href="../searchservlet?query=B29B9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B29B9/00">
+    <TreeNode Title="B29B9/02 #通过分裂预成型材料[4]" Target="frmContent" Href="../searchservlet?query=B29B9/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B29B9/02">
+      <TreeNode Title="B29B9/04 ##呈板或片的形式[4]" Target="frmContent" Href="../searchservlet?query=B29B9/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B29B9/04"/>
+      <TreeNode Title="B29B9/06 ##呈细丝状材料的形式，如与挤出结合的[4]" Target="frmContent" Href="../searchservlet?query=B29B9/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B29B9/06"/>
+    </TreeNode>
+    <TreeNode Title="B29B9/08 #通过聚结较小的颗粒[4]" Target="frmContent" Href="../searchservlet?query=B29B9/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B29B9/08"/>
+    <TreeNode Title="B29B9/10 #通过成型材料，即在熔化状态下处理材料[4]" Target="frmContent" Href="../searchservlet?query=B29B9/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B29B9/10"/>
+    <TreeNode Title="B29B9/12 #以结构或组成为特征的[4]" Target="frmContent" Href="../searchservlet?query=B29B9/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B29B9/12">
+      <TreeNode Title="B29B9/14 ##纤维强化的[4]" Target="frmContent" Href="../searchservlet?query=B29B9/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B29B9/14"/>
+    </TreeNode>
+    <TreeNode Title="B29B9/16 #颗粒的辅助处理[4]" Target="frmContent" Href="../searchservlet?query=B29B9/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B29B9/16"/>
+  </TreeNode>
+  <TreeNode Title="B29B11/00 制作预型件(B29C 61/06优先)[4]" Target="frmContent" Href="../searchservlet?query=B29B11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B29B11/00">
+    <TreeNode Title="B29B11/02 #通过分裂预成型材料，如片材、棒材[4]" Target="frmContent" Href="../searchservlet?query=B29B11/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B29B11/02"/>
+    <TreeNode Title="B29B11/04 #通过装配预成型材料[4]" Target="frmContent" Href="../searchservlet?query=B29B11/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B29B11/04"/>
+    <TreeNode Title="B29B11/06 #通过成型材料[4]" Target="frmContent" Href="../searchservlet?query=B29B11/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B29B11/06">
+      <TreeNode Title="B29B11/08 ##注射成型[4]" Target="frmContent" Href="../searchservlet?query=B29B11/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B29B11/08"/>
+      <TreeNode Title="B29B11/10 ##挤出成型[4]" Target="frmContent" Href="../searchservlet?query=B29B11/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B29B11/10"/>
+      <TreeNode Title="B29B11/12 ##压制成型[4]" Target="frmContent" Href="../searchservlet?query=B29B11/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B29B11/12"/>
+    </TreeNode>
+    <TreeNode Title="B29B11/14 #以结构或组成为特征的[4]" Target="frmContent" Href="../searchservlet?query=B29B11/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B29B11/14">
+      <TreeNode Title="B29B11/16 ##含有填料或加强料[4]" Target="frmContent" Href="../searchservlet?query=B29B11/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B29B11/16"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="B29B13/00 被成型材料的整修或物理处理(化学方面入C08J 3/00)[4]" Target="frmContent" Href="../searchservlet?query=B29B13/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B29B13/00">
+    <TreeNode Title="B29B13/02 #用加热(B29B 13/06，B29B 13/08优先)[4]" Target="frmContent" Href="../searchservlet?query=B29B13/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B29B13/02"/>
+    <TreeNode Title="B29B13/04 #用冷却[4]" Target="frmContent" Href="../searchservlet?query=B29B13/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B29B13/04"/>
+    <TreeNode Title="B29B13/06 #用干燥(B29B 13/08优先)[4]" Target="frmContent" Href="../searchservlet?query=B29B13/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B29B13/06"/>
+    <TreeNode Title="B29B13/08 #使用波动能量或粒子辐射[4]" Target="frmContent" Href="../searchservlet?query=B29B13/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B29B13/08"/>
+    <TreeNode Title="B29B13/10 #用磨削，如用捣碎；用筛选；用过滤[4]" Target="frmContent" Href="../searchservlet?query=B29B13/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B29B13/10"/>
+  </TreeNode>
+  <TreeNode Title="B29B15/00 组B29B 7/00至B29B 13/00未包括的被成型材料的预处理[4]" Target="frmContent" Href="../searchservlet?query=B29B15/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B29B15/00">
+    <TreeNode Title="B29B15/02 #生橡胶、古塔波胶或类似物质的(割胶乳入A01G；化学方面入C08C)[4]" Target="frmContent" Href="../searchservlet?query=B29B15/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B29B15/02">
+      <TreeNode Title="B29B15/04 ##凝结装置[4]" Target="frmContent" Href="../searchservlet?query=B29B15/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B29B15/04"/>
+      <TreeNode Title="B29B15/06 ##洗涤装置[4]" Target="frmContent" Href="../searchservlet?query=B29B15/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B29B15/06"/>
+    </TreeNode>
+    <TreeNode Title="B29B15/08 #加强料或填料的(化学方面入C08J，C08K)[4]" Target="frmContent" Href="../searchservlet?query=B29B15/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B29B15/08">
+      <TreeNode Title="B29B15/10 ##涂覆或浸渍(一般涂敷液体的入B05)[4]" Target="frmContent" Href="../searchservlet?query=B29B15/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B29B15/10">
+        <TreeNode Title="B29B15/12 ###不定长度加强料的[4]" Target="frmContent" Href="../searchservlet?query=B29B15/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B29B15/12">
+          <TreeNode Title="B29B15/14 ####长纤维或线材的[4]" Target="frmContent" Href="../searchservlet?query=B29B15/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B29B15/14"/>
+        </TreeNode>
+      </TreeNode>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="B29B17/00 回收塑料或含塑料的废料的其他成分(化学回收入C08J 11/00)[4]" Target="frmContent" Href="../searchservlet?query=B29B17/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B29B17/00">
+    <TreeNode Title="B29B17/02 #从其他材料中分离出塑料[4]" Target="frmContent" Href="../searchservlet?query=B29B17/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B29B17/02"/>
+    <TreeNode Title="B29B17/04 #碎裂塑料(B29B 9/02、B29B 11/02、B29B 13/10优先) [8]" Target="frmContent" Href="../searchservlet?query=B29B17/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B29B17/04"/>
+  </TreeNode>
+</Root>

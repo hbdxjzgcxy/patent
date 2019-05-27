@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="G08C13/00 影响输入和输出信号之间关系的装置，例如：微分，延迟" Target="frmContent" Href="../searchservlet?query=G08C13/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08C13/00">
+    <TreeNode Title="G08C13/02 #产生一个信号，它是两个或两个以上信号的函数，例如和，乘积" Target="frmContent" Href="../searchservlet?query=G08C13/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08C13/02"/>
+  </TreeNode>
+  <TreeNode Title="G08C15/00 以使用的多路传输为特征的装置，该多路传输用于在一公共通道上传输多个信号" Target="frmContent" Href="../searchservlet?query=G08C15/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08C15/00">
+    <TreeNode Title="G08C15/02 #同时的，即采用频分" Target="frmContent" Href="../searchservlet?query=G08C15/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08C15/02">
+      <TreeNode Title="G08C15/04 ##载频调制的信号" Target="frmContent" Href="../searchservlet?query=G08C15/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08C15/04"/>
+    </TreeNode>
+    <TreeNode Title="G08C15/06 #逐次的，即采用时分" Target="frmContent" Href="../searchservlet?query=G08C15/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08C15/06">
+      <TreeNode Title="G08C15/08 ##以传输线路中电流或电压的振幅表示的信号" Target="frmContent" Href="../searchservlet?query=G08C15/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08C15/08"/>
+      <TreeNode Title="G08C15/10 ##以传输线路中电流或电压的频率或相位表示的信号" Target="frmContent" Href="../searchservlet?query=G08C15/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08C15/10"/>
+      <TreeNode Title="G08C15/12 ##以传输线路中脉冲特性表示的信号" Target="frmContent" Href="../searchservlet?query=G08C15/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08C15/12"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="G08C17/00 按采用的无导线电气线路表征的信号传送装置[6]" Target="frmContent" Href="../searchservlet?query=G08C17/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08C17/00">
+    <TreeNode Title="G08C17/02 #用无线电线路[6]" Target="frmContent" Href="../searchservlet?query=G08C17/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08C17/02"/>
+    <TreeNode Title="G08C17/04 #用磁耦合装置[6]" Target="frmContent" Href="../searchservlet?query=G08C17/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08C17/04"/>
+    <TreeNode Title="G08C17/06 #用电容耦合[6]" Target="frmContent" Href="../searchservlet?query=G08C17/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08C17/06"/>
+  </TreeNode>
+  <TreeNode Title="G08C19/00 电信号传输系统(G08C 17/00优先)" Target="frmContent" Href="../searchservlet?query=G08C19/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08C19/00">
+    <TreeNode Title="G08C19/02 #被传输的信号是电流或电压的幅度的(G08C 19/36，G08C 19/38优先)" Target="frmContent" Href="../searchservlet?query=G08C19/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08C19/02">
+      <TreeNode Title="G08C19/04 ##用可变电阻的" Target="frmContent" Href="../searchservlet?query=G08C19/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08C19/04"/>
+      <TreeNode Title="G08C19/06 ##用可变电感的" Target="frmContent" Href="../searchservlet?query=G08C19/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08C19/06">
+        <TreeNode Title="G08C19/08 ###差动地影响两线圈的" Target="frmContent" Href="../searchservlet?query=G08C19/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08C19/08"/>
+      </TreeNode>
+      <TreeNode Title="G08C19/10 ##用可变电容的" Target="frmContent" Href="../searchservlet?query=G08C19/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08C19/10"/>
+    </TreeNode>
+    <TreeNode Title="G08C19/12 #被传输的信号是交流的频率或相位的" Target="frmContent" Href="../searchservlet?query=G08C19/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08C19/12">
+      <TreeNode Title="G08C19/14 ##用固定频率组合的" Target="frmContent" Href="../searchservlet?query=G08C19/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08C19/14"/>
+    </TreeNode>
+    <TreeNode Title="G08C19/16 #用脉冲传输的" Target="frmContent" Href="../searchservlet?query=G08C19/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08C19/16">
+      <TreeNode Title="G08C19/18 ##用脉冲数可变的脉冲序列的" Target="frmContent" Href="../searchservlet?query=G08C19/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08C19/18">
+        <TreeNode Title="G08C19/20 ###操纵电动、机电装置的，例如，步进电机" Target="frmContent" Href="../searchservlet?query=G08C19/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08C19/20"/>
+      </TreeNode>
+      <TreeNode Title="G08C19/22 ##靠改变各个脉冲持续时间的" Target="frmContent" Href="../searchservlet?query=G08C19/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08C19/22"/>
+      <TreeNode Title="G08C19/24 ##用脉冲时间偏移的" Target="frmContent" Href="../searchservlet?query=G08C19/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08C19/24"/>
+      <TreeNode Title="G08C19/26 ##靠改变脉冲重复频率的" Target="frmContent" Href="../searchservlet?query=G08C19/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08C19/26"/>
+      <TreeNode Title="G08C19/28 ##用脉冲代码的" Target="frmContent" Href="../searchservlet?query=G08C19/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08C19/28"/>
+    </TreeNode>
+    <TreeNode Title="G08C19/30 #从多个导体或通道中选择一个或多个导体或通道的传输的(G08C 19/38优先)" Target="frmContent" Href="../searchservlet?query=G08C19/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08C19/30">
+      <TreeNode Title="G08C19/32 ##选择一个导体或通道的" Target="frmContent" Href="../searchservlet?query=G08C19/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08C19/32"/>
+      <TreeNode Title="G08C19/34 ##选择多个导体或通道组合的" Target="frmContent" Href="../searchservlet?query=G08C19/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08C19/34"/>
+    </TreeNode>
+    <TreeNode Title="G08C19/36 #用光学装置转换输入信号的" Target="frmContent" Href="../searchservlet?query=G08C19/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08C19/36"/>
+    <TreeNode Title="G08C19/38 #用机电装置的(靠脉冲操纵的入G08C 19/20)" Target="frmContent" Href="../searchservlet?query=G08C19/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08C19/38">
+      <TreeNode Title="G08C19/40 ##其中仅转子或定子带有施加信号的绕组的，例如，用步进电机" Target="frmContent" Href="../searchservlet?query=G08C19/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08C19/40">
+        <TreeNode Title="G08C19/42 ###有3个定子极的" Target="frmContent" Href="../searchservlet?query=G08C19/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08C19/42"/>
+        <TreeNode Title="G08C19/44 ###有多于3个定子极的" Target="frmContent" Href="../searchservlet?query=G08C19/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08C19/44"/>
+      </TreeNode>
+      <TreeNode Title="G08C19/46 ##其中转子和定子都带有绕组的(有鼠笼式转子的入G08C 19/40)" Target="frmContent" Href="../searchservlet?query=G08C19/46&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08C19/46">
+        <TreeNode Title="G08C19/48 ###属于具有一个三相定子和一个由恒定频率交流供电的转子的类型的，如自动同步机，无触点式自整角机" Target="frmContent" Href="../searchservlet?query=G08C19/48&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08C19/48"/>
+      </TreeNode>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="G08C21/00 相对于预定参照系的目标位置传送系统，如电传自运绘图系统[5]" Target="frmContent" Href="../searchservlet?query=G08C21/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08C21/00"/>
+  <TreeNode Title="G08C23/00 非电信号传输系统，如光学系统" Target="frmContent" Href="../searchservlet?query=G08C23/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08C23/00">
+    <TreeNode Title="G08C23/02 #用声波[6]" Target="frmContent" Href="../searchservlet?query=G08C23/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08C23/02"/>
+    <TreeNode Title="G08C23/04 #用光波，例如，红外线[6]" Target="frmContent" Href="../searchservlet?query=G08C23/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08C23/04">
+      <TreeNode Title="G08C23/06 ##通过光波导，例如光纤[6]" Target="frmContent" Href="../searchservlet?query=G08C23/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08C23/06"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="G08C25/00 防止或校正误差的装置；监控装置" Target="frmContent" Href="../searchservlet?query=G08C25/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08C25/00">
+    <TreeNode Title="G08C25/02 #将信号从接收台发回到发射台的" Target="frmContent" Href="../searchservlet?query=G08C25/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08C25/02"/>
+    <TreeNode Title="G08C25/04 #记录传送信号的" Target="frmContent" Href="../searchservlet?query=G08C25/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08C25/04"/>
+  </TreeNode>
+</Root>

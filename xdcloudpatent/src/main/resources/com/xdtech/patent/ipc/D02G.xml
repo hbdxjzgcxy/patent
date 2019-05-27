@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="D02G1/00 制造卷曲的纤维、长丝、纱或线，给其以潜在特性(纱本身入D02G 3/00；人造长丝和线及类似物的形成过程入D01D 5/22；化学处理的一般问题入D06M)" Target="frmContent" Href="../searchservlet?query=D02G1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D02G1/00">
+    <TreeNode Title="D02G1/02 #采用加捻、定捻和解捻，即施加假捻" Target="frmContent" Href="../searchservlet?query=D02G1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D02G1/02">
+      <TreeNode Title="D02G1/04 ##施加假捻的装置" Target="frmContent" Href="../searchservlet?query=D02G1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D02G1/04">
+        <TreeNode Title="D02G1/06 ###锭" Target="frmContent" Href="../searchservlet?query=D02G1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D02G1/06"/>
+        <TreeNode Title="D02G1/08 ###罗拉" Target="frmContent" Href="../searchservlet?query=D02G1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D02G1/08"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="D02G1/10 #采用刀刃，如加热刀刃，刀口卷曲法" Target="frmContent" Href="../searchservlet?query=D02G1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D02G1/10"/>
+    <TreeNode Title="D02G1/12 #采用填塞箱法" Target="frmContent" Href="../searchservlet?query=D02G1/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D02G1/12"/>
+    <TreeNode Title="D02G1/14 #采用沟槽罗拉或齿轮型机构" Target="frmContent" Href="../searchservlet?query=D02G1/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D02G1/14"/>
+    <TreeNode Title="D02G1/16 #采用喷气或射流，如空气、蒸汽" Target="frmContent" Href="../searchservlet?query=D02G1/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D02G1/16"/>
+    <TreeNode Title="D02G1/18 #采用具有不同收缩特性的纤维、长丝或纱的混合方法" Target="frmContent" Href="../searchservlet?query=D02G1/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D02G1/18"/>
+    <TreeNode Title="D02G1/20 #采用上述两种或多种方法或装置的结合；卷曲定型后处理" Target="frmContent" Href="../searchservlet?query=D02G1/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D02G1/20"/>
+  </TreeNode>
+  <TreeNode Title="D02G3/00 纱或线，如花式纱；其他类未包括的制造纱线的工艺或设备(加工卷曲纱入D02G 1/00)" Target="frmContent" Href="../searchservlet?query=D02G3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D02G3/00">
+    <TreeNode Title="D02G3/02 #按原料分类的纱或线" Target="frmContent" Href="../searchservlet?query=D02G3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D02G3/02">
+      <TreeNode Title="D02G3/04 ##混纺或含有不同材料的纱或线" Target="frmContent" Href="../searchservlet?query=D02G3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D02G3/04"/>
+      <TreeNode Title="D02G3/06 ##条状原料(非纸)制成的线" Target="frmContent" Href="../searchservlet?query=D02G3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D02G3/06"/>
+      <TreeNode Title="D02G3/08 ##纸制纱或线" Target="frmContent" Href="../searchservlet?query=D02G3/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D02G3/08"/>
+      <TreeNode Title="D02G3/10 ##肠线一类制成的纱或线" Target="frmContent" Href="../searchservlet?query=D02G3/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D02G3/10"/>
+      <TreeNode Title="D02G3/12 ##含金属丝带的线" Target="frmContent" Href="../searchservlet?query=D02G3/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D02G3/12"/>
+      <TreeNode Title="D02G3/14 ##马鬃线" Target="frmContent" Href="../searchservlet?query=D02G3/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D02G3/14"/>
+      <TreeNode Title="D02G3/16 ##矿物材料制成的纱或线" Target="frmContent" Href="../searchservlet?query=D02G3/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D02G3/16">
+        <TreeNode Title="D02G3/18 ###玻璃一类的" Target="frmContent" Href="../searchservlet?query=D02G3/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D02G3/18"/>
+        <TreeNode Title="D02G3/20 ###石棉的" Target="frmContent" Href="../searchservlet?query=D02G3/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D02G3/20"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="D02G3/22 #按结构特征分类的纱或线" Target="frmContent" Href="../searchservlet?query=D02G3/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D02G3/22">
+      <TreeNode Title="D02G3/24 ##膨体纱或线，如不同伸缩性的短纤维制成的" Target="frmContent" Href="../searchservlet?query=D02G3/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D02G3/24"/>
+      <TreeNode Title="D02G3/26 ##依捻数和捻向分类的" Target="frmContent" Href="../searchservlet?query=D02G3/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D02G3/26">
+        <TreeNode Title="D02G3/28 ###股线或缆线" Target="frmContent" Href="../searchservlet?query=D02G3/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D02G3/28"/>
+        <TreeNode Title="D02G3/30 ###绉形纱线或其他高捻度纱或线" Target="frmContent" Href="../searchservlet?query=D02G3/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D02G3/30"/>
+      </TreeNode>
+      <TreeNode Title="D02G3/32 ##弹力纱或线" Target="frmContent" Href="../searchservlet?query=D02G3/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D02G3/32"/>
+      <TreeNode Title="D02G3/34 ##结子，螺旋、圈形以及绒毛的纱或线等，以及其他不规则或装饰用纱线，如装饰纱" Target="frmContent" Href="../searchservlet?query=D02G3/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D02G3/34"/>
+      <TreeNode Title="D02G3/36 ##夹心或包芯纱线(弹力纱线入D02G 3/32)" Target="frmContent" Href="../searchservlet?query=D02G3/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D02G3/36"/>
+      <TreeNode Title="D02G3/38 ##纤维，长丝或纱与其他种纱或长丝缠绕在一起的线(借助自由端纺纱技术用纤维包缠连续芯线的入D01H 4/00)" Target="frmContent" Href="../searchservlet?query=D02G3/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D02G3/38"/>
+      <TreeNode Title="D02G3/40 ##纤维黏合而成的纱；浸透纱线" Target="frmContent" Href="../searchservlet?query=D02G3/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D02G3/40"/>
+      <TreeNode Title="D02G3/42 ##雪尼尔线" Target="frmContent" Href="../searchservlet?query=D02G3/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D02G3/42"/>
+    </TreeNode>
+    <TreeNode Title="D02G3/44 #按用途分类的纱或线" Target="frmContent" Href="../searchservlet?query=D02G3/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D02G3/44">
+      <TreeNode Title="D02G3/46 ##缝纫棉线或类似的纱或线" Target="frmContent" Href="../searchservlet?query=D02G3/46&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D02G3/46"/>
+      <TreeNode Title="D02G3/48 ##轮胎帘子线" Target="frmContent" Href="../searchservlet?query=D02G3/48&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D02G3/48"/>
+    </TreeNode>
+  </TreeNode>
+</Root>

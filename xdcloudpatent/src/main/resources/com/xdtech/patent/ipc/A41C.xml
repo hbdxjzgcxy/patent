@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="A41C1/00 妇女胸衣或束腰带(妇女胸衣扣件入A41F 1/04；矫形用胸衣入A61F 5/02)" Target="frmContent" Href="../searchservlet?query=A41C1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A41C1/00">
+    <TreeNode Title="A41C1/02 #弹性胸衣" Target="frmContent" Href="../searchservlet?query=A41C1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A41C1/02">
+      <TreeNode Title="A41C1/04 ##橡皮制的" Target="frmContent" Href="../searchservlet?query=A41C1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A41C1/04"/>
+    </TreeNode>
+    <TreeNode Title="A41C1/06 #有乳罩的" Target="frmContent" Href="../searchservlet?query=A41C1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A41C1/06"/>
+    <TreeNode Title="A41C1/08 #腹部护衣" Target="frmContent" Href="../searchservlet?query=A41C1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A41C1/08">
+      <TreeNode Title="A41C1/10 ##产妇胸衣" Target="frmContent" Href="../searchservlet?query=A41C1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A41C1/10"/>
+    </TreeNode>
+    <TreeNode Title="A41C1/12 #组件" Target="frmContent" Href="../searchservlet?query=A41C1/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A41C1/12">
+      <TreeNode Title="A41C1/14 ##女用束腹；胸衣松紧钢丝" Target="frmContent" Href="../searchservlet?query=A41C1/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A41C1/14">
+        <TreeNode Title="A41C1/16 ###金属丝制的" Target="frmContent" Href="../searchservlet?query=A41C1/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A41C1/16"/>
+        <TreeNode Title="A41C1/18 ###拼成式的" Target="frmContent" Href="../searchservlet?query=A41C1/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A41C1/18"/>
+        <TreeNode Title="A41C1/20 ###有护罩的" Target="frmContent" Href="../searchservlet?query=A41C1/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A41C1/20"/>
+      </TreeNode>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="A41C3/00 乳罩" Target="frmContent" Href="../searchservlet?query=A41C3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A41C3/00">
+    <TreeNode Title="A41C3/02 #在前面扣合的" Target="frmContent" Href="../searchservlet?query=A41C3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A41C3/02"/>
+    <TreeNode Title="A41C3/04 #乳母用的" Target="frmContent" Href="../searchservlet?query=A41C3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A41C3/04"/>
+    <TreeNode Title="A41C3/06 #无吊带乳罩" Target="frmContent" Href="../searchservlet?query=A41C3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A41C3/06"/>
+    <TreeNode Title="A41C3/08 #与其他衣服相连的(与胸衣相连的入A41C 1/06)" Target="frmContent" Href="../searchservlet?query=A41C3/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A41C3/08"/>
+    <TreeNode Title="A41C3/10 #有使硬挺或使胸部隆起的插入物的(插入物本身入A41C 3/14) [2]" Target="frmContent" Href="../searchservlet?query=A41C3/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A41C3/10"/>
+    <TreeNode Title="A41C3/12 #组件 [2]" Target="frmContent" Href="../searchservlet?query=A41C3/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A41C3/12">
+      <TreeNode Title="A41C3/14 ##使硬挺或使胸部隆起的插入物 [2]" Target="frmContent" Href="../searchservlet?query=A41C3/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A41C3/14"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="A41C5/00 制造妇女胸衣或乳罩用的机器，设备或方法" Target="frmContent" Href="../searchservlet?query=A41C5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A41C5/00"/>
+</Root>

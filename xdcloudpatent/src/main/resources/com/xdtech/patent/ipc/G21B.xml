@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="G21B1/00 热核聚变反应堆[1，8]" Target="frmContent" Href="../searchservlet?query=G21B1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21B1/00">
+    <TreeNode Title="G21B1/01 #混合裂变—聚合核反应堆[8]" Target="frmContent" Href="../searchservlet?query=G21B1/01&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21B1/01"/>
+    <TreeNode Title="G21B1/03 #具有惯性等离子体约束[8]" Target="frmContent" Href="../searchservlet?query=G21B1/03&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21B1/03"/>
+    <TreeNode Title="G21B1/05 #具有磁或电等离子体约束[8]" Target="frmContent" Href="../searchservlet?query=G21B1/05&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21B1/05"/>
+    <TreeNode Title="G21B1/11 #零件[8]" Target="frmContent" Href="../searchservlet?query=G21B1/11&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21B1/11">
+      <TreeNode Title="G21B1/13 ##第一壁；覆盖物；偏滤器[8]" Target="frmContent" Href="../searchservlet?query=G21B1/13&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21B1/13"/>
+      <TreeNode Title="G21B1/15 ##生产热核聚变反应器的粒子注入器，例如，小球注射器[8]" Target="frmContent" Href="../searchservlet?query=G21B1/15&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21B1/15"/>
+      <TreeNode Title="G21B1/17 ##真空室；真空系统[8]" Target="frmContent" Href="../searchservlet?query=G21B1/17&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21B1/17"/>
+      <TreeNode Title="G21B1/19 ##产生热核聚变反应的靶子[8]" Target="frmContent" Href="../searchservlet?query=G21B1/19&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21B1/19"/>
+      <TreeNode Title="G21B1/21 ##电能供给系统，例如，用于磁系统的[8]" Target="frmContent" Href="../searchservlet?query=G21B1/21&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21B1/21"/>
+      <TreeNode Title="G21B1/23 ##光学系统，例如，照射目标、加热等离子体或等离子体诊断学[8]" Target="frmContent" Href="../searchservlet?query=G21B1/23&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21B1/23"/>
+    </TreeNode>
+    <TreeNode Title="G21B1/25 #维护，例如，修补或细微检查[8]" Target="frmContent" Href="../searchservlet?query=G21B1/25&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21B1/25"/>
+  </TreeNode>
+  <TreeNode Title="G21B3/00 低温核子聚变反应堆，例如，所谓的冷聚变反应堆[8]" Target="frmContent" Href="../searchservlet?query=G21B3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21B3/00"/>
+</Root>

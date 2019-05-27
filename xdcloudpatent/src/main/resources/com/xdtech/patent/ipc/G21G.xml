@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="G21G1/00 用于以电磁辐射、微粒辐射或粒子轰击的方法转变化学元素的装置，例如生产放射性同位素(通过热核反应的入G21B；核燃料的转变入G21C)[2]" Target="frmContent" Href="../searchservlet?query=G21G1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21G1/00">
+    <TreeNode Title="G21G1/02 #在核反应堆中" Target="frmContent" Href="../searchservlet?query=G21G1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21G1/02"/>
+    <TreeNode Title="G21G1/04 #在核反应堆或粒子加速器外部的[2]" Target="frmContent" Href="../searchservlet?query=G21G1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21G1/04">
+      <TreeNode Title="G21G1/06 ##用中子照射[2]" Target="frmContent" Href="../searchservlet?query=G21G1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21G1/06">
+        <TreeNode Title="G21G1/08 ###伴随核裂变的[2]" Target="frmContent" Href="../searchservlet?query=G21G1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21G1/08"/>
+      </TreeNode>
+      <TreeNode Title="G21G1/10 ##用带电粒子轰击(照射器件入G21K 5/00)[2]" Target="frmContent" Href="../searchservlet?query=G21G1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21G1/10"/>
+      <TreeNode Title="G21G1/12 ##通过电磁照射，例如用γ或X射线(照射器件入G21K 5/00)[2]" Target="frmContent" Href="../searchservlet?query=G21G1/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21G1/12"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="G21G4/00 放射源[2]" Target="frmContent" Href="../searchservlet?query=G21G4/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21G4/00">
+    <TreeNode Title="G21G4/02 #中子源[2]" Target="frmContent" Href="../searchservlet?query=G21G4/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21G4/02"/>
+    <TreeNode Title="G21G4/04 #除中子源外其他的放射源(放射性敷料剂入A61M 36/14)[2]" Target="frmContent" Href="../searchservlet?query=G21G4/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21G4/04">
+      <TreeNode Title="G21G4/06 ##按结构特点区分[2]" Target="frmContent" Href="../searchservlet?query=G21G4/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21G4/06">
+        <TreeNode Title="G21G4/08 ###专门适用于医学应用的(使用放射源的辐射治疗入A61N 5/10)[2]" Target="frmContent" Href="../searchservlet?query=G21G4/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21G4/08"/>
+      </TreeNode>
+      <TreeNode Title="G21G4/10 ##应用镭放射[2]" Target="frmContent" Href="../searchservlet?query=G21G4/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21G4/10"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="G21G5/00 通过化学反应进行化学元素的推断转变" Target="frmContent" Href="../searchservlet?query=G21G5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21G5/00"/>
+  <TreeNode Title="G21G7/00 本小类其他组中不包括的化学元素的转变[2009.01]" Target="frmContent" Href="../searchservlet?query=G21G7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21G7/00"/>
+</Root>

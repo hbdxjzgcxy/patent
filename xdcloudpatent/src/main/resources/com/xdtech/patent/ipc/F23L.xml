@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="F23L1/00 为燃烧供给一次风的通道或开口" Target="frmContent" Href="../searchservlet?query=F23L1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23L1/00">
+    <TreeNode Title="F23L1/02 #在炉火下方吹送空气的" Target="frmContent" Href="../searchservlet?query=F23L1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23L1/02"/>
+  </TreeNode>
+  <TreeNode Title="F23L3/00 炉火前面的阀门或风门的配置" Target="frmContent" Href="../searchservlet?query=F23L3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23L3/00"/>
+  <TreeNode Title="F23L5/00 炉火前面的鼓风设备" Target="frmContent" Href="../searchservlet?query=F23L5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23L5/00">
+    <TreeNode Title="F23L5/02 #风扇或鼓风机的配置(风扇或鼓风机本身入F04)" Target="frmContent" Href="../searchservlet?query=F23L5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23L5/02"/>
+    <TreeNode Title="F23L5/04 # 通过引入燃烧用空气，例如用蒸汽喷嘴" Target="frmContent" Href="../searchservlet?query=F23L5/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23L5/04"/>
+  </TreeNode>
+  <TreeNode Title="F23L7/00 向炉火输送不可燃液体或除空气外的气体，例如氧气、蒸汽" Target="frmContent" Href="../searchservlet?query=F23L7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23L7/00"/>
+  <TreeNode Title="F23L9/00 为使燃料完全燃烧而供给二次风的通道或孔口" Target="frmContent" Href="../searchservlet?query=F23L9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23L9/00">
+    <TreeNode Title="F23L9/02 #在炉火上方吹送空气的" Target="frmContent" Href="../searchservlet?query=F23L9/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23L9/02"/>
+    <TreeNode Title="F23L9/04 #在火焰达不到的地方吹送空气的，即在烟道出口附近吹送的" Target="frmContent" Href="../searchservlet?query=F23L9/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23L9/04"/>
+    <TreeNode Title="F23L9/06 #将空气吹入火床的" Target="frmContent" Href="../searchservlet?query=F23L9/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23L9/06"/>
+  </TreeNode>
+  <TreeNode Title="F23L11/00 炉火后面的阀门或风门的配置" Target="frmContent" Href="../searchservlet?query=F23L11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23L11/00">
+    <TreeNode Title="F23L11/02 #让空气流入烟道而减少引风的" Target="frmContent" Href="../searchservlet?query=F23L11/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23L11/02"/>
+  </TreeNode>
+  <TreeNode Title="F23L13/00 控制送风或引风的阀门或风门的结构(一般的入F16K)" Target="frmContent" Href="../searchservlet?query=F23L13/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23L13/00">
+    <TreeNode Title="F23L13/02 #绕一轴旋转而无其他运动的(由每块均绕其小轴旋转的联动板条构成的入F23L 13/08)" Target="frmContent" Href="../searchservlet?query=F23L13/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23L13/02">
+      <TreeNode Title="F23L13/04 ##轴与面相垂直的" Target="frmContent" Href="../searchservlet?query=F23L13/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23L13/04"/>
+    </TreeNode>
+    <TreeNode Title="F23L13/06 #只能滑动的" Target="frmContent" Href="../searchservlet?query=F23L13/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23L13/06"/>
+    <TreeNode Title="F23L13/08 #像卷帘那样操作的；像软百叶帘那样操作的" Target="frmContent" Href="../searchservlet?query=F23L13/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23L13/08"/>
+    <TreeNode Title="F23L13/10 #包括有滑动和转动的复合运动的" Target="frmContent" Href="../searchservlet?query=F23L13/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23L13/10"/>
+  </TreeNode>
+  <TreeNode Title="F23L15/00 供燃烧用空气的加热" Target="frmContent" Href="../searchservlet?query=F23L15/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23L15/00">
+    <TreeNode Title="F23L15/02 #交流换热器的配置" Target="frmContent" Href="../searchservlet?query=F23L15/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23L15/02"/>
+    <TreeNode Title="F23L15/04 #同流换热器的配置" Target="frmContent" Href="../searchservlet?query=F23L15/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23L15/04"/>
+  </TreeNode>
+  <TreeNode Title="F23L17/00 引风" Target="frmContent" Href="../searchservlet?query=F23L17/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23L17/00">
+    <TreeNode Title="F23L17/02 #烟囱或通风竖井顶部；烟道的末端" Target="frmContent" Href="../searchservlet?query=F23L17/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23L17/02">
+      <TreeNode Title="F23L17/04 ##平衡烟道装置，即将通到燃烧装置的空气入口与烟气出口结合在一起的装置" Target="frmContent" Href="../searchservlet?query=F23L17/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23L17/04"/>
+      <TreeNode Title="F23L17/06 ##分岔的；丁字型帽的" Target="frmContent" Href="../searchservlet?query=F23L17/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23L17/06"/>
+      <TreeNode Title="F23L17/08 ##带有同轴锥体或通风窗的" Target="frmContent" Href="../searchservlet?query=F23L17/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23L17/08"/>
+      <TreeNode Title="F23L17/10 ##其中顶部整体移动的" Target="frmContent" Href="../searchservlet?query=F23L17/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23L17/10"/>
+      <TreeNode Title="F23L17/12 ##将顶部或末端固紧在烟囱、通风竖井或烟道上的装置" Target="frmContent" Href="../searchservlet?query=F23L17/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23L17/12"/>
+      <TreeNode Title="F23L17/14 ##排放装置" Target="frmContent" Href="../searchservlet?query=F23L17/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23L17/14"/>
+    </TreeNode>
+    <TreeNode Title="F23L17/16 #作用于火焰以外燃烧生成物上的引射装置，例如蒸汽喷嘴" Target="frmContent" Href="../searchservlet?query=F23L17/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23L17/16"/>
+  </TreeNode>
+  <TreeNode Title="F23L99/00 不包含在本小类其他组中的技术主题  [8]" Target="frmContent" Href="../searchservlet?query=F23L99/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23L99/00"/>
+</Root>

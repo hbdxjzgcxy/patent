@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="B68C1/00 骑兽或驮兽的鞍座设备" Target="frmContent" Href="../searchservlet?query=B68C1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B68C1/00">
+    <TreeNode Title="B68C1/02 # 鞍座" Target="frmContent" Href="../searchservlet?query=B68C1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B68C1/02">
+      <TreeNode Title="B68C1/04 ##可调节的鞍座" Target="frmContent" Href="../searchservlet?query=B68C1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B68C1/04"/>
+      <TreeNode Title="B68C1/06 ##侧鞍座" Target="frmContent" Href="../searchservlet?query=B68C1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B68C1/06"/>
+      <TreeNode Title="B68C1/08 ##备有充气垫" Target="frmContent" Href="../searchservlet?query=B68C1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B68C1/08"/>
+      <TreeNode Title="B68C1/10 ##备有弹簧垫" Target="frmContent" Href="../searchservlet?query=B68C1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B68C1/10"/>
+    </TreeNode>
+    <TreeNode Title="B68C1/12 # 鞍座的底垫；鞍座布套" Target="frmContent" Href="../searchservlet?query=B68C1/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B68C1/12"/>
+    <TreeNode Title="B68C1/14 # 鞍座的皮带或皮条；及其所用张紧装置" Target="frmContent" Href="../searchservlet?query=B68C1/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B68C1/14"/>
+    <TreeNode Title="B68C1/16 # 马镫紧固在鞍座上；马镫皮革(马镫入B68C 3/00)" Target="frmContent" Href="../searchservlet?query=B68C1/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B68C1/16">
+      <TreeNode Title="B68C1/18 ##用于松开马镫与马鞍之间连结的安全装置，例如万一骑手从马背上摔下来" Target="frmContent" Href="../searchservlet?query=B68C1/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B68C1/18"/>
+    </TreeNode>
+    <TreeNode Title="B68C1/20 # 连结于或可连结于马鞍上的袋囊、容器或其他支承装置，例如用于插放枪支" Target="frmContent" Href="../searchservlet?query=B68C1/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B68C1/20"/>
+  </TreeNode>
+  <TreeNode Title="B68C3/00 马镫" Target="frmContent" Href="../searchservlet?query=B68C3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B68C3/00">
+    <TreeNode Title="B68C3/02 # 备有活动连结于马镫其他部件上的侧部或底板，如绕支点转动" Target="frmContent" Href="../searchservlet?query=B68C3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B68C3/02"/>
+  </TreeNode>
+  <TreeNode Title="B68C5/00 工作时牲畜的覆盖物，例如用于保护" Target="frmContent" Href="../searchservlet?query=B68C5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B68C5/00"/>
+</Root>

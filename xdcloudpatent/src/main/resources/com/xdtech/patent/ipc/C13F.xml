@@ -1,0 +1,18 @@
+<Root>
+  <TreeNode Title="C13F1/00 糖汁的浓缩、蒸发或煮沸（煮沸装置入B01B；蒸发罐入B01D；离心分离机入B04B）" Target="frmContent" Href="../searchservlet?query=C13F1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C13F1/00">
+    <TreeNode Title="C13F1/02 结晶；结晶装置" Target="frmContent" Href="../searchservlet?query=C13F1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C13F1/02" />
+    <TreeNode Title="C13F1/04 从母液中分离晶体" Target="frmContent" Href="../searchservlet?query=C13F1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C13F1/04">
+      <TreeNode Title="C13F1/06 用离心力" Target="frmContent" Href="../searchservlet?query=C13F1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C13F1/06" />
+      <TreeNode Title="C13F1/08 从晶体上洗去残留母液" Target="frmContent" Href="../searchservlet?query=C13F1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C13F1/08">
+        <TreeNode Title="C13F1/10 在离心分离机上" Target="frmContent" Href="../searchservlet?query=C13F1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C13F1/10" />
+      </TreeNode>
+      <TreeNode Title="C13F1/12 母液或洗涤液的再循环" Target="frmContent" Href="../searchservlet?query=C13F1/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C13F1/12" />
+      <TreeNode Title="C13F1/14 溶解或精制粗糖" Target="frmContent" Href="../searchservlet?query=C13F1/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C13F1/14" />
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="C13F3/00 其他组不包含的糖产品，如粉末状、块状或液体状的糖；糖的加工制造（C13F 5/00、C13H优先；糖果入A23G 3/00；食品糖浆，糖，糖醇或淀粉水解液入A23L 1/09）〔3〕" Target="frmContent" Href="../searchservlet?query=C13F3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C13F3/00">
+    <TreeNode Title="C13F3/02 模压糖成型" Target="frmContent" Href="../searchservlet?query=C13F3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C13F3/02" />
+  </TreeNode>
+  <TreeNode Title="C13F5/00 糖的干燥（糖的贮藏入B65）" Target="frmContent" Href="../searchservlet?query=C13F5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C13F5/00" />
+  <TreeNode Title="C13F99/00 不包含在本小类其他组的技术主题〔8〕" Target="frmContent" Href="../searchservlet?query=C13F99/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C13F99/00" />
+</Root>

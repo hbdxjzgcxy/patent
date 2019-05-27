@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="F01B1/00 以汽缸的数目或相对排列为特征的，或是以分开的汽缸—曲轴箱部件的构成为特征的往复活塞机器或发动机(F01B 3/00，F01B 5/00优先)[2]" Target="frmContent" Href="../searchservlet?query=F01B1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01B1/00">
+    <TreeNode Title="F01B1/01 #带有单个汽缸[2]" Target="frmContent" Href="../searchservlet?query=F01B1/01&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01B1/01"/>
+    <TreeNode Title="F01B1/02 #带有单排汽缸" Target="frmContent" Href="../searchservlet?query=F01B1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01B1/02"/>
+    <TreeNode Title="F01B1/04 #带有Ⅴ形汽缸排列的" Target="frmContent" Href="../searchservlet?query=F01B1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01B1/04"/>
+    <TreeNode Title="F01B1/06 #带有星形或扇形排列汽缸的" Target="frmContent" Href="../searchservlet?query=F01B1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01B1/06"/>
+    <TreeNode Title="F01B1/08 #带有相对主轴对置排列且处于一个平面上的汽缸" Target="frmContent" Href="../searchservlet?query=F01B1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01B1/08"/>
+    <TreeNode Title="F01B1/10 #带有一个以上的主轴，如连接到公共输出轴上(两个或更多的机器或发动机的组合入F01B 21/00)" Target="frmContent" Href="../searchservlet?query=F01B1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01B1/10"/>
+    <TreeNode Title="F01B1/12 #将单独的汽缸—曲轴箱部件连接成一个装置" Target="frmContent" Href="../searchservlet?query=F01B1/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01B1/12"/>
+  </TreeNode>
+  <TreeNode Title="F01B3/00 汽缸轴线与主轴轴线同轴、平行或倾斜的往复活塞式机器或发动机" Target="frmContent" Href="../searchservlet?query=F01B3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01B3/00">
+    <TreeNode Title="F01B3/02 #带有摆动盘" Target="frmContent" Href="../searchservlet?query=F01B3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01B3/02"/>
+    <TreeNode Title="F01B3/04 #活塞运动由曲面传动" Target="frmContent" Href="../searchservlet?query=F01B3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01B3/04">
+      <TreeNode Title="F01B3/06 ##由多匝螺旋面传动并自动换向" Target="frmContent" Href="../searchservlet?query=F01B3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01B3/06">
+        <TreeNode Title="F01B3/08 ###螺旋面布置在活塞上" Target="frmContent" Href="../searchservlet?query=F01B3/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01B3/08"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="F01B3/10 #专门用于工作流体的吸入或排出的控制(适于更加一般用途的入F01L)" Target="frmContent" Href="../searchservlet?query=F01B3/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01B3/10"/>
+  </TreeNode>
+  <TreeNode Title="F01B5/00 汽缸轴线与以主轴轴心为圆心的圆周基本上相切排列的往复活塞式机器或发动机" Target="frmContent" Href="../searchservlet?query=F01B5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01B5/00"/>
+  <TreeNode Title="F01B7/00 具有在同一汽缸或基本上同轴的汽缸中往复运动的两个或多个活塞的机器或发动机(相对于主轴对置排列的入F01B 1/08)" Target="frmContent" Href="../searchservlet?query=F01B7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01B7/00">
+    <TreeNode Title="F01B7/02 #带有对置的往复式活塞" Target="frmContent" Href="../searchservlet?query=F01B7/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01B7/02">
+      <TreeNode Title="F01B7/04 ##作用于同一主轴上" Target="frmContent" Href="../searchservlet?query=F01B7/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01B7/04">
+        <TreeNode Title="F01B7/06 ###只用连杆将往复运动转换为旋转运动，或者反之亦然" Target="frmContent" Href="../searchservlet?query=F01B7/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01B7/06">
+          <TreeNode Title="F01B7/08 ####有侧向连杆" Target="frmContent" Href="../searchservlet?query=F01B7/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01B7/08"/>
+          <TreeNode Title="F01B7/10 ####一个活塞的活塞杆穿过另一个活塞" Target="frmContent" Href="../searchservlet?query=F01B7/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01B7/10"/>
+        </TreeNode>
+        <TreeNode Title="F01B7/12 ###用摇杆和连杆" Target="frmContent" Href="../searchservlet?query=F01B7/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01B7/12"/>
+      </TreeNode>
+      <TreeNode Title="F01B7/14 ##作用于不同的主轴" Target="frmContent" Href="../searchservlet?query=F01B7/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01B7/14"/>
+    </TreeNode>
+    <TreeNode Title="F01B7/16 #带有在串联装置中同步运动的活塞" Target="frmContent" Href="../searchservlet?query=F01B7/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01B7/16"/>
+    <TreeNode Title="F01B7/18 #带有差动活塞(F01B 7/20优先)" Target="frmContent" Href="../searchservlet?query=F01B7/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01B7/18"/>
+    <TreeNode Title="F01B7/20 #带有两个或更多的活塞，其中一个活塞在另一个活塞内往复运动，例如一个活塞成为另一个活塞的汽缸" Target="frmContent" Href="../searchservlet?query=F01B7/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01B7/20"/>
+  </TreeNode>
+  <TreeNode Title="F01B9/00 不包含组F01B 1/00至F01B 7/00中的以活塞与主轴的连接为特征的往复活塞式机器或发动机(空载时可脱离连接的入F01B 31/24)" Target="frmContent" Href="../searchservlet?query=F01B9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01B9/00">
+    <TreeNode Title="F01B9/02 #带有曲轴" Target="frmContent" Href="../searchservlet?query=F01B9/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01B9/02"/>
+    <TreeNode Title="F01B9/04 #带有旋转的主轴但不是曲轴" Target="frmContent" Href="../searchservlet?query=F01B9/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01B9/04">
+      <TreeNode Title="F01B9/06 ##活塞运动由曲面传动" Target="frmContent" Href="../searchservlet?query=F01B9/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01B9/06"/>
+      <TreeNode Title="F01B9/08 ##有棘爪和棘轮" Target="frmContent" Href="../searchservlet?query=F01B9/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01B9/08"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="F01B11/00 无旋转主轴的往复活塞式机器或发动机，例如自由活塞式" Target="frmContent" Href="../searchservlet?query=F01B11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01B11/00">
+    <TreeNode Title="F01B11/02 #平衡装置或缓冲装置" Target="frmContent" Href="../searchservlet?query=F01B11/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01B11/02"/>
+    <TreeNode Title="F01B11/04 #与往复式从动装置结合在一起的发动机，例如锻锤(带有泵的入F01B 23/08；从动装置的主要方面，见装置的有关类)" Target="frmContent" Href="../searchservlet?query=F01B11/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01B11/04">
+      <TreeNode Title="F01B11/06 ##只用于产生振动的装置" Target="frmContent" Href="../searchservlet?query=F01B11/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01B11/06"/>
+    </TreeNode>
+    <TreeNode Title="F01B11/08 #带有直接的流体传输线(F01B 11/02优先)" Target="frmContent" Href="../searchservlet?query=F01B11/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01B11/08"/>
+  </TreeNode>
+  <TreeNode Title="F01B13/00 有旋转的汽缸以便获得活塞往复运动的往复活塞式机器或发动机(有弹性壁的机器或发动机入F01B 19/00)[2]" Target="frmContent" Href="../searchservlet?query=F01B13/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01B13/00">
+    <TreeNode Title="F01B13/02 #只带有1个汽缸" Target="frmContent" Href="../searchservlet?query=F01B13/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01B13/02"/>
+    <TreeNode Title="F01B13/04 #带有1个以上的汽缸的" Target="frmContent" Href="../searchservlet?query=F01B13/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01B13/04">
+      <TreeNode Title="F01B13/06 ##星形排列的" Target="frmContent" Href="../searchservlet?query=F01B13/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01B13/06"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="F01B15/00 不包含在组F01B 13/00中的带有可活动汽缸的往复活塞式机器或发动机(带有用于工作流体控制的活动汽缸套的入F01L)" Target="frmContent" Href="../searchservlet?query=F01B15/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01B15/00">
+    <TreeNode Title="F01B15/02 #带有往复运动的汽缸(带有一个活塞在另一个活塞内的入F01B 7/20)" Target="frmContent" Href="../searchservlet?query=F01B15/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01B15/02"/>
+    <TreeNode Title="F01B15/04 #带有摆动汽缸" Target="frmContent" Href="../searchservlet?query=F01B15/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01B15/04">
+      <TreeNode Title="F01B15/06 ##专用于工作流体吸入或排出的控制" Target="frmContent" Href="../searchservlet?query=F01B15/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01B15/06"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="F01B17/00 以采用单向流动原理为特点的往复活塞式机器或发动机" Target="frmContent" Href="../searchservlet?query=F01B17/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01B17/00">
+    <TreeNode Title="F01B17/02 #发动机" Target="frmContent" Href="../searchservlet?query=F01B17/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01B17/02">
+      <TreeNode Title="F01B17/04 ##蒸汽机" Target="frmContent" Href="../searchservlet?query=F01B17/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01B17/04"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="F01B19/00 具有弹性壁的变容式机器或发动机" Target="frmContent" Href="../searchservlet?query=F01B19/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01B19/00">
+    <TreeNode Title="F01B19/02 #带有板状弹性元件" Target="frmContent" Href="../searchservlet?query=F01B19/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01B19/02"/>
+    <TreeNode Title="F01B19/04 #带有管状弹性元件" Target="frmContent" Href="../searchservlet?query=F01B19/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01B19/04"/>
+  </TreeNode>
+  <TreeNode Title="F01B21/00 两个或更多的机器或发动机的组合(F01B 23/00优先；两个或更多的泵的组合装置入F04；流体传动装置入F16H；调节或控制见有关的组)" Target="frmContent" Href="../searchservlet?query=F01B21/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01B21/00">
+    <TreeNode Title="F01B21/02 #机器或发动机全部为往复活塞式" Target="frmContent" Href="../searchservlet?query=F01B21/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01B21/02"/>
+    <TreeNode Title="F01B21/04 #机器或发动机不是全部为往复活塞式，例如带蒸汽涡轮机的往复式蒸汽机" Target="frmContent" Href="../searchservlet?query=F01B21/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01B21/04"/>
+  </TreeNode>
+  <TreeNode Title="F01B23/00 适用于特殊用途的机器或发动机；发动机及其从动装置的组合(F01B 11/00优先；流体传动装置入F16H；主要是涉及从动装置方面的，见这些装置的有关类；调节或控制见有关组)" Target="frmContent" Href="../searchservlet?query=F01B23/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01B23/00">
+    <TreeNode Title="F01B23/02 #适用于驱动运载工具，例如机车(车辆中的设备见车辆的各有关类)" Target="frmContent" Href="../searchservlet?query=F01B23/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01B23/02">
+      <TreeNode Title="F01B23/04 ##交通工具是水上的船" Target="frmContent" Href="../searchservlet?query=F01B23/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01B23/04"/>
+    </TreeNode>
+    <TreeNode Title="F01B23/06 #适用于驱动手提工具或类似工具或与其组合的装置" Target="frmContent" Href="../searchservlet?query=F01B23/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01B23/06"/>
+    <TreeNode Title="F01B23/08 #适用于驱动泵或与其组合的装置" Target="frmContent" Href="../searchservlet?query=F01B23/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01B23/08"/>
+    <TreeNode Title="F01B23/10 #适用于驱动发电机或与其组合的装置" Target="frmContent" Href="../searchservlet?query=F01B23/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01B23/10"/>
+    <TreeNode Title="F01B23/12 #适用于驱动轧钢机或其他重型的回动式机械装置" Target="frmContent" Href="../searchservlet?query=F01B23/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01B23/12"/>
+  </TreeNode>
+  <TreeNode Title="F01B25/00 调节、控制或安全装置(一般的调节或控制入G05)" Target="frmContent" Href="../searchservlet?query=F01B25/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01B25/00">
+    <TreeNode Title="F01B25/02 #通过改变工作流体的吸入或排出而进行调节或控制，例如通过改变压力或流量(分配阀或膨胀阀装置入F01L)" Target="frmContent" Href="../searchservlet?query=F01B25/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01B25/02">
+      <TreeNode Title="F01B25/04 ##敏感元件" Target="frmContent" Href="../searchservlet?query=F01B25/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01B25/04">
+        <TreeNode Title="F01B25/06 ###对速度敏感" Target="frmContent" Href="../searchservlet?query=F01B25/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01B25/06"/>
+      </TreeNode>
+      <TreeNode Title="F01B25/08 ##末级执行机构" Target="frmContent" Href="../searchservlet?query=F01B25/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01B25/08">
+        <TreeNode Title="F01B25/10 ###工作流体吸入或排出阀的安装或改进(一般阀入F16K)" Target="frmContent" Href="../searchservlet?query=F01B25/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01B25/10"/>
+      </TreeNode>
+      <TreeNode Title="F01B25/12 ##配有敏感元件或末级执行机构或它们之间的传动系统的装置，例如机械助动装置(单独的敏感元件入F01B 25/04；单独的末级执行机构入F01B 25/08)" Target="frmContent" Href="../searchservlet?query=F01B25/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01B25/12"/>
+      <TreeNode Title="F01B25/14 ##专用于特种机器或发动机的" Target="frmContent" Href="../searchservlet?query=F01B25/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01B25/14"/>
+    </TreeNode>
+    <TreeNode Title="F01B25/16 #对特定条件敏感的安全装置(在蒸汽机中防止水锤作用或类似物的入F01B 31/34)" Target="frmContent" Href="../searchservlet?query=F01B25/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01B25/16">
+      <TreeNode Title="F01B25/18 ##防止旋转方向错误的" Target="frmContent" Href="../searchservlet?query=F01B25/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01B25/18"/>
+    </TreeNode>
+    <TreeNode Title="F01B25/20 #安全装置的校验操作" Target="frmContent" Href="../searchservlet?query=F01B25/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01B25/20"/>
+    <TreeNode Title="F01B25/22 #通过改变工作流体方向进行制动" Target="frmContent" Href="../searchservlet?query=F01B25/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01B25/22">
+      <TreeNode Title="F01B25/24 ##能量再生式" Target="frmContent" Href="../searchservlet?query=F01B25/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01B25/24"/>
+    </TreeNode>
+    <TreeNode Title="F01B25/26 #警报装置" Target="frmContent" Href="../searchservlet?query=F01B25/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01B25/26"/>
+  </TreeNode>
+  <TreeNode Title="F01B27/00 机器或发动机的起动(燃烧发动机的起动入F02N)" Target="frmContent" Href="../searchservlet?query=F01B27/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01B27/00">
+    <TreeNode Title="F01B27/02 #往复活塞式发动机的起动" Target="frmContent" Href="../searchservlet?query=F01B27/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01B27/02">
+      <TreeNode Title="F01B27/04 ##通过引入工作流体起动，例如借助于旁通蒸汽管道" Target="frmContent" Href="../searchservlet?query=F01B27/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01B27/04">
+        <TreeNode Title="F01B27/06 ###专门用于复合式发动机" Target="frmContent" Href="../searchservlet?query=F01B27/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01B27/06"/>
+      </TreeNode>
+      <TreeNode Title="F01B27/08 ##移动曲柄离开死点位置的装置(一般旋转齿轮入F16H)" Target="frmContent" Href="../searchservlet?query=F01B27/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01B27/08"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="F01B29/00 不包含在大组F01B 1/00至F01B 27/00中的具有相应特性的机器或发动机" Target="frmContent" Href="../searchservlet?query=F01B29/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01B29/00">
+    <TreeNode Title="F01B29/02 #大气发动机，即利用大气对于真空的压力差作用的" Target="frmContent" Href="../searchservlet?query=F01B29/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01B29/02"/>
+    <TreeNode Title="F01B29/04 #特点为从一种型式改变为不同的另一种型式的装置" Target="frmContent" Href="../searchservlet?query=F01B29/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01B29/04">
+      <TreeNode Title="F01B29/06 ##将蒸汽机改变为内燃机" Target="frmContent" Href="../searchservlet?query=F01B29/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01B29/06"/>
+    </TreeNode>
+    <TreeNode Title="F01B29/08 #不包含在其他组中的往复活塞式机器或发动机" Target="frmContent" Href="../searchservlet?query=F01B29/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01B29/08">
+      <TreeNode Title="F01B29/10 ##发动机(制冷机器入F25B)" Target="frmContent" Href="../searchservlet?query=F01B29/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01B29/10">
+        <TreeNode Title="F01B29/12 ###蒸汽机(玩具蒸汽机入A63H 25/00)" Target="frmContent" Href="../searchservlet?query=F01B29/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01B29/12"/>
+      </TreeNode>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="F01B31/00 不包含在其他组或与其他组无关的部件、零件或附件(除蒸汽机特有的壳体外，所有的机器或发动机壳体入F16M)" Target="frmContent" Href="../searchservlet?query=F01B31/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01B31/00">
+    <TreeNode Title="F01B31/02 #有冰冻现象的发动机的防冻装置" Target="frmContent" Href="../searchservlet?query=F01B31/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01B31/02"/>
+    <TreeNode Title="F01B31/04 #往复活塞式机器或发动机的力矩平衡装置(惯性力的补偿、系统内振动的抑制入F16F)" Target="frmContent" Href="../searchservlet?query=F01B31/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01B31/04"/>
+    <TreeNode Title="F01B31/06 #部件相对膨胀的补偿装置" Target="frmContent" Href="../searchservlet?query=F01B31/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01B31/06"/>
+    <TreeNode Title="F01B31/08 #蒸汽机的冷却(一般流体机器或发动机的冷却入F01P)；加热；隔热(一般的隔热入F16L 59/00)" Target="frmContent" Href="../searchservlet?query=F01B31/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01B31/08"/>
+    <TreeNode Title="F01B31/10 #蒸汽机的润滑装置(一般流体机器或发动机的润滑装置入F01M)" Target="frmContent" Href="../searchservlet?query=F01B31/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01B31/10"/>
+    <TreeNode Title="F01B31/12 #测量装置或指示装置(警报器入F01B 25/26；测量仪器或类似仪器本身入G01)" Target="frmContent" Href="../searchservlet?query=F01B31/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01B31/12"/>
+    <TreeNode Title="F01B31/14 #改变压缩比" Target="frmContent" Href="../searchservlet?query=F01B31/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01B31/14"/>
+    <TreeNode Title="F01B31/16 #专门适用于蒸汽机的消音器(蒸汽机的排气管的装置入F01B 31/30；一般的机器或发动机的气流消音器或排气消音器入F01N)" Target="frmContent" Href="../searchservlet?query=F01B31/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01B31/16"/>
+    <TreeNode Title="F01B31/18 #排水" Target="frmContent" Href="../searchservlet?query=F01B31/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01B31/18">
+      <TreeNode Title="F01B31/20 ##汽缸的排水" Target="frmContent" Href="../searchservlet?query=F01B31/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01B31/20"/>
+    </TreeNode>
+    <TreeNode Title="F01B31/22 #空转装置，如有旁通阀" Target="frmContent" Href="../searchservlet?query=F01B31/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01B31/22">
+      <TreeNode Title="F01B31/24 ##活塞和主轴间脱离连接的装置" Target="frmContent" Href="../searchservlet?query=F01B31/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01B31/24"/>
+    </TreeNode>
+    <TreeNode Title="F01B31/26 #蒸汽机特有的其他部件、零件或附件" Target="frmContent" Href="../searchservlet?query=F01B31/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01B31/26">
+      <TreeNode Title="F01B31/28 ##汽缸或汽缸盖" Target="frmContent" Href="../searchservlet?query=F01B31/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01B31/28"/>
+      <TreeNode Title="F01B31/30 ##蒸汽导管装置" Target="frmContent" Href="../searchservlet?query=F01B31/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01B31/30"/>
+      <TreeNode Title="F01B31/32 ##真空断路器的安装或改进" Target="frmContent" Href="../searchservlet?query=F01B31/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01B31/32"/>
+      <TreeNode Title="F01B31/34 ##防止水锤或防止水渗透的安全装置(蒸汽凝汽阀本身入F16T)" Target="frmContent" Href="../searchservlet?query=F01B31/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01B31/34">
+        <TreeNode Title="F01B31/36 ###蒸汽供应的自动切断装置" Target="frmContent" Href="../searchservlet?query=F01B31/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01B31/36"/>
+      </TreeNode>
+    </TreeNode>
+  </TreeNode>
+</Root>

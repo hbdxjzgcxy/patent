@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="F02D1/00 燃料喷射泵的控制，例如高压喷射型(F02D 3/00优先)[2]" Target="frmContent" Href="../searchservlet?query=F02D1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02D1/00">
+    <TreeNode Title="F02D1/02 #不限于喷射定时的调节，如调节喷油量" Target="frmContent" Href="../searchservlet?query=F02D1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02D1/02">
+      <TreeNode Title="F02D1/04 ##采用取决于发动机速度的机械装置，如使用离心调速器(F02D 1/08优先)" Target="frmContent" Href="../searchservlet?query=F02D1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02D1/04"/>
+      <TreeNode Title="F02D1/06 ##采用取决于发动机工作流体压力的装置(F02D 1/08优先)" Target="frmContent" Href="../searchservlet?query=F02D1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02D1/06"/>
+      <TreeNode Title="F02D1/08 ##将控制脉冲传至泵的控制装置，如具有动力驱动或助动的装置" Target="frmContent" Href="../searchservlet?query=F02D1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02D1/08">
+        <TreeNode Title="F02D1/10 ###机械式的" Target="frmContent" Href="../searchservlet?query=F02D1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02D1/10"/>
+        <TreeNode Title="F02D1/12 ###非机械式的，如液压" Target="frmContent" Href="../searchservlet?query=F02D1/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02D1/12">
+          <TreeNode Title="F02D1/14 ####气动的" Target="frmContent" Href="../searchservlet?query=F02D1/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02D1/14"/>
+        </TreeNode>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="F02D1/16 #喷射定时的调节(F02D 1/02优先)" Target="frmContent" Href="../searchservlet?query=F02D1/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02D1/16">
+      <TreeNode Title="F02D1/18 ##具有传递控制脉冲的非机械式的装置；具有控制脉冲放大装置" Target="frmContent" Href="../searchservlet?query=F02D1/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02D1/18"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="F02D3/00 除只对一个喷射泵控制之外的低压燃料喷射控制，即以此喷射燃料的方式而形成的混合气中主要是由发动机的压缩冲程压缩的(化油器入F02M)[2]" Target="frmContent" Href="../searchservlet?query=F02D3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02D3/00">
+    <TreeNode Title="F02D3/02 #具有喷嘴连续喷射或连续逆流[2]" Target="frmContent" Href="../searchservlet?query=F02D3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02D3/02"/>
+    <TreeNode Title="F02D3/04 #燃料喷射和化油器的控制，如两种状态可转换的系统" Target="frmContent" Href="../searchservlet?query=F02D3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02D3/04"/>
+  </TreeNode>
+  <TreeNode Title="F02D7/00 燃料喷射的其他非电气控制[4]" Target="frmContent" Href="../searchservlet?query=F02D7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02D7/00">
+    <TreeNode Title="F02D7/02 #通过压缩空气喷射燃料的燃料喷射的控制" Target="frmContent" Href="../searchservlet?query=F02D7/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02D7/02"/>
+  </TreeNode>
+  <TreeNode Title="F02D9/00 通过对空气或燃料—空气混合气进、排气管进行节流的发动机控制" Target="frmContent" Href="../searchservlet?query=F02D9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02D9/00">
+    <TreeNode Title="F02D9/02 #关于进气管(节流阀或其在进气管内的设置入F02D 9/08)" Target="frmContent" Href="../searchservlet?query=F02D9/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02D9/02"/>
+    <TreeNode Title="F02D9/04 #关于排气管(节流阀或其在排气管上的安装入F02D 9/08)" Target="frmContent" Href="../searchservlet?query=F02D9/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02D9/04">
+      <TreeNode Title="F02D9/06 ##排气制动" Target="frmContent" Href="../searchservlet?query=F02D9/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02D9/06"/>
+    </TreeNode>
+    <TreeNode Title="F02D9/08 #专用的节流阀；该阀在管道内的设置(用于化油器的改型节流阀入F02M；一般的节流阀入F16K)" Target="frmContent" Href="../searchservlet?query=F02D9/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02D9/08">
+      <TreeNode Title="F02D9/10 ##具有枢轴支承安装的阀瓣" Target="frmContent" Href="../searchservlet?query=F02D9/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02D9/10"/>
+      <TreeNode Title="F02D9/12 ##具有可滑动安装的阀件；具有可沿导管纵向移动的阀件" Target="frmContent" Href="../searchservlet?query=F02D9/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02D9/12">
+        <TreeNode Title="F02D9/14 ###阀件可沿导管横向滑动" Target="frmContent" Href="../searchservlet?query=F02D9/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02D9/14"/>
+        <TreeNode Title="F02D9/16 ###阀件是可旋转的" Target="frmContent" Href="../searchservlet?query=F02D9/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02D9/16"/>
+      </TreeNode>
+      <TreeNode Title="F02D9/18 ##具有弹性壁的阀件" Target="frmContent" Href="../searchservlet?query=F02D9/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02D9/18"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="F02D11/00 用于或适用于非自动的发动机控制的起动装置，如操作员起动(专用于可逆机的入F02D 27/00；车辆牵引机控制机构的设置或安装入B60K 26/00)[2，5]" Target="frmContent" Href="../searchservlet?query=F02D11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02D11/00">
+    <TreeNode Title="F02D11/02 #具有以手、脚或类似的操作方式控制的起动装置为特点的[5]" Target="frmContent" Href="../searchservlet?query=F02D11/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02D11/02"/>
+    <TreeNode Title="F02D11/04 #以机械控制连接为特点的(带动力驱动或助动装置的入F02D 11/06)[5]" Target="frmContent" Href="../searchservlet?query=F02D11/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02D11/04"/>
+    <TreeNode Title="F02D11/06 #以非机械控制连接为特点的，如流体控制连接或由动力驱动或助动装置的控制连接[5]" Target="frmContent" Href="../searchservlet?query=F02D11/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02D11/06">
+      <TreeNode Title="F02D11/08 ##气动式的[5]" Target="frmContent" Href="../searchservlet?query=F02D11/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02D11/08"/>
+      <TreeNode Title="F02D11/10 ##电动式的[5]" Target="frmContent" Href="../searchservlet?query=F02D11/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02D11/10"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="F02D13/00 通过改变进气阀或排气阀的操作特点，如定时，对发动机输出功率的控制(阀机构的改进入F01L)" Target="frmContent" Href="../searchservlet?query=F02D13/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02D13/00">
+    <TreeNode Title="F02D13/02 #在发动机运行时" Target="frmContent" Href="../searchservlet?query=F02D13/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02D13/02">
+      <TreeNode Title="F02D13/04 ##用发动机作为制动器的" Target="frmContent" Href="../searchservlet?query=F02D13/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02D13/04"/>
+      <TreeNode Title="F02D13/06 ##休缸" Target="frmContent" Href="../searchservlet?query=F02D13/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02D13/06"/>
+    </TreeNode>
+    <TreeNode Title="F02D13/08 #使发动机不工作或怠速" Target="frmContent" Href="../searchservlet?query=F02D13/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02D13/08"/>
+  </TreeNode>
+  <TreeNode Title="F02D15/00 改变压缩比(阀机构的改进入F01L)" Target="frmContent" Href="../searchservlet?query=F02D15/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02D15/00">
+    <TreeNode Title="F02D15/02 #通过改变活塞冲程" Target="frmContent" Href="../searchservlet?query=F02D15/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02D15/02"/>
+    <TreeNode Title="F02D15/04 #不改变活塞冲程，而使压缩空间的容积变化" Target="frmContent" Href="../searchservlet?query=F02D15/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02D15/04"/>
+  </TreeNode>
+  <TreeNode Title="F02D17/00 通过使个别汽缸休缸的发动机控制；使发动机不工作或怠速(通过改变进气或排气阀操作特点的控制或使其不工作的入F02D 13/00)" Target="frmContent" Href="../searchservlet?query=F02D17/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02D17/00">
+    <TreeNode Title="F02D17/02 #休缸(在配置的多台发动机中使某些发动机不工作的入F02D 25/04)" Target="frmContent" Href="../searchservlet?query=F02D17/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02D17/02"/>
+    <TreeNode Title="F02D17/04 #发动机不工作或怠速，如由非正常情况所引起的(取决于润滑条件的入F01M 1/22；取决于冷却的入F01P 5/14)" Target="frmContent" Href="../searchservlet?query=F02D17/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02D17/04"/>
+  </TreeNode>
+  <TreeNode Title="F02D19/00 以使用非液体燃料、多种燃料，或在可燃混合气中添加非燃料物质为特点的发动机的控制(非燃料物质是气态的入F02D 21/00)" Target="frmContent" Href="../searchservlet?query=F02D19/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02D19/00">
+    <TreeNode Title="F02D19/02 #使用气态燃料工作的发动机所特有的(气体和空气混合装置，或其控制部件入F02M)" Target="frmContent" Href="../searchservlet?query=F02D19/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02D19/02"/>
+    <TreeNode Title="F02D19/04 #使用固态燃料工作的发动机所特有的，如煤粉" Target="frmContent" Href="../searchservlet?query=F02D19/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02D19/04"/>
+    <TreeNode Title="F02D19/06 #除对燃料消耗要求不严格的发动机之外的使用多种燃料工作的发动机所特有的，如交替使用轻和重燃料油" Target="frmContent" Href="../searchservlet?query=F02D19/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02D19/06">
+      <TreeNode Title="F02D19/08 ##同时使用多种燃料的(F02D 19/12优先)" Target="frmContent" Href="../searchservlet?query=F02D19/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02D19/08">
+        <TreeNode Title="F02D19/10 ###主要燃料是气态的压燃发动机所特有的" Target="frmContent" Href="../searchservlet?query=F02D19/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02D19/10"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="F02D19/12 #使用非燃料物质或抗爆剂工作的发动机所特有的，如使用抗爆震燃料(输送上述物质或其组分用的装置，或其控制部件入F02M)" Target="frmContent" Href="../searchservlet?query=F02D19/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02D19/12"/>
+  </TreeNode>
+  <TreeNode Title="F02D21/00 以非空气中氧或其他非燃料气体供给为特点的发动机的控制" Target="frmContent" Href="../searchservlet?query=F02D21/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02D21/00">
+    <TreeNode Title="F02D21/02 #供氧发动机所特有的" Target="frmContent" Href="../searchservlet?query=F02D21/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02D21/02">
+      <TreeNode Title="F02D21/04 ##在闭合或半闭合回路中具有排出气体循环的" Target="frmContent" Href="../searchservlet?query=F02D21/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02D21/04"/>
+    </TreeNode>
+    <TreeNode Title="F02D21/06 #具有往燃烧空气中加入其他非燃烧气体的发动机所特有的" Target="frmContent" Href="../searchservlet?query=F02D21/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02D21/06">
+      <TreeNode Title="F02D21/08 ##其他气体是发动机排出的废气体(供氧发动机中排出气体的循环入F02D 21/04)" Target="frmContent" Href="../searchservlet?query=F02D21/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02D21/08"/>
+      <TreeNode Title="F02D21/10 ##往燃料空气混合气中加入二次空气的(输入二次空气的装置或其控制部件入F02M)" Target="frmContent" Href="../searchservlet?query=F02D21/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02D21/10"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="F02D23/00 以增压为特点的发动机的控制" Target="frmContent" Href="../searchservlet?query=F02D23/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02D23/00">
+    <TreeNode Title="F02D23/02 #发动机是燃料喷射型的" Target="frmContent" Href="../searchservlet?query=F02D23/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02D23/02"/>
+  </TreeNode>
+  <TreeNode Title="F02D25/00 两台或多台配合工作的发动机的控制" Target="frmContent" Href="../searchservlet?query=F02D25/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02D25/00">
+    <TreeNode Title="F02D25/02 #使其具有同步转速" Target="frmContent" Href="../searchservlet?query=F02D25/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02D25/02"/>
+    <TreeNode Title="F02D25/04 #使某些发动机不工作" Target="frmContent" Href="../searchservlet?query=F02D25/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02D25/04"/>
+  </TreeNode>
+  <TreeNode Title="F02D27/00 以可逆为特点的发动机的控制" Target="frmContent" Href="../searchservlet?query=F02D27/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02D27/00">
+    <TreeNode Title="F02D27/02 #通过执行程序" Target="frmContent" Href="../searchservlet?query=F02D27/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02D27/02"/>
+  </TreeNode>
+  <TreeNode Title="F02D28/00 发动机的程序控制(本小类除F02D 29/00，F02D 39/00之外的某小组所包含的，或其他小类中某小组所包含的特定类型或用途的程序控制，例如F01L，见这些组)[2]" Target="frmContent" Href="../searchservlet?query=F02D28/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02D28/00"/>
+  <TreeNode Title="F02D29/00 发动机控制，尤其适用于发动机所驱动的装置，该装置不是发动机工作的基本部件或附件，如用外部信号控制发动机[2]" Target="frmContent" Href="../searchservlet?query=F02D29/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02D29/00">
+    <TreeNode Title="F02D29/02 #尤其适用于驱动运载工具的发动机；驱动调距螺旋桨的发动机所特有的[2]" Target="frmContent" Href="../searchservlet?query=F02D29/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02D29/02"/>
+    <TreeNode Title="F02D29/04 #尤其适用于驱动泵的发动机" Target="frmContent" Href="../searchservlet?query=F02D29/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02D29/04"/>
+    <TreeNode Title="F02D29/06 #尤其适用于驱动发电机的发动机" Target="frmContent" Href="../searchservlet?query=F02D29/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02D29/06"/>
+  </TreeNode>
+  <TreeNode Title="F02D31/00 不包含在其他类目中的非电气调速器在控制内燃机方面的应用" Target="frmContent" Href="../searchservlet?query=F02D31/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02D31/00"/>
+  <TreeNode Title="F02D33/00 不包含在其他类目中的燃料或燃烧空气输送的非电气控制" Target="frmContent" Href="../searchservlet?query=F02D33/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02D33/00">
+    <TreeNode Title="F02D33/02 #燃烧空气的" Target="frmContent" Href="../searchservlet?query=F02D33/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02D33/02"/>
+  </TreeNode>
+  <TreeNode Title="F02D35/00 不包含在其他类目中的依靠发动机外部或内部条件而对其进行的非电气控制" Target="frmContent" Href="../searchservlet?query=F02D35/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02D35/00">
+    <TreeNode Title="F02D35/02 #依内部条件" Target="frmContent" Href="../searchservlet?query=F02D35/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02D35/02"/>
+  </TreeNode>
+  <TreeNode Title="F02D37/00 不包含在其他类目中的发动机的两种或多种功能的非电气联合控制" Target="frmContent" Href="../searchservlet?query=F02D37/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02D37/00">
+    <TreeNode Title="F02D37/02 #其中的一种功能为点火(点火控制本身入F02P)" Target="frmContent" Href="../searchservlet?query=F02D37/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02D37/02"/>
+  </TreeNode>
+  <TreeNode Title="F02D39/00 其他非电气控制[4]" Target="frmContent" Href="../searchservlet?query=F02D39/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02D39/00">
+    <TreeNode Title="F02D39/02 #用于四冲程发动机" Target="frmContent" Href="../searchservlet?query=F02D39/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02D39/02"/>
+    <TreeNode Title="F02D39/04 #用于除四冲程以外的其他循环的发动机，如二冲程" Target="frmContent" Href="../searchservlet?query=F02D39/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02D39/04"/>
+    <TreeNode Title="F02D39/06 #用于基本上是在压缩冲程末加燃料的发动机" Target="frmContent" Href="../searchservlet?query=F02D39/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02D39/06"/>
+    <TreeNode Title="F02D39/08 #用于基本上是在压缩冲程前加燃料的发动机" Target="frmContent" Href="../searchservlet?query=F02D39/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02D39/08"/>
+    <TreeNode Title="F02D39/10 #用于自由活塞式发动机，用于无旋转主轴的发动机" Target="frmContent" Href="../searchservlet?query=F02D39/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02D39/10"/>
+    <TreeNode Title="F02D41/02 #产生控制信号的电路设置[4]" Target="frmContent" Href="../searchservlet?query=F02D41/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02D41/02">
+      <TreeNode Title="F02D41/04 ##引入用于特殊操作条件的校正(F02D 41/14优先)[4]" Target="frmContent" Href="../searchservlet?query=F02D41/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02D41/04">
+        <TreeNode Title="F02D41/06 ###用于发动机的起动或预热[4]" Target="frmContent" Href="../searchservlet?query=F02D41/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02D41/06"/>
+        <TreeNode Title="F02D41/08 ###用于怠速(F02D 41/06，F02D 41/16优先)[4]" Target="frmContent" Href="../searchservlet?query=F02D41/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02D41/08"/>
+        <TreeNode Title="F02D41/10 ###用于加速[4]" Target="frmContent" Href="../searchservlet?query=F02D41/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02D41/10"/>
+        <TreeNode Title="F02D41/12 ###用于减速[4]" Target="frmContent" Href="../searchservlet?query=F02D41/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02D41/12"/>
+      </TreeNode>
+      <TreeNode Title="F02D41/14 ##引入闭合回路的校正[4]" Target="frmContent" Href="../searchservlet?query=F02D41/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02D41/14">
+        <TreeNode Title="F02D41/16 ###用于怠速[4]" Target="frmContent" Href="../searchservlet?query=F02D41/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02D41/16"/>
+      </TreeNode>
+      <TreeNode Title="F02D41/18 ##通过测量吸入空气流量(一般的流量测量入G01F)[4]" Target="frmContent" Href="../searchservlet?query=F02D41/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02D41/18"/>
+    </TreeNode>
+    <TreeNode Title="F02D41/20 #输出电路，例如用于控制指令线圈的电流(一般的电感负载的线路电流控制见H03K 17/64)[4]" Target="frmContent" Href="../searchservlet?query=F02D41/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02D41/20"/>
+    <TreeNode Title="F02D41/22 #非正常状态用安全或指示的装置[4]" Target="frmContent" Href="../searchservlet?query=F02D41/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02D41/22"/>
+    <TreeNode Title="F02D41/24 #以使用数字电路装置为特点的[4]" Target="frmContent" Href="../searchservlet?query=F02D41/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02D41/24">
+      <TreeNode Title="F02D41/26 ##使用计算机，如微处理机[4]" Target="frmContent" Href="../searchservlet?query=F02D41/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02D41/26">
+        <TreeNode Title="F02D41/28 ###接口电路[4]" Target="frmContent" Href="../searchservlet?query=F02D41/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02D41/28"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="F02D41/30 #燃料喷射的控制[4]" Target="frmContent" Href="../searchservlet?query=F02D41/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02D41/30">
+      <TreeNode Title="F02D41/32 ##低压型的[4]" Target="frmContent" Href="../searchservlet?query=F02D41/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02D41/32">
+        <TreeNode Title="F02D41/34 ###带有控制喷射定时或持续时间的装置(点火定时入F02P 5/00)[4]" Target="frmContent" Href="../searchservlet?query=F02D41/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02D41/34"/>
+        <TreeNode Title="F02D41/36 ###带有控制分配的装置(点火分配器的配置入F02P 7/00)[4]" Target="frmContent" Href="../searchservlet?query=F02D41/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02D41/36"/>
+      </TreeNode>
+      <TreeNode Title="F02D41/38 ##高压型的[4]" Target="frmContent" Href="../searchservlet?query=F02D41/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02D41/38">
+        <TreeNode Title="F02D41/40 ###带有控制喷射定时或持续时间的装置[4]" Target="frmContent" Href="../searchservlet?query=F02D41/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02D41/40"/>
+      </TreeNode>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="F02D43/00 两种或多种功能的电气联合控制，如点火、燃料—空气混合，再循环、增压、废气处理(废气处理装置的电气控制本身入F01N 9/00)[4]" Target="frmContent" Href="../searchservlet?query=F02D43/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02D43/00">
+    <TreeNode Title="F02D43/02 #只用模拟电路装置[4]" Target="frmContent" Href="../searchservlet?query=F02D43/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02D43/02"/>
+    <TreeNode Title="F02D43/04 #只用数字电路装置[4]" Target="frmContent" Href="../searchservlet?query=F02D43/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02D43/04"/>
+  </TreeNode>
+  <TreeNode Title="F02D45/00 不包含在组F02D 41/00至F02D 43/00中的电气控制(废气处理装置的电气控制入F01N 9/00；点火、润滑、冷却、起动、加热进气功能之一的电气控制，参见这些功能的有关小类)[4]" Target="frmContent" Href="../searchservlet?query=F02D45/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02D45/00"/>
+</Root>

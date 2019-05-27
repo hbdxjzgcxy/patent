@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="B60Q1/00 光学信号或照明装置的布置，及其安装或支承或其所用电路(用于车辆内部照明的入B60Q 3/00)[4]" Target="frmContent" Href="../searchservlet?query=B60Q1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60Q1/00">
+    <TreeNode Title="B60Q1/02 # 装置主要用于照亮前方路程或照亮路程或周围的其他区域" Target="frmContent" Href="../searchservlet?query=B60Q1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60Q1/02">
+      <TreeNode Title="B60Q1/04 ##装置是前大灯" Target="frmContent" Href="../searchservlet?query=B60Q1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60Q1/04">
+        <TreeNode Title="B60Q1/05 ###可伸缩的[5]" Target="frmContent" Href="../searchservlet?query=B60Q1/05&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60Q1/05"/>
+        <TreeNode Title="B60Q1/06 ###可调节的，例如在车内遥控的(B60Q 1/05优先)[5]" Target="frmContent" Href="../searchservlet?query=B60Q1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60Q1/06">
+          <TreeNode Title="B60Q1/064 ####用流体装置的[5]" Target="frmContent" Href="../searchservlet?query=B60Q1/064&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60Q1/064"/>
+          <TreeNode Title="B60Q1/068 ####用机械装置的[5]" Target="frmContent" Href="../searchservlet?query=B60Q1/068&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60Q1/068">
+            <TreeNode Title="B60Q1/072 #####具有可弯曲部件的，例如链条[5]" Target="frmContent" Href="../searchservlet?query=B60Q1/072&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60Q1/072"/>
+          </TreeNode>
+          <TreeNode Title="B60Q1/076 ####用电装置的[5]" Target="frmContent" Href="../searchservlet?query=B60Q1/076&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60Q1/076"/>
+          <TreeNode Title="B60Q1/08 ####自动的" Target="frmContent" Href="../searchservlet?query=B60Q1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60Q1/08">
+            <TreeNode Title="B60Q1/10 #####由于车辆倾斜，例如由于货物分布" Target="frmContent" Href="../searchservlet?query=B60Q1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60Q1/10">
+              <TreeNode Title="B60Q1/105 ######用流体装置的[5]" Target="frmContent" Href="../searchservlet?query=B60Q1/105&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60Q1/105"/>
+              <TreeNode Title="B60Q1/11 ######用机械装置的[5]" Target="frmContent" Href="../searchservlet?query=B60Q1/11&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60Q1/11"/>
+              <TreeNode Title="B60Q1/115 ######用电装置的[5]" Target="frmContent" Href="../searchservlet?query=B60Q1/115&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60Q1/115"/>
+            </TreeNode>
+            <TreeNode Title="B60Q1/12 #####由于转向位置" Target="frmContent" Href="../searchservlet?query=B60Q1/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60Q1/12">
+              <TreeNode Title="B60Q1/124 ######用机械装置的[5]" Target="frmContent" Href="../searchservlet?query=B60Q1/124&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60Q1/124">
+                <TreeNode Title="B60Q1/128 #######具有可弯曲部件的，例如链条[5]" Target="frmContent" Href="../searchservlet?query=B60Q1/128&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60Q1/128"/>
+                <TreeNode Title="B60Q1/132 #######具有齿轮啮合部件的[5]" Target="frmContent" Href="../searchservlet?query=B60Q1/132&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60Q1/132"/>
+                <TreeNode Title="B60Q1/136 #######具有刚性杆系部件的[5]" Target="frmContent" Href="../searchservlet?query=B60Q1/136&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60Q1/136"/>
+              </TreeNode>
+            </TreeNode>
+          </TreeNode>
+        </TreeNode>
+        <TreeNode Title="B60Q1/14 ###有变近光装置的" Target="frmContent" Href="../searchservlet?query=B60Q1/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60Q1/14"/>
+        <TreeNode Title="B60Q1/16 ###不对称地照亮路程的" Target="frmContent" Href="../searchservlet?query=B60Q1/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60Q1/16"/>
+        <TreeNode Title="B60Q1/18 ###是附加的前灯" Target="frmContent" Href="../searchservlet?query=B60Q1/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60Q1/18">
+          <TreeNode Title="B60Q1/20 ####雾灯" Target="frmContent" Href="../searchservlet?query=B60Q1/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60Q1/20"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="B60Q1/22 ##用于倒车行驶的" Target="frmContent" Href="../searchservlet?query=B60Q1/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60Q1/22"/>
+      <TreeNode Title="B60Q1/24 ##不仅用于前方路程还包括其他区域的照明" Target="frmContent" Href="../searchservlet?query=B60Q1/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60Q1/24"/>
+    </TreeNode>
+    <TreeNode Title="B60Q1/26 # 装置主要用于向其他交通工具指明车辆及其部件或发出信号" Target="frmContent" Href="../searchservlet?query=B60Q1/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60Q1/26">
+      <TreeNode Title="B60Q1/28 ##用于指明车辆前部的" Target="frmContent" Href="../searchservlet?query=B60Q1/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60Q1/28"/>
+      <TreeNode Title="B60Q1/30 ##用于指明车辆后部的，例如用反射面的" Target="frmContent" Href="../searchservlet?query=B60Q1/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60Q1/30"/>
+      <TreeNode Title="B60Q1/32 ##用于指明车辆侧面的" Target="frmContent" Href="../searchservlet?query=B60Q1/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60Q1/32"/>
+      <TreeNode Title="B60Q1/34 ##用于指明行驶方向变化的(B60Q 1/22优先)" Target="frmContent" Href="../searchservlet?query=B60Q1/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60Q1/34">
+        <TreeNode Title="B60Q1/36 ###使用活动部件的，例如使用装有闪光灯的臂" Target="frmContent" Href="../searchservlet?query=B60Q1/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60Q1/36"/>
+        <TreeNode Title="B60Q1/38 ###使用固定安装光源的，例如使用固定式闪光灯的" Target="frmContent" Href="../searchservlet?query=B60Q1/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60Q1/38"/>
+        <TreeNode Title="B60Q1/40 ###能自动回复到不工作位置上的" Target="frmContent" Href="../searchservlet?query=B60Q1/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60Q1/40">
+          <TreeNode Title="B60Q1/42 ####用于方向盘的位置" Target="frmContent" Href="../searchservlet?query=B60Q1/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60Q1/42"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="B60Q1/44 ##用于指明制动作用的" Target="frmContent" Href="../searchservlet?query=B60Q1/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60Q1/44"/>
+      <TreeNode Title="B60Q1/46 ##用于在行车时发出闪光警告信号的，而不是发出行驶方向改变的信号，例如前大灯闪光" Target="frmContent" Href="../searchservlet?query=B60Q1/46&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60Q1/46"/>
+      <TreeNode Title="B60Q1/48 ##停车用的" Target="frmContent" Href="../searchservlet?query=B60Q1/48&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60Q1/48"/>
+      <TreeNode Title="B60Q1/50 ##用于指明其他意图或情况的，例如请求等候或超车的" Target="frmContent" Href="../searchservlet?query=B60Q1/50&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60Q1/50">
+        <TreeNode Title="B60Q1/52 ###用于指明紧急情况的" Target="frmContent" Href="../searchservlet?query=B60Q1/52&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60Q1/52"/>
+        <TreeNode Title="B60Q1/54 ###用于指明速度的" Target="frmContent" Href="../searchservlet?query=B60Q1/54&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60Q1/54"/>
+      </TreeNode>
+      <TreeNode Title="B60Q1/56 ##用于照亮牌照或类似件的" Target="frmContent" Href="../searchservlet?query=B60Q1/56&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60Q1/56"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="B60Q3/00 车辆内部照明装置的布置，及其安装或支承或其所用电路[4]" Target="frmContent" Href="../searchservlet?query=B60Q3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60Q3/00">
+    <TreeNode Title="B60Q3/02 # 用于照明乘客或驾驶室的" Target="frmContent" Href="../searchservlet?query=B60Q3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60Q3/02">
+      <TreeNode Title="B60Q3/04 ##用于仪表板的" Target="frmContent" Href="../searchservlet?query=B60Q3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60Q3/04"/>
+    </TreeNode>
+    <TreeNode Title="B60Q3/06 # 用于照明舱的，例如照明行李舱或发动机舱，而不是照明乘客或驾驶室的" Target="frmContent" Href="../searchservlet?query=B60Q3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60Q3/06"/>
+  </TreeNode>
+  <TreeNode Title="B60Q5/00 声响信号装置的布置或配置" Target="frmContent" Href="../searchservlet?query=B60Q5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60Q5/00"/>
+  <TreeNode Title="B60Q7/00 车辆上的轻便应急信号装置的布置或配置(在道路上用于进行警告的装置，例如，标志杆，入E01F 9/00；标记入G09F，例如，反射警告三角标记，G09F 13/16)" Target="frmContent" Href="../searchservlet?query=B60Q7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60Q7/00">
+    <TreeNode Title="B60Q7/02 # 装在车辆外伸货物或加长部件上的" Target="frmContent" Href="../searchservlet?query=B60Q7/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60Q7/02"/>
+  </TreeNode>
+  <TreeNode Title="B60Q9/00 不包含在B60Q 1/00至B60Q 7/00任一大组中的信号的布置或配备装置" Target="frmContent" Href="../searchservlet?query=B60Q9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60Q9/00"/>
+  <TreeNode Title="B60Q11/00 用于B60Q 1/00至B60Q 9/00各组内所包含装置的监测装置的布置[2]" Target="frmContent" Href="../searchservlet?query=B60Q11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60Q11/00"/>
+</Root>

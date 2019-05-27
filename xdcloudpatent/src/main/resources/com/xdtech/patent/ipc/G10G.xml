@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="G10G1/00 音乐的演奏装置" Target="frmContent" Href="../searchservlet?query=G10G1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G10G1/00">
+    <TreeNode Title="G10G1/02 #键或指板盘用的固定或可调的和音或音符指示器" Target="frmContent" Href="../searchservlet?query=G10G1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G10G1/02"/>
+    <TreeNode Title="G10G1/04 #换调的；改编的" Target="frmContent" Href="../searchservlet?query=G10G1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G10G1/04"/>
+  </TreeNode>
+  <TreeNode Title="G10G3/00 将声乐记录成乐谱形式，例如记录乐器的机械操作" Target="frmContent" Href="../searchservlet?query=G10G3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G10G3/00">
+    <TreeNode Title="G10G3/02 #只用机械装置的" Target="frmContent" Href="../searchservlet?query=G10G3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G10G3/02"/>
+    <TreeNode Title="G10G3/04 #用电装置的" Target="frmContent" Href="../searchservlet?query=G10G3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G10G3/04"/>
+  </TreeNode>
+  <TreeNode Title="G10G5/00 乐器的支座" Target="frmContent" Href="../searchservlet?query=G10G5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G10G5/00"/>
+  <TreeNode Title="G10G7/00 其他辅助装置或附件，例如，指挥棒或松香或弦的独立夹持装置" Target="frmContent" Href="../searchservlet?query=G10G7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G10G7/00">
+    <TreeNode Title="G10G7/02 #调音音叉或类似的装置" Target="frmContent" Href="../searchservlet?query=G10G7/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G10G7/02"/>
+  </TreeNode>
+</Root>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="F01P1/00 空气冷却(泵送冷却空气或液体冷却剂入F01P 5/00；控制冷却剂供给或循环入F01P 7/00)" Target="frmContent" Href="../searchservlet?query=F01P1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01P1/00">
+    <TreeNode Title="F01P1/02 #用于冷却汽缸或汽缸盖的装置，例如将从压力源出来的冷却空气输送到汽缸或沿着汽缸输送" Target="frmContent" Href="../searchservlet?query=F01P1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01P1/02"/>
+    <TreeNode Title="F01P1/04 #冷却活塞的装置" Target="frmContent" Href="../searchservlet?query=F01P1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01P1/04"/>
+    <TreeNode Title="F01P1/06 #冷却发动机或机器的其他零件的装置" Target="frmContent" Href="../searchservlet?query=F01P1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01P1/06">
+      <TreeNode Title="F01P1/08 ##冷却进气阀或排气阀" Target="frmContent" Href="../searchservlet?query=F01P1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01P1/08"/>
+      <TreeNode Title="F01P1/10 ##冷却燃料喷射器或火花塞" Target="frmContent" Href="../searchservlet?query=F01P1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01P1/10"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="F01P3/00 液体冷却(泵送冷却空气或液体冷却剂入F01P 5/00；控制冷却剂供给或循环入F01P 7/00)" Target="frmContent" Href="../searchservlet?query=F01P3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01P3/00">
+    <TreeNode Title="F01P3/02 #冷却汽缸或汽缸盖的装置" Target="frmContent" Href="../searchservlet?query=F01P3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01P3/02">
+      <TreeNode Title="F01P3/04 ##液体—空气热交换器，它们连接在或装在汽缸或汽缸盖上" Target="frmContent" Href="../searchservlet?query=F01P3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01P3/04"/>
+    </TreeNode>
+    <TreeNode Title="F01P3/06 #冷却活塞的装置" Target="frmContent" Href="../searchservlet?query=F01P3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01P3/06">
+      <TreeNode Title="F01P3/08 ##只冷却活塞的外部，如用喷射冷却" Target="frmContent" Href="../searchservlet?query=F01P3/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01P3/08"/>
+      <TreeNode Title="F01P3/10 ##通过冷却液流过活塞进行冷却" Target="frmContent" Href="../searchservlet?query=F01P3/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01P3/10"/>
+    </TreeNode>
+    <TreeNode Title="F01P3/12 #冷却发动机或机器的其他零件的装置" Target="frmContent" Href="../searchservlet?query=F01P3/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01P3/12">
+      <TreeNode Title="F01P3/14 ##冷却进气阀或排气阀" Target="frmContent" Href="../searchservlet?query=F01P3/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01P3/14"/>
+      <TreeNode Title="F01P3/16 ##冷却燃料喷射器或火花塞" Target="frmContent" Href="../searchservlet?query=F01P3/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01P3/16"/>
+    </TreeNode>
+    <TreeNode Title="F01P3/18 #液体—空气热交换器的布置或者安装(装于汽缸或汽缸盖上的上述装置入F01P 3/04；有关车辆的入B60K 11/04)" Target="frmContent" Href="../searchservlet?query=F01P3/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01P3/18"/>
+    <TreeNode Title="F01P3/20 #并非专用于发动机或机器的一种零件的冷却回路(F01P 3/22优先)" Target="frmContent" Href="../searchservlet?query=F01P3/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01P3/20"/>
+    <TreeNode Title="F01P3/22 #以闭合回路中冷却液的蒸发和冷凝为特征的(其他由蒸发冷却的入F01P 9/02)；以冷却剂达到比大气压力下的沸点高的温度为特征的" Target="frmContent" Href="../searchservlet?query=F01P3/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01P3/22"/>
+  </TreeNode>
+  <TreeNode Title="F01P5/00 泵送冷却空气或液体冷却剂(用泵驱动来控制冷却剂循环或供给入F01P 7/00)" Target="frmContent" Href="../searchservlet?query=F01P5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01P5/00">
+    <TreeNode Title="F01P5/02 #泵送冷却空气；冷却空气的泵的设置，如风扇或鼓风机" Target="frmContent" Href="../searchservlet?query=F01P5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01P5/02">
+      <TreeNode Title="F01P5/04 ##泵驱动装置" Target="frmContent" Href="../searchservlet?query=F01P5/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01P5/04"/>
+      <TreeNode Title="F01P5/06 ##引导或输送空气至有通道的风扇，或从风扇引出空气" Target="frmContent" Href="../searchservlet?query=F01P5/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01P5/06"/>
+      <TreeNode Title="F01P5/08 ##利用发动机排气来泵送冷却空气" Target="frmContent" Href="../searchservlet?query=F01P5/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01P5/08"/>
+    </TreeNode>
+    <TreeNode Title="F01P5/10 #泵送液体冷却剂；冷却液泵的设置" Target="frmContent" Href="../searchservlet?query=F01P5/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01P5/10">
+      <TreeNode Title="F01P5/12 ##泵驱动装置" Target="frmContent" Href="../searchservlet?query=F01P5/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01P5/12"/>
+    </TreeNode>
+    <TreeNode Title="F01P5/14 #防止冷却泵驱动发生故障的安全装置，如停止发动机；冷却剂泵性能的指示装置" Target="frmContent" Href="../searchservlet?query=F01P5/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01P5/14"/>
+  </TreeNode>
+  <TreeNode Title="F01P7/00 冷却剂流量的控制" Target="frmContent" Href="../searchservlet?query=F01P7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01P7/00">
+    <TreeNode Title="F01P7/02 #用冷却的空气作冷却剂" Target="frmContent" Href="../searchservlet?query=F01P7/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01P7/02">
+      <TreeNode Title="F01P7/04 ##用变化泵速度的方法，如改变泵的传动比" Target="frmContent" Href="../searchservlet?query=F01P7/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01P7/04"/>
+      <TreeNode Title="F01P7/06 ##用变化叶片倾角的方法" Target="frmContent" Href="../searchservlet?query=F01P7/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01P7/06"/>
+      <TreeNode Title="F01P7/08 ##用接通或切断泵的方法" Target="frmContent" Href="../searchservlet?query=F01P7/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01P7/08"/>
+      <TreeNode Title="F01P7/10 ##用节制流过液体—空气热交换器的空气流量的方法" Target="frmContent" Href="../searchservlet?query=F01P7/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01P7/10">
+        <TreeNode Title="F01P7/12 ###用恒温控制的方法" Target="frmContent" Href="../searchservlet?query=F01P7/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01P7/12"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="F01P7/14 #用液体作冷却剂" Target="frmContent" Href="../searchservlet?query=F01P7/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01P7/14">
+      <TreeNode Title="F01P7/16 ##用恒温控制的方法" Target="frmContent" Href="../searchservlet?query=F01P7/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01P7/16"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="F01P9/00 不包含在F01P 1/00至F01P 7/00组或与上述各组无关的冷却(利用燃烧发动机冷却余热入F02G 5/00)" Target="frmContent" Href="../searchservlet?query=F01P9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01P9/00">
+    <TreeNode Title="F01P9/02 #用蒸发的方法冷却，如喷水到汽缸上(在闭合回路中液体冷却剂的蒸发和冷凝入F01P 3/22)" Target="frmContent" Href="../searchservlet?query=F01P9/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01P9/02"/>
+    <TreeNode Title="F01P9/04 #同时或交替使用直接空气冷却和液体冷却(F01P 9/02优先)" Target="frmContent" Href="../searchservlet?query=F01P9/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01P9/04"/>
+    <TreeNode Title="F01P9/06 #用制冷装置，如压缩机或吸收器式装置" Target="frmContent" Href="../searchservlet?query=F01P9/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01P9/06"/>
+  </TreeNode>
+  <TreeNode Title="F01P11/00 不包含在F01P 1/00至F01P 9/00组中或与上述各组无关的部件、零件或附件" Target="frmContent" Href="../searchservlet?query=F01P11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01P11/00">
+    <TreeNode Title="F01P11/02 #液体冷却剂的溢出、通风或排出装置(在冷冻时自动排出的入F01P 11/20)" Target="frmContent" Href="../searchservlet?query=F01P11/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01P11/02"/>
+    <TreeNode Title="F01P11/04 #液体的管道或软管装置" Target="frmContent" Href="../searchservlet?query=F01P11/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01P11/04"/>
+    <TreeNode Title="F01P11/06 #清洗(一般的清洗入B08B)；抗腐蚀(一般的抗腐蚀入C23F)" Target="frmContent" Href="../searchservlet?query=F01P11/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01P11/06"/>
+    <TreeNode Title="F01P11/08 #润滑剂冷却装置的配置(在润滑装置中的冷却装置入F01M)" Target="frmContent" Href="../searchservlet?query=F01P11/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01P11/08"/>
+    <TreeNode Title="F01P11/10 #将冷却空气导向或输入液体—空气热交换器中或从热交换器中引出" Target="frmContent" Href="../searchservlet?query=F01P11/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01P11/10"/>
+    <TreeNode Title="F01P11/12 #冷却空气的过滤、冷却或消音" Target="frmContent" Href="../searchservlet?query=F01P11/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01P11/12"/>
+    <TreeNode Title="F01P11/14 #指示装置；其他安全装置" Target="frmContent" Href="../searchservlet?query=F01P11/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01P11/14">
+      <TreeNode Title="F01P11/16 ##关于冷却剂的温度(F01P 11/20优先)" Target="frmContent" Href="../searchservlet?query=F01P11/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01P11/16"/>
+      <TreeNode Title="F01P11/18 ##关于冷却剂的压力、冷却剂的流量或液体冷却剂的液面高度" Target="frmContent" Href="../searchservlet?query=F01P11/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01P11/18"/>
+      <TreeNode Title="F01P11/20 ##关于大气的冰冻状态，例如在结霜天气时自动排出或加热" Target="frmContent" Href="../searchservlet?query=F01P11/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01P11/20"/>
+    </TreeNode>
+  </TreeNode>
+</Root>

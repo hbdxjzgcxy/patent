@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="F21L2/00 电照明装置的系统(同时采用电和非电光源或者可变光源的系统入F21L 27/00)[7]" Target="frmContent" Href="../searchservlet?query=F21L2/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F21L2/00"/>
+  <TreeNode Title="F21L4/00 带有机内电池或电池组的电照明装置[7]" Target="frmContent" Href="../searchservlet?query=F21L4/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F21L4/00">
+    <TreeNode Title="F21L4/02 #以提供两个或更多个光源为特点[7]" Target="frmContent" Href="../searchservlet?query=F21L4/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F21L4/02"/>
+    <TreeNode Title="F21L4/04 #以提供以可调节的方式安装在装置的其余部分的光源的箱体部分为特点[7]" Target="frmContent" Href="../searchservlet?query=F21L4/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F21L4/04"/>
+    <TreeNode Title="F21L4/06 #具有只用电缆耦合于装置的其余部分的光源[7]" Target="frmContent" Href="../searchservlet?query=F21L4/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F21L4/06"/>
+    <TreeNode Title="F21L4/08 #以就地为蓄电池或电池组再充电为特点[7]" Target="frmContent" Href="../searchservlet?query=F21L4/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F21L4/08"/>
+  </TreeNode>
+  <TreeNode Title="F21L13/00 带有机内发电机的电照明装置(具有太阳能电池入F21L 4/00)[1，7]" Target="frmContent" Href="../searchservlet?query=F21L13/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F21L13/00">
+    <TreeNode Title="F21L13/02 #用流体驱动的" Target="frmContent" Href="../searchservlet?query=F21L13/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F21L13/02">
+      <TreeNode Title="F21L13/04 ##用手驱动的" Target="frmContent" Href="../searchservlet?query=F21L13/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F21L13/04"/>
+    </TreeNode>
+    <TreeNode Title="F21L13/06 #用机械驱动的，例如发条" Target="frmContent" Href="../searchservlet?query=F21L13/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F21L13/06">
+      <TreeNode Title="F21L13/08 ##用手操作往复推进器的" Target="frmContent" Href="../searchservlet?query=F21L13/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F21L13/08"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="F21L14/00 无机内电源的，例如连接电力网的电照明装置[7]" Target="frmContent" Href="../searchservlet?query=F21L14/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F21L14/00">
+    <TreeNode Title="F21L14/02 #可手提的，例如手灯[7]" Target="frmContent" Href="../searchservlet?query=F21L14/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F21L14/02"/>
+    <TreeNode Title="F21L14/04 #载于滚动支撑体上[7]" Target="frmContent" Href="../searchservlet?query=F21L14/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F21L14/04"/>
+  </TreeNode>
+  <TreeNode Title="F21L17/00 非电火炬；非电闪光照明装置" Target="frmContent" Href="../searchservlet?query=F21L17/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F21L17/00"/>
+  <TreeNode Title="F21L19/00 提灯，例如防风灯或烛灯(蜡烛支座入F21V 35/00)" Target="frmContent" Href="../searchservlet?query=F21L19/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F21L19/00"/>
+  <TreeNode Title="F21L21/00 非电袖珍灯，例如产生火花" Target="frmContent" Href="../searchservlet?query=F21L21/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F21L21/00"/>
+  <TreeNode Title="F21L23/00 矿工非电手灯" Target="frmContent" Href="../searchservlet?query=F21L23/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F21L23/00"/>
+  <TreeNode Title="F21L26/00 不包含在组F21L 17/00至F21L 23/00中的非电便携式照明装置或其系统[8]" Target="frmContent" Href="../searchservlet?query=F21L26/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F21L26/00"/>
+  <TreeNode Title="F21L27/00 应用了电和非电光源组合的照明装置或系统；在照明装置或系统中用非电光源代替或调换电光源，或者相反" Target="frmContent" Href="../searchservlet?query=F21L27/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F21L27/00"/>
+</Root>

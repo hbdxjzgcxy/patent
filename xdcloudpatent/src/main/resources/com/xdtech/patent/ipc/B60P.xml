@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="B60P1/00 主要用于货运及经改装便于装货、集货或卸货的车辆(具有自装或自卸装置的装载收获作物的车辆入A01D 90/00；专用于收集垃圾的车辆入B65F；用非本身设备装卸的车辆入B65G)" Target="frmContent" Href="../searchservlet?query=B60P1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60P1/00">
+    <TreeNode Title="B60P1/02 # 用承载或包容构件的平行上下运动(与倾斜结合的入B60P 1/34；为装载或卸载而举升或落下体积大或重的物件，可在车轮上或类似物上运动的装置，例如叉车入B66F 9/06)" Target="frmContent" Href="../searchservlet?query=B60P1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60P1/02"/>
+    <TreeNode Title="B60P1/04 # 用承载或包容构件的倾斜运动(挖土或铲土机械入E02F 3/00)" Target="frmContent" Href="../searchservlet?query=B60P1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60P1/04">
+      <TreeNode Title="B60P1/06 ##仅用机械传动装置操纵的" Target="frmContent" Href="../searchservlet?query=B60P1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60P1/06">
+        <TreeNode Title="B60P1/08 ###用车轮轴相对位移的" Target="frmContent" Href="../searchservlet?query=B60P1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60P1/08"/>
+        <TreeNode Title="B60P1/10 ###用螺杆和螺母的" Target="frmContent" Href="../searchservlet?query=B60P1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60P1/10"/>
+        <TreeNode Title="B60P1/12 ###用齿轮、轮或扇形齿轮的；用连杆、凸轮和滚子或类似件的" Target="frmContent" Href="../searchservlet?query=B60P1/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60P1/12"/>
+        <TreeNode Title="B60P1/14 ###用缆索、链条或类似件的" Target="frmContent" Href="../searchservlet?query=B60P1/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60P1/14"/>
+      </TreeNode>
+      <TreeNode Title="B60P1/16 ##用流体传动机构操纵的" Target="frmContent" Href="../searchservlet?query=B60P1/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60P1/16">
+        <TreeNode Title="B60P1/18 ###用车轮轴相对位移的" Target="frmContent" Href="../searchservlet?query=B60P1/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60P1/18"/>
+        <TreeNode Title="B60P1/20 ###用齿轮、轮或扇形齿轮的；用连杆、凸轮和滚子或类似件的" Target="frmContent" Href="../searchservlet?query=B60P1/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60P1/20"/>
+        <TreeNode Title="B60P1/22 ###用缆索、链条或类似件的" Target="frmContent" Href="../searchservlet?query=B60P1/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60P1/22"/>
+      </TreeNode>
+      <TreeNode Title="B60P1/24 ##利用货物重量的" Target="frmContent" Href="../searchservlet?query=B60P1/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60P1/24"/>
+      <TreeNode Title="B60P1/26 ##用于控制后挡板或边板运动的装置[5]" Target="frmContent" Href="../searchservlet?query=B60P1/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60P1/26">
+        <TreeNode Title="B60P1/267 ###控制后挡板或边板运动角度，该运动角度取决于倾斜运动的角度，例如用连杆或凸轮[5]" Target="frmContent" Href="../searchservlet?query=B60P1/267&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60P1/267"/>
+        <TreeNode Title="B60P1/273 ###保持可自由摆动的后挡板或边板的锁止或开启之间的关系[5]" Target="frmContent" Href="../searchservlet?query=B60P1/273&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60P1/273"/>
+      </TreeNode>
+      <TreeNode Title="B60P1/28 ##自卸车身的结构" Target="frmContent" Href="../searchservlet?query=B60P1/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60P1/28"/>
+      <TreeNode Title="B60P1/30 ##与构件其他运动组合的" Target="frmContent" Href="../searchservlet?query=B60P1/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60P1/30">
+        <TreeNode Title="B60P1/32 ###其他运动有侧向位移的" Target="frmContent" Href="../searchservlet?query=B60P1/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60P1/32"/>
+        <TreeNode Title="B60P1/34 ###其他运动是升或降的" Target="frmContent" Href="../searchservlet?query=B60P1/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60P1/34"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="B60P1/36 # 利用其上的环链或环带" Target="frmContent" Href="../searchservlet?query=B60P1/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60P1/36">
+      <TreeNode Title="B60P1/38 ##形成主要承载或包容构件或其零件" Target="frmContent" Href="../searchservlet?query=B60P1/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60P1/38"/>
+    </TreeNode>
+    <TreeNode Title="B60P1/40 # 利用其上螺旋输送机的" Target="frmContent" Href="../searchservlet?query=B60P1/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60P1/40">
+      <TreeNode Title="B60P1/42 ##装在承载或包容构件上的" Target="frmContent" Href="../searchservlet?query=B60P1/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60P1/42"/>
+    </TreeNode>
+    <TreeNode Title="B60P1/43 # 用安装在车辆上的装卸斜面板(装卸斜面板本身入B65G 69/28)[5]" Target="frmContent" Href="../searchservlet?query=B60P1/43&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60P1/43"/>
+    <TreeNode Title="B60P1/44 # 其上具有装货平台，举升货物至承载或包容构件的高度上" Target="frmContent" Href="../searchservlet?query=B60P1/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60P1/44">
+      <TreeNode Title="B60P1/46 ##在垂直导轨内运载的" Target="frmContent" Href="../searchservlet?query=B60P1/46&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60P1/46"/>
+    </TreeNode>
+    <TreeNode Title="B60P1/48 # 使用可举升货物至承载或包容构件之上的摆动臂(接载构件入B66)" Target="frmContent" Href="../searchservlet?query=B60P1/48&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60P1/48">
+      <TreeNode Title="B60P1/50 ##从车辆前面装载的" Target="frmContent" Href="../searchservlet?query=B60P1/50&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60P1/50"/>
+    </TreeNode>
+    <TreeNode Title="B60P1/52 # 使用承载或包容构件上的滚子" Target="frmContent" Href="../searchservlet?query=B60P1/52&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60P1/52"/>
+    <TreeNode Title="B60P1/54 # 用自装或自卸吊车的(运送吊车的车辆入B60P 3/28；活动式或移动式或吊车入B66C)" Target="frmContent" Href="../searchservlet?query=B60P1/54&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60P1/54"/>
+    <TreeNode Title="B60P1/56 # 承载或包容构件底部有出料口的" Target="frmContent" Href="../searchservlet?query=B60P1/56&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60P1/56"/>
+    <TreeNode Title="B60P1/58 # 利用振动作用的" Target="frmContent" Href="../searchservlet?query=B60P1/58&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60P1/58"/>
+    <TreeNode Title="B60P1/60 # 利用流体的，例如流体与货物之间有直接接触的[2]" Target="frmContent" Href="../searchservlet?query=B60P1/60&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60P1/60">
+      <TreeNode Title="B60P1/62 ##有多孔壁的" Target="frmContent" Href="../searchservlet?query=B60P1/62&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60P1/62"/>
+    </TreeNode>
+    <TreeNode Title="B60P1/64 # 承载或包容构件是易于拆卸的(以由车辆装置支承的活动车身构件内的起居用具为特征的带篷汽车，野营或类似车辆入B60P 3/33，B60P 3/345)[5]" Target="frmContent" Href="../searchservlet?query=B60P1/64&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60P1/64"/>
+  </TreeNode>
+  <TreeNode Title="B60P3/00 适用于货运、或运输、包装或包容特殊货物或物体的车辆(带有运送病人或残疾人，或他们自用运输工具的特殊装置的救护车或其他车辆入A61G 3/00；灵柩车入A61G 21/00；陆上救火车入A62C 27/00；垃圾收集车入B65F 3/00，B65F 7/00；除雪车入E01H；装甲车或军用车辆入F41H 7/00；自动推进扫雷车入F41H 11/16)" Target="frmContent" Href="../searchservlet?query=B60P3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60P3/00">
+    <TreeNode Title="B60P3/022 # 用于运输预制建筑构件或模型的，例如预制式简易车库或类似的(输送或组装建筑构件入E04G 21/14)[5]" Target="frmContent" Href="../searchservlet?query=B60P3/022&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60P3/022"/>
+    <TreeNode Title="B60P3/025 # 载运物体是商店、自助食堂或展品(载运物体是车间的入B60P 3/14)[3]" Target="frmContent" Href="../searchservlet?query=B60P3/025&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60P3/025"/>
+    <TreeNode Title="B60P3/03 # 用于运输货币或其他贵重物品的[3]" Target="frmContent" Href="../searchservlet?query=B60P3/03&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60P3/03"/>
+    <TreeNode Title="B60P3/035 # 用于运输卷绕货物的[3]" Target="frmContent" Href="../searchservlet?query=B60P3/035&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60P3/035"/>
+    <TreeNode Title="B60P3/04 # 用于运输动物的" Target="frmContent" Href="../searchservlet?query=B60P3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60P3/04"/>
+    <TreeNode Title="B60P3/05 # 用于运输肉类的(用于运输冷藏货物的入B60P 3/20)[3]" Target="frmContent" Href="../searchservlet?query=B60P3/05&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60P3/05"/>
+    <TreeNode Title="B60P3/055 # 用于运输瓶子的[3]" Target="frmContent" Href="../searchservlet?query=B60P3/055&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60P3/055"/>
+    <TreeNode Title="B60P3/06 # 用于载运交通工具的(B60P 3/12优先；借助车载装置的带篷车，野营或类似的车辆入B60P 3/363)[3，5]" Target="frmContent" Href="../searchservlet?query=B60P3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60P3/06">
+      <TreeNode Title="B60P3/07 ##用于载运道路车辆的[3]" Target="frmContent" Href="../searchservlet?query=B60P3/07&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60P3/07">
+        <TreeNode Title="B60P3/071 ###翻转或侧立车辆的布置[5]" Target="frmContent" Href="../searchservlet?query=B60P3/071&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60P3/071"/>
+        <TreeNode Title="B60P3/073 ###车辆定位器[5]" Target="frmContent" Href="../searchservlet?query=B60P3/073&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60P3/073">
+          <TreeNode Title="B60P3/075 ####用于车轮、轮毂或驱动轴的[5]" Target="frmContent" Href="../searchservlet?query=B60P3/075&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60P3/075">
+            <TreeNode Title="B60P3/077 #####车轮支架、垫块或凹型物[5]" Target="frmContent" Href="../searchservlet?query=B60P3/077&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60P3/077"/>
+          </TreeNode>
+          <TreeNode Title="B60P3/079 ####固定装置(B60P 3/075优先)[5]" Target="frmContent" Href="../searchservlet?query=B60P3/079&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60P3/079"/>
+        </TreeNode>
+        <TreeNode Title="B60P3/08 ###载运车辆的多层平板的结构[3]" Target="frmContent" Href="../searchservlet?query=B60P3/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60P3/08"/>
+      </TreeNode>
+      <TreeNode Title="B60P3/10 ##用于载运船只的" Target="frmContent" Href="../searchservlet?query=B60P3/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60P3/10"/>
+      <TreeNode Title="B60P3/11 ##用于载运飞行器的[3]" Target="frmContent" Href="../searchservlet?query=B60P3/11&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60P3/11"/>
+    </TreeNode>
+    <TreeNode Title="B60P3/12 # 用于抢修已损坏交通工具的" Target="frmContent" Href="../searchservlet?query=B60P3/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60P3/12"/>
+    <TreeNode Title="B60P3/14 # 载运物体是用于保养、用于维修或用于载运施工的工人的车间(用于活动平台或工人的工作间的举升装置入B66F 11/04)" Target="frmContent" Href="../searchservlet?query=B60P3/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60P3/14"/>
+    <TreeNode Title="B60P3/16 # 用于载运搅拌好的混凝土，例如具有转鼓的" Target="frmContent" Href="../searchservlet?query=B60P3/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60P3/16"/>
+    <TreeNode Title="B60P3/18 # 载运物体是探照灯" Target="frmContent" Href="../searchservlet?query=B60P3/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60P3/18"/>
+    <TreeNode Title="B60P3/20 # 用于运输冷藏货物的(货舱的空气处理入B60H)" Target="frmContent" Href="../searchservlet?query=B60P3/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60P3/20"/>
+    <TreeNode Title="B60P3/22 # 油罐车(罐类入B65D 88/00，B65D 90/00，F17C)" Target="frmContent" Href="../searchservlet?query=B60P3/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60P3/22">
+      <TreeNode Title="B60P3/24 ##分隔段的" Target="frmContent" Href="../searchservlet?query=B60P3/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60P3/24"/>
+    </TreeNode>
+    <TreeNode Title="B60P3/28 # 用于载运吊车的(用自装或自卸吊车的车辆入B60P 1/54；活动式或移动式吊车入B66C)" Target="frmContent" Href="../searchservlet?query=B60P3/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60P3/28"/>
+    <TreeNode Title="B60P3/30 # 喷洒车(液体肥料喷洒车入A01C 23/00；用于消灭有害动物、害虫或不需要的植物的入A01M；用于喷洒柏油、地沥青、焦油沥青或类似物的入E01C；用于清洁街道的入E01H)" Target="frmContent" Href="../searchservlet?query=B60P3/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60P3/30"/>
+    <TreeNode Title="B60P3/32 # 包括人的起居用具的，例如带篷车辆，野营或类似车辆(一般的帐篷或篷帐入E04H 15/00)" Target="frmContent" Href="../searchservlet?query=B60P3/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60P3/32">
+      <TreeNode Title="B60P3/325 ##起居用具既不能张开、也不能折叠、又不易重新布置的[5]" Target="frmContent" Href="../searchservlet?query=B60P3/325&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60P3/325">
+        <TreeNode Title="B60P3/33 ###以由车辆装置支承的活动车身形式的起居用具为特征的[5]" Target="frmContent" Href="../searchservlet?query=B60P3/33&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60P3/33"/>
+        <TreeNode Title="B60P3/335 ###由拖车式车辆或拖车自身支承的(B60P 3/33优先)[5]" Target="frmContent" Href="../searchservlet?query=B60P3/335&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60P3/335"/>
+      </TreeNode>
+      <TreeNode Title="B60P3/34 ##起居用具是可张开、可折叠或易于重新布置的(B60P 3/39优先；至少部分由车辆支承的帐篷入E04H 15/06)[5]" Target="frmContent" Href="../searchservlet?query=B60P3/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60P3/34">
+        <TreeNode Title="B60P3/345 ###以由车辆装置支承的活动车身形式的起居用具为特征的[5]" Target="frmContent" Href="../searchservlet?query=B60P3/345&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60P3/345"/>
+        <TreeNode Title="B60P3/35 ###由拖车式车辆或拖车自身支承的(B60P 3/345优先)[5]" Target="frmContent" Href="../searchservlet?query=B60P3/35&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60P3/35">
+          <TreeNode Title="B60P3/355 ####不用作起居用具时是可折叠的，例如用于紧凑设计拖车[5]" Target="frmContent" Href="../searchservlet?query=B60P3/355&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60P3/355"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="B60P3/36 ##辅助设备；起居用具的设置(厕所或洗漱设置入B60R 15/00)；零部件[5]" Target="frmContent" Href="../searchservlet?query=B60P3/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60P3/36">
+        <TreeNode Title="B60P3/363 ###用车载装置的[5]" Target="frmContent" Href="../searchservlet?query=B60P3/363&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60P3/363">
+          <TreeNode Title="B60P3/367 ####用船载装置的[5]" Target="frmContent" Href="../searchservlet?query=B60P3/367&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60P3/367"/>
+        </TreeNode>
+        <TreeNode Title="B60P3/37 ###外部的台架，例如入口处的(建筑的遮阳入E04F 10/00；拖车遮阳入E04H 15/08；帐篷的遮阳入E04H 15/58)[5]" Target="frmContent" Href="../searchservlet?query=B60P3/37&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60P3/37"/>
+        <TreeNode Title="B60P3/373 ###起居用具与车辆操作室之间的通道[5]" Target="frmContent" Href="../searchservlet?query=B60P3/373&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60P3/373"/>
+        <TreeNode Title="B60P3/377 ###将起居用具安装在车辆上的装置[5]" Target="frmContent" Href="../searchservlet?query=B60P3/377&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60P3/377"/>
+        <TreeNode Title="B60P3/38 ###卧具" Target="frmContent" Href="../searchservlet?query=B60P3/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60P3/38">
+          <TreeNode Title="B60P3/39 ####可张开的、可折叠的或适于支承床的可储存元件，例如墙部件[5]" Target="frmContent" Href="../searchservlet?query=B60P3/39&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60P3/39"/>
+        </TreeNode>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="B60P3/40 # 用于载运长形货物的，例如有单独轮式承载构件的(B60P 3/022优先；附装在外伸货物上的信号装置入B60Q 7/02)[5]" Target="frmContent" Href="../searchservlet?query=B60P3/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60P3/40">
+      <TreeNode Title="B60P3/41 ##用于运输大木料的[6]" Target="frmContent" Href="../searchservlet?query=B60P3/41&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60P3/41"/>
+    </TreeNode>
+    <TreeNode Title="B60P3/42 # 可由一种用途转换成另一种用途的(可在不同介质内或上行驶的交通工具，轨道、道路两用车入B60F)" Target="frmContent" Href="../searchservlet?query=B60P3/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60P3/42"/>
+  </TreeNode>
+  <TreeNode Title="B60P5/00 车上称量机械的布置(适合运输车辆使用的称量机械入G01G 19/08)" Target="frmContent" Href="../searchservlet?query=B60P5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60P5/00"/>
+  <TreeNode Title="B60P7/00 车上货物的固定或覆盖" Target="frmContent" Href="../searchservlet?query=B60P7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60P7/00">
+    <TreeNode Title="B60P7/02 # 货物的覆盖" Target="frmContent" Href="../searchservlet?query=B60P7/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60P7/02">
+      <TreeNode Title="B60P7/04 ##用篷布或类似柔性料的" Target="frmContent" Href="../searchservlet?query=B60P7/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60P7/04"/>
+    </TreeNode>
+    <TreeNode Title="B60P7/06 # 货物的固定(车辆定位器入B60P 3/073)[5]" Target="frmContent" Href="../searchservlet?query=B60P7/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60P7/06">
+      <TreeNode Title="B60P7/08 ##固定在车地板或两侧的(B60P 7/13，B60P 7/135优先)[3，5]" Target="frmContent" Href="../searchservlet?query=B60P7/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60P7/08">
+        <TreeNode Title="B60P7/10 ###货物为板、盒或箱" Target="frmContent" Href="../searchservlet?query=B60P7/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60P7/10"/>
+        <TreeNode Title="B60P7/12 ###货物为树干、梁、鼓筒、管或类似物" Target="frmContent" Href="../searchservlet?query=B60P7/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60P7/12"/>
+      </TreeNode>
+      <TreeNode Title="B60P7/13 ##车上固定货运集装箱或转运集装箱[3]" Target="frmContent" Href="../searchservlet?query=B60P7/13&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60P7/13"/>
+      <TreeNode Title="B60P7/135 ##由承载支承装置安装或支承的[5]" Target="frmContent" Href="../searchservlet?query=B60P7/135&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60P7/135">
+        <TreeNode Title="B60P7/14 ###承载支承装置包括可动隔板的" Target="frmContent" Href="../searchservlet?query=B60P7/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60P7/14"/>
+        <TreeNode Title="B60P7/15 ###承载支承装置包括可动杆件的[5]" Target="frmContent" Href="../searchservlet?query=B60P7/15&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60P7/15"/>
+      </TreeNode>
+      <TreeNode Title="B60P7/16 ##防冲击装置" Target="frmContent" Href="../searchservlet?query=B60P7/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60P7/16">
+        <TreeNode Title="B60P7/18 ###货运集装箱或转运集装箱的防护[3]" Target="frmContent" Href="../searchservlet?query=B60P7/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60P7/18"/>
+      </TreeNode>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="B60P9/00 其他运货为主的车辆" Target="frmContent" Href="../searchservlet?query=B60P9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60P9/00"/>
+</Root>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="A24D1/00 雪茄烟；纸烟" Target="frmContent" Href="../searchservlet?query=A24D1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A24D1/00">
+    <TreeNode Title="A24D1/02 #有专门包皮的" Target="frmContent" Href="../searchservlet?query=A24D1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A24D1/02"/>
+    <TreeNode Title="A24D1/04 #有烟嘴或过滤嘴的(烟嘴，过滤嘴本身入A24D 3/00)" Target="frmContent" Href="../searchservlet?query=A24D1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A24D1/04"/>
+    <TreeNode Title="A24D1/08 #带有点燃装置的(引火成分入C06C 15/00；点燃器本身入F23Q)" Target="frmContent" Href="../searchservlet?query=A24D1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A24D1/08"/>
+    <TreeNode Title="A24D1/10 #带有熄火器的" Target="frmContent" Href="../searchservlet?query=A24D1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A24D1/10"/>
+    <TreeNode Title="A24D1/12 #带有放烟灰附件、夹持器或其他装置的" Target="frmContent" Href="../searchservlet?query=A24D1/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A24D1/12"/>
+    <TreeNode Title="A24D1/14 #烟斗用的烟盒" Target="frmContent" Href="../searchservlet?query=A24D1/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A24D1/14"/>
+    <TreeNode Title="A24D1/16 #雪茄烟或纸烟用条饰(加条饰机器入B65C)" Target="frmContent" Href="../searchservlet?query=A24D1/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A24D1/16"/>
+    <TreeNode Title="A24D1/18 #选择除烟草以外适于吸烟用的材料" Target="frmContent" Href="../searchservlet?query=A24D1/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A24D1/18"/>
+  </TreeNode>
+  <TreeNode Title="A24D3/00 烟油滤芯，例如过滤嘴、过滤插入物(过滤器一般入B01D)；雪茄或纸烟的烟嘴(用于烟斗，用于雪茄烟或纸烟的烟嘴入A24F 7/00) [3]" Target="frmContent" Href="../searchservlet?query=A24D3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A24D3/00">
+    <TreeNode Title="A24D3/02 #烟油滤芯的制造(过滤器的纸或纤维素材料的制造入D21) [3]" Target="frmContent" Href="../searchservlet?query=A24D3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A24D3/02"/>
+    <TreeNode Title="A24D3/04 #以形状或结构为特征的烟油滤芯 [3]" Target="frmContent" Href="../searchservlet?query=A24D3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A24D3/04"/>
+    <TreeNode Title="A24D3/06 #烟油滤芯材料的使用 [3]" Target="frmContent" Href="../searchservlet?query=A24D3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A24D3/06">
+      <TreeNode Title="A24D3/08 ##有机材料为载体或主要成分的(以离子交换材料的入A24D 3/12) [3]" Target="frmContent" Href="../searchservlet?query=A24D3/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A24D3/08">
+        <TreeNode Title="A24D3/10 ###以纤维素或纤维素衍生物的 [3]" Target="frmContent" Href="../searchservlet?query=A24D3/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A24D3/10"/>
+      </TreeNode>
+      <TreeNode Title="A24D3/12 ##离子交换材料的 [3]" Target="frmContent" Href="../searchservlet?query=A24D3/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A24D3/12"/>
+      <TreeNode Title="A24D3/14 ##有机材料作为添加物的(离子交换材料的入A24D 3/12) [3]" Target="frmContent" Href="../searchservlet?query=A24D3/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A24D3/14"/>
+      <TreeNode Title="A24D3/16 ##无机材料的 [3]" Target="frmContent" Href="../searchservlet?query=A24D3/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A24D3/16"/>
+    </TreeNode>
+    <TreeNode Title="A24D3/18 #雪茄烟或纸烟的烟嘴；其制造(A24D 3/02优先；制作烟嘴材料，或将它们用于雪茄烟或纸烟的烟嘴入A24C 5/56；用塑料或塑性状态的材料生产雪茄烟或纸烟烟嘴入B29D 23/14；以金属制成的，参看B部的有关小类) [3]" Target="frmContent" Href="../searchservlet?query=A24D3/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A24D3/18"/>
+  </TreeNode>
+</Root>

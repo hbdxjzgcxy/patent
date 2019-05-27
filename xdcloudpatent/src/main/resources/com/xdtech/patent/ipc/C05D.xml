@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="C05D1/00 钾肥(C05D 7/00优先)" Target="frmContent" Href="../searchservlet?query=C05D1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C05D1/00">
+    <TreeNode Title="C05D1/02 #自氯化钾或硫酸钾或其复盐或混合盐制取的" Target="frmContent" Href="../searchservlet?query=C05D1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C05D1/02"/>
+    <TreeNode Title="C05D1/04 #自矿石或火成岩制取的" Target="frmContent" Href="../searchservlet?query=C05D1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C05D1/04"/>
+  </TreeNode>
+  <TreeNode Title="C05D3/00 钙肥(C05D 7/00优先)" Target="frmContent" Href="../searchservlet?query=C05D3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C05D3/00">
+    <TreeNode Title="C05D3/02 #自石灰石、碳酸钙、氢氧化钙、熟石灰、氧化钙、废钙化合物制取的" Target="frmContent" Href="../searchservlet?query=C05D3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C05D3/02"/>
+    <TreeNode Title="C05D3/04 #从鼓风炉渣或其他含石灰或硅酸钙的渣制取的" Target="frmContent" Href="../searchservlet?query=C05D3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C05D3/04"/>
+  </TreeNode>
+  <TreeNode Title="C05D5/00 镁肥(C05D 7/00优先)" Target="frmContent" Href="../searchservlet?query=C05D5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C05D5/00"/>
+  <TreeNode Title="C05D7/00 产生二氧化碳的肥料" Target="frmContent" Href="../searchservlet?query=C05D7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C05D7/00"/>
+  <TreeNode Title="C05D9/00 其他无机肥料" Target="frmContent" Href="../searchservlet?query=C05D9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C05D9/00">
+    <TreeNode Title="C05D9/02 #含微量元素的" Target="frmContent" Href="../searchservlet?query=C05D9/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C05D9/02"/>
+  </TreeNode>
+  <TreeNode Title="C05D11/00 包含在C05D 1/00至C05D 9/00一个以上的大组中的混合肥" Target="frmContent" Href="../searchservlet?query=C05D11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C05D11/00"/>
+</Root>

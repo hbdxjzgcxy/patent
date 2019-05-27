@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="H05H1/00 等离子体的产生；等离子体的处理(等离子体技术在热核聚变反应器的应用入G21B 1/00)" Target="frmContent" Href="../searchservlet?query=H05H1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05H1/00">
+    <TreeNode Title="H05H1/02 #用电场或磁场约束等离子体的装置；加热等离子体的装置(电子光学入H01J)" Target="frmContent" Href="../searchservlet?query=H05H1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05H1/02">
+      <TreeNode Title="H05H1/03 ##应用静电场的[3]" Target="frmContent" Href="../searchservlet?query=H05H1/03&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05H1/03"/>
+      <TreeNode Title="H05H1/04 ##应用实际上由等离子体中的放电所产生的磁场的" Target="frmContent" Href="../searchservlet?query=H05H1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05H1/04">
+        <TreeNode Title="H05H1/06 ###纵向箍缩装置" Target="frmContent" Href="../searchservlet?query=H05H1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05H1/06"/>
+        <TreeNode Title="H05H1/08 ###θ箍缩装置" Target="frmContent" Href="../searchservlet?query=H05H1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05H1/08"/>
+      </TreeNode>
+      <TreeNode Title="H05H1/10 ##仅应用外加磁场的" Target="frmContent" Href="../searchservlet?query=H05H1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05H1/10">
+        <TreeNode Title="H05H1/11 ###应用尖顶形的(H05H 1/14优先)[3]" Target="frmContent" Href="../searchservlet?query=H05H1/11&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05H1/11"/>
+        <TreeNode Title="H05H1/12 ###其中该容器外壳形成一个闭合回路的，例如仿星器" Target="frmContent" Href="../searchservlet?query=H05H1/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05H1/12"/>
+        <TreeNode Title="H05H1/14 ###其中该容器外壳是直的并具有磁镜的" Target="frmContent" Href="../searchservlet?query=H05H1/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05H1/14"/>
+      </TreeNode>
+      <TreeNode Title="H05H1/16 ##应用外加电场和磁场的" Target="frmContent" Href="../searchservlet?query=H05H1/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05H1/16">
+        <TreeNode Title="H05H1/18 ###其中该场以甚高频振荡的，例如在微波范围内" Target="frmContent" Href="../searchservlet?query=H05H1/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05H1/18"/>
+      </TreeNode>
+      <TreeNode Title="H05H1/20 ##欧姆加热的" Target="frmContent" Href="../searchservlet?query=H05H1/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05H1/20"/>
+      <TreeNode Title="H05H1/22 ##用于喷射加热的" Target="frmContent" Href="../searchservlet?query=H05H1/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05H1/22"/>
+    </TreeNode>
+    <TreeNode Title="H05H1/24 #等离子体的产生[2]" Target="frmContent" Href="../searchservlet?query=H05H1/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05H1/24">
+      <TreeNode Title="H05H1/26 ##等离子体喷管[2]" Target="frmContent" Href="../searchservlet?query=H05H1/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05H1/26">
+        <TreeNode Title="H05H1/28 ###冷却装置[3]" Target="frmContent" Href="../searchservlet?query=H05H1/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05H1/28"/>
+        <TreeNode Title="H05H1/30 ###应用外加电磁场的，例如高频能或微波能(H05H 1/28优先)[3]" Target="frmContent" Href="../searchservlet?query=H05H1/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05H1/30"/>
+        <TreeNode Title="H05H1/32 ###应用电弧的(H05H 1/28优先)[3]" Target="frmContent" Href="../searchservlet?query=H05H1/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05H1/32">
+          <TreeNode Title="H05H1/34 ####零部件，例如电极、喷嘴[3]" Target="frmContent" Href="../searchservlet?query=H05H1/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05H1/34">
+            <TreeNode Title="H05H1/36 #####电路装置(H05H 1/38，H05H 1/40优先)[3]" Target="frmContent" Href="../searchservlet?query=H05H1/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05H1/36"/>
+            <TreeNode Title="H05H1/38 #####电极的导向或对中[3]" Target="frmContent" Href="../searchservlet?query=H05H1/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05H1/38"/>
+            <TreeNode Title="H05H1/40 #####应用外加磁场的，例如用于聚焦电弧或旋转电弧的[3]" Target="frmContent" Href="../searchservlet?query=H05H1/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05H1/40"/>
+          </TreeNode>
+          <TreeNode Title="H05H1/42 ####带有向等离子体中引入材料的，例如粉末、液体(静电喷射装置、能使喷雾带电的喷射装置入B05B 5/00)[3]" Target="frmContent" Href="../searchservlet?query=H05H1/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05H1/42"/>
+          <TreeNode Title="H05H1/44 ####应用多于一个喷管的[3]" Target="frmContent" Href="../searchservlet?query=H05H1/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05H1/44"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="H05H1/46 ##应用外加电磁场的，例如高频能或微波能(H05H 1/26优先)[3]" Target="frmContent" Href="../searchservlet?query=H05H1/46&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05H1/46"/>
+      <TreeNode Title="H05H1/48 ##应用电弧的(H05H 1/26优先)[3]" Target="frmContent" Href="../searchservlet?query=H05H1/48&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05H1/48">
+        <TreeNode Title="H05H1/50 ###并应用外加磁场的，例如用于聚焦电弧或旋转电弧的[3]" Target="frmContent" Href="../searchservlet?query=H05H1/50&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05H1/50"/>
+      </TreeNode>
+      <TreeNode Title="H05H1/52 ##应用导火线或火花隙的(H05H 1/26优先；一般火花隙入H01T)[3]" Target="frmContent" Href="../searchservlet?query=H05H1/52&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05H1/52"/>
+    </TreeNode>
+    <TreeNode Title="H05H1/54 #等离子体加速器[3]" Target="frmContent" Href="../searchservlet?query=H05H1/54&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05H1/54"/>
+  </TreeNode>
+  <TreeNode Title="H05H3/00 中性粒子束，例如分子束或原子束，的产生或加速[3]" Target="frmContent" Href="../searchservlet?query=H05H3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05H3/00">
+    <TreeNode Title="H05H3/02 #分子束或原子束的产生，例如谐振射束的产生(气体激射器入H01S 1/06)[3]" Target="frmContent" Href="../searchservlet?query=H05H3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05H3/02"/>
+    <TreeNode Title="H05H3/04 #通过电磁波压力加速的[3]" Target="frmContent" Href="../searchservlet?query=H05H3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05H3/04"/>
+    <TreeNode Title="H05H3/06 #中子束的产生(用于产生核反应的靶入H05H 6/00；中子源入G21G 4/02)[5]" Target="frmContent" Href="../searchservlet?query=H05H3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05H3/06"/>
+  </TreeNode>
+  <TreeNode Title="H05H5/00 直流电压加速器；应用单脉冲的加速器(H05H 3/06优先)[5]" Target="frmContent" Href="../searchservlet?query=H05H5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05H5/00">
+    <TreeNode Title="H05H5/02 #零部件(用于产生核反应的靶入H05H 6/00)[3]" Target="frmContent" Href="../searchservlet?query=H05H5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05H5/02">
+      <TreeNode Title="H05H5/03 ##加速管(外壳表面上的电位分布有改善的放电管的外壳或容器入H01J 5/06；与外壳或容器相联结的X射线管的屏蔽入H01J 35/16)[4]" Target="frmContent" Href="../searchservlet?query=H05H5/03&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05H5/03"/>
+    </TreeNode>
+    <TreeNode Title="H05H5/04 #通过静电发电机供电的，例如通过van de Graaff，发电机[4]" Target="frmContent" Href="../searchservlet?query=H05H5/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05H5/04"/>
+    <TreeNode Title="H05H5/06 #串联加速器；多级加速器" Target="frmContent" Href="../searchservlet?query=H05H5/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05H5/06"/>
+    <TreeNode Title="H05H5/08 #应用升压变压器的粒子加速器，例如谐振变压器[4]" Target="frmContent" Href="../searchservlet?query=H05H5/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05H5/08"/>
+  </TreeNode>
+  <TreeNode Title="H05H6/00 用于产生核反应的靶(靶或被辐照目标物的支架入G21K 5/08)[3]" Target="frmContent" Href="../searchservlet?query=H05H6/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05H6/00"/>
+  <TreeNode Title="H05H7/00 H05H9/00至H05H 13/00各组包含的各种装置的零部件(用于产生核反应的靶入H05H 6/00)[3]" Target="frmContent" Href="../searchservlet?query=H05H7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05H7/00">
+    <TreeNode Title="H05H7/02 #用于供给或馈送射频能量的电路或系统(射频发生器入H03B)" Target="frmContent" Href="../searchservlet?query=H05H7/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05H7/02"/>
+    <TreeNode Title="H05H7/04 #磁体系统；其激励" Target="frmContent" Href="../searchservlet?query=H05H7/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05H7/04"/>
+    <TreeNode Title="H05H7/06 #双射束装置；多射束装置" Target="frmContent" Href="../searchservlet?query=H05H7/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05H7/06"/>
+    <TreeNode Title="H05H7/08 #用于向轨道内注入粒子的装置" Target="frmContent" Href="../searchservlet?query=H05H7/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05H7/08"/>
+    <TreeNode Title="H05H7/10 #用于从轨道中射出粒子的装置" Target="frmContent" Href="../searchservlet?query=H05H7/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05H7/10"/>
+    <TreeNode Title="H05H7/12 #用于改变射束最后能量的装置" Target="frmContent" Href="../searchservlet?query=H05H7/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05H7/12"/>
+    <TreeNode Title="H05H7/14 #真空室(H05H 5/03优先)[4]" Target="frmContent" Href="../searchservlet?query=H05H7/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05H7/14">
+      <TreeNode Title="H05H7/16 ##波导型的[4]" Target="frmContent" Href="../searchservlet?query=H05H7/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05H7/16"/>
+      <TreeNode Title="H05H7/18 ##空腔；谐振腔[4]" Target="frmContent" Href="../searchservlet?query=H05H7/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05H7/18">
+        <TreeNode Title="H05H7/20 ###带有超导壁的[4]" Target="frmContent" Href="../searchservlet?query=H05H7/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05H7/20"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="H05H7/22 #线性加速器的零部件，例如漂移管(H05H 7/02至H05H 7/20优先)[4]" Target="frmContent" Href="../searchservlet?query=H05H7/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05H7/22"/>
+  </TreeNode>
+  <TreeNode Title="H05H9/00 线性加速器(H05H 11/00优先)" Target="frmContent" Href="../searchservlet?query=H05H9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05H9/00">
+    <TreeNode Title="H05H9/02 #行波线性加速器" Target="frmContent" Href="../searchservlet?query=H05H9/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05H9/02"/>
+    <TreeNode Title="H05H9/04 #驻波线性加速器" Target="frmContent" Href="../searchservlet?query=H05H9/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05H9/04"/>
+  </TreeNode>
+  <TreeNode Title="H05H11/00 磁感应加速器，例如电子磁感应加速器" Target="frmContent" Href="../searchservlet?query=H05H11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05H11/00">
+    <TreeNode Title="H05H11/02 #空心型电子磁感应加速器" Target="frmContent" Href="../searchservlet?query=H05H11/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05H11/02"/>
+    <TreeNode Title="H05H11/04 #附加励磁型电子磁感应加速器" Target="frmContent" Href="../searchservlet?query=H05H11/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05H11/04"/>
+  </TreeNode>
+  <TreeNode Title="H05H13/00 磁共振加速器；回旋加速器" Target="frmContent" Href="../searchservlet?query=H05H13/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05H13/00">
+    <TreeNode Title="H05H13/02 #同步回旋加速器，即调频回旋加速器" Target="frmContent" Href="../searchservlet?query=H05H13/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05H13/02"/>
+    <TreeNode Title="H05H13/04 #同步加速器" Target="frmContent" Href="../searchservlet?query=H05H13/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05H13/04"/>
+    <TreeNode Title="H05H13/06 #空心型磁共振加速器" Target="frmContent" Href="../searchservlet?query=H05H13/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05H13/06"/>
+    <TreeNode Title="H05H13/08 #交变梯度磁共振加速器" Target="frmContent" Href="../searchservlet?query=H05H13/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05H13/08"/>
+    <TreeNode Title="H05H13/10 #为了在平行于第一加速段的轨道内返回带电粒子，加速器有一个或多个线性加速段和弯曲磁铁或类似物，例如，电子回旋加速器[4]" Target="frmContent" Href="../searchservlet?query=H05H13/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05H13/10"/>
+  </TreeNode>
+  <TreeNode Title="H05H15/00 其他类目不包含的用于带电粒子加速的方法或设备[4]" Target="frmContent" Href="../searchservlet?query=H05H15/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05H15/00"/>
+</Root>

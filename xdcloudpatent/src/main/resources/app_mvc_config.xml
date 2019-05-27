@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:mvc="http://www.springframework.org/schema/mvc" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:context="http://www.springframework.org/schema/context"
+	xmlns:aop="http://www.springframework.org/schema/aop" xmlns:util="http://www.springframework.org/schema/util"
+	xmlns:p="http://www.springframework.org/schema/p"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans  
+            http://www.springframework.org/schema/beans/spring-beans.xsd  
+            http://www.springframework.org/schema/context  
+            http://www.springframework.org/schema/context/spring-context.xsd  
+           	http://www.springframework.org/schema/util        
+			http://www.springframework.org/schema/util/spring-util.xsd  
+            http://www.springframework.org/schema/mvc  
+            http://www.springframework.org/schema/mvc/spring-mvc.xsd">
+	<mvc:annotation-driven>
+		<!-- 覆盖AnnotationMethodHandlerAdapter的charset=iso8859-1 -->
+		<mvc:message-converters>
+			<ref bean="stringHttpMessageConverter" />
+			<ref bean="jacksonMessageConverter" />
+			<ref bean="marshallingHttpMessageConverter" />
+		</mvc:message-converters>
+	</mvc:annotation-driven>
+
+	<util:list id="messageConverters">
+		<ref bean="stringHttpMessageConverter" />
+		<ref bean="marshallingHttpMessageConverter" />
+	</util:list>
+
+	<bean id="stringHttpMessageConverter"
+		class="org.springframework.http.converter.StringHttpMessageConverter">
+		<property name="supportedMediaTypes">
+			<list>
+				<value>text/plain;charset=UTF-8</value>
+				<value>text/html;charset=UTF-8</value>
+			</list>
+		</property>
+	</bean>
+
+	<bean id="marshallingHttpMessageConverter"
+		class="org.springframework.http.converter.xml.MarshallingHttpMessageConverter">
+		<property name="marshaller" ref="castorMarshaller" />
+		<property name="unmarshaller" ref="castorMarshaller" />
+		<property name="supportedMediaTypes">
+			<list>
+				<value>text/xml;charset=UTF-8</value>
+				<value>application/xml;charset=UTF-8</value>
+			</list>
+		</property>
+	</bean>
+
+	<bean id="jacksonMessageConverter"
+		class="org.springframework.http.converter.json.MappingJackson2HttpMessageConverter"></bean>
+
+
+	<bean id="castorMarshaller" class="org.springframework.oxm.castor.CastorMarshaller" />
+	<!-- 声明mvc使用 注解模式 -->
+
+	<!-- context环境从com.xdtech包开始扫描运行组件（有效的annotation、实现特定接口） -->
+	<context:component-scan
+		base-package="com.xdtech.patent.action;com.xdtech.patent.interceptor" />
+
+	<mvc:interceptors>
+		<bean name="debugIC" class="com.xdtech.patent.interceptor.DebugInterceptor" />
+		<bean name="sc" class="com.xdtech.patent.interceptor.SecurityCheck" />
+		<bean name="osiv"
+			class="org.springframework.orm.hibernate4.support.OpenSessionInViewInterceptor">
+			<property name="sessionFactory" ref="sessionFactory"></property>
+		</bean>
+	</mvc:interceptors>
+	<!-- 上传下载配置 -->
+	<bean id="multipartResolver" class="com.xdtech.patent.upload.ExtCommonsMultipartResolver">
+		<property name="maxUploadSize">
+			<value>524556780</value>
+		</property>
+		<property name="maxInMemorySize">
+			<value>4096</value>
+		</property>
+	</bean>
+
+	<bean id="viewResolver"
+		class="org.springframework.web.servlet.view.UrlBasedViewResolver"
+		p:order="2">
+		<property name="viewClass"
+			value="org.springframework.web.servlet.view.JstlView" />
+		<property name="prefix" value="/" />
+		<property name="suffix" value=".jsp" />
+	</bean>
+
+	<bean id="tilesViewResolver"
+		class="org.springframework.web.servlet.view.tiles3.TilesViewResolver"
+		p:order="1">
+		<!-- <property name="prefix" value="/"/> -->
+		<!-- <property name="suffix" value=""/> -->
+	</bean>
+	<bean id="tilesConfigurer"
+		class="org.springframework.web.servlet.view.tiles3.TilesConfigurer">
+		<property name="definitions">
+			<list>
+				<value>classpath:layout.xml</value>
+			</list>
+		</property>
+	</bean>
+
+	<mvc:default-servlet-handler></mvc:default-servlet-handler>
+	<mvc:resources location="/" mapping="/**/*.js" />
+	<mvc:resources location="/" mapping="/**/*.css" />
+	<mvc:resources location="/" mapping="/**/*.png" />
+	<mvc:resources location="/" mapping="/**/*.gif" />
+</beans>

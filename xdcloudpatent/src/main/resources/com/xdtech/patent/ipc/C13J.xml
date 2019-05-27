@@ -1,0 +1,9 @@
+<Root>
+  <TreeNode Title="C13J1/00 从最终废糖中生产蔗糖" Target="frmContent" Href="../searchservlet?query=C13J1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C13J1/00">
+    <TreeNode Title="C13J1/02 用化学方法" Target="frmContent" Href="../searchservlet?query=C13J1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C13J1/02">
+      <TreeNode Title="C13J1/04 以碱土金属蔗糖盐的形式沉淀" Target="frmContent" Href="../searchservlet?query=C13J1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C13J1/04" />
+      <TreeNode Title="C13J1/06 用离子交换法" Target="frmContent" Href="../searchservlet?query=C13J1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C13J1/06" />
+    </TreeNode>
+    <TreeNode Title="C13J1/08 用物理方法，如渗透" Target="frmContent" Href="../searchservlet?query=C13J1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C13J1/08" />
+  </TreeNode>
+</Root>

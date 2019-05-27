@@ -1,0 +1,50 @@
+a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,caption,center,cite,code,dd,del,details,dfn,div,dl,dt,em,embed,fieldset,figcaption,figure,footer,form,h1,h2,h3,h4,h5,h6,header,hgroup,html,i,iframe,img,ins,kbd,label,legend,li,mark,menu,nav,object,ol,output,p,pre,q,ruby,s,samp,section,small,span,strike,strong,sub,summary,sup,table,tbody,td,tfoot,th,thead,time,tr,tt,u,ul,var,video{margin:0;padding:0;border:0;list-style-type:none}
+a{cursor:pointer}
+article,aside,details,figcaption,figure,footer,header,hgroup,main,nav,section,summary{display:block}
+img{vertical-align:middle}
+/*background-color:#efeff4;*/
+body{font-family:'微软雅黑',sans-serif;font-size:14px;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;text-align:center;color:#555}
+input{color:#666;font-family:'微软雅黑',sans-serif}
+textarea{font-size:14px;color:#666;font-family:'微软雅黑',sans-serif}
+select{font-size:14px;color:#666;font-family:'微软雅黑',sans-serif}
+.ts{cursor:pointer;transition:all .3s ease;-moz-transition:all .3s ease;-webkit-transition:all .3s ease;-o-transition:all .3s ease}
+a:link{color:#555;text-decoration:none}
+a:visited{color:#555;text-decoration:none}
+//a:hover{color:#d50000;text-decoration:none;transition:all 0.5s;-ms-transition:all 0.5s;-moz-transition:all 0.5s;-webkit-transition:all 0.5s;-o-transition:all 0.5s;}
+a:active{color:#555;text-decoration:none}
+a.link1:link{color:#fff;text-decoration:none}
+a.link1:visited{color:#fff;text-decoration:none}
+a.link1:hover{color:#fff;text-decoration:underline}
+a.link1:active{color:#fff;text-decoration:none}
+h3,h4,h5{ font-weight:100; font-size:14px;}
+i{ font-style:normal}
+.clear{clear:both}
+.left{float:left}
+.right{float:right}
+.pages{margin:20px 0;color:#000;text-align:center}
+.pages a{display:inline-block; width:35px;height:35px; line-height:35px;border:1px #eeeff1 solid;color:#8b8b8d;margin:0px 3px;-moz-border-radius: 4px;  -webkit-border-radius: 4px;   border-radius: 4px;}
+.pages a:hover{border:1px #e81c2b solid;color:#e81c2b;background-color:#f8f8f8}
+.pages a.cur{color:#fff;background:#d23631;border:1px #d23631 solid}
+.pages a:nth-last-child(2):hover{border-right:1px #e81c2b solid}
+.pages a.prev{margin-right:8px;border-right:1px #ccc solid;background:url(../images/arrow_left2.png) center no-repeat}
+.pages a.prev:hover{background:#f8f8f8 url(../images/arrow_left2.png) center no-repeat;border-right:1px #e81c2b solid}
+.pages a.disable{background:#f8f8f8 url(../images/arrow_left2_gray.png) center no-repeat;cursor:no-drop}
+.pages a.next{margin-left:8px;border-right:1px #ccc solid;background:url(../images/arrow_right2.png) center no-repeat}
+.pages a.next:hover{background:#f8f8f8 url(../images/arrow_right2.png) center no-repeat;border-right:1px #e81c2b solid}
+.pages a.next.disable{background:#f8f8f8 url(../images/arrow_right2_gray.png) center no-repeat;cursor:no-drop}
+
+.tree{
+		padding:15px 10px; overflow-x:auto; font-size:12px; }
+.tree td{ padding:5px 0}
+.tree .dotLink{	
+	padding-left:6px;
+	background:url(../images/tree/style1/dot.png) repeat-y}
+.tree .dotLinkEnd{	
+	padding-left:6px;
+	background:url(../images/tree/style1/dot.png) no-repeat}
+.tree .dotLink2{	
+	padding-left:12px;
+	background:url(../images/tree/style1/dot.png) 8px 0px repeat-y}
+.tree .dotLink3{	
+	padding-left:12px;
+	background:url(../images/tree/style1/dot.png) 8px 0px no-repeat}

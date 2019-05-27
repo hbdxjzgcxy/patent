@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="B61C1/00 蒸汽机车或蒸气有轨车(以动力传动系统为特点的入B61C 9/00；发动机入F01；锅炉入F22B)" Target="frmContent" Href="../searchservlet?query=B61C1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61C1/00">
+    <TreeNode Title="B61C1/02 # 关节式结构的；有两个或多个发动机的(助推发动机的应用入B61C 15/02)" Target="frmContent" Href="../searchservlet?query=B61C1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61C1/02"/>
+    <TreeNode Title="B61C1/04 # 有蒸气蓄能器的(蒸气蓄能器入F01K)" Target="frmContent" Href="../searchservlet?query=B61C1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61C1/04"/>
+    <TreeNode Title="B61C1/06 # 流线型化(车身的入B61D)" Target="frmContent" Href="../searchservlet?query=B61C1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61C1/06"/>
+    <TreeNode Title="B61C1/08 # 燃烧设备或其附属装置的配置或排列" Target="frmContent" Href="../searchservlet?query=B61C1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61C1/08"/>
+    <TreeNode Title="B61C1/10 # 蒸气发生器的配置或排列" Target="frmContent" Href="../searchservlet?query=B61C1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61C1/10"/>
+    <TreeNode Title="B61C1/12 # 冷凝器的配置或排列" Target="frmContent" Href="../searchservlet?query=B61C1/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61C1/12"/>
+    <TreeNode Title="B61C1/14 # 排气装置的配置或排列" Target="frmContent" Href="../searchservlet?query=B61C1/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61C1/14"/>
+  </TreeNode>
+  <TreeNode Title="B61C3/00 电力机车或电力有轨车(以动力传动系统为特点的入B61C 9/00；电气部件入B60L，H02)" Target="frmContent" Href="../searchservlet?query=B61C3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61C3/00">
+    <TreeNode Title="B61C3/02 # 用蓄电池的" Target="frmContent" Href="../searchservlet?query=B61C3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61C3/02"/>
+  </TreeNode>
+  <TreeNode Title="B61C5/00 用内燃机或燃气轮机的机车或机动有轨车(以动力传动为特点的入B61C 9/00；发动机入F02)" Target="frmContent" Href="../searchservlet?query=B61C5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61C5/00">
+    <TreeNode Title="B61C5/02 # 进气装置及用于燃烧或发动机冷却的空气供给装置、空气循环或过滤装置的配置或排列" Target="frmContent" Href="../searchservlet?query=B61C5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61C5/02"/>
+    <TreeNode Title="B61C5/04 # 排气装置的配置或排列" Target="frmContent" Href="../searchservlet?query=B61C5/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61C5/04"/>
+  </TreeNode>
+  <TreeNode Title="B61C7/00 其他以所用原动力设备的类型为特征的机车或机动有轨车；具有两个或更多不同种类或类型原动力的机车或机动有轨车" Target="frmContent" Href="../searchservlet?query=B61C7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61C7/00">
+    <TreeNode Title="B61C7/02 # 有气体蓄能器的机车或机动有轨车" Target="frmContent" Href="../searchservlet?query=B61C7/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61C7/02"/>
+    <TreeNode Title="B61C7/04 # 用两种或多种不同类型发动机，如蒸汽机和内燃机的机车或机动有轨车" Target="frmContent" Href="../searchservlet?query=B61C7/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61C7/04"/>
+  </TreeNode>
+  <TreeNode Title="B61C8/00 用于机车或机动有轨车的气体或蒸气蓄能器的充气站" Target="frmContent" Href="../searchservlet?query=B61C8/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61C8/00"/>
+  <TreeNode Title="B61C9/00 以所用传动系统的类型为特点的机车或机动有轨车；专门适用于机车或机动有轨车的传动系统(机械元件入F16)" Target="frmContent" Href="../searchservlet?query=B61C9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61C9/00">
+    <TreeNode Title="B61C9/02 # 在有往复活塞式蒸气发动机的机车或机动有轨车内的传动装置，或用于这类机车或机动有轨车的传动装置" Target="frmContent" Href="../searchservlet?query=B61C9/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61C9/02">
+      <TreeNode Title="B61C9/04 ##由曲轴和连杆组成的" Target="frmContent" Href="../searchservlet?query=B61C9/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61C9/04"/>
+      <TreeNode Title="B61C9/06 ##具有齿轮、链、摩擦或皮带传动装置的" Target="frmContent" Href="../searchservlet?query=B61C9/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61C9/06"/>
+    </TreeNode>
+    <TreeNode Title="B61C9/08 # 在有往复活塞式内燃机的机车或机动有轨车内的传动系统，或用于这类机车或机动有轨车的传动系统" Target="frmContent" Href="../searchservlet?query=B61C9/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61C9/08">
+      <TreeNode Title="B61C9/10 ##机械的(与液压传动装置结合的入B61C 9/14)" Target="frmContent" Href="../searchservlet?query=B61C9/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61C9/10">
+        <TreeNode Title="B61C9/12 ###带变速传动装置的" Target="frmContent" Href="../searchservlet?query=B61C9/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61C9/12"/>
+      </TreeNode>
+      <TreeNode Title="B61C9/14 ##液压的，包括与机械传动装置结合的" Target="frmContent" Href="../searchservlet?query=B61C9/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61C9/14">
+        <TreeNode Title="B61C9/16 ###用流体静力类型的传动装置的" Target="frmContent" Href="../searchservlet?query=B61C9/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61C9/16"/>
+        <TreeNode Title="B61C9/18 ###用流体动力类型的传动装置的" Target="frmContent" Href="../searchservlet?query=B61C9/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61C9/18">
+          <TreeNode Title="B61C9/20 ####有机械变速传动装置的" Target="frmContent" Href="../searchservlet?query=B61C9/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61C9/20"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="B61C9/22 ##气动的" Target="frmContent" Href="../searchservlet?query=B61C9/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61C9/22"/>
+      <TreeNode Title="B61C9/24 ##电力的(B61C 9/38优先)" Target="frmContent" Href="../searchservlet?query=B61C9/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61C9/24"/>
+      <TreeNode Title="B61C9/26 ##用传动轴与驱动轴成角度的传动轴" Target="frmContent" Href="../searchservlet?query=B61C9/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61C9/26"/>
+    </TreeNode>
+    <TreeNode Title="B61C9/28 # 在有旋转式原动机如涡轮机的机车或机动有轨车内的传动系统，或用于这类机车或机动有轨车的传动系统" Target="frmContent" Href="../searchservlet?query=B61C9/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61C9/28">
+      <TreeNode Title="B61C9/30 ##机械的(与液压传动装置结合的入B61C 9/34)" Target="frmContent" Href="../searchservlet?query=B61C9/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61C9/30">
+        <TreeNode Title="B61C9/32 ###有变速传动装置的" Target="frmContent" Href="../searchservlet?query=B61C9/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61C9/32"/>
+      </TreeNode>
+      <TreeNode Title="B61C9/34 ##液压的，包括与机械传动装置结合的" Target="frmContent" Href="../searchservlet?query=B61C9/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61C9/34"/>
+      <TreeNode Title="B61C9/36 ##电力的(B61C 9/38优先)" Target="frmContent" Href="../searchservlet?query=B61C9/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61C9/36"/>
+    </TreeNode>
+    <TreeNode Title="B61C9/38 # 在用电动机推动的机车或机动有轨车内的传动系统，或用于这类机车或机动有轨车的传动系统(电气部件入B60L，H02)" Target="frmContent" Href="../searchservlet?query=B61C9/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61C9/38">
+      <TreeNode Title="B61C9/40 ##用曲轴和连杆的" Target="frmContent" Href="../searchservlet?query=B61C9/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61C9/40"/>
+      <TreeNode Title="B61C9/42 ##液压的" Target="frmContent" Href="../searchservlet?query=B61C9/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61C9/42"/>
+      <TreeNode Title="B61C9/44 ##用与车轮轴同心的空心传动轴的" Target="frmContent" Href="../searchservlet?query=B61C9/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61C9/44"/>
+      <TreeNode Title="B61C9/46 ##用成为车轮的一部分的电动机的" Target="frmContent" Href="../searchservlet?query=B61C9/46&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61C9/46"/>
+      <TreeNode Title="B61C9/48 ##用支承在车架和驱动轴上，如车轴悬架或车头悬架上的电动机的" Target="frmContent" Href="../searchservlet?query=B61C9/48&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61C9/48">
+        <TreeNode Title="B61C9/50 ###用在转向架内的" Target="frmContent" Href="../searchservlet?query=B61C9/50&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61C9/50"/>
+      </TreeNode>
+      <TreeNode Title="B61C9/52 ##用传动轴与驱动轴成角度的" Target="frmContent" Href="../searchservlet?query=B61C9/52&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61C9/52"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="B61C11/00 以施加牵引力的装置的类型为特点的机车或机动有轨车；不同于标准主动轮的行走装置的配置(车轮结构入B60B)" Target="frmContent" Href="../searchservlet?query=B61C11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61C11/00">
+    <TreeNode Title="B61C11/02 # 牵引力作用在缆索或链条上的" Target="frmContent" Href="../searchservlet?query=B61C11/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61C11/02"/>
+    <TreeNode Title="B61C11/04 # 牵引力作用在齿条上的" Target="frmContent" Href="../searchservlet?query=B61C11/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61C11/04"/>
+    <TreeNode Title="B61C11/06 # 用气体动力或流体反作用施加或供给牵引力的，如空气螺旋桨或喷气或火箭推进器的" Target="frmContent" Href="../searchservlet?query=B61C11/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61C11/06"/>
+  </TreeNode>
+  <TreeNode Title="B61C13/00 以其适合特殊的系统或用途为特点的机车或机动有轨车(B61C 11/00优先；自行推进式脚手架车、铁路救险起重机、检查车入B61D 15/00；轨道记录车辆的一般设计入B61K 9/00)" Target="frmContent" Href="../searchservlet?query=B61C13/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61C13/00">
+    <TreeNode Title="B61C13/02 # 用于拖曳或运输船只或类似的专门用途的" Target="frmContent" Href="../searchservlet?query=B61C13/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61C13/02"/>
+    <TreeNode Title="B61C13/04 # 用于刚性轨道高架铁路的(B61C 13/08优先)" Target="frmContent" Href="../searchservlet?query=B61C13/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61C13/04"/>
+    <TreeNode Title="B61C13/06 # 用于悬挂的柔性轨道如索道的铁路的" Target="frmContent" Href="../searchservlet?query=B61C13/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61C13/06"/>
+    <TreeNode Title="B61C13/08 # 用于鞍座或类似的平衡型铁路的" Target="frmContent" Href="../searchservlet?query=B61C13/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61C13/08"/>
+  </TreeNode>
+  <TreeNode Title="B61C15/00 用辅助装置和措施保持或增大起动力或制动力；防止车轮打滑；控制驱动轮之间牵引力的分配(用专门装置推动机车或机动有轨车入B61C 11/00；带防滑装置的驱动轮入B60B；制动器入B61H；轨道的润湿或润滑入B61K)" Target="frmContent" Href="../searchservlet?query=B61C15/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61C15/00">
+    <TreeNode Title="B61C15/02 # 用辅助驱动轮；用暂时连接器或用飞轮或用助推发动机" Target="frmContent" Href="../searchservlet?query=B61C15/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61C15/02"/>
+    <TreeNode Title="B61C15/04 # 用控制车轮压力，如用可移动的重物或重部件，或用磁力装置(磁力制动器入B61H)" Target="frmContent" Href="../searchservlet?query=B61C15/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61C15/04">
+      <TreeNode Title="B61C15/06 ##用移动燃料、镇定物或类似物" Target="frmContent" Href="../searchservlet?query=B61C15/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61C15/06"/>
+    </TreeNode>
+    <TreeNode Title="B61C15/08 # 防止车轮打滑(调节车轮制动力以防止车轮打滑入B60T 8/00)" Target="frmContent" Href="../searchservlet?query=B61C15/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61C15/08">
+      <TreeNode Title="B61C15/10 ##用铺砂子或类似的增大摩擦的材料(用于一般车辆的入B60B；铺砂装置与制动器的联合控制入B61H)" Target="frmContent" Href="../searchservlet?query=B61C15/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61C15/10"/>
+      <TreeNode Title="B61C15/12 ##用减少驱动功率的方法" Target="frmContent" Href="../searchservlet?query=B61C15/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61C15/12"/>
+    </TreeNode>
+    <TreeNode Title="B61C15/14 # 控制驱动轮之间牵引力的分配" Target="frmContent" Href="../searchservlet?query=B61C15/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61C15/14"/>
+  </TreeNode>
+  <TreeNode Title="B61C17/00 各部件的配置或排列；其他类目不包含的零件或附件；控制装置和控制系统的应用[2]" Target="frmContent" Href="../searchservlet?query=B61C17/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61C17/00">
+    <TreeNode Title="B61C17/02 # 煤仓；油箱；煤水车(车身的设计入B61D)；水或燃料的采集或收集装置；水或燃料的供给装置(用于机车装水装砂的路侧设备，如煤仓、油箱入B61K 11/00)" Target="frmContent" Href="../searchservlet?query=B61C17/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61C17/02"/>
+    <TreeNode Title="B61C17/04 # 驾驶室、踏板或机房的布置或排列；其通风(驾驶室或附属设备入B61D)" Target="frmContent" Href="../searchservlet?query=B61C17/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61C17/04"/>
+    <TreeNode Title="B61C17/06 # 动力贮存设备" Target="frmContent" Href="../searchservlet?query=B61C17/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61C17/06"/>
+    <TreeNode Title="B61C17/08 # 润滑系统(一般的入F16N)" Target="frmContent" Href="../searchservlet?query=B61C17/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61C17/08"/>
+    <TreeNode Title="B61C17/10 # 用于驱动轮的连杆；其轴承的配置(一般连杆或轴承入F16C 7/00，F16C 9/04)" Target="frmContent" Href="../searchservlet?query=B61C17/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61C17/10"/>
+    <TreeNode Title="B61C17/12 # 控制用传动装置；用于在列车中从远距点或开动多台设备时，控制机车的装置(从列车外的地点控制入B61L 3/00；流体作用的遥控电动机、伺服电动机入F15B；一般控制设备入G05)" Target="frmContent" Href="../searchservlet?query=B61C17/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61C17/12"/>
+  </TreeNode>
+</Root>

@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="G02B1/00 按制造材料区分的光学元件(光学玻璃的成分入C03C 3/00)；用于光学元件的光学涂层" Target="frmContent" Href="../searchservlet?query=G02B1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B1/00">
+    <TreeNode Title="G02B1/02 #由晶体(例如岩盐)半导体，制成的(G02B 1/08优先)" Target="frmContent" Href="../searchservlet?query=G02B1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B1/02"/>
+    <TreeNode Title="G02B1/04 #由有机材料(例如塑料)制成的(G02B 1/08优先)" Target="frmContent" Href="../searchservlet?query=G02B1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B1/04"/>
+    <TreeNode Title="G02B1/06 #由在透明容器内装入流体制成" Target="frmContent" Href="../searchservlet?query=G02B1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B1/06"/>
+    <TreeNode Title="G02B1/08 #由偏振材料制成的" Target="frmContent" Href="../searchservlet?query=G02B1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B1/08"/>
+    <TreeNode Title="G02B1/10 #对光学元件表面涂覆或对它进行表面处理后所产生的光学涂层(G02B 1/08优先)" Target="frmContent" Href="../searchservlet?query=G02B1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B1/10">
+      <TreeNode Title="G02B1/11 ##抗反射涂层[6]" Target="frmContent" Href="../searchservlet?query=G02B1/11&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B1/11"/>
+      <TreeNode Title="G02B1/12 ##用表面处理，例如，用辐照的方法" Target="frmContent" Href="../searchservlet?query=G02B1/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B1/12"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="G02B3/00 简单或复合透镜(人造眼入A61F 2/14；眼睛用透镜或接触透镜入G02C；钟表玻璃入G04B 39/00)" Target="frmContent" Href="../searchservlet?query=G02B3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B3/00">
+    <TreeNode Title="G02B3/02 #具有非球面的(G02B 3/10优先)" Target="frmContent" Href="../searchservlet?query=G02B3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B3/02">
+      <TreeNode Title="G02B3/04 ##具有不同于实际球体的旋转对称的连续面的" Target="frmContent" Href="../searchservlet?query=G02B3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B3/04"/>
+      <TreeNode Title="G02B3/06 ##具有圆柱面或复曲面的" Target="frmContent" Href="../searchservlet?query=G02B3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B3/06"/>
+      <TreeNode Title="G02B3/08 ##具有不连续面的，例如，菲涅耳(Fresnel)透镜" Target="frmContent" Href="../searchservlet?query=G02B3/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B3/08"/>
+    </TreeNode>
+    <TreeNode Title="G02B3/10 #双焦透镜；多焦透镜" Target="frmContent" Href="../searchservlet?query=G02B3/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B3/10"/>
+    <TreeNode Title="G02B3/12 #充入液体或抽空的透镜" Target="frmContent" Href="../searchservlet?query=G02B3/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B3/12">
+      <TreeNode Title="G02B3/14 ##可变焦距的" Target="frmContent" Href="../searchservlet?query=G02B3/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B3/14"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="G02B5/00 除透镜外的光学元件(光波导入G02B 6/00；光学逻辑元件入G02F 3/00)[4]" Target="frmContent" Href="../searchservlet?query=G02B5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B5/00">
+    <TreeNode Title="G02B5/02 #漫射元件；远焦元件" Target="frmContent" Href="../searchservlet?query=G02B5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B5/02"/>
+    <TreeNode Title="G02B5/04 #棱镜" Target="frmContent" Href="../searchservlet?query=G02B5/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B5/04">
+      <TreeNode Title="G02B5/06 ##充入流体或抽空的棱镜" Target="frmContent" Href="../searchservlet?query=G02B5/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B5/06"/>
+    </TreeNode>
+    <TreeNode Title="G02B5/08 #反射镜" Target="frmContent" Href="../searchservlet?query=G02B5/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B5/08">
+      <TreeNode Title="G02B5/09 ##多面或多角反射镜[6]" Target="frmContent" Href="../searchservlet?query=G02B5/09&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B5/09"/>
+      <TreeNode Title="G02B5/10 ##具有曲面的" Target="frmContent" Href="../searchservlet?query=G02B5/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B5/10"/>
+    </TreeNode>
+    <TreeNode Title="G02B5/12 #反射式反射器" Target="frmContent" Href="../searchservlet?query=G02B5/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B5/12">
+      <TreeNode Title="G02B5/122 ##立体角、三边或三面反射型[2]" Target="frmContent" Href="../searchservlet?query=G02B5/122&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B5/122">
+        <TreeNode Title="G02B5/124 ###形成单个板状或片状部分的多个反射元件[2]" Target="frmContent" Href="../searchservlet?query=G02B5/124&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B5/124"/>
+      </TreeNode>
+      <TreeNode Title="G02B5/126 ##包括有折射曲面的[2]" Target="frmContent" Href="../searchservlet?query=G02B5/126&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B5/126">
+        <TreeNode Title="G02B5/128 ###被嵌入基体的透明球体[2]" Target="frmContent" Href="../searchservlet?query=G02B5/128&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B5/128"/>
+        <TreeNode Title="G02B5/13 ###形成单体之一部分的多个曲面折射元件[2]" Target="frmContent" Href="../searchservlet?query=G02B5/13&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B5/13"/>
+        <TreeNode Title="G02B5/132 ###具有单个反射镜的固定装置的[2]" Target="frmContent" Href="../searchservlet?query=G02B5/132&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B5/132">
+          <TreeNode Title="G02B5/134 ####带有螺纹的安装构件[2]" Target="frmContent" Href="../searchservlet?query=G02B5/134&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B5/134"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="G02B5/136 ##形成单体之一部分的多个反射元件(G02B 5/124优先)[2]" Target="frmContent" Href="../searchservlet?query=G02B5/136&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B5/136"/>
+    </TreeNode>
+    <TreeNode Title="G02B5/18 #衍射光栅" Target="frmContent" Href="../searchservlet?query=G02B5/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B5/18"/>
+    <TreeNode Title="G02B5/20 #滤光片(偏振元件入G02B 5/30；特别用于摄影目的滤光片入G03B 11/00)" Target="frmContent" Href="../searchservlet?query=G02B5/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B5/20">
+      <TreeNode Title="G02B5/22 ##吸收滤光片" Target="frmContent" Href="../searchservlet?query=G02B5/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B5/22">
+        <TreeNode Title="G02B5/23 ###彩色滤光片[2]" Target="frmContent" Href="../searchservlet?query=G02B5/23&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B5/23"/>
+        <TreeNode Title="G02B5/24 ###液体滤光片(G02B 5/23优先)[2]" Target="frmContent" Href="../searchservlet?query=G02B5/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B5/24"/>
+      </TreeNode>
+      <TreeNode Title="G02B5/26 ##反射滤光片(G02B 5/28优先)" Target="frmContent" Href="../searchservlet?query=G02B5/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B5/26"/>
+      <TreeNode Title="G02B5/28 ##干涉滤光片" Target="frmContent" Href="../searchservlet?query=G02B5/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B5/28"/>
+    </TreeNode>
+    <TreeNode Title="G02B5/30 #偏振元件(光调制器件入G02F 1/00)" Target="frmContent" Href="../searchservlet?query=G02B5/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B5/30"/>
+    <TreeNode Title="G02B5/32 #用作光学单元的全息图像(产生全息图的方法或仪器入G03H)[2]" Target="frmContent" Href="../searchservlet?query=G02B5/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B5/32"/>
+  </TreeNode>
+  <TreeNode Title="G02B6/00 光导；包含光导和其他光学元件(如耦合器)的装置的结构零部件[4，6]" Target="frmContent" Href="../searchservlet?query=G02B6/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B6/00">
+    <TreeNode Title="G02B6/02 #带有包层的光导纤维(用于提供抗拉强度和外部保护的机械结构入G02B 6/44)[4,8]" Target="frmContent" Href="../searchservlet?query=G02B6/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B6/02">
+      <TreeNode Title="G02B6/024 ##具有偏振维持特性的[8]" Target="frmContent" Href="../searchservlet?query=G02B6/024&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B6/024"/>
+      <TreeNode Title="G02B6/028 ##具有渐变折射率的芯或包层[8]" Target="frmContent" Href="../searchservlet?query=G02B6/028&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B6/028"/>
+      <TreeNode Title="G02B6/032 ##具有非实体芯或包层的[8]" Target="frmContent" Href="../searchservlet?query=G02B6/032&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B6/032"/>
+      <TreeNode Title="G02B6/036 ##包含多层的芯或包层[8]" Target="frmContent" Href="../searchservlet?query=G02B6/036&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B6/036"/>
+    </TreeNode>
+    <TreeNode Title="G02B6/04 #由若干束光导纤维所形成的(G02B 6/24优先)[4]" Target="frmContent" Href="../searchservlet?query=G02B6/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B6/04">
+      <TreeNode Title="G02B6/06 ##光导纤维的相对位置在两端是相同的，例如，用于传输图像的[4]" Target="frmContent" Href="../searchservlet?query=G02B6/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B6/06">
+        <TreeNode Title="G02B6/08 ###成板状的光导纤维束[4]" Target="frmContent" Href="../searchservlet?query=G02B6/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B6/08"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="G02B6/10 #光波导式的(G02B 6/02,G02B 6/24优先，用电、磁、电磁或电声装置进行光的控制入G02F 1/00；变换受调制光的调制入G02F 2/00；光学逻辑元件入G02F 3/00；光学模拟/数字变换器入G02F 7/00；使用电光元件的存储器入G11C 11/42；电波导管入H01P；通过光学装置传输信息的入H04B 10/00；多路系统入H04J 14/00)[4，8]" Target="frmContent" Href="../searchservlet?query=G02B6/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B6/10">
+      <TreeNode Title="G02B6/12 ##集成光路类型(单晶的制备和加工入C30B；集成电路入H01L 27/00)[4]" Target="frmContent" Href="../searchservlet?query=G02B6/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B6/12">
+        <TreeNode Title="G02B6/122 ###基本光学元件，例如，传导光的光路[6]" Target="frmContent" Href="../searchservlet?query=G02B6/122&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B6/122">
+          <TreeNode Title="G02B6/124 ####短程透镜或集成光栅[6]" Target="frmContent" Href="../searchservlet?query=G02B6/124&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B6/124"/>
+          <TreeNode Title="G02B6/125 ####弯转、分支或交叉[6]" Target="frmContent" Href="../searchservlet?query=G02B6/125&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B6/125"/>
+        </TreeNode>
+        <TreeNode Title="G02B6/126 ###利用偏振效应[6]" Target="frmContent" Href="../searchservlet?query=G02B6/126&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B6/126"/>
+        <TreeNode Title="G02B6/13 ###以制作方法为特征的集成光路[6]" Target="frmContent" Href="../searchservlet?query=G02B6/13&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B6/13">
+          <TreeNode Title="G02B6/132 ####用薄膜沉积法[6]" Target="frmContent" Href="../searchservlet?query=G02B6/132&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B6/132"/>
+          <TreeNode Title="G02B6/134 ####用搀杂原子置换法[6]" Target="frmContent" Href="../searchservlet?query=G02B6/134&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B6/134"/>
+          <TreeNode Title="G02B6/136 ####用蚀刻法[6]" Target="frmContent" Href="../searchservlet?query=G02B6/136&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B6/136"/>
+          <TreeNode Title="G02B6/138 ####用聚合反应[6]" Target="frmContent" Href="../searchservlet?query=G02B6/138&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B6/138"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="G02B6/14 ##模式变换器[4]" Target="frmContent" Href="../searchservlet?query=G02B6/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B6/14"/>
+    </TreeNode>
+    <TreeNode Title="G02B6/24 #光波导的耦合(电波导的耦合入H01P 1/00)[4，5]" Target="frmContent" Href="../searchservlet?query=G02B6/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B6/24">
+      <TreeNode Title="G02B6/245 ##在耦合之前去除光导的保护层[5]" Target="frmContent" Href="../searchservlet?query=G02B6/245&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B6/245"/>
+      <TreeNode Title="G02B6/25 ##耦合用光导端面的制备，例如通过切割[5]" Target="frmContent" Href="../searchservlet?query=G02B6/25&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B6/25"/>
+      <TreeNode Title="G02B6/255 ##光导的连接，例如通过熔融或粘接[5]" Target="frmContent" Href="../searchservlet?query=G02B6/255&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B6/255"/>
+      <TreeNode Title="G02B6/26 ##光耦合装置(G02B 6/36，G02B 6/42优先)[4]" Target="frmContent" Href="../searchservlet?query=G02B6/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B6/26">
+        <TreeNode Title="G02B6/27 ###带有偏振选择和调节装置(一般偏振元件入G02B 5/30；一般偏振系统入G02B 27/28；光学偏振多路传输系统入H04J 14/06)[6]" Target="frmContent" Href="../searchservlet?query=G02B6/27&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B6/27"/>
+        <TreeNode Title="G02B6/28 ###有数据总线装置的，即多个相互连接的波导和通过混合和分离信号提供一个特有的双向作用系统[4]" Target="frmContent" Href="../searchservlet?query=G02B6/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B6/28">
+          <TreeNode Title="G02B6/287 ####由加热形成光学元件的光导的构成(G02B 6/255优先)[6]" Target="frmContent" Href="../searchservlet?query=G02B6/287&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B6/287"/>
+          <TreeNode Title="G02B6/293 ####有波长选择装置的(用于使用的光学元件的，见本小类的相关小组；波分复用系统入H04J 14/02)[6]" Target="frmContent" Href="../searchservlet?query=G02B6/293&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B6/293"/>
+        </TreeNode>
+        <TreeNode Title="G02B6/30 ###供光导纤维和薄膜器件之间使用的[4]" Target="frmContent" Href="../searchservlet?query=G02B6/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B6/30"/>
+        <TreeNode Title="G02B6/32 ###有透镜调焦装置的[4]" Target="frmContent" Href="../searchservlet?query=G02B6/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B6/32"/>
+        <TreeNode Title="G02B6/34 ###利用棱镜或光栅[4]" Target="frmContent" Href="../searchservlet?query=G02B6/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B6/34"/>
+        <TreeNode Title="G02B6/35 ###有切换装置的(一般的光学切换入G02B 26/08；通过改变介质的光学特性的入G02F 1/00)[6]" Target="frmContent" Href="../searchservlet?query=G02B6/35&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B6/35"/>
+      </TreeNode>
+      <TreeNode Title="G02B6/36 ##机械连接装置(G02B 6/255，G02B 6/42优先)[4，5]" Target="frmContent" Href="../searchservlet?query=G02B6/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B6/36">
+        <TreeNode Title="G02B6/38 ###有纤维对纤维的匹配装置[4]" Target="frmContent" Href="../searchservlet?query=G02B6/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B6/38"/>
+        <TreeNode Title="G02B6/40 ###有纤维束匹配装置[4]" Target="frmContent" Href="../searchservlet?query=G02B6/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B6/40"/>
+      </TreeNode>
+      <TreeNode Title="G02B6/42 ##光波导与光电元件的耦合[4]" Target="frmContent" Href="../searchservlet?query=G02B6/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B6/42">
+        <TreeNode Title="G02B6/43 ###包含有多个光电元件和相应的光学互连器的装置(发光或光敏半导体器件入H01L 27/00，H01L 31/00，H01L 33/00；与其他部件单片集成的半导体激光器入H01S 5/026)[6]" Target="frmContent" Href="../searchservlet?query=G02B6/43&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B6/43"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="G02B6/44 #用于为光导纤维提供抗拉强度和外部保护的机械结构，例如，光学传输电缆(配有导电体和光纤的缆线入H01B 11/22)[4]" Target="frmContent" Href="../searchservlet?query=G02B6/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B6/44"/>
+    <TreeNode Title="G02B6/46 #适于安装光纤或光缆的方法或装置(配有导电体和光纤的缆线安装入H02G)[6]" Target="frmContent" Href="../searchservlet?query=G02B6/46&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B6/46">
+      <TreeNode Title="G02B6/48 ##架空安装[6]" Target="frmContent" Href="../searchservlet?query=G02B6/48&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B6/48"/>
+      <TreeNode Title="G02B6/50 ##地下或水下安装；通过装管、电缆管道或输送管安装[6]" Target="frmContent" Href="../searchservlet?query=G02B6/50&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B6/50">
+        <TreeNode Title="G02B6/52 ###使用流体，如空气[6]" Target="frmContent" Href="../searchservlet?query=G02B6/52&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B6/52"/>
+        <TreeNode Title="G02B6/54 ###用机械装置，如推或拉的装置[6]" Target="frmContent" Href="../searchservlet?query=G02B6/54&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B6/54"/>
+      </TreeNode>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="G02B7/00 光学元件的安装、调整装置或不漏光连接" Target="frmContent" Href="../searchservlet?query=G02B7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B7/00">
+    <TreeNode Title="G02B7/02 #用于透镜" Target="frmContent" Href="../searchservlet?query=G02B7/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B7/02">
+      <TreeNode Title="G02B7/04 ##有聚焦或改变放大率的机构[2]" Target="frmContent" Href="../searchservlet?query=G02B7/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B7/04">
+        <TreeNode Title="G02B7/06 ###双目镜的聚焦" Target="frmContent" Href="../searchservlet?query=G02B7/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B7/06"/>
+        <TreeNode Title="G02B7/08 ###用于和遥控机构相配合的" Target="frmContent" Href="../searchservlet?query=G02B7/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B7/08"/>
+        <TreeNode Title="G02B7/09 ###适于自动聚焦或改变放大率的(聚焦信号的自动发生入G02B 7/28)[5]" Target="frmContent" Href="../searchservlet?query=G02B7/09&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B7/09"/>
+        <TreeNode Title="G02B7/10 ###通过几个透镜的相对轴向运动，例如变焦物镜各透镜的相对轴向运动" Target="frmContent" Href="../searchservlet?query=G02B7/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B7/10">
+          <TreeNode Title="G02B7/105 ####有特别适用于近距离聚焦的可移动的透镜装置[4]" Target="frmContent" Href="../searchservlet?query=G02B7/105&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B7/105"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="G02B7/12 ##双筒镜对瞳距的调节" Target="frmContent" Href="../searchservlet?query=G02B7/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B7/12"/>
+      <TreeNode Title="G02B7/14 ##适用于互换透镜的" Target="frmContent" Href="../searchservlet?query=G02B7/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B7/14">
+        <TreeNode Title="G02B7/16 ###透镜旋转台" Target="frmContent" Href="../searchservlet?query=G02B7/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B7/16"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="G02B7/18 #用于棱镜；用于反光镜" Target="frmContent" Href="../searchservlet?query=G02B7/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B7/18">
+      <TreeNode Title="G02B7/182 ##用于反光镜(利用可移动的或可变形的光学元件以控制光的强度、颜色、相位、偏振或方向的光学器件或装置入G02B 26/00)[5]" Target="frmContent" Href="../searchservlet?query=G02B7/182&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B7/182">
+        <TreeNode Title="G02B7/183 ###特别适用于大型反射镜，如用于天文的(G02B 7/185，G02B 7/192，G02B 7/198优先)[6]" Target="frmContent" Href="../searchservlet?query=G02B7/183&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B7/183"/>
+        <TreeNode Title="G02B7/185 ###带有反光镜表面形状调整装置的(带有弯曲的反光镜入G02B 5/10)[5]" Target="frmContent" Href="../searchservlet?query=G02B7/185&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B7/185">
+          <TreeNode Title="G02B7/188 ####薄膜反光镜[5]" Target="frmContent" Href="../searchservlet?query=G02B7/188&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B7/188"/>
+        </TreeNode>
+        <TreeNode Title="G02B7/192 ###带有能将反光镜内应力减至最小装置的[5]" Target="frmContent" Href="../searchservlet?query=G02B7/192&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B7/192">
+          <TreeNode Title="G02B7/195 ####液体冷却反光镜[5]" Target="frmContent" Href="../searchservlet?query=G02B7/195&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B7/195"/>
+        </TreeNode>
+        <TreeNode Title="G02B7/198 ###带有反光镜相对其支座调整装置的[5]" Target="frmContent" Href="../searchservlet?query=G02B7/198&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B7/198"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="G02B7/20 #可移动的光学元件的不漏光连接" Target="frmContent" Href="../searchservlet?query=G02B7/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B7/20">
+      <TreeNode Title="G02B7/22 ##可延伸的连接，例如，波纹管" Target="frmContent" Href="../searchservlet?query=G02B7/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B7/22"/>
+      <TreeNode Title="G02B7/24 ##枢轴连接" Target="frmContent" Href="../searchservlet?query=G02B7/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B7/24"/>
+    </TreeNode>
+    <TreeNode Title="G02B7/28 #聚焦信号的自动发生系统(测距本身入G01C，G01S；使用该信号以控制特殊仪器焦点，参见该仪器的有关小类，例如G03B，G03F)[5]" Target="frmContent" Href="../searchservlet?query=G02B7/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B7/28">
+      <TreeNode Title="G02B7/30 ##利用带有基线的视差三角形的[5]" Target="frmContent" Href="../searchservlet?query=G02B7/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B7/30">
+        <TreeNode Title="G02B7/32 ###利用激活手段，例如光发射器的[5]" Target="frmContent" Href="../searchservlet?query=G02B7/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B7/32"/>
+      </TreeNode>
+      <TreeNode Title="G02B7/34 ##利用光瞳面上不同区域的[5]" Target="frmContent" Href="../searchservlet?query=G02B7/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B7/34"/>
+      <TreeNode Title="G02B7/36 ##利用图像锐化技术[5]" Target="frmContent" Href="../searchservlet?query=G02B7/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B7/36">
+        <TreeNode Title="G02B7/38 ###在光轴上的不同点测出来的[5]" Target="frmContent" Href="../searchservlet?query=G02B7/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B7/38"/>
+      </TreeNode>
+      <TreeNode Title="G02B7/40 ##利用反射波(例如超声波)的时间延迟[5]" Target="frmContent" Href="../searchservlet?query=G02B7/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B7/40"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="G02B9/00 特征在于既按组件的数目又按根据其符号(即“+”或“-”)配置的光学物镜(G02B 13/00，G02B 15/00优先)" Target="frmContent" Href="../searchservlet?query=G02B9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B9/00">
+    <TreeNode Title="G02B9/02 #只有1个“+”号组件(简单透镜入G02B 3/00)" Target="frmContent" Href="../searchservlet?query=G02B9/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B9/02"/>
+    <TreeNode Title="G02B9/04 #只有两个组件的" Target="frmContent" Href="../searchservlet?query=G02B9/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B9/04">
+      <TreeNode Title="G02B9/06 ##两个“+”号的组件" Target="frmContent" Href="../searchservlet?query=G02B9/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B9/06">
+        <TreeNode Title="G02B9/08 ###安置在光圈的附近" Target="frmContent" Href="../searchservlet?query=G02B9/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B9/08"/>
+      </TreeNode>
+      <TreeNode Title="G02B9/10 ##1个“+”号和1个“-”号的组件" Target="frmContent" Href="../searchservlet?query=G02B9/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B9/10"/>
+    </TreeNode>
+    <TreeNode Title="G02B9/12 #只有3个组件的" Target="frmContent" Href="../searchservlet?query=G02B9/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B9/12">
+      <TreeNode Title="G02B9/14 ##按“+-+”号排列的" Target="frmContent" Href="../searchservlet?query=G02B9/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B9/14">
+        <TreeNode Title="G02B9/16 ###所有组件为简单透镜的" Target="frmContent" Href="../searchservlet?query=G02B9/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B9/16"/>
+        <TreeNode Title="G02B9/18 ###只有1个组件为复合透镜的(G02B 9/30优先)" Target="frmContent" Href="../searchservlet?query=G02B9/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B9/18">
+          <TreeNode Title="G02B9/20 ####后组件为复合透镜的" Target="frmContent" Href="../searchservlet?query=G02B9/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B9/20"/>
+          <TreeNode Title="G02B9/22 ####中间组件为复合透镜的" Target="frmContent" Href="../searchservlet?query=G02B9/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B9/22"/>
+        </TreeNode>
+        <TreeNode Title="G02B9/24 ###组件中有两个为复合透镜的(G02B 9/30优先)" Target="frmContent" Href="../searchservlet?query=G02B9/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B9/24">
+          <TreeNode Title="G02B9/26 ####前后组件为复合透镜的" Target="frmContent" Href="../searchservlet?query=G02B9/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B9/26"/>
+          <TreeNode Title="G02B9/28 ####中间和后组件为复合透镜的" Target="frmContent" Href="../searchservlet?query=G02B9/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B9/28"/>
+        </TreeNode>
+        <TreeNode Title="G02B9/30 ###中间组件为具有“+”透镜的“-”号复合凹凸透镜" Target="frmContent" Href="../searchservlet?query=G02B9/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B9/30">
+          <TreeNode Title="G02B9/32 ####“+”号透镜是弯月面的" Target="frmContent" Href="../searchservlet?query=G02B9/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B9/32"/>
+        </TreeNode>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="G02B9/34 #只有4个组件的" Target="frmContent" Href="../searchservlet?query=G02B9/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B9/34">
+      <TreeNode Title="G02B9/36 ##按“+--+”号排列的" Target="frmContent" Href="../searchservlet?query=G02B9/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B9/36">
+        <TreeNode Title="G02B9/38 ###两个“-”号组件都是弯月面的" Target="frmContent" Href="../searchservlet?query=G02B9/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B9/38">
+          <TreeNode Title="G02B9/40 ####其中1个“-”号组件为复合透镜" Target="frmContent" Href="../searchservlet?query=G02B9/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B9/40"/>
+          <TreeNode Title="G02B9/42 ####两个“-”号组件都是复合透镜" Target="frmContent" Href="../searchservlet?query=G02B9/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B9/42"/>
+        </TreeNode>
+        <TreeNode Title="G02B9/44 ###两个“-”号组件都是双凹面的" Target="frmContent" Href="../searchservlet?query=G02B9/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B9/44">
+          <TreeNode Title="G02B9/46 ####其中1个“-”号组件为复合透镜" Target="frmContent" Href="../searchservlet?query=G02B9/46&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B9/46"/>
+          <TreeNode Title="G02B9/48 ####两个“-”号组件都是复合透镜" Target="frmContent" Href="../searchservlet?query=G02B9/48&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B9/48"/>
+        </TreeNode>
+        <TreeNode Title="G02B9/50 ###两个“+”号组件都是弯月面的" Target="frmContent" Href="../searchservlet?query=G02B9/50&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B9/50"/>
+        <TreeNode Title="G02B9/52 ###其中后面的“+”号组件为复合透镜" Target="frmContent" Href="../searchservlet?query=G02B9/52&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B9/52"/>
+        <TreeNode Title="G02B9/54 ###其中前面的“+”号组件为复合组件" Target="frmContent" Href="../searchservlet?query=G02B9/54&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B9/54"/>
+        <TreeNode Title="G02B9/56 ###所有组件均为简单透镜的" Target="frmContent" Href="../searchservlet?query=G02B9/56&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B9/56"/>
+      </TreeNode>
+      <TreeNode Title="G02B9/58 ##按“-++-”号排列的" Target="frmContent" Href="../searchservlet?query=G02B9/58&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B9/58"/>
+    </TreeNode>
+    <TreeNode Title="G02B9/60 #只有5个组件的" Target="frmContent" Href="../searchservlet?query=G02B9/60&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B9/60"/>
+    <TreeNode Title="G02B9/62 #只有6个组件的" Target="frmContent" Href="../searchservlet?query=G02B9/62&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B9/62"/>
+    <TreeNode Title="G02B9/64 #有多于6个组件的" Target="frmContent" Href="../searchservlet?query=G02B9/64&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B9/64"/>
+  </TreeNode>
+  <TreeNode Title="G02B11/00 按构成物镜的简单及复合透镜的总数目及其排列形式区分的光学物镜(G02B 9/00优先；只有一个简单透镜的入G02B 3/00)" Target="frmContent" Href="../searchservlet?query=G02B11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B11/00">
+    <TreeNode Title="G02B11/02 #只有两个透镜的" Target="frmContent" Href="../searchservlet?query=G02B11/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B11/02">
+      <TreeNode Title="G02B11/04 ##按“CC”排列的" Target="frmContent" Href="../searchservlet?query=G02B11/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B11/04"/>
+    </TreeNode>
+    <TreeNode Title="G02B11/06 #只有3个透镜的" Target="frmContent" Href="../searchservlet?query=G02B11/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B11/06">
+      <TreeNode Title="G02B11/08 ##按“LLL”排列的" Target="frmContent" Href="../searchservlet?query=G02B11/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B11/08"/>
+      <TreeNode Title="G02B11/10 ##按“LCL”排列的" Target="frmContent" Href="../searchservlet?query=G02B11/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B11/10"/>
+      <TreeNode Title="G02B11/12 ##按“LLC”排列的" Target="frmContent" Href="../searchservlet?query=G02B11/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B11/12"/>
+      <TreeNode Title="G02B11/14 ##按“CLC”排列的" Target="frmContent" Href="../searchservlet?query=G02B11/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B11/14"/>
+      <TreeNode Title="G02B11/16 ##按“CCL”排列的" Target="frmContent" Href="../searchservlet?query=G02B11/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B11/16"/>
+      <TreeNode Title="G02B11/18 ##按“CCC”排列的" Target="frmContent" Href="../searchservlet?query=G02B11/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B11/18"/>
+    </TreeNode>
+    <TreeNode Title="G02B11/20 #只有4个透镜的" Target="frmContent" Href="../searchservlet?query=G02B11/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B11/20">
+      <TreeNode Title="G02B11/22 ##按“LLLL”排列的" Target="frmContent" Href="../searchservlet?query=G02B11/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B11/22"/>
+      <TreeNode Title="G02B11/24 ##按“CLLC”排列的" Target="frmContent" Href="../searchservlet?query=G02B11/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B11/24"/>
+      <TreeNode Title="G02B11/26 ##按“LCCL”排列的" Target="frmContent" Href="../searchservlet?query=G02B11/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B11/26"/>
+      <TreeNode Title="G02B11/28 ##按“CCCC”排列的" Target="frmContent" Href="../searchservlet?query=G02B11/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B11/28"/>
+    </TreeNode>
+    <TreeNode Title="G02B11/30 #只有5个透镜的" Target="frmContent" Href="../searchservlet?query=G02B11/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B11/30"/>
+    <TreeNode Title="G02B11/32 #只有6个透镜的" Target="frmContent" Href="../searchservlet?query=G02B11/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B11/32"/>
+    <TreeNode Title="G02B11/34 #多于6个透镜的" Target="frmContent" Href="../searchservlet?query=G02B11/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B11/34"/>
+  </TreeNode>
+  <TreeNode Title="G02B13/00 为下述用途专门设计的光学物镜(有可变放大率的入G02B 15/00)" Target="frmContent" Href="../searchservlet?query=G02B13/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B13/00">
+    <TreeNode Title="G02B13/02 #望远物镜，即“+-”式系统，其中前顶点至像面的距离小于等效焦距的" Target="frmContent" Href="../searchservlet?query=G02B13/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B13/02"/>
+    <TreeNode Title="G02B13/04 #反向望远物镜" Target="frmContent" Href="../searchservlet?query=G02B13/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B13/04"/>
+    <TreeNode Title="G02B13/06 #全景物镜；所谓“天空广角摄影镜头(Skylenses)”" Target="frmContent" Href="../searchservlet?query=G02B13/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B13/06"/>
+    <TreeNode Title="G02B13/08 #变形物镜" Target="frmContent" Href="../searchservlet?query=G02B13/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B13/08">
+      <TreeNode Title="G02B13/10 ##包含棱镜的(G02B 13/12优先)" Target="frmContent" Href="../searchservlet?query=G02B13/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B13/10"/>
+      <TreeNode Title="G02B13/12 ##有可变放大率的" Target="frmContent" Href="../searchservlet?query=G02B13/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B13/12"/>
+    </TreeNode>
+    <TreeNode Title="G02B13/14 #用于红外或紫外辐射的(G02B 13/16优先)" Target="frmContent" Href="../searchservlet?query=G02B13/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B13/14"/>
+    <TreeNode Title="G02B13/16 #与图像变换器或增强器联合使用的" Target="frmContent" Href="../searchservlet?query=G02B13/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B13/16"/>
+    <TreeNode Title="G02B13/18 #采用具有一个或多个非球面的透镜，例如，用于减少几何象差" Target="frmContent" Href="../searchservlet?query=G02B13/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B13/18"/>
+    <TreeNode Title="G02B13/20 #软焦点物镜(散射元件一般入G02B 5/02)" Target="frmContent" Href="../searchservlet?query=G02B13/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B13/20"/>
+    <TreeNode Title="G02B13/22 #远心物镜或透镜系统" Target="frmContent" Href="../searchservlet?query=G02B13/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B13/22"/>
+    <TreeNode Title="G02B13/24 #用于短物距内的再现或复制" Target="frmContent" Href="../searchservlet?query=G02B13/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B13/24">
+      <TreeNode Title="G02B13/26 ##用于以单一放大倍率进行再现[3]" Target="frmContent" Href="../searchservlet?query=G02B13/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B13/26"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="G02B15/00 具有改变放大率装置的光学物镜(变形物镜入G02B 13/08)" Target="frmContent" Href="../searchservlet?query=G02B15/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B15/00">
+    <TreeNode Title="G02B15/02 #通过改变、加入或减去物镜的一部分，例如，可变换的物镜" Target="frmContent" Href="../searchservlet?query=G02B15/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B15/02">
+      <TreeNode Title="G02B15/04 ##通过改变一部分" Target="frmContent" Href="../searchservlet?query=G02B15/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B15/04">
+        <TreeNode Title="G02B15/06 ###通过改变其前面的部件的" Target="frmContent" Href="../searchservlet?query=G02B15/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B15/06"/>
+        <TreeNode Title="G02B15/08 ###通过改变其后面物镜的" Target="frmContent" Href="../searchservlet?query=G02B15/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B15/08"/>
+      </TreeNode>
+      <TreeNode Title="G02B15/10 ##通过加入一部分，例如，特写镜头附加装置" Target="frmContent" Href="../searchservlet?query=G02B15/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B15/10">
+        <TreeNode Title="G02B15/12 ###通过加入望远镜附件(G02B 15/14优先)" Target="frmContent" Href="../searchservlet?query=G02B15/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B15/12"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="G02B15/14 #利用一个透镜或多个透镜或透镜组相对于成像平面作轴向移动，以便连续改变物镜的等效焦距[4]" Target="frmContent" Href="../searchservlet?query=G02B15/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B15/14">
+      <TreeNode Title="G02B15/15 ##仅以一种移动或仅以线性的相对移动的补偿，例如，光学补偿[4]" Target="frmContent" Href="../searchservlet?query=G02B15/15&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B15/15"/>
+      <TreeNode Title="G02B15/16 ##具有在一种透镜或透镜组和另一个透镜或透镜组之间的相互影响的非线性相对移动的(G02B 15/22优先)[4]" Target="frmContent" Href="../searchservlet?query=G02B15/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B15/16">
+        <TreeNode Title="G02B15/163 ###在一个固定的透镜或透镜组的前面有第一个可移动的透镜或透镜组和第二个可移动的透镜或透镜组(G02B 15/177优先)[4]" Target="frmContent" Href="../searchservlet?query=G02B15/163&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B15/163">
+          <TreeNode Title="G02B15/167 ####有一个辅加的固定的前透镜或透镜组[4]" Target="frmContent" Href="../searchservlet?query=G02B15/167&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B15/167">
+            <TreeNode Title="G02B15/17 #####按“+--”排列的[4]" Target="frmContent" Href="../searchservlet?query=G02B15/17&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B15/17"/>
+            <TreeNode Title="G02B15/173 #####按“+-+”排列的[4]" Target="frmContent" Href="../searchservlet?query=G02B15/173&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B15/173"/>
+          </TreeNode>
+        </TreeNode>
+        <TreeNode Title="G02B15/177 ###有一个负的前透镜或透镜组的[4]" Target="frmContent" Href="../searchservlet?query=G02B15/177&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B15/177"/>
+        <TreeNode Title="G02B15/20 ###具有辅加的可移动的透镜或透镜组以改变物镜焦距的[4]" Target="frmContent" Href="../searchservlet?query=G02B15/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B15/20"/>
+      </TreeNode>
+      <TreeNode Title="G02B15/22 ##有可移动的特别适用于近距离聚焦的透镜装置的[4]" Target="frmContent" Href="../searchservlet?query=G02B15/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B15/22">
+        <TreeNode Title="G02B15/24 ###在一个固定的透镜或透镜组前面有一个固定的前透镜或透镜组和两个可移动的透镜或透镜组的[4]" Target="frmContent" Href="../searchservlet?query=G02B15/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B15/24">
+          <TreeNode Title="G02B15/26 ####按“+--”排列的[4]" Target="frmContent" Href="../searchservlet?query=G02B15/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B15/26"/>
+          <TreeNode Title="G02B15/28 ####按“+-+”排列的[4]" Target="frmContent" Href="../searchservlet?query=G02B15/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B15/28"/>
+        </TreeNode>
+      </TreeNode>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="G02B17/00 有或无折射元件的具有反射面的系统(显微镜入G02B 21/00；望远镜、潜望镜入G02B 23/00；其他位置不包括的光束整形入G02B 27/09光束分解或合成入G02B 27/10；光学投影入G02B 27/18)[6]" Target="frmContent" Href="../searchservlet?query=G02B17/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B17/00">
+    <TreeNode Title="G02B17/02 #反射光系统，例如，影像竖立和倒向系统" Target="frmContent" Href="../searchservlet?query=G02B17/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B17/02">
+      <TreeNode Title="G02B17/04 ##只用棱镜的" Target="frmContent" Href="../searchservlet?query=G02B17/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B17/04"/>
+      <TreeNode Title="G02B17/06 ##只用反射镜的" Target="frmContent" Href="../searchservlet?query=G02B17/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B17/06"/>
+    </TreeNode>
+    <TreeNode Title="G02B17/08 #折反射系统" Target="frmContent" Href="../searchservlet?query=G02B17/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B17/08"/>
+  </TreeNode>
+  <TreeNode Title="G02B19/00 聚光镜(用于显微镜的入G02B 21/08)" Target="frmContent" Href="../searchservlet?query=G02B19/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B19/00"/>
+  <TreeNode Title="G02B21/00 显微镜(目镜入G02B 25/00；偏振系统入G02B 27/28；测量显微镜入G01B 9/04；显微镜用切片机入G01N 1/06；扫描探针技术或设备入G01Q) [1，7]" Target="frmContent" Href="../searchservlet?query=G02B21/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B21/00">
+    <TreeNode Title="G02B21/02 #物镜" Target="frmContent" Href="../searchservlet?query=G02B21/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B21/02">
+      <TreeNode Title="G02B21/04 ##包含反射镜的" Target="frmContent" Href="../searchservlet?query=G02B21/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B21/04"/>
+    </TreeNode>
+    <TreeNode Title="G02B21/06 #试样的照明装置" Target="frmContent" Href="../searchservlet?query=G02B21/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B21/06">
+      <TreeNode Title="G02B21/08 ##聚光镜" Target="frmContent" Href="../searchservlet?query=G02B21/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B21/08">
+        <TreeNode Title="G02B21/10 ###供暗场照明(G02B 21/14优先)" Target="frmContent" Href="../searchservlet?query=G02B21/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B21/10"/>
+        <TreeNode Title="G02B21/12 ###供亮场照明(G02B 21/14优先)" Target="frmContent" Href="../searchservlet?query=G02B21/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B21/12"/>
+        <TreeNode Title="G02B21/14 ###供相衬观察照明的" Target="frmContent" Href="../searchservlet?query=G02B21/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B21/14"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="G02B21/16 #用于紫外照明的" Target="frmContent" Href="../searchservlet?query=G02B21/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B21/16"/>
+    <TreeNode Title="G02B21/18 #具有多光路的布置，例如，用于比较两个试样" Target="frmContent" Href="../searchservlet?query=G02B21/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B21/18">
+      <TreeNode Title="G02B21/20 ##双筒镜布置" Target="frmContent" Href="../searchservlet?query=G02B21/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B21/20">
+        <TreeNode Title="G02B21/22 ###立体布置" Target="frmContent" Href="../searchservlet?query=G02B21/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B21/22"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="G02B21/24 #底座结构" Target="frmContent" Href="../searchservlet?query=G02B21/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B21/24">
+      <TreeNode Title="G02B21/26 ##平台；其调节装置" Target="frmContent" Href="../searchservlet?query=G02B21/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B21/26"/>
+      <TreeNode Title="G02B21/28 ##具有冷却装置" Target="frmContent" Href="../searchservlet?query=G02B21/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B21/28"/>
+      <TreeNode Title="G02B21/30 ##具有加热装置" Target="frmContent" Href="../searchservlet?query=G02B21/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B21/30"/>
+    </TreeNode>
+    <TreeNode Title="G02B21/32 #结构上与显微镜组合的微型控制器" Target="frmContent" Href="../searchservlet?query=G02B21/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B21/32"/>
+    <TreeNode Title="G02B21/33 #浸润油[6]" Target="frmContent" Href="../searchservlet?query=G02B21/33&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B21/33"/>
+    <TreeNode Title="G02B21/34 #显微镜载物片，例如，在载物片上安装试样(供研究用试样的制备入G01N 1/28；供电子显微镜分析用的物体或材料的支撑装置入H01J 37/20)" Target="frmContent" Href="../searchservlet?query=G02B21/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B21/34"/>
+    <TreeNode Title="G02B21/36 #照相或投影用的布置(G02B 21/18优先)" Target="frmContent" Href="../searchservlet?query=G02B21/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B21/36"/>
+  </TreeNode>
+  <TreeNode Title="G02B23/00 望远镜，例如，双筒望远镜(测量望远镜入G01B 9/06)；潜望镜；用于观察空心体内部的仪器(诊断仪器入A61B)；取景器(物镜入G02B 9/00，G02B 11/00，G02B 15/00，G02B 17/00；目镜入G02B 25/00)；光学瞄准或观测设备(武器瞄准器或瞄准设备的非光学方面入F41G)[4]" Target="frmContent" Href="../searchservlet?query=G02B23/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B23/00">
+    <TreeNode Title="G02B23/02 #包含棱镜或反射镜(G02B 23/14优先)" Target="frmContent" Href="../searchservlet?query=G02B23/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B23/02">
+      <TreeNode Title="G02B23/04 ##用于分解或组合光束，例如，配备供多个观测者用的目镜(G02B 23/10优先)" Target="frmContent" Href="../searchservlet?query=G02B23/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B23/04"/>
+      <TreeNode Title="G02B23/06 ##具有聚焦作用，例如，抛物面反射镜" Target="frmContent" Href="../searchservlet?query=G02B23/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B23/06"/>
+      <TreeNode Title="G02B23/08 ##潜望镜" Target="frmContent" Href="../searchservlet?query=G02B23/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B23/08"/>
+      <TreeNode Title="G02B23/10 ##将附加指示反射到视场中，例如，从准直仪的(准直仪一般入G02B 27/30；十字线入G02B 27/34)" Target="frmContent" Href="../searchservlet?query=G02B23/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B23/10"/>
+    </TreeNode>
+    <TreeNode Title="G02B23/12 #具有用于图像变换或增强的装置(图像变换或增强用的物镜入G02B 13/16；有光学输入及输出的电学图像变换器入H01J 31/50)" Target="frmContent" Href="../searchservlet?query=G02B23/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B23/12"/>
+    <TreeNode Title="G02B23/14 #取景器(用于照相设备的入G03B 13/02)" Target="frmContent" Href="../searchservlet?query=G02B23/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B23/14"/>
+    <TreeNode Title="G02B23/16 #外罩；盖子；安装架；支座，例如，有平衡物的(盒子或容器入A45C)" Target="frmContent" Href="../searchservlet?query=G02B23/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B23/16">
+      <TreeNode Title="G02B23/18 ##用于双筒镜布置" Target="frmContent" Href="../searchservlet?query=G02B23/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B23/18"/>
+      <TreeNode Title="G02B23/20 ##可折叠外罩(G02B 23/18优先)" Target="frmContent" Href="../searchservlet?query=G02B23/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B23/20"/>
+      <TreeNode Title="G02B23/22 ##水下设备，例如，用于潜水艇潜望镜的" Target="frmContent" Href="../searchservlet?query=G02B23/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B23/22"/>
+    </TreeNode>
+    <TreeNode Title="G02B23/24 #用于观察空心体内部的仪器，例如，纤维内窥镜[4]" Target="frmContent" Href="../searchservlet?query=G02B23/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B23/24">
+      <TreeNode Title="G02B23/26 ##利用光导的[4]" Target="frmContent" Href="../searchservlet?query=G02B23/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B23/26"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="G02B25/00 目镜；放大镜(简单透镜入G02B 3/00)" Target="frmContent" Href="../searchservlet?query=G02B25/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B25/00">
+    <TreeNode Title="G02B25/02 #具有被观察目标照明的装置" Target="frmContent" Href="../searchservlet?query=G02B25/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B25/02"/>
+    <TreeNode Title="G02B25/04 #提供广角观察的，例如，通过一个观察孔" Target="frmContent" Href="../searchservlet?query=G02B25/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B25/04"/>
+  </TreeNode>
+  <TreeNode Title="G02B26/00 利用可移动的或可变形的光学元件控制光的强度、颜色、相位、偏振或方向的光学器件或装置，例如，开关、选通、调制(用于控制灯光顺序的照明装置的可机械操作的部分入F21V；专门用于测量光特性的装置入G01J；其光学操作随介质光学性质的改变而改变的器件或装置入G02F 1/00；光控制一般入G05D 25/00；光源的控制入H01S 3/10，H05B 37/00至H05B 43/00)[4]" Target="frmContent" Href="../searchservlet?query=G02B26/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B26/00">
+    <TreeNode Title="G02B26/02 #控制光的强度[4]" Target="frmContent" Href="../searchservlet?query=G02B26/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B26/02">
+      <TreeNode Title="G02B26/04 ##通过周期性地改变光的强度，例如，使用光调制盘[4]" Target="frmContent" Href="../searchservlet?query=G02B26/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B26/04"/>
+    </TreeNode>
+    <TreeNode Title="G02B26/06 #控制光的相位(G02B 26/08优先)[4]" Target="frmContent" Href="../searchservlet?query=G02B26/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B26/06"/>
+    <TreeNode Title="G02B26/08 #控制光的方向(光导中的入G02B 6/35)[4]" Target="frmContent" Href="../searchservlet?query=G02B26/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B26/08">
+      <TreeNode Title="G02B26/10 ##扫描系统(对于特殊的应用，参见有关的分类，例如，G03B 27/32，G03F 3/08，G03G 15/04，G09G 3/00，H04N)[4]" Target="frmContent" Href="../searchservlet?query=G02B26/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B26/10">
+        <TreeNode Title="G02B26/12 ###用多面反射镜的[6]" Target="frmContent" Href="../searchservlet?query=G02B26/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B26/12"/>
+      </TreeNode>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="G02B27/00 其他光学系统；其他光学仪器(使商店橱窗或陈列柜产生特别光学效果的装置入A47F，例如，A47F 11/06；光学玩具入A63H 33/22；以具有特殊光学效果为特征的设计或图样入B44F 1/00)" Target="frmContent" Href="../searchservlet?query=G02B27/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B27/00">
+    <TreeNode Title="G02B27/01 #加盖显示器[6]" Target="frmContent" Href="../searchservlet?query=G02B27/01&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B27/01"/>
+    <TreeNode Title="G02B27/02 #观看或阅读仪器(立体光学系统本身入G02B 27/22；投影式的入G03B；幻灯片变换的装置入G03B)" Target="frmContent" Href="../searchservlet?query=G02B27/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B27/02">
+      <TreeNode Title="G02B27/04 ##具有折叠部件的" Target="frmContent" Href="../searchservlet?query=G02B27/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B27/04"/>
+      <TreeNode Title="G02B27/06 ##具有电影效果的" Target="frmContent" Href="../searchservlet?query=G02B27/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B27/06"/>
+      <TreeNode Title="G02B27/08 ##万花筒" Target="frmContent" Href="../searchservlet?query=G02B27/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B27/08"/>
+    </TreeNode>
+    <TreeNode Title="G02B27/09 #其他位置不包括的光束整形，例如改变横截面积[6]" Target="frmContent" Href="../searchservlet?query=G02B27/09&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B27/09"/>
+    <TreeNode Title="G02B27/10 #光束分解或组合系统(利用光波导混合和分解光信号的入G02B 6/28；偏振系统入G02B 27/28)[4]" Target="frmContent" Href="../searchservlet?query=G02B27/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B27/10">
+      <TreeNode Title="G02B27/12 ##只依靠折射操作" Target="frmContent" Href="../searchservlet?query=G02B27/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B27/12"/>
+      <TreeNode Title="G02B27/14 ##只依靠反射操作" Target="frmContent" Href="../searchservlet?query=G02B27/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B27/14"/>
+      <TreeNode Title="G02B27/16 ##用作聚焦辅助装置的" Target="frmContent" Href="../searchservlet?query=G02B27/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B27/16"/>
+    </TreeNode>
+    <TreeNode Title="G02B27/18 #用于光学投影，例如，反光镜和聚光镜及物镜的组合" Target="frmContent" Href="../searchservlet?query=G02B27/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B27/18">
+      <TreeNode Title="G02B27/20 ##用于微小物体的成像，例如，光指示器" Target="frmContent" Href="../searchservlet?query=G02B27/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B27/20"/>
+    </TreeNode>
+    <TreeNode Title="G02B27/22 #用于产生立体或其他三维效果的(显微镜用的入G02B 21/22；观察仪器入G02B 27/02)" Target="frmContent" Href="../searchservlet?query=G02B27/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B27/22">
+      <TreeNode Title="G02B27/24 ##只包含反射棱镜及反射镜的" Target="frmContent" Href="../searchservlet?query=G02B27/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B27/24"/>
+      <TreeNode Title="G02B27/26 ##包含偏振装置的" Target="frmContent" Href="../searchservlet?query=G02B27/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B27/26"/>
+    </TreeNode>
+    <TreeNode Title="G02B27/28 #用于偏振(立体镜用的入G02B 27/26)" Target="frmContent" Href="../searchservlet?query=G02B27/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B27/28"/>
+    <TreeNode Title="G02B27/30 #准直仪" Target="frmContent" Href="../searchservlet?query=G02B27/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B27/30"/>
+    <TreeNode Title="G02B27/32 #在光学系统内的基准标记和测量度盘" Target="frmContent" Href="../searchservlet?query=G02B27/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B27/32">
+      <TreeNode Title="G02B27/34 ##光照的" Target="frmContent" Href="../searchservlet?query=G02B27/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B27/34"/>
+      <TreeNode Title="G02B27/36 ##可调的" Target="frmContent" Href="../searchservlet?query=G02B27/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B27/36"/>
+    </TreeNode>
+    <TreeNode Title="G02B27/40 #光学聚焦辅助装置(光束分解或组合系统入G02B 27/10)" Target="frmContent" Href="../searchservlet?query=G02B27/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B27/40"/>
+    <TreeNode Title="G02B27/42 #衍射光学(G02B 27/60优先)[3]" Target="frmContent" Href="../searchservlet?query=G02B27/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B27/42">
+      <TreeNode Title="G02B27/44 ##光栅系统；波带片系统(G02B 27/46优先，光谱测定法入G01J)[3]" Target="frmContent" Href="../searchservlet?query=G02B27/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B27/44"/>
+      <TreeNode Title="G02B27/46 ##利用空间滤波器的系统(字符识别入G06K 9/00)[3]" Target="frmContent" Href="../searchservlet?query=G02B27/46&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B27/46"/>
+    </TreeNode>
+    <TreeNode Title="G02B27/48 #激光斑纹光学(全息照相中的斑纹消除入G03H 1/32)[3]" Target="frmContent" Href="../searchservlet?query=G02B27/48&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B27/48"/>
+    <TreeNode Title="G02B27/50 #物体相位显形光学(显微镜中的入G02B 21/14)[3]" Target="frmContent" Href="../searchservlet?query=G02B27/50&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B27/50">
+      <TreeNode Title="G02B27/52 ##相衬光学[3]" Target="frmContent" Href="../searchservlet?query=G02B27/52&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B27/52"/>
+      <TreeNode Title="G02B27/54 ##纹影光学系统" Target="frmContent" Href="../searchservlet?query=G02B27/54&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B27/54"/>
+    </TreeNode>
+    <TreeNode Title="G02B27/56 #利用损耗波即非均匀波的光学[3]" Target="frmContent" Href="../searchservlet?query=G02B27/56&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B27/56"/>
+    <TreeNode Title="G02B27/58 #变迹法或超高分辨光学；光学合成光圈系统[3]" Target="frmContent" Href="../searchservlet?query=G02B27/58&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B27/58"/>
+    <TreeNode Title="G02B27/60 #利用莫尔条纹的系统(采用衍射光栅转换传感元件输出的装置入G01D 5/38)[3]" Target="frmContent" Href="../searchservlet?query=G02B27/60&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B27/60"/>
+    <TreeNode Title="G02B27/62 #组装光学系统过程中专用于调节光学元件的光学仪器(调节装置是被组装系统的一部分的入G02B 7/00)[3]" Target="frmContent" Href="../searchservlet?query=G02B27/62&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B27/62"/>
+    <TreeNode Title="G02B27/64 #利用稳定像的横向和斜向位置的光学元件的成像系统(聚焦系统入G02B 7/04；相对于成像面或物面的光学系统的调节入G03B 5/00)[3]" Target="frmContent" Href="../searchservlet?query=G02B27/64&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02B27/64"/>
+  </TreeNode>
+</Root>

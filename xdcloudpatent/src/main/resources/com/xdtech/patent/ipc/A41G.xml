@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="A41G1/00 人造花、水果、叶子或树(人造圣诞树入A47G 33/06)；花环" Target="frmContent" Href="../searchservlet?query=A41G1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A41G1/00">
+    <TreeNode Title="A41G1/02 #制作人造花等用的工具、设备或机械" Target="frmContent" Href="../searchservlet?query=A41G1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A41G1/02"/>
+    <TreeNode Title="A41G1/04 #花环；花环的装配" Target="frmContent" Href="../searchservlet?query=A41G1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A41G1/04"/>
+  </TreeNode>
+  <TreeNode Title="A41G3/00 假发(仅为玩偶用的入A63H 3/44)" Target="frmContent" Href="../searchservlet?query=A41G3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A41G3/00"/>
+  <TreeNode Title="A41G5/00 发件、插入物、发卷、衬垫或类似物；遮秃假发" Target="frmContent" Href="../searchservlet?query=A41G5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A41G5/00">
+    <TreeNode Title="A41G5/02 #人造睫毛；人造眉毛" Target="frmContent" Href="../searchservlet?query=A41G5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A41G5/02"/>
+  </TreeNode>
+  <TreeNode Title="A41G7/00 面具或掩藏整身的蒙面具，如剧院用的" Target="frmContent" Href="../searchservlet?query=A41G7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A41G7/00">
+    <TreeNode Title="A41G7/02 #有产生特种效应用的部件" Target="frmContent" Href="../searchservlet?query=A41G7/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A41G7/02"/>
+  </TreeNode>
+  <TreeNode Title="A41G9/00 天然羽毛的装饰品；加工天然羽毛(羽绒被的处理入B68G 3/00，D06M)" Target="frmContent" Href="../searchservlet?query=A41G9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A41G9/00"/>
+  <TreeNode Title="A41G11/00 人造羽饰" Target="frmContent" Href="../searchservlet?query=A41G11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A41G11/00">
+    <TreeNode Title="A41G11/02 #制作人造羽饰用的工具或机械" Target="frmContent" Href="../searchservlet?query=A41G11/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A41G11/02"/>
+  </TreeNode>
+</Root>

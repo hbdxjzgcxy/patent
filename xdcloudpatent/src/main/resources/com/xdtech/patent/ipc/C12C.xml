@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="C12C1/00 麦芽的制备" Target="frmContent" Href="../searchservlet?query=C12C1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12C1/00">
+    <TreeNode Title="C12C1/02 #谷粒的预处理，例如清洗、浸泡" Target="frmContent" Href="../searchservlet?query=C12C1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12C1/02"/>
+    <TreeNode Title="C12C1/027 #发芽[6]" Target="frmContent" Href="../searchservlet?query=C12C1/027&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12C1/027">
+      <TreeNode Title="C12C1/033 ##在箱或鼓中[6]" Target="frmContent" Href="../searchservlet?query=C12C1/033&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12C1/033"/>
+      <TreeNode Title="C12C1/047 ##用化学或物理方法影响发芽[6]" Target="frmContent" Href="../searchservlet?query=C12C1/047&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12C1/047">
+        <TreeNode Title="C12C1/053 ###采用照射或电处理[6]" Target="frmContent" Href="../searchservlet?query=C12C1/053&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12C1/053"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="C12C1/067 #干燥[6]" Target="frmContent" Href="../searchservlet?query=C12C1/067&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12C1/067">
+      <TreeNode Title="C12C1/073 ##特别用于节省或回收能量的方法或设备[6]" Target="frmContent" Href="../searchservlet?query=C12C1/073&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12C1/073"/>
+      <TreeNode Title="C12C1/10 ##在固定支架上干燥" Target="frmContent" Href="../searchservlet?query=C12C1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12C1/10"/>
+      <TreeNode Title="C12C1/12 ##在活动支架上干燥" Target="frmContent" Href="../searchservlet?query=C12C1/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12C1/12"/>
+    </TreeNode>
+    <TreeNode Title="C12C1/125 #浸泡、发芽或干燥的连续或半连续方法[6]" Target="frmContent" Href="../searchservlet?query=C12C1/125&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12C1/125">
+      <TreeNode Title="C12C1/13 ##将谷粒垂直输送[6]" Target="frmContent" Href="../searchservlet?query=C12C1/13&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12C1/13"/>
+      <TreeNode Title="C12C1/135 ##将谷粒水平输送[6]" Target="frmContent" Href="../searchservlet?query=C12C1/135&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12C1/135"/>
+    </TreeNode>
+    <TreeNode Title="C12C1/15 #谷粒或麦芽的翻动、装填或卸料设备[6]" Target="frmContent" Href="../searchservlet?query=C12C1/15&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12C1/15"/>
+    <TreeNode Title="C12C1/16 #麦芽的后处理，例如麦芽的净化、胚芽的分离" Target="frmContent" Href="../searchservlet?query=C12C1/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12C1/16"/>
+    <TreeNode Title="C12C1/18 #麦芽提取物或特种麦芽，如焦糖麦芽、黑麦芽的制备(用作食品的麦芽产品入A23L)" Target="frmContent" Href="../searchservlet?query=C12C1/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12C1/18"/>
+  </TreeNode>
+  <TreeNode Title="C12C3/00 酒花的处理" Target="frmContent" Href="../searchservlet?query=C12C3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12C3/00">
+    <TreeNode Title="C12C3/02 #干燥" Target="frmContent" Href="../searchservlet?query=C12C3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12C3/02"/>
+    <TreeNode Title="C12C3/04 #保存；贮藏；包装" Target="frmContent" Href="../searchservlet?query=C12C3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12C3/04">
+      <TreeNode Title="C12C3/06 ##酒花制成的粉末或小粒[6]" Target="frmContent" Href="../searchservlet?query=C12C3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12C3/06"/>
+      <TreeNode Title="C12C3/08 ##酒花的溶剂提取物[6]" Target="frmContent" Href="../searchservlet?query=C12C3/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12C3/08">
+        <TreeNode Title="C12C3/10 ###使用二氧化碳[6]" Target="frmContent" Href="../searchservlet?query=C12C3/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12C3/10"/>
+      </TreeNode>
+      <TreeNode Title="C12C3/12 ##酒花的异构化产物[6]" Target="frmContent" Href="../searchservlet?query=C12C3/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12C3/12"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="C12C5/00 制备啤酒的其他原材料" Target="frmContent" Href="../searchservlet?query=C12C5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12C5/00">
+    <TreeNode Title="C12C5/02 #啤酒的添加剂" Target="frmContent" Href="../searchservlet?query=C12C5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12C5/02">
+      <TreeNode Title="C12C5/04 ##色素添加剂" Target="frmContent" Href="../searchservlet?query=C12C5/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12C5/04"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="C12C7/00 麦芽汁的制备(麦芽提取物入C12C 1/18)" Target="frmContent" Href="../searchservlet?query=C12C7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12C7/00">
+    <TreeNode Title="C12C7/01 #麦芽的预处理，例如麦芽研磨[6]" Target="frmContent" Href="../searchservlet?query=C12C7/01&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12C7/01"/>
+    <TreeNode Title="C12C7/04 #糖化醪的制备或处理" Target="frmContent" Href="../searchservlet?query=C12C7/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12C7/04">
+      <TreeNode Title="C12C7/047 ##部分糖化醪为未发芽的谷类[6]" Target="frmContent" Href="../searchservlet?query=C12C7/047&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12C7/047"/>
+      <TreeNode Title="C12C7/053 ##部分糖化醪为非谷类原料[6]" Target="frmContent" Href="../searchservlet?query=C12C7/053&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12C7/053"/>
+      <TreeNode Title="C12C7/06 ##制备糖化醪的设备" Target="frmContent" Href="../searchservlet?query=C12C7/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12C7/06"/>
+    </TreeNode>
+    <TreeNode Title="C12C7/14 #麦芽汁的澄清(过滤)" Target="frmContent" Href="../searchservlet?query=C12C7/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12C7/14">
+      <TreeNode Title="C12C7/16 ##粗滤" Target="frmContent" Href="../searchservlet?query=C12C7/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12C7/16">
+        <TreeNode Title="C12C7/165 ###使用糖化醪过滤器[6]" Target="frmContent" Href="../searchservlet?query=C12C7/165&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12C7/165"/>
+        <TreeNode Title="C12C7/17 ###使用过滤槽[6]" Target="frmContent" Href="../searchservlet?query=C12C7/17&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12C7/17"/>
+      </TreeNode>
+      <TreeNode Title="C12C7/175 ##通过离心[6]" Target="frmContent" Href="../searchservlet?query=C12C7/175&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12C7/175"/>
+      <TreeNode Title="C12C7/20 ##啤酒麦芽汁的煮沸(酿造锅入C12C 13/02)[6]" Target="frmContent" Href="../searchservlet?query=C12C7/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12C7/20">
+        <TreeNode Title="C12C7/22 ###专门适用于节省或回收能量的方法或设备[6]" Target="frmContent" Href="../searchservlet?query=C12C7/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12C7/22"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="C12C7/24 #酒花煮沸和冷却之间啤酒麦芽汁的澄清[6]" Target="frmContent" Href="../searchservlet?query=C12C7/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12C7/24"/>
+    <TreeNode Title="C12C7/26 #冷却啤酒麦芽汁；在冷却期间或冷却后澄清啤酒麦芽汁[6]" Target="frmContent" Href="../searchservlet?query=C12C7/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12C7/26"/>
+    <TreeNode Title="C12C7/28 #后处理[6]" Target="frmContent" Href="../searchservlet?query=C12C7/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12C7/28"/>
+  </TreeNode>
+  <TreeNode Title="C12C11/00 啤酒发酵方法" Target="frmContent" Href="../searchservlet?query=C12C11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12C11/00">
+    <TreeNode Title="C12C11/02 #接种酵母" Target="frmContent" Href="../searchservlet?query=C12C11/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12C11/02"/>
+    <TreeNode Title="C12C11/06 #麦芽汁的酸化" Target="frmContent" Href="../searchservlet?query=C12C11/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12C11/06"/>
+    <TreeNode Title="C12C11/07 #连续发酵[6]" Target="frmContent" Href="../searchservlet?query=C12C11/07&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12C11/07"/>
+    <TreeNode Title="C12C11/09 #用固定化酵母进行发酵[6]" Target="frmContent" Href="../searchservlet?query=C12C11/09&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12C11/09"/>
+    <TreeNode Title="C12C11/11 #发酵后处理，例如碳化、浓缩(C12H优先；用于专用于使饮料起泡的方法的容器入B65D 85/73)[6]" Target="frmContent" Href="../searchservlet?query=C12C11/11&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12C11/11"/>
+  </TreeNode>
+  <TreeNode Title="C12C12/00 专门适用于制备特殊种类啤酒的方法[6]" Target="frmContent" Href="../searchservlet?query=C12C12/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12C12/00">
+    <TreeNode Title="C12C12/02 #含低能量的啤酒(C12C 12/04优先)[6]" Target="frmContent" Href="../searchservlet?query=C12C12/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12C12/02"/>
+    <TreeNode Title="C12C12/04 #含低酒精的啤酒(酒精的去除入C12H 3/00)[6]" Target="frmContent" Href="../searchservlet?query=C12C12/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12C12/04"/>
+  </TreeNode>
+  <TreeNode Title="C12C13/00 酿造装置，不包含在C12C 1/00至C12C 12/04的任意一个单独的组内[3，6]" Target="frmContent" Href="../searchservlet?query=C12C13/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12C13/00">
+    <TreeNode Title="C12C13/02 #酿造锅[3]" Target="frmContent" Href="../searchservlet?query=C12C13/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12C13/02">
+      <TreeNode Title="C12C13/06 ##用火加热[3]" Target="frmContent" Href="../searchservlet?query=C12C13/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12C13/06"/>
+      <TreeNode Title="C12C13/08 ##用内部加热元件[6]" Target="frmContent" Href="../searchservlet?query=C12C13/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12C13/08"/>
+    </TreeNode>
+    <TreeNode Title="C12C13/10 #家用酿造设备[6]" Target="frmContent" Href="../searchservlet?query=C12C13/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12C13/10"/>
+  </TreeNode>
+</Root>

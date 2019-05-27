@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="B25F1/00 组合或多用途手动工具(有一个轻便机动装置用于加工不同工序的工具组合入B25F 3/00)" Target="frmContent" Href="../searchservlet?query=B25F1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B25F1/00">
+    <TreeNode Title="B25F1/02 #有可更换或可调整的工具元件" Target="frmContent" Href="../searchservlet?query=B25F1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B25F1/02">
+      <TreeNode Title="B25F1/04 ##其中元件用绕枢轴转动或滑动进入加工位置" Target="frmContent" Href="../searchservlet?query=B25F1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B25F1/04"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="B25F3/00 有一个轻便机动装置用于加工不同工序的工具组合；所用的转接器" Target="frmContent" Href="../searchservlet?query=B25F3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B25F3/00"/>
+  <TreeNode Title="B25F5/00 与执行操作无特殊关联的和其他类目不包括的轻便机动工具的零件或部件[4]" Target="frmContent" Href="../searchservlet?query=B25F5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B25F5/00">
+    <TreeNode Title="B25F5/02 #外壳、机体或手柄的结构[4]" Target="frmContent" Href="../searchservlet?query=B25F5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B25F5/02"/>
+  </TreeNode>
+</Root>

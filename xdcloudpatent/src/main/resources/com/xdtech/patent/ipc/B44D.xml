@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="B44D2/00 艺术绘画或艺术图，例如油画、水彩画、着色粉笔画、立体画中的专门技术[2]" Target="frmContent" Href="../searchservlet?query=B44D2/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B44D2/00"/>
+  <TreeNode Title="B44D3/00 其他类目不包含的，用于绘画或艺术图的辅助装置或器具(用于在表面上涂液，例如涂料的手工工具入B05C 17/00；用于在建筑物上而不是在绘画上进行修饰加工的器具入E04F 21/00)；用于颜色鉴定，选用或合成的方法或装置，例如使用色板(比色计入G01 J 3/00)[2]" Target="frmContent" Href="../searchservlet?query=B44D3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B44D3/00">
+    <TreeNode Title="B44D3/02 #调色板" Target="frmContent" Href="../searchservlet?query=B44D3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B44D3/02"/>
+    <TreeNode Title="B44D3/04 #颜料盒" Target="frmContent" Href="../searchservlet?query=B44D3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B44D3/04"/>
+    <TreeNode Title="B44D3/06 #用于搅拌或混合颜料的器具(一般混合入B01F)" Target="frmContent" Href="../searchservlet?query=B44D3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B44D3/06">
+      <TreeNode Title="B44D3/08 ##用于液态或半液态颜料的" Target="frmContent" Href="../searchservlet?query=B44D3/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B44D3/08"/>
+      <TreeNode Title="B44D3/10 ##筛子；刮刀" Target="frmContent" Href="../searchservlet?query=B44D3/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B44D3/10"/>
+    </TreeNode>
+    <TreeNode Title="B44D3/12 #涂料罐；刷夹；贮存剩余涂料的容器" Target="frmContent" Href="../searchservlet?query=B44D3/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B44D3/12">
+      <TreeNode Title="B44D3/14 ##涂料罐架" Target="frmContent" Href="../searchservlet?query=B44D3/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B44D3/14"/>
+    </TreeNode>
+    <TreeNode Title="B44D3/16 #用于从表面上清除干涂料的器具或装置，例如通过刮除，通过燃烧(化学涂料清除器入C09D 9/00)[2]" Target="frmContent" Href="../searchservlet?query=B44D3/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B44D3/16"/>
+    <TreeNode Title="B44D3/18 #备有绘画或画图表面的板或片；用于油画布的伸展架[2]" Target="frmContent" Href="../searchservlet?query=B44D3/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B44D3/18"/>
+    <TreeNode Title="B44D3/22 #用于特殊技巧的器具或装置，例如用于绘画线条的、用于加漆的；蜡染笔" Target="frmContent" Href="../searchservlet?query=B44D3/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B44D3/22"/>
+    <TreeNode Title="B44D3/24 #烤漆灯；画家用带；用于溶解干颜料的装置，加热颜料的装置[2]" Target="frmContent" Href="../searchservlet?query=B44D3/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B44D3/24"/>
+    <TreeNode Title="B44D3/38 #粉绳画线装置" Target="frmContent" Href="../searchservlet?query=B44D3/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B44D3/38"/>
+  </TreeNode>
+  <TreeNode Title="B44D5/00 为获得特殊艺术表面效果或修饰的表面处理(通过涂液的涂层表面预处理或后处理入B05D 3/00；通过在表面上涂液或其他流态材料获得特殊表面效果入B05D 5/00；塑料表面成型，例如压花入B29C 59/00)[2]" Target="frmContent" Href="../searchservlet?query=B44D5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B44D5/00">
+    <TreeNode Title="B44D5/10 #机械处理" Target="frmContent" Href="../searchservlet?query=B44D5/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B44D5/10"/>
+  </TreeNode>
+  <TreeNode Title="B44D7/00 保藏绘画，例如通过涂漆" Target="frmContent" Href="../searchservlet?query=B44D7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B44D7/00"/>
+</Root>

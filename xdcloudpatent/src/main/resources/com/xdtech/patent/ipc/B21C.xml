@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="B21C1/00 用拉拔方式制造金属板、线、棒、管或类似半成品" Target="frmContent" Href="../searchservlet?query=B21C1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21C1/00">
+    <TreeNode Title="B21C1/02 #用拉丝机或拉丝装置拉拔金属线或类似的柔性金属材料，其中拉拔动作是用卷筒来实现的" Target="frmContent" Href="../searchservlet?query=B21C1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21C1/02">
+      <TreeNode Title="B21C1/04 ##有两个或多个成系列操作的拉丝模" Target="frmContent" Href="../searchservlet?query=B21C1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21C1/04">
+        <TreeNode Title="B21C1/06 ###其中材料在卷筒上滑动" Target="frmContent" Href="../searchservlet?query=B21C1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21C1/06"/>
+        <TreeNode Title="B21C1/08 ###其中材料在卷筒上不滑动" Target="frmContent" Href="../searchservlet?query=B21C1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21C1/08">
+          <TreeNode Title="B21C1/10 ####在两个相邻拉丝模间有材料储存装置" Target="frmContent" Href="../searchservlet?query=B21C1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21C1/10"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="B21C1/12 ##拉拔卷筒速度的调节或控制，如为了影响张力；传动装置；停止或释放机构(用于卷筒的联轴器入B21C 1/14；电器设备的设计或构造见有关类)" Target="frmContent" Href="../searchservlet?query=B21C1/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21C1/12"/>
+      <TreeNode Title="B21C1/14 ##卷筒，如绞盘(绞盘或绞车一般入B66D)；其夹爪的连接；专门适用于卷筒型拉拔机或拉拔装置的夹爪；专门适用于这些卷筒的联轴器" Target="frmContent" Href="../searchservlet?query=B21C1/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21C1/14"/>
+    </TreeNode>
+    <TreeNode Title="B21C1/16 #使用机器或装置的金属拉拔，其中拉拔作用是用除卷筒外的其他方法来实现的，如用纵向运动的滑动架拉或推用于制造金属板、棒或管的工件或原材料" Target="frmContent" Href="../searchservlet?query=B21C1/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21C1/16">
+      <TreeNode Title="B21C1/18 ##用长度限定的原材料(B21C 1/22优先)" Target="frmContent" Href="../searchservlet?query=B21C1/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21C1/18"/>
+      <TreeNode Title="B21C1/20 ##用长度基本不限定的原材料(B21C 1/22优先)" Target="frmContent" Href="../searchservlet?query=B21C1/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21C1/20"/>
+      <TreeNode Title="B21C1/22 ##专门适用于制造管状制品(通过拉拔将金属板弯成管形入B21D 5/10)" Target="frmContent" Href="../searchservlet?query=B21C1/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21C1/22">
+        <TreeNode Title="B21C1/24 ###使用心轴(心轴入B21C 3/16)" Target="frmContent" Href="../searchservlet?query=B21C1/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21C1/24">
+          <TreeNode Title="B21C1/26 ####顶管机拉拔" Target="frmContent" Href="../searchservlet?query=B21C1/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21C1/26"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="B21C1/27 ##滑动架；传动装置" Target="frmContent" Href="../searchservlet?query=B21C1/27&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21C1/27">
+        <TreeNode Title="B21C1/28 ###滑动架；其夹爪的连接；夹爪(用于卷筒型拉丝机的入B21C 1/14)" Target="frmContent" Href="../searchservlet?query=B21C1/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21C1/28"/>
+        <TreeNode Title="B21C1/30 ###传动装置，如滑动架移动机构；传动元件，如拉拔链，传动装置的控制" Target="frmContent" Href="../searchservlet?query=B21C1/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21C1/30"/>
+      </TreeNode>
+      <TreeNode Title="B21C1/32 ##材料或心轴的进给或脱卸" Target="frmContent" Href="../searchservlet?query=B21C1/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21C1/32"/>
+      <TreeNode Title="B21C1/34 ##材料或心轴的导向或支承" Target="frmContent" Href="../searchservlet?query=B21C1/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21C1/34"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="B21C3/00 金属拉拔的成型工具；金属拉拨的拉丝模和心轴的组合" Target="frmContent" Href="../searchservlet?query=B21C3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21C3/00">
+    <TreeNode Title="B21C3/02 #拉丝模；其适用的材料的选择；其清洗" Target="frmContent" Href="../searchservlet?query=B21C3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21C3/02">
+      <TreeNode Title="B21C3/04 ##有不可调截面的(B21C 3/08优先)" Target="frmContent" Href="../searchservlet?query=B21C3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21C3/04"/>
+      <TreeNode Title="B21C3/06 ##有可调截面的(B21C 3/08优先)" Target="frmContent" Href="../searchservlet?query=B21C3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21C3/06"/>
+      <TreeNode Title="B21C3/08 ##有由滚柱、滚珠或类似零件限定的截面" Target="frmContent" Href="../searchservlet?query=B21C3/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21C3/08"/>
+      <TreeNode Title="B21C3/10 ##有液压力直接作用于工件的" Target="frmContent" Href="../searchservlet?query=B21C3/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21C3/10"/>
+      <TreeNode Title="B21C3/12 ##模座，旋转模" Target="frmContent" Href="../searchservlet?query=B21C3/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21C3/12">
+        <TreeNode Title="B21C3/14 ###与拉拔材料的导向设备连接的模座或与冷却、加热、润滑设备连接的模座" Target="frmContent" Href="../searchservlet?query=B21C3/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21C3/14"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="B21C3/16 #心轴(从工件上卸除心轴入B21C 45/00)；其安装或调整" Target="frmContent" Href="../searchservlet?query=B21C3/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21C3/16"/>
+    <TreeNode Title="B21C3/18 #用不包含在其他单一小类的加工方法制造工具；修理" Target="frmContent" Href="../searchservlet?query=B21C3/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21C3/18"/>
+  </TreeNode>
+  <TreeNode Title="B21C5/00 压尖或强制压尖的拉拔工件或拉拔材料" Target="frmContent" Href="../searchservlet?query=B21C5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21C5/00"/>
+  <TreeNode Title="B21C9/00 拉拔材料的冷却、加热或润滑(B21C 3/14优先)" Target="frmContent" Href="../searchservlet?query=B21C9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21C9/00">
+    <TreeNode Title="B21C9/02 #其成分的选择" Target="frmContent" Href="../searchservlet?query=B21C9/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21C9/02"/>
+  </TreeNode>
+  <TreeNode Title="B21C19/00 配置于或专门适用于与拉丝或绕线机械或装置联用的线材或类似工件的矫直设备" Target="frmContent" Href="../searchservlet?query=B21C19/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21C19/00"/>
+  <TreeNode Title="B21C23/00 金属挤压；冲挤" Target="frmContent" Href="../searchservlet?query=B21C23/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21C23/00">
+    <TreeNode Title="B21C23/01 #由特殊形状材料，如经过机械预处理的材料开始的(B21C 23/22优先；热处理或热处理与机械加工组合见适当大类)" Target="frmContent" Href="../searchservlet?query=B21C23/01&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21C23/01"/>
+    <TreeNode Title="B21C23/02 #制造无包覆层产品" Target="frmContent" Href="../searchservlet?query=B21C23/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21C23/02">
+      <TreeNode Title="B21C23/03 ##同时使用正向和反向挤压的" Target="frmContent" Href="../searchservlet?query=B21C23/03&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21C23/03"/>
+      <TreeNode Title="B21C23/04 ##用正向挤压的" Target="frmContent" Href="../searchservlet?query=B21C23/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21C23/04">
+        <TreeNode Title="B21C23/06 ###制板" Target="frmContent" Href="../searchservlet?query=B21C23/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21C23/06"/>
+        <TreeNode Title="B21C23/08 ###制造线、棒或管" Target="frmContent" Href="../searchservlet?query=B21C23/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21C23/08">
+          <TreeNode Title="B21C23/10 ####制造翅片管" Target="frmContent" Href="../searchservlet?query=B21C23/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21C23/10"/>
+          <TreeNode Title="B21C23/12 ####挤压弯管或弯棒" Target="frmContent" Href="../searchservlet?query=B21C23/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21C23/12"/>
+        </TreeNode>
+        <TreeNode Title="B21C23/14 ###制造其他产品" Target="frmContent" Href="../searchservlet?query=B21C23/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21C23/14">
+          <TreeNode Title="B21C23/16 ####制造涡轮叶片或螺旋桨" Target="frmContent" Href="../searchservlet?query=B21C23/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21C23/16"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="B21C23/18 ##用冲挤的[2]" Target="frmContent" Href="../searchservlet?query=B21C23/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21C23/18"/>
+      <TreeNode Title="B21C23/20 ##用反向挤压" Target="frmContent" Href="../searchservlet?query=B21C23/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21C23/20"/>
+    </TreeNode>
+    <TreeNode Title="B21C23/21 #专门用于金属挤压的压力机(挤压压力机一般入B30B 11/22)" Target="frmContent" Href="../searchservlet?query=B21C23/21&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21C23/21"/>
+    <TreeNode Title="B21C23/22 #制造有金属包覆层的产品；由两种或多种金属制造产品" Target="frmContent" Href="../searchservlet?query=B21C23/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21C23/22">
+      <TreeNode Title="B21C23/24 ##用金属包覆层覆盖长度不定的金属或非金属材料" Target="frmContent" Href="../searchservlet?query=B21C23/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21C23/24">
+        <TreeNode Title="B21C23/26 ###用于缆索的金属包覆，如用于绝缘电缆" Target="frmContent" Href="../searchservlet?query=B21C23/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21C23/26">
+          <TreeNode Title="B21C23/28 ####在间歇加工的挤压机上" Target="frmContent" Href="../searchservlet?query=B21C23/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21C23/28"/>
+          <TreeNode Title="B21C23/30 ####在连续加工的挤压机上" Target="frmContent" Href="../searchservlet?query=B21C23/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21C23/30"/>
+        </TreeNode>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="B21C23/32 #被挤压金属或模具或类似零件的润滑，如润滑剂的物理状态，加润滑剂的适宜位置(化学成分见有关类)" Target="frmContent" Href="../searchservlet?query=B21C23/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21C23/32"/>
+  </TreeNode>
+  <TreeNode Title="B21C25/00 金属挤压的成型工具" Target="frmContent" Href="../searchservlet?query=B21C25/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21C25/00">
+    <TreeNode Title="B21C25/02 #模具" Target="frmContent" Href="../searchservlet?query=B21C25/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21C25/02"/>
+    <TreeNode Title="B21C25/04 #心轴" Target="frmContent" Href="../searchservlet?query=B21C25/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21C25/04"/>
+    <TreeNode Title="B21C25/06 #用于工件包覆的压头、模具或心轴" Target="frmContent" Href="../searchservlet?query=B21C25/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21C25/06"/>
+    <TreeNode Title="B21C25/08 #在挤压期间截面可变的模具或心轴，如用于制造锥形工件；变化的控制" Target="frmContent" Href="../searchservlet?query=B21C25/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21C25/08"/>
+    <TreeNode Title="B21C25/10 #用不包含在其他单一小类中的加工方法制造工具" Target="frmContent" Href="../searchservlet?query=B21C25/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21C25/10"/>
+  </TreeNode>
+  <TreeNode Title="B21C26/00 金属挤压的压头或冲杆；其适用的垫盘[2]" Target="frmContent" Href="../searchservlet?query=B21C26/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21C26/00"/>
+  <TreeNode Title="B21C27/00 用于待挤压金属的容器(B21C 29/02优先)" Target="frmContent" Href="../searchservlet?query=B21C27/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21C27/00">
+    <TreeNode Title="B21C27/02 #用于制造有包覆层的工件" Target="frmContent" Href="../searchservlet?query=B21C27/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21C27/02"/>
+    <TreeNode Title="B21C27/04 #金属容器室的通气" Target="frmContent" Href="../searchservlet?query=B21C27/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21C27/04"/>
+  </TreeNode>
+  <TreeNode Title="B21C29/00 挤压工件或挤压机部件的冷却或加热" Target="frmContent" Href="../searchservlet?query=B21C29/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21C29/00">
+    <TreeNode Title="B21C29/02 #用于待挤压金属的容器的" Target="frmContent" Href="../searchservlet?query=B21C29/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21C29/02"/>
+    <TreeNode Title="B21C29/04 #用于压头、模具或心轴的" Target="frmContent" Href="../searchservlet?query=B21C29/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21C29/04"/>
+  </TreeNode>
+  <TreeNode Title="B21C31/00 金属挤压的控制设备，如用于调节挤压速度或金属温度的(B21C 25/08优先)；连接于或专门用于挤压机上的测量设备，如测量金属温度的(B21C小类内更一般的测量设备见组B21C 51/00)" Target="frmContent" Href="../searchservlet?query=B21C31/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21C31/00"/>
+  <TreeNode Title="B21C33/00 把待挤压金属供给挤压机" Target="frmContent" Href="../searchservlet?query=B21C33/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21C33/00">
+    <TreeNode Title="B21C33/02 #液态金属" Target="frmContent" Href="../searchservlet?query=B21C33/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21C33/02"/>
+  </TreeNode>
+  <TreeNode Title="B21C35/00 从挤压机中清除工件或废料；被挤压工件的拉卸(有关弯曲的管或棒的挤压入B21C 23/12)；金属挤压的模具、管道、容器、心轴的清洗[2]" Target="frmContent" Href="../searchservlet?query=B21C35/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21C35/00">
+    <TreeNode Title="B21C35/02 #工件的清除或拉卸" Target="frmContent" Href="../searchservlet?query=B21C35/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21C35/02">
+      <TreeNode Title="B21C35/03 ##工件的矫直(金属矫直一般入B21D)" Target="frmContent" Href="../searchservlet?query=B21C35/03&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21C35/03"/>
+    </TreeNode>
+    <TreeNode Title="B21C35/04 #废料的切除或清除" Target="frmContent" Href="../searchservlet?query=B21C35/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21C35/04"/>
+    <TreeNode Title="B21C35/06 #模具、管道、容器或心轴的清洗[2]" Target="frmContent" Href="../searchservlet?query=B21C35/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21C35/06"/>
+  </TreeNode>
+  <TreeNode Title="B21C37/00 不包含在其他类目中的金属板、棒、线、管、型材或类似零件的半成品的制造(用轧制方法入B21B；加工或处理金属板、型材、管、线材的半成品入B21D，B21F；用铸造方法入B22；用切削机床入B23；用焊接，如包层或镀敷入B23K；用磨削或抛光入B24；用电成型入C25D 1/00；)；特殊形状管的制造[2]" Target="frmContent" Href="../searchservlet?query=B21C37/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21C37/00">
+    <TreeNode Title="B21C37/02 #板的" Target="frmContent" Href="../searchservlet?query=B21C37/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21C37/02"/>
+    <TreeNode Title="B21C37/04 #棒或线的" Target="frmContent" Href="../searchservlet?query=B21C37/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21C37/04"/>
+    <TreeNode Title="B21C37/06 #管或金属软管的；用于制造管的组合加工程序，如多壁管的制造(用于制管的弯板入B21D 5/00；用折叠合缝入B21D 39/02)" Target="frmContent" Href="../searchservlet?query=B21C37/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21C37/06">
+      <TreeNode Title="B21C37/08 ##带钎焊或焊接缝的管的制造(只包含一种钎焊或焊接加工的入B23K)" Target="frmContent" Href="../searchservlet?query=B21C37/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21C37/08">
+        <TreeNode Title="B21C37/083 ###带材的供给或与供给的工序结合的" Target="frmContent" Href="../searchservlet?query=B21C37/083&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21C37/083"/>
+        <TreeNode Title="B21C37/087 ###使用棒状或条状钎焊材料的" Target="frmContent" Href="../searchservlet?query=B21C37/087&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21C37/087"/>
+        <TreeNode Title="B21C37/09 ###有包覆层条状材料的" Target="frmContent" Href="../searchservlet?query=B21C37/09&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21C37/09"/>
+      </TreeNode>
+      <TreeNode Title="B21C37/10 ##有铆缝的管的制造" Target="frmContent" Href="../searchservlet?query=B21C37/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21C37/10"/>
+      <TreeNode Title="B21C37/12 ##有螺旋缝的管或金属软管的制造" Target="frmContent" Href="../searchservlet?query=B21C37/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21C37/12"/>
+      <TreeNode Title="B21C37/14 ##由双层平板材料制造管" Target="frmContent" Href="../searchservlet?query=B21C37/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21C37/14"/>
+      <TreeNode Title="B21C37/15 ##特殊形状管的制造；管接头的制造" Target="frmContent" Href="../searchservlet?query=B21C37/15&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21C37/15">
+        <TreeNode Title="B21C37/16 ###纵向变直径管的制造" Target="frmContent" Href="../searchservlet?query=B21C37/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21C37/16">
+          <TreeNode Title="B21C37/18 ####锥形管" Target="frmContent" Href="../searchservlet?query=B21C37/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21C37/18"/>
+        </TreeNode>
+        <TreeNode Title="B21C37/20 ###用无切削加工方法在管内或管上制造螺旋形或类似的导向槽，如通过心轴拉拔或通过模具推压" Target="frmContent" Href="../searchservlet?query=B21C37/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21C37/20"/>
+        <TreeNode Title="B21C37/22 ###将带材或类似材料固定在管上，用以制造翅片管或肋片管(热交换器的制造入B21D 53/02)" Target="frmContent" Href="../searchservlet?query=B21C37/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21C37/22">
+          <TreeNode Title="B21C37/24 ####环形肋片管" Target="frmContent" Href="../searchservlet?query=B21C37/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21C37/24"/>
+          <TreeNode Title="B21C37/26 ####螺旋形肋片管" Target="frmContent" Href="../searchservlet?query=B21C37/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21C37/26"/>
+        </TreeNode>
+        <TreeNode Title="B21C37/28 ###连接管子用的管接头的制造，如U形管接头" Target="frmContent" Href="../searchservlet?query=B21C37/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21C37/28">
+          <TreeNode Title="B21C37/29 ####制造支管管件，如T形管接头" Target="frmContent" Href="../searchservlet?query=B21C37/29&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21C37/29"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="B21C37/30 ##管的精加工，如定径、抛光" Target="frmContent" Href="../searchservlet?query=B21C37/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21C37/30"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="B21C43/00 配置于或专门适用于包含在这一小类中的机械或装置的清洗金属产品的装置" Target="frmContent" Href="../searchservlet?query=B21C43/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21C43/00">
+    <TreeNode Title="B21C43/02 #配置于或专门适用于拉拔或卷绕机械或装置的" Target="frmContent" Href="../searchservlet?query=B21C43/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21C43/02">
+      <TreeNode Title="B21C43/04 ##用于线材或类似的柔性工件的除鳞设备" Target="frmContent" Href="../searchservlet?query=B21C43/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21C43/04"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="B21C45/00 从工件上脱卸心轴，或反之" Target="frmContent" Href="../searchservlet?query=B21C45/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21C45/00"/>
+  <TreeNode Title="B21C47/00 金属线、金属带或其他柔性金属材料的卷紧、卷绕或开卷，仅以与金属加工有关的特点为特征的(将线卷绕成特殊形状入B21F 3/00；有关热处理装置的热卷绕器入C21D 9/68)" Target="frmContent" Href="../searchservlet?query=B21C47/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21C47/00">
+    <TreeNode Title="B21C47/02 #卷紧或卷绕" Target="frmContent" Href="../searchservlet?query=B21C47/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21C47/02">
+      <TreeNode Title="B21C47/04 ##在卷轴或放卷筒上或在里面，不用移动的导向器(卷轴和转鼓入B21C 47/28)" Target="frmContent" Href="../searchservlet?query=B21C47/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21C47/04">
+        <TreeNode Title="B21C47/06 ###在卷轴或卷筒上有夹固材料的加载滚筒、螺栓或等效装置" Target="frmContent" Href="../searchservlet?query=B21C47/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21C47/06"/>
+      </TreeNode>
+      <TreeNode Title="B21C47/08 ##不用卷轴或卷筒，第一圈由固定的导向器形成" Target="frmContent" Href="../searchservlet?query=B21C47/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21C47/08"/>
+      <TreeNode Title="B21C47/10 ##用移动的导向器" Target="frmContent" Href="../searchservlet?query=B21C47/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21C47/10">
+        <TreeNode Title="B21C47/12 ###导向器平行于卷的轴线移动(B21C 47/14优先)" Target="frmContent" Href="../searchservlet?query=B21C47/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21C47/12"/>
+        <TreeNode Title="B21C47/14 ###用转动的导向器，如将材料环绕在固定的卷轴或卷筒盘上" Target="frmContent" Href="../searchservlet?query=B21C47/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21C47/14"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="B21C47/16 #解绕或开卷" Target="frmContent" Href="../searchservlet?query=B21C47/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21C47/16">
+      <TreeNode Title="B21C47/18 ##从卷轴或卷筒上" Target="frmContent" Href="../searchservlet?query=B21C47/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21C47/18">
+        <TreeNode Title="B21C47/20 ###被解绕的材料的运动垂直于卷筒的切线，如轴向，径向" Target="frmContent" Href="../searchservlet?query=B21C47/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21C47/20"/>
+      </TreeNode>
+      <TreeNode Title="B21C47/22 ##不用卷轴盘或卷筒的解绕卷材" Target="frmContent" Href="../searchservlet?query=B21C47/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21C47/22"/>
+    </TreeNode>
+    <TreeNode Title="B21C47/24 #将卷材转移到卷绕设备上或从该设备上转下来，或将卷材转移到加工位置或从该位置转出；转移中防止解卷" Target="frmContent" Href="../searchservlet?query=B21C47/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21C47/24"/>
+    <TreeNode Title="B21C47/26 #同时或接连进行处理材料的专门装置" Target="frmContent" Href="../searchservlet?query=B21C47/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21C47/26"/>
+    <TreeNode Title="B21C47/28 #卷筒或其他线架(抓爪装置入B21C 47/32)" Target="frmContent" Href="../searchservlet?query=B21C47/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21C47/28">
+      <TreeNode Title="B21C47/30 ##可扩径的或可收缩的" Target="frmContent" Href="../searchservlet?query=B21C47/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21C47/30"/>
+    </TreeNode>
+    <TreeNode Title="B21C47/32 #专门适合于卷绕的夹钳或抓爪装置" Target="frmContent" Href="../searchservlet?query=B21C47/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21C47/32"/>
+    <TreeNode Title="B21C47/34 #非专门适合于某一特殊型式设备的进料或导向装置" Target="frmContent" Href="../searchservlet?query=B21C47/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21C47/34"/>
+  </TreeNode>
+  <TreeNode Title="B21C49/00 用于暂时聚积材料的设备" Target="frmContent" Href="../searchservlet?query=B21C49/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21C49/00"/>
+  <TreeNode Title="B21C51/00 专门适用于按照B21B至B21F中生产或处理材料的测量、检验、指示、计数或打标记的设备" Target="frmContent" Href="../searchservlet?query=B21C51/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21C51/00"/>
+  <TreeNode Title="B21C99/00 本小类其他各组中不包括的技术主题[2009.01]" Target="frmContent" Href="../searchservlet?query=B21C99/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21C99/00"/>
+</Root>

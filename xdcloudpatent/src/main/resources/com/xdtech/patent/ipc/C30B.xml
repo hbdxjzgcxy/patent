@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="C30B1/00 直接自固体的单晶生长(共析材料的定向分层入C30B 3/00；在保护流体下的入C30B 27/00)[3]" Target="frmContent" Href="../searchservlet?query=C30B1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B1/00">
+    <TreeNode Title="C30B1/02 #热处理法，例如应变退火(C30B 1/12优先)[3]" Target="frmContent" Href="../searchservlet?query=C30B1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B1/02">
+      <TreeNode Title="C30B1/04 ##等温重结晶[3]" Target="frmContent" Href="../searchservlet?query=C30B1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B1/04"/>
+      <TreeNode Title="C30B1/06 ##温度梯度下的重结晶[3]" Target="frmContent" Href="../searchservlet?query=C30B1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B1/06">
+        <TreeNode Title="C30B1/08 ###区熔重结晶[3]" Target="frmContent" Href="../searchservlet?query=C30B1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B1/08"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="C30B1/10 #固相反应法或多相扩散法[3]" Target="frmContent" Href="../searchservlet?query=C30B1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B1/10"/>
+    <TreeNode Title="C30B1/12 #生长期间的压力处理法[3]" Target="frmContent" Href="../searchservlet?query=C30B1/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B1/12"/>
+  </TreeNode>
+  <TreeNode Title="C30B3/00 共析材料的定向分层[3]" Target="frmContent" Href="../searchservlet?query=C30B3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B3/00"/>
+  <TreeNode Title="C30B5/00 凝胶的单晶生长(在保护流体下的入C30B 27/00)[3]" Target="frmContent" Href="../searchservlet?query=C30B5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B5/00">
+    <TreeNode Title="C30B5/02 #添加掺杂材料的[3]" Target="frmContent" Href="../searchservlet?query=C30B5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B5/02"/>
+  </TreeNode>
+  <TreeNode Title="C30B7/00 常温液态溶剂之溶液，例如水溶液的单晶生长(用熔融溶剂的入C30B 9/00)；用正常凝固法或温度梯度凝固法的入C30B 11/00；在保护流体下的入C30B 27/00)[3]" Target="frmContent" Href="../searchservlet?query=C30B7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B7/00">
+    <TreeNode Title="C30B7/02 #溶剂蒸发法[3]" Target="frmContent" Href="../searchservlet?query=C30B7/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B7/02">
+      <TreeNode Title="C30B7/04 ##用水溶剂的[3]" Target="frmContent" Href="../searchservlet?query=C30B7/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B7/04"/>
+      <TreeNode Title="C30B7/06 ##用非水溶剂的[3]" Target="frmContent" Href="../searchservlet?query=C30B7/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B7/06"/>
+    </TreeNode>
+    <TreeNode Title="C30B7/08 #溶液冷却法[3]" Target="frmContent" Href="../searchservlet?query=C30B7/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B7/08"/>
+    <TreeNode Title="C30B7/10 #加压法，例如水热法[3]" Target="frmContent" Href="../searchservlet?query=C30B7/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B7/10"/>
+    <TreeNode Title="C30B7/12 #电解法[3]" Target="frmContent" Href="../searchservlet?query=C30B7/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B7/12"/>
+    <TreeNode Title="C30B7/14 #由溶液中的化学反应生成的结晶化材料[3]" Target="frmContent" Href="../searchservlet?query=C30B7/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B7/14"/>
+  </TreeNode>
+  <TreeNode Title="C30B9/00 使用熔融态溶剂之熔体的单晶生长(用正常凝固法或温度梯度凝固法的入C30B 11/00；用区域熔融法的入C30B 13/00；晶体提拉法入C30B 15/00；在浸入的晶种上的入C30B 17/00；液相外延生长法入C30B 19/00；在保护流体下的入C30B 27/00)[3]" Target="frmContent" Href="../searchservlet?query=C30B9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B9/00">
+    <TreeNode Title="C30B9/02 #熔融态溶剂的蒸发法[3]" Target="frmContent" Href="../searchservlet?query=C30B9/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B9/02"/>
+    <TreeNode Title="C30B9/04 #熔融溶液冷却法[3]" Target="frmContent" Href="../searchservlet?query=C30B9/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B9/04">
+      <TreeNode Title="C30B9/06 ##使用晶体组成之一种组分作溶剂的[3]" Target="frmContent" Href="../searchservlet?query=C30B9/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B9/06"/>
+      <TreeNode Title="C30B9/08 ##使用其他溶剂的[3]" Target="frmContent" Href="../searchservlet?query=C30B9/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B9/08">
+        <TreeNode Title="C30B9/10 ###金属溶剂[3]" Target="frmContent" Href="../searchservlet?query=C30B9/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B9/10"/>
+        <TreeNode Title="C30B9/12 ###盐溶剂，例如助熔剂生长[3]" Target="frmContent" Href="../searchservlet?query=C30B9/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B9/12"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="C30B9/14 #电解法[3]" Target="frmContent" Href="../searchservlet?query=C30B9/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B9/14"/>
+  </TreeNode>
+  <TreeNode Title="C30B11/00 正常凝固法或温度梯度凝固法的单晶生长，例如晶体生长坩埚下降法Bridgman-Stockbarger法(C30B 13/00，C30B 15/00，C30B 17/00，C30B 19/00优先；保护流体下的入C30B 27/00)[3]" Target="frmContent" Href="../searchservlet?query=C30B11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B11/00">
+    <TreeNode Title="C30B11/02 #不使用溶剂的(C30B 11/06)[3]" Target="frmContent" Href="../searchservlet?query=C30B11/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B11/02"/>
+    <TreeNode Title="C30B11/04 #熔体中添加结晶化材料或添加在反应过程中就地生成结晶化材料之反应物的[3]" Target="frmContent" Href="../searchservlet?query=C30B11/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B11/04">
+      <TreeNode Title="C30B11/06 ##至少有一种但非晶体成分之全部组分是添加的[3]" Target="frmContent" Href="../searchservlet?query=C30B11/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B11/06"/>
+      <TreeNode Title="C30B11/08 ##晶体成分的所有组分均是在结晶化过程中添加的[3]" Target="frmContent" Href="../searchservlet?query=C30B11/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B11/08">
+        <TreeNode Title="C30B11/10 ###固态组分或液态组分，例如焰熔法[3]" Target="frmContent" Href="../searchservlet?query=C30B11/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B11/10"/>
+        <TreeNode Title="C30B11/12 ###气化态组分，例如气化相-液相-固相生长[3]" Target="frmContent" Href="../searchservlet?query=C30B11/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B11/12"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="C30B11/14 #以籽晶(例如其结晶取向)为特征的[3]" Target="frmContent" Href="../searchservlet?query=C30B11/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B11/14"/>
+  </TreeNode>
+  <TreeNode Title="C30B13/00 区域熔融法单晶生长；区域熔融法精炼(C30B 17/00优先；改变所处理固体之横截面的入C30B 15/00；在保护流体下的入C30B 27/00；具有一定结构的均匀多晶材料的生长入C30B 28/00；特定材料的区域精炼，见该材料的相应小类)[3，5]" Target="frmContent" Href="../searchservlet?query=C30B13/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B13/00">
+    <TreeNode Title="C30B13/02 #用溶剂的区域熔化，例如移动溶剂法[3]" Target="frmContent" Href="../searchservlet?query=C30B13/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B13/02"/>
+    <TreeNode Title="C30B13/04 #区熔匀化法的均质化[3]" Target="frmContent" Href="../searchservlet?query=C30B13/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B13/04"/>
+    <TreeNode Title="C30B13/06 #不遍及整个横截面的熔融区[3]" Target="frmContent" Href="../searchservlet?query=C30B13/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B13/06"/>
+    <TreeNode Title="C30B13/08 #熔融区中添加结晶化材料或添加在反应过程中就地生成结晶化材料之反应物的[3]" Target="frmContent" Href="../searchservlet?query=C30B13/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B13/08">
+      <TreeNode Title="C30B13/10 ##同时添加掺杂材料的[3]" Target="frmContent" Href="../searchservlet?query=C30B13/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B13/10">
+        <TreeNode Title="C30B13/12 ###以气态或气化态的[3]" Target="frmContent" Href="../searchservlet?query=C30B13/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B13/12"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="C30B13/14 #坩埚或舟皿[3]" Target="frmContent" Href="../searchservlet?query=C30B13/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B13/14"/>
+    <TreeNode Title="C30B13/16 #熔融区的加热[3]" Target="frmContent" Href="../searchservlet?query=C30B13/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B13/16">
+      <TreeNode Title="C30B13/18 ##接触或浸入熔融区域的加热元件[3]" Target="frmContent" Href="../searchservlet?query=C30B13/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B13/18"/>
+      <TreeNode Title="C30B13/20 ##感应法，例如热线式法(C30B 13/18优先)[3]" Target="frmContent" Href="../searchservlet?query=C30B13/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B13/20"/>
+      <TreeNode Title="C30B13/22 ##辐射法或放电法[3]" Target="frmContent" Href="../searchservlet?query=C30B13/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B13/22">
+        <TreeNode Title="C30B13/24 ###使用电磁波的[3]" Target="frmContent" Href="../searchservlet?query=C30B13/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B13/24"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="C30B13/26 #熔融区的搅拌[3]" Target="frmContent" Href="../searchservlet?query=C30B13/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B13/26"/>
+    <TreeNode Title="C30B13/28 #控制或调节[3]" Target="frmContent" Href="../searchservlet?query=C30B13/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B13/28">
+      <TreeNode Title="C30B13/30 ##熔融区的稳定化或形状控制，例如用浓缩器的、用电磁场的；控制晶体截面的[3]" Target="frmContent" Href="../searchservlet?query=C30B13/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B13/30"/>
+    </TreeNode>
+    <TreeNode Title="C30B13/32 #移动装料或加热器用的机构[3]" Target="frmContent" Href="../searchservlet?query=C30B13/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B13/32"/>
+    <TreeNode Title="C30B13/34 #以籽晶(例如以其结晶取向)为特征的[3]" Target="frmContent" Href="../searchservlet?query=C30B13/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B13/34"/>
+  </TreeNode>
+  <TreeNode Title="C30B15/00 熔融液提拉法的单晶生长，例如Czochralski法(在保护流体下的入C30B 27/00)[3]" Target="frmContent" Href="../searchservlet?query=C30B15/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B15/00">
+    <TreeNode Title="C30B15/02 #向熔融液中添加结晶化材料或添加反应过程中就地生成结晶化材料之反应物的[3]" Target="frmContent" Href="../searchservlet?query=C30B15/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B15/02">
+      <TreeNode Title="C30B15/04 ##添加掺杂材料，例如用于n-p结的[3]" Target="frmContent" Href="../searchservlet?query=C30B15/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B15/04"/>
+    </TreeNode>
+    <TreeNode Title="C30B15/06 #非垂直提拉[3]" Target="frmContent" Href="../searchservlet?query=C30B15/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B15/06"/>
+    <TreeNode Title="C30B15/08 #下拉[3]" Target="frmContent" Href="../searchservlet?query=C30B15/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B15/08"/>
+    <TreeNode Title="C30B15/10 #承载熔融液的坩埚或容器[3]" Target="frmContent" Href="../searchservlet?query=C30B15/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B15/10">
+      <TreeNode Title="C30B15/12 ##双坩埚法[3]" Target="frmContent" Href="../searchservlet?query=C30B15/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B15/12"/>
+    </TreeNode>
+    <TreeNode Title="C30B15/14 #熔融液或已结晶化材料的加热[3]" Target="frmContent" Href="../searchservlet?query=C30B15/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B15/14">
+      <TreeNode Title="C30B15/16 ##辐照法和放电法[3]" Target="frmContent" Href="../searchservlet?query=C30B15/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B15/16"/>
+      <TreeNode Title="C30B15/18 ##除其他加热方法以外用直接电阻加热法，例如使用珀尔帖(Peltier)加热的[3]" Target="frmContent" Href="../searchservlet?query=C30B15/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B15/18"/>
+    </TreeNode>
+    <TreeNode Title="C30B15/20 #控制或调节(一般的控制或调节入G05)[3]" Target="frmContent" Href="../searchservlet?query=C30B15/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B15/20">
+      <TreeNode Title="C30B15/22 ##被拉晶体附近熔融区的稳定化或形状控制；晶体截面的控制[3]" Target="frmContent" Href="../searchservlet?query=C30B15/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B15/22">
+        <TreeNode Title="C30B15/24 ###使用机械装置，例如成形导模的(边缘限制熔膜供料的晶体生长用的成形模入C30B 15/34)[3]" Target="frmContent" Href="../searchservlet?query=C30B15/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B15/24"/>
+        <TreeNode Title="C30B15/26 ###使用电视摄像机的；使用光检测器或X射线检测器的[3]" Target="frmContent" Href="../searchservlet?query=C30B15/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B15/26"/>
+        <TreeNode Title="C30B15/28 ###利用晶体或熔体重量变化的，例如浮称法[3]" Target="frmContent" Href="../searchservlet?query=C30B15/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B15/28"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="C30B15/30 #转动或移动熔体或晶体的机构(浮称法入C30B 15/28)[3]" Target="frmContent" Href="../searchservlet?query=C30B15/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B15/30"/>
+    <TreeNode Title="C30B15/32 #籽晶夹持器，例如籽晶夹头[3]" Target="frmContent" Href="../searchservlet?query=C30B15/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B15/32"/>
+    <TreeNode Title="C30B15/34 #使用成型模或缝隙的边缘限制熔膜供料的晶体生长[3]" Target="frmContent" Href="../searchservlet?query=C30B15/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B15/34"/>
+    <TreeNode Title="C30B15/36 #以籽晶，例如其结晶取向为特征的[3]" Target="frmContent" Href="../searchservlet?query=C30B15/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B15/36"/>
+  </TreeNode>
+  <TreeNode Title="C30B17/00 生长期间籽晶保留在熔融液中的单晶生长，例如Necken-Kyropoulos法(C30B 15/00优先)[3]" Target="frmContent" Href="../searchservlet?query=C30B17/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B17/00"/>
+  <TreeNode Title="C30B19/00 液相外延层生长[3]" Target="frmContent" Href="../searchservlet?query=C30B19/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B19/00">
+    <TreeNode Title="C30B19/02 #使用熔融态溶剂，如助溶剂的[3]" Target="frmContent" Href="../searchservlet?query=C30B19/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B19/02">
+      <TreeNode Title="C30B19/04 ##晶体组分之一是溶剂的[3]" Target="frmContent" Href="../searchservlet?query=C30B19/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B19/04"/>
+    </TreeNode>
+    <TreeNode Title="C30B19/06 #反应室；承载熔融液的舟皿；衬底夹持器[3]" Target="frmContent" Href="../searchservlet?query=C30B19/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B19/06"/>
+    <TreeNode Title="C30B19/08 #反应室或衬底的加热[3]" Target="frmContent" Href="../searchservlet?query=C30B19/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B19/08"/>
+    <TreeNode Title="C30B19/10 #控制或调节(一般的控制或调节入G05)[3]" Target="frmContent" Href="../searchservlet?query=C30B19/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B19/10"/>
+    <TreeNode Title="C30B19/12 #以衬底为特征的[3]" Target="frmContent" Href="../searchservlet?query=C30B19/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B19/12"/>
+  </TreeNode>
+  <TreeNode Title="C30B21/00 共晶材料的定向凝固[3]" Target="frmContent" Href="../searchservlet?query=C30B21/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B21/00">
+    <TreeNode Title="C30B21/02 #正常浇铸法或温度梯度凝固法[3]" Target="frmContent" Href="../searchservlet?query=C30B21/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B21/02"/>
+    <TreeNode Title="C30B21/04 #区域熔融法[3]" Target="frmContent" Href="../searchservlet?query=C30B21/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B21/04"/>
+    <TreeNode Title="C30B21/06 #熔融液提拉法[3]" Target="frmContent" Href="../searchservlet?query=C30B21/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B21/06"/>
+  </TreeNode>
+  <TreeNode Title="C30B23/00 冷凝气化物或材料挥发法的单晶生长[3]" Target="frmContent" Href="../searchservlet?query=C30B23/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B23/00">
+    <TreeNode Title="C30B23/02 #外延层生长[3]" Target="frmContent" Href="../searchservlet?query=C30B23/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B23/02">
+      <TreeNode Title="C30B23/04 ##图案沉积，如使用掩模的[3]" Target="frmContent" Href="../searchservlet?query=C30B23/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B23/04"/>
+      <TreeNode Title="C30B23/06 ##沉积室、衬底或欲蒸发材料的加热[3]" Target="frmContent" Href="../searchservlet?query=C30B23/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B23/06"/>
+      <TreeNode Title="C30B23/08 ##电离气化物的冷凝法(用反应溅射法的入C30B 25/06)[3]" Target="frmContent" Href="../searchservlet?query=C30B23/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B23/08"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="C30B25/00 反应气体化学反应法的单晶生长，例如化学气相沉积生长[3]" Target="frmContent" Href="../searchservlet?query=C30B25/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B25/00">
+    <TreeNode Title="C30B25/02 #外延层生长[3]" Target="frmContent" Href="../searchservlet?query=C30B25/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B25/02">
+      <TreeNode Title="C30B25/04 ##图案沉积，例如使用掩膜的[3]" Target="frmContent" Href="../searchservlet?query=C30B25/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B25/04"/>
+      <TreeNode Title="C30B25/06 ##反应溅射法的[3]" Target="frmContent" Href="../searchservlet?query=C30B25/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B25/06"/>
+      <TreeNode Title="C30B25/08 ##反应室；其所用材料的选择[3]" Target="frmContent" Href="../searchservlet?query=C30B25/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B25/08"/>
+      <TreeNode Title="C30B25/10 ##反应室或衬底的加热[3]" Target="frmContent" Href="../searchservlet?query=C30B25/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B25/10"/>
+      <TreeNode Title="C30B25/12 ##衬底夹持器或基座[3]" Target="frmContent" Href="../searchservlet?query=C30B25/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B25/12"/>
+      <TreeNode Title="C30B25/14 ##气体供给或排出用的装置；反应气流的变换[3]" Target="frmContent" Href="../searchservlet?query=C30B25/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B25/14"/>
+      <TreeNode Title="C30B25/16 ##控制或调节(一般的控制或调节入G05)[3]" Target="frmContent" Href="../searchservlet?query=C30B25/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B25/16"/>
+      <TreeNode Title="C30B25/18 ##以衬底为特征的[3]" Target="frmContent" Href="../searchservlet?query=C30B25/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B25/18">
+        <TreeNode Title="C30B25/20 ###与外延层材料相同的衬底[3]" Target="frmContent" Href="../searchservlet?query=C30B25/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B25/20"/>
+      </TreeNode>
+      <TreeNode Title="C30B25/22 ##夹层的工艺方法[3]" Target="frmContent" Href="../searchservlet?query=C30B25/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B25/22"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="C30B27/00 保护流体下的单晶生长[3]" Target="frmContent" Href="../searchservlet?query=C30B27/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B27/00">
+    <TreeNode Title="C30B27/02 #自熔融液的提拉法[3]" Target="frmContent" Href="../searchservlet?query=C30B27/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B27/02"/>
+  </TreeNode>
+  <TreeNode Title="C30B28/00 制备具有一定结构的均匀多晶材料[5]" Target="frmContent" Href="../searchservlet?query=C30B28/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B28/00">
+    <TreeNode Title="C30B28/02 #由固态直接制备[5]" Target="frmContent" Href="../searchservlet?query=C30B28/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B28/02"/>
+    <TreeNode Title="C30B28/04 #由液态制备[5]" Target="frmContent" Href="../searchservlet?query=C30B28/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B28/04">
+      <TreeNode Title="C30B28/06 ##正常凝固法或温度梯度凝固法[5]" Target="frmContent" Href="../searchservlet?query=C30B28/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B28/06"/>
+      <TreeNode Title="C30B28/08 ##区熔法[5]" Target="frmContent" Href="../searchservlet?query=C30B28/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B28/08"/>
+      <TreeNode Title="C30B28/10 ##自熔体的提拉法[5]" Target="frmContent" Href="../searchservlet?query=C30B28/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B28/10"/>
+    </TreeNode>
+    <TreeNode Title="C30B28/12 #由气态直接制备[5]" Target="frmContent" Href="../searchservlet?query=C30B28/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B28/12">
+      <TreeNode Title="C30B28/14 ##用反应气体的化学反应法[5]" Target="frmContent" Href="../searchservlet?query=C30B28/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B28/14"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="C30B29/00 以材料或形状为特征的单晶或具有一定结构的均匀多晶材料 [3，5]" Target="frmContent" Href="../searchservlet?query=C30B29/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B29/00">
+    <TreeNode Title="C30B29/02 #元素[3]" Target="frmContent" Href="../searchservlet?query=C30B29/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B29/02">
+      <TreeNode Title="C30B29/04 ##金刚石[3]" Target="frmContent" Href="../searchservlet?query=C30B29/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B29/04"/>
+      <TreeNode Title="C30B29/06 ##硅[3]" Target="frmContent" Href="../searchservlet?query=C30B29/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B29/06"/>
+      <TreeNode Title="C30B29/08 ##锗[3]" Target="frmContent" Href="../searchservlet?query=C30B29/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B29/08"/>
+    </TreeNode>
+    <TreeNode Title="C30B29/10 #无机化合物或组合物[3]" Target="frmContent" Href="../searchservlet?query=C30B29/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B29/10">
+      <TreeNode Title="C30B29/12 ##卤化物[3]" Target="frmContent" Href="../searchservlet?query=C30B29/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B29/12"/>
+      <TreeNode Title="C30B29/14 ##磷酸盐[3]" Target="frmContent" Href="../searchservlet?query=C30B29/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B29/14"/>
+      <TreeNode Title="C30B29/16 ##氧化物[3]" Target="frmContent" Href="../searchservlet?query=C30B29/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B29/16">
+        <TreeNode Title="C30B29/18 ###石英[3]" Target="frmContent" Href="../searchservlet?query=C30B29/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B29/18"/>
+        <TreeNode Title="C30B29/20 ###铝的氧化物[3]" Target="frmContent" Href="../searchservlet?query=C30B29/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B29/20"/>
+        <TreeNode Title="C30B29/22 ###复合氧化物[3]" Target="frmContent" Href="../searchservlet?query=C30B29/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B29/22">
+          <TreeNode Title="C30B29/24 ####分子式为AMeO3的，其中A为稀土金属，Me为Fe、Ga、Sc、Cr、Co或Al，例如正铁氧体[3]" Target="frmContent" Href="../searchservlet?query=C30B29/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B29/24"/>
+          <TreeNode Title="C30B29/26 ####分子式为BMe2O4的，其中B为Mg、Ni、Co、Al、Zn或Cd，Me为Fe、Ga、Sc、Cr、Co或Al[3]" Target="frmContent" Href="../searchservlet?query=C30B29/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B29/26"/>
+          <TreeNode Title="C30B29/28 ####分子式为A3Me5O12的，其中A为稀土金属，Me为Fe、Ga、Sc、Cr、Co或Al，例如石榴石[3]" Target="frmContent" Href="../searchservlet?query=C30B29/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B29/28"/>
+          <TreeNode Title="C30B29/30 ####铌酸盐；钒酸盐；钽酸盐[3]" Target="frmContent" Href="../searchservlet?query=C30B29/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B29/30"/>
+          <TreeNode Title="C30B29/32 ####钛酸盐；锗酸盐；钼酸盐；钨酸盐[3]" Target="frmContent" Href="../searchservlet?query=C30B29/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B29/32"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="C30B29/34 ##硅酸盐[3]" Target="frmContent" Href="../searchservlet?query=C30B29/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B29/34"/>
+      <TreeNode Title="C30B29/36 ##碳化物[3]" Target="frmContent" Href="../searchservlet?query=C30B29/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B29/36"/>
+      <TreeNode Title="C30B29/38 ##氮化物[3]" Target="frmContent" Href="../searchservlet?query=C30B29/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B29/38"/>
+      <TreeNode Title="C30B29/40 ##AⅢBv化合物[3]" Target="frmContent" Href="../searchservlet?query=C30B29/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B29/40">
+        <TreeNode Title="C30B29/42 ###砷化镓[3]" Target="frmContent" Href="../searchservlet?query=C30B29/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B29/42"/>
+        <TreeNode Title="C30B29/44 ###磷化镓[3]" Target="frmContent" Href="../searchservlet?query=C30B29/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B29/44"/>
+      </TreeNode>
+      <TreeNode Title="C30B29/46 ##含硫、硒或碲的化合物[3]" Target="frmContent" Href="../searchservlet?query=C30B29/46&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B29/46">
+        <TreeNode Title="C30B29/48 ###AⅡBⅥ化合物[3]" Target="frmContent" Href="../searchservlet?query=C30B29/48&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B29/48">
+          <TreeNode Title="C30B29/50 ####硫化镉[3]" Target="frmContent" Href="../searchservlet?query=C30B29/50&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B29/50"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="C30B29/52 ##合金[3]" Target="frmContent" Href="../searchservlet?query=C30B29/52&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B29/52"/>
+    </TreeNode>
+    <TreeNode Title="C30B29/54 #有机化合物[3]" Target="frmContent" Href="../searchservlet?query=C30B29/54&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B29/54">
+      <TreeNode Title="C30B29/56 ##酒石酸盐[3]" Target="frmContent" Href="../searchservlet?query=C30B29/56&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B29/56"/>
+      <TreeNode Title="C30B29/58 ##高分子化合物[3]" Target="frmContent" Href="../searchservlet?query=C30B29/58&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B29/58"/>
+    </TreeNode>
+    <TreeNode Title="C30B29/60 #以形状为特征的[3]" Target="frmContent" Href="../searchservlet?query=C30B29/60&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B29/60">
+      <TreeNode Title="C30B29/62 ##晶须或针状结晶[3]" Target="frmContent" Href="../searchservlet?query=C30B29/62&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B29/62"/>
+      <TreeNode Title="C30B29/64 ##平面晶体，例如板状、窄条状、圆盘状晶体[5]" Target="frmContent" Href="../searchservlet?query=C30B29/64&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B29/64"/>
+      <TreeNode Title="C30B29/66 ##几何形状复杂的晶体，例如管状、圆筒状的晶体[5]" Target="frmContent" Href="../searchservlet?query=C30B29/66&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B29/66"/>
+      <TreeNode Title="C30B29/68 ##具有叠层结构的晶体，例如“超晶格晶体”[5]" Target="frmContent" Href="../searchservlet?query=C30B29/68&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B29/68"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="C30B30/00 利用电场、磁场、波能或其他特定物理条件的作用为特征来制备单晶或具有一定结构的均匀多晶材料[5]" Target="frmContent" Href="../searchservlet?query=C30B30/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B30/00">
+    <TreeNode Title="C30B30/02 #用电场的，例如电解法[5]" Target="frmContent" Href="../searchservlet?query=C30B30/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B30/02"/>
+    <TreeNode Title="C30B30/04 #用磁场的[5]" Target="frmContent" Href="../searchservlet?query=C30B30/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B30/04"/>
+    <TreeNode Title="C30B30/06 #用机械振荡的[5]" Target="frmContent" Href="../searchservlet?query=C30B30/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B30/06"/>
+    <TreeNode Title="C30B30/08 #在微重力或零重力条件下的[5]" Target="frmContent" Href="../searchservlet?query=C30B30/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B30/08"/>
+  </TreeNode>
+  <TreeNode Title="C30B31/00 单晶或具有一定结构的均匀多晶材料之扩散或掺杂工艺；其所用装置[3，5]" Target="frmContent" Href="../searchservlet?query=C30B31/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B31/00">
+    <TreeNode Title="C30B31/02 #同固态扩散材料接触的[3]" Target="frmContent" Href="../searchservlet?query=C30B31/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B31/02"/>
+    <TreeNode Title="C30B31/04 #同液态扩散材料接触的[3]" Target="frmContent" Href="../searchservlet?query=C30B31/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B31/04"/>
+    <TreeNode Title="C30B31/06 #同气态扩散材料接触的(C30B 31/18优先)[3]" Target="frmContent" Href="../searchservlet?query=C30B31/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B31/06">
+      <TreeNode Title="C30B31/08 ##扩散材料为被扩散元素之化合物的[3]" Target="frmContent" Href="../searchservlet?query=C30B31/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B31/08"/>
+      <TreeNode Title="C30B31/10 ##反应室；其所用材料的选择[3]" Target="frmContent" Href="../searchservlet?query=C30B31/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B31/10"/>
+      <TreeNode Title="C30B31/12 ##反应室的加热[3]" Target="frmContent" Href="../searchservlet?query=C30B31/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B31/12"/>
+      <TreeNode Title="C30B31/14 ##衬底夹持器或基座[3]" Target="frmContent" Href="../searchservlet?query=C30B31/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B31/14"/>
+      <TreeNode Title="C30B31/16 ##气体供给或排出的装置；气流的变换[3]" Target="frmContent" Href="../searchservlet?query=C30B31/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B31/16"/>
+      <TreeNode Title="C30B31/18 ##控制或调节[3]" Target="frmContent" Href="../searchservlet?query=C30B31/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B31/18"/>
+    </TreeNode>
+    <TreeNode Title="C30B31/20 #电磁波辐照或粒子辐射法掺杂[3]" Target="frmContent" Href="../searchservlet?query=C30B31/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B31/20">
+      <TreeNode Title="C30B31/22 ##离子注入法[3]" Target="frmContent" Href="../searchservlet?query=C30B31/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B31/22"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="C30B33/00 单晶或具有一定结构的均匀多晶材料的后处理(C30B 31/00优先)  [3，5]" Target="frmContent" Href="../searchservlet?query=C30B33/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B33/00">
+    <TreeNode Title="C30B33/02 #热处理(C30B 33/04、C30B 33/06优先)[5]" Target="frmContent" Href="../searchservlet?query=C30B33/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B33/02"/>
+    <TreeNode Title="C30B33/04 #用电场或磁场或粒子辐射[5]" Target="frmContent" Href="../searchservlet?query=C30B33/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B33/04"/>
+    <TreeNode Title="C30B33/06 #晶体的接合[5]" Target="frmContent" Href="../searchservlet?query=C30B33/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B33/06"/>
+    <TreeNode Title="C30B33/08 #侵蚀[5]" Target="frmContent" Href="../searchservlet?query=C30B33/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B33/08">
+      <TreeNode Title="C30B33/10 ##在溶液或熔体内[5]" Target="frmContent" Href="../searchservlet?query=C30B33/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B33/10"/>
+      <TreeNode Title="C30B33/12 ##在气体气氛或等离子体内[5]" Target="frmContent" Href="../searchservlet?query=C30B33/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B33/12"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="C30B35/00 单晶或具有一定结构的均匀多晶材料之生长、制备或后处理专用的一般装置[3，5]" Target="frmContent" Href="../searchservlet?query=C30B35/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C30B35/00"/>
+</Root>

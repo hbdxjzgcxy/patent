@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="C02F1/00 水、废水或污水的处理C02F 3/00至C02F 9/00优先)[3]" Target="frmContent" Href="../searchservlet?query=C02F1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C02F1/00">
+    <TreeNode Title="C02F1/02 #加热法[3]" Target="frmContent" Href="../searchservlet?query=C02F1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C02F1/02">
+      <TreeNode Title="C02F1/04 ##蒸馏或蒸发 [3]" Target="frmContent" Href="../searchservlet?query=C02F1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C02F1/04">
+        <TreeNode Title="C02F1/06 ###闪蒸发 [3]" Target="frmContent" Href="../searchservlet?query=C02F1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C02F1/06"/>
+        <TreeNode Title="C02F1/08 ###薄膜蒸发 [3]" Target="frmContent" Href="../searchservlet?query=C02F1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C02F1/08"/>
+        <TreeNode Title="C02F1/10 ###与作为传热介质的固体颗粒或流体直接接触 [3]" Target="frmContent" Href="../searchservlet?query=C02F1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C02F1/10">
+          <TreeNode Title="C02F1/12 ####喷雾蒸发 [3]" Target="frmContent" Href="../searchservlet?query=C02F1/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C02F1/12"/>
+        </TreeNode>
+        <TreeNode Title="C02F1/14 ###利用太阳能 [3]" Target="frmContent" Href="../searchservlet?query=C02F1/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C02F1/14"/>
+        <TreeNode Title="C02F1/16 ###利用其他工艺中的废热 [3]" Target="frmContent" Href="../searchservlet?query=C02F1/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C02F1/16"/>
+        <TreeNode Title="C02F1/18 ###获得饮用水的移动式装置 [3]" Target="frmContent" Href="../searchservlet?query=C02F1/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C02F1/18"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="C02F1/20 #脱气法，即溶解气体的释放[3]" Target="frmContent" Href="../searchservlet?query=C02F1/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C02F1/20"/>
+    <TreeNode Title="C02F1/22 #冷冻法 [3]" Target="frmContent" Href="../searchservlet?query=C02F1/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C02F1/22"/>
+    <TreeNode Title="C02F1/24 #浮选法 (C02F 1/465优先)[3，5]" Target="frmContent" Href="../searchservlet?query=C02F1/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C02F1/24"/>
+    <TreeNode Title="C02F1/26 #萃取法 [3]" Target="frmContent" Href="../searchservlet?query=C02F1/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C02F1/26"/>
+    <TreeNode Title="C02F1/28 #吸附法(离子交换法入C02F 1/42；吸附剂的组成入B01J)[3]" Target="frmContent" Href="../searchservlet?query=C02F1/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C02F1/28"/>
+    <TreeNode Title="C02F1/30 #光照法 [3]" Target="frmContent" Href="../searchservlet?query=C02F1/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C02F1/30">
+      <TreeNode Title="C02F1/32 ##用紫外线的 [3]" Target="frmContent" Href="../searchservlet?query=C02F1/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C02F1/32"/>
+    </TreeNode>
+    <TreeNode Title="C02F1/34 #机械振动法 [3]" Target="frmContent" Href="../searchservlet?query=C02F1/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C02F1/34">
+      <TreeNode Title="C02F1/36 ##超声振动 [3]" Target="frmContent" Href="../searchservlet?query=C02F1/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C02F1/36"/>
+    </TreeNode>
+    <TreeNode Title="C02F1/38 #离心分离法 [3]" Target="frmContent" Href="../searchservlet?query=C02F1/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C02F1/38"/>
+    <TreeNode Title="C02F1/40 #分离或去除油脂或油状物质或类似浮游物的装置(净化或防止油或类似物对露天水面的污染入E02B 15/04；在污水管中分离污水的液体或固体物质的装置入E03F 5/14)[3，5]" Target="frmContent" Href="../searchservlet?query=C02F1/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C02F1/40"/>
+    <TreeNode Title="C02F1/42 #离子交换法[3]" Target="frmContent" Href="../searchservlet?query=C02F1/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C02F1/42"/>
+    <TreeNode Title="C02F1/44 #渗析法、渗透法或反渗透法 [3]" Target="frmContent" Href="../searchservlet?query=C02F1/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C02F1/44"/>
+    <TreeNode Title="C02F1/46 #用电化学方法 [3，5]" Target="frmContent" Href="../searchservlet?query=C02F1/46&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C02F1/46">
+      <TreeNode Title="C02F1/461 ##用电解法 [5]" Target="frmContent" Href="../searchservlet?query=C02F1/461&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C02F1/461">
+        <TreeNode Title="C02F1/463 ###用电凝聚法 [5]" Target="frmContent" Href="../searchservlet?query=C02F1/463&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C02F1/463"/>
+        <TreeNode Title="C02F1/465 ###用电浮选法 [5]" Target="frmContent" Href="../searchservlet?query=C02F1/465&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C02F1/465"/>
+        <TreeNode Title="C02F1/467 ###用电化学消毒 [5]" Target="frmContent" Href="../searchservlet?query=C02F1/467&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C02F1/467"/>
+      </TreeNode>
+      <TreeNode Title="C02F1/469 ##用电化学分离，如用电渗透、电渗析，电泳[5]" Target="frmContent" Href="../searchservlet?query=C02F1/469&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C02F1/469"/>
+    </TreeNode>
+    <TreeNode Title="C02F1/48 #用磁场或电场的(C02F 1/46优先)[3]" Target="frmContent" Href="../searchservlet?query=C02F1/48&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C02F1/48"/>
+    <TreeNode Title="C02F1/50 #添加或使用杀菌剂或用微动力处理(C02F 1/467优先)[3，5]" Target="frmContent" Href="../searchservlet?query=C02F1/50&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C02F1/50"/>
+    <TreeNode Title="C02F1/52 #悬浮杂质的絮凝或沉淀 [3]" Target="frmContent" Href="../searchservlet?query=C02F1/52&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C02F1/52">
+      <TreeNode Title="C02F1/54 ##使用有机物 [3]" Target="frmContent" Href="../searchservlet?query=C02F1/54&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C02F1/54">
+        <TreeNode Title="C02F1/56 ###高分子化合物 [3]" Target="frmContent" Href="../searchservlet?query=C02F1/56&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C02F1/56"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="C02F1/58 #除去特定的溶解化合物(使用离子交换法入C02F 1/42；水的软化入C02F 5/00) [3]" Target="frmContent" Href="../searchservlet?query=C02F1/58&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C02F1/58">
+      <TreeNode Title="C02F1/60 ##硅化合物 [3]" Target="frmContent" Href="../searchservlet?query=C02F1/60&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C02F1/60"/>
+      <TreeNode Title="C02F1/62 ##重金属化合物 [3]" Target="frmContent" Href="../searchservlet?query=C02F1/62&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C02F1/62">
+        <TreeNode Title="C02F1/64 ###铁或锰的 [3]" Target="frmContent" Href="../searchservlet?query=C02F1/64&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C02F1/64"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="C02F1/66 #中和法；pH的调节(脱气入C02F 1/20；用离子交换入C02F 1/42；悬浮杂质的絮凝或沉淀入C02F 1/52；溶解化合物的除去入C02F 1/58)[3]" Target="frmContent" Href="../searchservlet?query=C02F1/66&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C02F1/66"/>
+    <TreeNode Title="C02F1/68 #添加特定的物质，如微量元素以改善饮用水质[3]" Target="frmContent" Href="../searchservlet?query=C02F1/68&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C02F1/68"/>
+    <TreeNode Title="C02F1/70 #还原法[3]" Target="frmContent" Href="../searchservlet?query=C02F1/70&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C02F1/70"/>
+    <TreeNode Title="C02F1/72 #氧化法[3]" Target="frmContent" Href="../searchservlet?query=C02F1/72&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C02F1/72">
+      <TreeNode Title="C02F1/74 ##用空气(水域的曝气入C02F 7/00)[3]" Target="frmContent" Href="../searchservlet?query=C02F1/74&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C02F1/74"/>
+      <TreeNode Title="C02F1/76 ##用卤素或卤素化合物[3]" Target="frmContent" Href="../searchservlet?query=C02F1/76&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C02F1/76"/>
+      <TreeNode Title="C02F1/78 ##用臭氧[3]" Target="frmContent" Href="../searchservlet?query=C02F1/78&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C02F1/78"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="C02F3/00 水、废水或污水的生物处理[3]" Target="frmContent" Href="../searchservlet?query=C02F3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C02F3/00">
+    <TreeNode Title="C02F3/02 #好氧工艺[3]" Target="frmContent" Href="../searchservlet?query=C02F3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C02F3/02">
+      <TreeNode Title="C02F3/04 ##使用滴滤池[3]" Target="frmContent" Href="../searchservlet?query=C02F3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C02F3/04"/>
+      <TreeNode Title="C02F3/06 ##使用地下滤池[3]" Target="frmContent" Href="../searchservlet?query=C02F3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C02F3/06"/>
+      <TreeNode Title="C02F3/08 ##使用运动的接触体[3]" Target="frmContent" Href="../searchservlet?query=C02F3/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C02F3/08"/>
+      <TreeNode Title="C02F3/10 ##填充物；填料；格栅子[3]" Target="frmContent" Href="../searchservlet?query=C02F3/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C02F3/10"/>
+      <TreeNode Title="C02F3/12 ##活性污泥法[3]" Target="frmContent" Href="../searchservlet?query=C02F3/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C02F3/12">
+        <TreeNode Title="C02F3/14 ###采用表面曝气器[3]" Target="frmContent" Href="../searchservlet?query=C02F3/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C02F3/14">
+          <TreeNode Title="C02F3/16 ####有竖轴的曝气器[3]" Target="frmContent" Href="../searchservlet?query=C02F3/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C02F3/16"/>
+          <TreeNode Title="C02F3/18 ####有横轴的曝气器[3]" Target="frmContent" Href="../searchservlet?query=C02F3/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C02F3/18"/>
+        </TreeNode>
+        <TreeNode Title="C02F3/20 ###采用扩散器[3]" Target="frmContent" Href="../searchservlet?query=C02F3/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C02F3/20"/>
+        <TreeNode Title="C02F3/22 ###采用循环管[3]" Target="frmContent" Href="../searchservlet?query=C02F3/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C02F3/22"/>
+        <TreeNode Title="C02F3/24 ###采用自由降落曝气或喷雾[3]" Target="frmContent" Href="../searchservlet?query=C02F3/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C02F3/24"/>
+        <TreeNode Title="C02F3/26 ###使用纯氧或富氧气体的[3]" Target="frmContent" Href="../searchservlet?query=C02F3/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C02F3/26"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="C02F3/28 #厌氧消化工艺[3]" Target="frmContent" Href="../searchservlet?query=C02F3/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C02F3/28"/>
+    <TreeNode Title="C02F3/30 #好氧和厌氧工艺[3]" Target="frmContent" Href="../searchservlet?query=C02F3/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C02F3/30"/>
+    <TreeNode Title="C02F3/32 #以利用动物或植物为特征的，如藻类[3]" Target="frmContent" Href="../searchservlet?query=C02F3/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C02F3/32"/>
+    <TreeNode Title="C02F3/34 #以利用微生物为特征的[3]" Target="frmContent" Href="../searchservlet?query=C02F3/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C02F3/34"/>
+  </TreeNode>
+  <TreeNode Title="C02F5/00 水的软化；防垢；加入水中的防垢剂或除垢剂，如添加多价螯合剂(利用离子交换软化法入C02F 1/42)[3]" Target="frmContent" Href="../searchservlet?query=C02F5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C02F5/00">
+    <TreeNode Title="C02F5/02 #硬度的沉淀法软化水[3]" Target="frmContent" Href="../searchservlet?query=C02F5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C02F5/02">
+      <TreeNode Title="C02F5/04 ##使用磷酸盐的(C02F 5/06优先)[3]" Target="frmContent" Href="../searchservlet?query=C02F5/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C02F5/04"/>
+      <TreeNode Title="C02F5/06 ##使用钙化合物的[3]" Target="frmContent" Href="../searchservlet?query=C02F5/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C02F5/06"/>
+    </TreeNode>
+    <TreeNode Title="C02F5/08 #为软化、防垢或除垢用配合物或其他增溶剂处理，如添加多价螯合剂[3]" Target="frmContent" Href="../searchservlet?query=C02F5/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C02F5/08">
+      <TreeNode Title="C02F5/10 ##使用有机物质的[3]" Target="frmContent" Href="../searchservlet?query=C02F5/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C02F5/10">
+        <TreeNode Title="C02F5/12 ###含氮的(C02F 5/14优先)[3]" Target="frmContent" Href="../searchservlet?query=C02F5/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C02F5/12"/>
+        <TreeNode Title="C02F5/14 ###含磷的[3]" Target="frmContent" Href="../searchservlet?query=C02F5/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C02F5/14"/>
+      </TreeNode>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="C02F7/00 水域的曝气[3]" Target="frmContent" Href="../searchservlet?query=C02F7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C02F7/00"/>
+  <TreeNode Title="C02F9/00 水、废水或污水的多级处理[3]" Target="frmContent" Href="../searchservlet?query=C02F9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C02F9/00">
+    <TreeNode Title="C02F9/02 #包括分离步骤[7]" Target="frmContent" Href="../searchservlet?query=C02F9/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C02F9/02"/>
+    <TreeNode Title="C02F9/04 #至少有一个化学处理步骤[7]" Target="frmContent" Href="../searchservlet?query=C02F9/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C02F9/04">
+      <TreeNode Title="C02F9/06 ##电化学处理[7]" Target="frmContent" Href="../searchservlet?query=C02F9/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C02F9/06"/>
+    </TreeNode>
+    <TreeNode Title="C02F9/08 #至少有一个物理处理步骤[7]" Target="frmContent" Href="../searchservlet?query=C02F9/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C02F9/08">
+      <TreeNode Title="C02F9/10 ##热处理[7]" Target="frmContent" Href="../searchservlet?query=C02F9/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C02F9/10"/>
+      <TreeNode Title="C02F9/12 ##用电场或磁场辐射或处理[7]" Target="frmContent" Href="../searchservlet?query=C02F9/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C02F9/12"/>
+    </TreeNode>
+    <TreeNode Title="C02F9/14 #至少有一个生物处理步骤[7]" Target="frmContent" Href="../searchservlet?query=C02F9/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C02F9/14"/>
+  </TreeNode>
+  <TreeNode Title="C02F11/00 污泥的处理；其装置[3]" Target="frmContent" Href="../searchservlet?query=C02F11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C02F11/00">
+    <TreeNode Title="C02F11/02 #生物处理[3]" Target="frmContent" Href="../searchservlet?query=C02F11/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C02F11/02">
+      <TreeNode Title="C02F11/04 ##厌氧处理；用此工艺生产甲烷[3]" Target="frmContent" Href="../searchservlet?query=C02F11/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C02F11/04"/>
+    </TreeNode>
+    <TreeNode Title="C02F11/06 #氧化法[3]" Target="frmContent" Href="../searchservlet?query=C02F11/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C02F11/06">
+      <TreeNode Title="C02F11/08 ##湿空气氧化[3]" Target="frmContent" Href="../searchservlet?query=C02F11/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C02F11/08"/>
+    </TreeNode>
+    <TreeNode Title="C02F11/10 #热解法[3]" Target="frmContent" Href="../searchservlet?query=C02F11/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C02F11/10"/>
+    <TreeNode Title="C02F11/12 #脱水法、干燥法或浓缩法[3]" Target="frmContent" Href="../searchservlet?query=C02F11/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C02F11/12">
+      <TreeNode Title="C02F11/14 ##添加化学试剂的[3]" Target="frmContent" Href="../searchservlet?query=C02F11/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C02F11/14"/>
+      <TreeNode Title="C02F11/16 ##使用干燥床或堆肥床[3]" Target="frmContent" Href="../searchservlet?query=C02F11/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C02F11/16"/>
+    </TreeNode>
+    <TreeNode Title="C02F11/18 #加热处置(热解入C02F 11/10)[3]" Target="frmContent" Href="../searchservlet?query=C02F11/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C02F11/18">
+      <TreeNode Title="C02F11/20 ##冷冻法[3]" Target="frmContent" Href="../searchservlet?query=C02F11/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C02F11/20"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="C02F101/00 污染物的性质[7]" Target="frmContent" Href="../searchservlet?query=C02F101/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C02F101/00">
+    <TreeNode Title="C02F101/10 #无机化合物[7]" Target="frmContent" Href="../searchservlet?query=C02F101/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C02F101/10">
+      <TreeNode Title="C02F101/12 ##卤素或含卤素的化合物[7]" Target="frmContent" Href="../searchservlet?query=C02F101/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C02F101/12">
+        <TreeNode Title="C02F101/14 ###氟或含氟化合物[7]" Target="frmContent" Href="../searchservlet?query=C02F101/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C02F101/14"/>
+      </TreeNode>
+      <TreeNode Title="C02F101/16 ##氮的化合物，例如氨[7]" Target="frmContent" Href="../searchservlet?query=C02F101/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C02F101/16">
+        <TreeNode Title="C02F101/18 ###氰化物[7]" Target="frmContent" Href="../searchservlet?query=C02F101/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C02F101/18"/>
+      </TreeNode>
+      <TreeNode Title="C02F101/20 ##重金属或重金属化合物[7]" Target="frmContent" Href="../searchservlet?query=C02F101/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C02F101/20">
+        <TreeNode Title="C02F101/22 ###铬或铬的化合物，例如铬酸盐[7]" Target="frmContent" Href="../searchservlet?query=C02F101/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C02F101/22"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="C02F101/30 #有机化合物[7]" Target="frmContent" Href="../searchservlet?query=C02F101/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C02F101/30">
+      <TreeNode Title="C02F101/32 ##碳氢化合物，例如油[7]" Target="frmContent" Href="../searchservlet?query=C02F101/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C02F101/32"/>
+      <TreeNode Title="C02F101/34 ##含氧[7]" Target="frmContent" Href="../searchservlet?query=C02F101/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C02F101/34"/>
+      <TreeNode Title="C02F101/36 ##含卤素[7]" Target="frmContent" Href="../searchservlet?query=C02F101/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C02F101/36"/>
+      <TreeNode Title="C02F101/38 ##含氮[7]" Target="frmContent" Href="../searchservlet?query=C02F101/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C02F101/38"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="C02F103/00 待处理水、废水、污水或污泥的性质[7]" Target="frmContent" Href="../searchservlet?query=C02F103/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C02F103/00">
+    <TreeNode Title="C02F103/02 #非污染水，例如工业供水[7]" Target="frmContent" Href="../searchservlet?query=C02F103/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C02F103/02">
+      <TreeNode Title="C02F103/04 ##为得到纯水或超纯水[7]" Target="frmContent" Href="../searchservlet?query=C02F103/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C02F103/04"/>
+    </TreeNode>
+    <TreeNode Title="C02F103/06 #被污染的地下水或浸出液[7]" Target="frmContent" Href="../searchservlet?query=C02F103/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C02F103/06"/>
+    <TreeNode Title="C02F103/08 #海水，例如为脱盐[7]" Target="frmContent" Href="../searchservlet?query=C02F103/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C02F103/08"/>
+    <TreeNode Title="C02F103/10 #来自开采或采矿作业[7]" Target="frmContent" Href="../searchservlet?query=C02F103/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C02F103/10"/>
+    <TreeNode Title="C02F103/12 #来自硅酸盐或陶瓷工业，例如来自水泥或玻璃厂的废水[7]" Target="frmContent" Href="../searchservlet?query=C02F103/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C02F103/12"/>
+    <TreeNode Title="C02F103/14 #废涂料[7]" Target="frmContent" Href="../searchservlet?query=C02F103/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C02F103/14"/>
+    <TreeNode Title="C02F103/16 #来自冶金过程，即来自金属生产、精炼或处理，例如电镀废物[7]" Target="frmContent" Href="../searchservlet?query=C02F103/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C02F103/16"/>
+    <TreeNode Title="C02F103/18 #来自气态排出物的湿法净化[7]" Target="frmContent" Href="../searchservlet?query=C02F103/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C02F103/18"/>
+    <TreeNode Title="C02F103/20 #来自畜牧业[7]" Target="frmContent" Href="../searchservlet?query=C02F103/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C02F103/20"/>
+    <TreeNode Title="C02F103/22 #来自动物(例如家禽、鱼或其各部分)的加工过程[7]" Target="frmContent" Href="../searchservlet?query=C02F103/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C02F103/22">
+      <TreeNode Title="C02F103/24 ##来自制革厂[7]" Target="frmContent" Href="../searchservlet?query=C02F103/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C02F103/24"/>
+    </TreeNode>
+    <TreeNode Title="C02F103/26 #来自植物或其各部分的加工过程[7]" Target="frmContent" Href="../searchservlet?query=C02F103/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C02F103/26">
+      <TreeNode Title="C02F103/28 ##来自纸或纤维素制造业[7]" Target="frmContent" Href="../searchservlet?query=C02F103/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C02F103/28"/>
+    </TreeNode>
+    <TreeNode Title="C02F103/30 #来自纺织工业[7]" Target="frmContent" Href="../searchservlet?query=C02F103/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C02F103/30"/>
+    <TreeNode Title="C02F103/32 #来自食品或粮食工业，例如酿酒厂废水[7]" Target="frmContent" Href="../searchservlet?query=C02F103/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C02F103/32"/>
+    <TreeNode Title="C02F103/34 #来自不包含在C02F 103/12至C02F 103/32各组中的化学工业[7]" Target="frmContent" Href="../searchservlet?query=C02F103/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C02F103/34">
+      <TreeNode Title="C02F103/36 ##来自有机化合物的生产[7]" Target="frmContent" Href="../searchservlet?query=C02F103/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C02F103/36">
+        <TreeNode Title="C02F103/38 ###聚合物[7]" Target="frmContent" Href="../searchservlet?query=C02F103/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C02F103/38"/>
+      </TreeNode>
+      <TreeNode Title="C02F103/40 ##来自感光材料的生产或使用[7]" Target="frmContent" Href="../searchservlet?query=C02F103/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C02F103/40"/>
+    </TreeNode>
+    <TreeNode Title="C02F103/42 #来自浴场设施，例如游泳池[7]" Target="frmContent" Href="../searchservlet?query=C02F103/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C02F103/42"/>
+    <TreeNode Title="C02F103/44 #来自车辆冲洗设施[7]" Target="frmContent" Href="../searchservlet?query=C02F103/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C02F103/44"/>
+  </TreeNode>
+</Root>

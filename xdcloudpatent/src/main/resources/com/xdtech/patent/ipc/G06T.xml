@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="G06T1/00 通用图像数据处理[6]" Target="frmContent" Href="../searchservlet?query=G06T1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06T1/00">
+    <TreeNode Title="G06T1/20 #处理器结构；处理器配置，例如流水线(通用存储程序计算机结构的入G06F 15/76)[6]" Target="frmContent" Href="../searchservlet?query=G06T1/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06T1/20">
+      <TreeNode Title="G06T1/40 ##神经网络[6]" Target="frmContent" Href="../searchservlet?query=G06T1/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06T1/40"/>
+    </TreeNode>
+    <TreeNode Title="G06T1/60 #存储器管理[6]" Target="frmContent" Href="../searchservlet?query=G06T1/60&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06T1/60"/>
+  </TreeNode>
+  <TreeNode Title="G06T3/00 在图像平面内的图形图像转换，例如，从位像到位像地建立一个不同图像[6]" Target="frmContent" Href="../searchservlet?query=G06T3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06T3/00">
+    <TreeNode Title="G06T3/20 #整个或部分图形的线性转换，如面位显示[6]" Target="frmContent" Href="../searchservlet?query=G06T3/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06T3/20"/>
+    <TreeNode Title="G06T3/40 #整个或部分图形的定标[6]" Target="frmContent" Href="../searchservlet?query=G06T3/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06T3/40"/>
+    <TreeNode Title="G06T3/60 #整个或部分图形的旋转[6]" Target="frmContent" Href="../searchservlet?query=G06T3/60&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06T3/60"/>
+  </TreeNode>
+  <TreeNode Title="G06T5/00 图像的增强或复原，如从位像到位像地建立一个类似的图形[6]" Target="frmContent" Href="../searchservlet?query=G06T5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06T5/00">
+    <TreeNode Title="G06T5/10 #利用非空间域滤波的[6]" Target="frmContent" Href="../searchservlet?query=G06T5/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06T5/10"/>
+    <TreeNode Title="G06T5/20 #利用局部操作的[6]" Target="frmContent" Href="../searchservlet?query=G06T5/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06T5/20">
+      <TreeNode Title="G06T5/30 ##侵蚀或扩张，如变薄[6]" Target="frmContent" Href="../searchservlet?query=G06T5/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06T5/30"/>
+    </TreeNode>
+    <TreeNode Title="G06T5/40 #使用直方图技术的[6]" Target="frmContent" Href="../searchservlet?query=G06T5/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06T5/40"/>
+    <TreeNode Title="G06T5/50 #通过使用多于一幅图像的，例如平均、减少[6]" Target="frmContent" Href="../searchservlet?query=G06T5/50&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06T5/50"/>
+  </TreeNode>
+  <TreeNode Title="G06T7/00 图像分析，例如从位像到非位像[6]" Target="frmContent" Href="../searchservlet?query=G06T7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06T7/00">
+    <TreeNode Title="G06T7/20 #运动分析[6]" Target="frmContent" Href="../searchservlet?query=G06T7/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06T7/20"/>
+    <TreeNode Title="G06T7/40 #结构分析[6]" Target="frmContent" Href="../searchservlet?query=G06T7/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06T7/40"/>
+    <TreeNode Title="G06T7/60 #图形属性的分析，例如一个图像的区域、重心、周边[6]" Target="frmContent" Href="../searchservlet?query=G06T7/60&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06T7/60"/>
+  </TreeNode>
+  <TreeNode Title="G06T9/00 图像编码，如从位像到非位像(一般压缩入H03M，图像通讯的压缩入H04N)[6]" Target="frmContent" Href="../searchservlet?query=G06T9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06T9/00">
+    <TreeNode Title="G06T9/20 #轮廓编码，如使用边缘检测[6]" Target="frmContent" Href="../searchservlet?query=G06T9/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06T9/20"/>
+    <TreeNode Title="G06T9/40 #树编码，如正交树，八叉树[6]" Target="frmContent" Href="../searchservlet?query=G06T9/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06T9/40"/>
+  </TreeNode>
+  <TreeNode Title="G06T11/00 二维图像2D图像的生成[6]" Target="frmContent" Href="../searchservlet?query=G06T11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06T11/00">
+    <TreeNode Title="G06T11/20 #根据基本元素绘图，例如：直线或圆[6]" Target="frmContent" Href="../searchservlet?query=G06T11/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06T11/20"/>
+    <TreeNode Title="G06T11/40 #通过添加表面特征填充平面，例如：色彩或纹理[6]" Target="frmContent" Href="../searchservlet?query=G06T11/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06T11/40"/>
+    <TreeNode Title="G06T11/60 #编辑图形和文本，组合图形或文本[6]" Target="frmContent" Href="../searchservlet?query=G06T11/60&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06T11/60"/>
+    <TreeNode Title="G06T11/80 #使用诸如鼠标、光笔、键盘上的方向键等手输入设备建立或修改手绘或手写图像[6]" Target="frmContent" Href="../searchservlet?query=G06T11/80&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06T11/80"/>
+  </TreeNode>
+  <TreeNode Title="G06T13/00 动画制作[6]" Target="frmContent" Href="../searchservlet?query=G06T13/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06T13/00">
+    <TreeNode Title="G06T13/20 #3D［三维］动画[2011.01]" Target="frmContent" Href="../searchservlet?query=G06T13/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06T13/20">
+      <TreeNode Title="G06T13/40 ##关于角色的，例如：人类、动物或虚幻人物[2011.01]" Target="frmContent" Href="../searchservlet?query=G06T13/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06T13/40"/>
+      <TreeNode Title="G06T13/60 ##关于自然景观的，例如：雨、雪、水或植物[2011.01]" Target="frmContent" Href="../searchservlet?query=G06T13/60&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06T13/60"/>
+    </TreeNode>
+    <TreeNode Title="G06T13/80 #2D［二维］动画，如使用精灵sprites[2011.01]" Target="frmContent" Href="../searchservlet?query=G06T13/80&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06T13/80"/>
+  </TreeNode>
+  <TreeNode Title="G06T15/00 三维图像3D图像的加工[4,2011.01]" Target="frmContent" Href="../searchservlet?query=G06T15/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06T15/00">
+    <TreeNode Title="G06T15/02 #非真实感绘制 [2011.01]" Target="frmContent" Href="../searchservlet?query=G06T15/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06T15/02"/>
+    <TreeNode Title="G06T15/04 #纹理映射[2011.01]" Target="frmContent" Href="../searchservlet?query=G06T15/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06T15/04"/>
+    <TreeNode Title="G06T15/06 #光线跟踪[2011.01]" Target="frmContent" Href="../searchservlet?query=G06T15/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06T15/06"/>
+    <TreeNode Title="G06T15/08 #体绘制[2011.01]" Target="frmContent" Href="../searchservlet?query=G06T15/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06T15/08"/>
+    <TreeNode Title="G06T15/10 #图形效果[6]" Target="frmContent" Href="../searchservlet?query=G06T15/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06T15/10">
+      <TreeNode Title="G06T15/20 ##透视图计算[6,2011.01]" Target="frmContent" Href="../searchservlet?query=G06T15/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06T15/20"/>
+      <TreeNode Title="G06T15/30 ##剪取[6,2011.01]" Target="frmContent" Href="../searchservlet?query=G06T15/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06T15/30"/>
+      <TreeNode Title="G06T15/40 ##隐藏部分移除[6,2011.01]" Target="frmContent" Href="../searchservlet?query=G06T15/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06T15/40"/>
+    </TreeNode>
+    <TreeNode Title="G06T15/50 #发光效果[6]" Target="frmContent" Href="../searchservlet?query=G06T15/50&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06T15/50">
+      <TreeNode Title="G06T15/55 ##辐射着色[2011.01]" Target="frmContent" Href="../searchservlet?query=G06T15/55&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06T15/55"/>
+      <TreeNode Title="G06T15/60 ##阴影的生成[6]" Target="frmContent" Href="../searchservlet?query=G06T15/60&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06T15/60"/>
+      <TreeNode Title="G06T15/80 ##明暗处理 [2011.01]" Target="frmContent" Href="../searchservlet?query=G06T15/80&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06T15/80">
+        <TreeNode Title="G06T15/83 ###Phong着色法 [2011.01]" Target="frmContent" Href="../searchservlet?query=G06T15/83&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06T15/83"/>
+        <TreeNode Title="G06T15/87 ###高洛德(Gourand)着色 [2011.01]" Target="frmContent" Href="../searchservlet?query=G06T15/87&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06T15/87"/>
+      </TreeNode>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="G06T17/00 用于计算机制图的3D建模[6]" Target="frmContent" Href="../searchservlet?query=G06T17/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06T17/00">
+    <TreeNode Title="G06T17/05 #地理模型[2011.01]" Target="frmContent" Href="../searchservlet?query=G06T17/05&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06T17/05"/>
+    <TreeNode Title="G06T17/10 #体积绘图，例如：圆柱体、六面体或使用结构实体几何(CSG)[6]" Target="frmContent" Href="../searchservlet?query=G06T17/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06T17/10"/>
+    <TreeNode Title="G06T17/20 #线框绘图，例如：多边法或镶嵌[6]" Target="frmContent" Href="../searchservlet?query=G06T17/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06T17/20"/>
+    <TreeNode Title="G06T17/30 #表面绘图，例如：多项式表面绘图[6]" Target="frmContent" Href="../searchservlet?query=G06T17/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06T17/30"/>
+  </TreeNode>
+  <TreeNode Title="G06T19/00 对用于电脑制图的3D[三维]模型或图像的操作 [2011.01]" Target="frmContent" Href="../searchservlet?query=G06T19/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06T19/00">
+    <TreeNode Title="G06T19/20 #3D图像的编辑，例如：改变形状或颜色，排列物体或定位部件 [2011.01]" Target="frmContent" Href="../searchservlet?query=G06T19/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06T19/20"/>
+  </TreeNode>
+</Root>

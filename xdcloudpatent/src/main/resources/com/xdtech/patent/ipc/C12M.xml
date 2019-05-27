@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="C12M1/00 酶学或微生物学装置[3]" Target="frmContent" Href="../searchservlet?query=C12M1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12M1/00">
+    <TreeNode Title="C12M1/02 #用搅拌方法；用热交换方法[3]" Target="frmContent" Href="../searchservlet?query=C12M1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12M1/02"/>
+    <TreeNode Title="C12M1/04 #用气体导入方法[3]" Target="frmContent" Href="../searchservlet?query=C12M1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12M1/04">
+      <TreeNode Title="C12M1/06 ##用搅拌器，如叶轮[3]" Target="frmContent" Href="../searchservlet?query=C12M1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12M1/06"/>
+      <TreeNode Title="C12M1/08 ##用通风管[3]" Target="frmContent" Href="../searchservlet?query=C12M1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12M1/08"/>
+      <TreeNode Title="C12M1/09 ##浮集机[5]" Target="frmContent" Href="../searchservlet?query=C12M1/09&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12M1/09"/>
+    </TreeNode>
+    <TreeNode Title="C12M1/10 #固定在旋转部件上[3]" Target="frmContent" Href="../searchservlet?query=C12M1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12M1/10"/>
+    <TreeNode Title="C12M1/107 #用收集发酵气体，如甲烷的方法(污泥进行厌氧处理生产甲烷入C02F 11/04)[5]" Target="frmContent" Href="../searchservlet?query=C12M1/107&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12M1/107">
+      <TreeNode Title="C12M1/113 ##借助发酵期间输送底物[5]" Target="frmContent" Href="../searchservlet?query=C12M1/113&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12M1/113"/>
+    </TreeNode>
+    <TreeNode Title="C12M1/12 #用杀菌、过滤或透析方法[3]" Target="frmContent" Href="../searchservlet?query=C12M1/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12M1/12"/>
+    <TreeNode Title="C12M1/14 #用提供薄层方法或用多级平面盘[3]" Target="frmContent" Href="../searchservlet?query=C12M1/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12M1/14"/>
+    <TreeNode Title="C12M1/16 #包含或适于包含固体介质[3]" Target="frmContent" Href="../searchservlet?query=C12M1/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12M1/16">
+      <TreeNode Title="C12M1/18 ##多层式或间隔式[3]" Target="frmContent" Href="../searchservlet?query=C12M1/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12M1/18">
+        <TreeNode Title="C12M1/20 ###水平面式[3]" Target="frmContent" Href="../searchservlet?query=C12M1/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12M1/20"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="C12M1/21 #泡沫抑制器[5]" Target="frmContent" Href="../searchservlet?query=C12M1/21&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12M1/21"/>
+    <TreeNode Title="C12M1/22 #陪替氏型培养皿[3]" Target="frmContent" Href="../searchservlet?query=C12M1/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12M1/22"/>
+    <TreeNode Title="C12M1/24 #管或瓶型[3]" Target="frmContent" Href="../searchservlet?query=C12M1/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12M1/24"/>
+    <TreeNode Title="C12M1/26 #接种器或采样器[3]" Target="frmContent" Href="../searchservlet?query=C12M1/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12M1/26">
+      <TreeNode Title="C12M1/28 ##容器的部分[3]" Target="frmContent" Href="../searchservlet?query=C12M1/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12M1/28">
+        <TreeNode Title="C12M1/30 ###擦棉拭采样器[3]" Target="frmContent" Href="../searchservlet?query=C12M1/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12M1/30"/>
+      </TreeNode>
+      <TreeNode Title="C12M1/32 ##多层型或连续型[3]" Target="frmContent" Href="../searchservlet?query=C12M1/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12M1/32"/>
+    </TreeNode>
+    <TreeNode Title="C12M1/33 #解裂器[5]" Target="frmContent" Href="../searchservlet?query=C12M1/33&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12M1/33"/>
+    <TreeNode Title="C12M1/34 #用条件测量或信号传感方法测量或检验，如菌落计数器[3]" Target="frmContent" Href="../searchservlet?query=C12M1/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12M1/34"/>
+    <TreeNode Title="C12M1/36 #包括条件或时间反应控制，如自动控制的发酵器(一般控制或调节入G05)[3]" Target="frmContent" Href="../searchservlet?query=C12M1/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12M1/36">
+      <TreeNode Title="C12M1/38 ##温度反应性控制[3]" Target="frmContent" Href="../searchservlet?query=C12M1/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12M1/38"/>
+    </TreeNode>
+    <TreeNode Title="C12M1/40 #为使用游离的、固定的或与载体结合的酶特殊设计的装置，如含有固定化酶的流动床装置[3]" Target="frmContent" Href="../searchservlet?query=C12M1/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12M1/40"/>
+    <TreeNode Title="C12M1/42 #用电或波能(如磁力、声波)处理微生物或酶的装置[5]" Target="frmContent" Href="../searchservlet?query=C12M1/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12M1/42"/>
+  </TreeNode>
+  <TreeNode Title="C12M3/00 组织、人类、动物或植物细胞或病毒培养装置[3]" Target="frmContent" Href="../searchservlet?query=C12M3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12M3/00">
+    <TreeNode Title="C12M3/02 #采用悬浮的方法[3]" Target="frmContent" Href="../searchservlet?query=C12M3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12M3/02"/>
+    <TreeNode Title="C12M3/04 #采用薄层的方法[3]" Target="frmContent" Href="../searchservlet?query=C12M3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12M3/04"/>
+    <TreeNode Title="C12M3/06 #用过滤、超滤、反向渗透或透析方法[5]" Target="frmContent" Href="../searchservlet?query=C12M3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12M3/06"/>
+    <TreeNode Title="C12M3/08 #组织解集聚装置[5]" Target="frmContent" Href="../searchservlet?query=C12M3/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12M3/08"/>
+    <TreeNode Title="C12M3/10 #在鸡蛋中培养[5]" Target="frmContent" Href="../searchservlet?query=C12M3/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12M3/10"/>
+  </TreeNode>
+</Root>

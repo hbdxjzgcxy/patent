@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="A61J1/00 专用于医学或医药目的的容器(用于口服的胶囊或类似物入A61J 3/07；医疗器械盒、医生包入A61B 19/02；放射性物质的容器入G21F 5/00) [4，5]" Target="frmContent" Href="../searchservlet?query=A61J1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61J1/00">
+    <TreeNode Title="A61J1/03 #用于丸剂或片剂(丸剂或片剂特殊分配方法的容器入B65D 83/04) [5]" Target="frmContent" Href="../searchservlet?query=A61J1/03&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61J1/03"/>
+    <TreeNode Title="A61J1/05 #用于收集、贮存或输送血液、血浆或医用液体的 [5]" Target="frmContent" Href="../searchservlet?query=A61J1/05&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61J1/05">
+      <TreeNode Title="A61J1/06 ##安瓿或卡普耳(注射用安瓿或卡普耳入A61M 5/28)" Target="frmContent" Href="../searchservlet?query=A61J1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61J1/06"/>
+      <TreeNode Title="A61J1/10 ##袋状容器 [5]" Target="frmContent" Href="../searchservlet?query=A61J1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61J1/10">
+        <TreeNode Title="A61J1/12 ###带有用于容纳内含物的样品的装置 [5]" Target="frmContent" Href="../searchservlet?query=A61J1/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61J1/12"/>
+      </TreeNode>
+      <TreeNode Title="A61J1/14 ##零件；配件(A61J 7/00优先；开盖器入B65D，B67B 7/00) [5]" Target="frmContent" Href="../searchservlet?query=A61J1/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61J1/14">
+        <TreeNode Title="A61J1/16 ###容器的支持器 [5]" Target="frmContent" Href="../searchservlet?query=A61J1/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61J1/16"/>
+        <TreeNode Title="A61J1/18 ###用于指出容器内含物的状态的装置，例如无菌状态 [5]" Target="frmContent" Href="../searchservlet?query=A61J1/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61J1/18"/>
+        <TreeNode Title="A61J1/20 ###用于运送液体的装置，例如从药水瓶中送到注射器中 [5]" Target="frmContent" Href="../searchservlet?query=A61J1/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61J1/20">
+          <TreeNode Title="A61J1/22 ####带有用来计量液体量的装置 [5]" Target="frmContent" Href="../searchservlet?query=A61J1/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61J1/22"/>
+        </TreeNode>
+      </TreeNode>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="A61J3/00 专用于将药品制成特殊的物理或服用形式的装置或方法(化学方面见有关大类)" Target="frmContent" Href="../searchservlet?query=A61J3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61J3/00">
+    <TreeNode Title="A61J3/02 #制成粉剂形式" Target="frmContent" Href="../searchservlet?query=A61J3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61J3/02"/>
+    <TreeNode Title="A61J3/04 #制成油膏形式" Target="frmContent" Href="../searchservlet?query=A61J3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61J3/04"/>
+    <TreeNode Title="A61J3/06 #制成丸剂、锭剂或糖衣丸剂形式" Target="frmContent" Href="../searchservlet?query=A61J3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61J3/06"/>
+    <TreeNode Title="A61J3/07 #制成胶囊或类似口服用小囊丸剂形式" Target="frmContent" Href="../searchservlet?query=A61J3/07&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61J3/07"/>
+    <TreeNode Title="A61J3/08 #制成栓塞剂或粘剂形式" Target="frmContent" Href="../searchservlet?query=A61J3/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61J3/08"/>
+    <TreeNode Title="A61J3/10 #制成压缩片剂形(片剂压力机入B30B 11/00)" Target="frmContent" Href="../searchservlet?query=A61J3/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61J3/10"/>
+  </TreeNode>
+  <TreeNode Title="A61J7/00 喂口服药用具，例如汤匙(量重匙入G01G 19/56)；丸药计数器；用于指示时间或提醒服药的装置" Target="frmContent" Href="../searchservlet?query=A61J7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61J7/00">
+    <TreeNode Title="A61J7/02 #丸剂计数装置 [5]" Target="frmContent" Href="../searchservlet?query=A61J7/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61J7/02"/>
+    <TreeNode Title="A61J7/04 #用于指示时间或提醒服药的装置，例如程控施药器 [5]" Target="frmContent" Href="../searchservlet?query=A61J7/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61J7/04"/>
+  </TreeNode>
+  <TreeNode Title="A61J9/00 一般喂饲瓶" Target="frmContent" Href="../searchservlet?query=A61J9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61J9/00">
+    <TreeNode Title="A61J9/02 #带温度计的" Target="frmContent" Href="../searchservlet?query=A61J9/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61J9/02"/>
+    <TreeNode Title="A61J9/04 #带供空气装置的" Target="frmContent" Href="../searchservlet?query=A61J9/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61J9/04"/>
+    <TreeNode Title="A61J9/06 #持瓶器" Target="frmContent" Href="../searchservlet?query=A61J9/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61J9/06"/>
+    <TreeNode Title="A61J9/08 #瓶保护罩" Target="frmContent" Href="../searchservlet?query=A61J9/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61J9/08"/>
+  </TreeNode>
+  <TreeNode Title="A61J11/00 橡皮奶嘴" Target="frmContent" Href="../searchservlet?query=A61J11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61J11/00">
+    <TreeNode Title="A61J11/02 #带供空气装置的" Target="frmContent" Href="../searchservlet?query=A61J11/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61J11/02"/>
+    <TreeNode Title="A61J11/04 #带固定于奶瓶上的装置的" Target="frmContent" Href="../searchservlet?query=A61J11/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61J11/04"/>
+  </TreeNode>
+  <TreeNode Title="A61J13/00 乳头护罩" Target="frmContent" Href="../searchservlet?query=A61J13/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61J13/00"/>
+  <TreeNode Title="A61J15/00 治疗用饲管" Target="frmContent" Href="../searchservlet?query=A61J15/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61J15/00"/>
+  <TreeNode Title="A61J17/00 (哄)婴儿用的橡皮奶头；出牙咬环" Target="frmContent" Href="../searchservlet?query=A61J17/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61J17/00">
+    <TreeNode Title="A61J17/02 #出牙咬环 [5]" Target="frmContent" Href="../searchservlet?query=A61J17/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61J17/02"/>
+  </TreeNode>
+  <TreeNode Title="A61J19/00 接受唾液的器具，例如痰盂(牙科用的入A61C 17/14；病床用痰盂入A61G 7/05)" Target="frmContent" Href="../searchservlet?query=A61J19/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61J19/00">
+    <TreeNode Title="A61J19/02 #痰瓶" Target="frmContent" Href="../searchservlet?query=A61J19/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61J19/02"/>
+    <TreeNode Title="A61J19/04 #带供水的痰盂" Target="frmContent" Href="../searchservlet?query=A61J19/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61J19/04"/>
+    <TreeNode Title="A61J19/06 #可燃烧的痰杯" Target="frmContent" Href="../searchservlet?query=A61J19/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61J19/06"/>
+  </TreeNode>
+</Root>

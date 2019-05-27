@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="F41B1/00 喷枪，即通过瞬间力抛射投射物，例如豆子或飞镖(爆音枪入A63H)" Target="frmContent" Href="../searchservlet?query=F41B1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41B1/00"/>
+  <TreeNode Title="F41B3/00 投掷武器(抛投泥塑鸽或泥盘靶入F41J 9/18)" Target="frmContent" Href="../searchservlet?query=F41B3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41B3/00">
+    <TreeNode Title="F41B3/02 #弹弓，例如投掷钢球[3]" Target="frmContent" Href="../searchservlet?query=F41B3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41B3/02">
+      <TreeNode Title="F41B3/03 ##具有能枢轴转动的发射臂的弹弓[5]" Target="frmContent" Href="../searchservlet?query=F41B3/03&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41B3/03"/>
+    </TreeNode>
+    <TreeNode Title="F41B3/04 #离心投掷装置[3]" Target="frmContent" Href="../searchservlet?query=F41B3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41B3/04"/>
+  </TreeNode>
+  <TreeNode Title="F41B4/00 摩擦轮操作的发射器[5]" Target="frmContent" Href="../searchservlet?query=F41B4/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41B4/00"/>
+  <TreeNode Title="F41B5/00 弓；弩" Target="frmContent" Href="../searchservlet?query=F41B5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41B5/00">
+    <TreeNode Title="F41B5/06 #箭袋[3]" Target="frmContent" Href="../searchservlet?query=F41B5/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41B5/06"/>
+    <TreeNode Title="F41B5/10 #组合弓[5]" Target="frmContent" Href="../searchservlet?query=F41B5/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41B5/10"/>
+    <TreeNode Title="F41B5/12 #横弓[5]" Target="frmContent" Href="../searchservlet?query=F41B5/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41B5/12"/>
+    <TreeNode Title="F41B5/14 #弓的部件；用于弧形发射的附件(弓的瞄准装置入F41G 1/467)[5]" Target="frmContent" Href="../searchservlet?query=F41B5/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41B5/14">
+      <TreeNode Title="F41B5/16 ##射箭运动员的指形梢(游戏用的手臂或手保护器一般入A41D 13/08) [5]" Target="frmContent" Href="../searchservlet?query=F41B5/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41B5/16"/>
+      <TreeNode Title="F41B5/18 ##弓弦的拉或释放装置(F41B 5/16优先)[5]" Target="frmContent" Href="../searchservlet?query=F41B5/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41B5/18"/>
+      <TreeNode Title="F41B5/20 ##弓稳定器或振动阻尼器[5]" Target="frmContent" Href="../searchservlet?query=F41B5/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41B5/20"/>
+      <TreeNode Title="F41B5/22 ##箭托或导杆[5]" Target="frmContent" Href="../searchservlet?query=F41B5/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41B5/22"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="F41B6/00 电磁发射器[5]" Target="frmContent" Href="../searchservlet?query=F41B6/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41B6/00"/>
+  <TreeNode Title="F41B7/00 弹簧枪(弹弓入F41B 3/02)" Target="frmContent" Href="../searchservlet?query=F41B7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41B7/00">
+    <TreeNode Title="F41B7/02 #弹簧成为一部分投射物或抛射物" Target="frmContent" Href="../searchservlet?query=F41B7/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41B7/02"/>
+    <TreeNode Title="F41B7/04 #适用于放射鱼叉的" Target="frmContent" Href="../searchservlet?query=F41B7/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41B7/04"/>
+    <TreeNode Title="F41B7/08 #玩具枪" Target="frmContent" Href="../searchservlet?query=F41B7/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41B7/08"/>
+  </TreeNode>
+  <TreeNode Title="F41B9/00 液体喷射枪，例如水枪" Target="frmContent" Href="../searchservlet?query=F41B9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41B9/00"/>
+  <TreeNode Title="F41B11/00 气枪，例如气手枪；蒸气枪" Target="frmContent" Href="../searchservlet?query=F41B11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41B11/00">
+    <TreeNode Title="F41B11/02 #适合于从弹仓中供给或装填发射物" Target="frmContent" Href="../searchservlet?query=F41B11/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41B11/02"/>
+    <TreeNode Title="F41B11/04 #喷射粉末的，例如胡椒粉" Target="frmContent" Href="../searchservlet?query=F41B11/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41B11/04"/>
+    <TreeNode Title="F41B11/06 #带有用气筒提供压力的(F41B 11/08优先；但阀入F41B 11/32)" Target="frmContent" Href="../searchservlet?query=F41B11/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41B11/06"/>
+    <TreeNode Title="F41B11/08 #适用于放射鱼叉的" Target="frmContent" Href="../searchservlet?query=F41B11/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41B11/08"/>
+    <TreeNode Title="F41B11/12 #在每次发射期间，具有气体活塞操作的压缩机冲程[5]" Target="frmContent" Href="../searchservlet?query=F41B11/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41B11/12">
+      <TreeNode Title="F41B11/14 ##弹簧操作的[5]" Target="frmContent" Href="../searchservlet?query=F41B11/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41B11/14">
+        <TreeNode Title="F41B11/16 ###在活塞反方向移动，例如反冲变换中有附加稳定质量[5]" Target="frmContent" Href="../searchservlet?query=F41B11/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41B11/16"/>
+        <TreeNode Title="F41B11/18 ###在拉紧情况下，放置弹簧的装置[5]" Target="frmContent" Href="../searchservlet?query=F41B11/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41B11/18">
+          <TreeNode Title="F41B11/20 ####用回转杆[5]" Target="frmContent" Href="../searchservlet?query=F41B11/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41B11/20">
+            <TreeNode Title="F41B11/22 #####在分解气枪中[5]" Target="frmContent" Href="../searchservlet?query=F41B11/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41B11/22"/>
+          </TreeNode>
+        </TreeNode>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="F41B11/24 #在发射期间具有可变形的膜盒或球压缩的[5]" Target="frmContent" Href="../searchservlet?query=F41B11/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41B11/24"/>
+    <TreeNode Title="F41B11/26 #在射击前有预压空气的(F41B 11/06，F41B 11/08，F41B 11/32优先)[5]" Target="frmContent" Href="../searchservlet?query=F41B11/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41B11/26">
+      <TreeNode Title="F41B11/28 ##所用的泵或压缩器装置[5]" Target="frmContent" Href="../searchservlet?query=F41B11/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41B11/28">
+        <TreeNode Title="F41B11/30 ###由回转杆装置操作的，例如在分解气枪中[5]" Target="frmContent" Href="../searchservlet?query=F41B11/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41B11/30"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="F41B11/32 #气枪中的阀装置，或特别适合于气枪的阀装置[5]" Target="frmContent" Href="../searchservlet?query=F41B11/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41B11/32"/>
+    <TreeNode Title="F41B11/34 #密封装置;活塞[5]" Target="frmContent" Href="../searchservlet?query=F41B11/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41B11/34"/>
+  </TreeNode>
+  <TreeNode Title="F41B13/00 刺入武器(刺刀入F41C 27/18)；作为随身武器用的砍杀武器(击剑教练用具入A63B 69/02；手用刀具的护套入B26B 29/00)" Target="frmContent" Href="../searchservlet?query=F41B13/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41B13/00">
+    <TreeNode Title="F41B13/02 #马刀；短剑；剑；尖剑" Target="frmContent" Href="../searchservlet?query=F41B13/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41B13/02">
+      <TreeNode Title="F41B13/04 ##所用的护套或鞘" Target="frmContent" Href="../searchservlet?query=F41B13/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41B13/04">
+        <TreeNode Title="F41B13/06 ###作为伪装用的，例如藏有尖刀的手杖" Target="frmContent" Href="../searchservlet?query=F41B13/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41B13/06"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="F41B13/08 #短剑；匕首" Target="frmContent" Href="../searchservlet?query=F41B13/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41B13/08"/>
+    <TreeNode Title="F41B13/10 #长矛；矛(运动用矛入A63B 65/02)" Target="frmContent" Href="../searchservlet?query=F41B13/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41B13/10"/>
+  </TreeNode>
+  <TreeNode Title="F41B15/00 不包含在其他类目中的武器" Target="frmContent" Href="../searchservlet?query=F41B15/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41B15/00">
+    <TreeNode Title="F41B15/02 #警棍；元帅杖；手仗；橡树棍" Target="frmContent" Href="../searchservlet?query=F41B15/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41B15/02">
+      <TreeNode Title="F41B15/04 ##带有电击晕倒作用的" Target="frmContent" Href="../searchservlet?query=F41B15/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41B15/04"/>
+      <TreeNode Title="F41B15/06 ##带有插入式短刀或长钉" Target="frmContent" Href="../searchservlet?query=F41B15/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41B15/06"/>
+    </TreeNode>
+    <TreeNode Title="F41B15/08 #肘节防卫用具" Target="frmContent" Href="../searchservlet?query=F41B15/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41B15/08"/>
+    <TreeNode Title="F41B15/10 #由绳索与重物组成的捕捉动物用的武器" Target="frmContent" Href="../searchservlet?query=F41B15/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41B15/10"/>
+  </TreeNode>
+</Root>

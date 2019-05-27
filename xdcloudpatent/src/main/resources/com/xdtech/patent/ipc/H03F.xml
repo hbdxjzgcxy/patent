@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="H03F1/00 只用电子管，只用半导体器件或只用未特别指明的器件作为放大元件的放大器的零部件" Target="frmContent" Href="../searchservlet?query=H03F1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03F1/00">
+    <TreeNode Title="H03F1/02 #为提高效率对放大器的改进，例如滑动甲类放大级，采用辅助振荡" Target="frmContent" Href="../searchservlet?query=H03F1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03F1/02">
+      <TreeNode Title="H03F1/04 ##在电子管放大器中" Target="frmContent" Href="../searchservlet?query=H03F1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03F1/04">
+        <TreeNode Title="H03F1/06 ###提高已调制射频波的放大效率；提高也起调制器作用的放大器的效率[2]" Target="frmContent" Href="../searchservlet?query=H03F1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03F1/06">
+          <TreeNode Title="H03F1/07 ####多赫蒂(Doherty)型放大器[2]" Target="frmContent" Href="../searchservlet?query=H03F1/07&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03F1/07"/>
+        </TreeNode>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="H03F1/08 #为减少放大元件内阻的有害影响对放大器的改进(具有包括这些阻抗的级间耦合网络的宽带放大器入H03F 1/42；消除真空管中电子渡越时间效应的入H01J 21/34)" Target="frmContent" Href="../searchservlet?query=H03F1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03F1/08">
+      <TreeNode Title="H03F1/10 ##用具有多个电极连接件的放大元件" Target="frmContent" Href="../searchservlet?query=H03F1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03F1/10"/>
+      <TreeNode Title="H03F1/12 ##用衰减装置" Target="frmContent" Href="../searchservlet?query=H03F1/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03F1/12">
+        <TreeNode Title="H03F1/13 ###在电子管放大器中[2]" Target="frmContent" Href="../searchservlet?query=H03F1/13&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03F1/13"/>
+      </TreeNode>
+      <TreeNode Title="H03F1/14 ##用中和手段" Target="frmContent" Href="../searchservlet?query=H03F1/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03F1/14">
+        <TreeNode Title="H03F1/16 ###在电子管放大器中" Target="frmContent" Href="../searchservlet?query=H03F1/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03F1/16"/>
+      </TreeNode>
+      <TreeNode Title="H03F1/18 ##用分布耦合" Target="frmContent" Href="../searchservlet?query=H03F1/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03F1/18">
+        <TreeNode Title="H03F1/20 ###在电子管放大器中" Target="frmContent" Href="../searchservlet?query=H03F1/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03F1/20"/>
+      </TreeNode>
+      <TreeNode Title="H03F1/22 ##用栅—阴耦合，即按地阴极或发射极之后是接地栅极或基极" Target="frmContent" Href="../searchservlet?query=H03F1/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03F1/22">
+        <TreeNode Title="H03F1/24 ###在电子管放大器中" Target="frmContent" Href="../searchservlet?query=H03F1/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03F1/24"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="H03F1/26 #为减少由放大元件产生的噪声影响对放大器的改进" Target="frmContent" Href="../searchservlet?query=H03F1/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03F1/26">
+      <TreeNode Title="H03F1/28 ##在电子管放大器中" Target="frmContent" Href="../searchservlet?query=H03F1/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03F1/28"/>
+    </TreeNode>
+    <TreeNode Title="H03F1/30 #为减少温度变化或电源电压变化的影响对放大器的改进" Target="frmContent" Href="../searchservlet?query=H03F1/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03F1/30"/>
+    <TreeNode Title="H03F1/32 #为减少非线性失真对放大器的改进(用负反馈的入H03F 1/34)" Target="frmContent" Href="../searchservlet?query=H03F1/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03F1/32">
+      <TreeNode Title="H03F1/33 ##在电子管放大器中[2]" Target="frmContent" Href="../searchservlet?query=H03F1/33&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03F1/33"/>
+    </TreeNode>
+    <TreeNode Title="H03F1/34 #有或无正反馈的负反馈电路装置(H03F 1/02至H03F 1/30，H03F 1/38至H03F 1/50，H03F 3/50优先)[3]" Target="frmContent" Href="../searchservlet?query=H03F1/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03F1/34">
+      <TreeNode Title="H03F1/36 ##在电子管放大器中" Target="frmContent" Href="../searchservlet?query=H03F1/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03F1/36"/>
+    </TreeNode>
+    <TreeNode Title="H03F1/38 #无负反馈的正反馈电路装置" Target="frmContent" Href="../searchservlet?query=H03F1/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03F1/38">
+      <TreeNode Title="H03F1/40 ##在电子管放大器中" Target="frmContent" Href="../searchservlet?query=H03F1/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03F1/40"/>
+    </TreeNode>
+    <TreeNode Title="H03F1/42 #为扩展带宽对放大器的改进" Target="frmContent" Href="../searchservlet?query=H03F1/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03F1/42">
+      <TreeNode Title="H03F1/44 ##调谐放大器的改进" Target="frmContent" Href="../searchservlet?query=H03F1/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03F1/44">
+        <TreeNode Title="H03F1/46 ###只带有电子管" Target="frmContent" Href="../searchservlet?query=H03F1/46&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03F1/46"/>
+      </TreeNode>
+      <TreeNode Title="H03F1/48 ##非周期放大器的改进" Target="frmContent" Href="../searchservlet?query=H03F1/48&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03F1/48">
+        <TreeNode Title="H03F1/50 ###只带有电子管" Target="frmContent" Href="../searchservlet?query=H03F1/50&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03F1/50"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="H03F1/52 #保护此类放大器用的电路装置[3]" Target="frmContent" Href="../searchservlet?query=H03F1/52&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03F1/52">
+      <TreeNode Title="H03F1/54 ##只带有电子管[3]" Target="frmContent" Href="../searchservlet?query=H03F1/54&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03F1/54"/>
+    </TreeNode>
+    <TreeNode Title="H03F1/56 #其他类不包含的输入或输出阻抗的改进[3]" Target="frmContent" Href="../searchservlet?query=H03F1/56&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03F1/56"/>
+  </TreeNode>
+  <TreeNode Title="H03F3/00 只带有电子管或只带有半导体器件作为放大元件的放大器" Target="frmContent" Href="../searchservlet?query=H03F3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03F3/00">
+    <TreeNode Title="H03F3/02 #只带有电子管的(其后各小组优先)" Target="frmContent" Href="../searchservlet?query=H03F3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03F3/02"/>
+    <TreeNode Title="H03F3/04 #只带有半导体器件的(其后各小组优先)" Target="frmContent" Href="../searchservlet?query=H03F3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03F3/04">
+      <TreeNode Title="H03F3/06 ##应用空穴存储效应" Target="frmContent" Href="../searchservlet?query=H03F3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03F3/06"/>
+      <TreeNode Title="H03F3/08 ##由光控制" Target="frmContent" Href="../searchservlet?query=H03F3/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03F3/08"/>
+      <TreeNode Title="H03F3/10 ##带有二极管" Target="frmContent" Href="../searchservlet?query=H03F3/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03F3/10">
+        <TreeNode Title="H03F3/12 ###带有江畸(Esaki)二极管" Target="frmContent" Href="../searchservlet?query=H03F3/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03F3/12"/>
+      </TreeNode>
+      <TreeNode Title="H03F3/14 ##带有多于3个电极或多于两个PN结的放大器件" Target="frmContent" Href="../searchservlet?query=H03F3/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03F3/14"/>
+      <TreeNode Title="H03F3/16 ##带有场效应器件" Target="frmContent" Href="../searchservlet?query=H03F3/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03F3/16"/>
+    </TreeNode>
+    <TreeNode Title="H03F3/18 #带有互补式半导体器件(其后各小组优先)" Target="frmContent" Href="../searchservlet?query=H03F3/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03F3/18"/>
+    <TreeNode Title="H03F3/181 #低频放大器，例如音频前置放大器[2]" Target="frmContent" Href="../searchservlet?query=H03F3/181&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03F3/181">
+      <TreeNode Title="H03F3/183 ##只带有半导体器件[2]" Target="frmContent" Href="../searchservlet?query=H03F3/183&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03F3/183">
+        <TreeNode Title="H03F3/185 ###带有场效应器件(H03F 3/187优先)[2]" Target="frmContent" Href="../searchservlet?query=H03F3/185&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03F3/185"/>
+        <TreeNode Title="H03F3/187 ###在集成电路中[2]" Target="frmContent" Href="../searchservlet?query=H03F3/187&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03F3/187"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="H03F3/189 #高频放大器，例如射频放大器[2]" Target="frmContent" Href="../searchservlet?query=H03F3/189&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03F3/189">
+      <TreeNode Title="H03F3/19 ##只带有半导体器件[2]" Target="frmContent" Href="../searchservlet?query=H03F3/19&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03F3/19">
+        <TreeNode Title="H03F3/191 ###调谐放大器(H03F 3/193；H03F 3/195优先)[2]" Target="frmContent" Href="../searchservlet?query=H03F3/191&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03F3/191"/>
+        <TreeNode Title="H03F3/193 ###带有场效应器件(H03F 3/195优先)[2]" Target="frmContent" Href="../searchservlet?query=H03F3/193&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03F3/193"/>
+        <TreeNode Title="H03F3/195 ###在集成电路中[2]" Target="frmContent" Href="../searchservlet?query=H03F3/195&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03F3/195"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="H03F3/20 #功率放大器,例如乙类放大器,丙类放大器(H03F 3/26 至 H03F 3/30优先)" Target="frmContent" Href="../searchservlet?query=H03F3/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03F3/20">
+      <TreeNode Title="H03F3/21 ##只带有半导体器件[2]" Target="frmContent" Href="../searchservlet?query=H03F3/21&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03F3/21">
+        <TreeNode Title="H03F3/213 ###在集成电路中[2]" Target="frmContent" Href="../searchservlet?query=H03F3/213&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03F3/213"/>
+        <TreeNode Title="H03F3/217 ###丁类功率放大器；开关放大器[2]" Target="frmContent" Href="../searchservlet?query=H03F3/217&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03F3/217"/>
+      </TreeNode>
+      <TreeNode Title="H03F3/22 ##只带有电子管(H03F 3/24优先)" Target="frmContent" Href="../searchservlet?query=H03F3/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03F3/22"/>
+      <TreeNode Title="H03F3/24 ##发射机输出级的" Target="frmContent" Href="../searchservlet?query=H03F3/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03F3/24"/>
+    </TreeNode>
+    <TreeNode Title="H03F3/26 #推挽放大器；其所用分相器(双单端推挽配置或所用的分相器入H03F 3/30)" Target="frmContent" Href="../searchservlet?query=H03F3/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03F3/26">
+      <TreeNode Title="H03F3/28 ##只带有电子管" Target="frmContent" Href="../searchservlet?query=H03F3/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03F3/28"/>
+    </TreeNode>
+    <TreeNode Title="H03F3/30 #单端推挽放大器；其所用分相器" Target="frmContent" Href="../searchservlet?query=H03F3/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03F3/30">
+      <TreeNode Title="H03F3/32 ##只带有电子管" Target="frmContent" Href="../searchservlet?query=H03F3/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03F3/32"/>
+    </TreeNode>
+    <TreeNode Title="H03F3/34 #各级均用直流耦合的直流放大器(H03F 3/45优先)[3]" Target="frmContent" Href="../searchservlet?query=H03F3/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03F3/34">
+      <TreeNode Title="H03F3/343 ##只带有半导体器件[2]" Target="frmContent" Href="../searchservlet?query=H03F3/343&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03F3/343">
+        <TreeNode Title="H03F3/345 ###带有场效应器件(H03F 3/347优先)[2]" Target="frmContent" Href="../searchservlet?query=H03F3/345&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03F3/345"/>
+        <TreeNode Title="H03F3/347 ###在集成电路中[2]" Target="frmContent" Href="../searchservlet?query=H03F3/347&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03F3/347"/>
+      </TreeNode>
+      <TreeNode Title="H03F3/36 ##带有电子管" Target="frmContent" Href="../searchservlet?query=H03F3/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03F3/36"/>
+    </TreeNode>
+    <TreeNode Title="H03F3/38 #输入端有调制器、输出端有解调器的直流放大器；专门用于此种放大器的调制器或解调器(一般调制器入H03C；一般解调器入H03D；一般脉冲幅度调制入H03K 7/02；一般脉冲幅度解调入H03K 9/02)" Target="frmContent" Href="../searchservlet?query=H03F3/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03F3/38">
+      <TreeNode Title="H03F3/387 ##只带有半导体器件[2]" Target="frmContent" Href="../searchservlet?query=H03F3/387&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03F3/387">
+        <TreeNode Title="H03F3/393 ###带有场效应器件[2]" Target="frmContent" Href="../searchservlet?query=H03F3/393&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03F3/393"/>
+      </TreeNode>
+      <TreeNode Title="H03F3/40 ##只带有电子管" Target="frmContent" Href="../searchservlet?query=H03F3/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03F3/40"/>
+    </TreeNode>
+    <TreeNode Title="H03F3/42 #有两个或两个以上放大元件的放大器，这些元件与负载串联构成直流通道，每个元件的控制极至少由部分输入信号激励，例如所谓“图腾柱”放大器" Target="frmContent" Href="../searchservlet?query=H03F3/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03F3/42">
+      <TreeNode Title="H03F3/44 ##只带有电子管" Target="frmContent" Href="../searchservlet?query=H03F3/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03F3/44"/>
+    </TreeNode>
+    <TreeNode Title="H03F3/45 #差动放大器[2]" Target="frmContent" Href="../searchservlet?query=H03F3/45&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03F3/45"/>
+    <TreeNode Title="H03F3/46 #来复式放大器" Target="frmContent" Href="../searchservlet?query=H03F3/46&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03F3/46">
+      <TreeNode Title="H03F3/48 ##只带有电子管" Target="frmContent" Href="../searchservlet?query=H03F3/48&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03F3/48"/>
+    </TreeNode>
+    <TreeNode Title="H03F3/50 #放大器的输入输出由放大元件输入输出电路所共有的阻抗提供，例如阴极跟随器" Target="frmContent" Href="../searchservlet?query=H03F3/50&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03F3/50">
+      <TreeNode Title="H03F3/52 ##只带有电子管" Target="frmContent" Href="../searchservlet?query=H03F3/52&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03F3/52"/>
+    </TreeNode>
+    <TreeNode Title="H03F3/54 #应用电子管或半导体器件中电子渡越时间效应的放大器(参量放大器入H03F 7/00；固态行波器件入H01L 45/02)" Target="frmContent" Href="../searchservlet?query=H03F3/54&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03F3/54">
+      <TreeNode Title="H03F3/55 ##只带有半导体器件[2]" Target="frmContent" Href="../searchservlet?query=H03F3/55&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03F3/55"/>
+      <TreeNode Title="H03F3/56 ##用速调管" Target="frmContent" Href="../searchservlet?query=H03F3/56&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03F3/56"/>
+      <TreeNode Title="H03F3/58 ##用行波管" Target="frmContent" Href="../searchservlet?query=H03F3/58&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03F3/58"/>
+    </TreeNode>
+    <TreeNode Title="H03F3/60 #耦合网络具有分布常数的放大器，例如带有波导谐振器(H03F 3/54优先)" Target="frmContent" Href="../searchservlet?query=H03F3/60&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03F3/60"/>
+    <TreeNode Title="H03F3/62 #双向放大器" Target="frmContent" Href="../searchservlet?query=H03F3/62&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03F3/62">
+      <TreeNode Title="H03F3/64 ##只带有电子管" Target="frmContent" Href="../searchservlet?query=H03F3/64&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03F3/64"/>
+    </TreeNode>
+    <TreeNode Title="H03F3/66 #产生一个频率的振荡并能同时放大另一频率信号的放大器" Target="frmContent" Href="../searchservlet?query=H03F3/66&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03F3/66"/>
+    <TreeNode Title="H03F3/68 #放大器的组合，例如用于立体声的多通道放大器" Target="frmContent" Href="../searchservlet?query=H03F3/68&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03F3/68"/>
+    <TreeNode Title="H03F3/70 #电荷放大器[2]" Target="frmContent" Href="../searchservlet?query=H03F3/70&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03F3/70"/>
+    <TreeNode Title="H03F3/72 #选通放大器，即利用控制信号使其工作或不工作的放大器[2]" Target="frmContent" Href="../searchservlet?query=H03F3/72&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03F3/72"/>
+  </TreeNode>
+  <TreeNode Title="H03F5/00 用电子管和半导体器件两类器件作为放大元件的放大器" Target="frmContent" Href="../searchservlet?query=H03F5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03F5/00"/>
+  <TreeNode Title="H03F7/00 参量放大器(由光、红外波或紫外波参量产生或放大的装置或设备入G02F 1/39)" Target="frmContent" Href="../searchservlet?query=H03F7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03F7/00">
+    <TreeNode Title="H03F7/02 #用可变电感元件；用可变导磁率元件" Target="frmContent" Href="../searchservlet?query=H03F7/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03F7/02"/>
+    <TreeNode Title="H03F7/04 #用可变电容元件；用可变介电常数元件" Target="frmContent" Href="../searchservlet?query=H03F7/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03F7/04"/>
+    <TreeNode Title="H03F7/06 #用电子束管" Target="frmContent" Href="../searchservlet?query=H03F7/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03F7/06"/>
+  </TreeNode>
+  <TreeNode Title="H03F9/00 磁放大器" Target="frmContent" Href="../searchservlet?query=H03F9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03F9/00">
+    <TreeNode Title="H03F9/02 #电流控制的，即负荷电流双方向流过主线圈[2]" Target="frmContent" Href="../searchservlet?query=H03F9/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03F9/02"/>
+    <TreeNode Title="H03F9/04 #电压控制的，即负荷电流仅单向流过主线圈，例如Logan电路(H03F 9/06优先)[2]" Target="frmContent" Href="../searchservlet?query=H03F9/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03F9/04"/>
+    <TreeNode Title="H03F9/06 #由电压时间积分控制，即负荷电流仅单向流过主线圈，而主线圈绕组也能用做控制绕组，例如拉米(Ramey)电路[2]" Target="frmContent" Href="../searchservlet?query=H03F9/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03F9/06"/>
+  </TreeNode>
+  <TreeNode Title="H03F11/00 介质放大器H03F 13/00应用由两个机械耦合或声耦合变换器组成的放大元件的放大器，例如电话—送话器的放大器" Target="frmContent" Href="../searchservlet?query=H03F11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03F11/00"/>
+  <TreeNode Title="H03F15/00 应用无机械运动的电—磁效应(例如利用霍尔效应)的放大器" Target="frmContent" Href="../searchservlet?query=H03F15/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03F15/00"/>
+  <TreeNode Title="H03F17/00 应用电发光元件或光电管的放大器" Target="frmContent" Href="../searchservlet?query=H03F17/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03F17/00"/>
+  <TreeNode Title="H03F19/00 应用超导效应的放大器" Target="frmContent" Href="../searchservlet?query=H03F19/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03F19/00"/>
+  <TreeNode Title="H03F99/00 本小类其他各组中不包括的技术主题[2009.01]" Target="frmContent" Href="../searchservlet?query=H03F99/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03F99/00"/>
+</Root>

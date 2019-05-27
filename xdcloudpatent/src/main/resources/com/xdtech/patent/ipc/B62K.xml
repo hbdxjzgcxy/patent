@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="B62K1/00 单轮自行车" Target="frmContent" Href="../searchservlet?query=B62K1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B62K1/00"/>
+  <TreeNode Title="B62K3/00 双轮自行车" Target="frmContent" Href="../searchservlet?query=B62K3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B62K3/00">
+    <TreeNode Title="B62K3/02 # 车架(串列车架入B62K 3/14)" Target="frmContent" Href="../searchservlet?query=B62K3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B62K3/02">
+      <TreeNode Title="B62K3/04 ##有大致水平顶杆的" Target="frmContent" Href="../searchservlet?query=B62K3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B62K3/04"/>
+      <TreeNode Title="B62K3/06 ##敞开型的" Target="frmContent" Href="../searchservlet?query=B62K3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B62K3/06">
+        <TreeNode Title="B62K3/08 ###有横杆的" Target="frmContent" Href="../searchservlet?query=B62K3/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B62K3/08"/>
+      </TreeNode>
+      <TreeNode Title="B62K3/10 ##单横梁型的，即转向头与后轴连接的" Target="frmContent" Href="../searchservlet?query=B62K3/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B62K3/10"/>
+    </TreeNode>
+    <TreeNode Title="B62K3/12 # 串列的" Target="frmContent" Href="../searchservlet?query=B62K3/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B62K3/12">
+      <TreeNode Title="B62K3/14 ##车架" Target="frmContent" Href="../searchservlet?query=B62K3/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B62K3/14"/>
+    </TreeNode>
+    <TreeNode Title="B62K3/16 # 专门适用于残疾乘骑者的" Target="frmContent" Href="../searchservlet?query=B62K3/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B62K3/16"/>
+  </TreeNode>
+  <TreeNode Title="B62K5/00 多于两个主要车轮的自行车(专门适用于残疾人的入A61G 5/00; 装有稳定乘骑用附加车轮的自行车架或支架入B62H 1/12)" Target="frmContent" Href="../searchservlet?query=B62K5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B62K5/00">
+    <TreeNode Title="B62K5/02 # 三轮自行车" Target="frmContent" Href="../searchservlet?query=B62K5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B62K5/02">
+      <TreeNode Title="B62K5/04 ##有两个同轴车轮的" Target="frmContent" Href="../searchservlet?query=B62K5/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B62K5/04">
+        <TreeNode Title="B62K5/06 ###车架" Target="frmContent" Href="../searchservlet?query=B62K5/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B62K5/06"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="B62K5/08 # 作用在一个以上车轮的转向机构" Target="frmContent" Href="../searchservlet?query=B62K5/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B62K5/08"/>
+  </TreeNode>
+  <TreeNode Title="B62K7/00 载货或载客自行车" Target="frmContent" Href="../searchservlet?query=B62K7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B62K7/00">
+    <TreeNode Title="B62K7/02 # 车架" Target="frmContent" Href="../searchservlet?query=B62K7/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B62K7/02">
+      <TreeNode Title="B62K7/04 ##有承载平台的(载物附件入B62J 7/00至B62J 11/00)" Target="frmContent" Href="../searchservlet?query=B62K7/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B62K7/04"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="B62K9/00 儿童自行车(玩具车入A63H 17/00)" Target="frmContent" Href="../searchservlet?query=B62K9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B62K9/00">
+    <TreeNode Title="B62K9/02 # 三轮自行车" Target="frmContent" Href="../searchservlet?query=B62K9/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B62K9/02"/>
+  </TreeNode>
+  <TreeNode Title="B62K11/00 摩托车；机器脚踏车；小型摩托车(不是形成车架一部分的整流罩或流线型部件入B62J；发动机到车轮的传动装置的传动入B62M)" Target="frmContent" Href="../searchservlet?query=B62K11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B62K11/00">
+    <TreeNode Title="B62K11/02 # 车架(以发动机位置为特点的具有辅助发动机的自行车或摩托车入B62M)" Target="frmContent" Href="../searchservlet?query=B62K11/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B62K11/02">
+      <TreeNode Title="B62K11/04 ##以发动机在前轮与后轮之间为特点的" Target="frmContent" Href="../searchservlet?query=B62K11/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B62K11/04">
+        <TreeNode Title="B62K11/06 ###车架是单梁型的" Target="frmContent" Href="../searchservlet?query=B62K11/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B62K11/06">
+          <TreeNode Title="B62K11/08 ####梁是由金属板制成的，例如形成燃料箱壁" Target="frmContent" Href="../searchservlet?query=B62K11/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B62K11/08"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="B62K11/10 ##以发动机在驱动后轮上面或侧面为特点的" Target="frmContent" Href="../searchservlet?query=B62K11/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B62K11/10"/>
+    </TreeNode>
+    <TreeNode Title="B62K11/12 # 以转向轮叉与发动机结合为特点的" Target="frmContent" Href="../searchservlet?query=B62K11/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B62K11/12"/>
+    <TreeNode Title="B62K11/14 # 车把结构，或专门适用于装在其上的控制装置的配置(手控装置本身入B62K 23/02)" Target="frmContent" Href="../searchservlet?query=B62K11/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B62K11/14"/>
+  </TreeNode>
+  <TreeNode Title="B62K13/00 可转换成或改制成其他类型自行车或陆地车辆的自行车(一般可转换的车辆入B60F 5/00；装有稳定乘骑用附加车轮的自行车架或支架入B62H 1/12)" Target="frmContent" Href="../searchservlet?query=B62K13/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B62K13/00">
+    <TreeNode Title="B62K13/02 # 成串列的" Target="frmContent" Href="../searchservlet?query=B62K13/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B62K13/02"/>
+    <TreeNode Title="B62K13/04 # 成三轮自行车的" Target="frmContent" Href="../searchservlet?query=B62K13/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B62K13/04"/>
+    <TreeNode Title="B62K13/06 # 成四轮自行车的，例如两辆自行车并排连在一起的" Target="frmContent" Href="../searchservlet?query=B62K13/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B62K13/06"/>
+    <TreeNode Title="B62K13/08 # 车架" Target="frmContent" Href="../searchservlet?query=B62K13/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B62K13/08"/>
+  </TreeNode>
+  <TreeNode Title="B62K15/00 可伸缩或可折叠的自行车" Target="frmContent" Href="../searchservlet?query=B62K15/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B62K15/00"/>
+  <TreeNode Title="B62K17/00 其他类目不包含的自行车" Target="frmContent" Href="../searchservlet?query=B62K17/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B62K17/00"/>
+  <TreeNode Title="B62K19/00 自行车架(专门适用于B62K 1/00至B62K 17/00各组内所述及的一个特定种类自行车架见有关组)" Target="frmContent" Href="../searchservlet?query=B62K19/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B62K19/00">
+    <TreeNode Title="B62K19/02 # 以车架构件的材料或截面为特点的" Target="frmContent" Href="../searchservlet?query=B62K19/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B62K19/02">
+      <TreeNode Title="B62K19/04 ##材料完全或主要是金属的，例如高弹性的材料" Target="frmContent" Href="../searchservlet?query=B62K19/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B62K19/04">
+        <TreeNode Title="B62K19/06 ###管材的" Target="frmContent" Href="../searchservlet?query=B62K19/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B62K19/06"/>
+        <TreeNode Title="B62K19/08 ###由板材制成的" Target="frmContent" Href="../searchservlet?query=B62K19/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B62K19/08"/>
+        <TreeNode Title="B62K19/10 ###管材和板材的组合" Target="frmContent" Href="../searchservlet?query=B62K19/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B62K19/10"/>
+        <TreeNode Title="B62K19/12 ###有铸造件的" Target="frmContent" Href="../searchservlet?query=B62K19/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B62K19/12"/>
+      </TreeNode>
+      <TreeNode Title="B62K19/14 ##材料完全或主要是木料的" Target="frmContent" Href="../searchservlet?query=B62K19/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B62K19/14"/>
+      <TreeNode Title="B62K19/16 ##材料完全或主要是塑料的" Target="frmContent" Href="../searchservlet?query=B62K19/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B62K19/16"/>
+    </TreeNode>
+    <TreeNode Title="B62K19/18 # 车架构件间的接头" Target="frmContent" Href="../searchservlet?query=B62K19/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B62K19/18">
+      <TreeNode Title="B62K19/20 ##焊接的、钎焊的或铜焊的" Target="frmContent" Href="../searchservlet?query=B62K19/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B62K19/20"/>
+      <TreeNode Title="B62K19/22 ##粘接" Target="frmContent" Href="../searchservlet?query=B62K19/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B62K19/22"/>
+      <TreeNode Title="B62K19/24 ##螺纹连接" Target="frmContent" Href="../searchservlet?query=B62K19/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B62K19/24"/>
+      <TreeNode Title="B62K19/26 ##铆接" Target="frmContent" Href="../searchservlet?query=B62K19/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B62K19/26"/>
+      <TreeNode Title="B62K19/28 ##增强接点的方法" Target="frmContent" Href="../searchservlet?query=B62K19/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B62K19/28"/>
+    </TreeNode>
+    <TreeNode Title="B62K19/30 # 为装其他自行车部件或附件的车架部位的形状(车轴悬挂装置入B62K 25/00)" Target="frmContent" Href="../searchservlet?query=B62K19/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B62K19/30">
+      <TreeNode Title="B62K19/32 ##转向头(其所用轴承入B62K 21/06)" Target="frmContent" Href="../searchservlet?query=B62K19/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B62K19/32"/>
+      <TreeNode Title="B62K19/34 ##底架" Target="frmContent" Href="../searchservlet?query=B62K19/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B62K19/34"/>
+      <TreeNode Title="B62K19/36 ##用于附装鞍座支柱，例如骑车时可调的" Target="frmContent" Href="../searchservlet?query=B62K19/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B62K19/36"/>
+      <TreeNode Title="B62K19/38 ##用于附装制动器部件的" Target="frmContent" Href="../searchservlet?query=B62K19/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B62K19/38"/>
+      <TreeNode Title="B62K19/40 ##用于附装附件的，例如载物架、车灯" Target="frmContent" Href="../searchservlet?query=B62K19/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B62K19/40">
+        <TreeNode Title="B62K19/42 ###用于轮胎打气筒的(不成为车架一部分的附设装置入B62J 11/02)" Target="frmContent" Href="../searchservlet?query=B62K19/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B62K19/42"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="B62K19/44 # 构成车架一部分的链条护板(链条护板本身入B62J 13/00)" Target="frmContent" Href="../searchservlet?query=B62K19/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B62K19/44"/>
+    <TreeNode Title="B62K19/46 # 构成车架一部分的行李架(行李架本身入B62J 7/00)" Target="frmContent" Href="../searchservlet?query=B62K19/46&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B62K19/46"/>
+    <TreeNode Title="B62K19/48 # 构成车架一部分的整流罩" Target="frmContent" Href="../searchservlet?query=B62K19/48&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B62K19/48"/>
+  </TreeNode>
+  <TreeNode Title="B62K21/00 转向机构(专门适用于B62K 1/00至B62K 17/00各组内所述及的一个特定种类自行车的转向机构见有关组)" Target="frmContent" Href="../searchservlet?query=B62K21/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B62K21/00">
+    <TreeNode Title="B62K21/02 # 前轮叉或相当构件，例如单叉" Target="frmContent" Href="../searchservlet?query=B62K21/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B62K21/02"/>
+    <TreeNode Title="B62K21/04 # 叉顶" Target="frmContent" Href="../searchservlet?query=B62K21/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B62K21/04"/>
+    <TreeNode Title="B62K21/06 # 专门适用于转向头的轴承(一般轴承入F16C)" Target="frmContent" Href="../searchservlet?query=B62K21/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B62K21/06"/>
+    <TreeNode Title="B62K21/08 # 转向减震器(一般减震器入F16F)" Target="frmContent" Href="../searchservlet?query=B62K21/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B62K21/08"/>
+    <TreeNode Title="B62K21/10 # 使转向机构恢复到直前位置的机构" Target="frmContent" Href="../searchservlet?query=B62K21/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B62K21/10"/>
+    <TreeNode Title="B62K21/12 # 车把；车把柱" Target="frmContent" Href="../searchservlet?query=B62K21/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B62K21/12">
+      <TreeNode Title="B62K21/14 ##其内有弹性部件的" Target="frmContent" Href="../searchservlet?query=B62K21/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B62K21/14"/>
+      <TreeNode Title="B62K21/16 ##其内有可调部件的" Target="frmContent" Href="../searchservlet?query=B62K21/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B62K21/16"/>
+    </TreeNode>
+    <TreeNode Title="B62K21/18 # 轮叉与车把或车把柱之间的连接" Target="frmContent" Href="../searchservlet?query=B62K21/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B62K21/18">
+      <TreeNode Title="B62K21/20 ##弹性的" Target="frmContent" Href="../searchservlet?query=B62K21/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B62K21/20"/>
+      <TreeNode Title="B62K21/22 ##可调的" Target="frmContent" Href="../searchservlet?query=B62K21/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B62K21/22"/>
+      <TreeNode Title="B62K21/24 ##易分离的" Target="frmContent" Href="../searchservlet?query=B62K21/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B62K21/24"/>
+    </TreeNode>
+    <TreeNode Title="B62K21/26 # 车把把手(扭转把手入B62K 23/04)" Target="frmContent" Href="../searchservlet?query=B62K21/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B62K21/26"/>
+  </TreeNode>
+  <TreeNode Title="B62K23/00 专门适用于自行车乘骑者操作的控制装置，即启动控制操作的装置，例如杠杆、把手(专门适用于自行车制动机构的入B62L 3/00)" Target="frmContent" Href="../searchservlet?query=B62K23/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B62K23/00">
+    <TreeNode Title="B62K23/02 # 手操纵的(在机动自行车车把上的控制装置配置入B62K 11/14)" Target="frmContent" Href="../searchservlet?query=B62K23/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B62K23/02">
+      <TreeNode Title="B62K23/04 ##扭转把手" Target="frmContent" Href="../searchservlet?query=B62K23/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B62K23/04"/>
+      <TreeNode Title="B62K23/06 ##杠杆" Target="frmContent" Href="../searchservlet?query=B62K23/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B62K23/06"/>
+    </TreeNode>
+    <TreeNode Title="B62K23/08 # 脚操纵的" Target="frmContent" Href="../searchservlet?query=B62K23/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B62K23/08"/>
+  </TreeNode>
+  <TreeNode Title="B62K25/00 车轴悬挂装置(一般车用的入B60G)" Target="frmContent" Href="../searchservlet?query=B62K25/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B62K25/00">
+    <TreeNode Title="B62K25/02 # 用于将车轴刚性安装在车架或轮叉上的，例如可调的" Target="frmContent" Href="../searchservlet?query=B62K25/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B62K25/02"/>
+    <TreeNode Title="B62K25/04 # 用于将车轴弹性安装在车架或轮叉上的(用于跨斗、前车或类似车的入B62K 27/06)" Target="frmContent" Href="../searchservlet?query=B62K25/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B62K25/04">
+      <TreeNode Title="B62K25/06 ##有套筒轮叉的，例如包括辅助摆臂" Target="frmContent" Href="../searchservlet?query=B62K25/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B62K25/06">
+        <TreeNode Title="B62K25/08 ###用于前轮的" Target="frmContent" Href="../searchservlet?query=B62K25/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B62K25/08"/>
+        <TreeNode Title="B62K25/10 ###用于后轮的" Target="frmContent" Href="../searchservlet?query=B62K25/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B62K25/10"/>
+      </TreeNode>
+      <TreeNode Title="B62K25/12 ##有铰接在每个轮叉腿上的摆动臂(与套筒轮叉结合的入B62K 25/06)" Target="frmContent" Href="../searchservlet?query=B62K25/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B62K25/12">
+        <TreeNode Title="B62K25/14 ###在每个轮叉腿上有一个摆动臂的" Target="frmContent" Href="../searchservlet?query=B62K25/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B62K25/14">
+          <TreeNode Title="B62K25/16 ####用于前轮的" Target="frmContent" Href="../searchservlet?query=B62K25/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B62K25/16">
+            <TreeNode Title="B62K25/18 #####是在摆臂铰接两端中间的" Target="frmContent" Href="../searchservlet?query=B62K25/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B62K25/18"/>
+          </TreeNode>
+          <TreeNode Title="B62K25/20 ####用于后轮的" Target="frmContent" Href="../searchservlet?query=B62K25/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B62K25/20"/>
+        </TreeNode>
+        <TreeNode Title="B62K25/22 ###每个轮叉腿上有一个以上摆臂的" Target="frmContent" Href="../searchservlet?query=B62K25/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B62K25/22">
+          <TreeNode Title="B62K25/24 ####用于前轮的" Target="frmContent" Href="../searchservlet?query=B62K25/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B62K25/24"/>
+          <TreeNode Title="B62K25/26 ####用于后轮的" Target="frmContent" Href="../searchservlet?query=B62K25/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B62K25/26"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="B62K25/28 ##有铰接链拉条的" Target="frmContent" Href="../searchservlet?query=B62K25/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B62K25/28">
+        <TreeNode Title="B62K25/30 ###铰接在踏板曲柄架上的(B62K 25/32优先)" Target="frmContent" Href="../searchservlet?query=B62K25/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B62K25/30"/>
+        <TreeNode Title="B62K25/32 ###链拉条构成链条护板的" Target="frmContent" Href="../searchservlet?query=B62K25/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B62K25/32"/>
+      </TreeNode>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="B62K27/00 跨斗；前车或类似车(挂车入B60P，B62D；以装有驱动发动机为特点的入B62M)" Target="frmContent" Href="../searchservlet?query=B62K27/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B62K27/00">
+    <TreeNode Title="B62K27/02 # 车架" Target="frmContent" Href="../searchservlet?query=B62K27/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B62K27/02"/>
+    <TreeNode Title="B62K27/04 # 车身；整流罩" Target="frmContent" Href="../searchservlet?query=B62K27/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B62K27/04"/>
+    <TreeNode Title="B62K27/06 # 弹性车轴悬挂装置" Target="frmContent" Href="../searchservlet?query=B62K27/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B62K27/06"/>
+    <TreeNode Title="B62K27/08 # 车架上的弹性车身悬挂装置" Target="frmContent" Href="../searchservlet?query=B62K27/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B62K27/08"/>
+    <TreeNode Title="B62K27/10 # 其他部件或附件" Target="frmContent" Href="../searchservlet?query=B62K27/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B62K27/10">
+      <TreeNode Title="B62K27/12 ##用于附装车辆或类似装置至自行车的连接部件；及其布置" Target="frmContent" Href="../searchservlet?query=B62K27/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B62K27/12">
+        <TreeNode Title="B62K27/14 ###弹性连接部件" Target="frmContent" Href="../searchservlet?query=B62K27/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B62K27/14"/>
+      </TreeNode>
+      <TreeNode Title="B62K27/16 ##车篷；气候护板，例如风挡" Target="frmContent" Href="../searchservlet?query=B62K27/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B62K27/16"/>
+    </TreeNode>
+  </TreeNode>
+</Root>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="F28F1/00 管件；管件的组件(专门适用于作运动的入F28F 5/00)" Target="frmContent" Href="../searchservlet?query=F28F1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F28F1/00">
+    <TreeNode Title="F28F1/02 #非圆形截面的管件(F28F 1/08，F28F 1/10优先)" Target="frmContent" Href="../searchservlet?query=F28F1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F28F1/02">
+      <TreeNode Title="F28F1/04 ##多边形的，例如矩形的" Target="frmContent" Href="../searchservlet?query=F28F1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F28F1/04"/>
+      <TreeNode Title="F28F1/06 ##截面有折皱或有波纹的" Target="frmContent" Href="../searchservlet?query=F28F1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F28F1/06"/>
+    </TreeNode>
+    <TreeNode Title="F28F1/08 #纵截面有折皱或有波纹的" Target="frmContent" Href="../searchservlet?query=F28F1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F28F1/08"/>
+    <TreeNode Title="F28F1/10 #有增加传热面积结构，例如有肋片、凸起或凹槽的管件及其组件(折皱或波纹元件入F28F 1/06，F28F 1/08)" Target="frmContent" Href="../searchservlet?query=F28F1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F28F1/10">
+      <TreeNode Title="F28F1/12 ##只是在管件外部采用此结构的" Target="frmContent" Href="../searchservlet?query=F28F1/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F28F1/12">
+        <TreeNode Title="F28F1/14 ###并且纵向伸展的(F28F 1/38优先)" Target="frmContent" Href="../searchservlet?query=F28F1/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F28F1/14">
+          <TreeNode Title="F28F1/16 ####结构与管件成整体的，例如挤压成形的(F28F 1/22优先)" Target="frmContent" Href="../searchservlet?query=F28F1/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F28F1/16">
+            <TreeNode Title="F28F1/18 #####管件由带翅片段组成" Target="frmContent" Href="../searchservlet?query=F28F1/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F28F1/18"/>
+          </TreeNode>
+          <TreeNode Title="F28F1/20 ####结构附接在管件上的(F28F 1/22优先)" Target="frmContent" Href="../searchservlet?query=F28F1/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F28F1/20"/>
+          <TreeNode Title="F28F1/22 ####结构具有与其他管件接合部分的" Target="frmContent" Href="../searchservlet?query=F28F1/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F28F1/22"/>
+        </TreeNode>
+        <TreeNode Title="F28F1/24 ###并且横向伸展的(F28F 1/38优先)" Target="frmContent" Href="../searchservlet?query=F28F1/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F28F1/24">
+          <TreeNode Title="F28F1/26 ####结构与管件成整体的(F28F 1/32优先)" Target="frmContent" Href="../searchservlet?query=F28F1/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F28F1/26">
+            <TreeNode Title="F28F1/28 #####管件由带翅片段组成的" Target="frmContent" Href="../searchservlet?query=F28F1/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F28F1/28"/>
+          </TreeNode>
+          <TreeNode Title="F28F1/30 ####结构附接在管件上的(F28F 1/32优先)" Target="frmContent" Href="../searchservlet?query=F28F1/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F28F1/30"/>
+          <TreeNode Title="F28F1/32 ####结构具有与其他管件接合部分的" Target="frmContent" Href="../searchservlet?query=F28F1/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F28F1/32"/>
+        </TreeNode>
+        <TreeNode Title="F28F1/34 ###并且斜向伸展的(F28F 1/38优先)" Target="frmContent" Href="../searchservlet?query=F28F1/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F28F1/34">
+          <TreeNode Title="F28F1/36 ####是螺旋状缠绕翅片或螺旋箍筋的结构" Target="frmContent" Href="../searchservlet?query=F28F1/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F28F1/36"/>
+        </TreeNode>
+        <TreeNode Title="F28F1/38 ###交错排列形成迂回流体通道的" Target="frmContent" Href="../searchservlet?query=F28F1/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F28F1/38"/>
+      </TreeNode>
+      <TreeNode Title="F28F1/40 ##只是在管件内部采用增加传热面结构的" Target="frmContent" Href="../searchservlet?query=F28F1/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F28F1/40"/>
+      <TreeNode Title="F28F1/42 ##既在管件外部又在内部采用增加传热面结构的" Target="frmContent" Href="../searchservlet?query=F28F1/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F28F1/42">
+        <TreeNode Title="F28F1/44 ###且由金属网屏构成的" Target="frmContent" Href="../searchservlet?query=F28F1/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F28F1/44"/>
+      </TreeNode>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="F28F3/00 板状或层压元件；板状或层压元件组件(专门适用于作运动的入F28F 5/00)" Target="frmContent" Href="../searchservlet?query=F28F3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F28F3/00">
+    <TreeNode Title="F28F3/02 #有增加传热面积结构，例如有肋片、凹槽或波纹的元件及其组件(F28F 3/08优先)" Target="frmContent" Href="../searchservlet?query=F28F3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F28F3/02">
+      <TreeNode Title="F28F3/04 ##结构与元件成整体的" Target="frmContent" Href="../searchservlet?query=F28F3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F28F3/04"/>
+      <TreeNode Title="F28F3/06 ##结构附接在元件上的" Target="frmContent" Href="../searchservlet?query=F28F3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F28F3/06"/>
+    </TreeNode>
+    <TreeNode Title="F28F3/08 #元件结构为叠装的，例如元件可以拆开以便于清洗" Target="frmContent" Href="../searchservlet?query=F28F3/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F28F3/08">
+      <TreeNode Title="F28F3/10 ##密封边缘的配件" Target="frmContent" Href="../searchservlet?query=F28F3/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F28F3/10"/>
+    </TreeNode>
+    <TreeNode Title="F28F3/12 #元件结构为空心板形的，例如具有通道的" Target="frmContent" Href="../searchservlet?query=F28F3/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F28F3/12">
+      <TreeNode Title="F28F3/14 ##通过分开一对连接薄片的一部分而形成通道的，例如通过充气(其制造入B23P)" Target="frmContent" Href="../searchservlet?query=F28F3/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F28F3/14"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="F28F5/00 专门适用于作运动的元件(使该元件运动的装置见有关设备的相应小类)" Target="frmContent" Href="../searchservlet?query=F28F5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F28F5/00">
+    <TreeNode Title="F28F5/02 #转鼓或滚筒" Target="frmContent" Href="../searchservlet?query=F28F5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F28F5/02"/>
+    <TreeNode Title="F28F5/04 #空心叶轮，例如搅拌叶片" Target="frmContent" Href="../searchservlet?query=F28F5/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F28F5/04"/>
+    <TreeNode Title="F28F5/06 #空心螺旋传送器" Target="frmContent" Href="../searchservlet?query=F28F5/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F28F5/06"/>
+  </TreeNode>
+  <TreeNode Title="F28F7/00 不包含在组F28F 1/00，F28F 3/00或F28F 5/00中的元件" Target="frmContent" Href="../searchservlet?query=F28F7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F28F7/00">
+    <TreeNode Title="F28F7/02 #与热交换介质的通道横交的块体" Target="frmContent" Href="../searchservlet?query=F28F7/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F28F7/02"/>
+  </TreeNode>
+  <TreeNode Title="F28F9/00 外壳；联管箱；元件的辅助支承构件；外壳内部的辅助构件" Target="frmContent" Href="../searchservlet?query=F28F9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F28F9/00">
+    <TreeNode Title="F28F9/007 #元件的辅助支架[6]" Target="frmContent" Href="../searchservlet?query=F28F9/007&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F28F9/007">
+      <TreeNode Title="F28F9/013 ##管的或管组件的[6]" Target="frmContent" Href="../searchservlet?query=F28F9/013&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F28F9/013"/>
+    </TreeNode>
+    <TreeNode Title="F28F9/02 #联管箱；端板" Target="frmContent" Href="../searchservlet?query=F28F9/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F28F9/02">
+      <TreeNode Title="F28F9/04 ##把元件密封在联管箱或端板内的装置(一般的管子与壁的连接入F16L 41/00)" Target="frmContent" Href="../searchservlet?query=F28F9/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F28F9/04">
+        <TreeNode Title="F28F9/06 ###用可拆卸的接头" Target="frmContent" Href="../searchservlet?query=F28F9/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F28F9/06">
+          <TreeNode Title="F28F9/08 ####用楔式连接件，例如锥形箍" Target="frmContent" Href="../searchservlet?query=F28F9/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F28F9/08"/>
+          <TreeNode Title="F28F9/10 ####用螺旋连接件，例如密封压盖" Target="frmContent" Href="../searchservlet?query=F28F9/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F28F9/10"/>
+          <TreeNode Title="F28F9/12 ####用法兰盘连接件" Target="frmContent" Href="../searchservlet?query=F28F9/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F28F9/12"/>
+          <TreeNode Title="F28F9/14 ####用加压连接的" Target="frmContent" Href="../searchservlet?query=F28F9/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F28F9/14"/>
+        </TreeNode>
+        <TreeNode Title="F28F9/16 ###用永久性连接件，例如用轧制法(一般金属加工过程入B21，B23，特定的入B21D 39/06，B23K)" Target="frmContent" Href="../searchservlet?query=F28F9/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F28F9/16">
+          <TreeNode Title="F28F9/18 ####用焊接的" Target="frmContent" Href="../searchservlet?query=F28F9/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F28F9/18"/>
+        </TreeNode>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="F28F9/20 #热反射器的配置，例如分别可嵌入的反射壁" Target="frmContent" Href="../searchservlet?query=F28F9/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F28F9/20"/>
+    <TreeNode Title="F28F9/22 #把热交换介质导入连续间隔内的装置，例如导板装置" Target="frmContent" Href="../searchservlet?query=F28F9/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F28F9/22"/>
+    <TreeNode Title="F28F9/24 #促进热交换介质湍流流动的装置，例如用板促进的(F28F 1/38优先；一般入F15D)" Target="frmContent" Href="../searchservlet?query=F28F9/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F28F9/24"/>
+    <TreeNode Title="F28F9/26 #热交换元件各个部分的连接装置，例如散热器的连接(水加热器各部分的连接入F24H9/14)" Target="frmContent" Href="../searchservlet?query=F28F9/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F28F9/26"/>
+  </TreeNode>
+  <TreeNode Title="F28F11/00 易漏管道或通道的密封装置(一般停止流出或流入管道的装置入F16L 55/10)" Target="frmContent" Href="../searchservlet?query=F28F11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F28F11/00">
+    <TreeNode Title="F28F11/02 #应用堵塞元件的，例如能互相独立插入和操作的填片(F28F 11/06优先)" Target="frmContent" Href="../searchservlet?query=F28F11/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F28F11/02"/>
+    <TreeNode Title="F28F11/04 #应用成对堵塞元件的，例如安装在中央操作杆上的填片(F28F 11/06优先)" Target="frmContent" Href="../searchservlet?query=F28F11/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F28F11/04"/>
+    <TreeNode Title="F28F11/06 #应用自动堵管器具" Target="frmContent" Href="../searchservlet?query=F28F11/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F28F11/06"/>
+  </TreeNode>
+  <TreeNode Title="F28F13/00 改变传热的装置，例如增加、减少(F28F 1/00至F28F 11/00优先)" Target="frmContent" Href="../searchservlet?query=F28F13/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F28F13/00">
+    <TreeNode Title="F28F13/02 #通过影响流体的边界(一般的边界层控制入F15D)" Target="frmContent" Href="../searchservlet?query=F28F13/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F28F13/02"/>
+    <TreeNode Title="F28F13/04 #通过防止在热交换表面上形成冷凝物连续膜，例如促进小滴的形成" Target="frmContent" Href="../searchservlet?query=F28F13/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F28F13/04"/>
+    <TreeNode Title="F28F13/06 #通过影响热交换介质的流动型式" Target="frmContent" Href="../searchservlet?query=F28F13/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F28F13/06">
+      <TreeNode Title="F28F13/08 ##通过改变流动通道横截面的" Target="frmContent" Href="../searchservlet?query=F28F13/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F28F13/08"/>
+      <TreeNode Title="F28F13/10 ##把脉动运动传给流动方法，例如利用声音振动" Target="frmContent" Href="../searchservlet?query=F28F13/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F28F13/10"/>
+      <TreeNode Title="F28F13/12 ##通过产生湍流的，例如用搅拌法，用增加环流动力的方法(F28F 13/08优先)" Target="frmContent" Href="../searchservlet?query=F28F13/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F28F13/12"/>
+    </TreeNode>
+    <TreeNode Title="F28F13/14 #通过使通道壁处于不同程度传热的区间" Target="frmContent" Href="../searchservlet?query=F28F13/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F28F13/14"/>
+    <TreeNode Title="F28F13/16 #通过在热交换介质体上加上静电场的方法" Target="frmContent" Href="../searchservlet?query=F28F13/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F28F13/16"/>
+    <TreeNode Title="F28F13/18 #用涂层法，例如吸收热辐射、反射热辐射；用表面处理法，例如抛光" Target="frmContent" Href="../searchservlet?query=F28F13/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F28F13/18"/>
+  </TreeNode>
+  <TreeNode Title="F28F17/00 从热交换设备里除去冰或水" Target="frmContent" Href="../searchservlet?query=F28F17/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F28F17/00"/>
+  <TreeNode Title="F28F19/00 防止形成沉积或腐蚀，例如利用过滤器" Target="frmContent" Href="../searchservlet?query=F28F19/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F28F19/00">
+    <TreeNode Title="F28F19/01 #通过使用将固体材料与热交换流体分离的结构，例如过滤器[6]" Target="frmContent" Href="../searchservlet?query=F28F19/01&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F28F19/01"/>
+    <TreeNode Title="F28F19/02 #利用涂层，例如涂玻璃层或上釉" Target="frmContent" Href="../searchservlet?query=F28F19/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F28F19/02">
+      <TreeNode Title="F28F19/04 ##涂橡胶层；涂塑性材料的；涂漆的" Target="frmContent" Href="../searchservlet?query=F28F19/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F28F19/04"/>
+      <TreeNode Title="F28F19/06 ##金属层的" Target="frmContent" Href="../searchservlet?query=F28F19/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F28F19/06"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="F28F21/00 以选用特定材料为特征的热交换设备的结构" Target="frmContent" Href="../searchservlet?query=F28F21/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F28F21/00">
+    <TreeNode Title="F28F21/02 #碳的，例如石墨的" Target="frmContent" Href="../searchservlet?query=F28F21/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F28F21/02"/>
+    <TreeNode Title="F28F21/04 #陶瓷的；混凝土的；天然石的" Target="frmContent" Href="../searchservlet?query=F28F21/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F28F21/04"/>
+    <TreeNode Title="F28F21/06 #塑性材料" Target="frmContent" Href="../searchservlet?query=F28F21/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F28F21/06"/>
+    <TreeNode Title="F28F21/08 #金属的" Target="frmContent" Href="../searchservlet?query=F28F21/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F28F21/08"/>
+  </TreeNode>
+  <TreeNode Title="F28F23/00 与中间热交换材料应用有关的特征，如成分的选择" Target="frmContent" Href="../searchservlet?query=F28F23/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F28F23/00">
+    <TreeNode Title="F28F23/02 #用于在液态时得到或维持同样热交换的装置" Target="frmContent" Href="../searchservlet?query=F28F23/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F28F23/02"/>
+  </TreeNode>
+  <TreeNode Title="F28F25/00 水淋冷却器的构件(增加传热的装置入F28F 13/00；控制装置入F28F 27/00)" Target="frmContent" Href="../searchservlet?query=F28F25/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F28F25/00">
+    <TreeNode Title="F28F25/02 #用于分配、循环或积累液体的(一般喷射或雾化入B05B，B05D)" Target="frmContent" Href="../searchservlet?query=F28F25/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F28F25/02">
+      <TreeNode Title="F28F25/04 ##分配或积累槽" Target="frmContent" Href="../searchservlet?query=F28F25/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F28F25/04"/>
+      <TreeNode Title="F28F25/06 ##喷嘴或喷管" Target="frmContent" Href="../searchservlet?query=F28F25/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F28F25/06"/>
+      <TreeNode Title="F28F25/08 ##挡溅板或格栅，例如将液体喷射转换为液膜的；用于增加接触面积的元件或床层(一般填充元件入B01J 19/30，B01J 19/32)" Target="frmContent" Href="../searchservlet?query=F28F25/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F28F25/08"/>
+    </TreeNode>
+    <TreeNode Title="F28F25/10 #用于输送气体或蒸气的" Target="frmContent" Href="../searchservlet?query=F28F25/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F28F25/10">
+      <TreeNode Title="F28F25/12 ##导管；导向叶片，例如把流体输送到不同的区域" Target="frmContent" Href="../searchservlet?query=F28F25/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F28F25/12"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="F28F27/00 专门适用于热交换或传热设备的控制装置或安全装置" Target="frmContent" Href="../searchservlet?query=F28F27/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F28F27/00">
+    <TreeNode Title="F28F27/02 #控制不同通道之间热交换介质分配的(导板或导向叶片的配置入F28F 9/22，F28F 25/12)" Target="frmContent" Href="../searchservlet?query=F28F27/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F28F27/02"/>
+  </TreeNode>
+  <TreeNode Title="F28F99/00 不包含在本小类其他组中的技术主题[8]" Target="frmContent" Href="../searchservlet?query=F28F99/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F28F99/00"/>
+</Root>

@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="A24F1/00 烟斗(养蜂者用烟斗入A01K 55/00)" Target="frmContent" Href="../searchservlet?query=A24F1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A24F1/00">
+    <TreeNode Title="A24F1/02 #有清洁或冷却烟雾装置的(水烟筒入A24F 1/30)" Target="frmContent" Href="../searchservlet?query=A24F1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A24F1/02">
+      <TreeNode Title="A24F1/04 ##有烟膛或口水收集器的" Target="frmContent" Href="../searchservlet?query=A24F1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A24F1/04">
+        <TreeNode Title="A24F1/06 ###在烟斗内的" Target="frmContent" Href="../searchservlet?query=A24F1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A24F1/06">
+          <TreeNode Title="A24F1/08 ####在烟嘴杆内的" Target="frmContent" Href="../searchservlet?query=A24F1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A24F1/08"/>
+          <TreeNode Title="A24F1/10 ####在烟锅内的" Target="frmContent" Href="../searchservlet?query=A24F1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A24F1/10"/>
+        </TreeNode>
+        <TreeNode Title="A24F1/12 ###在烟斗外的" Target="frmContent" Href="../searchservlet?query=A24F1/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A24F1/12">
+          <TreeNode Title="A24F1/14 ####有液体容器的" Target="frmContent" Href="../searchservlet?query=A24F1/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A24F1/14"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="A24F1/16 ##有Z形或类似烟道的" Target="frmContent" Href="../searchservlet?query=A24F1/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A24F1/16"/>
+      <TreeNode Title="A24F1/18 ##有非吸收性衬里的" Target="frmContent" Href="../searchservlet?query=A24F1/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A24F1/18"/>
+      <TreeNode Title="A24F1/20 ##有吸收性衬里的" Target="frmContent" Href="../searchservlet?query=A24F1/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A24F1/20"/>
+      <TreeNode Title="A24F1/22 ##有用空气冷却装置的，例如双壁的烟斗" Target="frmContent" Href="../searchservlet?query=A24F1/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A24F1/22"/>
+    </TreeNode>
+    <TreeNode Title="A24F1/24 #从下面点燃烟草的" Target="frmContent" Href="../searchservlet?query=A24F1/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A24F1/24"/>
+    <TreeNode Title="A24F1/26 #有装烟器件的" Target="frmContent" Href="../searchservlet?query=A24F1/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A24F1/26"/>
+    <TreeNode Title="A24F1/28 #管状烟斗，例如雪茄烟形" Target="frmContent" Href="../searchservlet?query=A24F1/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A24F1/28"/>
+    <TreeNode Title="A24F1/30 #水烟筒" Target="frmContent" Href="../searchservlet?query=A24F1/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A24F1/30"/>
+    <TreeNode Title="A24F1/32 #烟斗材料的选择" Target="frmContent" Href="../searchservlet?query=A24F1/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A24F1/32"/>
+  </TreeNode>
+  <TreeNode Title="A24F3/00 结合有其他物件的烟斗(手杖或笞杖上装吸烟用具入A45B 3/16)" Target="frmContent" Href="../searchservlet?query=A24F3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A24F3/00">
+    <TreeNode Title="A24F3/02 #有清洁用具的" Target="frmContent" Href="../searchservlet?query=A24F3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A24F3/02"/>
+  </TreeNode>
+  <TreeNode Title="A24F5/00 烟斗用的烟锅" Target="frmContent" Href="../searchservlet?query=A24F5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A24F5/00">
+    <TreeNode Title="A24F5/02 #搁置一边时有保持直立的装置" Target="frmContent" Href="../searchservlet?query=A24F5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A24F5/02"/>
+    <TreeNode Title="A24F5/04 #有进入空气的孔穴" Target="frmContent" Href="../searchservlet?query=A24F5/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A24F5/04"/>
+    <TreeNode Title="A24F5/06 #有陶制的或类似的物件插入物" Target="frmContent" Href="../searchservlet?query=A24F5/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A24F5/06">
+      <TreeNode Title="A24F5/08 ##有格子、滤网或类似物的" Target="frmContent" Href="../searchservlet?query=A24F5/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A24F5/08"/>
+    </TreeNode>
+    <TreeNode Title="A24F5/10 #烟锅盖，附着的和可拆卸的" Target="frmContent" Href="../searchservlet?query=A24F5/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A24F5/10">
+      <TreeNode Title="A24F5/12 ##附有塞子的" Target="frmContent" Href="../searchservlet?query=A24F5/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A24F5/12"/>
+      <TreeNode Title="A24F5/14 ##有风屏" Target="frmContent" Href="../searchservlet?query=A24F5/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A24F5/14"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="A24F7/00 烟斗用烟嘴；雪茄烟用烟嘴或纸烟用烟嘴" Target="frmContent" Href="../searchservlet?query=A24F7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A24F7/00">
+    <TreeNode Title="A24F7/02 #有可拆开的连接构件" Target="frmContent" Href="../searchservlet?query=A24F7/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A24F7/02"/>
+    <TreeNode Title="A24F7/04 #带有烟雾过滤器(用于此的过滤器入A24D 3/00)" Target="frmContent" Href="../searchservlet?query=A24F7/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A24F7/04"/>
+  </TreeNode>
+  <TreeNode Title="A24F9/00 吸烟者烟斗用附件" Target="frmContent" Href="../searchservlet?query=A24F9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A24F9/00">
+    <TreeNode Title="A24F9/02 #烟斗用的塞烟具，即填塞烟草入斗的装置(结合烟盒的入A24F 23/04)" Target="frmContent" Href="../searchservlet?query=A24F9/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A24F9/02"/>
+    <TreeNode Title="A24F9/04 #烟斗用清洁器件(结合烟斗的入A24F 3/02)" Target="frmContent" Href="../searchservlet?query=A24F9/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A24F9/04">
+      <TreeNode Title="A24F9/06 ##用于烟杆的，例如刷子、针、绳" Target="frmContent" Href="../searchservlet?query=A24F9/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A24F9/06"/>
+      <TreeNode Title="A24F9/08 ##清洁成套装置" Target="frmContent" Href="../searchservlet?query=A24F9/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A24F9/08"/>
+      <TreeNode Title="A24F9/10 ##用于烟锅的，例如刮具、带有切齿的烟锅清洁器" Target="frmContent" Href="../searchservlet?query=A24F9/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A24F9/10"/>
+      <TreeNode Title="A24F9/12 ##用蒸汽、空气或水清洁烟斗的器具" Target="frmContent" Href="../searchservlet?query=A24F9/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A24F9/12"/>
+    </TreeNode>
+    <TreeNode Title="A24F9/14 #烟斗用台座或支架" Target="frmContent" Href="../searchservlet?query=A24F9/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A24F9/14"/>
+    <TreeNode Title="A24F9/16 #烟斗或其部件用的保护套或盒子" Target="frmContent" Href="../searchservlet?query=A24F9/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A24F9/16"/>
+  </TreeNode>
+  <TreeNode Title="A24F11/00 烟斗的调味" Target="frmContent" Href="../searchservlet?query=A24F11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A24F11/00"/>
+  <TreeNode Title="A24F13/00 吸雪茄烟或纸烟的器具" Target="frmContent" Href="../searchservlet?query=A24F13/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A24F13/00">
+    <TreeNode Title="A24F13/02 #雪茄烟或纸烟的烟嘴(烟嘴入A24F 7/00)" Target="frmContent" Href="../searchservlet?query=A24F13/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A24F13/02">
+      <TreeNode Title="A24F13/04 ##有清洁或冷却烟雾装置的(水烟筒入A24F 1/30)" Target="frmContent" Href="../searchservlet?query=A24F13/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A24F13/04">
+        <TreeNode Title="A24F13/06 ###带有烟雾过滤器(过滤器入A24D 3/00)" Target="frmContent" Href="../searchservlet?query=A24F13/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A24F13/06"/>
+      </TreeNode>
+      <TreeNode Title="A24F13/08 ##有特种装置的，例如抓持雪茄烟或纸烟的尖针或夹子" Target="frmContent" Href="../searchservlet?query=A24F13/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A24F13/08"/>
+      <TreeNode Title="A24F13/10 ##有烟斗顶出器的" Target="frmContent" Href="../searchservlet?query=A24F13/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A24F13/10"/>
+      <TreeNode Title="A24F13/12 ##结合其他物件的，例如书室用具(结合手杖或伞柄的入A45B 3/16)" Target="frmContent" Href="../searchservlet?query=A24F13/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A24F13/12"/>
+      <TreeNode Title="A24F13/14 ##保护盒" Target="frmContent" Href="../searchservlet?query=A24F13/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A24F13/14"/>
+    </TreeNode>
+    <TreeNode Title="A24F13/16 #雪茄烟或纸烟用安全套，以防止燃着的烟灰的损害" Target="frmContent" Href="../searchservlet?query=A24F13/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A24F13/16"/>
+    <TreeNode Title="A24F13/18 #雪茄烟或纸烟用的熄火器" Target="frmContent" Href="../searchservlet?query=A24F13/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A24F13/18">
+      <TreeNode Title="A24F13/20 ##切断烟烬的用具" Target="frmContent" Href="../searchservlet?query=A24F13/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A24F13/20"/>
+    </TreeNode>
+    <TreeNode Title="A24F13/22 #吸烟时夹持雪茄烟或纸烟的支夹" Target="frmContent" Href="../searchservlet?query=A24F13/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A24F13/22"/>
+    <TreeNode Title="A24F13/24 #雪茄烟的截断器、切开器、或穿孔器，如结合点燃器的(与手工大剪刀或剪刀结合的入B26B 13/22)" Target="frmContent" Href="../searchservlet?query=A24F13/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A24F13/24">
+      <TreeNode Title="A24F13/26 ##形成袖珍装置" Target="frmContent" Href="../searchservlet?query=A24F13/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A24F13/26"/>
+    </TreeNode>
+    <TreeNode Title="A24F13/28 #用于雪茄烟吹泄的装置" Target="frmContent" Href="../searchservlet?query=A24F13/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A24F13/28"/>
+    <TreeNode Title="A24F13/30 #产生烟像和烟圈的装置(烟玩具入A63H 33/28)" Target="frmContent" Href="../searchservlet?query=A24F13/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A24F13/30"/>
+  </TreeNode>
+  <TreeNode Title="A24F15/00 雪茄烟或纸烟的容器或盒(适用于车辆上的入B60N 3/12；包装入B65D)" Target="frmContent" Href="../searchservlet?query=A24F15/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A24F15/00">
+    <TreeNode Title="A24F15/02 #家用的" Target="frmContent" Href="../searchservlet?query=A24F15/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A24F15/02">
+      <TreeNode Title="A24F15/04 ##有释放出单支雪茄烟或纸烟用的器件的" Target="frmContent" Href="../searchservlet?query=A24F15/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A24F15/04"/>
+      <TreeNode Title="A24F15/06 ##有向别人敬烟装置的(A24F 15/04优先) [2]" Target="frmContent" Href="../searchservlet?query=A24F15/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A24F15/06"/>
+      <TreeNode Title="A24F15/08 ##结合有其他物件的" Target="frmContent" Href="../searchservlet?query=A24F15/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A24F15/08">
+        <TreeNode Title="A24F15/10 ###有点火器的" Target="frmContent" Href="../searchservlet?query=A24F15/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A24F15/10"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="A24F15/12 #袖珍的" Target="frmContent" Href="../searchservlet?query=A24F15/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A24F15/12">
+      <TreeNode Title="A24F15/14 ##有释放出单支雪茄烟或纸烟用的器件的" Target="frmContent" Href="../searchservlet?query=A24F15/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A24F15/14"/>
+      <TreeNode Title="A24F15/16 ##有向别人敬烟装置的(A24F 15/14优先) [2]" Target="frmContent" Href="../searchservlet?query=A24F15/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A24F15/16"/>
+      <TreeNode Title="A24F15/18 ##结合有其他物件的" Target="frmContent" Href="../searchservlet?query=A24F15/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A24F15/18"/>
+    </TreeNode>
+    <TreeNode Title="A24F15/20 #每支雪茄烟或纸烟有分开间隔的" Target="frmContent" Href="../searchservlet?query=A24F15/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A24F15/20"/>
+  </TreeNode>
+  <TreeNode Title="A24F17/00 烟纸用纸容器" Target="frmContent" Href="../searchservlet?query=A24F17/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A24F17/00"/>
+  <TreeNode Title="A24F19/00 烟灰缸(设置在车辆中乘客使用的装置入B60N 3/08)" Target="frmContent" Href="../searchservlet?query=A24F19/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A24F19/00">
+    <TreeNode Title="A24F19/02 #有可拆卸的插入物的" Target="frmContent" Href="../searchservlet?query=A24F19/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A24F19/02"/>
+    <TreeNode Title="A24F19/04 #有可压低的活底板的" Target="frmContent" Href="../searchservlet?query=A24F19/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A24F19/04"/>
+    <TreeNode Title="A24F19/06 #有可倾斜斗或活底板的" Target="frmContent" Href="../searchservlet?query=A24F19/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A24F19/06"/>
+    <TreeNode Title="A24F19/08 #有滑动安装的活底板的" Target="frmContent" Href="../searchservlet?query=A24F19/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A24F19/08"/>
+    <TreeNode Title="A24F19/09 #有自动动作的安全装置，例如热敏装置" Target="frmContent" Href="../searchservlet?query=A24F19/09&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A24F19/09"/>
+    <TreeNode Title="A24F19/10 #结合有其他物件的(A24F 15/08优先)" Target="frmContent" Href="../searchservlet?query=A24F19/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A24F19/10">
+      <TreeNode Title="A24F19/12 ##有火柴盒的" Target="frmContent" Href="../searchservlet?query=A24F19/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A24F19/12"/>
+      <TreeNode Title="A24F19/14 ##有熄火器的" Target="frmContent" Href="../searchservlet?query=A24F19/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A24F19/14"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="A24F21/00 吸烟者用具支架" Target="frmContent" Href="../searchservlet?query=A24F21/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A24F21/00"/>
+  <TreeNode Title="A24F23/00 烟草、鼻烟或嚼烟盒" Target="frmContent" Href="../searchservlet?query=A24F23/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A24F23/00">
+    <TreeNode Title="A24F23/02 #烟草袋" Target="frmContent" Href="../searchservlet?query=A24F23/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A24F23/02">
+      <TreeNode Title="A24F23/04 ##结合有其他物件，例如有烟斗用装烟器" Target="frmContent" Href="../searchservlet?query=A24F23/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A24F23/04"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="A24F25/00 吸烟者用以控制雪茄、纸烟或烟草的湿度或其香味的装置(烟厂调湿入A24B 3/04)" Target="frmContent" Href="../searchservlet?query=A24F25/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A24F25/00">
+    <TreeNode Title="A24F25/02 #调湿装备" Target="frmContent" Href="../searchservlet?query=A24F25/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A24F25/02"/>
+  </TreeNode>
+  <TreeNode Title="A24F27/00 火柴容器或盒(包装入B65D；擦火表面的成分，火柴入C06F)" Target="frmContent" Href="../searchservlet?query=A24F27/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A24F27/00">
+    <TreeNode Title="A24F27/02 #有分开贮存火柴装置的" Target="frmContent" Href="../searchservlet?query=A24F27/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A24F27/02"/>
+    <TreeNode Title="A24F27/04 #火柴容器用保护罩" Target="frmContent" Href="../searchservlet?query=A24F27/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A24F27/04"/>
+    <TreeNode Title="A24F27/06 #有防风装置的" Target="frmContent" Href="../searchservlet?query=A24F27/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A24F27/06"/>
+    <TreeNode Title="A24F27/08 #火柴盒支座(A24F 27/10优先)" Target="frmContent" Href="../searchservlet?query=A24F27/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A24F27/08"/>
+    <TreeNode Title="A24F27/10 #支在墙壁上的火柴或火柴盒容器" Target="frmContent" Href="../searchservlet?query=A24F27/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A24F27/10"/>
+    <TreeNode Title="A24F27/12 #火柴簿" Target="frmContent" Href="../searchservlet?query=A24F27/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A24F27/12"/>
+    <TreeNode Title="A24F27/14 #火柴分配器； 在长片上排列火柴用分配器(分配一般入 B65D 83/00)" Target="frmContent" Href="../searchservlet?query=A24F27/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A24F27/14">
+      <TreeNode Title="A24F27/16 ##袖珍用的" Target="frmContent" Href="../searchservlet?query=A24F27/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A24F27/16">
+        <TreeNode Title="A24F27/18 ###有防止自燃装置的" Target="frmContent" Href="../searchservlet?query=A24F27/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A24F27/18"/>
+        <TreeNode Title="A24F27/20 ###火柴分配后有点燃装置的" Target="frmContent" Href="../searchservlet?query=A24F27/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A24F27/20"/>
+      </TreeNode>
+      <TreeNode Title="A24F27/22 ##家用的" Target="frmContent" Href="../searchservlet?query=A24F27/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A24F27/22">
+        <TreeNode Title="A24F27/24 ###有防止自燃装置的" Target="frmContent" Href="../searchservlet?query=A24F27/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A24F27/24"/>
+        <TreeNode Title="A24F27/26 ###火柴分配后有点燃装置的；火柴长片点火器" Target="frmContent" Href="../searchservlet?query=A24F27/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A24F27/26"/>
+      </TreeNode>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="A24F29/00 点燃火柴的装置；燃着的火柴的夹具" Target="frmContent" Href="../searchservlet?query=A24F29/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A24F29/00"/>
+  <TreeNode Title="A24F31/00 烟斗棍；分隔火柴用的装置" Target="frmContent" Href="../searchservlet?query=A24F31/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A24F31/00"/>
+  <TreeNode Title="A24F47/00 在其他类未列入的吸烟者用品" Target="frmContent" Href="../searchservlet?query=A24F47/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A24F47/00"/>
+</Root>

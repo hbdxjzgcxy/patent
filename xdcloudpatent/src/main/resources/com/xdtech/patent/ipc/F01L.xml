@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="F01L1/00 阀机构或阀装置，如升阀机构(升阀和阀座组件本身入F01L 3/00；滑阀机构入F01L 5/00；非机械式驱动入F01L 9/00；在工作活塞或活塞杆内的阀装置入F01L 11/00；阀机构的改进以便于反向操作、制动、起动、改变压缩比或其他特殊操作入F01L 13/00)" Target="frmContent" Href="../searchservlet?query=F01L1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01L1/00">
+    <TreeNode Title="F01L1/02 #阀驱动装置(阀驱动装置和阀之间的传动装置入F01L 1/12)" Target="frmContent" Href="../searchservlet?query=F01L1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01L1/02">
+      <TreeNode Title="F01L1/04 ##用凸轮、凸轮轴、凸轮盘、偏心轮或其类似元件(F01L 1/10优先)" Target="frmContent" Href="../searchservlet?query=F01L1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01L1/04">
+        <TreeNode Title="F01L1/047 ###凸轮轴[6]" Target="frmContent" Href="../searchservlet?query=F01L1/047&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01L1/047">
+          <TreeNode Title="F01L1/053 ####顶置式[6]" Target="frmContent" Href="../searchservlet?query=F01L1/053&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01L1/053"/>
+        </TreeNode>
+        <TreeNode Title="F01L1/06 ###凸轮或类似元件，以高于阀循环的速度转动，如直接由曲轴驱动的四冲程发动机的阀" Target="frmContent" Href="../searchservlet?query=F01L1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01L1/06"/>
+        <TreeNode Title="F01L1/08 ###凸轮的形状" Target="frmContent" Href="../searchservlet?query=F01L1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01L1/08"/>
+      </TreeNode>
+      <TreeNode Title="F01L1/10 ##用曲柄或偏心从动杆的" Target="frmContent" Href="../searchservlet?query=F01L1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01L1/10"/>
+    </TreeNode>
+    <TreeNode Title="F01L1/12 #阀驱动装置和阀之间的传动机构(同时操作两个或多个阀入F01L 1/26)" Target="frmContent" Href="../searchservlet?query=F01L1/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01L1/12">
+      <TreeNode Title="F01L1/14 ##挺杆；推杆" Target="frmContent" Href="../searchservlet?query=F01L1/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01L1/14">
+        <TreeNode Title="F01L1/16 ###无声冲击；减少磨损" Target="frmContent" Href="../searchservlet?query=F01L1/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01L1/16"/>
+      </TreeNode>
+      <TreeNode Title="F01L1/18 ##摇臂或杠杆" Target="frmContent" Href="../searchservlet?query=F01L1/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01L1/18"/>
+    </TreeNode>
+    <TreeNode Title="F01L1/20 #调整或补偿间隙，即空隙调整" Target="frmContent" Href="../searchservlet?query=F01L1/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01L1/20">
+      <TreeNode Title="F01L1/22 ##自动的" Target="frmContent" Href="../searchservlet?query=F01L1/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01L1/22">
+        <TreeNode Title="F01L1/24 ###用流体装置，如液压装置" Target="frmContent" Href="../searchservlet?query=F01L1/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01L1/24">
+          <TreeNode Title="F01L1/245 ####液压挺杆[6]" Target="frmContent" Href="../searchservlet?query=F01L1/245&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01L1/245">
+            <TreeNode Title="F01L1/25 #####位于凸轮与阀杆之间[6]" Target="frmContent" Href="../searchservlet?query=F01L1/25&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01L1/25"/>
+            <TreeNode Title="F01L1/255 #####位于凸轮与摇臂之间[6]" Target="frmContent" Href="../searchservlet?query=F01L1/255&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01L1/255"/>
+          </TreeNode>
+        </TreeNode>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="F01L1/26 #特点为装有由相同传动机构同时操作的两个或多个阀；特别用于每个汽缸带有两个以上升阀的机器或发动机(带有同轴阀入F01L 1/28)" Target="frmContent" Href="../searchservlet?query=F01L1/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01L1/26"/>
+    <TreeNode Title="F01L1/28 #特点为装有同轴阀；特点为装有与入口和出口相配合的阀" Target="frmContent" Href="../searchservlet?query=F01L1/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01L1/28"/>
+    <TreeNode Title="F01L1/30 #特点为装有强制打开或强制关闭的阀，即desmodromic阀" Target="frmContent" Href="../searchservlet?query=F01L1/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01L1/30"/>
+    <TreeNode Title="F01L1/32 #特点为装有转动升阀的装置，如以减少磨损" Target="frmContent" Href="../searchservlet?query=F01L1/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01L1/32"/>
+    <TreeNode Title="F01L1/34 #特点为装有可变化阀的定时而不变更开阀持续时间的装置" Target="frmContent" Href="../searchservlet?query=F01L1/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01L1/34">
+      <TreeNode Title="F01L1/344 ##改变曲轴与凸轮轴之间的角度关系，例如用螺旋传动装置[6]" Target="frmContent" Href="../searchservlet?query=F01L1/344&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01L1/344">
+        <TreeNode Title="F01L1/348 ###通过作用于正时皮带或链条的装置[6]" Target="frmContent" Href="../searchservlet?query=F01L1/348&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01L1/348"/>
+        <TreeNode Title="F01L1/352 ###用伞形或外摆线齿轮[6]" Target="frmContent" Href="../searchservlet?query=F01L1/352&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01L1/352"/>
+        <TreeNode Title="F01L1/356 ###使角度关系波动[6]" Target="frmContent" Href="../searchservlet?query=F01L1/356&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01L1/356"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="F01L1/36 #特别适用于除四冲程循环以外的特殊型式的机器或发动机" Target="frmContent" Href="../searchservlet?query=F01L1/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01L1/36">
+      <TreeNode Title="F01L1/38 ##用于除四冲程循环以外的发动机，如二冲程的(F01L 1/26，F01L 1/28优先)" Target="frmContent" Href="../searchservlet?query=F01L1/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01L1/38"/>
+      <TreeNode Title="F01L1/40 ##用于在接近上死点位置有扫气的发动机，如靠重叠进气和排气时间(排气方面入F02B)" Target="frmContent" Href="../searchservlet?query=F01L1/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01L1/40"/>
+      <TreeNode Title="F01L1/42 ##以汽缸排列型式为特点的机器或发动机，如星形或扇形" Target="frmContent" Href="../searchservlet?query=F01L1/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01L1/42"/>
+    </TreeNode>
+    <TreeNode Title="F01L1/44 #不包含在上述小组中的多阀机构或装置，如带有提升和差动的阀" Target="frmContent" Href="../searchservlet?query=F01L1/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01L1/44"/>
+    <TreeNode Title="F01L1/46 #不包含在上述小组中的部件、零件或附件" Target="frmContent" Href="../searchservlet?query=F01L1/46&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01L1/46"/>
+  </TreeNode>
+  <TreeNode Title="F01L3/00 升阀，即带闭合元件的断开装置，该闭合元件具有至少一个其开闭运动垂直于闭合面的部件；其部件或附件" Target="frmContent" Href="../searchservlet?query=F01L3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01L3/00">
+    <TreeNode Title="F01L3/02 #选择阀元件或阀座的特殊材料，阀元件或阀座由两种或多种材料组成" Target="frmContent" Href="../searchservlet?query=F01L3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01L3/02">
+      <TreeNode Title="F01L3/04 ##有镀层的阀元件或阀座" Target="frmContent" Href="../searchservlet?query=F01L3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01L3/04"/>
+    </TreeNode>
+    <TreeNode Title="F01L3/06 #阀元件或阀座，带有给其控制的介质导向或使该介质转向的装置，如使吸入汽缸中的气体产生旋转运动(旋转升阀入F01L 1/32)" Target="frmContent" Href="../searchservlet?query=F01L3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01L3/06"/>
+    <TreeNode Title="F01L3/08 #阀导套；阀杆密封，如用润滑剂密封" Target="frmContent" Href="../searchservlet?query=F01L3/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01L3/08"/>
+    <TreeNode Title="F01L3/10 #弹簧与阀元件连接" Target="frmContent" Href="../searchservlet?query=F01L3/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01L3/10"/>
+    <TreeNode Title="F01L3/12 #阀的冷却" Target="frmContent" Href="../searchservlet?query=F01L3/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01L3/12">
+      <TreeNode Title="F01L3/14 ##在阀的封闭室内用液体或固体冷却剂，如钠" Target="frmContent" Href="../searchservlet?query=F01L3/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01L3/14"/>
+      <TreeNode Title="F01L3/16 ##用流体流过或流经阀，如用空气(只用于密封入F01L 3/08)" Target="frmContent" Href="../searchservlet?query=F01L3/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01L3/16">
+        <TreeNode Title="F01L3/18 ###阀的液体冷却" Target="frmContent" Href="../searchservlet?query=F01L3/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01L3/18"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="F01L3/20 #不包含在本组中的上述各小组内的阀元件的形状或结构" Target="frmContent" Href="../searchservlet?query=F01L3/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01L3/20"/>
+    <TreeNode Title="F01L3/22 #不包含在本组中的上述各小组内的阀座；阀座的固定" Target="frmContent" Href="../searchservlet?query=F01L3/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01L3/22"/>
+    <TreeNode Title="F01L3/24 #不包含在本组中的上述各小组内的安全装置或附件" Target="frmContent" Href="../searchservlet?query=F01L3/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01L3/24"/>
+  </TreeNode>
+  <TreeNode Title="F01L5/00 滑动阀机构或阀装置(具有单纯转动或摆动的入F01L 7/00)" Target="frmContent" Href="../searchservlet?query=F01L5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01L5/00">
+    <TreeNode Title="F01L5/02 #带有不是圆筒形的、不是套筒式的或部分环形的阀，如带有平板式阀" Target="frmContent" Href="../searchservlet?query=F01L5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01L5/02"/>
+    <TreeNode Title="F01L5/04 #带有圆筒形的，套筒式的或部分环形的阀" Target="frmContent" Href="../searchservlet?query=F01L5/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01L5/04">
+      <TreeNode Title="F01L5/06 ##围绕着工作缸或活塞的阀" Target="frmContent" Href="../searchservlet?query=F01L5/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01L5/06">
+        <TreeNode Title="F01L5/08 ###具有几种运动或几个阀的装置，如一个阀在另一个阀内(带有部分环形的阀入F01L 5/12)" Target="frmContent" Href="../searchservlet?query=F01L5/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01L5/08">
+          <TreeNode Title="F01L5/10 ####带有往复式和其他运动的同一类型的阀" Target="frmContent" Href="../searchservlet?query=F01L5/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01L5/10"/>
+        </TreeNode>
+        <TreeNode Title="F01L5/12 ###带有部分环形的阀的装置" Target="frmContent" Href="../searchservlet?query=F01L5/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01L5/12"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="F01L5/14 #特点为装有往复式或其他运动的阀(围绕工作缸或活塞的入F01L 5/06)" Target="frmContent" Href="../searchservlet?query=F01L5/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01L5/14">
+      <TreeNode Title="F01L5/16 ##带有往复式和其他运动的同一类型的阀，如沿工作缸的纵向和横向运动的阀" Target="frmContent" Href="../searchservlet?query=F01L5/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01L5/16"/>
+      <TreeNode Title="F01L5/18 ##带有往复式阀和其他滑阀" Target="frmContent" Href="../searchservlet?query=F01L5/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01L5/18"/>
+    </TreeNode>
+    <TreeNode Title="F01L5/20 #特别用于二冲程发动机(F01L 5/06，F01L 5/14优先)" Target="frmContent" Href="../searchservlet?query=F01L5/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01L5/20"/>
+    <TreeNode Title="F01L5/22 #多阀装置(带有围绕工作缸或活塞的阀入F01L 5/06；带有往复式和其他滑阀入F01L 5/18；特别用于二冲程发动机入F01L 5/20)" Target="frmContent" Href="../searchservlet?query=F01L5/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01L5/22"/>
+    <TreeNode Title="F01L5/24 #不包含在本组中的上述各小组内的部件、零件或附件" Target="frmContent" Href="../searchservlet?query=F01L5/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01L5/24"/>
+  </TreeNode>
+  <TreeNode Title="F01L7/00 旋转式或摆动式滑阀机构或阀装置(具有旋转和非旋转联合运动的滑阀，旋转和非旋转滑阀的组合装置入F01L 5/00)" Target="frmContent" Href="../searchservlet?query=F01L7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01L7/00">
+    <TreeNode Title="F01L7/02 #带有圆筒形的、套筒形的或部分环形的阀(盘形阀入F01L 7/06；锥形阀入F01L 7/08)" Target="frmContent" Href="../searchservlet?query=F01L7/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01L7/02">
+      <TreeNode Title="F01L7/04 ##围绕工作缸或活塞的阀" Target="frmContent" Href="../searchservlet?query=F01L7/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01L7/04"/>
+    </TreeNode>
+    <TreeNode Title="F01L7/06 #带有盘形阀" Target="frmContent" Href="../searchservlet?query=F01L7/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01L7/06"/>
+    <TreeNode Title="F01L7/08 #带有锥形或截锥形阀" Target="frmContent" Href="../searchservlet?query=F01L7/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01L7/08"/>
+    <TreeNode Title="F01L7/10 #带有其他特殊形状的阀，如球形阀" Target="frmContent" Href="../searchservlet?query=F01L7/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01L7/10"/>
+    <TreeNode Title="F01L7/12 #特别用于二冲程发动机的阀(F01L 7/04优先)" Target="frmContent" Href="../searchservlet?query=F01L7/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01L7/12"/>
+    <TreeNode Title="F01L7/14 #多阀装置(具有围绕着工作缸或活塞的阀入F01L 7/04；特别用于二冲程发动机的入F01L 7/12)" Target="frmContent" Href="../searchservlet?query=F01L7/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01L7/14"/>
+    <TreeNode Title="F01L7/16 #其专用的密封或填料装置" Target="frmContent" Href="../searchservlet?query=F01L7/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01L7/16"/>
+    <TreeNode Title="F01L7/18 #不包含在本组中的上述各小组内的部件、零件或附件" Target="frmContent" Href="../searchservlet?query=F01L7/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01L7/18"/>
+  </TreeNode>
+  <TreeNode Title="F01L9/00 非机械致动的阀机构或阀装置" Target="frmContent" Href="../searchservlet?query=F01L9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01L9/00">
+    <TreeNode Title="F01L9/02 #用流体装置，如液压装置" Target="frmContent" Href="../searchservlet?query=F01L9/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01L9/02"/>
+    <TreeNode Title="F01L9/04 #用电气装置" Target="frmContent" Href="../searchservlet?query=F01L9/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01L9/04"/>
+  </TreeNode>
+  <TreeNode Title="F01L11/00 在工作活塞或活塞杆内的阀装置" Target="frmContent" Href="../searchservlet?query=F01L11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01L11/00">
+    <TreeNode Title="F01L11/02 #在活塞内" Target="frmContent" Href="../searchservlet?query=F01L11/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01L11/02">
+      <TreeNode Title="F01L11/04 ##由连杆的运动操作" Target="frmContent" Href="../searchservlet?query=F01L11/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01L11/04">
+        <TreeNode Title="F01L11/06 ###操作摆动阀" Target="frmContent" Href="../searchservlet?query=F01L11/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01L11/06"/>
+      </TreeNode>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="F01L13/00 阀机构的改进使易于反向、制动、起动、改变压缩比或其他特殊操作" Target="frmContent" Href="../searchservlet?query=F01L13/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01L13/00">
+    <TreeNode Title="F01L13/02 #用于反向" Target="frmContent" Href="../searchservlet?query=F01L13/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01L13/02"/>
+    <TreeNode Title="F01L13/04 #用于通过流体压力方法起动" Target="frmContent" Href="../searchservlet?query=F01L13/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01L13/04"/>
+    <TreeNode Title="F01L13/06 #用于制动" Target="frmContent" Href="../searchservlet?query=F01L13/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01L13/06"/>
+    <TreeNode Title="F01L13/08 #用于减压，如在起动期间；用于改变压缩比" Target="frmContent" Href="../searchservlet?query=F01L13/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01L13/08"/>
+  </TreeNode>
+  <TreeNode Title="F01L15/00 不包含在F01L 17/00至F01L 29/00各组中的阀机构或阀装置，如具有往复式滑阀(阀驱动装置或在工作过程中调节用的阀的外部装置见有关各组，如F01L 31/00，松开机构或阀的松开入F01L 31/00)" Target="frmContent" Href="../searchservlet?query=F01L15/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01L15/00">
+    <TreeNode Title="F01L15/02 #带有除圆筒形、套筒式或部分环形以外的阀，如平的D形阀" Target="frmContent" Href="../searchservlet?query=F01L15/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01L15/02">
+      <TreeNode Title="F01L15/04 ##和辅助阀组合在一起的主阀(制动阀式入F01L 15/10)" Target="frmContent" Href="../searchservlet?query=F01L15/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01L15/04">
+        <TreeNode Title="F01L15/06 ###Meyer或Rider型，即在膨胀阀本身其膨胀是变化的" Target="frmContent" Href="../searchservlet?query=F01L15/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01L15/06"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="F01L15/08 #带有圆筒形、套筒式或部分环形阀；这些主阀和辅助阀结合在一起" Target="frmContent" Href="../searchservlet?query=F01L15/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01L15/08"/>
+    <TreeNode Title="F01L15/10 #带有主滑阀及其制动的辅助阀" Target="frmContent" Href="../searchservlet?query=F01L15/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01L15/10"/>
+    <TreeNode Title="F01L15/12 #其特点为空载时在两个不同汽缸空间之间，使压力达到平衡的装置" Target="frmContent" Href="../searchservlet?query=F01L15/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01L15/12"/>
+    <TreeNode Title="F01L15/14 #具有几个配合工作的主阀装置，如往复式和旋转式" Target="frmContent" Href="../searchservlet?query=F01L15/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01L15/14">
+      <TreeNode Title="F01L15/16 ##只具有往复式滑阀" Target="frmContent" Href="../searchservlet?query=F01L15/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01L15/16"/>
+    </TreeNode>
+    <TreeNode Title="F01L15/18 #不包含在本组中的上述各小组内的阀装置" Target="frmContent" Href="../searchservlet?query=F01L15/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01L15/18"/>
+    <TreeNode Title="F01L15/20 #不包含在本组中的上述各小组内的部件、零件或附件" Target="frmContent" Href="../searchservlet?query=F01L15/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01L15/20"/>
+  </TreeNode>
+  <TreeNode Title="F01L17/00 滑阀机构或滑阀装置，在围绕工作缸或活塞的周围带有圆筒形、套筒式或部分环形的阀" Target="frmContent" Href="../searchservlet?query=F01L17/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01L17/00">
+    <TreeNode Title="F01L17/02 #工作时驱动或调整装置，特别是，例如用于往复和摆动运动或用于在几个阀中其中一个在另一个阀内" Target="frmContent" Href="../searchservlet?query=F01L17/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01L17/02"/>
+  </TreeNode>
+  <TreeNode Title="F01L19/00 不包含在组F01L 17/00中的，在同一阀上有往复和其他运动的滑阀机构或滑阀装置，如沿工作缸的纵向和横向运动" Target="frmContent" Href="../searchservlet?query=F01L19/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01L19/00">
+    <TreeNode Title="F01L19/02 #专门在工作时驱动或调整的" Target="frmContent" Href="../searchservlet?query=F01L19/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01L19/02"/>
+  </TreeNode>
+  <TreeNode Title="F01L21/00 工作活塞或活塞杆用作流体分配阀或用作阀支撑元件；如在自由活塞式机器中" Target="frmContent" Href="../searchservlet?query=F01L21/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01L21/00">
+    <TreeNode Title="F01L21/02 #活塞或活塞杆用作阀元件" Target="frmContent" Href="../searchservlet?query=F01L21/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01L21/02"/>
+    <TreeNode Title="F01L21/04 #阀安装在活塞或活塞杆内或它们的上面" Target="frmContent" Href="../searchservlet?query=F01L21/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01L21/04"/>
+  </TreeNode>
+  <TreeNode Title="F01L23/00 由活塞冲击力控制的阀，如在自由活塞机器中" Target="frmContent" Href="../searchservlet?query=F01L23/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01L23/00"/>
+  <TreeNode Title="F01L25/00 分配阀或膨胀阀工作时用非机械方式驱动或调整" Target="frmContent" Href="../searchservlet?query=F01L25/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01L25/00">
+    <TreeNode Title="F01L25/02 #用流体方式" Target="frmContent" Href="../searchservlet?query=F01L25/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01L25/02">
+      <TreeNode Title="F01L25/04 ##用机器或发动机的工作流体，如自由活塞机器" Target="frmContent" Href="../searchservlet?query=F01L25/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01L25/04">
+        <TreeNode Title="F01L25/06 ###具有主阀和辅助阀的装置，其中至少有一个由流体驱动" Target="frmContent" Href="../searchservlet?query=F01L25/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01L25/06"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="F01L25/08 #用电或磁方式" Target="frmContent" Href="../searchservlet?query=F01L25/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01L25/08"/>
+  </TreeNode>
+  <TreeNode Title="F01L27/00 分配阀或膨胀阀机构特别用于自由活塞机或发动机，同时不包含在组F01L 21/00至F01L 25/00中" Target="frmContent" Href="../searchservlet?query=F01L27/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01L27/00">
+    <TreeNode Title="F01L27/02 #具有旋转阀或摆动阀的机器或发动机" Target="frmContent" Href="../searchservlet?query=F01L27/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01L27/02"/>
+    <TreeNode Title="F01L27/04 #延迟作用的控制，如缓冲器型或减震器型" Target="frmContent" Href="../searchservlet?query=F01L27/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01L27/04"/>
+  </TreeNode>
+  <TreeNode Title="F01L29/00 反向机构(同样可用于控制工作流体的吸入度而反向是次要的入F01L 31/00)" Target="frmContent" Href="../searchservlet?query=F01L29/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01L29/00">
+    <TreeNode Title="F01L29/02 #用变位偏心件" Target="frmContent" Href="../searchservlet?query=F01L29/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01L29/02"/>
+    <TreeNode Title="F01L29/04 #用连杆或导杆" Target="frmContent" Href="../searchservlet?query=F01L29/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01L29/04"/>
+    <TreeNode Title="F01L29/06 #用互换进口和排出口" Target="frmContent" Href="../searchservlet?query=F01L29/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01L29/06"/>
+    <TreeNode Title="F01L29/08 #专门用于旋转阀或摆动阀" Target="frmContent" Href="../searchservlet?query=F01L29/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01L29/08"/>
+    <TreeNode Title="F01L29/10 #部件，如驱动装置" Target="frmContent" Href="../searchservlet?query=F01L29/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01L29/10">
+      <TreeNode Title="F01L29/12 ##动力反向机构" Target="frmContent" Href="../searchservlet?query=F01L29/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01L29/12"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="F01L31/00 阀驱动，在工作中的阀调整或不包含在组F01L 15/00到F01L 29/00中的其他阀控制(用于测量被控制或被调整的变量或条件的敏感元件入F01B)" Target="frmContent" Href="../searchservlet?query=F01L31/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01L31/00">
+    <TreeNode Title="F01L31/02 #带有松开机构(用于摆动阀的入F01L 31/06)；阀的松脱机构" Target="frmContent" Href="../searchservlet?query=F01L31/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01L31/02">
+      <TreeNode Title="F01L31/04 ##带有刚性从动松脱杆" Target="frmContent" Href="../searchservlet?query=F01L31/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01L31/04"/>
+    </TreeNode>
+    <TreeNode Title="F01L31/06 #带有专门用于摆动阀的松脱机构；摆动切断阀，如Corliss型" Target="frmContent" Href="../searchservlet?query=F01L31/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01L31/06"/>
+    <TreeNode Title="F01L31/08 #阀驱动或阀调整，不包括松脱方面在内；刚性从动机构" Target="frmContent" Href="../searchservlet?query=F01L31/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01L31/08">
+      <TreeNode Title="F01L31/10 ##由偏心机构影响的驱动装置(F01L 31/14优先)" Target="frmContent" Href="../searchservlet?query=F01L31/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01L31/10">
+        <TreeNode Title="F01L31/12 ###变更偏心件来调整阀" Target="frmContent" Href="../searchservlet?query=F01L31/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01L31/12"/>
+      </TreeNode>
+      <TreeNode Title="F01L31/14 ##由连杆或导杆来调整阀，如具有偏心件驱动的阀机构" Target="frmContent" Href="../searchservlet?query=F01L31/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01L31/14"/>
+      <TreeNode Title="F01L31/16 ##由除偏心件以外的特殊装置来驱动阀，如凸轮；与这种驱动有关的阀调整" Target="frmContent" Href="../searchservlet?query=F01L31/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01L31/16"/>
+      <TreeNode Title="F01L31/18 ##专门用于旋转阀或摆动阀的" Target="frmContent" Href="../searchservlet?query=F01L31/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01L31/18">
+        <TreeNode Title="F01L31/20 ###阀调整" Target="frmContent" Href="../searchservlet?query=F01L31/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01L31/20"/>
+      </TreeNode>
+      <TreeNode Title="F01L31/22 ##专门用于升阀的" Target="frmContent" Href="../searchservlet?query=F01L31/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01L31/22">
+        <TreeNode Title="F01L31/24 ###阀调整" Target="frmContent" Href="../searchservlet?query=F01L31/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01L31/24"/>
+      </TreeNode>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="F01L33/00 专门适用于具有可变流体分配的机器或发动机的旋转或摆动滑阀机构或阀装置(驱动、在工作时调整、松开机构、反向机构、利用工作活塞或活塞杆作为阀或作为阀支撑元件、特别用于自由活塞的机器或发动机的阀机构或阀装置入F01L 15/00至F01L 31/00)" Target="frmContent" Href="../searchservlet?query=F01L33/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01L33/00">
+    <TreeNode Title="F01L33/02 #旋转的" Target="frmContent" Href="../searchservlet?query=F01L33/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01L33/02"/>
+    <TreeNode Title="F01L33/04 #摆动的" Target="frmContent" Href="../searchservlet?query=F01L33/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01L33/04"/>
+  </TreeNode>
+  <TreeNode Title="F01L35/00 专门适用于具有可变流体分配的机器或发动机的提升阀动机构或阀装置(驱动、在工作时调整、松开机构、反向机构、工作活塞或活塞杆用作阀或用作阀支撑元件、特别用于自由活塞的机器或发动机的阀机构或阀装置入F01L 15/00至F01L 31/00)" Target="frmContent" Href="../searchservlet?query=F01L35/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01L35/00">
+    <TreeNode Title="F01L35/02 #阀" Target="frmContent" Href="../searchservlet?query=F01L35/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01L35/02"/>
+    <TreeNode Title="F01L35/04 #机器或发动机中的阀装置，如与工作缸有关" Target="frmContent" Href="../searchservlet?query=F01L35/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01L35/04"/>
+  </TreeNode>
+</Root>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<app-conf>
+	<property>
+		<name>system.name</name>
+		<value>线点科技云搜索管理系统</value>
+		<description>系统名称</description>
+	</property>
+	<property>
+		<name>system.land.logo</name>
+		<value>images/land_logo.png</value>
+		<description>登陆Logo</description>
+	</property>
+	<property>
+		<name>system.logo</name>
+		<value>images/logo.png</value>
+		<description>公司Logo</description>
+	</property>
+	<property>
+		<name>system.copyright</name>
+		<value>Copyright © 2005 - 2016. All Rights Reserved 线点科技 版权所有</value>
+		<description>版权信息</description>
+	</property>
+</app-conf>

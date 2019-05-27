@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="H01K1/00 零部件" Target="frmContent" Href="../searchservlet?query=H01K1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01K1/00">
+    <TreeNode Title="H01K1/02 #发光体" Target="frmContent" Href="../searchservlet?query=H01K1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01K1/02">
+      <TreeNode Title="H01K1/04 ##按所用材料区分的" Target="frmContent" Href="../searchservlet?query=H01K1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01K1/04">
+        <TreeNode Title="H01K1/06 ###碳素体" Target="frmContent" Href="../searchservlet?query=H01K1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01K1/06"/>
+        <TreeNode Title="H01K1/08 ###金属体" Target="frmContent" Href="../searchservlet?query=H01K1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01K1/08"/>
+        <TreeNode Title="H01K1/10 ###金属或碳与其他物质的组合体" Target="frmContent" Href="../searchservlet?query=H01K1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01K1/10"/>
+        <TreeNode Title="H01K1/12 ###冷却时不导电的发光体，如用于Nernst灯的" Target="frmContent" Href="../searchservlet?query=H01K1/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01K1/12"/>
+      </TreeNode>
+      <TreeNode Title="H01K1/14 ##按外形区分的" Target="frmContent" Href="../searchservlet?query=H01K1/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01K1/14"/>
+      <TreeNode Title="H01K1/16 ##至发光体的电连接" Target="frmContent" Href="../searchservlet?query=H01K1/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01K1/16"/>
+    </TreeNode>
+    <TreeNode Title="H01K1/18 #发光体的固定件或支承件" Target="frmContent" Href="../searchservlet?query=H01K1/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01K1/18">
+      <TreeNode Title="H01K1/20 ##按其材料区分的" Target="frmContent" Href="../searchservlet?query=H01K1/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01K1/20"/>
+      <TreeNode Title="H01K1/22 ##灯的芯柱(穿过芯柱的引入线的封接入H01K 1/38)" Target="frmContent" Href="../searchservlet?query=H01K1/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01K1/22"/>
+      <TreeNode Title="H01K1/24 ##在相对两端连接的灯座，如用于管形灯的" Target="frmContent" Href="../searchservlet?query=H01K1/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01K1/24"/>
+    </TreeNode>
+    <TreeNode Title="H01K1/26 #屏；滤光器(与外壳相联的入H01K 1/28)" Target="frmContent" Href="../searchservlet?query=H01K1/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01K1/26"/>
+    <TreeNode Title="H01K1/28 #外壳；管壳" Target="frmContent" Href="../searchservlet?query=H01K1/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01K1/28">
+      <TreeNode Title="H01K1/30 ##带透镜的" Target="frmContent" Href="../searchservlet?query=H01K1/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01K1/30"/>
+      <TreeNode Title="H01K1/32 ##壁上有涂层的；按其材料区分的管壳或涂层" Target="frmContent" Href="../searchservlet?query=H01K1/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01K1/32"/>
+      <TreeNode Title="H01K1/34 ##双层壁的管壳" Target="frmContent" Href="../searchservlet?query=H01K1/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01K1/34"/>
+    </TreeNode>
+    <TreeNode Title="H01K1/36 #管壳部件间的封接，如芯柱和外壳间的" Target="frmContent" Href="../searchservlet?query=H01K1/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01K1/36"/>
+    <TreeNode Title="H01K1/38 #引入线的封接" Target="frmContent" Href="../searchservlet?query=H01K1/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01K1/38"/>
+    <TreeNode Title="H01K1/40 #引入线" Target="frmContent" Href="../searchservlet?query=H01K1/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01K1/40"/>
+    <TreeNode Title="H01K1/42 #成为灯的组成部分，用于灯的电连接或支承的装置(适于支承灯，又不成为灯的组成部分，且带有支持架的电耦合装置入H01R 33/00)" Target="frmContent" Href="../searchservlet?query=H01K1/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01K1/42">
+      <TreeNode Title="H01K1/44 ##直接加到管壳或成为其组成部分的" Target="frmContent" Href="../searchservlet?query=H01K1/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01K1/44"/>
+      <TreeNode Title="H01K1/46 ##由独立部件支承的，如底座、帽" Target="frmContent" Href="../searchservlet?query=H01K1/46&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01K1/46">
+        <TreeNode Title="H01K1/48 ###可拆卸的帽" Target="frmContent" Href="../searchservlet?query=H01K1/48&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01K1/48"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="H01K1/50 #充气材料的选择；其特定的压强" Target="frmContent" Href="../searchservlet?query=H01K1/50&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01K1/50"/>
+    <TreeNode Title="H01K1/52 #取得或维持管内所需压强的方法" Target="frmContent" Href="../searchservlet?query=H01K1/52&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01K1/52">
+      <TreeNode Title="H01K1/54 ##吸附或吸收气体或者防止或除去粉尘的方法，如用消气剂" Target="frmContent" Href="../searchservlet?query=H01K1/54&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01K1/54">
+        <TreeNode Title="H01K1/56 ###按吸气剂材料区分的" Target="frmContent" Href="../searchservlet?query=H01K1/56&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01K1/56"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="H01K1/58 #冷却装置" Target="frmContent" Href="../searchservlet?query=H01K1/58&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01K1/58"/>
+    <TreeNode Title="H01K1/60 #结构上与灯相联的供指示缺陷或先前使用情况的装置" Target="frmContent" Href="../searchservlet?query=H01K1/60&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01K1/60"/>
+    <TreeNode Title="H01K1/62 #结构上与灯相联的1个或1个以上的电路元件" Target="frmContent" Href="../searchservlet?query=H01K1/62&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01K1/62">
+      <TreeNode Title="H01K1/64 ##内装开关的" Target="frmContent" Href="../searchservlet?query=H01K1/64&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01K1/64"/>
+      <TreeNode Title="H01K1/66 ##内装熔断器的" Target="frmContent" Href="../searchservlet?query=H01K1/66&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01K1/66"/>
+      <TreeNode Title="H01K1/68 ##内装火花隙的" Target="frmContent" Href="../searchservlet?query=H01K1/68&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01K1/68"/>
+      <TreeNode Title="H01K1/70 ##内装短路装置的，如用于串联灯的" Target="frmContent" Href="../searchservlet?query=H01K1/70&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01K1/70"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="H01K3/00 用于制造、安装、拆卸或维修白炽灯及其部件的设备或工艺(玻壳的制造入C03B)" Target="frmContent" Href="../searchservlet?query=H01K3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01K3/00">
+    <TreeNode Title="H01K3/02 #发光体的制造" Target="frmContent" Href="../searchservlet?query=H01K3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01K3/02">
+      <TreeNode Title="H01K3/04 ##制造用的机器" Target="frmContent" Href="../searchservlet?query=H01K3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01K3/04"/>
+    </TreeNode>
+    <TreeNode Title="H01K3/06 #将发光体安装到支架上" Target="frmContent" Href="../searchservlet?query=H01K3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01K3/06"/>
+    <TreeNode Title="H01K3/08 #支架或芯柱的制造" Target="frmContent" Href="../searchservlet?query=H01K3/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01K3/08">
+      <TreeNode Title="H01K3/10 ##制造用的机器" Target="frmContent" Href="../searchservlet?query=H01K3/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01K3/10"/>
+    </TreeNode>
+    <TreeNode Title="H01K3/12 #支架或芯柱与管壳的联接；管壳部件的封接，如用对接封接" Target="frmContent" Href="../searchservlet?query=H01K3/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01K3/12">
+      <TreeNode Title="H01K3/14 ##所用的机器" Target="frmContent" Href="../searchservlet?query=H01K3/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01K3/14"/>
+    </TreeNode>
+    <TreeNode Title="H01K3/16 #帽和管壳的联接" Target="frmContent" Href="../searchservlet?query=H01K3/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01K3/16">
+      <TreeNode Title="H01K3/18 ##所用的机器" Target="frmContent" Href="../searchservlet?query=H01K3/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01K3/18"/>
+    </TreeNode>
+    <TreeNode Title="H01K3/20 #把导线直接封接入管壳" Target="frmContent" Href="../searchservlet?query=H01K3/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01K3/20"/>
+    <TreeNode Title="H01K3/22 #管壳的排气、除气、充气及清洁" Target="frmContent" Href="../searchservlet?query=H01K3/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01K3/22">
+      <TreeNode Title="H01K3/24 ##所用的机器" Target="frmContent" Href="../searchservlet?query=H01K3/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01K3/24"/>
+    </TreeNode>
+    <TreeNode Title="H01K3/26 #管壳的封闭" Target="frmContent" Href="../searchservlet?query=H01K3/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01K3/26"/>
+    <TreeNode Title="H01K3/28 #有顺序排列工作位置的机器" Target="frmContent" Href="../searchservlet?query=H01K3/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01K3/28"/>
+    <TreeNode Title="H01K3/30 #旧灯或不合格灯的修理或再生" Target="frmContent" Href="../searchservlet?query=H01K3/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01K3/30"/>
+    <TreeNode Title="H01K3/32 #清洁、安装或拆除白炽灯的辅助设备" Target="frmContent" Href="../searchservlet?query=H01K3/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01K3/32"/>
+  </TreeNode>
+  <TreeNode Title="H01K5/00 一般照明用灯(H01K 9/00至H01K 13/00优先)" Target="frmContent" Href="../searchservlet?query=H01K5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01K5/00">
+    <TreeNode Title="H01K5/02 #在相对两端上有联接头的，如灯丝轴向安装的管形灯" Target="frmContent" Href="../searchservlet?query=H01K5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01K5/02"/>
+  </TreeNode>
+  <TreeNode Title="H01K7/00 非一般照明用灯(H01K 9/00至H01K 13/00优先)" Target="frmContent" Href="../searchservlet?query=H01K7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01K7/00">
+    <TreeNode Title="H01K7/02 #用于产生窄光束的；用于近似点光源的，如用于探照灯的，用于电影放映机的(用灯外光学装置产生窄光束的入F21V)" Target="frmContent" Href="../searchservlet?query=H01K7/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01K7/02"/>
+    <TreeNode Title="H01K7/04 #用于指示的" Target="frmContent" Href="../searchservlet?query=H01K7/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01K7/04"/>
+    <TreeNode Title="H01K7/06 #用于装饰的" Target="frmContent" Href="../searchservlet?query=H01K7/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01K7/06"/>
+  </TreeNode>
+  <TreeNode Title="H01K9/00 具有分开加热的两个或两个以上发光体的灯(H01K 11/00，H01K 13/00优先；由一些单独灯组合起白炽灯丝式指示装置作用的入G09F 9/307)" Target="frmContent" Href="../searchservlet?query=H01K9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01K9/00">
+    <TreeNode Title="H01K9/02 #当一个发光体损坏时能提供代用件的" Target="frmContent" Href="../searchservlet?query=H01K9/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01K9/02">
+      <TreeNode Title="H01K9/04 ##带有内装手动开关的" Target="frmContent" Href="../searchservlet?query=H01K9/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01K9/04"/>
+      <TreeNode Title="H01K9/06 ##带有内装器件如开关的，用于自动接通备用发光体的电路" Target="frmContent" Href="../searchservlet?query=H01K9/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01K9/06"/>
+    </TreeNode>
+    <TreeNode Title="H01K9/08 #用以选择不同光效果的，如用于汽车前灯的" Target="frmContent" Href="../searchservlet?query=H01K9/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01K9/08"/>
+  </TreeNode>
+  <TreeNode Title="H01K11/00 有一非导电加热发光体的灯，如由感应加热的，由电子放电加热的(H01K 13/00优先；由光致放电加热的入H01J 61/98)" Target="frmContent" Href="../searchservlet?query=H01K11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01K11/00"/>
+  <TreeNode Title="H01K13/00 有一加热前基本不导电的发光体的灯，如Nernst灯" Target="frmContent" Href="../searchservlet?query=H01K13/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01K13/00">
+    <TreeNode Title="H01K13/02 #加热装置" Target="frmContent" Href="../searchservlet?query=H01K13/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01K13/02">
+      <TreeNode Title="H01K13/04 ##应用放电的" Target="frmContent" Href="../searchservlet?query=H01K13/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01K13/04"/>
+      <TreeNode Title="H01K13/06 ##应用感应加热的；应用高频场加热的" Target="frmContent" Href="../searchservlet?query=H01K13/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01K13/06"/>
+    </TreeNode>
+  </TreeNode>
+</Root>

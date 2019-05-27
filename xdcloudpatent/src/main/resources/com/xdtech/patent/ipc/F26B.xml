@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="F26B1/00 促进固体材料或制品干燥的初步处理" Target="frmContent" Href="../searchservlet?query=F26B1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F26B1/00"/>
+  <TreeNode Title="F26B3/00 需要用加热方法来干燥固体材料或制品(在专用机器或设备内入F26B 9/00至F26B 19/00)" Target="frmContent" Href="../searchservlet?query=F26B3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F26B3/00">
+    <TreeNode Title="F26B3/02 #用对流作用的，即借助气体或蒸气从热源传递热到材料或制品使其干燥，例如用空气" Target="frmContent" Href="../searchservlet?query=F26B3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F26B3/02">
+      <TreeNode Title="F26B3/04 ##气体或蒸汽环流于材料或制品上或在周围进行干燥(F26B 3/14优先)" Target="frmContent" Href="../searchservlet?query=F26B3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F26B3/04"/>
+      <TreeNode Title="F26B3/06 ##气体或蒸汽流过材料或制品进行干燥(F26B 3/14优先)" Target="frmContent" Href="../searchservlet?query=F26B3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F26B3/06">
+        <TreeNode Title="F26B3/08 ###为使其松散，例如形成流化床" Target="frmContent" Href="../searchservlet?query=F26B3/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F26B3/08">
+          <TreeNode Title="F26B3/084 ####利用流化床内的热交换[5]" Target="frmContent" Href="../searchservlet?query=F26B3/084&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F26B3/084"/>
+          <TreeNode Title="F26B3/088 ####使用惰性的热稳定颗粒[5]" Target="frmContent" Href="../searchservlet?query=F26B3/088&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F26B3/088"/>
+          <TreeNode Title="F26B3/092 ####搅动流化床，例如用振动或脉冲[5]" Target="frmContent" Href="../searchservlet?query=F26B3/092&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F26B3/092"/>
+          <TreeNode Title="F26B3/097 ####使用磁场来稳定流化床[5]" Target="frmContent" Href="../searchservlet?query=F26B3/097&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F26B3/097"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="F26B3/10 ##气体或蒸汽携带材料或制品一起进行干燥" Target="frmContent" Href="../searchservlet?query=F26B3/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F26B3/10">
+        <TreeNode Title="F26B3/12 ###以喷射形式" Target="frmContent" Href="../searchservlet?query=F26B3/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F26B3/12"/>
+      </TreeNode>
+      <TreeNode Title="F26B3/14 ##靠重力使待干燥材料或制品运动" Target="frmContent" Href="../searchservlet?query=F26B3/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F26B3/14">
+        <TreeNode Title="F26B3/16 ###气体或蒸气反向流动" Target="frmContent" Href="../searchservlet?query=F26B3/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F26B3/16"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="F26B3/18 #通过传导，即通过直接接触方式从热源向待干燥材料或制品传送热，例如气体火焰" Target="frmContent" Href="../searchservlet?query=F26B3/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F26B3/18">
+      <TreeNode Title="F26B3/20 ##热源是加热表面(F26B 3/22优先)" Target="frmContent" Href="../searchservlet?query=F26B3/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F26B3/20"/>
+      <TreeNode Title="F26B3/22 ##热源与进行干燥的材料或制品相对运动，例如振动" Target="frmContent" Href="../searchservlet?query=F26B3/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F26B3/22">
+        <TreeNode Title="F26B3/24 ###旋转运动的" Target="frmContent" Href="../searchservlet?query=F26B3/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F26B3/24"/>
+        <TreeNode Title="F26B3/26 ###用重力作用来运动" Target="frmContent" Href="../searchservlet?query=F26B3/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F26B3/26"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="F26B3/28 #用辐射作用，例如利用太阳" Target="frmContent" Href="../searchservlet?query=F26B3/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F26B3/28">
+      <TreeNode Title="F26B3/30 ##利用放射红外线的元件得到" Target="frmContent" Href="../searchservlet?query=F26B3/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F26B3/30"/>
+    </TreeNode>
+    <TreeNode Title="F26B3/32 #用材料或制品内部发热现象进行干燥" Target="frmContent" Href="../searchservlet?query=F26B3/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F26B3/32">
+      <TreeNode Title="F26B3/34 ##利用电效应的" Target="frmContent" Href="../searchservlet?query=F26B3/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F26B3/34">
+        <TreeNode Title="F26B3/347 ###电磁加热，例如感应加热或用微波能加热[4]" Target="frmContent" Href="../searchservlet?query=F26B3/347&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F26B3/347"/>
+        <TreeNode Title="F26B3/353 ###电阻加热的[4]" Target="frmContent" Href="../searchservlet?query=F26B3/353&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F26B3/353"/>
+      </TreeNode>
+      <TreeNode Title="F26B3/36 ##利用机械效应的，例如摩擦(用超声波振动的入F26B 5/02)" Target="frmContent" Href="../searchservlet?query=F26B3/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F26B3/36"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="F26B5/00 不需要使用加热方法干燥固体材料或制品(用过滤方法使液体从固体上分离的入B01D；用其他液体置换湿固体上的液体，例如用酒精置换水入B01D 12/00；电泳干燥法入B01J)" Target="frmContent" Href="../searchservlet?query=F26B5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F26B5/00">
+    <TreeNode Title="F26B5/02 #应用超声波振动" Target="frmContent" Href="../searchservlet?query=F26B5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F26B5/02"/>
+    <TreeNode Title="F26B5/04 #借助在低压下湿气的蒸发或升华，例如在真空中" Target="frmContent" Href="../searchservlet?query=F26B5/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F26B5/04">
+      <TreeNode Title="F26B5/06 ##需要冷冻过程的" Target="frmContent" Href="../searchservlet?query=F26B5/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F26B5/06"/>
+    </TreeNode>
+    <TreeNode Title="F26B5/08 #用离心处理" Target="frmContent" Href="../searchservlet?query=F26B5/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F26B5/08">
+      <TreeNode Title="F26B5/10 ##需要冷冻过程的" Target="frmContent" Href="../searchservlet?query=F26B5/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F26B5/10"/>
+    </TreeNode>
+    <TreeNode Title="F26B5/12 #用抽吸作用" Target="frmContent" Href="../searchservlet?query=F26B5/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F26B5/12"/>
+    <TreeNode Title="F26B5/14 #施加压力，例如拧绞；用刷干法；用擦拭法" Target="frmContent" Href="../searchservlet?query=F26B5/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F26B5/14"/>
+    <TreeNode Title="F26B5/16 #同吸收体接触，例如接触吸收模；用混入吸收剂的方法" Target="frmContent" Href="../searchservlet?query=F26B5/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F26B5/16"/>
+  </TreeNode>
+  <TreeNode Title="F26B7/00 用F26B 3/00或F26B 5/00各组中单一组不包含的方法组合，对固体材料或制品进行干燥" Target="frmContent" Href="../searchservlet?query=F26B7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F26B7/00"/>
+  <TreeNode Title="F26B9/00 静态下或只是局部摇动干燥固体材料或制品的机器或设备；家用晾晒柜" Target="frmContent" Href="../searchservlet?query=F26B9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F26B9/00">
+    <TreeNode Title="F26B9/02 #在建筑物中的(特殊类型建筑物入E04H)" Target="frmContent" Href="../searchservlet?query=F26B9/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F26B9/02"/>
+    <TreeNode Title="F26B9/04 #在压机和夹紧装置中" Target="frmContent" Href="../searchservlet?query=F26B9/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F26B9/04"/>
+    <TreeNode Title="F26B9/06 #在固定的筒或室内" Target="frmContent" Href="../searchservlet?query=F26B9/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F26B9/06">
+      <TreeNode Title="F26B9/08 ##包括摇动装置的" Target="frmContent" Href="../searchservlet?query=F26B9/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F26B9/08"/>
+    </TreeNode>
+    <TreeNode Title="F26B9/10 #在露天中；在室内盘状容器或台架中；干燥松散材料堆" Target="frmContent" Href="../searchservlet?query=F26B9/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F26B9/10"/>
+  </TreeNode>
+  <TreeNode Title="F26B11/00 对无渐进运动的材料或制品进行干燥的机器或设备" Target="frmContent" Href="../searchservlet?query=F26B11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F26B11/00">
+    <TreeNode Title="F26B11/02 #在运动的滚筒或其他大部分封闭容器内(F26B 11/18优先)" Target="frmContent" Href="../searchservlet?query=F26B11/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F26B11/02">
+      <TreeNode Title="F26B11/04 ##围绕水平轴或微斜轴旋转的" Target="frmContent" Href="../searchservlet?query=F26B11/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F26B11/04">
+        <TreeNode Title="F26B11/06 ###带有保持平稳的搅动装置" Target="frmContent" Href="../searchservlet?query=F26B11/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F26B11/06"/>
+      </TreeNode>
+      <TreeNode Title="F26B11/08 ##围绕垂直轴或微陡斜轴旋转的" Target="frmContent" Href="../searchservlet?query=F26B11/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F26B11/08">
+        <TreeNode Title="F26B11/10 ###带有保持平稳的搅动装置" Target="frmContent" Href="../searchservlet?query=F26B11/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F26B11/10"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="F26B11/12 #在固定的具有运动搅动装置的筒或其他大部分封闭容器内(F26B 11/22优先)" Target="frmContent" Href="../searchservlet?query=F26B11/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F26B11/12">
+      <TreeNode Title="F26B11/14 ##在水平面或微斜面上运动的搅拌装置" Target="frmContent" Href="../searchservlet?query=F26B11/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F26B11/14"/>
+      <TreeNode Title="F26B11/16 ##在垂直面或陡斜面上运动的搅拌装置" Target="frmContent" Href="../searchservlet?query=F26B11/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F26B11/16"/>
+    </TreeNode>
+    <TreeNode Title="F26B11/18 #在运动的盘、盆、盘状容器或其他大部分敞开的容器内或上" Target="frmContent" Href="../searchservlet?query=F26B11/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F26B11/18">
+      <TreeNode Title="F26B11/20 ##带有保持平稳的搅动装置" Target="frmContent" Href="../searchservlet?query=F26B11/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F26B11/20"/>
+    </TreeNode>
+    <TreeNode Title="F26B11/22 #在固定的具有搅动装置的盘、盆、盘状容器或其他大部分敞开的容器内或上" Target="frmContent" Href="../searchservlet?query=F26B11/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F26B11/22"/>
+  </TreeNode>
+  <TreeNode Title="F26B13/00 对具有渐进运动的，对织物、纤维、纱线或其他长度较长材料进行干燥的机器或设备" Target="frmContent" Href="../searchservlet?query=F26B13/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F26B13/00">
+    <TreeNode Title="F26B13/02 #在直线上运动的" Target="frmContent" Href="../searchservlet?query=F26B13/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F26B13/02">
+      <TreeNode Title="F26B13/04 ##应用压辊的" Target="frmContent" Href="../searchservlet?query=F26B13/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F26B13/04"/>
+    </TreeNode>
+    <TreeNode Title="F26B13/06 #用正弦波形或锯齿波形路线运动的" Target="frmContent" Href="../searchservlet?query=F26B13/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F26B13/06">
+      <TreeNode Title="F26B13/08 ##应用压辊的" Target="frmContent" Href="../searchservlet?query=F26B13/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F26B13/08"/>
+    </TreeNode>
+    <TreeNode Title="F26B13/10 #输送、加热或支承材料的装置；调节材料的运动、拉力或位置(加热方法入F26B 3/00)" Target="frmContent" Href="../searchservlet?query=F26B13/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F26B13/10">
+      <TreeNode Title="F26B13/12 ##调节材料的运动、拉力或位置" Target="frmContent" Href="../searchservlet?query=F26B13/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F26B13/12"/>
+      <TreeNode Title="F26B13/14 ##压辊(吸收表面入F26B 13/26)" Target="frmContent" Href="../searchservlet?query=F26B13/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F26B13/14">
+        <TreeNode Title="F26B13/16 ###穿孔的(F26B 13/18优先；使用抽吸的入F26B 13/30)" Target="frmContent" Href="../searchservlet?query=F26B13/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F26B13/16"/>
+        <TreeNode Title="F26B13/18 ###加热的；冷却的" Target="frmContent" Href="../searchservlet?query=F26B13/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F26B13/18"/>
+      </TreeNode>
+      <TreeNode Title="F26B13/20 ##用流体喷射支承材料，例如用空气" Target="frmContent" Href="../searchservlet?query=F26B13/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F26B13/20"/>
+      <TreeNode Title="F26B13/22 ##燃气火焰的配置" Target="frmContent" Href="../searchservlet?query=F26B13/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F26B13/22"/>
+    </TreeNode>
+    <TreeNode Title="F26B13/24 #使用不需要加热的干燥方法的设备配置(这样的方法本身入F26B 5/00)" Target="frmContent" Href="../searchservlet?query=F26B13/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F26B13/24">
+      <TreeNode Title="F26B13/26 ##应用吸收表面，例如压辊上的带或覆盖层" Target="frmContent" Href="../searchservlet?query=F26B13/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F26B13/26"/>
+      <TreeNode Title="F26B13/28 ##用于施加压力的；用于刷干的；用于擦拭的" Target="frmContent" Href="../searchservlet?query=F26B13/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F26B13/28"/>
+      <TreeNode Title="F26B13/30 ##用抽吸作用的，例如通过穿孔的压辊" Target="frmContent" Href="../searchservlet?query=F26B13/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F26B13/30"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="F26B15/00 对具有渐进运动的制品进行干燥的机器或设备；对密集批料进行干燥的具有渐进运动的机器或设备(F26B 13/00，F26B 17/00优先；传送装置一般入B65G)" Target="frmContent" Href="../searchservlet?query=F26B15/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F26B15/00">
+    <TreeNode Title="F26B15/02 #以整个或部分循环运动的" Target="frmContent" Href="../searchservlet?query=F26B15/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F26B15/02">
+      <TreeNode Title="F26B15/04 ##以水平面" Target="frmContent" Href="../searchservlet?query=F26B15/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F26B15/04">
+        <TreeNode Title="F26B15/06 ###包括若干平面，叠置的" Target="frmContent" Href="../searchservlet?query=F26B15/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F26B15/06"/>
+      </TreeNode>
+      <TreeNode Title="F26B15/08 ##以垂直面" Target="frmContent" Href="../searchservlet?query=F26B15/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F26B15/08"/>
+    </TreeNode>
+    <TreeNode Title="F26B15/10 #以一条或多条直线形成的路线移动的，例如复合路线" Target="frmContent" Href="../searchservlet?query=F26B15/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F26B15/10">
+      <TreeNode Title="F26B15/12 ##路线均为水平或略有倾斜的" Target="frmContent" Href="../searchservlet?query=F26B15/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F26B15/12">
+        <TreeNode Title="F26B15/14 ###用托盘或框架运送制品或批料的" Target="frmContent" Href="../searchservlet?query=F26B15/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F26B15/14"/>
+        <TreeNode Title="F26B15/16 ###用轮式货车运送制品或批料的" Target="frmContent" Href="../searchservlet?query=F26B15/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F26B15/16"/>
+        <TreeNode Title="F26B15/18 ###用环形带运送制品或批料的" Target="frmContent" Href="../searchservlet?query=F26B15/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F26B15/18"/>
+      </TreeNode>
+      <TreeNode Title="F26B15/20 ##路线均为垂直或陡斜的" Target="frmContent" Href="../searchservlet?query=F26B15/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F26B15/20">
+        <TreeNode Title="F26B15/22 ###用环形带运送制品或成批材料的" Target="frmContent" Href="../searchservlet?query=F26B15/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F26B15/22">
+          <TreeNode Title="F26B15/24 ####成锯齿形路线的" Target="frmContent" Href="../searchservlet?query=F26B15/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F26B15/24"/>
+        </TreeNode>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="F26B15/26 #以螺旋路线运动的" Target="frmContent" Href="../searchservlet?query=F26B15/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F26B15/26"/>
+  </TreeNode>
+  <TreeNode Title="F26B17/00 对具有渐进运动的松散、塑性或流态材料，例如颗粒状材料、人造纤维，进行干燥的机器或设备(F26B 13/00优先)" Target="frmContent" Href="../searchservlet?query=F26B17/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F26B17/00">
+    <TreeNode Title="F26B17/02 #用传动带运送材料完成运动的；在固定表面上借助传动带推进材料完成运动的" Target="frmContent" Href="../searchservlet?query=F26B17/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F26B17/02">
+      <TreeNode Title="F26B17/04 ##传动带均为水平或略有倾斜的(F26B 17/08优先)" Target="frmContent" Href="../searchservlet?query=F26B17/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F26B17/04"/>
+      <TreeNode Title="F26B17/06 ##传动带均为垂直或陡斜的(F26B 17/08优先)" Target="frmContent" Href="../searchservlet?query=F26B17/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F26B17/06"/>
+      <TreeNode Title="F26B17/08 ##传动带均排列成正弦波形或锯齿形的" Target="frmContent" Href="../searchservlet?query=F26B17/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F26B17/08"/>
+    </TreeNode>
+    <TreeNode Title="F26B17/10 #用流体流动方法实现运动的，例如由喷嘴排出(F26B 3/08优先)[5]" Target="frmContent" Href="../searchservlet?query=F26B17/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F26B17/10"/>
+    <TreeNode Title="F26B17/12 #仅以重力作用实现运动的" Target="frmContent" Href="../searchservlet?query=F26B17/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F26B17/12">
+      <TreeNode Title="F26B17/14 ##材料通过气体逆流进行运动" Target="frmContent" Href="../searchservlet?query=F26B17/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F26B17/14"/>
+      <TreeNode Title="F26B17/16 ##材料向下通过加热表面" Target="frmContent" Href="../searchservlet?query=F26B17/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F26B17/16"/>
+    </TreeNode>
+    <TreeNode Title="F26B17/18 #通过旋转的螺旋叶片或其他旋转传送装置在固定室内移动材料以实现运动" Target="frmContent" Href="../searchservlet?query=F26B17/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F26B17/18">
+      <TreeNode Title="F26B17/20 ##旋转轴是水平或略有倾斜的" Target="frmContent" Href="../searchservlet?query=F26B17/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F26B17/20"/>
+      <TreeNode Title="F26B17/22 ##旋转轴是垂直或陡斜的" Target="frmContent" Href="../searchservlet?query=F26B17/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F26B17/22"/>
+    </TreeNode>
+    <TreeNode Title="F26B17/24 #用抛出或投掷材料的方式实现运动" Target="frmContent" Href="../searchservlet?query=F26B17/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F26B17/24"/>
+    <TreeNode Title="F26B17/26 #利用往复式或摆动式传送装置在固定表面上推进材料实现运动；利用具有往复运动或摆动的架、筛或托盘实现运动" Target="frmContent" Href="../searchservlet?query=F26B17/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F26B17/26"/>
+    <TreeNode Title="F26B17/28 #利用辊子或圆盘使材料在其上或其间通过来实现运动，例如抽吸滚筒、筛" Target="frmContent" Href="../searchservlet?query=F26B17/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F26B17/28"/>
+    <TreeNode Title="F26B17/30 #利用转动或摆动的容器实现运动；利用旋转的底板实现运动" Target="frmContent" Href="../searchservlet?query=F26B17/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F26B17/30">
+      <TreeNode Title="F26B17/32 ##运动是以水平面或微斜面的" Target="frmContent" Href="../searchservlet?query=F26B17/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F26B17/32"/>
+      <TreeNode Title="F26B17/34 ##运动是以垂直面或陡斜面的F26B 19/00F26B 9/00至F26B 17/00各组不包含的干燥固体材料或制品的机械或设备F26B 20/00F26B 9/00至F26B 19/00组中两组或多组所包含的干燥机器或设备的组合" Target="frmContent" Href="../searchservlet?query=F26B17/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F26B17/34"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="F26B21/00 干燥固体材料或制品用的空气或气体的供应或控制装置(空气调节或通风一般入F24F)" Target="frmContent" Href="../searchservlet?query=F26B21/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F26B21/00">
+    <TreeNode Title="F26B21/02 #在闭路循环里环流空气或气体，例如完全在干燥空间内环流的(F26B 21/14优先)" Target="frmContent" Href="../searchservlet?query=F26B21/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F26B21/02">
+      <TreeNode Title="F26B21/04 ##部分在干燥空间以外的" Target="frmContent" Href="../searchservlet?query=F26B21/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F26B21/04"/>
+    </TreeNode>
+    <TreeNode Title="F26B21/06 #控制气体供应参数，例如调节(F26B 21/14优先)" Target="frmContent" Href="../searchservlet?query=F26B21/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F26B21/06">
+      <TreeNode Title="F26B21/08 ##湿度" Target="frmContent" Href="../searchservlet?query=F26B21/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F26B21/08"/>
+      <TreeNode Title="F26B21/10 ##温度；压力" Target="frmContent" Href="../searchservlet?query=F26B21/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F26B21/10"/>
+      <TreeNode Title="F26B21/12 ##流速；流量" Target="frmContent" Href="../searchservlet?query=F26B21/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F26B21/12"/>
+    </TreeNode>
+    <TreeNode Title="F26B21/14 #应用除空气或水汽以外的气体或蒸气" Target="frmContent" Href="../searchservlet?query=F26B21/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F26B21/14"/>
+  </TreeNode>
+  <TreeNode Title="F26B23/00 加热装置(应用热空气或气体的入F26B 21/00)" Target="frmContent" Href="../searchservlet?query=F26B23/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F26B23/00">
+    <TreeNode Title="F26B23/02 #应用燃烧加热(F26B 23/10优先)" Target="frmContent" Href="../searchservlet?query=F26B23/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F26B23/02"/>
+    <TreeNode Title="F26B23/04 #应用电加热(F26B 23/10优先)" Target="frmContent" Href="../searchservlet?query=F26B23/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F26B23/04">
+      <TreeNode Title="F26B23/06 ##电阻加热" Target="frmContent" Href="../searchservlet?query=F26B23/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F26B23/06"/>
+      <TreeNode Title="F26B23/08 ##感应加热；电容加热；微波加热" Target="frmContent" Href="../searchservlet?query=F26B23/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F26B23/08"/>
+    </TreeNode>
+    <TreeNode Title="F26B23/10 #应用容有热流的通道或管道" Target="frmContent" Href="../searchservlet?query=F26B23/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F26B23/10"/>
+  </TreeNode>
+  <TreeNode Title="F26B25/00 不包含F26B 21/00或F26B 23/00组中的一般应用部件(装载、传送或卸载一般入B65G)" Target="frmContent" Href="../searchservlet?query=F26B25/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F26B25/00">
+    <TreeNode Title="F26B25/02 #不包含在其他小类中的传动机构的应用" Target="frmContent" Href="../searchservlet?query=F26B25/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F26B25/02"/>
+    <TreeNode Title="F26B25/04 #摇动、搅拌或刮拭设备" Target="frmContent" Href="../searchservlet?query=F26B25/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F26B25/04"/>
+    <TreeNode Title="F26B25/06 #室、容器或贮器" Target="frmContent" Href="../searchservlet?query=F26B25/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F26B25/06">
+      <TreeNode Title="F26B25/08 ##其部件" Target="frmContent" Href="../searchservlet?query=F26B25/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F26B25/08">
+        <TreeNode Title="F26B25/10 ###底板、顶部或底部；活底部" Target="frmContent" Href="../searchservlet?query=F26B25/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F26B25/10"/>
+        <TreeNode Title="F26B25/12 ###壁或侧面；门" Target="frmContent" Href="../searchservlet?query=F26B25/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F26B25/12"/>
+      </TreeNode>
+      <TreeNode Title="F26B25/14 ##简单结构的室、容器和贮器" Target="frmContent" Href="../searchservlet?query=F26B25/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F26B25/14">
+        <TreeNode Title="F26B25/16 ###大部分封闭的，例如滚筒" Target="frmContent" Href="../searchservlet?query=F26B25/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F26B25/16"/>
+        <TreeNode Title="F26B25/18 ###大部分敞开的，例如，盘、盆、盘状容器" Target="frmContent" Href="../searchservlet?query=F26B25/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F26B25/18"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="F26B25/20 #压辊(F26B 25/06优先)" Target="frmContent" Href="../searchservlet?query=F26B25/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F26B25/20"/>
+    <TreeNode Title="F26B25/22 #根据固体材料或制品含液量控制干燥过程" Target="frmContent" Href="../searchservlet?query=F26B25/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F26B25/22"/>
+  </TreeNode>
+</Root>

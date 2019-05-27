@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="B41D1/00 铅版字模的准备或处理" Target="frmContent" Href="../searchservlet?query=B41D1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B41D1/00">
+    <TreeNode Title="B41D1/02 #使用刷子" Target="frmContent" Href="../searchservlet?query=B41D1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B41D1/02"/>
+    <TreeNode Title="B41D1/04 #使用辊子或滚筒" Target="frmContent" Href="../searchservlet?query=B41D1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B41D1/04"/>
+    <TreeNode Title="B41D1/06 #使用压字模机，如曲拐压字模机或类似杠杆肘拐式的压字模机" Target="frmContent" Href="../searchservlet?query=B41D1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B41D1/06">
+      <TreeNode Title="B41D1/08 ##使用液压压字模机" Target="frmContent" Href="../searchservlet?query=B41D1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B41D1/08"/>
+    </TreeNode>
+    <TreeNode Title="B41D1/10 #在字模上完成二次操作" Target="frmContent" Href="../searchservlet?query=B41D1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B41D1/10">
+      <TreeNode Title="B41D1/12 ##增湿或湿润" Target="frmContent" Href="../searchservlet?query=B41D1/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B41D1/12"/>
+      <TreeNode Title="B41D1/14 ##干燥" Target="frmContent" Href="../searchservlet?query=B41D1/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B41D1/14"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="B41D3/00 铸造铅版；其机械、铸模或装置" Target="frmContent" Href="../searchservlet?query=B41D3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B41D3/00">
+    <TreeNode Title="B41D3/02 #铸造平铅版用的水平铸模" Target="frmContent" Href="../searchservlet?query=B41D3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B41D3/02"/>
+    <TreeNode Title="B41D3/04 #用于铸造曲面型板(如半圆柱面型)的印版的铸模，如水平铸模" Target="frmContent" Href="../searchservlet?query=B41D3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B41D3/04">
+      <TreeNode Title="B41D3/06 ##立铸模" Target="frmContent" Href="../searchservlet?query=B41D3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B41D3/06"/>
+    </TreeNode>
+    <TreeNode Title="B41D3/08 #用于铸造管型(即滚筒型)印版的铸模，如水平铸模" Target="frmContent" Href="../searchservlet?query=B41D3/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B41D3/08">
+      <TreeNode Title="B41D3/10 ##立铸模" Target="frmContent" Href="../searchservlet?query=B41D3/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B41D3/10"/>
+    </TreeNode>
+    <TreeNode Title="B41D3/12 #多铸模浇铅版机" Target="frmContent" Href="../searchservlet?query=B41D3/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B41D3/12"/>
+    <TreeNode Title="B41D3/14 #零件" Target="frmContent" Href="../searchservlet?query=B41D3/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B41D3/14">
+      <TreeNode Title="B41D3/16 ##字模夹" Target="frmContent" Href="../searchservlet?query=B41D3/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B41D3/16"/>
+      <TreeNode Title="B41D3/18 ##铸模开闭装置" Target="frmContent" Href="../searchservlet?query=B41D3/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B41D3/18"/>
+      <TreeNode Title="B41D3/20 ##熔铅锅" Target="frmContent" Href="../searchservlet?query=B41D3/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B41D3/20">
+        <TreeNode Title="B41D3/22 ###用泵将熔化金属送入铸造腔或箱" Target="frmContent" Href="../searchservlet?query=B41D3/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B41D3/22"/>
+        <TreeNode Title="B41D3/24 ###带控制阀的" Target="frmContent" Href="../searchservlet?query=B41D3/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B41D3/24"/>
+        <TreeNode Title="B41D3/26 ###带有搅动熔化金属的装置的" Target="frmContent" Href="../searchservlet?query=B41D3/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B41D3/26"/>
+      </TreeNode>
+      <TreeNode Title="B41D3/28 ##铸模冷却装置" Target="frmContent" Href="../searchservlet?query=B41D3/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B41D3/28"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="B41D5/00 铅版的加工、处理或装卸" Target="frmContent" Href="../searchservlet?query=B41D5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B41D5/00">
+    <TreeNode Title="B41D5/02 #通过弯曲" Target="frmContent" Href="../searchservlet?query=B41D5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B41D5/02"/>
+    <TreeNode Title="B41D5/04 #平铅版的" Target="frmContent" Href="../searchservlet?query=B41D5/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B41D5/04"/>
+    <TreeNode Title="B41D5/06 #曲面铅版的" Target="frmContent" Href="../searchservlet?query=B41D5/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B41D5/06"/>
+  </TreeNode>
+  <TreeNode Title="B41D7/00 用弹性材料或可变形材料(如橡胶、塑性材料)制作印刷面(橡胶印版的制造入B41C 3/04)" Target="frmContent" Href="../searchservlet?query=B41D7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B41D7/00">
+    <TreeNode Title="B41D7/02 #用压制法" Target="frmContent" Href="../searchservlet?query=B41D7/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B41D7/02"/>
+    <TreeNode Title="B41D7/04 #用给印版包覆一薄层弹性膜(如橡胶薄膜)并使后者保持在其上的方法制作印刷面；用弹性转印薄膜法使印刷面减薄或增厚(复制、缩小或放大用的缩放仪入B43L 13/10)" Target="frmContent" Href="../searchservlet?query=B41D7/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B41D7/04"/>
+  </TreeNode>
+  <TreeNode Title="B41D99/00 本小类其他各组中不包括的技术主题[8]" Target="frmContent" Href="../searchservlet?query=B41D99/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B41D99/00"/>
+</Root>

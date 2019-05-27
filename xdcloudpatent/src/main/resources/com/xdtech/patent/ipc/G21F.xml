@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="G21F1/00 以材料组分为特征的防护物" Target="frmContent" Href="../searchservlet?query=G21F1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21F1/00">
+    <TreeNode Title="G21F1/02 #均匀的防护材料的选择" Target="frmContent" Href="../searchservlet?query=G21F1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21F1/02">
+      <TreeNode Title="G21F1/04 ##混凝土；其他液压硬化材料" Target="frmContent" Href="../searchservlet?query=G21F1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21F1/04"/>
+      <TreeNode Title="G21F1/06 ##陶瓷；玻璃；耐火砖(金属陶瓷入G21F 1/08)" Target="frmContent" Href="../searchservlet?query=G21F1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21F1/06"/>
+      <TreeNode Title="G21F1/08 ##金属；合金；金属陶瓷，即陶瓷和金属烧结的混合物" Target="frmContent" Href="../searchservlet?query=G21F1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21F1/08"/>
+      <TreeNode Title="G21F1/10 ##有机物质，在有机载体中的弥散" Target="frmContent" Href="../searchservlet?query=G21F1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21F1/10"/>
+    </TreeNode>
+    <TreeNode Title="G21F1/12 #叠层防护材料" Target="frmContent" Href="../searchservlet?query=G21F1/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21F1/12"/>
+  </TreeNode>
+  <TreeNode Title="G21F3/00 以其物理形态(如颗粒)或材料的形状为特征的防护物" Target="frmContent" Href="../searchservlet?query=G21F3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21F3/00">
+    <TreeNode Title="G21F3/02 #衣服" Target="frmContent" Href="../searchservlet?query=G21F3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21F3/02">
+      <TreeNode Title="G21F3/025 ##完全包围穿衣者的衣服[5]" Target="frmContent" Href="../searchservlet?query=G21F3/025&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21F3/025"/>
+      <TreeNode Title="G21F3/03 ##围裙[5]" Target="frmContent" Href="../searchservlet?query=G21F3/03&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21F3/03"/>
+      <TreeNode Title="G21F3/035 ##手套(在手套箱上安装装置入G21F 7/053)[5]" Target="frmContent" Href="../searchservlet?query=G21F3/035&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21F3/035"/>
+    </TreeNode>
+    <TreeNode Title="G21F3/04 #砖；用它建成的防护物" Target="frmContent" Href="../searchservlet?query=G21F3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21F3/04"/>
+  </TreeNode>
+  <TreeNode Title="G21F5/00 可运输的或轻便的防护容器" Target="frmContent" Href="../searchservlet?query=G21F5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21F5/00">
+    <TreeNode Title="G21F5/002 #用于流体放射性废物的容器[5]" Target="frmContent" Href="../searchservlet?query=G21F5/002&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21F5/002"/>
+    <TreeNode Title="G21F5/005 #用于固体放射性废物的容器，例如极端处置[5]" Target="frmContent" Href="../searchservlet?query=G21F5/005&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21F5/005">
+      <TreeNode Title="G21F5/008 ##用于燃料元件的容器[5]" Target="frmContent" Href="../searchservlet?query=G21F5/008&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21F5/008">
+        <TreeNode Title="G21F5/012 ###容器中的燃料元件架[5]" Target="frmContent" Href="../searchservlet?query=G21F5/012&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21F5/012"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="G21F5/015 #用于存储放射性源，例如用于照射单元的源载体；放射性同位素容器[5]" Target="frmContent" Href="../searchservlet?query=G21F5/015&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21F5/015">
+      <TreeNode Title="G21F5/018 ##注射器的防护或容器(用于把放射性物质用到人体的注射器的防护入A61M 36/08)[5]" Target="frmContent" Href="../searchservlet?query=G21F5/018&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21F5/018"/>
+    </TreeNode>
+    <TreeNode Title="G21F5/02 #具有使辐射源在容器中作受限制照射的设备" Target="frmContent" Href="../searchservlet?query=G21F5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21F5/02">
+      <TreeNode Title="G21F5/04 ##控制照射的装置，如时间、孔径尺寸(对X射线照射的控制入H05G 1/30)" Target="frmContent" Href="../searchservlet?query=G21F5/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21F5/04"/>
+    </TreeNode>
+    <TreeNode Title="G21F5/06 #容器零件或容器附件[5]" Target="frmContent" Href="../searchservlet?query=G21F5/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21F5/06">
+      <TreeNode Title="G21F5/08 ##震动吸收体，例如用于容器的碰撞缓冲器[5]" Target="frmContent" Href="../searchservlet?query=G21F5/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21F5/08"/>
+      <TreeNode Title="G21F5/10 ##热排除系统，例如使用循环流体或冷却风扇[5]" Target="frmContent" Href="../searchservlet?query=G21F5/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21F5/10"/>
+      <TreeNode Title="G21F5/12 ##用于容器的封闭；密封装置[5]" Target="frmContent" Href="../searchservlet?query=G21F5/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21F5/12"/>
+      <TreeNode Title="G21F5/14 ##用于装卸容器或运输容器的器械，例如运输器械[5]" Target="frmContent" Href="../searchservlet?query=G21F5/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21F5/14"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="G21F7/00 加防护的小室或房间" Target="frmContent" Href="../searchservlet?query=G21F7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21F7/00">
+    <TreeNode Title="G21F7/005 #通过墙壁的防护通道；锁；房间之间的转接器件(手套箱之间的入G21F 7/047)[5]" Target="frmContent" Href="../searchservlet?query=G21F7/005&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21F7/005">
+      <TreeNode Title="G21F7/01 ##通过流体装置转接[5]" Target="frmContent" Href="../searchservlet?query=G21F7/01&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21F7/01"/>
+    </TreeNode>
+    <TreeNode Title="G21F7/015 #房间的大气、温度或压力控制器件[5]" Target="frmContent" Href="../searchservlet?query=G21F7/015&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21F7/015"/>
+    <TreeNode Title="G21F7/02 #允许目视但对观察者有防护的观察器具" Target="frmContent" Href="../searchservlet?query=G21F7/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21F7/02">
+      <TreeNode Title="G21F7/03 ##窗，例如防护窗[5]" Target="frmContent" Href="../searchservlet?query=G21F7/03&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21F7/03"/>
+    </TreeNode>
+    <TreeNode Title="G21F7/04 #防护手套箱" Target="frmContent" Href="../searchservlet?query=G21F7/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21F7/04">
+      <TreeNode Title="G21F7/047 ##防护通道；手套箱之间封闭或转接装置[5]" Target="frmContent" Href="../searchservlet?query=G21F7/047&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21F7/047"/>
+      <TreeNode Title="G21F7/053 ##安装手套装置[5]" Target="frmContent" Href="../searchservlet?query=G21F7/053&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21F7/053"/>
+    </TreeNode>
+    <TreeNode Title="G21F7/06 #与遥控器械结构结合的，如和机械手结合的" Target="frmContent" Href="../searchservlet?query=G21F7/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21F7/06"/>
+  </TreeNode>
+  <TreeNode Title="G21F9/00 处理放射性污染材料；及其去污装置[2，5]" Target="frmContent" Href="../searchservlet?query=G21F9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21F9/00">
+    <TreeNode Title="G21F9/02 #处理气体的[2]" Target="frmContent" Href="../searchservlet?query=G21F9/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21F9/02"/>
+    <TreeNode Title="G21F9/04 #处理液体的[2]" Target="frmContent" Href="../searchservlet?query=G21F9/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21F9/04">
+      <TreeNode Title="G21F9/06 ##处理过程(分离同一化学元素的各种同位素入B01D 59/00)" Target="frmContent" Href="../searchservlet?query=G21F9/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21F9/06">
+        <TreeNode Title="G21F9/08 ###蒸发；蒸馏" Target="frmContent" Href="../searchservlet?query=G21F9/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21F9/08"/>
+        <TreeNode Title="G21F9/10 ###絮凝" Target="frmContent" Href="../searchservlet?query=G21F9/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21F9/10"/>
+        <TreeNode Title="G21F9/12 ###吸收；吸附；离子交换" Target="frmContent" Href="../searchservlet?query=G21F9/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21F9/12"/>
+        <TreeNode Title="G21F9/14 ###烧尽；熔解，如烘干" Target="frmContent" Href="../searchservlet?query=G21F9/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21F9/14"/>
+        <TreeNode Title="G21F9/16 ###在稳定的固态介质中凝固" Target="frmContent" Href="../searchservlet?query=G21F9/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21F9/16"/>
+        <TreeNode Title="G21F9/18 ###生物学上的处理" Target="frmContent" Href="../searchservlet?query=G21F9/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21F9/18"/>
+      </TreeNode>
+      <TreeNode Title="G21F9/20 ##液体废物的处理" Target="frmContent" Href="../searchservlet?query=G21F9/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21F9/20">
+        <TreeNode Title="G21F9/22 ###存放在槽或其他的容器中" Target="frmContent" Href="../searchservlet?query=G21F9/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21F9/22"/>
+        <TreeNode Title="G21F9/24 ###存放在地下；存放在水下；如存入海洋" Target="frmContent" Href="../searchservlet?query=G21F9/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21F9/24"/>
+        <TreeNode Title="G21F9/26 ###在水中稀释，如，在海洋中，在河流中" Target="frmContent" Href="../searchservlet?query=G21F9/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21F9/26"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="G21F9/28 #处理固体的[2]" Target="frmContent" Href="../searchservlet?query=G21F9/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21F9/28">
+      <TreeNode Title="G21F9/30 ##处理过程" Target="frmContent" Href="../searchservlet?query=G21F9/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21F9/30">
+        <TreeNode Title="G21F9/32 ###烧尽" Target="frmContent" Href="../searchservlet?query=G21F9/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21F9/32"/>
+      </TreeNode>
+      <TreeNode Title="G21F9/34 ##固体废物的处置" Target="frmContent" Href="../searchservlet?query=G21F9/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21F9/34">
+        <TreeNode Title="G21F9/36 ###封装；打包" Target="frmContent" Href="../searchservlet?query=G21F9/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21F9/36"/>
+      </TreeNode>
+    </TreeNode>
+  </TreeNode>
+</Root>

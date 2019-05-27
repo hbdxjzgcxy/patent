@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="B41C1/00 印版准备" Target="frmContent" Href="../searchservlet?query=B41C1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B41C1/00">
+    <TreeNode Title="B41C1/02 #雕版；雕版头(在记录载体上记录，记录头入G11B)[5]" Target="frmContent" Href="../searchservlet?query=B41C1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B41C1/02">
+      <TreeNode Title="B41C1/04 ##采用由电信号控制的雕版头" Target="frmContent" Href="../searchservlet?query=B41C1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B41C1/04">
+        <TreeNode Title="B41C1/045 ###机械雕版头[5]" Target="frmContent" Href="../searchservlet?query=B41C1/045&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B41C1/045"/>
+        <TreeNode Title="B41C1/05 ###生热的雕版头，如激光束，电子束[5]" Target="frmContent" Href="../searchservlet?query=B41C1/05&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B41C1/05"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="B41C1/055 #制版的热敏处理法(B41C 1/02优先)[5]" Target="frmContent" Href="../searchservlet?query=B41C1/055&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B41C1/055"/>
+    <TreeNode Title="B41C1/06 #过版(B41C 1/10，B41C 1/18优先)[5]" Target="frmContent" Href="../searchservlet?query=B41C1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B41C1/06"/>
+    <TreeNode Title="B41C1/08 #用压凸法，如用打字机(其配用的打字机入B41J 3/38)" Target="frmContent" Href="../searchservlet?query=B41C1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B41C1/08"/>
+    <TreeNode Title="B41C1/10 #供平版印刷；将原版制成印刷版(B41C 1/055优先；平版印刷版的中和或类似的演变处理入B41N 3/08)[5]" Target="frmContent" Href="../searchservlet?query=B41C1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B41C1/10"/>
+    <TreeNode Title="B41C1/12 #多色印刷" Target="frmContent" Href="../searchservlet?query=B41C1/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B41C1/12"/>
+    <TreeNode Title="B41C1/14 #供模板印刷或丝网印刷用的(B41C 1/055优先)[5]" Target="frmContent" Href="../searchservlet?query=B41C1/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B41C1/14"/>
+    <TreeNode Title="B41C1/16 #通过涂敷汞合金而具有疏墨区的印版；汞合金印刷用的印版[5]" Target="frmContent" Href="../searchservlet?query=B41C1/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B41C1/16"/>
+    <TreeNode Title="B41C1/18 #曲面印刷印版或印刷滚筒" Target="frmContent" Href="../searchservlet?query=B41C1/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B41C1/18"/>
+  </TreeNode>
+  <TreeNode Title="B41C3/00 印版的复印或复制" Target="frmContent" Href="../searchservlet?query=B41C3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B41C3/00">
+    <TreeNode Title="B41C3/02 #铅版(铸造铅版入B41D 3/00)[2]" Target="frmContent" Href="../searchservlet?query=B41C3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B41C3/02"/>
+    <TreeNode Title="B41C3/04 #橡胶印版的制作" Target="frmContent" Href="../searchservlet?query=B41C3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B41C3/04"/>
+    <TreeNode Title="B41C3/06 #塑料印版的制作" Target="frmContent" Href="../searchservlet?query=B41C3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B41C3/06"/>
+    <TreeNode Title="B41C3/08 #电铸版；其上应用涂覆层[5]" Target="frmContent" Href="../searchservlet?query=B41C3/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B41C3/08"/>
+  </TreeNode>
+</Root>

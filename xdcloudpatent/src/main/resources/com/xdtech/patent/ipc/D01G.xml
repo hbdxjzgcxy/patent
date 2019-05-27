@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="D01G1/00 连续长丝或长纤维切断，如纤维切割(牵伸装置、加捻装置入D01H)" Target="frmContent" Href="../searchservlet?query=D01G1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01G1/00">
+    <TreeNode Title="D01G1/02 #形成非束状的短纤维" Target="frmContent" Href="../searchservlet?query=D01G1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01G1/02">
+      <TreeNode Title="D01G1/04 ##用切割法" Target="frmContent" Href="../searchservlet?query=D01G1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01G1/04"/>
+    </TreeNode>
+    <TreeNode Title="D01G1/06 #将纤维束变为纤维条或纱，如直接纺纱" Target="frmContent" Href="../searchservlet?query=D01G1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01G1/06">
+      <TreeNode Title="D01G1/08 ##拉伸或摩擦" Target="frmContent" Href="../searchservlet?query=D01G1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01G1/08"/>
+      <TreeNode Title="D01G1/10 ##切断" Target="frmContent" Href="../searchservlet?query=D01G1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01G1/10"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="D01G3/00 纤维的梳出" Target="frmContent" Href="../searchservlet?query=D01G3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01G3/00"/>
+  <TreeNode Title="D01G5/00 纤维的分选(按纤维长度分选，用梳丝机的入D01G 17/00，用精梳机入D01G 19/00)D01G 7/00开包" Target="frmContent" Href="../searchservlet?query=D01G5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01G5/00">
+    <TreeNode Title="D01G7/02 #用打手" Target="frmContent" Href="../searchservlet?query=D01G7/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01G7/02"/>
+    <TreeNode Title="D01G7/04 #用齿状工具" Target="frmContent" Href="../searchservlet?query=D01G7/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01G7/04"/>
+    <TreeNode Title="D01G7/06 #设备或机器的零件" Target="frmContent" Href="../searchservlet?query=D01G7/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01G7/06">
+      <TreeNode Title="D01G7/08 ##喂包装置" Target="frmContent" Href="../searchservlet?query=D01G7/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01G7/08"/>
+      <TreeNode Title="D01G7/10 ##输出纤维装置" Target="frmContent" Href="../searchservlet?query=D01G7/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01G7/10"/>
+      <TreeNode Title="D01G7/12 ##机架、壳、罩、漏底" Target="frmContent" Href="../searchservlet?query=D01G7/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01G7/12"/>
+      <TreeNode Title="D01G7/14 ##传动装置" Target="frmContent" Href="../searchservlet?query=D01G7/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01G7/14"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="D01G9/00 开清，如清棉(打麻或类似纤维入D01B；在造纸机中制造纤维素填絮入D21F 11/14)" Target="frmContent" Href="../searchservlet?query=D01G9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01G9/00">
+    <TreeNode Title="D01G9/02 #在活动容器内搅动" Target="frmContent" Href="../searchservlet?query=D01G9/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01G9/02"/>
+    <TreeNode Title="D01G9/04 #用搅拌臂" Target="frmContent" Href="../searchservlet?query=D01G9/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01G9/04"/>
+    <TreeNode Title="D01G9/06 #用齿状工具" Target="frmContent" Href="../searchservlet?query=D01G9/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01G9/06"/>
+    <TreeNode Title="D01G9/08 #用吸风装置" Target="frmContent" Href="../searchservlet?query=D01G9/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01G9/08">
+      <TreeNode Title="D01G9/10 ##用带孔锡林(成卷带孔吸风锡林入D01G 25/00)" Target="frmContent" Href="../searchservlet?query=D01G9/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01G9/10"/>
+    </TreeNode>
+    <TreeNode Title="D01G9/12 #开清联合机" Target="frmContent" Href="../searchservlet?query=D01G9/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01G9/12"/>
+    <TreeNode Title="D01G9/14 #机器或设备零件" Target="frmContent" Href="../searchservlet?query=D01G9/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01G9/14">
+      <TreeNode Title="D01G9/16 ##喂入装置(一般纤维处理机器上用的纤维喂入装置入D01G 23/00)" Target="frmContent" Href="../searchservlet?query=D01G9/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01G9/16"/>
+      <TreeNode Title="D01G9/18 ##输出纤维装置" Target="frmContent" Href="../searchservlet?query=D01G9/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01G9/18"/>
+      <TreeNode Title="D01G9/20 ##机架；壳；罩；漏底" Target="frmContent" Href="../searchservlet?query=D01G9/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01G9/20"/>
+      <TreeNode Title="D01G9/22 ##传动装置" Target="frmContent" Href="../searchservlet?query=D01G9/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01G9/22"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="D01G11/00 分解含纤维物质，使纤维回收利用" Target="frmContent" Href="../searchservlet?query=D01G11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01G11/00">
+    <TreeNode Title="D01G11/02 #绳子或绳状纤维束的开松、拆散或起毛，使纤维回收利用" Target="frmContent" Href="../searchservlet?query=D01G11/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01G11/02"/>
+    <TreeNode Title="D01G11/04 #碎布的开松，使纤维回收利用(造纸用碎布的机械处理入D21B)" Target="frmContent" Href="../searchservlet?query=D01G11/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01G11/04"/>
+  </TreeNode>
+  <TreeNode Title="D01G13/00 混合，如纤维的混合；纤维与非纤维材料的混合(纤维混合与开包、开松等其他工序的联合，见各有关工序的组)" Target="frmContent" Href="../searchservlet?query=D01G13/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01G13/00"/>
+  <TreeNode Title="D01G15/00 梳理机或附件；针布；梳理机或其他预处理设备上的除毛刺装置(单独的除刺机入D01B)" Target="frmContent" Href="../searchservlet?query=D01G15/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01G15/00">
+    <TreeNode Title="D01G15/02 #梳理机" Target="frmContent" Href="../searchservlet?query=D01G15/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01G15/02">
+      <TreeNode Title="D01G15/04 ##带有与主锡林配合用的工作辊和抄钢丝辊或类似的辊" Target="frmContent" Href="../searchservlet?query=D01G15/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01G15/04">
+        <TreeNode Title="D01G15/06 ###开松机" Target="frmContent" Href="../searchservlet?query=D01G15/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01G15/06"/>
+      </TreeNode>
+      <TreeNode Title="D01G15/08 ##带有与主锡林配合用的板式或环式抄针" Target="frmContent" Href="../searchservlet?query=D01G15/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01G15/08"/>
+      <TreeNode Title="D01G15/10 ##与其他装置，如牵伸装置，联合或配合用的(纤维网分条装置入D01G 15/46；除草刺装置入D01G 15/94)" Target="frmContent" Href="../searchservlet?query=D01G15/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01G15/10"/>
+      <TreeNode Title="D01G15/12 ##零件" Target="frmContent" Href="../searchservlet?query=D01G15/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01G15/12">
+        <TreeNode Title="D01G15/14 ###梳理机部件的结构特征，如便于针布的安装" Target="frmContent" Href="../searchservlet?query=D01G15/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01G15/14">
+          <TreeNode Title="D01G15/16 ####主锡林；胸锡林" Target="frmContent" Href="../searchservlet?query=D01G15/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01G15/16"/>
+          <TreeNode Title="D01G15/18 ####工作辊；抄钢丝辊；道夫(料片分条装置专用道夫入D01G 15/54)" Target="frmContent" Href="../searchservlet?query=D01G15/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01G15/18"/>
+          <TreeNode Title="D01G15/20 ####喂入罗拉；卷取辊" Target="frmContent" Href="../searchservlet?query=D01G15/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01G15/20"/>
+          <TreeNode Title="D01G15/22 ####提升罗拉" Target="frmContent" Href="../searchservlet?query=D01G15/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01G15/22"/>
+          <TreeNode Title="D01G15/24 ####盖板类部件" Target="frmContent" Href="../searchservlet?query=D01G15/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01G15/24"/>
+        </TreeNode>
+        <TreeNode Title="D01G15/26 ###梳理原件的配置" Target="frmContent" Href="../searchservlet?query=D01G15/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01G15/26"/>
+        <TreeNode Title="D01G15/28 ###梳理原件的支撑件；梳理元件相关位置的调节装置" Target="frmContent" Href="../searchservlet?query=D01G15/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01G15/28">
+          <TreeNode Title="D01G15/30 ####曲轨" Target="frmContent" Href="../searchservlet?query=D01G15/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01G15/30"/>
+        </TreeNode>
+        <TreeNode Title="D01G15/32 ###机架；壳；罩" Target="frmContent" Href="../searchservlet?query=D01G15/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01G15/32"/>
+        <TreeNode Title="D01G15/34 ###漏底；除尘刀；角翼" Target="frmContent" Href="../searchservlet?query=D01G15/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01G15/34"/>
+        <TreeNode Title="D01G15/36 ###传动或速度控制装置" Target="frmContent" Href="../searchservlet?query=D01G15/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01G15/36">
+          <TreeNode Title="D01G15/38 ####磨针布时用的" Target="frmContent" Href="../searchservlet?query=D01G15/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01G15/38"/>
+        </TreeNode>
+        <TreeNode Title="D01G15/40 ###喂入装置(纤维处理机上的通用纤维喂入装置，如喂斗入D01G 23/00)" Target="frmContent" Href="../searchservlet?query=D01G15/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01G15/40">
+          <TreeNode Title="D01G15/42 ####喂卷" Target="frmContent" Href="../searchservlet?query=D01G15/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01G15/42"/>
+          <TreeNode Title="D01G15/44 ####中间喂入装置" Target="frmContent" Href="../searchservlet?query=D01G15/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01G15/44"/>
+        </TreeNode>
+        <TreeNode Title="D01G15/46 ###从梳理机元件上去除纤维的落纱或类似装置；料片的分条装置；集棉器(成卷装置入D01G 25/00；纤维聚导器入D01H 5/72)" Target="frmContent" Href="../searchservlet?query=D01G15/46&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01G15/46">
+          <TreeNode Title="D01G15/48 ####斩刀" Target="frmContent" Href="../searchservlet?query=D01G15/48&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01G15/48"/>
+          <TreeNode Title="D01G15/50 ####剥棉罗拉或类似装置" Target="frmContent" Href="../searchservlet?query=D01G15/50&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01G15/50"/>
+          <TreeNode Title="D01G15/52 ####料片的分条装置" Target="frmContent" Href="../searchservlet?query=D01G15/52&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01G15/52">
+            <TreeNode Title="D01G15/54 #####使用专门适用于料片分条的道夫" Target="frmContent" Href="../searchservlet?query=D01G15/54&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01G15/54"/>
+            <TreeNode Title="D01G15/56 #####使用带子" Target="frmContent" Href="../searchservlet?query=D01G15/56&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01G15/56"/>
+          </TreeNode>
+          <TreeNode Title="D01G15/58 ####搓皮装置" Target="frmContent" Href="../searchservlet?query=D01G15/58&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01G15/58">
+            <TreeNode Title="D01G15/60 #####搓皮结构" Target="frmContent" Href="../searchservlet?query=D01G15/60&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01G15/60"/>
+          </TreeNode>
+          <TreeNode Title="D01G15/62 ####头道卷绕装置(一般长丝材料用的卷绕装置入B65H)" Target="frmContent" Href="../searchservlet?query=D01G15/62&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01G15/62"/>
+          <TreeNode Title="D01G15/64 ####与道夫装置或料片分条装置联合使用的牵伸或加捻装置" Target="frmContent" Href="../searchservlet?query=D01G15/64&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01G15/64">
+            <TreeNode Title="D01G15/66 #####带假捻装置(假捻设备入D01H)" Target="frmContent" Href="../searchservlet?query=D01G15/66&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01G15/66"/>
+            <TreeNode Title="D01G15/68 #####带永久加捻装置，如纺纱" Target="frmContent" Href="../searchservlet?query=D01G15/68&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01G15/68"/>
+          </TreeNode>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="D01G15/70 ##使产品具有花式效果的装置" Target="frmContent" Href="../searchservlet?query=D01G15/70&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01G15/70"/>
+      <TreeNode Title="D01G15/72 ##废料回收重梳装置" Target="frmContent" Href="../searchservlet?query=D01G15/72&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01G15/72"/>
+      <TreeNode Title="D01G15/74 ##喷风装置(剥棉或除尘或除飞花的吸风装置入D01G 15/76)" Target="frmContent" Href="../searchservlet?query=D01G15/74&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01G15/74"/>
+    </TreeNode>
+    <TreeNode Title="D01G15/76 #梳理机表面的清洁，梳理区保持清洁" Target="frmContent" Href="../searchservlet?query=D01G15/76&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01G15/76">
+      <TreeNode Title="D01G15/78 ##挡板" Target="frmContent" Href="../searchservlet?query=D01G15/78&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01G15/78"/>
+      <TreeNode Title="D01G15/80 ##剥棉锡林或罗拉" Target="frmContent" Href="../searchservlet?query=D01G15/80&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01G15/80"/>
+      <TreeNode Title="D01G15/82 ##将尘和飞花限定在一定地方或除尘、除飞花装置" Target="frmContent" Href="../searchservlet?query=D01G15/82&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01G15/82"/>
+    </TreeNode>
+    <TreeNode Title="D01G15/84 #针布；其他类不包括的针布制造(磨针时梳理机的传动装置入D01G 15/38；磨针布入B24B)" Target="frmContent" Href="../searchservlet?query=D01G15/84&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01G15/84">
+      <TreeNode Title="D01G15/86 ##用非金属挠性底布" Target="frmContent" Href="../searchservlet?query=D01G15/86&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01G15/86"/>
+      <TreeNode Title="D01G15/88 ##用金属板或条带制作" Target="frmContent" Href="../searchservlet?query=D01G15/88&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01G15/88"/>
+      <TreeNode Title="D01G15/90 ##针板，如梳麻机针板" Target="frmContent" Href="../searchservlet?query=D01G15/90&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01G15/90"/>
+      <TreeNode Title="D01G15/92 ##将针布装在梳理器部件上" Target="frmContent" Href="../searchservlet?query=D01G15/92&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01G15/92"/>
+    </TreeNode>
+    <TreeNode Title="D01G15/94 #毛刺压碎或移动的装置" Target="frmContent" Href="../searchservlet?query=D01G15/94&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01G15/94">
+      <TreeNode Title="D01G15/96 ##除草刺辊" Target="frmContent" Href="../searchservlet?query=D01G15/96&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01G15/96"/>
+      <TreeNode Title="D01G15/98 ##莫里尔式的或类似的装置" Target="frmContent" Href="../searchservlet?query=D01G15/98&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01G15/98"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="D01G17/00 梳丝机" Target="frmContent" Href="../searchservlet?query=D01G17/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01G17/00"/>
+  <TreeNode Title="D01G19/00 精梳机" Target="frmContent" Href="../searchservlet?query=D01G19/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01G19/00">
+    <TreeNode Title="D01G19/02 #用带钉钢环，如诺贝尔式" Target="frmContent" Href="../searchservlet?query=D01G19/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01G19/02"/>
+    <TreeNode Title="D01G19/04 #用带钉滚筒，如法式精梳机" Target="frmContent" Href="../searchservlet?query=D01G19/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01G19/04"/>
+    <TreeNode Title="D01G19/06 #零件" Target="frmContent" Href="../searchservlet?query=D01G19/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01G19/06">
+      <TreeNode Title="D01G19/08 ##喂入装置" Target="frmContent" Href="../searchservlet?query=D01G19/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01G19/08"/>
+      <TreeNode Title="D01G19/10 ##精梳机部件的结构、安装和操作特征" Target="frmContent" Href="../searchservlet?query=D01G19/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01G19/10"/>
+      <TreeNode Title="D01G19/12 ##精梳机上展平或夹持纤维的装置，如压毛刷" Target="frmContent" Href="../searchservlet?query=D01G19/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01G19/12"/>
+      <TreeNode Title="D01G19/14 ##牵伸和输出装置" Target="frmContent" Href="../searchservlet?query=D01G19/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01G19/14">
+        <TreeNode Title="D01G19/16 ###钳板机构" Target="frmContent" Href="../searchservlet?query=D01G19/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01G19/16"/>
+        <TreeNode Title="D01G19/18 ###罗拉或罗拉皮圈装置，如连续牵伸纤维的" Target="frmContent" Href="../searchservlet?query=D01G19/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01G19/18">
+          <TreeNode Title="D01G19/20 ####间歇式牵伸纤维的" Target="frmContent" Href="../searchservlet?query=D01G19/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01G19/20"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="D01G19/22 ##除落棉、废棉装置" Target="frmContent" Href="../searchservlet?query=D01G19/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01G19/22"/>
+      <TreeNode Title="D01G19/24 ##机架；壳；罩" Target="frmContent" Href="../searchservlet?query=D01G19/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01G19/24"/>
+      <TreeNode Title="D01G19/26 ##传动机构" Target="frmContent" Href="../searchservlet?query=D01G19/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01G19/26"/>
+      <TreeNode Title="D01G19/28 ##吸风或气动装置" Target="frmContent" Href="../searchservlet?query=D01G19/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01G19/28"/>
+      <TreeNode Title="D01G19/30 ##加热装置" Target="frmContent" Href="../searchservlet?query=D01G19/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01G19/30"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="D01G21/00 联合的机械、设备或工艺，例如，连续加工用的(D01G 1/06，D01G 9/12，D01G 15/46，D01G 15/94优先)" Target="frmContent" Href="../searchservlet?query=D01G21/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01G21/00"/>
+  <TreeNode Title="D01G23/00 纤维喂入；机器之间的纤维传送(D01G 21/00优先；梳理机的间歇喂入D01G 15/40)" Target="frmContent" Href="../searchservlet?query=D01G23/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01G23/00">
+    <TreeNode Title="D01G23/02 #喂斗；输送绒面散射纤维" Target="frmContent" Href="../searchservlet?query=D01G23/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01G23/02">
+      <TreeNode Title="D01G23/04 ##带喂入调节装置" Target="frmContent" Href="../searchservlet?query=D01G23/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01G23/04"/>
+    </TreeNode>
+    <TreeNode Title="D01G23/06 #根据所喂纤维数量或重量而对机器或设备进行调节的装置，如天平杆调节的装置(根据纤维的不均度而调节牵伸倍数的装置入D01H)" Target="frmContent" Href="../searchservlet?query=D01G23/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01G23/06"/>
+    <TreeNode Title="D01G23/08 #吸风或气动装置" Target="frmContent" Href="../searchservlet?query=D01G23/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01G23/08"/>
+  </TreeNode>
+  <TreeNode Title="D01G25/00 非上述机械组成部分的成卷机构(长丝非织造布垫或层的形成入D04H)" Target="frmContent" Href="../searchservlet?query=D01G25/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01G25/00"/>
+  <TreeNode Title="D01G27/00 卷或条的卷绕机构，如用于清棉机、梳麻机、精纺针梳机产品" Target="frmContent" Href="../searchservlet?query=D01G27/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01G27/00">
+    <TreeNode Title="D01G27/02 #为获得紧实的卷装，带有棉卷罗拉或类似重物" Target="frmContent" Href="../searchservlet?query=D01G27/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01G27/02"/>
+    <TreeNode Title="D01G27/04 #棉卷罗拉或类似物的自动释放" Target="frmContent" Href="../searchservlet?query=D01G27/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01G27/04"/>
+  </TreeNode>
+  <TreeNode Title="D01G29/00 纤维润滑装置，如在针梳机内(特殊润滑剂的使用工艺入D06M 15/00)" Target="frmContent" Href="../searchservlet?query=D01G29/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01G29/00"/>
+  <TreeNode Title="D01G31/00 警报安全装置，如自动探疵病、自动停车机构(一般安全装置入F16P；一般指示装置入G08B)" Target="frmContent" Href="../searchservlet?query=D01G31/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01G31/00"/>
+  <TreeNode Title="D01G33/00 纤维处理手工用具" Target="frmContent" Href="../searchservlet?query=D01G33/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01G33/00"/>
+  <TreeNode Title="D01G35/00 填絮处理" Target="frmContent" Href="../searchservlet?query=D01G35/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01G35/00"/>
+  <TreeNode Title="D01G99/00 本小类其他各组中不包括的技术主题  [2010.01]" Target="frmContent" Href="../searchservlet?query=D01G99/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01G99/00"/>
+</Root>

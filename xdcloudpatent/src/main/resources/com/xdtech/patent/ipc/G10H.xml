@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="G10H1/00 电声乐器的零部件(也可适用于其他乐器的键盘入G10B，G10C；用于产生混响或回声的装置入G10K 15/08)[5]" Target="frmContent" Href="../searchservlet?query=G10H1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G10H1/00">
+    <TreeNode Title="G10H1/02 #音调频率控制装置，例如提升或衰减；产生特殊音乐效果的装置，例如颤音或滑音" Target="frmContent" Href="../searchservlet?query=G10H1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G10H1/02">
+      <TreeNode Title="G10H1/04 ##应用附加调制的" Target="frmContent" Href="../searchservlet?query=G10H1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G10H1/04">
+        <TreeNode Title="G10H1/043 ###连续调制的[3]" Target="frmContent" Href="../searchservlet?query=G10H1/043&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G10H1/043">
+          <TreeNode Title="G10H1/045 ####用电动机械装置的[3]" Target="frmContent" Href="../searchservlet?query=G10H1/045&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G10H1/045"/>
+          <TreeNode Title="G10H1/047 ####用声学机械装置的，例如转动扬声器或声音偏转板[3]" Target="frmContent" Href="../searchservlet?query=G10H1/047&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G10H1/047"/>
+        </TreeNode>
+        <TreeNode Title="G10H1/053 ###只在演奏过程中[3]" Target="frmContent" Href="../searchservlet?query=G10H1/053&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G10H1/053">
+          <TreeNode Title="G10H1/055 ####用接有可变阻抗元件的开关[3]" Target="frmContent" Href="../searchservlet?query=G10H1/055&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G10H1/055"/>
+          <TreeNode Title="G10H1/057 ####采用包络形成电路的[3]" Target="frmContent" Href="../searchservlet?query=G10H1/057&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G10H1/057"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="G10H1/06 ##建立音调的谐波成分的电路" Target="frmContent" Href="../searchservlet?query=G10H1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G10H1/06">
+        <TreeNode Title="G10H1/08 ###通过音调的组合(G10H 1/14，G10H 1/16优先；和弦入G10H 1/38；语言分析或合成入G10L)[3]" Target="frmContent" Href="../searchservlet?query=G10H1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G10H1/08">
+          <TreeNode Title="G10H1/10 ####用于获得合唱、柔音或合奏效果的(连续调制入G10H 1/043)[3]" Target="frmContent" Href="../searchservlet?query=G10H1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G10H1/10"/>
+        </TreeNode>
+        <TreeNode Title="G10H1/12 ###通过滤掉复合波形(G10H 1/14，G10H 1/16优先)[3]" Target="frmContent" Href="../searchservlet?query=G10H1/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G10H1/12"/>
+        <TreeNode Title="G10H1/14 ###演奏过程中(演奏过程中调制的入G10H 1/053)[3]" Target="frmContent" Href="../searchservlet?query=G10H1/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G10H1/14"/>
+        <TreeNode Title="G10H1/16 ###采用非线性元件的(G10H 1/14优先；非正弦基音的产生入G10H 5/10)[3]" Target="frmContent" Href="../searchservlet?query=G10H1/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G10H1/16"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="G10H1/18 #选择电路[3]" Target="frmContent" Href="../searchservlet?query=G10H1/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G10H1/18">
+      <TreeNode Title="G10H1/20 ##用于变调的[3]" Target="frmContent" Href="../searchservlet?query=G10H1/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G10H1/20"/>
+      <TreeNode Title="G10H1/22 ##用于抑制音调；优选网络[3]" Target="frmContent" Href="../searchservlet?query=G10H1/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G10H1/22"/>
+      <TreeNode Title="G10H1/24 ##用于选择多个预置的寄存器音调的[3]" Target="frmContent" Href="../searchservlet?query=G10H1/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G10H1/24"/>
+      <TreeNode Title="G10H1/26 ##用于自动地产生一系列音调的[3]" Target="frmContent" Href="../searchservlet?query=G10H1/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G10H1/26">
+        <TreeNode Title="G10H1/28 ###使产生琶音的[3]" Target="frmContent" Href="../searchservlet?query=G10H1/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G10H1/28"/>
+        <TreeNode Title="G10H1/30 ###使反复发出两个音调的[3]" Target="frmContent" Href="../searchservlet?query=G10H1/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G10H1/30"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="G10H1/32 #结构零部件[3]" Target="frmContent" Href="../searchservlet?query=G10H1/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G10H1/32">
+      <TreeNode Title="G10H1/34 ##开关装置，例如电声乐器所特有的键盘或机械开关(也可适用于其他乐器的键盘入G10B，G10C)[3]" Target="frmContent" Href="../searchservlet?query=G10H1/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G10H1/34"/>
+    </TreeNode>
+    <TreeNode Title="G10H1/36 #伴奏设备[3]" Target="frmContent" Href="../searchservlet?query=G10H1/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G10H1/36">
+      <TreeNode Title="G10H1/38 ##和弦的[3]" Target="frmContent" Href="../searchservlet?query=G10H1/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G10H1/38"/>
+      <TreeNode Title="G10H1/40 ##节奏的(节拍器入G04F 5/02)[3]" Target="frmContent" Href="../searchservlet?query=G10H1/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G10H1/40">
+        <TreeNode Title="G10H1/42 ###包含音调形成电路的[3]" Target="frmContent" Href="../searchservlet?query=G10H1/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G10H1/42"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="G10H1/44 #调谐装置[3]" Target="frmContent" Href="../searchservlet?query=G10H1/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G10H1/44"/>
+    <TreeNode Title="G10H1/46 #音量控制[3]" Target="frmContent" Href="../searchservlet?query=G10H1/46&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G10H1/46"/>
+  </TreeNode>
+  <TreeNode Title="G10H3/00 其中由机电装置产生音调的乐器" Target="frmContent" Href="../searchservlet?query=G10H3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G10H3/00">
+    <TreeNode Title="G10H3/02 #应用机械断续器的" Target="frmContent" Href="../searchservlet?query=G10H3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G10H3/02"/>
+    <TreeNode Title="G10H3/03 #应用拾音装置读出记录的声波的，例如在转盘上[3]" Target="frmContent" Href="../searchservlet?query=G10H3/03&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G10H3/03">
+      <TreeNode Title="G10H3/06 ##应用光电拾音器的" Target="frmContent" Href="../searchservlet?query=G10H3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G10H3/06"/>
+      <TreeNode Title="G10H3/08 ##应用感应拾音器的" Target="frmContent" Href="../searchservlet?query=G10H3/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G10H3/08">
+        <TreeNode Title="G10H3/09 ###应用带或线的[3]" Target="frmContent" Href="../searchservlet?query=G10H3/09&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G10H3/09"/>
+      </TreeNode>
+      <TreeNode Title="G10H3/10 ##应用电容拾音器的" Target="frmContent" Href="../searchservlet?query=G10H3/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G10H3/10"/>
+    </TreeNode>
+    <TreeNode Title="G10H3/12 #应用机械共振发生器的，例如弦乐器或打击乐器，用机电传感器拾取它的音调，而其电信号则被进一步处理或放大，然后通过扬声器或等效的设备将它变换成声音[3]" Target="frmContent" Href="../searchservlet?query=G10H3/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G10H3/12">
+      <TreeNode Title="G10H3/14 ##应用机械驱动的带有拾音器的振动器的(G10H 3/24优先)[3]" Target="frmContent" Href="../searchservlet?query=G10H3/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G10H3/14">
+        <TreeNode Title="G10H3/16 ###应用簧片的[3]" Target="frmContent" Href="../searchservlet?query=G10H3/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G10H3/16"/>
+        <TreeNode Title="G10H3/18 ###应用弦的，例如电吉他[3]" Target="frmContent" Href="../searchservlet?query=G10H3/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G10H3/18"/>
+        <TreeNode Title="G10H3/20 ###应用调谐音叉、棒或管的[3]" Target="frmContent" Href="../searchservlet?query=G10H3/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G10H3/20"/>
+      </TreeNode>
+      <TreeNode Title="G10H3/22 ##应用机电驱动的带有拾音器的振动器的(G10H 3/24优先)[3]" Target="frmContent" Href="../searchservlet?query=G10H3/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G10H3/22"/>
+      <TreeNode Title="G10H3/24 ##与反馈装置结合的，例如声学的[3]" Target="frmContent" Href="../searchservlet?query=G10H3/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G10H3/24">
+        <TreeNode Title="G10H3/26 ###应用电反馈的[3]" Target="frmContent" Href="../searchservlet?query=G10H3/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G10H3/26"/>
+      </TreeNode>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="G10H5/00 应用电子发生器产生音调的乐器(G10H 7/00优先)[3]" Target="frmContent" Href="../searchservlet?query=G10H5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G10H5/00">
+    <TreeNode Title="G10H5/02 #利用产生基音的" Target="frmContent" Href="../searchservlet?query=G10H5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G10H5/02">
+      <TreeNode Title="G10H5/04 ##用半导体器件作为有源元件的(G10H 5/10，G10H 5/12优先)" Target="frmContent" Href="../searchservlet?query=G10H5/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G10H5/04"/>
+      <TreeNode Title="G10H5/06 ##由基音的倍频或分频产生音调的" Target="frmContent" Href="../searchservlet?query=G10H5/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G10H5/06">
+        <TreeNode Title="G10H5/07 ###合成复合波形的[3]" Target="frmContent" Href="../searchservlet?query=G10H5/07&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G10H5/07"/>
+      </TreeNode>
+      <TreeNode Title="G10H5/08 ##由外差法产生音调的" Target="frmContent" Href="../searchservlet?query=G10H5/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G10H5/08"/>
+    </TreeNode>
+    <TreeNode Title="G10H5/10 #利用产生非正弦基音的，例如锯齿波" Target="frmContent" Href="../searchservlet?query=G10H5/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G10H5/10">
+      <TreeNode Title="G10H5/12 ##用半导体器件作为有源元件的" Target="frmContent" Href="../searchservlet?query=G10H5/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G10H5/12"/>
+    </TreeNode>
+    <TreeNode Title="G10H5/14 #应用机电谐振器，例如石英晶体，作为确定频率的元件[3]" Target="frmContent" Href="../searchservlet?query=G10H5/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G10H5/14"/>
+    <TreeNode Title="G10H5/16 #应用阴极射线管的 [3]" Target="frmContent" Href="../searchservlet?query=G10H5/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G10H5/16"/>
+  </TreeNode>
+  <TreeNode Title="G10H7/00 从数据存储器合成音调的乐器，例如计算机控制管风琴(非特指乐器的声波合成入G10K 15/02，G10L)[3，5]" Target="frmContent" Href="../searchservlet?query=G10H7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G10H7/00">
+    <TreeNode Title="G10H7/02 #其中在音调波形的连续取样点上的幅值储存在一个或多个存储器中[5]" Target="frmContent" Href="../searchservlet?query=G10H7/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G10H7/02">
+      <TreeNode Title="G10H7/04 ##以变化速率读出幅值，例如按照音调、音高读出[5]" Target="frmContent" Href="../searchservlet?query=G10H7/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G10H7/04"/>
+      <TreeNode Title="G10H7/06 ##以固定速率读出幅值，利用给定值逐步改变读出地址，例如按照音调、音高读出[5]" Target="frmContent" Href="../searchservlet?query=G10H7/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G10H7/06"/>
+    </TreeNode>
+    <TreeNode Title="G10H7/08 #利用计算函数或多项式近似法计算在音调波形的连续取样点上的幅值[5]" Target="frmContent" Href="../searchservlet?query=G10H7/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G10H7/08">
+      <TreeNode Title="G10H7/10 ##利用存储在存储器中的系数或参数，例如傅立叶系数(G10H 7/12优先)[5]" Target="frmContent" Href="../searchservlet?query=G10H7/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G10H7/10"/>
+      <TreeNode Title="G10H7/12 ##利用存储在存储器中的一组或多组参数并计算出一个或多个在先取样点的幅值的递归算法[5]" Target="frmContent" Href="../searchservlet?query=G10H7/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G10H7/12"/>
+    </TreeNode>
+  </TreeNode>
+</Root>

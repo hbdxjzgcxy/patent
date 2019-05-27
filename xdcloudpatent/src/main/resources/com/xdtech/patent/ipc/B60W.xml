@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="B60W10/00 不同类型或不同功能的车辆子系统的联合控制(用于以车辆内部电源提供纯电力牵引的车辆的入B60L 11/00)  [8]" Target="frmContent" Href="../searchservlet?query=B60W10/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60W10/00">
+    <TreeNode Title="B60W10/02 # 包括动力传动离合器的控制的  [8]" Target="frmContent" Href="../searchservlet?query=B60W10/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60W10/02"/>
+    <TreeNode Title="B60W10/04 # 包括动力单元的控制的  [8]" Target="frmContent" Href="../searchservlet?query=B60W10/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60W10/04">
+      <TreeNode Title="B60W10/06 ##包括内燃机的控制的   [8]" Target="frmContent" Href="../searchservlet?query=B60W10/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60W10/06"/>
+      <TreeNode Title="B60W10/08 ##包括电动力单元的控制，例如，马达或发电机     [8]" Target="frmContent" Href="../searchservlet?query=B60W10/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60W10/08"/>
+    </TreeNode>
+    <TreeNode Title="B60W10/10 #包括变速传动装置的控制的      [8]" Target="frmContent" Href="../searchservlet?query=B60W10/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60W10/10"/>
+    <TreeNode Title="B60W10/12 #包括差速装置的控制的    [8]" Target="frmContent" Href="../searchservlet?query=B60W10/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60W10/12"/>
+    <TreeNode Title="B60W10/18 #包括刹车系统的控制      [8]" Target="frmContent" Href="../searchservlet?query=B60W10/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60W10/18"/>
+    <TreeNode Title="B60W10/20 #包括转向系统的控制      [8]" Target="frmContent" Href="../searchservlet?query=B60W10/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60W10/20"/>
+    <TreeNode Title="B60W10/22 #包括悬挂系统的控制      [8]" Target="frmContent" Href="../searchservlet?query=B60W10/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60W10/22"/>
+    <TreeNode Title="B60W10/24 #包括能量储存装置的控制  [8]" Target="frmContent" Href="../searchservlet?query=B60W10/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60W10/24">
+      <TreeNode Title="B60W10/26 ##用于电能的，例如，电池或电容器   [8]" Target="frmContent" Href="../searchservlet?query=B60W10/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60W10/26"/>
+    </TreeNode>
+    <TreeNode Title="B60W10/28 #包括燃料电池的控制的    [8]" Target="frmContent" Href="../searchservlet?query=B60W10/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60W10/28"/>
+    <TreeNode Title="B60W10/30 #包括辅助装置，例如空调压缩机或油泵的控制  [8]" Target="frmContent" Href="../searchservlet?query=B60W10/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60W10/30"/>
+  </TreeNode>
+  <TreeNode Title="B60W20/00 专门适用于混合动力车辆，即，具有两个或多个不止一种类型的原动机(例如，电动机和内燃机，都用于车辆动力)的车辆的控制系统[8]" Target="frmContent" Href="../searchservlet?query=B60W20/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60W20/00"/>
+  <TreeNode Title="B60W30/00 不与某一特定子系统的控制(例如，使用车辆子系统联合控制的系统的控制)相关联的道路车辆驾驶控制系统的使用  [8]" Target="frmContent" Href="../searchservlet?query=B60W30/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60W30/00">
+    <TreeNode Title="B60W30/02 #车辆驾驶稳定性的控制    [8]" Target="frmContent" Href="../searchservlet?query=B60W30/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60W30/02">
+      <TreeNode Title="B60W30/04 ##涉及预防翻车的 [8]" Target="frmContent" Href="../searchservlet?query=B60W30/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60W30/04"/>
+    </TreeNode>
+    <TreeNode Title="B60W30/06 #用于驻车的自动操作[8]" Target="frmContent" Href="../searchservlet?query=B60W30/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60W30/06"/>
+    <TreeNode Title="B60W30/08 #预测或避免可能的或即将到来的碰撞的  [8]" Target="frmContent" Href="../searchservlet?query=B60W30/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60W30/08"/>
+    <TreeNode Title="B60W30/10 #路线保持[8]" Target="frmContent" Href="../searchservlet?query=B60W30/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60W30/10">
+      <TreeNode Title="B60W30/12 ##车道保持 [8]" Target="frmContent" Href="../searchservlet?query=B60W30/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60W30/12"/>
+    </TreeNode>
+    <TreeNode Title="B60W30/14 #巡航控制    [8]" Target="frmContent" Href="../searchservlet?query=B60W30/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60W30/14">
+      <TreeNode Title="B60W30/16 ##车辆间距的控制，例如，与前车保持某一距离     [8]" Target="frmContent" Href="../searchservlet?query=B60W30/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60W30/16"/>
+    </TreeNode>
+    <TreeNode Title="B60W30/18 #车辆的牵引  [8]" Target="frmContent" Href="../searchservlet?query=B60W30/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60W30/18">
+      <TreeNode Title="B60W30/20 ##在动力传动系统中减少振动   [8]" Target="frmContent" Href="../searchservlet?query=B60W30/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60W30/20"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="B60W40/00 不与某一特定子系统的控制相关联的道路车辆驾驶控制系统的驾驶参数的判断或计算      [8]" Target="frmContent" Href="../searchservlet?query=B60W40/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60W40/00">
+    <TreeNode Title="B60W40/02 #涉及周围的路况    [8]" Target="frmContent" Href="../searchservlet?query=B60W40/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60W40/02">
+      <TreeNode Title="B60W40/04 ##交通状况 [8]" Target="frmContent" Href="../searchservlet?query=B60W40/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60W40/04"/>
+      <TreeNode Title="B60W40/06 ##道路状况 [8]" Target="frmContent" Href="../searchservlet?query=B60W40/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60W40/06"/>
+    </TreeNode>
+    <TreeNode Title="B60W40/08 #涉及驾驶员或乘客的      [8]" Target="frmContent" Href="../searchservlet?query=B60W40/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60W40/08"/>
+    <TreeNode Title="B60W40/10 #涉及车辆的运动    [8]" Target="frmContent" Href="../searchservlet?query=B60W40/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60W40/10"/>
+    <TreeNode Title="B60W40/12 #涉及车辆自身的参数      [8]" Target="frmContent" Href="../searchservlet?query=B60W40/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60W40/12"/>
+  </TreeNode>
+  <TreeNode Title="B60W50/00 不与某一特定子系统的控制相关联的道路车辆驾驶控制的控制系统的零部件[8]" Target="frmContent" Href="../searchservlet?query=B60W50/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60W50/00">
+    <TreeNode Title="B60W50/02 #控制系统故障时确保安全的，例如，通过诊断、防止或修理故障    [8]" Target="frmContent" Href="../searchservlet?query=B60W50/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60W50/02"/>
+    <TreeNode Title="B60W50/04 #监测控制系统的效能的    [8]" Target="frmContent" Href="../searchservlet?query=B60W50/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60W50/04"/>
+    <TreeNode Title="B60W50/06 #改善控制系统的动态响应，例如，改善调节速度或避免振荡或过冲  [8]" Target="frmContent" Href="../searchservlet?query=B60W50/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60W50/06"/>
+    <TreeNode Title="B60W50/08 #在驾驶员与控制系统之间的人机交流    [8]" Target="frmContent" Href="../searchservlet?query=B60W50/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60W50/08"/>
+  </TreeNode>
+</Root>

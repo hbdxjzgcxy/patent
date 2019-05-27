@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="G12B1/00 不限定只用于计量能产生运动或位移的传感元件；及其相关的传动机构" Target="frmContent" Href="../searchservlet?query=G12B1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G12B1/00">
+    <TreeNode Title="G12B1/02 #条或板的合成物，例如，双金属片(用双金属片元件的温度计入G01K 5/62)" Target="frmContent" Href="../searchservlet?query=G12B1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G12B1/02"/>
+    <TreeNode Title="G12B1/04 #在压力作用下有可变形或位移部件的空心件，例如，波登(Bourdou)管、波纹管(一般波纹管入F16J 3/00)" Target="frmContent" Href="../searchservlet?query=G12B1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G12B1/04"/>
+  </TreeNode>
+  <TreeNode Title="G12B3/00 其他组中不包括的运动零部件(一般减震或减冲击入F16F；避免不平衡的作用力入F16F 15/00；平衡测试入G01M)[1，7]" Target="frmContent" Href="../searchservlet?query=G12B3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G12B3/00">
+    <TreeNode Title="G12B3/02 #运动件的锁定，即不使用时运动件的锁定" Target="frmContent" Href="../searchservlet?query=G12B3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G12B3/02"/>
+    <TreeNode Title="G12B3/04 #悬置件(轴承入F16C)" Target="frmContent" Href="../searchservlet?query=G12B3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G12B3/04"/>
+    <TreeNode Title="G12B3/06 #减少摩擦作用，例如，采用振动(采用润滑的入F16N)" Target="frmContent" Href="../searchservlet?query=G12B3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G12B3/06"/>
+    <TreeNode Title="G12B3/08 #活动件的阻尼，例如，为促进快速的非振荡运动至一个最后的读数" Target="frmContent" Href="../searchservlet?query=G12B3/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G12B3/08">
+      <TreeNode Title="G12B3/10 ##应用涡流作用的" Target="frmContent" Href="../searchservlet?query=G12B3/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G12B3/10"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="G12B5/00 仪器或其他设备或其部件的位置或状态的调整，例如，水平调整(水准仪本身入G01C 9/00)；倾斜或加速影响的补偿，例如，用于光学仪器的" Target="frmContent" Href="../searchservlet?query=G12B5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G12B5/00"/>
+  <TreeNode Title="G12B7/00 温度影响的补偿(用冷却方法的入G12B 15/00)" Target="frmContent" Href="../searchservlet?query=G12B7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G12B7/00"/>
+  <TreeNode Title="G12B9/00 仪器或其他设备的外壳或支架" Target="frmContent" Href="../searchservlet?query=G12B9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G12B9/00">
+    <TreeNode Title="G12B9/02 #箱；外壳；柜(传动零件的密封装置列入F16J，具体的入F16J 15/50)" Target="frmContent" Href="../searchservlet?query=G12B9/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G12B9/02">
+      <TreeNode Title="G12B9/04 ##零件，例如，盖" Target="frmContent" Href="../searchservlet?query=G12B9/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G12B9/04">
+        <TreeNode Title="G12B9/06 ###金属箱" Target="frmContent" Href="../searchservlet?query=G12B9/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G12B9/06"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="G12B9/08 #支架；携带用装置" Target="frmContent" Href="../searchservlet?query=G12B9/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G12B9/08">
+      <TreeNode Title="G12B9/10 ##仪器板；面板；台；架；构架；" Target="frmContent" Href="../searchservlet?query=G12B9/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G12B9/10"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="G12B11/00 指示元件；其照明" Target="frmContent" Href="../searchservlet?query=G12B11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G12B11/00">
+    <TreeNode Title="G12B11/02 #刻度尺；分度盘" Target="frmContent" Href="../searchservlet?query=G12B11/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G12B11/02"/>
+    <TreeNode Title="G12B11/04 #指针及其调定机构" Target="frmContent" Href="../searchservlet?query=G12B11/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G12B11/04"/>
+  </TreeNode>
+  <TreeNode Title="G12B13/00 仪器或设备的校准(计量仪器的校准入 G01)" Target="frmContent" Href="../searchservlet?query=G12B13/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G12B13/00"/>
+  <TreeNode Title="G12B15/00 冷却(用致冷作用，例如致冷流体的循环入F25D；具有一般用途的热交换或传热零部件入F28F)" Target="frmContent" Href="../searchservlet?query=G12B15/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G12B15/00">
+    <TreeNode Title="G12B15/02 #采用闭路循环的流体循环系统" Target="frmContent" Href="../searchservlet?query=G12B15/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G12B15/02"/>
+    <TreeNode Title="G12B15/04 #采用流体的流通，例如，开环中的空气" Target="frmContent" Href="../searchservlet?query=G12B15/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G12B15/04"/>
+    <TreeNode Title="G12B15/06 #采用吸热或辐射物质接触，例如，散热片" Target="frmContent" Href="../searchservlet?query=G12B15/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G12B15/06"/>
+  </TreeNode>
+  <TreeNode Title="G12B17/00 屏蔽(建筑物的绝缘或其他保护入E04B；一般设备的紧急保护入F16P 7/00；与声波有关的入G10K 11/00；与核辐射有关的入G21F)" Target="frmContent" Href="../searchservlet?query=G12B17/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G12B17/00">
+    <TreeNode Title="G12B17/02 #对电场或磁场的防护，例如，无线电波" Target="frmContent" Href="../searchservlet?query=G12B17/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G12B17/02"/>
+    <TreeNode Title="G12B17/04 #对紫外线、可见光、红外线的防护(照明装置的屏蔽入F21V；滤光器入G02B 5/20)" Target="frmContent" Href="../searchservlet?query=G12B17/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G12B17/04"/>
+    <TreeNode Title="G12B17/06 #对热的防护(G12B 17/04优先；冷却入G12B 15/00)" Target="frmContent" Href="../searchservlet?query=G12B17/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G12B17/06"/>
+    <TreeNode Title="G12B17/08 #对产生机械损伤影响的防护，例如，由冲击、由外部物体、由人所引起的(G12B 17/02至G12B 17/06优先)" Target="frmContent" Href="../searchservlet?query=G12B17/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G12B17/08"/>
+  </TreeNode>
+</Root>

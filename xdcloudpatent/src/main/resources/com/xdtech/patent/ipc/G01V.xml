@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="G01V1/00 地震学；地震或声学的勘探或探测" Target="frmContent" Href="../searchservlet?query=G01V1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01V1/00">
+    <TreeNode Title="G01V1/02 #产生地震能" Target="frmContent" Href="../searchservlet?query=G01V1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01V1/02">
+      <TreeNode Title="G01V1/04 ##零部件" Target="frmContent" Href="../searchservlet?query=G01V1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01V1/04">
+        <TreeNode Title="G01V1/047 ###将发生器接地的装置[3]" Target="frmContent" Href="../searchservlet?query=G01V1/047&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01V1/047">
+          <TreeNode Title="G01V1/053 ####产生横向波的装置[3]" Target="frmContent" Href="../searchservlet?query=G01V1/053&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01V1/053"/>
+        </TreeNode>
+        <TreeNode Title="G01V1/06 ###点火装置(G01V 1/393优先)[3]" Target="frmContent" Href="../searchservlet?query=G01V1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01V1/06">
+          <TreeNode Title="G01V1/08 ####包含延时装置" Target="frmContent" Href="../searchservlet?query=G01V1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01V1/08"/>
+        </TreeNode>
+        <TreeNode Title="G01V1/09 ###运输设备，例如，车辆上用(G01V 1/38优先)[3]" Target="frmContent" Href="../searchservlet?query=G01V1/09&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01V1/09"/>
+      </TreeNode>
+      <TreeNode Title="G01V1/104 ##用炸药爆炸(G01V 1/157优先)[3]" Target="frmContent" Href="../searchservlet?query=G01V1/104&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01V1/104">
+        <TreeNode Title="G01V1/108 ###使外壳表面变形或移动[3]" Target="frmContent" Href="../searchservlet?query=G01V1/108&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01V1/108">
+          <TreeNode Title="G01V1/112 ####用于地球表面[3]" Target="frmContent" Href="../searchservlet?query=G01V1/112&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01V1/112"/>
+        </TreeNode>
+        <TreeNode Title="G01V1/116 ###其中增压的燃烧气体以脉冲的方式从发生器排出，例如，用于产生爆炸[3]" Target="frmContent" Href="../searchservlet?query=G01V1/116&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01V1/116"/>
+        <TreeNode Title="G01V1/13 ###在一定空间或时间产生所需要爆炸类型的炸药的布置或配置" Target="frmContent" Href="../searchservlet?query=G01V1/13&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01V1/13"/>
+      </TreeNode>
+      <TreeNode Title="G01V1/133 ##用流体驱动装置，例如，应用高压流体(G01V 1/104优先)[3]" Target="frmContent" Href="../searchservlet?query=G01V1/133&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01V1/133">
+        <TreeNode Title="G01V1/135 ###使外壳表面变形或移动[3]" Target="frmContent" Href="../searchservlet?query=G01V1/135&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01V1/135"/>
+        <TreeNode Title="G01V1/137 ###其中流体以脉冲方式从发生器排出，例如，产生爆炸[3]" Target="frmContent" Href="../searchservlet?query=G01V1/137&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01V1/137"/>
+      </TreeNode>
+      <TreeNode Title="G01V1/143 ##用机械驱动装置(G01V 1/104，G01V 1/133优先)[3]" Target="frmContent" Href="../searchservlet?query=G01V1/143&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01V1/143">
+        <TreeNode Title="G01V1/145 ###使表面变形或移动[3]" Target="frmContent" Href="../searchservlet?query=G01V1/145&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01V1/145"/>
+        <TreeNode Title="G01V1/147 ###利用下落物质的冲击[3]" Target="frmContent" Href="../searchservlet?query=G01V1/147&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01V1/147"/>
+        <TreeNode Title="G01V1/153 ###利用旋转的非平衡物质[3]" Target="frmContent" Href="../searchservlet?query=G01V1/153&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01V1/153"/>
+        <TreeNode Title="G01V1/155 ###利用往复式运动的物质[3]" Target="frmContent" Href="../searchservlet?query=G01V1/155&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01V1/155"/>
+      </TreeNode>
+      <TreeNode Title="G01V1/157 ##利用火花放电；利用引爆线[3]" Target="frmContent" Href="../searchservlet?query=G01V1/157&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01V1/157"/>
+    </TreeNode>
+    <TreeNode Title="G01V1/16 #地震信号的接收元件；接收元件的配置或改进" Target="frmContent" Href="../searchservlet?query=G01V1/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01V1/16">
+      <TreeNode Title="G01V1/18 ##接收元件，例如，地震仪、地震检波器[2]" Target="frmContent" Href="../searchservlet?query=G01V1/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01V1/18"/>
+      <TreeNode Title="G01V1/20 ##接收元件的配置，例如，地震检波器的排布类型" Target="frmContent" Href="../searchservlet?query=G01V1/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01V1/20"/>
+    </TreeNode>
+    <TreeNode Title="G01V1/22 #将地震信号送至记录或处理设备" Target="frmContent" Href="../searchservlet?query=G01V1/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01V1/22"/>
+    <TreeNode Title="G01V1/24 #地震数据的记录" Target="frmContent" Href="../searchservlet?query=G01V1/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01V1/24">
+      <TreeNode Title="G01V1/26 ##基准信号发射装置，例如，指示爆炸引爆时刻" Target="frmContent" Href="../searchservlet?query=G01V1/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01V1/26"/>
+    </TreeNode>
+    <TreeNode Title="G01V1/28 #地震数据的处理，例如，分析、用于解释、用于校正(G01V 1/48优先)[6]" Target="frmContent" Href="../searchservlet?query=G01V1/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01V1/28">
+      <TreeNode Title="G01V1/30 ##分析(G01V 1/50优先)[6]" Target="frmContent" Href="../searchservlet?query=G01V1/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01V1/30"/>
+      <TreeNode Title="G01V1/32 ##将一种记录变换为另一种记录" Target="frmContent" Href="../searchservlet?query=G01V1/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01V1/32"/>
+      <TreeNode Title="G01V1/34 ##地震记录的显示" Target="frmContent" Href="../searchservlet?query=G01V1/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01V1/34"/>
+      <TreeNode Title="G01V1/36 ##完成记录的静态或动态校正，例如，传播范围的校正；地震信号的相关处理；消除干扰能量的影响" Target="frmContent" Href="../searchservlet?query=G01V1/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01V1/36">
+        <TreeNode Title="G01V1/37 ###地震系统专用的利用地壳的连续激发[3]" Target="frmContent" Href="../searchservlet?query=G01V1/37&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01V1/37"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="G01V1/38 #专用于被水覆盖的区域(G01V 1/28优先)" Target="frmContent" Href="../searchservlet?query=G01V1/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01V1/38">
+      <TreeNode Title="G01V1/387 ##减少二次气泡脉冲，即减少在最初的爆炸之后由气泡产生和释放所得到的被检测信号[3]" Target="frmContent" Href="../searchservlet?query=G01V1/387&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01V1/387"/>
+      <TreeNode Title="G01V1/393 ##水下炸药引爆的装药装置，例如，与点火装置相结合[3]" Target="frmContent" Href="../searchservlet?query=G01V1/393&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01V1/393"/>
+    </TreeNode>
+    <TreeNode Title="G01V1/40 #专用于测井记录" Target="frmContent" Href="../searchservlet?query=G01V1/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01V1/40">
+      <TreeNode Title="G01V1/42 ##在一个井中用发生器而在别处用接收器，反之亦然(G01V 1/52优先)[6]" Target="frmContent" Href="../searchservlet?query=G01V1/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01V1/42"/>
+      <TreeNode Title="G01V1/44 ##发生器和接收器用于同一井中(G01V 1/52优先)[6]" Target="frmContent" Href="../searchservlet?query=G01V1/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01V1/44">
+        <TreeNode Title="G01V1/46 ###获得数据[6]" Target="frmContent" Href="../searchservlet?query=G01V1/46&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01V1/46"/>
+        <TreeNode Title="G01V1/48 ###处理数据[6]" Target="frmContent" Href="../searchservlet?query=G01V1/48&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01V1/48">
+          <TreeNode Title="G01V1/50 ####分析数据[6]" Target="frmContent" Href="../searchservlet?query=G01V1/50&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01V1/50"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="G01V1/52 ##结构零件[6]" Target="frmContent" Href="../searchservlet?query=G01V1/52&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01V1/52"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="G01V3/00 电或磁的勘探或探测；；地磁场特性的测量；例如，磁偏角或磁偏差[2，4]" Target="frmContent" Href="../searchservlet?query=G01V3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01V3/00">
+    <TreeNode Title="G01V3/02 #利用电流的传输进行操作的" Target="frmContent" Href="../searchservlet?query=G01V3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01V3/02">
+      <TreeNode Title="G01V3/04 ##利用直流的" Target="frmContent" Href="../searchservlet?query=G01V3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01V3/04"/>
+      <TreeNode Title="G01V3/06 ##利用交流的" Target="frmContent" Href="../searchservlet?query=G01V3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01V3/06"/>
+    </TreeNode>
+    <TreeNode Title="G01V3/08 #通过被测目标或地质结构或通过探测装置产生或改变磁场或电场进行操作的(用电磁波的入G01V 3/12)" Target="frmContent" Href="../searchservlet?query=G01V3/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01V3/08">
+      <TreeNode Title="G01V3/10 ##用感应线圈" Target="frmContent" Href="../searchservlet?query=G01V3/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01V3/10">
+        <TreeNode Title="G01V3/11 ###用于探测导体，例如，轻武器、电缆或导管[3]" Target="frmContent" Href="../searchservlet?query=G01V3/11&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01V3/11"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="G01V3/12 #利用电磁波操作" Target="frmContent" Href="../searchservlet?query=G01V3/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01V3/12"/>
+    <TreeNode Title="G01V3/14 #利用电子磁共振或核磁共振" Target="frmContent" Href="../searchservlet?query=G01V3/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01V3/14"/>
+    <TreeNode Title="G01V3/15 #运输过程中专用的，例如，用人、车辆或船[3]" Target="frmContent" Href="../searchservlet?query=G01V3/15&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01V3/15">
+      <TreeNode Title="G01V3/16 ##专用于从飞机上操作的(G01V 3/165至G01V 3/175优先)[3]" Target="frmContent" Href="../searchservlet?query=G01V3/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01V3/16"/>
+      <TreeNode Title="G01V3/165 ##通过被测目标或探测装置产生或改变磁场或电场进行操作的(应用电磁波的入G01V 3/17)[3]" Target="frmContent" Href="../searchservlet?query=G01V3/165&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01V3/165"/>
+      <TreeNode Title="G01V3/17 ##用电磁波操作的[3]" Target="frmContent" Href="../searchservlet?query=G01V3/17&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01V3/17"/>
+      <TreeNode Title="G01V3/175 ##用电子磁共振或核磁共振操作的[3]" Target="frmContent" Href="../searchservlet?query=G01V3/175&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01V3/175"/>
+    </TreeNode>
+    <TreeNode Title="G01V3/18 #专用于测井记录的" Target="frmContent" Href="../searchservlet?query=G01V3/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01V3/18">
+      <TreeNode Title="G01V3/20 ##利用电流的传输进行操作的[3]" Target="frmContent" Href="../searchservlet?query=G01V3/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01V3/20">
+        <TreeNode Title="G01V3/22 ###利用直流的[3]" Target="frmContent" Href="../searchservlet?query=G01V3/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01V3/22"/>
+        <TreeNode Title="G01V3/24 ###利用交流的[3]" Target="frmContent" Href="../searchservlet?query=G01V3/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01V3/24"/>
+      </TreeNode>
+      <TreeNode Title="G01V3/26 ##通过周围地层结构或探测装置产生或改变磁场或电场进行操作的(用电磁波入G01V 3/30)[3]" Target="frmContent" Href="../searchservlet?query=G01V3/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01V3/26">
+        <TreeNode Title="G01V3/28 ###用感应线圈[3]" Target="frmContent" Href="../searchservlet?query=G01V3/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01V3/28"/>
+      </TreeNode>
+      <TreeNode Title="G01V3/30 ##用电磁波操作[3]" Target="frmContent" Href="../searchservlet?query=G01V3/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01V3/30"/>
+      <TreeNode Title="G01V3/32 ##用电子磁共振或核磁共振[3]" Target="frmContent" Href="../searchservlet?query=G01V3/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01V3/32"/>
+      <TreeNode Title="G01V3/34 ##发送数据到记录或处理仪器；记录数据[3]" Target="frmContent" Href="../searchservlet?query=G01V3/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01V3/34"/>
+    </TreeNode>
+    <TreeNode Title="G01V3/36 #记录数据(G01V 3/34优先)[3]" Target="frmContent" Href="../searchservlet?query=G01V3/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01V3/36"/>
+    <TreeNode Title="G01V3/38 #处理数据，例如，用于分析、用于解释或用于校正[3]" Target="frmContent" Href="../searchservlet?query=G01V3/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01V3/38"/>
+    <TreeNode Title="G01V3/40 #专用于测量地磁场的特性[3]" Target="frmContent" Href="../searchservlet?query=G01V3/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01V3/40"/>
+  </TreeNode>
+  <TreeNode Title="G01V5/00 应用核辐射进行勘探或探测，例如，利用天然的或诱导的放射性" Target="frmContent" Href="../searchservlet?query=G01V5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01V5/00">
+    <TreeNode Title="G01V5/02 #专用于表面测量记录，例如，从飞机上进行测量[3]" Target="frmContent" Href="../searchservlet?query=G01V5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01V5/02"/>
+    <TreeNode Title="G01V5/04 #专用于测井记录[3]" Target="frmContent" Href="../searchservlet?query=G01V5/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01V5/04">
+      <TreeNode Title="G01V5/06 ##用于检测具有天然放射性的矿物[3]" Target="frmContent" Href="../searchservlet?query=G01V5/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01V5/06"/>
+      <TreeNode Title="G01V5/08 ##利用初级核辐射源或X射线[3]" Target="frmContent" Href="../searchservlet?query=G01V5/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01V5/08">
+        <TreeNode Title="G01V5/10 ###利用中子源[3]" Target="frmContent" Href="../searchservlet?query=G01V5/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01V5/10"/>
+        <TreeNode Title="G01V5/12 ###利用γ射线或X射线源[3]" Target="frmContent" Href="../searchservlet?query=G01V5/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01V5/12"/>
+        <TreeNode Title="G01V5/14 ###利用几个源的组合，例如，中子源和γ射线源的组合[3]" Target="frmContent" Href="../searchservlet?query=G01V5/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01V5/14"/>
+      </TreeNode>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="G01V7/00 测量引力场或波；重力勘探或探测" Target="frmContent" Href="../searchservlet?query=G01V7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01V7/00">
+    <TreeNode Title="G01V7/02 #零部件" Target="frmContent" Href="../searchservlet?query=G01V7/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01V7/02">
+      <TreeNode Title="G01V7/04 ##电、光电或磁的指示或记录装置" Target="frmContent" Href="../searchservlet?query=G01V7/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01V7/04"/>
+      <TreeNode Title="G01V7/06 ##重力记录的分析或解释" Target="frmContent" Href="../searchservlet?query=G01V7/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01V7/06"/>
+    </TreeNode>
+    <TreeNode Title="G01V7/08 #用天平" Target="frmContent" Href="../searchservlet?query=G01V7/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01V7/08">
+      <TreeNode Title="G01V7/10 ##用扭转天平，例如，Eotvos天平" Target="frmContent" Href="../searchservlet?query=G01V7/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01V7/10"/>
+    </TreeNode>
+    <TreeNode Title="G01V7/12 #用悬摆" Target="frmContent" Href="../searchservlet?query=G01V7/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01V7/12"/>
+    <TreeNode Title="G01V7/14 #用自由降落时间" Target="frmContent" Href="../searchservlet?query=G01V7/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01V7/14"/>
+    <TreeNode Title="G01V7/16 #移动平台上专用的，例如，轮船或飞机上专用的" Target="frmContent" Href="../searchservlet?query=G01V7/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01V7/16"/>
+  </TreeNode>
+  <TreeNode Title="G01V8/00 用光学装置勘探或探测[6]" Target="frmContent" Href="../searchservlet?query=G01V8/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01V8/00">
+    <TreeNode Title="G01V8/02 #勘探[6]" Target="frmContent" Href="../searchservlet?query=G01V8/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01V8/02"/>
+    <TreeNode Title="G01V8/10 #探测，例如，用光垒(用来自目标的反射光入G01S 17/00)[6]" Target="frmContent" Href="../searchservlet?query=G01V8/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01V8/10">
+      <TreeNode Title="G01V8/12 ##用一个发射器和一个接收器[6]" Target="frmContent" Href="../searchservlet?query=G01V8/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01V8/12">
+        <TreeNode Title="G01V8/14 ###用反射器[6]" Target="frmContent" Href="../searchservlet?query=G01V8/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01V8/14"/>
+        <TreeNode Title="G01V8/16 ###用光学纤维[6]" Target="frmContent" Href="../searchservlet?query=G01V8/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01V8/16"/>
+        <TreeNode Title="G01V8/18 ###用机械扫描系统[6]" Target="frmContent" Href="../searchservlet?query=G01V8/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01V8/18"/>
+      </TreeNode>
+      <TreeNode Title="G01V8/20 ##用多个发射器或多个接收器[6]" Target="frmContent" Href="../searchservlet?query=G01V8/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01V8/20">
+        <TreeNode Title="G01V8/22 ###用反射器[6]" Target="frmContent" Href="../searchservlet?query=G01V8/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01V8/22"/>
+        <TreeNode Title="G01V8/24 ###用光学纤维[6]" Target="frmContent" Href="../searchservlet?query=G01V8/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01V8/24"/>
+        <TreeNode Title="G01V8/26 ###用机械扫描系统[6]" Target="frmContent" Href="../searchservlet?query=G01V8/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01V8/26"/>
+      </TreeNode>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="G01V9/00 用G01V 1/00至G01V 8/00各组不包括的方法勘探或探测[6]" Target="frmContent" Href="../searchservlet?query=G01V9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01V9/00">
+    <TreeNode Title="G01V9/02 #地下水的存在或流量的测定" Target="frmContent" Href="../searchservlet?query=G01V9/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01V9/02"/>
+  </TreeNode>
+  <TreeNode Title="G01V11/00 采用G01V 1/00至G01V 9/00各组中两个或两个以上组包括的综合技术手段进行勘探或探测" Target="frmContent" Href="../searchservlet?query=G01V11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01V11/00"/>
+  <TreeNode Title="G01V13/00 包括在G01V 1/00至G01V 11/00各组中的仪器或设备的制造、校准、清洁或修理" Target="frmContent" Href="../searchservlet?query=G01V13/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01V13/00"/>
+  <TreeNode Title="G01V15/00 为了能够探测目标物而与目标物相连接或相结合的示踪物(具有可检测的标签或标志的与机器一起使用的记录载体入G06K 19/00)[6]" Target="frmContent" Href="../searchservlet?query=G01V15/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01V15/00"/>
+  <TreeNode Title="G01V99/00 本小类其他各组中不包括的技术主题[2009.01]" Target="frmContent" Href="../searchservlet?query=G01V99/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01V99/00"/>
+</Root>

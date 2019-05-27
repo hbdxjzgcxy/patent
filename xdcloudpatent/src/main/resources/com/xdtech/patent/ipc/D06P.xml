@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="D06P1/00 按照所用染料、颜料或助剂分类的，纺织品的一般印、染法和皮革、毛皮或各种形状的固体高分子物质的一般染色法" Target="frmContent" Href="../searchservlet?query=D06P1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06P1/00">
+    <TreeNode Title="D06P1/02 #用偶氮染料(D06P 1/18，D06P 1/38，D06P 1/39，D06P 1/41优先)[2]" Target="frmContent" Href="../searchservlet?query=D06P1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06P1/02">
+      <TreeNode Title="D06P1/04 ##不含金属" Target="frmContent" Href="../searchservlet?query=D06P1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06P1/04">
+        <TreeNode Title="D06P1/06 ###含酸基" Target="frmContent" Href="../searchservlet?query=D06P1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06P1/06"/>
+        <TreeNode Title="D06P1/08 ###阳离子偶氮染料" Target="frmContent" Href="../searchservlet?query=D06P1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06P1/08"/>
+      </TreeNode>
+      <TreeNode Title="D06P1/10 ##含金属" Target="frmContent" Href="../searchservlet?query=D06P1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06P1/10"/>
+      <TreeNode Title="D06P1/12 ##在现场制备的" Target="frmContent" Href="../searchservlet?query=D06P1/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06P1/12"/>
+    </TreeNode>
+    <TreeNode Title="D06P1/13 #用偶氮甲碱染料[2]" Target="frmContent" Href="../searchservlet?query=D06P1/13&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06P1/13"/>
+    <TreeNode Title="D06P1/14 #用酞菁染料而不还原(D06P 1/38，D06P 1/40优先)" Target="frmContent" Href="../searchservlet?query=D06P1/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06P1/14"/>
+    <TreeNode Title="D06P1/16 #用分散染料，如醋酸酯纤维染料" Target="frmContent" Href="../searchservlet?query=D06P1/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06P1/16">
+      <TreeNode Title="D06P1/18 ##偶氮染料" Target="frmContent" Href="../searchservlet?query=D06P1/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06P1/18"/>
+      <TreeNode Title="D06P1/19 ##硝基染料[2]" Target="frmContent" Href="../searchservlet?query=D06P1/19&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06P1/19"/>
+      <TreeNode Title="D06P1/20 ##蒽醌染料" Target="frmContent" Href="../searchservlet?query=D06P1/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06P1/20"/>
+    </TreeNode>
+    <TreeNode Title="D06P1/22 #用还原染料" Target="frmContent" Href="../searchservlet?query=D06P1/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06P1/22">
+      <TreeNode Title="D06P1/24 ##蒽醌染料" Target="frmContent" Href="../searchservlet?query=D06P1/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06P1/24"/>
+      <TreeNode Title="D06P1/26 ##酞菁染料" Target="frmContent" Href="../searchservlet?query=D06P1/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06P1/26"/>
+      <TreeNode Title="D06P1/28 ##还原酯染料" Target="frmContent" Href="../searchservlet?query=D06P1/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06P1/28"/>
+    </TreeNode>
+    <TreeNode Title="D06P1/30 #用硫化染料" Target="frmContent" Href="../searchservlet?query=D06P1/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06P1/30"/>
+    <TreeNode Title="D06P1/32 #用氧化染料" Target="frmContent" Href="../searchservlet?query=D06P1/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06P1/32"/>
+    <TreeNode Title="D06P1/34 #用天然染料" Target="frmContent" Href="../searchservlet?query=D06P1/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06P1/34"/>
+    <TreeNode Title="D06P1/36 #用媒染染料" Target="frmContent" Href="../searchservlet?query=D06P1/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06P1/36"/>
+    <TreeNode Title="D06P1/38 #用活性染料" Target="frmContent" Href="../searchservlet?query=D06P1/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06P1/38">
+      <TreeNode Title="D06P1/382 ##反应基直接连在杂环基上[2]" Target="frmContent" Href="../searchservlet?query=D06P1/382&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06P1/382"/>
+      <TreeNode Title="D06P1/384 ##反应基不直接连在杂环基[2]" Target="frmContent" Href="../searchservlet?query=D06P1/384&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06P1/384"/>
+    </TreeNode>
+    <TreeNode Title="D06P1/39 #用酸性染料[2]" Target="frmContent" Href="../searchservlet?query=D06P1/39&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06P1/39">
+      <TreeNode Title="D06P1/40 ##用无偶氮基的酸性染料" Target="frmContent" Href="../searchservlet?query=D06P1/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06P1/40"/>
+    </TreeNode>
+    <TreeNode Title="D06P1/41 #用碱性染料[2]" Target="frmContent" Href="../searchservlet?query=D06P1/41&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06P1/41">
+      <TreeNode Title="D06P1/42 ##用无偶氮基的碱性染料" Target="frmContent" Href="../searchservlet?query=D06P1/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06P1/42"/>
+    </TreeNode>
+    <TreeNode Title="D06P1/44 #用不溶颜料或助剂，如黏合剂[2]" Target="frmContent" Href="../searchservlet?query=D06P1/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06P1/44">
+      <TreeNode Title="D06P1/46 ##用含天然高分子物质或其衍生物的成分" Target="frmContent" Href="../searchservlet?query=D06P1/46&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06P1/46">
+        <TreeNode Title="D06P1/48 ###用碳水化合物的衍生物" Target="frmContent" Href="../searchservlet?query=D06P1/48&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06P1/48">
+          <TreeNode Title="D06P1/50 ####纤维素衍生物" Target="frmContent" Href="../searchservlet?query=D06P1/50&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06P1/50"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="D06P1/52 ##用含合成高分子物质的组合物(D06P 1/60优先)" Target="frmContent" Href="../searchservlet?query=D06P1/52&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06P1/52">
+        <TreeNode Title="D06P1/54 ###活性基连在交链剂上的物质" Target="frmContent" Href="../searchservlet?query=D06P1/54&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06P1/54"/>
+        <TreeNode Title="D06P1/56 ###醛制备的缩合产物或预缩合产物" Target="frmContent" Href="../searchservlet?query=D06P1/56&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06P1/56">
+          <TreeNode Title="D06P1/58 ####有其他合成高分子物质" Target="frmContent" Href="../searchservlet?query=D06P1/58&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06P1/58"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="D06P1/60 ##用含聚醚组合物" Target="frmContent" Href="../searchservlet?query=D06P1/60&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06P1/60">
+        <TreeNode Title="D06P1/607 ###含氮聚醚[2]" Target="frmContent" Href="../searchservlet?query=D06P1/607&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06P1/607"/>
+        <TreeNode Title="D06P1/613 ###无氮聚醚[2]" Target="frmContent" Href="../searchservlet?query=D06P1/613&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06P1/613"/>
+      </TreeNode>
+      <TreeNode Title="D06P1/62 ##用含有硫酸盐或磺酸盐基的低分子量有机化合物成分" Target="frmContent" Href="../searchservlet?query=D06P1/62&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06P1/62"/>
+      <TreeNode Title="D06P1/64 ##用不含硫酸盐或磺酸盐基的低分子量的有机化合物成分" Target="frmContent" Href="../searchservlet?query=D06P1/64&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06P1/64">
+        <TreeNode Title="D06P1/642 ###含氮化合物[2]" Target="frmContent" Href="../searchservlet?query=D06P1/642&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06P1/642">
+          <TreeNode Title="D06P1/645 ####含胺基的脂族、芳香脂族或环脂族化合物[2]" Target="frmContent" Href="../searchservlet?query=D06P1/645&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06P1/645"/>
+          <TreeNode Title="D06P1/647 ####含氮羧酸或羧酸盐[2]" Target="frmContent" Href="../searchservlet?query=D06P1/647&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06P1/647"/>
+          <TreeNode Title="D06P1/649 ####含碳胺、硫代碳胺或脒基的化合物[2]" Target="frmContent" Href="../searchservlet?query=D06P1/649&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06P1/649"/>
+        </TreeNode>
+        <TreeNode Title="D06P1/651 ###无氮化合物[2]" Target="frmContent" Href="../searchservlet?query=D06P1/651&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06P1/651"/>
+      </TreeNode>
+      <TreeNode Title="D06P1/653 ##无氮羧酸或羧酸盐[2]" Target="frmContent" Href="../searchservlet?query=D06P1/653&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06P1/653"/>
+      <TreeNode Title="D06P1/655 ##含氨基化合物[2，6]" Target="frmContent" Href="../searchservlet?query=D06P1/655&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06P1/655">
+        <TreeNode Title="D06P1/66 ###含季铵基[6]" Target="frmContent" Href="../searchservlet?query=D06P1/66&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06P1/66"/>
+      </TreeNode>
+      <TreeNode Title="D06P1/667 ##有机磷化合物[2]" Target="frmContent" Href="../searchservlet?query=D06P1/667&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06P1/667"/>
+      <TreeNode Title="D06P1/673 ##无机化合物[2]" Target="frmContent" Href="../searchservlet?query=D06P1/673&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06P1/673"/>
+    </TreeNode>
+    <TreeNode Title="D06P1/81 #使用溶解在无机溶剂中的染料[7]" Target="frmContent" Href="../searchservlet?query=D06P1/81&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06P1/81"/>
+    <TreeNode Title="D06P1/90 #用溶于有机溶剂或其水乳液中的染料[2]" Target="frmContent" Href="../searchservlet?query=D06P1/90&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06P1/90">
+      <TreeNode Title="D06P1/92 ##在有机溶剂中[7]" Target="frmContent" Href="../searchservlet?query=D06P1/92&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06P1/92"/>
+    </TreeNode>
+    <TreeNode Title="D06P1/94 #使用溶解在超临界态溶剂中的染料[7]" Target="frmContent" Href="../searchservlet?query=D06P1/94&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06P1/94"/>
+    <TreeNode Title="D06P1/96 #以小浴比为特征的染色[7]" Target="frmContent" Href="../searchservlet?query=D06P1/96&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06P1/96"/>
+  </TreeNode>
+  <TreeNode Title="D06P3/00 按被处理的材料分类的，染色或印花纺织品和染皮革、毛皮或任何形状的固体高分子物质的专门方法" Target="frmContent" Href="../searchservlet?query=D06P3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06P3/00">
+    <TreeNode Title="D06P3/02 #含碱性氮的材料" Target="frmContent" Href="../searchservlet?query=D06P3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06P3/02">
+      <TreeNode Title="D06P3/04 ##含酰胺基" Target="frmContent" Href="../searchservlet?query=D06P3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06P3/04">
+        <TreeNode Title="D06P3/06 ###用酸性染料" Target="frmContent" Href="../searchservlet?query=D06P3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06P3/06"/>
+        <TreeNode Title="D06P3/08 ###用氧化染料" Target="frmContent" Href="../searchservlet?query=D06P3/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06P3/08"/>
+        <TreeNode Title="D06P3/10 ###用活性染料" Target="frmContent" Href="../searchservlet?query=D06P3/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06P3/10"/>
+        <TreeNode Title="D06P3/12 ###在材料上偶合偶氮染料" Target="frmContent" Href="../searchservlet?query=D06P3/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06P3/12"/>
+        <TreeNode Title="D06P3/14 ###羊毛" Target="frmContent" Href="../searchservlet?query=D06P3/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06P3/14">
+          <TreeNode Title="D06P3/16 ####用酸性染料" Target="frmContent" Href="../searchservlet?query=D06P3/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06P3/16"/>
+          <TreeNode Title="D06P3/18 ####用碱性染料" Target="frmContent" Href="../searchservlet?query=D06P3/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06P3/18"/>
+          <TreeNode Title="D06P3/20 ####用媒染染料" Target="frmContent" Href="../searchservlet?query=D06P3/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06P3/20"/>
+          <TreeNode Title="D06P3/22 ####在纤维上偶合偶氮染料" Target="frmContent" Href="../searchservlet?query=D06P3/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06P3/22"/>
+        </TreeNode>
+        <TreeNode Title="D06P3/24 ###聚酰胺、聚氨酯" Target="frmContent" Href="../searchservlet?query=D06P3/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06P3/24">
+          <TreeNode Title="D06P3/26 ####用分散染料" Target="frmContent" Href="../searchservlet?query=D06P3/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06P3/26"/>
+          <TreeNode Title="D06P3/28 ####在材料上偶合偶氮染料" Target="frmContent" Href="../searchservlet?query=D06P3/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06P3/28"/>
+        </TreeNode>
+        <TreeNode Title="D06P3/30 ###毛皮" Target="frmContent" Href="../searchservlet?query=D06P3/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06P3/30"/>
+        <TreeNode Title="D06P3/32 ###皮革" Target="frmContent" Href="../searchservlet?query=D06P3/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06P3/32"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="D06P3/34 #含酯基的材料(D06P 3/04优先)" Target="frmContent" Href="../searchservlet?query=D06P3/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06P3/34">
+      <TreeNode Title="D06P3/36 ##用分散染料" Target="frmContent" Href="../searchservlet?query=D06P3/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06P3/36"/>
+      <TreeNode Title="D06P3/38 ##在材料上偶合偶氮染料" Target="frmContent" Href="../searchservlet?query=D06P3/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06P3/38"/>
+      <TreeNode Title="D06P3/40 ##乙酸酯纤维素" Target="frmContent" Href="../searchservlet?query=D06P3/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06P3/40">
+        <TreeNode Title="D06P3/42 ###用分散染料" Target="frmContent" Href="../searchservlet?query=D06P3/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06P3/42"/>
+        <TreeNode Title="D06P3/44 ###在材料上制备偶氮染料" Target="frmContent" Href="../searchservlet?query=D06P3/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06P3/44"/>
+        <TreeNode Title="D06P3/46 ###三乙酸纤维素" Target="frmContent" Href="../searchservlet?query=D06P3/46&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06P3/46">
+          <TreeNode Title="D06P3/48 ####用分散染料" Target="frmContent" Href="../searchservlet?query=D06P3/48&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06P3/48"/>
+          <TreeNode Title="D06P3/50 ####在材料上偶合偶氮染料" Target="frmContent" Href="../searchservlet?query=D06P3/50&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06P3/50"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="D06P3/52 ##聚酯" Target="frmContent" Href="../searchservlet?query=D06P3/52&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06P3/52">
+        <TreeNode Title="D06P3/54 ###用分散染料" Target="frmContent" Href="../searchservlet?query=D06P3/54&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06P3/54"/>
+        <TreeNode Title="D06P3/56 ###在材料上偶合偶氮染料" Target="frmContent" Href="../searchservlet?query=D06P3/56&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06P3/56"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="D06P3/58 #含羟基材料" Target="frmContent" Href="../searchservlet?query=D06P3/58&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06P3/58">
+      <TreeNode Title="D06P3/60 ##天然或再生纤维素" Target="frmContent" Href="../searchservlet?query=D06P3/60&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06P3/60">
+        <TreeNode Title="D06P3/62 ###用直接染料" Target="frmContent" Href="../searchservlet?query=D06P3/62&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06P3/62"/>
+        <TreeNode Title="D06P3/64 ###用媒染材料" Target="frmContent" Href="../searchservlet?query=D06P3/64&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06P3/64"/>
+        <TreeNode Title="D06P3/66 ###用活性染料" Target="frmContent" Href="../searchservlet?query=D06P3/66&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06P3/66"/>
+        <TreeNode Title="D06P3/68 ###在材料上偶合偶氮染料" Target="frmContent" Href="../searchservlet?query=D06P3/68&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06P3/68"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="D06P3/70 #含腈基材料" Target="frmContent" Href="../searchservlet?query=D06P3/70&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06P3/70">
+      <TreeNode Title="D06P3/72 ##用分散染料" Target="frmContent" Href="../searchservlet?query=D06P3/72&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06P3/72"/>
+      <TreeNode Title="D06P3/74 ##用酸性染料" Target="frmContent" Href="../searchservlet?query=D06P3/74&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06P3/74"/>
+      <TreeNode Title="D06P3/76 ##用碱性染料" Target="frmContent" Href="../searchservlet?query=D06P3/76&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06P3/76"/>
+      <TreeNode Title="D06P3/78 ##在材料上偶合偶氮染料" Target="frmContent" Href="../searchservlet?query=D06P3/78&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06P3/78"/>
+    </TreeNode>
+    <TreeNode Title="D06P3/79 #聚烯烃[2]" Target="frmContent" Href="../searchservlet?query=D06P3/79&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06P3/79"/>
+    <TreeNode Title="D06P3/80 #无机纤维(玻璃、矿物或矿渣制成的纤维或长丝的表面处理入C03C 25/00)" Target="frmContent" Href="../searchservlet?query=D06P3/80&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06P3/80"/>
+    <TreeNode Title="D06P3/82 #含不同种纤维的纺织品" Target="frmContent" Href="../searchservlet?query=D06P3/82&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06P3/82">
+      <TreeNode Title="D06P3/84 ##同色的" Target="frmContent" Href="../searchservlet?query=D06P3/84&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06P3/84"/>
+      <TreeNode Title="D06P3/85 ##用同种染料[2]" Target="frmContent" Href="../searchservlet?query=D06P3/85&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06P3/85">
+        <TreeNode Title="D06P3/852 ###含一半羊毛或纤维素/聚酰胺混纺产品[2]" Target="frmContent" Href="../searchservlet?query=D06P3/852&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06P3/852"/>
+        <TreeNode Title="D06P3/854 ###含改性或未改性纤维[2]" Target="frmContent" Href="../searchservlet?query=D06P3/854&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06P3/854"/>
+      </TreeNode>
+      <TreeNode Title="D06P3/86 ##不同色的" Target="frmContent" Href="../searchservlet?query=D06P3/86&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06P3/86"/>
+      <TreeNode Title="D06P3/87 ##用两种以上的染料[2]" Target="frmContent" Href="../searchservlet?query=D06P3/87&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06P3/87">
+        <TreeNode Title="D06P3/872 ###用分散染料和活性染料[2]" Target="frmContent" Href="../searchservlet?query=D06P3/872&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06P3/872"/>
+        <TreeNode Title="D06P3/874 ###用非活性阴离子染料和非活性分散染料或阳离子染料[2]" Target="frmContent" Href="../searchservlet?query=D06P3/874&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06P3/874"/>
+      </TreeNode>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="D06P5/00 有关染色或印花纺织品或染皮革、毛皮或各种形状的固体高分子物质方面的其他特征" Target="frmContent" Href="../searchservlet?query=D06P5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06P5/00">
+    <TreeNode Title="D06P5/02 #后处理" Target="frmContent" Href="../searchservlet?query=D06P5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06P5/02">
+      <TreeNode Title="D06P5/04 ##用有机化合物" Target="frmContent" Href="../searchservlet?query=D06P5/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06P5/04">
+        <TreeNode Title="D06P5/06 ###含氮的" Target="frmContent" Href="../searchservlet?query=D06P5/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06P5/06"/>
+        <TreeNode Title="D06P5/08 ###高分子的" Target="frmContent" Href="../searchservlet?query=D06P5/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06P5/08"/>
+      </TreeNode>
+      <TreeNode Title="D06P5/10 ##用含金属的化合物" Target="frmContent" Href="../searchservlet?query=D06P5/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06P5/10"/>
+    </TreeNode>
+    <TreeNode Title="D06P5/12 #染色或印花前保留部分材料" Target="frmContent" Href="../searchservlet?query=D06P5/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06P5/12"/>
+    <TreeNode Title="D06P5/13 #易褪染色或褪色染料[2]" Target="frmContent" Href="../searchservlet?query=D06P5/13&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06P5/13"/>
+    <TreeNode Title="D06P5/15 #局部去除染料[2]" Target="frmContent" Href="../searchservlet?query=D06P5/15&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06P5/15">
+      <TreeNode Title="D06P5/17 ##偶氮染料[2]" Target="frmContent" Href="../searchservlet?query=D06P5/17&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06P5/17"/>
+    </TreeNode>
+    <TreeNode Title="D06P5/20 #影响染色的物理处理，如超声波、电[2]" Target="frmContent" Href="../searchservlet?query=D06P5/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06P5/20"/>
+    <TreeNode Title="D06P5/22 #用与纤维共反应的化学方法改变染料对于纺织材料的亲合力[2]" Target="frmContent" Href="../searchservlet?query=D06P5/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06P5/22"/>
+    <TreeNode Title="D06P5/24 #转移印花(纺织材料用转移印花装置入B41F 16/02)[7]" Target="frmContent" Href="../searchservlet?query=D06P5/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06P5/24">
+      <TreeNode Title="D06P5/26 ##热转移印花[7]" Target="frmContent" Href="../searchservlet?query=D06P5/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06P5/26">
+        <TreeNode Title="D06P5/28 ###利用可升华的染料[7]" Target="frmContent" Href="../searchservlet?query=D06P5/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06P5/28"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="D06P5/30 #喷墨印花(喷墨印花装置入B41J 2/00)[7]" Target="frmContent" Href="../searchservlet?query=D06P5/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06P5/30"/>
+  </TreeNode>
+  <TreeNode Title="D06P7/00 与机械处理联用的染色或印花法" Target="frmContent" Href="../searchservlet?query=D06P7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06P7/00"/>
+</Root>

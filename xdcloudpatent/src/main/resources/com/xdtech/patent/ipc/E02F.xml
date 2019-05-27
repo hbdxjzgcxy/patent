@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="E02F1/00 挖掘机或疏浚机的一般操作方法(填方方法入E02D 17/18；采矿方法入E21C)" Target="frmContent" Href="../searchservlet?query=E02F1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02F1/00"/>
+  <TreeNode Title="E02F3/00 挖掘机；疏浚机(特种用途的入5/00；其他采矿机械或设备入E21C；隧道掘进入E21D)" Target="frmContent" Href="../searchservlet?query=E02F3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02F3/00">
+    <TreeNode Title="E02F3/02 #手动的" Target="frmContent" Href="../searchservlet?query=E02F3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02F3/02"/>
+    <TreeNode Title="E02F3/04 #机械驱动的" Target="frmContent" Href="../searchservlet?query=E02F3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02F3/04">
+      <TreeNode Title="E02F3/06 ##带挖掘螺旋的" Target="frmContent" Href="../searchservlet?query=E02F3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02F3/06"/>
+      <TreeNode Title="E02F3/08 ##环链上带挖掘部件的(运输机入B65G)" Target="frmContent" Href="../searchservlet?query=E02F3/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02F3/08">
+        <TreeNode Title="E02F3/10 ###带有仅用于松动材料机具的" Target="frmContent" Href="../searchservlet?query=E02F3/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02F3/10"/>
+        <TreeNode Title="E02F3/12 ###结构部件" Target="frmContent" Href="../searchservlet?query=E02F3/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02F3/12">
+          <TreeNode Title="E02F3/14 ####铲斗；链条；铲斗或链条的导向装置；链条的驱动装置" Target="frmContent" Href="../searchservlet?query=E02F3/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02F3/14"/>
+          <TreeNode Title="E02F3/16 ####安全或控制装置(一般的安全装置入F16P；一般的控制入G05)" Target="frmContent" Href="../searchservlet?query=E02F3/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02F3/16"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="E02F3/18 ##带绕轴旋转的挖掘轮的" Target="frmContent" Href="../searchservlet?query=E02F3/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02F3/18">
+        <TreeNode Title="E02F3/20 ###带有仅用于松动材料机具的" Target="frmContent" Href="../searchservlet?query=E02F3/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02F3/20"/>
+        <TreeNode Title="E02F3/22 ###结构部件" Target="frmContent" Href="../searchservlet?query=E02F3/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02F3/22">
+          <TreeNode Title="E02F3/24 ####挖掘轮；轮的挖掘部件；轮的驱动装置" Target="frmContent" Href="../searchservlet?query=E02F3/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02F3/24"/>
+          <TreeNode Title="E02F3/26 ####安全或控制装置(一般的安全装置入F16P；一般的控制入G05)" Target="frmContent" Href="../searchservlet?query=E02F3/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02F3/26"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="E02F3/28 ##带有装在铲斗臂或挖斗臂上的挖掘工具，例如，铲斗，挖斗[4]" Target="frmContent" Href="../searchservlet?query=E02F3/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02F3/28">
+        <TreeNode Title="E02F3/30 ###铲斗臂可旋转地装在悬臂梁上的" Target="frmContent" Href="../searchservlet?query=E02F3/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02F3/30">
+          <TreeNode Title="E02F3/32 ####向下并朝向机器作业的，例如，反铲的" Target="frmContent" Href="../searchservlet?query=E02F3/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02F3/32"/>
+        </TreeNode>
+        <TreeNode Title="E02F3/34 ###挖斗臂可旋转地直接装在牵引机或自动推进机的机架上[4]" Target="frmContent" Href="../searchservlet?query=E02F3/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02F3/34">
+          <TreeNode Title="E02F3/342 ####在上方卸空的挖斗(E02F 3/348至E02F 3/358优先)[4]" Target="frmContent" Href="../searchservlet?query=E02F3/342&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02F3/342"/>
+          <TreeNode Title="E02F3/345 ####在侧边卸空的挖斗(E02F 3/348至E02F 3/358优先)[4]" Target="frmContent" Href="../searchservlet?query=E02F3/345&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02F3/345"/>
+          <TreeNode Title="E02F3/348 ####卸入收集或运输装置的挖斗[4]" Target="frmContent" Href="../searchservlet?query=E02F3/348&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02F3/348"/>
+          <TreeNode Title="E02F3/352 ####能够沿固定导轨移动的挖斗[4]" Target="frmContent" Href="../searchservlet?query=E02F3/352&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02F3/352"/>
+          <TreeNode Title="E02F3/355 ####装在牵引机后端的挖斗[4]" Target="frmContent" Href="../searchservlet?query=E02F3/355&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02F3/355"/>
+          <TreeNode Title="E02F3/358 ####可回转地安装在牵引机机架转台上的挖斗臂[4]" Target="frmContent" Href="../searchservlet?query=E02F3/358&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02F3/358"/>
+        </TreeNode>
+        <TreeNode Title="E02F3/36 ###结构部件" Target="frmContent" Href="../searchservlet?query=E02F3/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02F3/36">
+          <TreeNode Title="E02F3/38 ####悬臂；铲斗臂；挖斗臂[4]" Target="frmContent" Href="../searchservlet?query=E02F3/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02F3/38">
+            <TreeNode Title="E02F3/39 #####带伸缩臂的[4]" Target="frmContent" Href="../searchservlet?query=E02F3/39&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02F3/39"/>
+          </TreeNode>
+          <TreeNode Title="E02F3/40 ####铲斗；挖斗[4]" Target="frmContent" Href="../searchservlet?query=E02F3/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02F3/40">
+            <TreeNode Title="E02F3/407 #####带推出装置的[4]" Target="frmContent" Href="../searchservlet?query=E02F3/407&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02F3/407"/>
+            <TreeNode Title="E02F3/413 #####带抓取装置的(起重机用的起重钩装置入B66C)[4]" Target="frmContent" Href="../searchservlet?query=E02F3/413&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02F3/413"/>
+          </TreeNode>
+          <TreeNode Title="E02F3/42 ####铲斗、挖斗、铲斗臂、挖斗臂的驱动装置[4]" Target="frmContent" Href="../searchservlet?query=E02F3/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02F3/42">
+            <TreeNode Title="E02F3/43 #####铲斗或挖斗位置的控制；驱动操作的程序控制[4]" Target="frmContent" Href="../searchservlet?query=E02F3/43&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02F3/43"/>
+          </TreeNode>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="E02F3/46 ##带有靠缆索或提升绳移动的往复挖掘或刮削的部件[4]" Target="frmContent" Href="../searchservlet?query=E02F3/46&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02F3/46">
+        <TreeNode Title="E02F3/47 ###带抓斗的(起重机用的起重钩装置入B66C)[4]" Target="frmContent" Href="../searchservlet?query=E02F3/47&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02F3/47"/>
+        <TreeNode Title="E02F3/48 ###带拉索的" Target="frmContent" Href="../searchservlet?query=E02F3/48&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02F3/48"/>
+        <TreeNode Title="E02F3/50 ###带沿刚性导轨移动的铲斗或其他挖掘部件的" Target="frmContent" Href="../searchservlet?query=E02F3/50&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02F3/50"/>
+        <TreeNode Title="E02F3/52 ###缆索挖掘机(缆索起重机入B66C)" Target="frmContent" Href="../searchservlet?query=E02F3/52&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02F3/52"/>
+        <TreeNode Title="E02F3/54 ###缆索铲运机" Target="frmContent" Href="../searchservlet?query=E02F3/54&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02F3/54">
+          <TreeNode Title="E02F3/56 ####带手动剖刀或其他挖掘部件的" Target="frmContent" Href="../searchservlet?query=E02F3/56&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02F3/56"/>
+        </TreeNode>
+        <TreeNode Title="E02F3/58 ###结构部件" Target="frmContent" Href="../searchservlet?query=E02F3/58&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02F3/58">
+          <TreeNode Title="E02F3/60 ####铲斗、刮刀或其他挖掘部件" Target="frmContent" Href="../searchservlet?query=E02F3/60&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02F3/60"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="E02F3/627 ##把梁或臂连接到牵引机或类似的自动推进式机器上的装置[4]" Target="frmContent" Href="../searchservlet?query=E02F3/627&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02F3/627">
+        <TreeNode Title="E02F3/633 ###其驱动装置[4]" Target="frmContent" Href="../searchservlet?query=E02F3/633&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02F3/633"/>
+      </TreeNode>
+      <TreeNode Title="E02F3/64 ##挖斗车，即有刮削斗的[4]" Target="frmContent" Href="../searchservlet?query=E02F3/64&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02F3/64">
+        <TreeNode Title="E02F3/65 ###组成部件，例如，驱动，控制装置[4]" Target="frmContent" Href="../searchservlet?query=E02F3/65&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02F3/65"/>
+      </TreeNode>
+      <TreeNode Title="E02F3/76 ##平土机，推土机，或带刮板或与犁斗类似的部件的机具(土壤加工入A01B)；平整设备[4]" Target="frmContent" Href="../searchservlet?query=E02F3/76&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02F3/76">
+        <TreeNode Title="E02F3/78 ###带旋转挖掘部件的" Target="frmContent" Href="../searchservlet?query=E02F3/78&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02F3/78"/>
+        <TreeNode Title="E02F3/80 ###结构部件" Target="frmContent" Href="../searchservlet?query=E02F3/80&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02F3/80">
+          <TreeNode Title="E02F3/815 ####刮板；平整工具[4]" Target="frmContent" Href="../searchservlet?query=E02F3/815&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02F3/815"/>
+          <TreeNode Title="E02F3/84 ####驱动或其控制设备" Target="frmContent" Href="../searchservlet?query=E02F3/84&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02F3/84">
+            <TreeNode Title="E02F3/85 #####采用液压或气压系统的" Target="frmContent" Href="../searchservlet?query=E02F3/85&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02F3/85"/>
+          </TreeNode>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="E02F3/88 ##通过抽吸或加压起作用进行作业的装置，例如，吸扬式挖泥机(一般泵入F04)" Target="frmContent" Href="../searchservlet?query=E02F3/88&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02F3/88">
+        <TreeNode Title="E02F3/90 ###结构部件，例如，驱动，控制装置" Target="frmContent" Href="../searchservlet?query=E02F3/90&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02F3/90">
+          <TreeNode Title="E02F3/92 ####挖掘部件，例如，吸泥头" Target="frmContent" Href="../searchservlet?query=E02F3/92&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02F3/92"/>
+          <TreeNode Title="E02F3/94 ####从挖出材料中分离石块的装置" Target="frmContent" Href="../searchservlet?query=E02F3/94&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02F3/94"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="E02F3/96 ##带有交替使用不同的挖掘部件的" Target="frmContent" Href="../searchservlet?query=E02F3/96&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02F3/96"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="E02F5/00 特殊用途的挖掘机或疏浚机" Target="frmContent" Href="../searchservlet?query=E02F5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02F5/00">
+    <TreeNode Title="E02F5/02 #开挖沟渠用的(做埂用的农业犁地机入A01B 13/02)" Target="frmContent" Href="../searchservlet?query=E02F5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02F5/02">
+      <TreeNode Title="E02F5/04 ##带挖掘螺旋的" Target="frmContent" Href="../searchservlet?query=E02F5/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02F5/04"/>
+      <TreeNode Title="E02F5/06 ##环链上带挖掘部件的" Target="frmContent" Href="../searchservlet?query=E02F5/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02F5/06"/>
+      <TreeNode Title="E02F5/08 ##带沿轴旋转的挖掘轮的" Target="frmContent" Href="../searchservlet?query=E02F5/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02F5/08"/>
+      <TreeNode Title="E02F5/10 ##带沟或槽加固装置的；带有敷设或组装管道的或者带有放置管道或电缆装置的装置；管道敷设本身入F16L 1/00；现场构筑管道入F16L 1/038；电缆敷设本身入H02G 1/06)[6]" Target="frmContent" Href="../searchservlet?query=E02F5/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02F5/10"/>
+      <TreeNode Title="E02F5/12 ##带回填沟、槽设备的(E02F 5/10优先)[3]" Target="frmContent" Href="../searchservlet?query=E02F5/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02F5/12"/>
+      <TreeNode Title="E02F5/14 ##挖沟机的部件，例如，指示设备" Target="frmContent" Href="../searchservlet?query=E02F5/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02F5/14"/>
+    </TreeNode>
+    <TreeNode Title="E02F5/16 #在土壤内挖掘其他洞的机械(土中钻进入E21)" Target="frmContent" Href="../searchservlet?query=E02F5/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02F5/16">
+      <TreeNode Title="E02F5/18 ##水平洞用的" Target="frmContent" Href="../searchservlet?query=E02F5/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02F5/18"/>
+      <TreeNode Title="E02F5/20 ##垂直洞用的" Target="frmContent" Href="../searchservlet?query=E02F5/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02F5/20"/>
+    </TreeNode>
+    <TreeNode Title="E02F5/22 #填方用的；回填用的(与挖沟机组合的入E02F 5/12)" Target="frmContent" Href="../searchservlet?query=E02F5/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02F5/22">
+      <TreeNode Title="E02F5/24 ##堆积挖出材料的" Target="frmContent" Href="../searchservlet?query=E02F5/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02F5/24"/>
+      <TreeNode Title="E02F5/26 ##输送桥和挖掘机组合的" Target="frmContent" Href="../searchservlet?query=E02F5/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02F5/26"/>
+    </TreeNode>
+    <TreeNode Title="E02F5/28 #清理水道或其他水系用的" Target="frmContent" Href="../searchservlet?query=E02F5/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02F5/28"/>
+    <TreeNode Title="E02F5/30 #辅助设备，例如，融化、破碎、爆裂和其他预先处理土壤用的" Target="frmContent" Href="../searchservlet?query=E02F5/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02F5/30">
+      <TreeNode Title="E02F5/32 ##松土机[4]" Target="frmContent" Href="../searchservlet?query=E02F5/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02F5/32"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="E02F7/00 输送或分离被挖出材料的设备(输送浮动式疏浚船挖出泥土用的驳船入B63B 35/28)" Target="frmContent" Href="../searchservlet?query=E02F7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02F7/00">
+    <TreeNode Title="E02F7/02 #装在疏浚船上的输送设备(普通的输送机入B65G)" Target="frmContent" Href="../searchservlet?query=E02F7/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02F7/02"/>
+    <TreeNode Title="E02F7/04 #装在疏浚船上的装载设备(普通装载设备入B65G)" Target="frmContent" Href="../searchservlet?query=E02F7/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02F7/04"/>
+    <TreeNode Title="E02F7/06 #装在疏浚船上的输送槽或筛分设备(普通的分离设备入B03；普通的输送槽入B65G)" Target="frmContent" Href="../searchservlet?query=E02F7/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02F7/06"/>
+    <TreeNode Title="E02F7/10 #输送挖出材料用的管道(一般管道入F16L；管道系统入F17D)" Target="frmContent" Href="../searchservlet?query=E02F7/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02F7/10"/>
+  </TreeNode>
+  <TreeNode Title="E02F9/00 不限于从3/00至7/00内所属的一种挖掘机或疏浚机的部件(拖曳式电缆用的敷设或卷取设备入B66C)[3]" Target="frmContent" Href="../searchservlet?query=E02F9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02F9/00">
+    <TreeNode Title="E02F9/02 #传动齿轮(汽车用的入B60B，B60G；机车或铁路车辆用的底盘入B61F；铺轨车入B62D；起重机用的入B66C)" Target="frmContent" Href="../searchservlet?query=E02F9/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02F9/02">
+      <TreeNode Title="E02F9/04 ##驱动挖泥船逐步前进用的行走齿轮" Target="frmContent" Href="../searchservlet?query=E02F9/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02F9/04"/>
+    </TreeNode>
+    <TreeNode Title="E02F9/06 #用作支撑的浮动式下部结构" Target="frmContent" Href="../searchservlet?query=E02F9/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02F9/06"/>
+    <TreeNode Title="E02F9/08 #上部结构，该结构的支撑" Target="frmContent" Href="../searchservlet?query=E02F9/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02F9/08">
+      <TreeNode Title="E02F9/10 ##装在输送齿轮、行走齿轮或其他上部结构上的移动式上部结构用的支撑" Target="frmContent" Href="../searchservlet?query=E02F9/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02F9/10">
+        <TreeNode Title="E02F9/12 ###旋转或往复移动的齿轮(滚柱和滚珠轴承入F16C)" Target="frmContent" Href="../searchservlet?query=E02F9/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02F9/12"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="E02F9/14 #吊杆；缆索的悬挂" Target="frmContent" Href="../searchservlet?query=E02F9/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02F9/14"/>
+    <TreeNode Title="E02F9/16 #司机用的驾驶舱、平台或类似设备(吊车用的入B66C 13/54)" Target="frmContent" Href="../searchservlet?query=E02F9/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02F9/16"/>
+    <TreeNode Title="E02F9/18 #平衡锤" Target="frmContent" Href="../searchservlet?query=E02F9/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02F9/18"/>
+    <TreeNode Title="E02F9/20 #驱动装置；控制装置(一般的传动入F16H；一般的控制入G05；多电机驱动入H02K，H02Ｐ)" Target="frmContent" Href="../searchservlet?query=E02F9/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02F9/20">
+      <TreeNode Title="E02F9/22 ##液压或气压驱动装置" Target="frmContent" Href="../searchservlet?query=E02F9/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02F9/22"/>
+    </TreeNode>
+    <TreeNode Title="E02F9/24 #安全设备" Target="frmContent" Href="../searchservlet?query=E02F9/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02F9/24"/>
+    <TreeNode Title="E02F9/26 #指示设备" Target="frmContent" Href="../searchservlet?query=E02F9/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02F9/26"/>
+    <TreeNode Title="E02F9/28 #挖掘部件用的小型金属件，例如，铲齿" Target="frmContent" Href="../searchservlet?query=E02F9/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02F9/28"/>
+  </TreeNode>
+</Root>

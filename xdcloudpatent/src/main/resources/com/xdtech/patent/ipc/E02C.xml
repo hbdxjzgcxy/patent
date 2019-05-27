@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="E02C1/00 船闸；竖井式船闸，即在船闸前边筑一下部带洞口的实体壁墙，船舶经过洞口通行(船闸闸门入E02B 7/20)" Target="frmContent" Href="../searchservlet?query=E02C1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02C1/00">
+    <TreeNode Title="E02C1/02 #带辅助船池的" Target="frmContent" Href="../searchservlet?query=E02C1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02C1/02"/>
+    <TreeNode Title="E02C1/04 #带浮槽的" Target="frmContent" Href="../searchservlet?query=E02C1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02C1/04"/>
+    <TreeNode Title="E02C1/06 #船闸的充水或泄水装置(位于船闸闸门内的入E02B 7/20)" Target="frmContent" Href="../searchservlet?query=E02C1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02C1/06"/>
+    <TreeNode Title="E02C1/08 #使水消能的设备(设在船闸闸门上的入E02B 8/06)" Target="frmContent" Href="../searchservlet?query=E02C1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02C1/08"/>
+    <TreeNode Title="E02C1/10 #船在船闸内航行所用的设备；系船设备(停泊、锚定水面船只入B63B 21/00；海岸、海港或其他固定海洋结构物的航运设备入E02B 3/20)" Target="frmContent" Href="../searchservlet?query=E02C1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02C1/10"/>
+  </TreeNode>
+  <TreeNode Title="E02C3/00 沿斜面提升船舶的机械" Target="frmContent" Href="../searchservlet?query=E02C3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02C3/00"/>
+  <TreeNode Title="E02C5/00 垂直提升船舶机械(沉船的打捞入B63C 7/00)" Target="frmContent" Href="../searchservlet?query=E02C5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02C5/00">
+    <TreeNode Title="E02C5/02 #带有浮室的" Target="frmContent" Href="../searchservlet?query=E02C5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02C5/02"/>
+  </TreeNode>
+</Root>

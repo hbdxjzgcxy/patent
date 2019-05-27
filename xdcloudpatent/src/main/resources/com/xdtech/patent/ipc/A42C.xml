@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="A42C1/00 制造帽子" Target="frmContent" Href="../searchservlet?query=A42C1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A42C1/00">
+    <TreeNode Title="A42C1/02 #制作帽胎；帽胎成型机；圆锥形帽胎机；帽胎成型工具(一般制毡入D04H)" Target="frmContent" Href="../searchservlet?query=A42C1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A42C1/02"/>
+    <TreeNode Title="A42C1/04 #楦帽；冲压；汽蒸定型；伸长" Target="frmContent" Href="../searchservlet?query=A42C1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A42C1/04"/>
+    <TreeNode Title="A42C1/06 #帽边处理" Target="frmContent" Href="../searchservlet?query=A42C1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A42C1/06"/>
+    <TreeNode Title="A42C1/08 #帽子后处理精加工，例如，加光、熨烫、平整、擦刷、浸渍、使硬挺、装饰" Target="frmContent" Href="../searchservlet?query=A42C1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A42C1/08"/>
+  </TreeNode>
+  <TreeNode Title="A42C2/00 未列入其他类的生产头盔的方法 [5]" Target="frmContent" Href="../searchservlet?query=A42C2/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A42C2/00"/>
+  <TreeNode Title="A42C3/00 在组A42C 1/00中不包含的制帽用的装置，例如，制帽骨架用的金属丝仿形(制草帽的缝纫机入D05B；制帽边缝纫机入D05B)；改变成品帽形状和尺寸的设备" Target="frmContent" Href="../searchservlet?query=A42C3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A42C3/00">
+    <TreeNode Title="A42C3/02 #帽楦托架" Target="frmContent" Href="../searchservlet?query=A42C3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A42C3/02"/>
+    <TreeNode Title="A42C3/04 #装饰女帽用台" Target="frmContent" Href="../searchservlet?query=A42C3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A42C3/04"/>
+    <TreeNode Title="A42C3/06 #测量帽子的设备" Target="frmContent" Href="../searchservlet?query=A42C3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A42C3/06"/>
+  </TreeNode>
+  <TreeNode Title="A42C5/00 帽子的配件或装饰品，例如帽带(人造花、羽毛入A41G)" Target="frmContent" Href="../searchservlet?query=A42C5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A42C5/00">
+    <TreeNode Title="A42C5/02 #汗带" Target="frmContent" Href="../searchservlet?query=A42C5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A42C5/02"/>
+    <TreeNode Title="A42C5/04 #头部覆盖物的透气装置(用于头盔的入A42B 3/28)" Target="frmContent" Href="../searchservlet?query=A42C5/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A42C5/04"/>
+  </TreeNode>
+  <TreeNode Title="A42C99/00 本小类其他各组中不包含的技术主题 [8]" Target="frmContent" Href="../searchservlet?query=A42C99/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A42C99/00"/>
+</Root>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="F23J1/00 从燃烧室清除灰、炉渣或熔渣(从流化床燃烧设备的床体上清除的装置入F23C 10/24)" Target="frmContent" Href="../searchservlet?query=F23J1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23J1/00">
+    <TreeNode Title="F23J1/02 #从灰槽清除灰、炉渣或熔渣的设备，例如利用运灰车或传送带，利用抽吸装置" Target="frmContent" Href="../searchservlet?query=F23J1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23J1/02"/>
+    <TreeNode Title="F23J1/04 #手工具，例如耙、钎、夹钳" Target="frmContent" Href="../searchservlet?query=F23J1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23J1/04"/>
+    <TreeNode Title="F23J1/06 #机械操作装置，例如推渣机(构成炉箅的组成部分的F23H)" Target="frmContent" Href="../searchservlet?query=F23J1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23J1/06"/>
+    <TreeNode Title="F23J1/08 #液体熔渣的清除[3]" Target="frmContent" Href="../searchservlet?query=F23J1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23J1/08"/>
+  </TreeNode>
+  <TreeNode Title="F23J3/00 从通道或燃烧室中火焰达不到的地方清除固体余渣，例如用吹灰机清理烟道" Target="frmContent" Href="../searchservlet?query=F23J3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23J3/00">
+    <TreeNode Title="F23J3/02 #清理炉管；清理烟道或烟囱(灭火后所采用的与清理其他管道无实质差别的方法入B08B)" Target="frmContent" Href="../searchservlet?query=F23J3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23J3/02"/>
+    <TreeNode Title="F23J3/04 #捕集器" Target="frmContent" Href="../searchservlet?query=F23J3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23J3/04"/>
+    <TreeNode Title="F23J3/06 #从炉子不同部位聚集余渣的系统" Target="frmContent" Href="../searchservlet?query=F23J3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23J3/06"/>
+  </TreeNode>
+  <TreeNode Title="F23J7/00 向火焰提供化学物质的装置的配置(向火焰提供化学物质入C10L)" Target="frmContent" Href="../searchservlet?query=F23J7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23J7/00"/>
+  <TreeNode Title="F23J9/00 防止熔化的燃烧余渣过早凝固" Target="frmContent" Href="../searchservlet?query=F23J9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23J9/00"/>
+  <TreeNode Title="F23J11/00 排烟或排废气装置，例如烟道(其所用隔热层入E04B 1/94；烟囱入E04H 12/28；从家用炉或灶中除去烹调烟气入F24C 15/20) [5]" Target="frmContent" Href="../searchservlet?query=F23J11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23J11/00">
+    <TreeNode Title="F23J11/02 #将产生于各处的烟或废气导至外部的，例如在机车库里、在汽车间里" Target="frmContent" Href="../searchservlet?query=F23J11/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23J11/02"/>
+    <TreeNode Title="F23J11/04 #机车中的；道路车辆中的；船上的" Target="frmContent" Href="../searchservlet?query=F23J11/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23J11/04">
+      <TreeNode Title="F23J11/06 ##水平导烟的" Target="frmContent" Href="../searchservlet?query=F23J11/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23J11/06"/>
+    </TreeNode>
+    <TreeNode Title="F23J11/08 #轻便设备用的" Target="frmContent" Href="../searchservlet?query=F23J11/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23J11/08"/>
+    <TreeNode Title="F23J11/10 #帐篷用的；木棚用的；其他易燃结构用的" Target="frmContent" Href="../searchservlet?query=F23J11/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23J11/10"/>
+    <TreeNode Title="F23J11/12 #工厂或大建筑物的烟道系统" Target="frmContent" Href="../searchservlet?query=F23J11/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23J11/12"/>
+  </TreeNode>
+  <TreeNode Title="F23J13/00 烟囱或烟道的配件(牵引、斜撑入E04H；便于攀登的装置入E06C；与烟囱或烟道结合在一起的引风设备入F23L)" Target="frmContent" Href="../searchservlet?query=F23J13/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23J13/00">
+    <TreeNode Title="F23J13/02 #衬层；包套；围壳" Target="frmContent" Href="../searchservlet?query=F23J13/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23J13/02"/>
+    <TreeNode Title="F23J13/04 #接头；连接件(一般管道接头入F16L)" Target="frmContent" Href="../searchservlet?query=F23J13/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23J13/04"/>
+    <TreeNode Title="F23J13/06 #烟口；进口孔" Target="frmContent" Href="../searchservlet?query=F23J13/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23J13/06"/>
+    <TreeNode Title="F23J13/08 #专门适用于烟箱、烟道或烟囱的门或盖(一般的入E06B)" Target="frmContent" Href="../searchservlet?query=F23J13/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23J13/08"/>
+  </TreeNode>
+  <TreeNode Title="F23J15/00 处理烟或废气装置的配置(这些装置本身、处理烟或废气的方法见与处理有关分类，例如B01D 53/00)" Target="frmContent" Href="../searchservlet?query=F23J15/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23J15/00">
+    <TreeNode Title="F23J15/02 #纯化的，例如除去有毒物质(固体杂质的捕集入F23J 3/04)[6]" Target="frmContent" Href="../searchservlet?query=F23J15/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23J15/02">
+      <TreeNode Title="F23J15/04 ##用清洗流体[6]" Target="frmContent" Href="../searchservlet?query=F23J15/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23J15/04"/>
+    </TreeNode>
+    <TreeNode Title="F23J15/06 #冷却器的[6]" Target="frmContent" Href="../searchservlet?query=F23J15/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23J15/06"/>
+    <TreeNode Title="F23J15/08 #加热器的[6]" Target="frmContent" Href="../searchservlet?query=F23J15/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23J15/08"/>
+  </TreeNode>
+  <TreeNode Title="F23J99/00 不包含在本小类其他组中的技术主题[8]" Target="frmContent" Href="../searchservlet?query=F23J99/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23J99/00"/>
+</Root>

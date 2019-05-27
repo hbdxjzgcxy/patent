@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="B24C1/00 为产生特殊效果的喷射磨料的方法；与这些方法有关的所使用的辅助装置" Target="frmContent" Href="../searchservlet?query=B24C1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B24C1/00">
+    <TreeNode Title="B24C1/02 #用于刃磨或修整切削刀具，如锉刀" Target="frmContent" Href="../searchservlet?query=B24C1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B24C1/02"/>
+    <TreeNode Title="B24C1/04 #仅用来处理所选择的表面部分，如用于雕刻石头或玻璃" Target="frmContent" Href="../searchservlet?query=B24C1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B24C1/04"/>
+    <TreeNode Title="B24C1/06 #用于生产无光表面，如在塑料或玻璃上" Target="frmContent" Href="../searchservlet?query=B24C1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B24C1/06"/>
+    <TreeNode Title="B24C1/08 #用于表面抛光，如使用含液体的磨料" Target="frmContent" Href="../searchservlet?query=B24C1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B24C1/08"/>
+    <TreeNode Title="B24C1/10 #用于使表面致密，如喷丸(使金属板材、管或型材发生变形的入B21D 31/06；作为冶金处理入C21D 7/00，C22F 1/00)" Target="frmContent" Href="../searchservlet?query=B24C1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B24C1/10"/>
+  </TreeNode>
+  <TreeNode Title="B24C3/00 磨料喷射机床或装置；车间" Target="frmContent" Href="../searchservlet?query=B24C3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B24C3/00">
+    <TreeNode Title="B24C3/02 #以部件相互装配的排列为特征的(B24C 3/08，B24C 3/18优先)" Target="frmContent" Href="../searchservlet?query=B24C3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B24C3/02">
+      <TreeNode Title="B24C3/04 ##固定的" Target="frmContent" Href="../searchservlet?query=B24C3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B24C3/04"/>
+      <TreeNode Title="B24C3/06 ##可动的；轻便的" Target="frmContent" Href="../searchservlet?query=B24C3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B24C3/06"/>
+    </TreeNode>
+    <TreeNode Title="B24C3/08 #基本适用于移动坯料或移动工件的磨料喷射" Target="frmContent" Href="../searchservlet?query=B24C3/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B24C3/08">
+      <TreeNode Title="B24C3/10 ##用于处理外表面" Target="frmContent" Href="../searchservlet?query=B24C3/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B24C3/10">
+        <TreeNode Title="B24C3/12 ###使用喷嘴装置的" Target="frmContent" Href="../searchservlet?query=B24C3/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B24C3/12"/>
+        <TreeNode Title="B24C3/14 ###使用抛砂机装置的" Target="frmContent" Href="../searchservlet?query=B24C3/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B24C3/14"/>
+      </TreeNode>
+      <TreeNode Title="B24C3/16 ##用于处理内表面" Target="frmContent" Href="../searchservlet?query=B24C3/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B24C3/16"/>
+    </TreeNode>
+    <TreeNode Title="B24C3/18 #主要提供使工件移动到不同加工位置的装置(B24C 3/08优先)" Target="frmContent" Href="../searchservlet?query=B24C3/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B24C3/18">
+      <TreeNode Title="B24C3/20 ##用转台支承工件" Target="frmContent" Href="../searchservlet?query=B24C3/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B24C3/20">
+        <TreeNode Title="B24C3/22 ###使用喷嘴装置的" Target="frmContent" Href="../searchservlet?query=B24C3/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B24C3/22"/>
+        <TreeNode Title="B24C3/24 ###使用抛砂机装置的" Target="frmContent" Href="../searchservlet?query=B24C3/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B24C3/24"/>
+      </TreeNode>
+      <TreeNode Title="B24C3/26 ##用桶罐，即滚筒支承工件；及其万向支架装置" Target="frmContent" Href="../searchservlet?query=B24C3/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B24C3/26">
+        <TreeNode Title="B24C3/28 ###使用喷嘴装置的" Target="frmContent" Href="../searchservlet?query=B24C3/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B24C3/28"/>
+        <TreeNode Title="B24C3/30 ###使用抛砂机装置的" Target="frmContent" Href="../searchservlet?query=B24C3/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B24C3/30"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="B24C3/32 #适用于特殊工件，如汽缸体内表面的磨料喷射(B24C 3/08，B24C 3/18优先)" Target="frmContent" Href="../searchservlet?query=B24C3/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B24C3/32">
+      <TreeNode Title="B24C3/34 ##用于清理火花塞" Target="frmContent" Href="../searchservlet?query=B24C3/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B24C3/34"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="B24C5/00 用于产生磨料喷流的设备或附件" Target="frmContent" Href="../searchservlet?query=B24C5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B24C5/00">
+    <TreeNode Title="B24C5/02 #喷枪，如用于为便于材料切削而产生高速磨削流体喷射的[5]" Target="frmContent" Href="../searchservlet?query=B24C5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B24C5/02">
+      <TreeNode Title="B24C5/04 ##所用的喷嘴(一般喷嘴入B05B)" Target="frmContent" Href="../searchservlet?query=B24C5/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B24C5/04"/>
+    </TreeNode>
+    <TreeNode Title="B24C5/06 #叶轮；及其转子叶片" Target="frmContent" Href="../searchservlet?query=B24C5/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B24C5/06"/>
+    <TreeNode Title="B24C5/08 #以非机械方式产生磨料喷流的设备，如用磁场方法产生金属磨料喷流" Target="frmContent" Href="../searchservlet?query=B24C5/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B24C5/08"/>
+  </TreeNode>
+  <TreeNode Title="B24C7/00 磨料的进料装置；磨料喷流的流动性，成分，或其他物理特性的控制" Target="frmContent" Href="../searchservlet?query=B24C7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B24C7/00"/>
+  <TreeNode Title="B24C9/00 磨料喷射机或装置的附件，如工作室，用过的磨料的处理装置" Target="frmContent" Href="../searchservlet?query=B24C9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B24C9/00"/>
+  <TreeNode Title="B24C11/00 用于喷射的磨料选择(抛光剂的成分入C09G)" Target="frmContent" Href="../searchservlet?query=B24C11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B24C11/00"/>
+</Root>

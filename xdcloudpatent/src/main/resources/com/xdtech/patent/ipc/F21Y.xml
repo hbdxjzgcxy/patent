@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="F21Y101/00 点状光源[7]" Target="frmContent" Href="../searchservlet?query=F21Y101/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F21Y101/00">
+    <TreeNode Title="F21Y101/02 #微型光源，例如发光二极管(LED)[7]" Target="frmContent" Href="../searchservlet?query=F21Y101/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F21Y101/02"/>
+  </TreeNode>
+  <TreeNode Title="F21Y103/00 长型光源，例如荧光灯管[7]" Target="frmContent" Href="../searchservlet?query=F21Y103/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F21Y103/00">
+    <TreeNode Title="F21Y103/02 #曲线的，例如环形[7]" Target="frmContent" Href="../searchservlet?query=F21Y103/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F21Y103/02">
+      <TreeNode Title="F21Y103/025 ##U形[7]" Target="frmContent" Href="../searchservlet?query=F21Y103/025&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F21Y103/025"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="F21Y105/00 平面光源[7]" Target="frmContent" Href="../searchservlet?query=F21Y105/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F21Y105/00"/>
+  <TreeNode Title="F21Y111/00 不包含在组F21Y 101/00至F21Y 105/00中的形式的光源[7]" Target="frmContent" Href="../searchservlet?query=F21Y111/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F21Y111/00"/>
+  <TreeNode Title="F21Y113/00 光源的组合[7]" Target="frmContent" Href="../searchservlet?query=F21Y113/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F21Y113/00">
+    <TreeNode Title="F21Y113/02 #不同形式的[7]" Target="frmContent" Href="../searchservlet?query=F21Y113/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F21Y113/02"/>
+  </TreeNode>
+</Root>

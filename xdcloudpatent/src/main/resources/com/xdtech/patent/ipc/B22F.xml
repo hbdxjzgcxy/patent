@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="B22F1/00 金属粉末的专门处理；如使之易于加工，改善其性质；金属粉末本身，如不同成分颗粒的混合物(C04，C08优先)" Target="frmContent" Href="../searchservlet?query=B22F1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B22F1/00">
+    <TreeNode Title="B22F1/02 #包含粉末的包覆[2]" Target="frmContent" Href="../searchservlet?query=B22F1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B22F1/02"/>
+  </TreeNode>
+  <TreeNode Title="B22F3/00 由金属粉末制造工件或制品，其特点为用压实或烧结的方法；所用的专用设备" Target="frmContent" Href="../searchservlet?query=B22F3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B22F3/00">
+    <TreeNode Title="B22F3/02 #仅压实" Target="frmContent" Href="../searchservlet?query=B22F3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B22F3/02">
+      <TreeNode Title="B22F3/03 ##其所用的模压装置[6]" Target="frmContent" Href="../searchservlet?query=B22F3/03&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B22F3/03">
+        <TreeNode Title="B22F3/035 ###其一个或多个另件转动安装[6]" Target="frmContent" Href="../searchservlet?query=B22F3/035&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B22F3/035"/>
+      </TreeNode>
+      <TreeNode Title="B22F3/04 ##用流体压力" Target="frmContent" Href="../searchservlet?query=B22F3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B22F3/04"/>
+      <TreeNode Title="B22F3/06 ##用离心力" Target="frmContent" Href="../searchservlet?query=B22F3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B22F3/06"/>
+      <TreeNode Title="B22F3/08 ##用爆炸力" Target="frmContent" Href="../searchservlet?query=B22F3/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B22F3/08"/>
+      <TreeNode Title="B22F3/087 ##利用高能脉冲，例如磁脉冲[6]" Target="frmContent" Href="../searchservlet?query=B22F3/087&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B22F3/087"/>
+      <TreeNode Title="B22F3/093 ##利用振动[6]" Target="frmContent" Href="../searchservlet?query=B22F3/093&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B22F3/093"/>
+    </TreeNode>
+    <TreeNode Title="B22F3/10 #仅烧结" Target="frmContent" Href="../searchservlet?query=B22F3/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B22F3/10">
+      <TreeNode Title="B22F3/105 ##利用电流、激光辐射或等离子体(B22F 3/11优先)[6]" Target="frmContent" Href="../searchservlet?query=B22F3/105&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B22F3/105"/>
+      <TreeNode Title="B22F3/11 ##制造多孔工件或制品[6]" Target="frmContent" Href="../searchservlet?query=B22F3/11&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B22F3/11"/>
+    </TreeNode>
+    <TreeNode Title="B22F3/115 #利用喷射熔融金属，例如喷射烧结、喷射铸造[6]" Target="frmContent" Href="../searchservlet?query=B22F3/115&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B22F3/115"/>
+    <TreeNode Title="B22F3/12 #用压实和烧结两种方法(用铸造入B22F 3/17)[6]" Target="frmContent" Href="../searchservlet?query=B22F3/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B22F3/12">
+      <TreeNode Title="B22F3/14 ##同时的" Target="frmContent" Href="../searchservlet?query=B22F3/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B22F3/14">
+        <TreeNode Title="B22F3/15 ###绝热加压[6]" Target="frmContent" Href="../searchservlet?query=B22F3/15&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B22F3/15"/>
+      </TreeNode>
+      <TreeNode Title="B22F3/16 ##依次的或重复的" Target="frmContent" Href="../searchservlet?query=B22F3/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B22F3/16"/>
+    </TreeNode>
+    <TreeNode Title="B22F3/17 #用锻造[6]" Target="frmContent" Href="../searchservlet?query=B22F3/17&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B22F3/17"/>
+    <TreeNode Title="B22F3/18 #用压辊[6]" Target="frmContent" Href="../searchservlet?query=B22F3/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B22F3/18"/>
+    <TreeNode Title="B22F3/20 #用挤压" Target="frmContent" Href="../searchservlet?query=B22F3/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B22F3/20"/>
+    <TreeNode Title="B22F3/22 #用于从浆料中制造铸件" Target="frmContent" Href="../searchservlet?query=B22F3/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B22F3/22"/>
+    <TreeNode Title="B22F3/23 #涉及自扩散高温合成或反应烧结方法[6]" Target="frmContent" Href="../searchservlet?query=B22F3/23&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B22F3/23"/>
+    <TreeNode Title="B22F3/24 #工件或制品的后处理" Target="frmContent" Href="../searchservlet?query=B22F3/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B22F3/24">
+      <TreeNode Title="B22F3/26 ##浸渍" Target="frmContent" Href="../searchservlet?query=B22F3/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B22F3/26"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="B22F5/00 由金属粉末制造特殊形状的工件或制品" Target="frmContent" Href="../searchservlet?query=B22F5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B22F5/00">
+    <TreeNode Title="B22F5/02 #活塞环" Target="frmContent" Href="../searchservlet?query=B22F5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B22F5/02"/>
+    <TreeNode Title="B22F5/04 #透平叶片" Target="frmContent" Href="../searchservlet?query=B22F5/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B22F5/04"/>
+    <TreeNode Title="B22F5/06 #螺纹制品，如螺母" Target="frmContent" Href="../searchservlet?query=B22F5/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B22F5/06"/>
+    <TreeNode Title="B22F5/08 #有齿制品，如齿轮；凸轮盘" Target="frmContent" Href="../searchservlet?query=B22F5/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B22F5/08"/>
+    <TreeNode Title="B22F5/10 #不包括在上述各小组中的具有空腔或孔的制品[6]" Target="frmContent" Href="../searchservlet?query=B22F5/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B22F5/10"/>
+    <TreeNode Title="B22F5/12 #管或线材[6]" Target="frmContent" Href="../searchservlet?query=B22F5/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B22F5/12"/>
+  </TreeNode>
+  <TreeNode Title="B22F7/00 通过对金属粉末进行烧结，以压实或不压实来制造包含此粉末的复合层、工件或制品" Target="frmContent" Href="../searchservlet?query=B22F7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B22F7/00">
+    <TreeNode Title="B22F7/02 #复合层" Target="frmContent" Href="../searchservlet?query=B22F7/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B22F7/02">
+      <TreeNode Title="B22F7/04 ##有一层或多层不用粉末制造，如用整体金属制造" Target="frmContent" Href="../searchservlet?query=B22F7/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B22F7/04"/>
+    </TreeNode>
+    <TreeNode Title="B22F7/06 #由几部分组成的复合工件或制品，如组成镶片刀具" Target="frmContent" Href="../searchservlet?query=B22F7/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B22F7/06">
+      <TreeNode Title="B22F7/08 ##有一个或几个部件不是用粉末制造的B22FB22F 8/00用废金属或废金属碎片制造制品[6]" Target="frmContent" Href="../searchservlet?query=B22F7/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B22F7/08"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="B22F9/00 制造金属粉末或其悬浮物" Target="frmContent" Href="../searchservlet?query=B22F9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B22F9/00">
+    <TreeNode Title="B22F9/02 #用物理方法[3]" Target="frmContent" Href="../searchservlet?query=B22F9/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B22F9/02">
+      <TreeNode Title="B22F9/04 ##从固体材料开始，如用破碎，研磨或碾磨的方法(一般破碎，研磨或碾磨，见有关小类，如B02C)[3]" Target="frmContent" Href="../searchservlet?query=B22F9/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B22F9/04"/>
+      <TreeNode Title="B22F9/06 ##从液体材料开始[3]" Target="frmContent" Href="../searchservlet?query=B22F9/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B22F9/06">
+        <TreeNode Title="B22F9/08 ###用铸造方法，如通过筛或注入水中，用雾化或喷雾方法(利用放电入B22F 9/14)[3]" Target="frmContent" Href="../searchservlet?query=B22F9/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B22F9/08">
+          <TreeNode Title="B22F9/10 ####利用离心力[3]" Target="frmContent" Href="../searchservlet?query=B22F9/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B22F9/10"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="B22F9/12 ##从气体材料开始[3]" Target="frmContent" Href="../searchservlet?query=B22F9/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B22F9/12"/>
+      <TreeNode Title="B22F9/14 ##利用放电[3]" Target="frmContent" Href="../searchservlet?query=B22F9/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B22F9/14"/>
+    </TreeNode>
+    <TreeNode Title="B22F9/16 #用化学方法[3]" Target="frmContent" Href="../searchservlet?query=B22F9/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B22F9/16">
+      <TreeNode Title="B22F9/18 ##利用金属化合物的还原[3]" Target="frmContent" Href="../searchservlet?query=B22F9/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B22F9/18">
+        <TreeNode Title="B22F9/20 ###从固体金属化合物开始[3]" Target="frmContent" Href="../searchservlet?query=B22F9/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B22F9/20">
+          <TreeNode Title="B22F9/22 ####利用气体还原剂[3]" Target="frmContent" Href="../searchservlet?query=B22F9/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B22F9/22"/>
+        </TreeNode>
+        <TreeNode Title="B22F9/24 ###从液体金属化合物开始，如溶液[3]" Target="frmContent" Href="../searchservlet?query=B22F9/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B22F9/24">
+          <TreeNode Title="B22F9/26 ####利用气体还原剂" Target="frmContent" Href="../searchservlet?query=B22F9/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B22F9/26"/>
+        </TreeNode>
+        <TreeNode Title="B22F9/28 ###从气体金属化合物开始[3]" Target="frmContent" Href="../searchservlet?query=B22F9/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B22F9/28"/>
+      </TreeNode>
+      <TreeNode Title="B22F9/30 ##利用金属化合物的分解，如利用热解作用[3]" Target="frmContent" Href="../searchservlet?query=B22F9/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B22F9/30"/>
+    </TreeNode>
+  </TreeNode>
+</Root>

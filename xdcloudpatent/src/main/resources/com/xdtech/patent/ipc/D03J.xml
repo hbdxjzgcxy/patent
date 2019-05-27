@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="D03J1/00 与织机相结合或相关的辅助设备" Target="frmContent" Href="../searchservlet?query=D03J1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D03J1/00">
+    <TreeNode Title="D03J1/02 #处理经纱的，如清洁、给湿" Target="frmContent" Href="../searchservlet?query=D03J1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D03J1/02"/>
+    <TreeNode Title="D03J1/04 #处理纬纱的" Target="frmContent" Href="../searchservlet?query=D03J1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D03J1/04"/>
+    <TreeNode Title="D03J1/06 #处理织物的(机上割绒入D03D 39/24)" Target="frmContent" Href="../searchservlet?query=D03J1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D03J1/06">
+      <TreeNode Title="D03J1/08 ##切割织物的" Target="frmContent" Href="../searchservlet?query=D03J1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D03J1/08"/>
+    </TreeNode>
+    <TreeNode Title="D03J1/10 #向织布工指示花型的" Target="frmContent" Href="../searchservlet?query=D03J1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D03J1/10"/>
+    <TreeNode Title="D03J1/12 #在织机与卷纬处之间输送纱管的(络筒机本身入B65H)" Target="frmContent" Href="../searchservlet?query=D03J1/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D03J1/12"/>
+    <TreeNode Title="D03J1/13 #经纱分绞的(一般分绞入D02H 9/00)[2]" Target="frmContent" Href="../searchservlet?query=D03J1/13&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D03J1/13"/>
+    <TreeNode Title="D03J1/14 #向经停装置停经片、综片或钢筘穿经的设备" Target="frmContent" Href="../searchservlet?query=D03J1/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D03J1/14"/>
+    <TreeNode Title="D03J1/16 #连接经纱头的设备(打结工具入D03J 3/00)" Target="frmContent" Href="../searchservlet?query=D03J1/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D03J1/16">
+      <TreeNode Title="D03J1/18 ##新经与老经接经的" Target="frmContent" Href="../searchservlet?query=D03J1/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D03J1/18"/>
+    </TreeNode>
+    <TreeNode Title="D03J1/20 #计测织物长度和所织的纬纱根数的" Target="frmContent" Href="../searchservlet?query=D03J1/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D03J1/20"/>
+    <TreeNode Title="D03J1/22 #边撑机构" Target="frmContent" Href="../searchservlet?query=D03J1/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D03J1/22"/>
+    <TreeNode Title="D03J1/24 #观察织机各部分的小镜或其他设备" Target="frmContent" Href="../searchservlet?query=D03J1/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D03J1/24"/>
+  </TreeNode>
+  <TreeNode Title="D03J3/00 织布工工具，如打结工具" Target="frmContent" Href="../searchservlet?query=D03J3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D03J3/00">
+    <TreeNode Title="D03J3/02 #钢筘与穿综钩" Target="frmContent" Href="../searchservlet?query=D03J3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D03J3/02"/>
+    <TreeNode Title="D03J3/04 #装梭穿线工具(梭中穿线工具入D03J 5/20)" Target="frmContent" Href="../searchservlet?query=D03J3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D03J3/04"/>
+  </TreeNode>
+  <TreeNode Title="D03J5/00 梭子(挖花梭子入D03D 31/00；小织机梭子入D03D 35/00；圆织机梭子入D03D 37/00；布边梭子入D03D 47/46)" Target="frmContent" Href="../searchservlet?query=D03J5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D03J5/00">
+    <TreeNode Title="D03J5/02 #梭体结构" Target="frmContent" Href="../searchservlet?query=D03J5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D03J5/02">
+      <TreeNode Title="D03J5/04 ##梭尖" Target="frmContent" Href="../searchservlet?query=D03J5/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D03J5/04"/>
+    </TreeNode>
+    <TreeNode Title="D03J5/06 #假梭；片梭" Target="frmContent" Href="../searchservlet?query=D03J5/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D03J5/06"/>
+    <TreeNode Title="D03J5/08 #纬纱管、筒管或管纱插座" Target="frmContent" Href="../searchservlet?query=D03J5/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D03J5/08">
+      <TreeNode Title="D03J5/10 ##梭芯" Target="frmContent" Href="../searchservlet?query=D03J5/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D03J5/10">
+        <TreeNode Title="D03J5/12 ###活动式" Target="frmContent" Href="../searchservlet?query=D03J5/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D03J5/12"/>
+        <TreeNode Title="D03J5/14 ###销轴式" Target="frmContent" Href="../searchservlet?query=D03J5/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D03J5/14"/>
+      </TreeNode>
+      <TreeNode Title="D03J5/16 ##筒管卡子，如用于自动换纡织机梭腔" Target="frmContent" Href="../searchservlet?query=D03J5/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D03J5/16"/>
+      <TreeNode Title="D03J5/18 ##空心纬管，即无梭芯或纬纱管卡子的梭子" Target="frmContent" Href="../searchservlet?query=D03J5/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D03J5/18"/>
+    </TreeNode>
+    <TreeNode Title="D03J5/20 #在梭中穿线的工具(单独工具入D03J 3/04)" Target="frmContent" Href="../searchservlet?query=D03J5/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D03J5/20">
+      <TreeNode Title="D03J5/22 ##自行穿线的，即自动穿线" Target="frmContent" Href="../searchservlet?query=D03J5/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D03J5/22"/>
+    </TreeNode>
+    <TreeNode Title="D03J5/24 #张力装置" Target="frmContent" Href="../searchservlet?query=D03J5/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D03J5/24"/>
+  </TreeNode>
+</Root>

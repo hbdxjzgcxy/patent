@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="B02B1/00 谷物碾磨或类似加工的准备(去荚、脱壳、脱皮、光整、去芒或去胚芽入B02B 3/00)" Target="frmContent" Href="../searchservlet?query=B02B1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B02B1/00">
+    <TreeNode Title="B02B1/02 #干处理(一般筛选或分选入B07)" Target="frmContent" Href="../searchservlet?query=B02B1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B02B1/02"/>
+    <TreeNode Title="B02B1/04 #湿处理，例如，冲洗，润湿，软化" Target="frmContent" Href="../searchservlet?query=B02B1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B02B1/04">
+      <TreeNode Title="B02B1/06 ##有旋转部分的装置" Target="frmContent" Href="../searchservlet?query=B02B1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B02B1/06"/>
+    </TreeNode>
+    <TreeNode Title="B02B1/08 #调节谷物的温度或水量(粮仓的空气调节与通风入F24F；干燥设备入F26B；湿度计入G01N)" Target="frmContent" Href="../searchservlet?query=B02B1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B02B1/08"/>
+  </TreeNode>
+  <TreeNode Title="B02B3/00 去荚，脱壳，脱皮(剥下纺织纤维皮入D01B1/14)；光整；去芒(在打谷机内入A01F12/42)；去胚芽" Target="frmContent" Href="../searchservlet?query=B02B3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B02B3/00">
+    <TreeNode Title="B02B3/02 #借助于圆盘" Target="frmContent" Href="../searchservlet?query=B02B3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B02B3/02"/>
+    <TreeNode Title="B02B3/04 #借助于辊" Target="frmContent" Href="../searchservlet?query=B02B3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B02B3/04"/>
+    <TreeNode Title="B02B3/06 #借助于螺杆或蜗杆" Target="frmContent" Href="../searchservlet?query=B02B3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B02B3/06"/>
+    <TreeNode Title="B02B3/08 #借助于锤或叶片" Target="frmContent" Href="../searchservlet?query=B02B3/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B02B3/08"/>
+    <TreeNode Title="B02B3/10 #借助于刷子" Target="frmContent" Href="../searchservlet?query=B02B3/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B02B3/10"/>
+    <TreeNode Title="B02B3/12 #借助于液体" Target="frmContent" Href="../searchservlet?query=B02B3/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B02B3/12"/>
+    <TreeNode Title="B02B3/14 #直接制成谷粉或粗粉" Target="frmContent" Href="../searchservlet?query=B02B3/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B02B3/14"/>
+  </TreeNode>
+  <TreeNode Title="B02B5/00 其他类目中不包含的谷物处理" Target="frmContent" Href="../searchservlet?query=B02B5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B02B5/00">
+    <TreeNode Title="B02B5/02 #联合工序" Target="frmContent" Href="../searchservlet?query=B02B5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B02B5/02"/>
+  </TreeNode>
+  <TreeNode Title="B02B7/00 辅助装置" Target="frmContent" Href="../searchservlet?query=B02B7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B02B7/00">
+    <TreeNode Title="B02B7/02 #送料或出料装置" Target="frmContent" Href="../searchservlet?query=B02B7/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B02B7/02"/>
+  </TreeNode>
+</Root>

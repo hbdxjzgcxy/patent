@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="B61K1/00 旅客、物品或货物送进或送出运动中的列车；车辆与运动中的列车脱开或连接" Target="frmContent" Href="../searchservlet?query=B61K1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61K1/00">
+    <TreeNode Title="B61K1/02 # 运送物品进出运动中的列车，如邮袋抓取器" Target="frmContent" Href="../searchservlet?query=B61K1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61K1/02"/>
+  </TreeNode>
+  <TreeNode Title="B61K3/00 润湿或润滑轨道或轮缘" Target="frmContent" Href="../searchservlet?query=B61K3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61K3/00">
+    <TreeNode Title="B61K3/02 # 与车辆组合的上述装置" Target="frmContent" Href="../searchservlet?query=B61K3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61K3/02"/>
+  </TreeNode>
+  <TreeNode Title="B61K5/00 将车辆安置在轨道上的设备；脱轨器；升高或降低铁路车辆的车轴或车轮(起重装置入B66)" Target="frmContent" Href="../searchservlet?query=B61K5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61K5/00">
+    <TreeNode Title="B61K5/02 # 固定到车上的设备；与车辆构成整体的转车台" Target="frmContent" Href="../searchservlet?query=B61K5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61K5/02"/>
+    <TreeNode Title="B61K5/04 # 固定到轨道上的设备" Target="frmContent" Href="../searchservlet?query=B61K5/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61K5/04">
+      <TreeNode Title="B61K5/06 ##脱轨或复轨器" Target="frmContent" Href="../searchservlet?query=B61K5/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61K5/06"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="B61K7/00 固定到线路上的铁路挡车器；固定到线路上的轨道制动器或减速装置；铺砂轨道或类似物(制动垫，楔，车上安装的止轮器入B61H；用于安装在轨道上的线路遮断器的操纵机构入B61L)" Target="frmContent" Href="../searchservlet?query=B61K7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61K7/00">
+    <TreeNode Title="B61K7/02 # 轨道制动器或减速装置(轨道安装的止轮器的操作机构入B61L)" Target="frmContent" Href="../searchservlet?query=B61K7/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61K7/02">
+      <TreeNode Title="B61K7/04 ##有夹紧作用的" Target="frmContent" Href="../searchservlet?query=B61K7/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61K7/04">
+        <TreeNode Title="B61K7/06 ###机械操作的" Target="frmContent" Href="../searchservlet?query=B61K7/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61K7/06"/>
+        <TreeNode Title="B61K7/08 ###气动或液力操作的" Target="frmContent" Href="../searchservlet?query=B61K7/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61K7/08"/>
+      </TreeNode>
+      <TreeNode Title="B61K7/10 ##电动的(在车上的入B60L)" Target="frmContent" Href="../searchservlet?query=B61K7/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61K7/10"/>
+      <TreeNode Title="B61K7/12 ##电力控制的" Target="frmContent" Href="../searchservlet?query=B61K7/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61K7/12"/>
+    </TreeNode>
+    <TreeNode Title="B61K7/14 # 铺砂轨道或类似轨道" Target="frmContent" Href="../searchservlet?query=B61K7/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61K7/14"/>
+    <TreeNode Title="B61K7/16 # 强制铁路挡车器" Target="frmContent" Href="../searchservlet?query=B61K7/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61K7/16">
+      <TreeNode Title="B61K7/18 ##缓冲挡车器" Target="frmContent" Href="../searchservlet?query=B61K7/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61K7/18"/>
+      <TreeNode Title="B61K7/20 ##强制车轮止动器" Target="frmContent" Href="../searchservlet?query=B61K7/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61K7/20"/>
+      <TreeNode Title="B61K7/22 ##车轴止动器" Target="frmContent" Href="../searchservlet?query=B61K7/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61K7/22"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="B61K9/00 铁路车辆外形测量器；部件过热的探测或指示；在机车或货车上指示不良轨道断面的装置；轨道记录车的一般设计" Target="frmContent" Href="../searchservlet?query=B61K9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61K9/00">
+    <TreeNode Title="B61K9/02 # 外形测量器，如加载测量器" Target="frmContent" Href="../searchservlet?query=B61K9/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61K9/02"/>
+    <TreeNode Title="B61K9/04 # 指示车轴轴承过热的探测器和类似装置，如与制动系统结合在一起，用于在故障情况下施加制动" Target="frmContent" Href="../searchservlet?query=B61K9/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61K9/04">
+      <TreeNode Title="B61K9/06 ##通过探测或指示过热车轴的热辐射" Target="frmContent" Href="../searchservlet?query=B61K9/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61K9/06"/>
+    </TreeNode>
+    <TreeNode Title="B61K9/08 # 监测线路的测量设备(用于建造轨道的测量装置或设备的应用入E01B 35/00；测量技术入G01)" Target="frmContent" Href="../searchservlet?query=B61K9/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61K9/08">
+      <TreeNode Title="B61K9/10 ##用于在轨道上或其焊缝上探测裂纹" Target="frmContent" Href="../searchservlet?query=B61K9/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61K9/10"/>
+    </TreeNode>
+    <TreeNode Title="B61K9/12 # 车轮轮辋的测量或监测(测量技术入G01)" Target="frmContent" Href="../searchservlet?query=B61K9/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61K9/12"/>
+  </TreeNode>
+  <TreeNode Title="B61K11/00 机车特有的作业，如贮存器中水、砂或类似物的加满或排空(轴或车轮的升高或降低入B61K 5/00；蒸气或气体贮能器机车的充气站入B61C 8/00；机车上水或燃料供给装置入B61C 17/02；给机车添加固体燃料入B65G 67/18；锅炉的水洗或清洁入F28G)" Target="frmContent" Href="../searchservlet?query=B61K11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61K11/00">
+    <TreeNode Title="B61K11/02 # 用于机车内的给水塔" Target="frmContent" Href="../searchservlet?query=B61K11/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61K11/02"/>
+  </TreeNode>
+  <TreeNode Title="B61K13/00 铁路上其他辅助装置或附属装置(安全带或人体安全吊带入A62B 35/00)" Target="frmContent" Href="../searchservlet?query=B61K13/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61K13/00">
+    <TreeNode Title="B61K13/02 # 放大车辆牵引杆拉力并将它传递到车轮的辅助起动装置" Target="frmContent" Href="../searchservlet?query=B61K13/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61K13/02"/>
+    <TreeNode Title="B61K13/04 # 附接于车辆的乘客报警设备；防止乘客在进入或离开车辆时发生事故的安全设备" Target="frmContent" Href="../searchservlet?query=B61K13/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61K13/04"/>
+  </TreeNode>
+</Root>

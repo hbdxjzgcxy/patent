@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="H02H1/00 紧急保护电路装置的零部件" Target="frmContent" Href="../searchservlet?query=H02H1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02H1/00">
+    <TreeNode Title="H02H1/04 #防止对瞬时不正常情况响应的装置，例如对闪电" Target="frmContent" Href="../searchservlet?query=H02H1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02H1/04"/>
+    <TreeNode Title="H02H1/06 #提供正常电源的设备[3]" Target="frmContent" Href="../searchservlet?query=H02H1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02H1/06"/>
+  </TreeNode>
+  <TreeNode Title="H02H3/00 对正常电工作情况的不希望有的变化直接响应的自动断开紧急保护电路装置，有或无事后再连接(专用于特殊类型的电机或电设备或专用于电缆或电线系统分段保护的入H02H 7/00；用于转换到备用电源的系统入H02J 9/00)" Target="frmContent" Href="../searchservlet?query=H02H3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02H3/00">
+    <TreeNode Title="H02H3/02 #零部件" Target="frmContent" Href="../searchservlet?query=H02H3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02H3/02">
+      <TreeNode Title="H02H3/027 ##在预定时间后自动断开的(H02H 3/033，H02H 3/06优先)[3]" Target="frmContent" Href="../searchservlet?query=H02H3/027&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02H3/027"/>
+      <TreeNode Title="H02H3/033 ##按优先次序分数次断开的(H02H 3/06优先)[3]" Target="frmContent" Href="../searchservlet?query=H02H3/033&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02H3/033"/>
+      <TreeNode Title="H02H3/04 ##除断开外还带有警告或监视的，例如指示出保护设备已经起作用" Target="frmContent" Href="../searchservlet?query=H02H3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02H3/04"/>
+      <TreeNode Title="H02H3/05 ##带有增加可靠性的装置，例如冗余装置[3]" Target="frmContent" Href="../searchservlet?query=H02H3/05&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02H3/05"/>
+      <TreeNode Title="H02H3/06 ##带有自动再连接的" Target="frmContent" Href="../searchservlet?query=H02H3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02H3/06">
+        <TreeNode Title="H02H3/07 ###并在循环重接预定次数后永远断开的[3]" Target="frmContent" Href="../searchservlet?query=H02H3/07&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02H3/07"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="H02H3/08 #对过电流响应的(对因过电流引起的异常温度响应的入H02H 5/04)" Target="frmContent" Href="../searchservlet?query=H02H3/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02H3/08">
+      <TreeNode Title="H02H3/087 ##作直流应用的[3]" Target="frmContent" Href="../searchservlet?query=H02H3/087&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02H3/087"/>
+      <TreeNode Title="H02H3/093 ##带有定时装置的[3]" Target="frmContent" Href="../searchservlet?query=H02H3/093&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02H3/093"/>
+      <TreeNode Title="H02H3/10 ##还对其他一些异常电气情况响应的" Target="frmContent" Href="../searchservlet?query=H02H3/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02H3/10"/>
+    </TreeNode>
+    <TreeNode Title="H02H3/12 #对欠负荷或无负荷响应的" Target="frmContent" Href="../searchservlet?query=H02H3/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02H3/12">
+      <TreeNode Title="H02H3/13 ##作多相应用的，例如断相[3]" Target="frmContent" Href="../searchservlet?query=H02H3/13&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02H3/13"/>
+    </TreeNode>
+    <TreeNode Title="H02H3/14 #对正常情况下处于地电位的部件出现电压而响应的" Target="frmContent" Href="../searchservlet?query=H02H3/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02H3/14"/>
+    <TreeNode Title="H02H3/16 #对接地、接框架或接物体的故障电流响应的(有平衡或差动装置的入H02H 3/26)" Target="frmContent" Href="../searchservlet?query=H02H3/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02H3/16">
+      <TreeNode Title="H02H3/17 ##用附加电压进入被保护装置的方法[3]" Target="frmContent" Href="../searchservlet?query=H02H3/17&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02H3/17"/>
+    </TreeNode>
+    <TreeNode Title="H02H3/18 #对直流电流反向响应的" Target="frmContent" Href="../searchservlet?query=H02H3/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02H3/18"/>
+    <TreeNode Title="H02H3/20 #对过电压响应的" Target="frmContent" Href="../searchservlet?query=H02H3/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02H3/20">
+      <TreeNode Title="H02H3/22 ##短时限的，例如闪电" Target="frmContent" Href="../searchservlet?query=H02H3/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02H3/22"/>
+    </TreeNode>
+    <TreeNode Title="H02H3/24 #对欠电压或无电压响应的" Target="frmContent" Href="../searchservlet?query=H02H3/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02H3/24">
+      <TreeNode Title="H02H3/247 ##有定时装置的[3]" Target="frmContent" Href="../searchservlet?query=H02H3/247&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02H3/247"/>
+      <TreeNode Title="H02H3/253 ##多相应用的，例如断相[3]" Target="frmContent" Href="../searchservlet?query=H02H3/253&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02H3/253"/>
+    </TreeNode>
+    <TreeNode Title="H02H3/26 #对电压差或电流差响应的；对电压之间或电流之间的相位差响应的" Target="frmContent" Href="../searchservlet?query=H02H3/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02H3/26">
+      <TreeNode Title="H02H3/28 ##包括对单一系统的两相隔部分上的电压值或电流值进行比较的，例如在一条线路上的相对两端、在设备的输入端和输出端" Target="frmContent" Href="../searchservlet?query=H02H3/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02H3/28">
+        <TreeNode Title="H02H3/30 ###利用控制线或其他信号通道" Target="frmContent" Href="../searchservlet?query=H02H3/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02H3/30"/>
+      </TreeNode>
+      <TreeNode Title="H02H3/32 ##包括对在单一系统的不同导线上相应点上的电压值或电流值进行比较的，例如比较往返导线中的电流" Target="frmContent" Href="../searchservlet?query=H02H3/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02H3/32">
+        <TreeNode Title="H02H3/33 ###应用加法变流器(H02H 3/347优先)[3]" Target="frmContent" Href="../searchservlet?query=H02H3/33&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02H3/33"/>
+        <TreeNode Title="H02H3/34 ###三相制的" Target="frmContent" Href="../searchservlet?query=H02H3/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02H3/34">
+          <TreeNode Title="H02H3/347 ####应用加法变流器[3]" Target="frmContent" Href="../searchservlet?query=H02H3/347&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02H3/347"/>
+          <TreeNode Title="H02H3/353 ####包含相电压比较的[3]" Target="frmContent" Href="../searchservlet?query=H02H3/353&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02H3/353"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="H02H3/36 ##包括对不同系统由相应点的电压值或电流值进行比较，例如并行馈电线系统的相应点上" Target="frmContent" Href="../searchservlet?query=H02H3/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02H3/36"/>
+    </TreeNode>
+    <TreeNode Title="H02H3/38 #对电压或电流二者响应的；对电压和电流之间的相位角响应的" Target="frmContent" Href="../searchservlet?query=H02H3/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02H3/38"/>
+    <TreeNode Title="H02H3/40 #对电压和电流的比值响应的" Target="frmContent" Href="../searchservlet?query=H02H3/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02H3/40"/>
+    <TreeNode Title="H02H3/42 #对电压和电流的乘积响应的" Target="frmContent" Href="../searchservlet?query=H02H3/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02H3/42"/>
+    <TreeNode Title="H02H3/44 #对电量的变化率响应的[3]" Target="frmContent" Href="../searchservlet?query=H02H3/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02H3/44"/>
+    <TreeNode Title="H02H3/46 #对频率的偏移响应的[3]" Target="frmContent" Href="../searchservlet?query=H02H3/46&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02H3/46"/>
+    <TreeNode Title="H02H3/48 #对失去同步响应的[3]" Target="frmContent" Href="../searchservlet?query=H02H3/48&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02H3/48"/>
+    <TreeNode Title="H02H3/50 #对出现不正常波形响应的，例如在直流装置中出现交流[3]" Target="frmContent" Href="../searchservlet?query=H02H3/50&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02H3/50">
+      <TreeNode Title="H02H3/52 ##对出现谐波响应的[3]" Target="frmContent" Href="../searchservlet?query=H02H3/52&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02H3/52"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="H02H5/00 对正常非电工作状态的不希望有的变化直接响应的自动断开紧急保护电路装置，有或无事后再连接(利用受保护装置的模拟器的入H02H 6/00；专用于特殊类型电机或设备或专用于电缆或线路系统分段保护的入H02H 7/00)[3]" Target="frmContent" Href="../searchservlet?query=H02H5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02H5/00">
+    <TreeNode Title="H02H5/04 #对异常温度响应的" Target="frmContent" Href="../searchservlet?query=H02H5/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02H5/04">
+      <TreeNode Title="H02H5/06 ##在充油的电设备中" Target="frmContent" Href="../searchservlet?query=H02H5/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02H5/06"/>
+    </TreeNode>
+    <TreeNode Title="H02H5/08 #对异常流体压力、液面高度或液位移响应的，例如Buchholz继电器" Target="frmContent" Href="../searchservlet?query=H02H5/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02H5/08"/>
+    <TreeNode Title="H02H5/10 #对机械损伤响应的，例如线路断裂、地连接断开" Target="frmContent" Href="../searchservlet?query=H02H5/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02H5/10"/>
+    <TreeNode Title="H02H5/12 #对生物不希望有的接近或触及带电部件而响应的" Target="frmContent" Href="../searchservlet?query=H02H5/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02H5/12"/>
+  </TreeNode>
+  <TreeNode Title="H02H6/00 使用被保护设备的模拟器，对正常非电工作条件的不希望有的变化响应的紧急保护电路装置，例如利用热成像[3]" Target="frmContent" Href="../searchservlet?query=H02H6/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02H6/00"/>
+  <TreeNode Title="H02H7/00 当出现正常工作条件的不希望有的变化时能完成自动切换的，专用于特种电机或电设备的或专用于电缆或线路系统分段保护的紧急保护电路装置(保护装置与特种机械或设备的结构组合以及它们的无自动断开的保护见该机械或设备的有关小类)" Target="frmContent" Href="../searchservlet?query=H02H7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02H7/00">
+    <TreeNode Title="H02H7/04 #用于变压器" Target="frmContent" Href="../searchservlet?query=H02H7/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02H7/04">
+      <TreeNode Title="H02H7/045 ##变压器的差动保护[3]" Target="frmContent" Href="../searchservlet?query=H02H7/045&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02H7/045"/>
+      <TreeNode Title="H02H7/05 ##用于电容性电压变压器，例如防止谐振状态[3]" Target="frmContent" Href="../searchservlet?query=H02H7/05&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02H7/05"/>
+      <TreeNode Title="H02H7/055 ##用于抽头变压器或其变抽头装置[3]" Target="frmContent" Href="../searchservlet?query=H02H7/055&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02H7/055"/>
+    </TreeNode>
+    <TreeNode Title="H02H7/06 #用于发电机；用于同步电容器" Target="frmContent" Href="../searchservlet?query=H02H7/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02H7/06"/>
+    <TreeNode Title="H02H7/08 #用于电动机" Target="frmContent" Href="../searchservlet?query=H02H7/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02H7/08">
+      <TreeNode Title="H02H7/085 ##防止过负载" Target="frmContent" Href="../searchservlet?query=H02H7/085&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02H7/085"/>
+      <TreeNode Title="H02H7/09 ##防止过电压；防止电压降；防止断相" Target="frmContent" Href="../searchservlet?query=H02H7/09&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02H7/09"/>
+      <TreeNode Title="H02H7/093 ##防止预定限度的转速增加过高或降低过低(离心开关入H01H 35/10)" Target="frmContent" Href="../searchservlet?query=H02H7/093&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02H7/093"/>
+      <TreeNode Title="H02H7/097 ##防止旋转方向错误" Target="frmContent" Href="../searchservlet?query=H02H7/097&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02H7/097"/>
+    </TreeNode>
+    <TreeNode Title="H02H7/10 #用于变换器的；用于整流器的" Target="frmContent" Href="../searchservlet?query=H02H7/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02H7/10">
+      <TreeNode Title="H02H7/12 ##用于静态变换器或整流器的" Target="frmContent" Href="../searchservlet?query=H02H7/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02H7/12">
+        <TreeNode Title="H02H7/122 ###用于变换器，即直流/交流变换器[2]" Target="frmContent" Href="../searchservlet?query=H02H7/122&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02H7/122"/>
+        <TreeNode Title="H02H7/125 ###用于整流器[2]" Target="frmContent" Href="../searchservlet?query=H02H7/125&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02H7/125">
+          <TreeNode Title="H02H7/127 ####具有辅助控制电极，在紧急情况下有阻断控制电压或电流加到该电极上[2]" Target="frmContent" Href="../searchservlet?query=H02H7/127&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02H7/127"/>
+        </TreeNode>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="H02H7/16 #用于电容器(用于同步电容器的入H02H 7/06)" Target="frmContent" Href="../searchservlet?query=H02H7/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02H7/16"/>
+    <TreeNode Title="H02H7/18 #用于电池组的；用于蓄电池的" Target="frmContent" Href="../searchservlet?query=H02H7/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02H7/18"/>
+    <TreeNode Title="H02H7/20 #用于电子设备的(用于变换器入H02H 7/10；用于电测量仪器的入G01R 1/36；用于直流电压或电流的半导体调节器入G05F 1/569；用于放大器的入H03F 1/52；用于电子开关电路的入H03K 17/08)" Target="frmContent" Href="../searchservlet?query=H02H7/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02H7/20"/>
+    <TreeNode Title="H02H7/22 #用于配电装置，例如母线系统；用于开关装置的" Target="frmContent" Href="../searchservlet?query=H02H7/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02H7/22"/>
+    <TreeNode Title="H02H7/24 #用于火花隙避雷器的" Target="frmContent" Href="../searchservlet?query=H02H7/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02H7/24"/>
+    <TreeNode Title="H02H7/26 #电缆或线路系统的分段保护，例如当发生短路、接地故障或电弧放电时切断一部分电路(定电缆故障位置入G01R 31/08)" Target="frmContent" Href="../searchservlet?query=H02H7/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02H7/26">
+      <TreeNode Title="H02H7/28 ##用于网状系统的" Target="frmContent" Href="../searchservlet?query=H02H7/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02H7/28"/>
+      <TreeNode Title="H02H7/30 ##交错断开[3]" Target="frmContent" Href="../searchservlet?query=H02H7/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02H7/30"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="H02H9/00 用于限制过电流或过电压而不切断电路的紧急保护电路装置(保护装置与特种机械或设备的结构组合见该机械或设备的有关小类)" Target="frmContent" Href="../searchservlet?query=H02H9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02H9/00">
+    <TreeNode Title="H02H9/02 #对过电流响应的" Target="frmContent" Href="../searchservlet?query=H02H9/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02H9/02"/>
+    <TreeNode Title="H02H9/04 #对过电压响应的(避雷器入H01C7/12，H01C 8/04，H01G 9/18，H01T)" Target="frmContent" Href="../searchservlet?query=H02H9/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02H9/04">
+      <TreeNode Title="H02H9/06 ##应用火花隙避雷器的" Target="frmContent" Href="../searchservlet?query=H02H9/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02H9/06"/>
+    </TreeNode>
+    <TreeNode Title="H02H9/08 #限制或抑制接地故障电流，例如灭弧线圈[3]" Target="frmContent" Href="../searchservlet?query=H02H9/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02H9/08"/>
+  </TreeNode>
+  <TreeNode Title="H02H11/00 当有可能导致不希望有的电工作条件时防止接通的紧急保护电路装置" Target="frmContent" Href="../searchservlet?query=H02H11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02H11/00"/>
+  <TreeNode Title="H02H99/00 本小类其他各组中不包括的技术主题[2009.01]" Target="frmContent" Href="../searchservlet?query=H02H99/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02H99/00"/>
+</Root>

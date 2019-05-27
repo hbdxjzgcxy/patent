@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="E02B1/00 一般水利工程的设备、装置或方法" Target="frmContent" Href="../searchservlet?query=E02B1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02B1/00">
+    <TreeNode Title="E02B1/02 #水工模型" Target="frmContent" Href="../searchservlet?query=E02B1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02B1/02"/>
+  </TreeNode>
+  <TreeNode Title="E02B3/00 与溪流、河道、海岸或其他海域的控制与利用有关的工程(拦河坝或堰入E02B  7/00)；一般水工结构物的接缝或密封" Target="frmContent" Href="../searchservlet?query=E02B3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02B3/00">
+    <TreeNode Title="E02B3/02 #河川的整治，例如，水下岩石的破除，河床的清理、导流(疏浚或刮除设备入E02F)" Target="frmContent" Href="../searchservlet?query=E02B3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02B3/02"/>
+    <TreeNode Title="E02B3/04 #河岸、海岸或港口的防护构筑物、设备或方法(密封或接缝入E02B 3/16)" Target="frmContent" Href="../searchservlet?query=E02B3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02B3/04">
+      <TreeNode Title="E02B3/06 ##突堤；岸墩；堤岸；岸壁；丁坝；防波堤" Target="frmContent" Href="../searchservlet?query=E02B3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02B3/06">
+        <TreeNode Title="E02B3/08 ###带或不带桩的干砌石构筑物(桩入E02D 5/00)" Target="frmContent" Href="../searchservlet?query=E02B3/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02B3/08"/>
+      </TreeNode>
+      <TreeNode Title="E02B3/10 ##坝；堤；用于堤、坝或类似工程的泄水道或其他构筑物(修建堤或坝一般入E02D 17/18)" Target="frmContent" Href="../searchservlet?query=E02B3/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02B3/10"/>
+      <TreeNode Title="E02B3/12 ##河岸、水坝、水道或其他类似工程的护砌(一般斜坡护砌入E02D17/20)" Target="frmContent" Href="../searchservlet?query=E02B3/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02B3/12">
+        <TreeNode Title="E02B3/14 ###预制砌块及其砌置" Target="frmContent" Href="../searchservlet?query=E02B3/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02B3/14"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="E02B3/16 #密封或接缝(基础结构的接缝入E02D 29/16；不局限于水利工程的接缝、密封入E04B 1/68)" Target="frmContent" Href="../searchservlet?query=E02B3/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02B3/16"/>
+    <TreeNode Title="E02B3/18 #填水筑地(土壤排水入E02B 11/00)" Target="frmContent" Href="../searchservlet?query=E02B3/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02B3/18"/>
+    <TreeNode Title="E02B3/20 #海岸、海港或其他固定海洋结构物的航运设备，例如系缆柱(停泊、锚定入B63B 21/00，例如用于航运的系缆柱入B63B 21/06；浮标入B63B 22/00)[5]" Target="frmContent" Href="../searchservlet?query=E02B3/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02B3/20">
+      <TreeNode Title="E02B3/24 ##系锚柱[5]" Target="frmContent" Href="../searchservlet?query=E02B3/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02B3/24"/>
+      <TreeNode Title="E02B3/26 ##防护物(与水上船只成一体的或其专用的入B63B 59/02)[5]" Target="frmContent" Href="../searchservlet?query=E02B3/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02B3/26"/>
+      <TreeNode Title="E02B3/28 ##防护桩[5]" Target="frmContent" Href="../searchservlet?query=E02B3/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02B3/28"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="E02B5/00 人工水道(水力发电站用的入E02B 9/02；土壤灌溉用的入E02B 13/00)" Target="frmContent" Href="../searchservlet?query=E02B5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02B5/00">
+    <TreeNode Title="E02B5/02 #水道的修筑或衬砌" Target="frmContent" Href="../searchservlet?query=E02B5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02B5/02"/>
+    <TreeNode Title="E02B5/04 #通航水道" Target="frmContent" Href="../searchservlet?query=E02B5/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02B5/04">
+      <TreeNode Title="E02B5/06 ##与水道有关的操作设备(提升船舶设备入E02C)" Target="frmContent" Href="../searchservlet?query=E02B5/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02B5/06"/>
+    </TreeNode>
+    <TreeNode Title="E02B5/08 #结构部件，例如，闸门，格栅" Target="frmContent" Href="../searchservlet?query=E02B5/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02B5/08"/>
+  </TreeNode>
+  <TreeNode Title="E02B7/00 拦河坝或堰；布置，结构，建造的方法或设备(河岸、海岸或海港的防护入E02B 3/04；密封或接缝入E02B 3/16；水利工程的建筑材料或类似材料的处置入E02D 15/00；基础一般入E02D 27/00)" Target="frmContent" Href="../searchservlet?query=E02B7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02B7/00">
+    <TreeNode Title="E02B7/02 #固定式拦河坝" Target="frmContent" Href="../searchservlet?query=E02B7/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02B7/02">
+      <TreeNode Title="E02B7/04 ##横跨峡谷的坝" Target="frmContent" Href="../searchservlet?query=E02B7/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02B7/04">
+        <TreeNode Title="E02B7/06 ###土坝；堆石坝" Target="frmContent" Href="../searchservlet?query=E02B7/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02B7/06"/>
+        <TreeNode Title="E02B7/08 ###墙式坝" Target="frmContent" Href="../searchservlet?query=E02B7/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02B7/08">
+          <TreeNode Title="E02B7/10 ####重力坝，即利用坝的重量防止倾倒" Target="frmContent" Href="../searchservlet?query=E02B7/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02B7/10"/>
+          <TreeNode Title="E02B7/12 ####拱坝" Target="frmContent" Href="../searchservlet?query=E02B7/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02B7/12"/>
+          <TreeNode Title="E02B7/14 ####支墩坝" Target="frmContent" Href="../searchservlet?query=E02B7/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02B7/14"/>
+        </TreeNode>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="E02B7/16 #固定堰；其上部结构或闸板" Target="frmContent" Href="../searchservlet?query=E02B7/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02B7/16">
+      <TreeNode Title="E02B7/18 ##虹吸式堰" Target="frmContent" Href="../searchservlet?query=E02B7/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02B7/18"/>
+    </TreeNode>
+    <TreeNode Title="E02B7/20 #活动堰；闸门" Target="frmContent" Href="../searchservlet?query=E02B7/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02B7/20">
+      <TreeNode Title="E02B7/22 ##叠梁坝；事故闸门" Target="frmContent" Href="../searchservlet?query=E02B7/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02B7/22"/>
+      <TreeNode Title="E02B7/24 ##栅条堰" Target="frmContent" Href="../searchservlet?query=E02B7/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02B7/24"/>
+      <TreeNode Title="E02B7/26 ##垂直提升的闸门" Target="frmContent" Href="../searchservlet?query=E02B7/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02B7/26">
+        <TreeNode Title="E02B7/28 ###带滑动闸门的" Target="frmContent" Href="../searchservlet?query=E02B7/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02B7/28"/>
+        <TreeNode Title="E02B7/30 ###带闸门用的导轮或滚轮的" Target="frmContent" Href="../searchservlet?query=E02B7/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02B7/30"/>
+        <TreeNode Title="E02B7/32 ###圆柱形或筒形闸门" Target="frmContent" Href="../searchservlet?query=E02B7/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02B7/32"/>
+        <TreeNode Title="E02B7/34 ###垂直提升闸门的闸板" Target="frmContent" Href="../searchservlet?query=E02B7/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02B7/34"/>
+        <TreeNode Title="E02B7/36 ###垂直提升闸门的提升机械" Target="frmContent" Href="../searchservlet?query=E02B7/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02B7/36"/>
+      </TreeNode>
+      <TreeNode Title="E02B7/38 ##滚筒闸门" Target="frmContent" Href="../searchservlet?query=E02B7/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02B7/38"/>
+      <TreeNode Title="E02B7/40 ##平旋或翻转式闸门" Target="frmContent" Href="../searchservlet?query=E02B7/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02B7/40">
+        <TreeNode Title="E02B7/42 ###带有水平轴的弧形或扇形闸门" Target="frmContent" Href="../searchservlet?query=E02B7/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02B7/42"/>
+        <TreeNode Title="E02B7/44 ###铰接活叶式闸门" Target="frmContent" Href="../searchservlet?query=E02B7/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02B7/44"/>
+        <TreeNode Title="E02B7/46 ###绕门板中间的水平轴翻转的闸门" Target="frmContent" Href="../searchservlet?query=E02B7/46&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02B7/46"/>
+        <TreeNode Title="E02B7/48 ###屋顶式或双门叶式闸门" Target="frmContent" Href="../searchservlet?query=E02B7/48&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02B7/48"/>
+      </TreeNode>
+      <TreeNode Title="E02B7/50 ##浮动闸门" Target="frmContent" Href="../searchservlet?query=E02B7/50&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02B7/50"/>
+      <TreeNode Title="E02B7/52 ##闸门防振设备" Target="frmContent" Href="../searchservlet?query=E02B7/52&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02B7/52"/>
+      <TreeNode Title="E02B7/54 ##闸门密封设施" Target="frmContent" Href="../searchservlet?query=E02B7/54&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02B7/54"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="E02B8/00 拦河坝或堰的结构细部(露天水面的清理或保持露天水面清洁入E02B 15/00)" Target="frmContent" Href="../searchservlet?query=E02B8/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02B8/00">
+    <TreeNode Title="E02B8/02 #沉淀物底孔闸门；冲砂闸；截拦水流携带物的构件" Target="frmContent" Href="../searchservlet?query=E02B8/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02B8/02"/>
+    <TreeNode Title="E02B8/04 #阀门、闸板或类似构件；淹没式泄水闸门" Target="frmContent" Href="../searchservlet?query=E02B8/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02B8/04"/>
+    <TreeNode Title="E02B8/06 #溢洪道；消能设备，例如，减弱涡流的设备" Target="frmContent" Href="../searchservlet?query=E02B8/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02B8/06"/>
+    <TreeNode Title="E02B8/08 #鱼道；通过木筏或船的水路" Target="frmContent" Href="../searchservlet?query=E02B8/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02B8/08"/>
+  </TreeNode>
+  <TreeNode Title="E02B9/00 水力发电站；其布置、结构或装备，修建方法或设备(水力发动机入F03B)" Target="frmContent" Href="../searchservlet?query=E02B9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02B9/00">
+    <TreeNode Title="E02B9/02 #水道" Target="frmContent" Href="../searchservlet?query=E02B9/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02B9/02">
+      <TreeNode Title="E02B9/04 ##自由流动的水道或水槽；取水口(其格栅或滤网入E02B 5/08)" Target="frmContent" Href="../searchservlet?query=E02B9/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02B9/04"/>
+      <TreeNode Title="E02B9/06 ##有压廊道或有压管道；室内有压管道专用的廊道，其专用部件，例如，外壳，阀门，闸门(倾斜坑道的开掘入E21D 9/02；一般阀门入F16K；一般管道入F16L)[6]" Target="frmContent" Href="../searchservlet?query=E02B9/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02B9/06"/>
+    </TreeNode>
+    <TreeNode Title="E02B9/08 #潮汐或波浪发电站(水压机，潮汐或波浪发动机入F03B)" Target="frmContent" Href="../searchservlet?query=E02B9/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02B9/08"/>
+  </TreeNode>
+  <TreeNode Title="E02B11/00 土壤排水，例如，用于农业的" Target="frmContent" Href="../searchservlet?query=E02B11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02B11/00">
+    <TreeNode Title="E02B11/02 #排水设备的安装装置，例如排水用的开沟器E02B 13/00灌溉沟渠，即自流明渠配水系统(花园、农地、运动场或类似场地的洒水或喷水的其他配水系统入A01G 25/00)[2]" Target="frmContent" Href="../searchservlet?query=E02B11/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02B11/02"/>
+    <TreeNode Title="E02B13/02 #灌溉管道的截流" Target="frmContent" Href="../searchservlet?query=E02B13/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02B13/02"/>
+  </TreeNode>
+  <TreeNode Title="E02B15/00 露天水面的清理或保持其清洁；其所用设备(船或其他水上船只的结构入B63B，例如专门用于收集露天水面污染的船只入B63B 35/32；用于游泳池或浴场或水池的入E04H4/16)[5]" Target="frmContent" Href="../searchservlet?query=E02B15/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02B15/00">
+    <TreeNode Title="E02B15/02 #除冰[5]" Target="frmContent" Href="../searchservlet?query=E02B15/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02B15/02"/>
+    <TreeNode Title="E02B15/04 #通过分离或除去油或类似漂浮物来清理或保持露天水面清洁的设备(水、废水或污水的其他处理入C02F；用于处理液体污染物，例如油、汽油、油脂的材料入C09K 3/32)" Target="frmContent" Href="../searchservlet?query=E02B15/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02B15/04">
+      <TreeNode Title="E02B15/06 ##其所用栅栏(E02B 15/08优先)[5]" Target="frmContent" Href="../searchservlet?query=E02B15/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02B15/06"/>
+      <TreeNode Title="E02B15/08 ##不除去污染物而减少污染区的设备[5]" Target="frmContent" Href="../searchservlet?query=E02B15/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02B15/08"/>
+      <TreeNode Title="E02B15/10 ##从水面除去污染物的设备[5]" Target="frmContent" Href="../searchservlet?query=E02B15/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02B15/10"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="E02B17/00 支承在桩基或类似支承物上的人工岛，例如，升降式支柱上的平台；其修建方法(防护物入E02B 3/26；浮动平台的锚定入B63B 21/00；浮动平台，例如，锚定的浮动平台入B63B 35/44；独立的水下结构物入E02D 29/00)[5]" Target="frmContent" Href="../searchservlet?query=E02B17/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02B17/00">
+    <TreeNode Title="E02B17/02 #通过将支撑结构降到水底进行放置，例如，随后将其固定" Target="frmContent" Href="../searchservlet?query=E02B17/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02B17/02"/>
+    <TreeNode Title="E02B17/04 #使工作平台相对于支撑结构上升、下降或固定的专用设备(一般的平台提升入B66F 7/00)" Target="frmContent" Href="../searchservlet?query=E02B17/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02B17/04">
+      <TreeNode Title="E02B17/06 ##固定用的，例如用楔子或夹固环" Target="frmContent" Href="../searchservlet?query=E02B17/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02B17/06"/>
+      <TreeNode Title="E02B17/08 ##升降用的" Target="frmContent" Href="../searchservlet?query=E02B17/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E02B17/08"/>
+    </TreeNode>
+  </TreeNode>
+</Root>

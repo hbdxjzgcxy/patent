@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="C09H1/00 为制动物胶用的含胶原料的预处理" Target="frmContent" Href="../searchservlet?query=C09H1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09H1/00">
+    <TreeNode Title="C09H1/02 #骨类的(骨的脱脂入C11B)" Target="frmContent" Href="../searchservlet?query=C09H1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09H1/02"/>
+    <TreeNode Title="C09H1/04 #生皮、蹄或碎皮革片的(鞣剂的回收入C14C)" Target="frmContent" Href="../searchservlet?query=C09H1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09H1/04"/>
+  </TreeNode>
+  <TreeNode Title="C09H3/00 从原料中分离动物胶或明胶，例如用抽提，加热(食品用明胶入A23J 1/10)" Target="frmContent" Href="../searchservlet?query=C09H3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09H3/00">
+    <TreeNode Title="C09H3/02 #明胶溶液的精制" Target="frmContent" Href="../searchservlet?query=C09H3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09H3/02"/>
+  </TreeNode>
+  <TreeNode Title="C09H5/00 动物胶或明胶溶液的稳定" Target="frmContent" Href="../searchservlet?query=C09H5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09H5/00"/>
+  <TreeNode Title="C09H7/00 水不溶的明胶的制备" Target="frmContent" Href="../searchservlet?query=C09H7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09H7/00"/>
+  <TreeNode Title="C09H9/00 动物胶或明胶的干燥" Target="frmContent" Href="../searchservlet?query=C09H9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09H9/00">
+    <TreeNode Title="C09H9/02 #成薄片状" Target="frmContent" Href="../searchservlet?query=C09H9/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09H9/02"/>
+    <TreeNode Title="C09H9/04 #成颗粒状，如珠粒状" Target="frmContent" Href="../searchservlet?query=C09H9/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09H9/04"/>
+  </TreeNode>
+</Root>

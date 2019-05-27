@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="H04J1/00 频分多路复用系统(H04J 14/02优先)[5]" Target="frmContent" Href="../searchservlet?query=H04J1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04J1/00">
+    <TreeNode Title="H04J1/02 #零部件" Target="frmContent" Href="../searchservlet?query=H04J1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04J1/02">
+      <TreeNode Title="H04J1/04 ##频率变换装置" Target="frmContent" Href="../searchservlet?query=H04J1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04J1/04">
+        <TreeNode Title="H04J1/05 ###应用数字技术的[3]" Target="frmContent" Href="../searchservlet?query=H04J1/05&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04J1/05"/>
+      </TreeNode>
+      <TreeNode Title="H04J1/06 ##提供载波的装置" Target="frmContent" Href="../searchservlet?query=H04J1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04J1/06"/>
+      <TreeNode Title="H04J1/08 ##信道合并装置" Target="frmContent" Href="../searchservlet?query=H04J1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04J1/08"/>
+      <TreeNode Title="H04J1/10 ##中间站装置，例如分路用或分接用" Target="frmContent" Href="../searchservlet?query=H04J1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04J1/10"/>
+      <TreeNode Title="H04J1/12 ##减少信道间串音的装置" Target="frmContent" Href="../searchservlet?query=H04J1/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04J1/12"/>
+      <TreeNode Title="H04J1/14 ##提供呼叫或监视信号的装置" Target="frmContent" Href="../searchservlet?query=H04J1/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04J1/14"/>
+      <TreeNode Title="H04J1/16 ##监控装置" Target="frmContent" Href="../searchservlet?query=H04J1/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04J1/16"/>
+    </TreeNode>
+    <TreeNode Title="H04J1/18 #其中所有载波都是调幅的(H04J 1/02优先)[3]" Target="frmContent" Href="../searchservlet?query=H04J1/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04J1/18"/>
+    <TreeNode Title="H04J1/20 #其中至少有1个载波是调角的(H04J 1/02优先)[3]" Target="frmContent" Href="../searchservlet?query=H04J1/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04J1/20"/>
+  </TreeNode>
+  <TreeNode Title="H04J3/00 时分多路复用系统(H04J 14/08优先)[4，5]" Target="frmContent" Href="../searchservlet?query=H04J3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04J3/00">
+    <TreeNode Title="H04J3/02 #零部件" Target="frmContent" Href="../searchservlet?query=H04J3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04J3/02">
+      <TreeNode Title="H04J3/04 ##与调制器或解调器相结合的分配器" Target="frmContent" Href="../searchservlet?query=H04J3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04J3/04"/>
+      <TreeNode Title="H04J3/06 ##同步装置" Target="frmContent" Href="../searchservlet?query=H04J3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04J3/06">
+        <TreeNode Title="H04J3/07 ###对具有不同的或波动的信息速率的系统使用脉冲填充[3]" Target="frmContent" Href="../searchservlet?query=H04J3/07&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04J3/07"/>
+      </TreeNode>
+      <TreeNode Title="H04J3/08 ##中间站装置，例如分路用或分接用" Target="frmContent" Href="../searchservlet?query=H04J3/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04J3/08"/>
+      <TreeNode Title="H04J3/10 ##减少信道间串音的设备" Target="frmContent" Href="../searchservlet?query=H04J3/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04J3/10"/>
+      <TreeNode Title="H04J3/12 ##提供呼叫或监视信号的装置" Target="frmContent" Href="../searchservlet?query=H04J3/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04J3/12"/>
+      <TreeNode Title="H04J3/14 ##监控设备" Target="frmContent" Href="../searchservlet?query=H04J3/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04J3/14"/>
+    </TreeNode>
+    <TreeNode Title="H04J3/16 #其中在1个传输周期内，各个信道的时间分配是可变的，例如调节改变信号的合成、改变传送信道的数目(H04J 3/17，H04J 3/24优先)[4]" Target="frmContent" Href="../searchservlet?query=H04J3/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04J3/16"/>
+    <TreeNode Title="H04J3/17 #其中如果第一个用户暂时不用，可将分配给第一个用户的传输信道撤销而重新分配给第二个用户，例如TASI(话音插空技术)[4]" Target="frmContent" Href="../searchservlet?query=H04J3/17&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04J3/17"/>
+    <TreeNode Title="H04J3/18 #对各信号应用频率压缩然后进行频率扩展" Target="frmContent" Href="../searchservlet?query=H04J3/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04J3/18"/>
+    <TreeNode Title="H04J3/20 #应用谐振转移[2]" Target="frmContent" Href="../searchservlet?query=H04J3/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04J3/20"/>
+    <TreeNode Title="H04J3/22 #其中信号源具有不同的速率或代码[4]" Target="frmContent" Href="../searchservlet?query=H04J3/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04J3/22"/>
+    <TreeNode Title="H04J3/24 #其中按地址分配(H04J 3/17优先)[4]" Target="frmContent" Href="../searchservlet?query=H04J3/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04J3/24">
+      <TreeNode Title="H04J3/26 ##其中信息和地址同时传送[4]" Target="frmContent" Href="../searchservlet?query=H04J3/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04J3/26"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="H04J4/00 时分和频分相结合的多路复用系统(H04J 13/00优先)[2]" Target="frmContent" Href="../searchservlet?query=H04J4/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04J4/00"/>
+  <TreeNode Title="H04J7/00 以各信道信号的幅度或持续时间为这些信道特征的多路复用系统" Target="frmContent" Href="../searchservlet?query=H04J7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04J7/00">
+    <TreeNode Title="H04J7/02 #其中以幅度的极性为其特征的" Target="frmContent" Href="../searchservlet?query=H04J7/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04J7/02"/>
+  </TreeNode>
+  <TreeNode Title="H04J9/00 以载波的不同调制类型代表各信道的多路复用系统" Target="frmContent" Href="../searchservlet?query=H04J9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04J9/00"/>
+  <TreeNode Title="H04J11/00 正交多路复用系统(H04J 13/00优先)[2]" Target="frmContent" Href="../searchservlet?query=H04J11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04J11/00"/>
+  <TreeNode Title="H04J13/00 码分多路复用系统(利用跳频的入H04B 1/713)[2,2011.01]" Target="frmContent" Href="../searchservlet?query=H04J13/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04J13/00">
+    <TreeNode Title="H04J13/10 #码生成[2011.01 ]" Target="frmContent" Href="../searchservlet?query=H04J13/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04J13/10">
+      <TreeNode Title="H04J13/12 ##正交码的生成[2011.01 ]" Target="frmContent" Href="../searchservlet?query=H04J13/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04J13/12"/>
+      <TreeNode Title="H04J13/14 ##带有零相关区域的码的生成[2011.01 ]" Target="frmContent" Href="../searchservlet?query=H04J13/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04J13/14"/>
+    </TreeNode>
+    <TreeNode Title="H04J13/16 #码分配[2011.01 ]" Target="frmContent" Href="../searchservlet?query=H04J13/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04J13/16">
+      <TreeNode Title="H04J13/18 ##正交码的分配[2011.01 ]" Target="frmContent" Href="../searchservlet?query=H04J13/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04J13/18">
+        <TreeNode Title="H04J13/20 ###具有正交的可变扩频因子[OVSF][2011.01 ]" Target="frmContent" Href="../searchservlet?query=H04J13/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04J13/20"/>
+      </TreeNode>
+      <TreeNode Title="H04J13/22 ##带有零相关区域的码的分配[2011.01 ]" Target="frmContent" Href="../searchservlet?query=H04J13/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04J13/22"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="H04J14/00 光多路复用系统[5]" Target="frmContent" Href="../searchservlet?query=H04J14/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04J14/00">
+    <TreeNode Title="H04J14/02 #波分复用系统[5]" Target="frmContent" Href="../searchservlet?query=H04J14/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04J14/02"/>
+    <TreeNode Title="H04J14/04 #模复用系统[5]" Target="frmContent" Href="../searchservlet?query=H04J14/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04J14/04"/>
+    <TreeNode Title="H04J14/06 #偏振复用系统[5]" Target="frmContent" Href="../searchservlet?query=H04J14/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04J14/06"/>
+    <TreeNode Title="H04J14/08 #时分复用系统[5]" Target="frmContent" Href="../searchservlet?query=H04J14/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04J14/08"/>
+  </TreeNode>
+  <TreeNode Title="H04J99/00 本小类其他各组中不包括的技术主题[2009.01]" Target="frmContent" Href="../searchservlet?query=H04J99/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04J99/00"/>
+</Root>

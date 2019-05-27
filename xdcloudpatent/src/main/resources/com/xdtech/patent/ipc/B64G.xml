@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="B64G1/00 宇宙航行的飞行器[3]" Target="frmContent" Href="../searchservlet?query=B64G1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B64G1/00">
+    <TreeNode Title="B64G1/10 # 人造卫星；人造卫星的系统，星际的飞行器(航天飞机入B64G 1/14；利用卫星的无线电传输系统入H04B 7/185)" Target="frmContent" Href="../searchservlet?query=B64G1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B64G1/10">
+      <TreeNode Title="B64G1/12 ##载人的[3]" Target="frmContent" Href="../searchservlet?query=B64G1/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B64G1/12"/>
+    </TreeNode>
+    <TreeNode Title="B64G1/14 # 航天飞机[3]" Target="frmContent" Href="../searchservlet?query=B64G1/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B64G1/14"/>
+    <TreeNode Title="B64G1/16 # 地外车(陆地车辆方面入B60至B62)[3]" Target="frmContent" Href="../searchservlet?query=B64G1/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B64G1/16"/>
+    <TreeNode Title="B64G1/22 # 宇宙航行飞行器的部件或专门适用于装入或装到宇宙航行运载工具上的设备[3]" Target="frmContent" Href="../searchservlet?query=B64G1/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B64G1/22">
+      <TreeNode Title="B64G1/24 ##制导或控制装置，例如用于姿态控制的(喷气推进装置入F02K；导航或导航仪表，见有关小类，例如G01C；自动驾驶仪入G05D 1/00)[3]" Target="frmContent" Href="../searchservlet?query=B64G1/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B64G1/24">
+        <TreeNode Title="B64G1/26 ###利用射流的[3]" Target="frmContent" Href="../searchservlet?query=B64G1/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B64G1/26"/>
+        <TreeNode Title="B64G1/28 ###利用惯性或陀螺效应的[3]" Target="frmContent" Href="../searchservlet?query=B64G1/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B64G1/28"/>
+        <TreeNode Title="B64G1/32 ###利用地磁场的[3]" Target="frmContent" Href="../searchservlet?query=B64G1/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B64G1/32"/>
+        <TreeNode Title="B64G1/34 ###利用重力梯度的[3]" Target="frmContent" Href="../searchservlet?query=B64G1/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B64G1/34"/>
+        <TreeNode Title="B64G1/36 ###利用传感器的，例如太阳传感器，水平传感器[3]" Target="frmContent" Href="../searchservlet?query=B64G1/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B64G1/36"/>
+        <TreeNode Title="B64G1/38 ###振荡的阻尼，例如章动阻尼器[3]" Target="frmContent" Href="../searchservlet?query=B64G1/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B64G1/38"/>
+      </TreeNode>
+      <TreeNode Title="B64G1/40 ##推进系统的布置或配置(B64G 1/26优先；推进装置本身见有关小类，例如F02K，F03H)[3]" Target="frmContent" Href="../searchservlet?query=B64G1/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B64G1/40"/>
+      <TreeNode Title="B64G1/42 ##动力供给系统的布置或配置(动力供给系统本身见有关小类)[3]" Target="frmContent" Href="../searchservlet?query=B64G1/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B64G1/42">
+        <TreeNode Title="B64G1/44 ###利用辐射的，例如可展开的太阳能电池组(太阳能电池本身入H01L 31/00)[3]" Target="frmContent" Href="../searchservlet?query=B64G1/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B64G1/44"/>
+      </TreeNode>
+      <TreeNode Title="B64G1/46 ##用于环境或生活条件控制的装置布置或配置(航天服入B64G 6/00)[3]" Target="frmContent" Href="../searchservlet?query=B64G1/46&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B64G1/46">
+        <TreeNode Title="B64G1/48 ###用于大气的处理(B64G 1/50优先；一般空气调节入F24F)[3]" Target="frmContent" Href="../searchservlet?query=B64G1/48&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B64G1/48"/>
+        <TreeNode Title="B64G1/50 ###用于温度控制的(一般温度控制入G05D 23/00)[3]" Target="frmContent" Href="../searchservlet?query=B64G1/50&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B64G1/50"/>
+      </TreeNode>
+      <TreeNode Title="B64G1/52 ##防护，安全或应急装置；救生辅助设备(一般救生入A62)[3]" Target="frmContent" Href="../searchservlet?query=B64G1/52&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B64G1/52">
+        <TreeNode Title="B64G1/54 ###防辐射装置(一般防辐射装置入G21F)[3]" Target="frmContent" Href="../searchservlet?query=B64G1/54&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B64G1/54"/>
+        <TreeNode Title="B64G1/56 ###防陨星装置(陨星检测器入B64G 1/68)[3]" Target="frmContent" Href="../searchservlet?query=B64G1/56&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B64G1/56"/>
+        <TreeNode Title="B64G1/58 ###防热装置，例如隔热屏(一般隔热入F16L 59/00；化学方面见有关类)[3]" Target="frmContent" Href="../searchservlet?query=B64G1/58&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B64G1/58"/>
+      </TreeNode>
+      <TreeNode Title="B64G1/60 ##航天员或乘客用具[3]" Target="frmContent" Href="../searchservlet?query=B64G1/60&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B64G1/60"/>
+      <TreeNode Title="B64G1/62 ##用于返回地球大气层的系统:减速或着陆装置[3]" Target="frmContent" Href="../searchservlet?query=B64G1/62&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B64G1/62"/>
+      <TreeNode Title="B64G1/64 ##用于连接或脱开宇宙航行的飞行器或其部件，例如对接装置[3]" Target="frmContent" Href="../searchservlet?query=B64G1/64&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B64G1/64"/>
+      <TreeNode Title="B64G1/66 ##其他类目不包括的设备或仪器的布置或配置(仪器本身见有关类，例如卫星中使用的天线入H01Q 1/28)[3]" Target="frmContent" Href="../searchservlet?query=B64G1/66&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B64G1/66">
+        <TreeNode Title="B64G1/68 ###陨星检测器的[3]" Target="frmContent" Href="../searchservlet?query=B64G1/68&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B64G1/68"/>
+      </TreeNode>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="B64G3/00 宇宙航行飞行器的观测或跟踪(用于导航或跟踪的无线电系统或模拟波系统入G01S)" Target="frmContent" Href="../searchservlet?query=B64G3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B64G3/00"/>
+  <TreeNode Title="B64G4/00 专门适用于在宇宙空间使用的工具[3]" Target="frmContent" Href="../searchservlet?query=B64G4/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B64G4/00"/>
+  <TreeNode Title="B64G5/00 用于飞行器的地面设备，例如起动塔、燃料加注装置(B64G 3/00优先)" Target="frmContent" Href="../searchservlet?query=B64G5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B64G5/00"/>
+  <TreeNode Title="B64G6/00 航天服[3]" Target="frmContent" Href="../searchservlet?query=B64G6/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B64G6/00"/>
+  <TreeNode Title="B64G7/00 宇宙航行条件的模拟装置，例如用于航天员的条件适应(用于教学或训练的模拟器入G09B 9/00)" Target="frmContent" Href="../searchservlet?query=B64G7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B64G7/00"/>
+  <TreeNode Title="B64G99/00 本小类其他各组中不包括的技术主题[2009.01]" Target="frmContent" Href="../searchservlet?query=B64G99/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B64G99/00"/>
+</Root>

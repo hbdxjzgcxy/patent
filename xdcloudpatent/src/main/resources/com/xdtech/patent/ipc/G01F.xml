@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="G01F1/00 测量连续通过仪表的流体或流动固体材料的流量或质量流量(测量流量比例入G01F 5/00；测量流速入G01P 5/00；指示流动存在或不存在入G01P 13/00；量或比率的调整入G05D)[2]" Target="frmContent" Href="../searchservlet?query=G01F1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F1/00">
+    <TreeNode Title="G01F1/05 #应用机械效应[2]" Target="frmContent" Href="../searchservlet?query=G01F1/05&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F1/05">
+      <TreeNode Title="G01F1/06 ##应用带有切向进料的旋转叶片[2]" Target="frmContent" Href="../searchservlet?query=G01F1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F1/06">
+        <TreeNode Title="G01F1/07 ###与指示装置具有机械联结的[2]" Target="frmContent" Href="../searchservlet?query=G01F1/07&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F1/07"/>
+        <TreeNode Title="G01F1/075 ###与指示装置具有磁或电磁耦合的[2]" Target="frmContent" Href="../searchservlet?query=G01F1/075&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F1/075"/>
+        <TreeNode Title="G01F1/08 ###调整、校正或其补偿装置[2]" Target="frmContent" Href="../searchservlet?query=G01F1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F1/08"/>
+      </TreeNode>
+      <TreeNode Title="G01F1/10 ##应用带有轴向进料的旋转叶片[2]" Target="frmContent" Href="../searchservlet?query=G01F1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F1/10">
+        <TreeNode Title="G01F1/11 ###与指示装置具有机械联结的[2]" Target="frmContent" Href="../searchservlet?query=G01F1/11&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F1/11"/>
+        <TreeNode Title="G01F1/115 ###与指示装置具有磁或电磁耦合的[2]" Target="frmContent" Href="../searchservlet?query=G01F1/115&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F1/115"/>
+        <TreeNode Title="G01F1/12 ###调整、校正或其补偿装置" Target="frmContent" Href="../searchservlet?query=G01F1/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F1/12"/>
+      </TreeNode>
+      <TreeNode Title="G01F1/20 ##通过检测流体流动的动力效应的[2]" Target="frmContent" Href="../searchservlet?query=G01F1/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F1/20">
+        <TreeNode Title="G01F1/22 ###应用可调截面的仪表[2]" Target="frmContent" Href="../searchservlet?query=G01F1/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F1/22">
+          <TreeNode Title="G01F1/24 ####与指示装置具有磁或电耦合[2]" Target="frmContent" Href="../searchservlet?query=G01F1/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F1/24"/>
+          <TreeNode Title="G01F1/26 ####阀式的[2]" Target="frmContent" Href="../searchservlet?query=G01F1/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F1/26"/>
+        </TreeNode>
+        <TreeNode Title="G01F1/28 ###应用曳力，例如叶片式或冲击式流量计[2]" Target="frmContent" Href="../searchservlet?query=G01F1/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F1/28">
+          <TreeNode Title="G01F1/30 ####用于流动的固体材料的[2]" Target="frmContent" Href="../searchservlet?query=G01F1/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F1/30"/>
+        </TreeNode>
+        <TreeNode Title="G01F1/32 ###应用旋涡流量计，例如，应用Karman涡旋器[2]" Target="frmContent" Href="../searchservlet?query=G01F1/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F1/32"/>
+      </TreeNode>
+      <TreeNode Title="G01F1/34 ##通过测量压力或压差[2]" Target="frmContent" Href="../searchservlet?query=G01F1/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F1/34">
+        <TreeNode Title="G01F1/36 ###应用流动收缩产生的压力或压差[2]" Target="frmContent" Href="../searchservlet?query=G01F1/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F1/36">
+          <TreeNode Title="G01F1/37 ####利用流体水平面可变动的连通管或容器测量压力或压差，例如，应用U型管[2]" Target="frmContent" Href="../searchservlet?query=G01F1/37&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F1/37"/>
+          <TreeNode Title="G01F1/38 ####利用可动元件例如薄膜、活塞、波登管或活动膜盒测量压力或压差[2]" Target="frmContent" Href="../searchservlet?query=G01F1/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F1/38"/>
+          <TreeNode Title="G01F1/40 ####流体收缩装置的结构零部件[2]" Target="frmContent" Href="../searchservlet?query=G01F1/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F1/40">
+            <TreeNode Title="G01F1/42 #####孔板或喷嘴[2]" Target="frmContent" Href="../searchservlet?query=G01F1/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F1/42"/>
+            <TreeNode Title="G01F1/44 #####文丘利管[2]" Target="frmContent" Href="../searchservlet?query=G01F1/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F1/44"/>
+            <TreeNode Title="G01F1/46 #####皮托管(测量流速专用的入G01P 5/165)[2]" Target="frmContent" Href="../searchservlet?query=G01F1/46&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F1/46"/>
+          </TreeNode>
+        </TreeNode>
+        <TreeNode Title="G01F1/48 ###用毛细管元件产生的压力或压差[2]" Target="frmContent" Href="../searchservlet?query=G01F1/48&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F1/48"/>
+        <TreeNode Title="G01F1/50 ###校正或补偿装置[2]" Target="frmContent" Href="../searchservlet?query=G01F1/50&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F1/50"/>
+      </TreeNode>
+      <TreeNode Title="G01F1/52 ##通过测量流体的流动的提升力而产生的液面高度[2]" Target="frmContent" Href="../searchservlet?query=G01F1/52&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F1/52"/>
+      <TreeNode Title="G01F1/54 ##利用放在液流中的并由液流带动的链、带或线[2]" Target="frmContent" Href="../searchservlet?query=G01F1/54&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F1/54"/>
+    </TreeNode>
+    <TreeNode Title="G01F1/56 #应用电或磁效应(G01F 1/66优先)[2]" Target="frmContent" Href="../searchservlet?query=G01F1/56&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F1/56">
+      <TreeNode Title="G01F1/58 ##应用电磁流量计[2]" Target="frmContent" Href="../searchservlet?query=G01F1/58&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F1/58">
+        <TreeNode Title="G01F1/60 ###其所用电路[2]" Target="frmContent" Href="../searchservlet?query=G01F1/60&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F1/60"/>
+      </TreeNode>
+      <TreeNode Title="G01F1/64 ##通过测量经过液流的电流；通过测量由液流产生的电位，例如，由电化学、接触或摩擦效应产生的(G01F 1/58优先)[2]" Target="frmContent" Href="../searchservlet?query=G01F1/64&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F1/64"/>
+    </TreeNode>
+    <TreeNode Title="G01F1/66 #通过测量电磁波或其他波的频率、相位移或传播时间，例如，超声波流量计[2]" Target="frmContent" Href="../searchservlet?query=G01F1/66&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F1/66"/>
+    <TreeNode Title="G01F1/68 #应用热效应[2]" Target="frmContent" Href="../searchservlet?query=G01F1/68&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F1/68">
+      <TreeNode Title="G01F1/684 ##结构配置；元件安装，例如与液流有关的[6]" Target="frmContent" Href="../searchservlet?query=G01F1/684&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F1/684">
+        <TreeNode Title="G01F1/688 ###利用特殊类型的加热、冷却或传感元件[6]" Target="frmContent" Href="../searchservlet?query=G01F1/688&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F1/688">
+          <TreeNode Title="G01F1/69 ####电阻型的[6]" Target="frmContent" Href="../searchservlet?query=G01F1/69&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F1/69">
+            <TreeNode Title="G01F1/692 #####薄膜配置[6]" Target="frmContent" Href="../searchservlet?query=G01F1/692&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F1/692"/>
+          </TreeNode>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="G01F1/696 ##其电路，例如恒流流量计[6]" Target="frmContent" Href="../searchservlet?query=G01F1/696&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F1/696">
+        <TreeNode Title="G01F1/698 ###反馈或再平衡电路，例如，自加热恒温流量计[6]" Target="frmContent" Href="../searchservlet?query=G01F1/698&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F1/698">
+          <TreeNode Title="G01F1/699 ####通过对单独的加热或冷却元件的控制[6]" Target="frmContent" Href="../searchservlet?query=G01F1/699&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F1/699"/>
+        </TreeNode>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="G01F1/704 #应用标记区域或液流内存在的不均匀性，例如应用一液体参数统计性地发生的变化(G01F 1/76，G01F 25/00优先)[4]" Target="frmContent" Href="../searchservlet?query=G01F1/704&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F1/704">
+      <TreeNode Title="G01F1/708 ##测量液流经过一固定距离需用的时间[4]" Target="frmContent" Href="../searchservlet?query=G01F1/708&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F1/708">
+        <TreeNode Title="G01F1/712 ###应用自相关或互相关检测方法(一般应用相关检测方法测量速度入G01P 3/80，G01P 5/22)[4]" Target="frmContent" Href="../searchservlet?query=G01F1/712&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F1/712"/>
+        <TreeNode Title="G01F1/716 ###应用电顺磁共振(EPR)或核磁共振(NMR)方法[4]" Target="frmContent" Href="../searchservlet?query=G01F1/716&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F1/716"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="G01F1/72 #测量脉动液流流量的装置[2]" Target="frmContent" Href="../searchservlet?query=G01F1/72&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F1/72"/>
+    <TreeNode Title="G01F1/74 #测量流体的流量或悬浮在其他流体中的流动固态材料的流量的装置[2]" Target="frmContent" Href="../searchservlet?query=G01F1/74&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F1/74"/>
+    <TreeNode Title="G01F1/76 #测量流体或流动固体材料质量流量的装置(流动时连续材料流的称重入G01G 11/00)[2]" Target="frmContent" Href="../searchservlet?query=G01F1/76&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F1/76">
+      <TreeNode Title="G01F1/78 ##直接式质量流量计[2]" Target="frmContent" Href="../searchservlet?query=G01F1/78&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F1/78">
+        <TreeNode Title="G01F1/80 ###靠测量赋予旋转运动的液流的压力、力、动量或频率操作的[2]" Target="frmContent" Href="../searchservlet?query=G01F1/80&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F1/80">
+          <TreeNode Title="G01F1/82 ####应用一驱动齿轮作为推进器，同时利用其他一个或多个在角度上受到一弹性件(例如弹簧)限制的齿轮或可动元件作为测量装置[2]" Target="frmContent" Href="../searchservlet?query=G01F1/82&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F1/82"/>
+          <TreeNode Title="G01F1/84 ####回转质量流量计[2]" Target="frmContent" Href="../searchservlet?query=G01F1/84&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F1/84"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="G01F1/86 ##间接式质量流量计，例如，测量流量、密度、温度或压力[2]" Target="frmContent" Href="../searchservlet?query=G01F1/86&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F1/86">
+        <TreeNode Title="G01F1/88 ###测量压差以确定流量[2]" Target="frmContent" Href="../searchservlet?query=G01F1/88&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F1/88"/>
+        <TreeNode Title="G01F1/90 ###用正位移流量计或涡轮流量计测定流量[2]" Target="frmContent" Href="../searchservlet?query=G01F1/90&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F1/90"/>
+      </TreeNode>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="G01F3/00 测量顺序地及多少有些断续地通过仪表并驱动仪表的流体或流动固体材料的流量(测量流量比例的入G01F 5/00)" Target="frmContent" Href="../searchservlet?query=G01F3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F3/00">
+    <TreeNode Title="G01F3/02 #使用测量时可伸缩的计量室" Target="frmContent" Href="../searchservlet?query=G01F3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F3/02">
+      <TreeNode Title="G01F3/04 ##有坚固的可活动的壁" Target="frmContent" Href="../searchservlet?query=G01F3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F3/04">
+        <TreeNode Title="G01F3/06 ###在罩壳内包含有以流体密封或基本上流体密封方式旋转部件的" Target="frmContent" Href="../searchservlet?query=G01F3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F3/06">
+          <TreeNode Title="G01F3/08 ####旋转活塞或环形活塞的测量计" Target="frmContent" Href="../searchservlet?query=G01F3/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F3/08"/>
+          <TreeNode Title="G01F3/10 ####齿轮或凸轮推进器的测量计" Target="frmContent" Href="../searchservlet?query=G01F3/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F3/10"/>
+          <TreeNode Title="G01F3/12 ####带章动元件的，例如，带圆盘的测量计" Target="frmContent" Href="../searchservlet?query=G01F3/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F3/12"/>
+        </TreeNode>
+        <TreeNode Title="G01F3/14 ###包含有往复作用活塞的，例如，在旋转体内往复的" Target="frmContent" Href="../searchservlet?query=G01F3/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F3/14">
+          <TreeNode Title="G01F3/16 ####在静止汽缸中的" Target="frmContent" Href="../searchservlet?query=G01F3/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F3/16">
+            <TreeNode Title="G01F3/18 #####包含两个或多个汽缸的" Target="frmContent" Href="../searchservlet?query=G01F3/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F3/18"/>
+          </TreeNode>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="G01F3/20 ##具有挠性可活动的箱壁，例如，膜片、波纹管式的(膜片和波纹管入G01F 15/16)" Target="frmContent" Href="../searchservlet?query=G01F3/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F3/20">
+        <TreeNode Title="G01F3/22 ###用于气体的" Target="frmContent" Href="../searchservlet?query=G01F3/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F3/22"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="G01F3/24 #使用操作时移动的计量室(湿气计入G01F 3/30)" Target="frmContent" Href="../searchservlet?query=G01F3/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F3/24">
+      <TreeNode Title="G01F3/26 ##带倾斜收集器的测量计" Target="frmContent" Href="../searchservlet?query=G01F3/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F3/26"/>
+      <TreeNode Title="G01F3/28 ##靠测量室内液体重量使载体旋转的" Target="frmContent" Href="../searchservlet?query=G01F3/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F3/28"/>
+    </TreeNode>
+    <TreeNode Title="G01F3/30 #湿气计" Target="frmContent" Href="../searchservlet?query=G01F3/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F3/30">
+      <TreeNode Title="G01F3/32 ##包含有在液体中旋转或垂动的隔断鼓状物的" Target="frmContent" Href="../searchservlet?query=G01F3/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F3/32"/>
+      <TreeNode Title="G01F3/34 ##包含有在液体中往复运动的钟形构件的" Target="frmContent" Href="../searchservlet?query=G01F3/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F3/34"/>
+    </TreeNode>
+    <TreeNode Title="G01F3/36 #使用测量时具有恒定容积的静止计量室的(测量时用可伸缩的计量室入G01F 3/02)" Target="frmContent" Href="../searchservlet?query=G01F3/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F3/36">
+      <TreeNode Title="G01F3/38 ##只有一个测量室的" Target="frmContent" Href="../searchservlet?query=G01F3/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F3/38"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="G01F5/00 测量流量的比例" Target="frmContent" Href="../searchservlet?query=G01F5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F5/00"/>
+  <TreeNode Title="G01F7/00 有两个或多个量程的流量计量装置；组合仪表" Target="frmContent" Href="../searchservlet?query=G01F7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F7/00"/>
+  <TreeNode Title="G01F9/00 测量相对于另一变量的流量，例如，发动机用的液体燃料的流量" Target="frmContent" Href="../searchservlet?query=G01F9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F9/00">
+    <TreeNode Title="G01F9/02 #其中另一变量为车辆的速度" Target="frmContent" Href="../searchservlet?query=G01F9/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F9/02"/>
+  </TreeNode>
+  <TreeNode Title="G01F11/00 在每一次重复的同样操作中，要求作外部操作的装置，适用于测量，并且从流源或容器分离出预定体积的流体或流动固体材料并输送出去但不考虑称重" Target="frmContent" Href="../searchservlet?query=G01F11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F11/00">
+    <TreeNode Title="G01F11/02 #使用测量时可伸缩的计量室" Target="frmContent" Href="../searchservlet?query=G01F11/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F11/02">
+      <TreeNode Title="G01F11/04 ##自由活塞式的" Target="frmContent" Href="../searchservlet?query=G01F11/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F11/04">
+        <TreeNode Title="G01F11/06 ###具有改变活塞冲程装置的" Target="frmContent" Href="../searchservlet?query=G01F11/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F11/06"/>
+      </TreeNode>
+      <TreeNode Title="G01F11/08 ##膜片或波纹管式的(其膜片或波纹管入G01F 15/16)" Target="frmContent" Href="../searchservlet?query=G01F11/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F11/08"/>
+    </TreeNode>
+    <TreeNode Title="G01F11/10 #使用操作时移动的计量室" Target="frmContent" Href="../searchservlet?query=G01F11/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F11/10">
+      <TreeNode Title="G01F11/12 ##阀式的，即由流体密封或粉末密封动作实现分离(含流源容器倾倒或倒置的入G01F 11/26)" Target="frmContent" Href="../searchservlet?query=G01F11/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F11/12">
+        <TreeNode Title="G01F11/14 ###其中计量室是往复的" Target="frmContent" Href="../searchservlet?query=G01F11/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F11/14">
+          <TreeNode Title="G01F11/16 ####液体或半液体用的" Target="frmContent" Href="../searchservlet?query=G01F11/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F11/16"/>
+          <TreeNode Title="G01F11/18 ####流动的固体材料用的" Target="frmContent" Href="../searchservlet?query=G01F11/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F11/18"/>
+        </TreeNode>
+        <TreeNode Title="G01F11/20 ###其中计量室是转动或振动的" Target="frmContent" Href="../searchservlet?query=G01F11/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F11/20">
+          <TreeNode Title="G01F11/22 ####液体或半液体用的" Target="frmContent" Href="../searchservlet?query=G01F11/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F11/22"/>
+          <TreeNode Title="G01F11/24 ####流动的固体材料用的" Target="frmContent" Href="../searchservlet?query=G01F11/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F11/24"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="G01F11/26 ##通过倾斜或倒置流源容器注满或倒空计量容器，例如瓶的倒空装置" Target="frmContent" Href="../searchservlet?query=G01F11/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F11/26"/>
+    </TreeNode>
+    <TreeNode Title="G01F11/28 #测量时具有恒定容量的静止计量室(测量时计量室可伸缩的入G01F 11/02)" Target="frmContent" Href="../searchservlet?query=G01F11/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F11/28">
+      <TreeNode Title="G01F11/30 ##有升液型或旋塞升液型供给和排放阀门的" Target="frmContent" Href="../searchservlet?query=G01F11/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F11/30">
+        <TreeNode Title="G01F11/32 ###液体或半液体用的" Target="frmContent" Href="../searchservlet?query=G01F11/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F11/32"/>
+        <TreeNode Title="G01F11/34 ###流动的固体材料用的" Target="frmContent" Href="../searchservlet?query=G01F11/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F11/34"/>
+      </TreeNode>
+      <TreeNode Title="G01F11/36 ##有直线滑动式供给和排放阀门的" Target="frmContent" Href="../searchservlet?query=G01F11/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F11/36">
+        <TreeNode Title="G01F11/38 ###液体或半液体用的" Target="frmContent" Href="../searchservlet?query=G01F11/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F11/38"/>
+        <TreeNode Title="G01F11/40 ###流动的固体材料用的" Target="frmContent" Href="../searchservlet?query=G01F11/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F11/40"/>
+      </TreeNode>
+      <TreeNode Title="G01F11/42 ##有旋转或振动式供给和排放阀门的" Target="frmContent" Href="../searchservlet?query=G01F11/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F11/42">
+        <TreeNode Title="G01F11/44 ###液体或半液体用的" Target="frmContent" Href="../searchservlet?query=G01F11/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F11/44"/>
+        <TreeNode Title="G01F11/46 ###流动的固体材料用的" Target="frmContent" Href="../searchservlet?query=G01F11/46&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F11/46"/>
+      </TreeNode>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="G01F13/00 未列入以上各组的借助容量进行测量和输送流体或流动固体材料的仪表" Target="frmContent" Href="../searchservlet?query=G01F13/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F13/00"/>
+  <TreeNode Title="G01F15/00 用于组G01F 1/00至G01F 13/00范围的零部件或仪器的，但不专用于其中特定类型仪器的零件或附件" Target="frmContent" Href="../searchservlet?query=G01F15/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F15/00">
+    <TreeNode Title="G01F15/02 #压力、密度、温度变化的补偿或校正" Target="frmContent" Href="../searchservlet?query=G01F15/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F15/02">
+      <TreeNode Title="G01F15/04 ##测量气体用的" Target="frmContent" Href="../searchservlet?query=G01F15/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F15/04"/>
+    </TreeNode>
+    <TreeNode Title="G01F15/06 #指示或记录装置，例如，用于远距离指示" Target="frmContent" Href="../searchservlet?query=G01F15/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F15/06"/>
+    <TreeNode Title="G01F15/07 #总流量的累计，例如，应用机械操作的累计机构的[2]" Target="frmContent" Href="../searchservlet?query=G01F15/07&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F15/07">
+      <TreeNode Title="G01F15/075 ##应用电操作的累计机构[2]" Target="frmContent" Href="../searchservlet?query=G01F15/075&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F15/075"/>
+    </TreeNode>
+    <TreeNode Title="G01F15/08 #与液体流量计组合的空气或气体分离器；与气体流量计组合的液体分离器" Target="frmContent" Href="../searchservlet?query=G01F15/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F15/08"/>
+    <TreeNode Title="G01F15/10 #防止由于冻结或过压力以及压力不足引起损坏的" Target="frmContent" Href="../searchservlet?query=G01F15/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F15/10"/>
+    <TreeNode Title="G01F15/12 #清洁装置；过滤器(一般过滤器入B01D)" Target="frmContent" Href="../searchservlet?query=G01F15/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F15/12"/>
+    <TreeNode Title="G01F15/14 #箱子，例如特殊材料的" Target="frmContent" Href="../searchservlet?query=G01F15/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F15/14"/>
+    <TreeNode Title="G01F15/16 #膜片；波纹管；及其安装件" Target="frmContent" Href="../searchservlet?query=G01F15/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F15/16"/>
+    <TreeNode Title="G01F15/18 #仪表的支架或连接装置" Target="frmContent" Href="../searchservlet?query=G01F15/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F15/18"/>
+  </TreeNode>
+  <TreeNode Title="G01F17/00 用于测定容器或空腔的容量，或用于测定固体体积的方法或设备(测量线性尺寸以确定体积的入G01B)" Target="frmContent" Href="../searchservlet?query=G01F17/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F17/00"/>
+  <TreeNode Title="G01F19/00 用于流体或流动固体材料的标定容量的测量，例如量杯" Target="frmContent" Href="../searchservlet?query=G01F19/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F19/00"/>
+  <TreeNode Title="G01F22/00 未列入其他类目的用于测量流体或流动固体材料的体积的方法或设备[5]" Target="frmContent" Href="../searchservlet?query=G01F22/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F22/00">
+    <TreeNode Title="G01F22/02 #包含压力的测量[5]" Target="frmContent" Href="../searchservlet?query=G01F22/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F22/02"/>
+  </TreeNode>
+  <TreeNode Title="G01F23/00 液体液面或流动的固态材料料面的指示或测量，例如，用容积指示，应用报警装置的指示(井下计量入E21B 47/04；适用于蒸汽锅炉或固定在它上面的入F22B 37/78；液面调节入G05D；报警装置入G08B)" Target="frmContent" Href="../searchservlet?query=G01F23/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F23/00">
+    <TreeNode Title="G01F23/02 #应用玻璃液位计或其他带有小窗口或透明管可直接观察被测液面或直接观察与液体主体自由连通的液柱的仪表" Target="frmContent" Href="../searchservlet?query=G01F23/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F23/02"/>
+    <TreeNode Title="G01F23/04 #应用倾斜构件，例如，倾斜杆" Target="frmContent" Href="../searchservlet?query=G01F23/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F23/04"/>
+    <TreeNode Title="G01F23/14 #通过测量压力(一般压力测量入G01L)" Target="frmContent" Href="../searchservlet?query=G01F23/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F23/14">
+      <TreeNode Title="G01F23/16 ##依靠机械或流体装置而运转的指示，记录或报警装置，例如，应用气体、水银或膜片作为传递元件，或用液柱" Target="frmContent" Href="../searchservlet?query=G01F23/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F23/16"/>
+      <TreeNode Title="G01F23/18 ##电操作的指示、记录或报警装置" Target="frmContent" Href="../searchservlet?query=G01F23/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F23/18"/>
+    </TreeNode>
+    <TreeNode Title="G01F23/20 #通过重量的计量，例如，测定贮存的液化气体的液面(一般称量入G01G)" Target="frmContent" Href="../searchservlet?query=G01F23/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F23/20"/>
+    <TreeNode Title="G01F23/22 #通过测量除线性尺寸、压力或重量以外的其他与被测液面有关的物理变量，例如，通过测量蒸汽或水传热的差异(含浮标的应用入G01F 23/30)" Target="frmContent" Href="../searchservlet?query=G01F23/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F23/22">
+      <TreeNode Title="G01F23/24 ##通过测量由于电阻器与导电流体接触产生的电阻变化" Target="frmContent" Href="../searchservlet?query=G01F23/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F23/24"/>
+      <TreeNode Title="G01F23/26 ##通过测量由于液体或流动的固态材料处于电场或电磁场中所引起的电容器或电感器的电容或电感的变化" Target="frmContent" Href="../searchservlet?query=G01F23/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F23/26"/>
+      <TreeNode Title="G01F23/28 ##通过测量直接施加到液体或流动的固态材料上的电磁波或声波参数的变化[6]" Target="frmContent" Href="../searchservlet?query=G01F23/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F23/28">
+        <TreeNode Title="G01F23/284 ###电磁波[6]" Target="frmContent" Href="../searchservlet?query=G01F23/284&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F23/284">
+          <TreeNode Title="G01F23/288 ####X射线；γ射线[6]" Target="frmContent" Href="../searchservlet?query=G01F23/288&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F23/288"/>
+          <TreeNode Title="G01F23/292 ####光[6]" Target="frmContent" Href="../searchservlet?query=G01F23/292&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F23/292"/>
+        </TreeNode>
+        <TreeNode Title="G01F23/296 ###声波[6]" Target="frmContent" Href="../searchservlet?query=G01F23/296&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F23/296"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="G01F23/30 #通过浮标(浮标操作的开关本身入H01H 35/18)[4]" Target="frmContent" Href="../searchservlet?query=G01F23/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F23/30">
+      <TreeNode Title="G01F23/32 ##用可转动的臂或其他可回转的传输元件[4]" Target="frmContent" Href="../searchservlet?query=G01F23/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F23/32">
+        <TreeNode Title="G01F23/34 ###用机械操作的指示装置[4]" Target="frmContent" Href="../searchservlet?query=G01F23/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F23/34"/>
+        <TreeNode Title="G01F23/36 ###用电气操作的指示装置[4]" Target="frmContent" Href="../searchservlet?query=G01F23/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F23/36"/>
+        <TreeNode Title="G01F23/38 ###用磁性操作的指示装置[4]" Target="frmContent" Href="../searchservlet?query=G01F23/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F23/38"/>
+      </TreeNode>
+      <TreeNode Title="G01F23/40 ##应用带或线作为传输元件[4]" Target="frmContent" Href="../searchservlet?query=G01F23/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F23/40">
+        <TreeNode Title="G01F23/42 ###用机械操作的指示装置[4]" Target="frmContent" Href="../searchservlet?query=G01F23/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F23/42"/>
+        <TreeNode Title="G01F23/44 ###用电气操作的指示装置[4]" Target="frmContent" Href="../searchservlet?query=G01F23/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F23/44"/>
+        <TreeNode Title="G01F23/46 ###用磁性操作的指示装置[4]" Target="frmContent" Href="../searchservlet?query=G01F23/46&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F23/46"/>
+      </TreeNode>
+      <TreeNode Title="G01F23/48 ##利用扭曲轴作为传输元件[4]" Target="frmContent" Href="../searchservlet?query=G01F23/48&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F23/48">
+        <TreeNode Title="G01F23/50 ###利用机械操作的指示装置[4]" Target="frmContent" Href="../searchservlet?query=G01F23/50&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F23/50"/>
+        <TreeNode Title="G01F23/52 ###利用电气操作的指示装置[4]" Target="frmContent" Href="../searchservlet?query=G01F23/52&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F23/52"/>
+        <TreeNode Title="G01F23/54 ###利用磁性操作的指示装置[4]" Target="frmContent" Href="../searchservlet?query=G01F23/54&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F23/54"/>
+      </TreeNode>
+      <TreeNode Title="G01F23/56 ##利用与浮标刚性紧固并随其直线运动的元件作为传输元件[4]" Target="frmContent" Href="../searchservlet?query=G01F23/56&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F23/56">
+        <TreeNode Title="G01F23/58 ###利用机械操作的指示装置[4]" Target="frmContent" Href="../searchservlet?query=G01F23/58&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F23/58"/>
+        <TreeNode Title="G01F23/60 ###利用电气操作的指示装置[4]" Target="frmContent" Href="../searchservlet?query=G01F23/60&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F23/60"/>
+        <TreeNode Title="G01F23/62 ###利用磁性操作的指示装置[4]" Target="frmContent" Href="../searchservlet?query=G01F23/62&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F23/62"/>
+      </TreeNode>
+      <TreeNode Title="G01F23/64 ##利用自由浮动式的[4]" Target="frmContent" Href="../searchservlet?query=G01F23/64&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F23/64">
+        <TreeNode Title="G01F23/66 ###利用机械操作的指示装置[4]" Target="frmContent" Href="../searchservlet?query=G01F23/66&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F23/66"/>
+        <TreeNode Title="G01F23/68 ###利用电气操作的指示装置[4]" Target="frmContent" Href="../searchservlet?query=G01F23/68&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F23/68">
+          <TreeNode Title="G01F23/70 ####仅在不连续的点上检测液面变化的[4]" Target="frmContent" Href="../searchservlet?query=G01F23/70&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F23/70"/>
+        </TreeNode>
+        <TreeNode Title="G01F23/72 ###利用磁性操作的指示装置[4]" Target="frmContent" Href="../searchservlet?query=G01F23/72&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F23/72">
+          <TreeNode Title="G01F23/74 ####仅在不连续的点上检测液面变化的[4]" Target="frmContent" Href="../searchservlet?query=G01F23/74&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F23/74"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="G01F23/76 ##特征在于浮标的结构的[4]" Target="frmContent" Href="../searchservlet?query=G01F23/76&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F23/76"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="G01F25/00 用于测量容量、流量、液面或借助容积进行计量的仪表设备的检定或校正" Target="frmContent" Href="../searchservlet?query=G01F25/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01F25/00"/>
+</Root>

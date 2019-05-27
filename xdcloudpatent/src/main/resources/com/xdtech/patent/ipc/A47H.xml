@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="A47H1/00 悬挂帘的装置" Target="frmContent" Href="../searchservlet?query=A47H1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47H1/00">
+    <TreeNode Title="A47H1/02 #帘架" Target="frmContent" Href="../searchservlet?query=A47H1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47H1/02">
+      <TreeNode Title="A47H1/022 ##能伸缩的" Target="frmContent" Href="../searchservlet?query=A47H1/022&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47H1/022"/>
+      <TreeNode Title="A47H1/03 ##装在枢轴上与门或窗一起旋转的" Target="frmContent" Href="../searchservlet?query=A47H1/03&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47H1/03"/>
+    </TreeNode>
+    <TreeNode Title="A47H1/04 #帘轨" Target="frmContent" Href="../searchservlet?query=A47H1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47H1/04">
+      <TreeNode Title="A47H1/06 ##固定式的" Target="frmContent" Href="../searchservlet?query=A47H1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47H1/06"/>
+      <TreeNode Title="A47H1/08 ##能伸缩的" Target="frmContent" Href="../searchservlet?query=A47H1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47H1/08"/>
+    </TreeNode>
+    <TreeNode Title="A47H1/10 #安装帘架或帘轨的装置" Target="frmContent" Href="../searchservlet?query=A47H1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47H1/10">
+      <TreeNode Title="A47H1/102 ##安装帘架用的(A47H 1/12，A47H 1/14优先)" Target="frmContent" Href="../searchservlet?query=A47H1/102&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47H1/102"/>
+      <TreeNode Title="A47H1/104 ##安装帘轨用的(A47H 1/12，A47H 1/14优先)" Target="frmContent" Href="../searchservlet?query=A47H1/104&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47H1/104"/>
+      <TreeNode Title="A47H1/12 ##可调节的" Target="frmContent" Href="../searchservlet?query=A47H1/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47H1/12">
+        <TreeNode Title="A47H1/122 ###调节帘架用的" Target="frmContent" Href="../searchservlet?query=A47H1/122&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47H1/122"/>
+        <TreeNode Title="A47H1/124 ###调节帘轨用的" Target="frmContent" Href="../searchservlet?query=A47H1/124&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47H1/124"/>
+      </TreeNode>
+      <TreeNode Title="A47H1/13 ##卷轴式窗帘和拉起式窗帘的托架或可调装置" Target="frmContent" Href="../searchservlet?query=A47H1/13&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47H1/13"/>
+      <TreeNode Title="A47H1/14 ##支撑帘架或帘轨的托架" Target="frmContent" Href="../searchservlet?query=A47H1/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47H1/14">
+        <TreeNode Title="A47H1/142 ###支撑帘架用的" Target="frmContent" Href="../searchservlet?query=A47H1/142&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47H1/142"/>
+        <TreeNode Title="A47H1/144 ###支撑帘轨用的" Target="frmContent" Href="../searchservlet?query=A47H1/144&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47H1/144"/>
+      </TreeNode>
+      <TreeNode Title="A47H1/16 ##由金属线制作的帘架的支架" Target="frmContent" Href="../searchservlet?query=A47H1/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47H1/16"/>
+    </TreeNode>
+    <TreeNode Title="A47H1/18 #其他挂帘装置，例如绳、金属丝" Target="frmContent" Href="../searchservlet?query=A47H1/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47H1/18">
+      <TreeNode Title="A47H1/19 ##安装金属丝、绳索等用的装置" Target="frmContent" Href="../searchservlet?query=A47H1/19&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47H1/19"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="A47H2/00 短帷幔或类似物" Target="frmContent" Href="../searchservlet?query=A47H2/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47H2/00">
+    <TreeNode Title="A47H2/02 #能伸缩的" Target="frmContent" Href="../searchservlet?query=A47H2/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47H2/02"/>
+  </TreeNode>
+  <TreeNode Title="A47H3/00 窗帘等的条带、绳索的紧固、夹持或导向装置" Target="frmContent" Href="../searchservlet?query=A47H3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47H3/00">
+    <TreeNode Title="A47H3/02 #供条带或绳索用的紧固、夹持或导向装置" Target="frmContent" Href="../searchservlet?query=A47H3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47H3/02">
+      <TreeNode Title="A47H3/04 ##绳索自动夹持器" Target="frmContent" Href="../searchservlet?query=A47H3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47H3/04"/>
+      <TreeNode Title="A47H3/06 ##绳索非自动夹持器" Target="frmContent" Href="../searchservlet?query=A47H3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47H3/06"/>
+      <TreeNode Title="A47H3/08 ##有两条绳索的帘的拉紧装置" Target="frmContent" Href="../searchservlet?query=A47H3/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47H3/08"/>
+      <TreeNode Title="A47H3/10 ##绳索导向器" Target="frmContent" Href="../searchservlet?query=A47H3/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47H3/10"/>
+      <TreeNode Title="A47H3/12 ##条带支架；条带卷轴；条带拉紧装置" Target="frmContent" Href="../searchservlet?query=A47H3/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47H3/12"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="A47H5/00 提拉帷幔、帘等用的装置" Target="frmContent" Href="../searchservlet?query=A47H5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47H5/00">
+    <TreeNode Title="A47H5/02 #窗帘的拉开和闭合装置" Target="frmContent" Href="../searchservlet?query=A47H5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47H5/02">
+      <TreeNode Title="A47H5/03 ##有导向器和推拉杆的装置" Target="frmContent" Href="../searchservlet?query=A47H5/03&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47H5/03"/>
+      <TreeNode Title="A47H5/032 ##有导向器和拉索的(绳索滑轮入A47H 11/06)" Target="frmContent" Href="../searchservlet?query=A47H5/032&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47H5/032"/>
+      <TreeNode Title="A47H5/04 ##有伸缩夹具的" Target="frmContent" Href="../searchservlet?query=A47H5/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47H5/04"/>
+      <TreeNode Title="A47H5/06 ##在帘架上或正轴上有螺纹的" Target="frmContent" Href="../searchservlet?query=A47H5/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47H5/06"/>
+    </TreeNode>
+    <TreeNode Title="A47H5/08 #提拉装在门或窗上帷幔的装置" Target="frmContent" Href="../searchservlet?query=A47H5/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47H5/08">
+      <TreeNode Title="A47H5/09 ##使帘离开门或窗的装置" Target="frmContent" Href="../searchservlet?query=A47H5/09&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47H5/09"/>
+    </TreeNode>
+    <TreeNode Title="A47H5/14 #落下帘幕等用的装置" Target="frmContent" Href="../searchservlet?query=A47H5/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47H5/14"/>
+  </TreeNode>
+  <TreeNode Title="A47H7/00 支撑和移动帘架的装置" Target="frmContent" Href="../searchservlet?query=A47H7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47H7/00">
+    <TreeNode Title="A47H7/02 #能降下的帘架" Target="frmContent" Href="../searchservlet?query=A47H7/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47H7/02"/>
+  </TreeNode>
+  <TreeNode Title="A47H11/00 窗帘绳索的辅助用具" Target="frmContent" Href="../searchservlet?query=A47H11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47H11/00">
+    <TreeNode Title="A47H11/02 #操纵窗帘绳索的啮合器" Target="frmContent" Href="../searchservlet?query=A47H11/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47H11/02"/>
+    <TreeNode Title="A47H11/04 #尾端附属物的夹具，如夹丝带用的" Target="frmContent" Href="../searchservlet?query=A47H11/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47H11/04"/>
+    <TreeNode Title="A47H11/06 #绳索滑轮" Target="frmContent" Href="../searchservlet?query=A47H11/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47H11/06"/>
+  </TreeNode>
+  <TreeNode Title="A47H13/00 帘架或帘轨上帘的紧固用具" Target="frmContent" Href="../searchservlet?query=A47H13/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47H13/00">
+    <TreeNode Title="A47H13/01 #用夹子；用附属于钩或环的夹子" Target="frmContent" Href="../searchservlet?query=A47H13/01&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47H13/01"/>
+    <TreeNode Title="A47H13/02 #用扣环，如有附加操纵器的(A47H 13/12优先)" Target="frmContent" Href="../searchservlet?query=A47H13/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47H13/02"/>
+    <TreeNode Title="A47H13/04 #用钩子，如有附加操纵器的(A47H 13/12优先，打褶条带专用的钩子入A47H 13/16)" Target="frmContent" Href="../searchservlet?query=A47H13/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47H13/04"/>
+    <TreeNode Title="A47H13/06 #用销栓的，如有附加操纵器的(A47H 13/12优先)" Target="frmContent" Href="../searchservlet?query=A47H13/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47H13/06"/>
+    <TreeNode Title="A47H13/10 #用轨道卷轴的" Target="frmContent" Href="../searchservlet?query=A47H13/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47H13/10"/>
+    <TreeNode Title="A47H13/12 #用轨道滑动器的" Target="frmContent" Href="../searchservlet?query=A47H13/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47H13/12"/>
+    <TreeNode Title="A47H13/14 #帘的成褶装置" Target="frmContent" Href="../searchservlet?query=A47H13/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47H13/14">
+      <TreeNode Title="A47H13/16 ##有褶的带子；有褶的带子专用的钩" Target="frmContent" Href="../searchservlet?query=A47H13/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47H13/16"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="A47H15/00 在帘架或拉杆上支撑窗帘用的操纵器或滑行器" Target="frmContent" Href="../searchservlet?query=A47H15/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47H15/00">
+    <TreeNode Title="A47H15/02 #操纵器" Target="frmContent" Href="../searchservlet?query=A47H15/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47H15/02"/>
+    <TreeNode Title="A47H15/04 #滑行器" Target="frmContent" Href="../searchservlet?query=A47H15/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47H15/04"/>
+  </TreeNode>
+  <TreeNode Title="A47H19/00 窗帘用花结形夹持器；有花饰的夹持器" Target="frmContent" Href="../searchservlet?query=A47H19/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47H19/00"/>
+  <TreeNode Title="A47H21/00 帘幕的遮护装置" Target="frmContent" Href="../searchservlet?query=A47H21/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47H21/00"/>
+  <TreeNode Title="A47H23/00 帘幕；有褶缀的帐帘(淋浴帘装置入A47K 3/38)" Target="frmContent" Href="../searchservlet?query=A47H23/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47H23/00">
+    <TreeNode Title="A47H23/01 #伸展吊幕的底杆；改进闭幕用的磁铁、滑动紧固器等" Target="frmContent" Href="../searchservlet?query=A47H23/01&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47H23/01"/>
+    <TreeNode Title="A47H23/02 #帘幕的外形；特殊帘幕材料的选择 [2]" Target="frmContent" Href="../searchservlet?query=A47H23/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47H23/02">
+      <TreeNode Title="A47H23/04 ##帘幕的形状" Target="frmContent" Href="../searchservlet?query=A47H23/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47H23/04">
+        <TreeNode Title="A47H23/05 ###链形或链状铠甲形的；自由垂挂的条带或薄板形的" Target="frmContent" Href="../searchservlet?query=A47H23/05&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47H23/05"/>
+        <TreeNode Title="A47H23/06 ###有两个或多个协同动作，前后按次悬吊的帘，具有透明的或孔眼的部件" Target="frmContent" Href="../searchservlet?query=A47H23/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47H23/06"/>
+      </TreeNode>
+      <TreeNode Title="A47H23/08 ##特殊材料的选择" Target="frmContent" Href="../searchservlet?query=A47H23/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47H23/08">
+        <TreeNode Title="A47H23/10 ###以塑料等物为材料的" Target="frmContent" Href="../searchservlet?query=A47H23/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47H23/10"/>
+        <TreeNode Title="A47H23/12 ###用纸或硬纸板为材料的" Target="frmContent" Href="../searchservlet?query=A47H23/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47H23/12"/>
+        <TreeNode Title="A47H23/14 ###以带有加固杆的织物为材料的，如用木杆加固的" Target="frmContent" Href="../searchservlet?query=A47H23/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47H23/14"/>
+      </TreeNode>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="A47H27/00 放花卉的箱、架子、夹子或类似支撑物(适宜放植物的窗入E06B 7/28)" Target="frmContent" Href="../searchservlet?query=A47H27/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47H27/00"/>
+  <TreeNode Title="A47H99/00 本小类其他各组中不包括的技术主题[2009.01]" Target="frmContent" Href="../searchservlet?query=A47H99/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47H99/00"/>
+</Root>

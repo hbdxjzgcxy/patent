@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="B28C1/00 获得或加工黏土的设备或方法(一般过滤入B01D；从固体中分离出固体入B03，B07；化学部分入C04B；采矿或采石入E21C 41/16，E21C 41/26，E21C 47/10)" Target="frmContent" Href="../searchservlet?query=B28C1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B28C1/00">
+    <TreeNode Title="B28C1/02 #生产或处理黏土悬浊液(一般生产或处理悬浊液的入B01)" Target="frmContent" Href="../searchservlet?query=B28C1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B28C1/02">
+      <TreeNode Title="B28C1/04 ##生产悬浊液，例如通过用水搅拌" Target="frmContent" Href="../searchservlet?query=B28C1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B28C1/04"/>
+      <TreeNode Title="B28C1/06 ##处理悬浊液" Target="frmContent" Href="../searchservlet?query=B28C1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B28C1/06">
+        <TreeNode Title="B28C1/08 ###离析悬浊液，例如用于获得黏土的，用于去除石块的(一般过滤入B01D；从固体中分离出固体入B03，B07)" Target="frmContent" Href="../searchservlet?query=B28C1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B28C1/08"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="B28C1/10 #在非流态情况下，处理含有黏土材料(黏土稀浆入B28C 1/02)" Target="frmContent" Href="../searchservlet?query=B28C1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B28C1/10">
+      <TreeNode Title="B28C1/12 ##贮存的保管和调节；专门适合于装填料或卸空料的贮存空间或装置(加黏土入成型装置入B28B 13/00)" Target="frmContent" Href="../searchservlet?query=B28C1/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B28C1/12"/>
+      <TreeNode Title="B28C1/14 ##专门适用于在非流态情况下均匀、破碎或调节黏土或离析不要的混合物的专用装置(包括使成稀浆的方法入B28C 1/02；贮存中的调节入B28C 1/12；一般破碎入B02C；清除铁或石灰方面的化学特征入C04B)" Target="frmContent" Href="../searchservlet?query=B28C1/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B28C1/14">
+        <TreeNode Title="B28C1/16 ###用于均匀的，例如靠搅拌、糅合" Target="frmContent" Href="../searchservlet?query=B28C1/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B28C1/16"/>
+        <TreeNode Title="B28C1/18 ###用于破碎的" Target="frmContent" Href="../searchservlet?query=B28C1/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B28C1/18"/>
+        <TreeNode Title="B28C1/20 ###用于离析不希望的混合物体的" Target="frmContent" Href="../searchservlet?query=B28C1/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B28C1/20"/>
+        <TreeNode Title="B28C1/22 ###与加热，增湿或真空处理的调节装置相结合的" Target="frmContent" Href="../searchservlet?query=B28C1/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B28C1/22"/>
+      </TreeNode>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="B28C3/00 黏土与其他材料拌合的设备或方法(生产黏土悬浊液入B28C 1/02；整套设备的一般布置或总体布置入B28C  9/00)" Target="frmContent" Href="../searchservlet?query=B28C3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B28C3/00"/>
+  <TreeNode Title="B28C5/00 制造水泥与其他材料混合物的设备或方法，例如与泥浆，砂浆，多孔的或纤维的合成材料混合的(搅拌装置的控制和配料的供应入B28C 7/00；整套设备的一般布置或总体布置入B28C 9/00)" Target="frmContent" Href="../searchservlet?query=B28C5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B28C5/00">
+    <TreeNode Title="B28C5/02 #实施搅拌的设备是没有机械驱动的(B28C 5/48优先)[5]" Target="frmContent" Href="../searchservlet?query=B28C5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B28C5/02">
+      <TreeNode Title="B28C5/04 ##重力搅拌；靠配料混合流动搅拌的(靠流体压力喷料的入B28C 5/06)" Target="frmContent" Href="../searchservlet?query=B28C5/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B28C5/04"/>
+      <TreeNode Title="B28C5/06 ##靠流体作用达到搅拌的(与机械驱动装置结合的入B28C 5/38)" Target="frmContent" Href="../searchservlet?query=B28C5/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B28C5/06"/>
+    </TreeNode>
+    <TreeNode Title="B28C5/08 #用机械驱动装置实施搅拌的(B28C 5/40，B28C 5/42，B28C 5/48优先；与流体作用相结合的入B28C 5/38)[5]" Target="frmContent" Href="../searchservlet?query=B28C5/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B28C5/08">
+      <TreeNode Title="B28C5/10 ##在不起搅拌作用的容器内搅拌" Target="frmContent" Href="../searchservlet?query=B28C5/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B28C5/10">
+        <TreeNode Title="B28C5/12 ###带扫料搅拌器的" Target="frmContent" Href="../searchservlet?query=B28C5/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B28C5/12">
+          <TreeNode Title="B28C5/14 ####具有绕水平或基本水平轴线运转的搅拌器" Target="frmContent" Href="../searchservlet?query=B28C5/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B28C5/14"/>
+          <TreeNode Title="B28C5/16 ####具有绕垂直或陡斜轴线运转的搅拌器" Target="frmContent" Href="../searchservlet?query=B28C5/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B28C5/16"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="B28C5/18 ##在容器中搅拌，传给容器以起搅拌作用的运动" Target="frmContent" Href="../searchservlet?query=B28C5/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B28C5/18">
+        <TreeNode Title="B28C5/20 ###搅拌时绕卧轴或大体水平的轴旋转的，例如不用单独的搅拌器" Target="frmContent" Href="../searchservlet?query=B28C5/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B28C5/20">
+          <TreeNode Title="B28C5/22 ####用固定搅拌器的" Target="frmContent" Href="../searchservlet?query=B28C5/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B28C5/22"/>
+          <TreeNode Title="B28C5/24 ####用机动搅拌器的" Target="frmContent" Href="../searchservlet?query=B28C5/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B28C5/24"/>
+        </TreeNode>
+        <TreeNode Title="B28C5/26 ###搅拌时绕立轴或陡斜轴旋转的" Target="frmContent" Href="../searchservlet?query=B28C5/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B28C5/26">
+          <TreeNode Title="B28C5/28 ####不用单独搅拌器的" Target="frmContent" Href="../searchservlet?query=B28C5/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B28C5/28"/>
+          <TreeNode Title="B28C5/30 ####用固定搅拌器的" Target="frmContent" Href="../searchservlet?query=B28C5/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B28C5/30"/>
+          <TreeNode Title="B28C5/32 ####用机动搅拌器的" Target="frmContent" Href="../searchservlet?query=B28C5/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B28C5/32"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="B28C5/34 ##在输送装置上或靠输送装置搅拌的" Target="frmContent" Href="../searchservlet?query=B28C5/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B28C5/34">
+        <TreeNode Title="B28C5/36 ###环带搅拌器" Target="frmContent" Href="../searchservlet?query=B28C5/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B28C5/36"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="B28C5/38 #其中既靠流体作用搅拌也靠机械装置驱动直接作用搅拌的装置，例如靠搅拌装置的" Target="frmContent" Href="../searchservlet?query=B28C5/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B28C5/38"/>
+    <TreeNode Title="B28C5/40 #专门适用于制备含有纤维材料混合料的搅拌" Target="frmContent" Href="../searchservlet?query=B28C5/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B28C5/40"/>
+    <TreeNode Title="B28C5/42 #专门适用于装在车上用于在运输时搅拌的装置(运输车辆方面入B60P 3/16)" Target="frmContent" Href="../searchservlet?query=B28C5/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B28C5/42"/>
+    <TreeNode Title="B28C5/44 #专门适用于人力带动的装置" Target="frmContent" Href="../searchservlet?query=B28C5/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B28C5/44"/>
+    <TreeNode Title="B28C5/46 #搅拌时用于施加超大气压或亚大气压的装置；搅拌时用于冷却或加热的装置" Target="frmContent" Href="../searchservlet?query=B28C5/46&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B28C5/46"/>
+    <TreeNode Title="B28C5/48 #其中搅拌是靠振动作用的(一般带振动机构的搅拌器入B01F 11/00)[5]" Target="frmContent" Href="../searchservlet?query=B28C5/48&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B28C5/48"/>
+  </TreeNode>
+  <TreeNode Title="B28C7/00 对制造黏土或水泥与其他材料混合料的设备的运行的控制；黏土或水泥与其他材料混合时配料的供料或配比；混合料的出料" Target="frmContent" Href="../searchservlet?query=B28C7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B28C7/00">
+    <TreeNode Title="B28C7/02 #搅拌运行的控制" Target="frmContent" Href="../searchservlet?query=B28C7/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B28C7/02"/>
+    <TreeNode Title="B28C7/04 #配料的供料或配比" Target="frmContent" Href="../searchservlet?query=B28C7/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B28C7/04">
+      <TreeNode Title="B28C7/06 ##供给固体配料，例如通过环形输送装置或振动输送装置" Target="frmContent" Href="../searchservlet?query=B28C7/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B28C7/06">
+        <TreeNode Title="B28C7/08 ###用刮料机或翻斗机的" Target="frmContent" Href="../searchservlet?query=B28C7/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B28C7/08"/>
+        <TreeNode Title="B28C7/10 ###用旋转部件的" Target="frmContent" Href="../searchservlet?query=B28C7/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B28C7/10"/>
+      </TreeNode>
+      <TreeNode Title="B28C7/12 ##液体配料的供给或配比" Target="frmContent" Href="../searchservlet?query=B28C7/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B28C7/12"/>
+    </TreeNode>
+    <TreeNode Title="B28C7/14 #加料装置与搅拌机结合或固定在搅拌机上" Target="frmContent" Href="../searchservlet?query=B28C7/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B28C7/14"/>
+    <TreeNode Title="B28C7/16 #出料装置" Target="frmContent" Href="../searchservlet?query=B28C7/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B28C7/16"/>
+  </TreeNode>
+  <TreeNode Title="B28C9/00 整套设备的一般布置或总体布置[2]" Target="frmContent" Href="../searchservlet?query=B28C9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B28C9/00">
+    <TreeNode Title="B28C9/02 #生产黏土或水泥与其他材料的混合料的[2]" Target="frmContent" Href="../searchservlet?query=B28C9/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B28C9/02"/>
+    <TreeNode Title="B28C9/04 #整套设备是可移动的(B28C 5/42优先)" Target="frmContent" Href="../searchservlet?query=B28C9/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B28C9/04"/>
+  </TreeNode>
+</Root>

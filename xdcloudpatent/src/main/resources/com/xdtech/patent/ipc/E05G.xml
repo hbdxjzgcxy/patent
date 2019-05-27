@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="E05G1/00 用来存放贵重物品的保险箱或保险库(储蓄箱入A45C 1/12；能浮动的保险箱入B63C 7/30；无防火防盗设备的贮藏室入B65D；一般的银行建筑，例如，单元结构、地板入E04H 1/06；抗震或防止战争破坏的建筑物入E04H 9/00)" Target="frmContent" Href="../searchservlet?query=E05G1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E05G1/00">
+    <TreeNode Title="E05G1/02 #部件(保险箱的铰链入E05D 7/14)" Target="frmContent" Href="../searchservlet?query=E05G1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E05G1/02">
+      <TreeNode Title="E05G1/024 ##墙或壁板结构[２]" Target="frmContent" Href="../searchservlet?query=E05G1/024&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E05G1/024"/>
+      <TreeNode Title="E05G1/026 ##闭合装置(防止空袭或其他战争破坏的保险门、窗或类似闭合装置入E06B 5/10；百叶窗移动式栅栏或其他安全闭合装置入E06B 9/02)[2]" Target="frmContent" Href="../searchservlet?query=E05G1/026&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E05G1/026"/>
+      <TreeNode Title="E05G1/04 ##闭合装置的固接件(锁入E05B)" Target="frmContent" Href="../searchservlet?query=E05G1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E05G1/04"/>
+    </TreeNode>
+    <TreeNode Title="E05G1/06 #具有用于多隔仓的设备[２]" Target="frmContent" Href="../searchservlet?query=E05G1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E05G1/06">
+      <TreeNode Title="E05G1/08 ##单独固定位的[２]" Target="frmContent" Href="../searchservlet?query=E05G1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E05G1/08"/>
+    </TreeNode>
+    <TreeNode Title="E05G1/10 #带有警报、信号或指示器的(防盗窃或侵袭的报警器本身入G08B 13/00；防火防爆报警器本身入G08B 17/00)[2]" Target="frmContent" Href="../searchservlet?query=E05G1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E05G1/10"/>
+    <TreeNode Title="E05G1/12 #带有释放产生，或撒布液体材料装置，例如，防水或灭火(E05G 1/14优先；用烟、气、粉末或液体来对盗贼或入侵者进行辨认、吓唬或使丧失能力入G08B 15/02)[2，6]" Target="frmContent" Href="../searchservlet?query=E05G1/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E05G1/12"/>
+    <TreeNode Title="E05G1/14 #用在贵重物上打标记或破坏贵重物的方法，例如在偷盗情形下[6]" Target="frmContent" Href="../searchservlet?query=E05G1/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E05G1/14"/>
+  </TreeNode>
+  <TreeNode Title="E05G5/00 银行保护器件(E05G 1/12，E05G 7/00优先；闭路电视系统入H04N 7/18)[2]" Target="frmContent" Href="../searchservlet?query=E05G5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E05G5/00">
+    <TreeNode Title="E05G5/02 #捕捉或监禁设施(一般的使盗贼丧失能力的设施入G08B 15/00)[2]" Target="frmContent" Href="../searchservlet?query=E05G5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E05G5/02"/>
+  </TreeNode>
+  <TreeNode Title="E05G7/00 安全交易隔板，例如，移动式交付隔板(没有安全装置的交付柜台，例如，用于超级市场的入A47F 9/02)[2]" Target="frmContent" Href="../searchservlet?query=E05G7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E05G7/00"/>
+</Root>

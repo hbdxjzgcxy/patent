@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="F23M3/00 火桥(不限制炉火的挡板入F23M 9/06)" Target="frmContent" Href="../searchservlet?query=F23M3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23M3/00">
+    <TreeNode Title="F23M3/02 #为循环流体，例如空气、蒸汽、水而作改进的" Target="frmContent" Href="../searchservlet?query=F23M3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23M3/02">
+      <TreeNode Title="F23M3/04 ##输送气体的，例如空气、蒸汽" Target="frmContent" Href="../searchservlet?query=F23M3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23M3/04">
+        <TreeNode Title="F23M3/06 ###通入或通向炉火的" Target="frmContent" Href="../searchservlet?query=F23M3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23M3/06"/>
+        <TreeNode Title="F23M3/08 ###离开炉火的，例如朝向烟气出口的" Target="frmContent" Href="../searchservlet?query=F23M3/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23M3/08"/>
+        <TreeNode Title="F23M3/10 ###横向的" Target="frmContent" Href="../searchservlet?query=F23M3/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23M3/10"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="F23M3/12 #以形状或结构为特征的(F23M 3/02优先)" Target="frmContent" Href="../searchservlet?query=F23M3/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23M3/12">
+      <TreeNode Title="F23M3/14 ##带有燃烧生成物通道的开口的" Target="frmContent" Href="../searchservlet?query=F23M3/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23M3/14"/>
+      <TreeNode Title="F23M3/16 ##分段组装的，例如应用条杆或板块的" Target="frmContent" Href="../searchservlet?query=F23M3/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23M3/16"/>
+      <TreeNode Title="F23M3/18 ##双的；多部分的" Target="frmContent" Href="../searchservlet?query=F23M3/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23M3/18"/>
+      <TreeNode Title="F23M3/20 ##完全或部分由疏松的耐火材料构成的" Target="frmContent" Href="../searchservlet?query=F23M3/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23M3/20"/>
+    </TreeNode>
+    <TreeNode Title="F23M3/22 #活动的；可调节的" Target="frmContent" Href="../searchservlet?query=F23M3/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23M3/22"/>
+  </TreeNode>
+  <TreeNode Title="F23M5/00 外罩；衬层；壁(炉、窑或干馏釜的热处理室的外罩、衬层或壁入F27D)" Target="frmContent" Href="../searchservlet?query=F23M5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23M5/00">
+    <TreeNode Title="F23M5/02 #以所采用砖或块料的形状为特征的(陶瓷材料入C04B 33/00，C04B 35/00)" Target="frmContent" Href="../searchservlet?query=F23M5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23M5/02"/>
+    <TreeNode Title="F23M5/04 #衬层支撑构件" Target="frmContent" Href="../searchservlet?query=F23M5/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23M5/04"/>
+    <TreeNode Title="F23M5/06 #燃烧室拱顶或穹顶(F23M 5/02，F23M 5/04优先)" Target="frmContent" Href="../searchservlet?query=F23M5/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23M5/06"/>
+    <TreeNode Title="F23M5/08 #其冷却；管壁" Target="frmContent" Href="../searchservlet?query=F23M5/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23M5/08"/>
+  </TreeNode>
+  <TreeNode Title="F23M7/00 专门适用于燃烧室的门(一般的门入E06B；用于烟道或烟箱的入F23J 13/08)" Target="frmContent" Href="../searchservlet?query=F23M7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23M7/00">
+    <TreeNode Title="F23M7/02 #其所用框架" Target="frmContent" Href="../searchservlet?query=F23M7/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23M7/02"/>
+    <TreeNode Title="F23M7/04 #冷却门或门框" Target="frmContent" Href="../searchservlet?query=F23M7/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23M7/04"/>
+  </TreeNode>
+  <TreeNode Title="F23M9/00 空气或燃烧生成物的挡板或折流板；火焰防护屏" Target="frmContent" Href="../searchservlet?query=F23M9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23M9/00">
+    <TreeNode Title="F23M9/02 #在空气进口处的" Target="frmContent" Href="../searchservlet?query=F23M9/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23M9/02"/>
+    <TreeNode Title="F23M9/04 #在挡板或火焰防护屏上带有送风通道的" Target="frmContent" Href="../searchservlet?query=F23M9/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23M9/04"/>
+    <TreeNode Title="F23M9/06 #火箱中的" Target="frmContent" Href="../searchservlet?query=F23M9/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23M9/06"/>
+    <TreeNode Title="F23M9/08 #螺线或螺旋状挡板或折流板" Target="frmContent" Href="../searchservlet?query=F23M9/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23M9/08"/>
+    <TreeNode Title="F23M9/10 #呈管状的挡板或折流板，例如在水管锅炉中的(锅炉里这种供流体流动的管道之间的连接入F22)" Target="frmContent" Href="../searchservlet?query=F23M9/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23M9/10"/>
+  </TreeNode>
+  <TreeNode Title="F23M11/00 安全装置(借助控制燃烧的入F23N 5/24)" Target="frmContent" Href="../searchservlet?query=F23M11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23M11/00">
+    <TreeNode Title="F23M11/02 #防止火焰或热气通过工作口或进料口散发，或防止空气通过工作口或进料口进入" Target="frmContent" Href="../searchservlet?query=F23M11/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23M11/02"/>
+    <TreeNode Title="F23M11/04 #监测燃烧的装置，例如监测窗(警报系统入G08B)" Target="frmContent" Href="../searchservlet?query=F23M11/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23M11/04"/>
+  </TreeNode>
+  <TreeNode Title="F23M99/00 本小类其他各组中不包括的技术主题 [2010.01]" Target="frmContent" Href="../searchservlet?query=F23M99/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23M99/00"/>
+</Root>

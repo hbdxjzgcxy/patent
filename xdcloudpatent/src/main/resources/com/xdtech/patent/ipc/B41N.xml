@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="B41N1/00 印版或箔；及其所用材料" Target="frmContent" Href="../searchservlet?query=B41N1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B41N1/00">
+    <TreeNode Title="B41N1/02 #用石料制作" Target="frmContent" Href="../searchservlet?query=B41N1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B41N1/02"/>
+    <TreeNode Title="B41N1/04 #金属的" Target="frmContent" Href="../searchservlet?query=B41N1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B41N1/04">
+      <TreeNode Title="B41N1/06 ##用于凸版印刷或凹版印刷" Target="frmContent" Href="../searchservlet?query=B41N1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B41N1/06"/>
+      <TreeNode Title="B41N1/08 ##用于平版印刷" Target="frmContent" Href="../searchservlet?query=B41N1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B41N1/08">
+        <TreeNode Title="B41N1/10 ###复式的" Target="frmContent" Href="../searchservlet?query=B41N1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B41N1/10"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="B41N1/12 #除石料外的非金属" Target="frmContent" Href="../searchservlet?query=B41N1/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B41N1/12">
+      <TreeNode Title="B41N1/14 ##平版印刷箔" Target="frmContent" Href="../searchservlet?query=B41N1/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B41N1/14"/>
+    </TreeNode>
+    <TreeNode Title="B41N1/16 #曲面印版，特别是滚筒" Target="frmContent" Href="../searchservlet?query=B41N1/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B41N1/16">
+      <TreeNode Title="B41N1/18 ##用石料制作" Target="frmContent" Href="../searchservlet?query=B41N1/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B41N1/18"/>
+      <TreeNode Title="B41N1/20 ##用金属制作" Target="frmContent" Href="../searchservlet?query=B41N1/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B41N1/20"/>
+      <TreeNode Title="B41N1/22 ##用其他材料制作" Target="frmContent" Href="../searchservlet?query=B41N1/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B41N1/22"/>
+    </TreeNode>
+    <TreeNode Title="B41N1/24 #模版；模版材料；其支架(用于办公或其他商业使用的模版设备入B41L 13/00)" Target="frmContent" Href="../searchservlet?query=B41N1/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B41N1/24"/>
+  </TreeNode>
+  <TreeNode Title="B41N3/00 印刷表面的制备或保存" Target="frmContent" Href="../searchservlet?query=B41N3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B41N3/00">
+    <TreeNode Title="B41N3/03 #化学的或电的预处理[5]" Target="frmContent" Href="../searchservlet?query=B41N3/03&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B41N3/03"/>
+    <TreeNode Title="B41N3/04 #磨版或用机械手段进行研磨(化学磨版入B41N 3/03)[5]" Target="frmContent" Href="../searchservlet?query=B41N3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B41N3/04"/>
+    <TreeNode Title="B41N3/06 #利用去污剂" Target="frmContent" Href="../searchservlet?query=B41N3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B41N3/06"/>
+    <TreeNode Title="B41N3/08 #润湿；平版印版的中和处理或类似的变异处理[5]" Target="frmContent" Href="../searchservlet?query=B41N3/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B41N3/08"/>
+  </TreeNode>
+  <TreeNode Title="B41N6/00 安装印刷版；垫版装置，例如下衬垫、上衬垫；用化学方法进行连接，例如硫化[5]" Target="frmContent" Href="../searchservlet?query=B41N6/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B41N6/00">
+    <TreeNode Title="B41N6/02 #将印版固定在底托板上的化学方法[5]" Target="frmContent" Href="../searchservlet?query=B41N6/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B41N6/02"/>
+  </TreeNode>
+  <TreeNode Title="B41N7/00 印刷机辊的外套" Target="frmContent" Href="../searchservlet?query=B41N7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B41N7/00">
+    <TreeNode Title="B41N7/02 #皮革的" Target="frmContent" Href="../searchservlet?query=B41N7/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B41N7/02"/>
+    <TreeNode Title="B41N7/04 #用于润版辊" Target="frmContent" Href="../searchservlet?query=B41N7/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B41N7/04"/>
+    <TreeNode Title="B41N7/06 #用于墨辊[5]" Target="frmContent" Href="../searchservlet?query=B41N7/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B41N7/06"/>
+  </TreeNode>
+  <TreeNode Title="B41N10/00 橡皮布或类似的覆盖物；用于凹版印刷的刮片所用的套子(用于凹版印刷的刮片入B41F 9/08)[5]" Target="frmContent" Href="../searchservlet?query=B41N10/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B41N10/00">
+    <TreeNode Title="B41N10/02 #橡皮布的构造[5]" Target="frmContent" Href="../searchservlet?query=B41N10/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B41N10/02">
+      <TreeNode Title="B41N10/04 ##多层的[5]" Target="frmContent" Href="../searchservlet?query=B41N10/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B41N10/04"/>
+      <TreeNode Title="B41N10/06 ##便于固定到或安装在支承物上[5]" Target="frmContent" Href="../searchservlet?query=B41N10/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B41N10/06"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="B41N11/00 铅版纸型" Target="frmContent" Href="../searchservlet?query=B41N11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B41N11/00"/>
+  <TreeNode Title="B41N99/00 本小类其他各组中不包括的技术主题[8]" Target="frmContent" Href="../searchservlet?query=B41N99/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B41N99/00"/>
+</Root>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="C12F3/00 副产品的回收" Target="frmContent" Href="../searchservlet?query=C12F3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12F3/00">
+    <TreeNode Title="C12F3/02 #二氧化碳的回收" Target="frmContent" Href="../searchservlet?query=C12F3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12F3/02">
+      <TreeNode Title="C12F3/04 ##从二氧化碳中回收挥发的发酵产品" Target="frmContent" Href="../searchservlet?query=C12F3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12F3/04"/>
+    </TreeNode>
+    <TreeNode Title="C12F3/06 #从啤酒和果子酒中(C12F 3/02优先；酵母的去除入C12G 1/08)" Target="frmContent" Href="../searchservlet?query=C12F3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12F3/06">
+      <TreeNode Title="C12F3/08 ##从压榨滤渣或其他废物中回收酒精(从二氧化碳中回收入C12F 3/04)" Target="frmContent" Href="../searchservlet?query=C12F3/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12F3/08"/>
+    </TreeNode>
+    <TreeNode Title="C12F3/10 #从蒸馏废液中" Target="frmContent" Href="../searchservlet?query=C12F3/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12F3/10"/>
+  </TreeNode>
+  <TreeNode Title="C12F5/00 变性酒精的制备" Target="frmContent" Href="../searchservlet?query=C12F5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12F5/00"/>
+</Root>

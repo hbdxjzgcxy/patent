@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="H05K1/00 印刷电路(多个单个半导体器件或固态器件的组装件入H01L 25/00；由在一共用基片内或其上形成的多个固态组件组成的器件，例如集成电路，薄膜或厚膜电路，入H01L 27/00)" Target="frmContent" Href="../searchservlet?query=H05K1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05K1/00">
+    <TreeNode Title="H05K1/02 #零部件" Target="frmContent" Href="../searchservlet?query=H05K1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05K1/02">
+      <TreeNode Title="H05K1/03 ##基片材料的应用[3]" Target="frmContent" Href="../searchservlet?query=H05K1/03&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05K1/03">
+        <TreeNode Title="H05K1/05 ###绝缘的金属基片[3]" Target="frmContent" Href="../searchservlet?query=H05K1/05&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05K1/05"/>
+      </TreeNode>
+      <TreeNode Title="H05K1/09 ##金属图形材料的应用[3]" Target="frmContent" Href="../searchservlet?query=H05K1/09&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05K1/09"/>
+      <TreeNode Title="H05K1/11 ##对印刷电路或印刷电路之间提供电连接的印刷元件[3]" Target="frmContent" Href="../searchservlet?query=H05K1/11&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05K1/11"/>
+      <TreeNode Title="H05K1/14 ##两个或更多个印刷电路的结构连接(对印刷电路或印刷电路之间提供电连接的入H05K 1/11，H01R 12/00)" Target="frmContent" Href="../searchservlet?query=H05K1/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05K1/14"/>
+    </TreeNode>
+    <TreeNode Title="H05K1/16 #含有印制电元件的，例如印制电阻、印制电容、印制电感" Target="frmContent" Href="../searchservlet?query=H05K1/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05K1/16"/>
+    <TreeNode Title="H05K1/18 #在结构上与非印制电元件相联接的印刷电路(H05K 1/16优先)" Target="frmContent" Href="../searchservlet?query=H05K1/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05K1/18"/>
+  </TreeNode>
+  <TreeNode Title="H05K3/00 用于制造印刷电路的设备或方法(结构表面或图形表面照相制板的制作、所用的材料或原图、其专用的设备，一般入G03F；包括有半导体器件制造的入H01L)[3]" Target="frmContent" Href="../searchservlet?query=H05K3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05K3/00">
+    <TreeNode Title="H05K3/02 #其中将导电材料敷至绝缘支承物的表面上，而后再将其导电材料从不希望让电流通导或屏蔽的表面区域中去除的" Target="frmContent" Href="../searchservlet?query=H05K3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05K3/02">
+      <TreeNode Title="H05K3/04 ##用机械方法将导电材料去除的，例如通过穿孔" Target="frmContent" Href="../searchservlet?query=H05K3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05K3/04"/>
+      <TreeNode Title="H05K3/06 ##用化学或电解方法将导电材料去除的，例如用光刻工艺" Target="frmContent" Href="../searchservlet?query=H05K3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05K3/06">
+        <TreeNode Title="H05K3/07 ###用电解方法去除的[3]" Target="frmContent" Href="../searchservlet?query=H05K3/07&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05K3/07"/>
+      </TreeNode>
+      <TreeNode Title="H05K3/08 ##用放电方法将导电材料去除的，例如通过电火花腐蚀" Target="frmContent" Href="../searchservlet?query=H05K3/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05K3/08"/>
+    </TreeNode>
+    <TreeNode Title="H05K3/10 #其中将导电材料按照形成所要求的导电图案的方式敷至绝缘支承物上的" Target="frmContent" Href="../searchservlet?query=H05K3/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05K3/10">
+      <TreeNode Title="H05K3/12 ##应用印刷技术涂加导电材料的" Target="frmContent" Href="../searchservlet?query=H05K3/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05K3/12"/>
+      <TreeNode Title="H05K3/14 ##应用喷射技术涂加导电材料的" Target="frmContent" Href="../searchservlet?query=H05K3/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05K3/14">
+        <TreeNode Title="H05K3/16 ###通过阴极溅射的" Target="frmContent" Href="../searchservlet?query=H05K3/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05K3/16"/>
+      </TreeNode>
+      <TreeNode Title="H05K3/18 ##应用沉淀技术涂加导电材料的" Target="frmContent" Href="../searchservlet?query=H05K3/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05K3/18"/>
+      <TreeNode Title="H05K3/20 ##通过附加预制导体图形的" Target="frmContent" Href="../searchservlet?query=H05K3/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05K3/20"/>
+    </TreeNode>
+    <TreeNode Title="H05K3/22 #印刷电路的二次处理" Target="frmContent" Href="../searchservlet?query=H05K3/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05K3/22">
+      <TreeNode Title="H05K3/24 ##导电图形的加固" Target="frmContent" Href="../searchservlet?query=H05K3/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05K3/24"/>
+      <TreeNode Title="H05K3/26 ##导电图形的清洁或抛光" Target="frmContent" Href="../searchservlet?query=H05K3/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05K3/26"/>
+      <TreeNode Title="H05K3/28 ##涂加非金属保护层" Target="frmContent" Href="../searchservlet?query=H05K3/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05K3/28"/>
+    </TreeNode>
+    <TreeNode Title="H05K3/30 #用电元件组装印刷电路的，例如用电阻" Target="frmContent" Href="../searchservlet?query=H05K3/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05K3/30">
+      <TreeNode Title="H05K3/32 ##电元件或导线与印刷电路的电连接" Target="frmContent" Href="../searchservlet?query=H05K3/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05K3/32">
+        <TreeNode Title="H05K3/34 ###通过焊接的" Target="frmContent" Href="../searchservlet?query=H05K3/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05K3/34"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="H05K3/36 #印刷电路与其他印刷电路的组装" Target="frmContent" Href="../searchservlet?query=H05K3/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05K3/36"/>
+    <TreeNode Title="H05K3/38 #绝缘基片和金属之间黏合的改进[3]" Target="frmContent" Href="../searchservlet?query=H05K3/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05K3/38"/>
+    <TreeNode Title="H05K3/40 #用于对印刷电路或印刷电路之间提供电连接而形成印制元件[3]" Target="frmContent" Href="../searchservlet?query=H05K3/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05K3/40">
+      <TreeNode Title="H05K3/42 ##金属化孔[3]" Target="frmContent" Href="../searchservlet?query=H05K3/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05K3/42"/>
+    </TreeNode>
+    <TreeNode Title="H05K3/44 #绝缘金属心电路的制造[3]" Target="frmContent" Href="../searchservlet?query=H05K3/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05K3/44"/>
+    <TreeNode Title="H05K3/46 #多层电路的制造[3]" Target="frmContent" Href="../searchservlet?query=H05K3/46&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05K3/46"/>
+  </TreeNode>
+  <TreeNode Title="H05K5/00 用于电设备的机壳、箱柜或拉屉(一般入A47B；无线电接收机壳入H04B 1/08；电视接收机机壳入H04N 5/64)" Target="frmContent" Href="../searchservlet?query=H05K5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05K5/00">
+    <TreeNode Title="H05K5/02 #零部件" Target="frmContent" Href="../searchservlet?query=H05K5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05K5/02">
+      <TreeNode Title="H05K5/03 ##盖" Target="frmContent" Href="../searchservlet?query=H05K5/03&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05K5/03"/>
+    </TreeNode>
+    <TreeNode Title="H05K5/04 #金属外壳" Target="frmContent" Href="../searchservlet?query=H05K5/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05K5/04"/>
+    <TreeNode Title="H05K5/06 #密封的外壳" Target="frmContent" Href="../searchservlet?query=H05K5/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05K5/06"/>
+  </TreeNode>
+  <TreeNode Title="H05K7/00 对各种不同类型电设备通用的结构零部件(机壳、箱柜或拉屉入H05K 5/00)" Target="frmContent" Href="../searchservlet?query=H05K7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05K7/00">
+    <TreeNode Title="H05K7/02 #在支承结构上电路元件或布线的排列" Target="frmContent" Href="../searchservlet?query=H05K7/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05K7/02">
+      <TreeNode Title="H05K7/04 ##在导电机架上的" Target="frmContent" Href="../searchservlet?query=H05K7/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05K7/04"/>
+      <TreeNode Title="H05K7/06 ##在绝缘板上的" Target="frmContent" Href="../searchservlet?query=H05K7/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05K7/06">
+        <TreeNode Title="H05K7/08 ###在打孔板上的" Target="frmContent" Href="../searchservlet?query=H05K7/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05K7/08"/>
+      </TreeNode>
+      <TreeNode Title="H05K7/10 ##组件的插入式组装" Target="frmContent" Href="../searchservlet?query=H05K7/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05K7/10"/>
+      <TreeNode Title="H05K7/12 ##用于将元件固定到结构架上的弹性或夹持装置(将耦合的两部分固定在一起的入H01R 13/00)" Target="frmContent" Href="../searchservlet?query=H05K7/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05K7/12"/>
+    </TreeNode>
+    <TreeNode Title="H05K7/14 #在外壳内或在框架上或在导轨上安装支承结构" Target="frmContent" Href="../searchservlet?query=H05K7/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05K7/14">
+      <TreeNode Title="H05K7/16 ##在铰链或枢轴上" Target="frmContent" Href="../searchservlet?query=H05K7/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05K7/16"/>
+    </TreeNode>
+    <TreeNode Title="H05K7/18 #导轨或框架的结构" Target="frmContent" Href="../searchservlet?query=H05K7/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05K7/18"/>
+    <TreeNode Title="H05K7/20 #便于冷却、通风或加热的改进" Target="frmContent" Href="../searchservlet?query=H05K7/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05K7/20"/>
+  </TreeNode>
+  <TreeNode Title="H05K9/00 设备或元件对电场或磁场的屏蔽(用于吸收天线辐射的设备入H01Q 17/00)" Target="frmContent" Href="../searchservlet?query=H05K9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05K9/00"/>
+  <TreeNode Title="H05K10/00 用于提高电子设备工作可靠性的装置，例如通过提供一个相同的备用单元" Target="frmContent" Href="../searchservlet?query=H05K10/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05K10/00"/>
+  <TreeNode Title="H05K11/00 无线电接收机或电视接收机与具有不同主要功能的设备的组合" Target="frmContent" Href="../searchservlet?query=H05K11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05K11/00">
+    <TreeNode Title="H05K11/02 #与运载工具的组合" Target="frmContent" Href="../searchservlet?query=H05K11/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05K11/02"/>
+  </TreeNode>
+  <TreeNode Title="H05K13/00 专门适用于制造或调节电元件组装件的设备或方法" Target="frmContent" Href="../searchservlet?query=H05K13/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05K13/00">
+    <TreeNode Title="H05K13/02 #元件的供给(一般入B65G)" Target="frmContent" Href="../searchservlet?query=H05K13/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05K13/02"/>
+    <TreeNode Title="H05K13/04 #元件的安装" Target="frmContent" Href="../searchservlet?query=H05K13/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05K13/04"/>
+    <TreeNode Title="H05K13/06 #机器布线" Target="frmContent" Href="../searchservlet?query=H05K13/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05K13/06"/>
+    <TreeNode Title="H05K13/08 #制造组装件的监测" Target="frmContent" Href="../searchservlet?query=H05K13/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05K13/08"/>
+  </TreeNode>
+</Root>

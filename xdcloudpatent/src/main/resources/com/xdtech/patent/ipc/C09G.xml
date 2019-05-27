@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="C09G1/00 抛光组合物(虫胶清漆入C09F 11/00；洗涤剂入C11D)" Target="frmContent" Href="../searchservlet?query=C09G1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09G1/00">
+    <TreeNode Title="C09G1/02 #含有磨料或研磨剂" Target="frmContent" Href="../searchservlet?query=C09G1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09G1/02"/>
+    <TreeNode Title="C09G1/04 #水性分散剂(C09G 1/02优先)" Target="frmContent" Href="../searchservlet?query=C09G1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09G1/04"/>
+    <TreeNode Title="C09G1/06 #其他抛光组合物" Target="frmContent" Href="../searchservlet?query=C09G1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09G1/06">
+      <TreeNode Title="C09G1/08 ##基于蜡为主的" Target="frmContent" Href="../searchservlet?query=C09G1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09G1/08">
+        <TreeNode Title="C09G1/10 ###基于蜡及天然或合成树脂混合物的" Target="frmContent" Href="../searchservlet?query=C09G1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09G1/10">
+          <TreeNode Title="C09G1/12 ####蜡与含硅缩聚物的混合物" Target="frmContent" Href="../searchservlet?query=C09G1/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09G1/12"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="C09G1/14 ##基于非蜡物质的" Target="frmContent" Href="../searchservlet?query=C09G1/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09G1/14">
+        <TreeNode Title="C09G1/16 ###基于天然或合成树脂的" Target="frmContent" Href="../searchservlet?query=C09G1/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09G1/16"/>
+        <TreeNode Title="C09G1/18 ###基于其他物质的" Target="frmContent" Href="../searchservlet?query=C09G1/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09G1/18"/>
+      </TreeNode>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="C09G3/00 滑雪履蜡" Target="frmContent" Href="../searchservlet?query=C09G3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09G3/00"/>
+</Root>

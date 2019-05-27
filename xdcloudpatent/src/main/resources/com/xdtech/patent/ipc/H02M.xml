@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="H02M1/00 变换装置的零部件[1，2007.01]" Target="frmContent" Href="../searchservlet?query=H02M1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M1/00">
+    <TreeNode Title="H02M1/02 #专用于在静态变换器内的放电管产生栅极控制电压或引燃极控制电压的电路" Target="frmContent" Href="../searchservlet?query=H02M1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M1/02">
+      <TreeNode Title="H02M1/04 ##用于具有栅极控制的管子的" Target="frmContent" Href="../searchservlet?query=H02M1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M1/04"/>
+    </TreeNode>
+    <TreeNode Title="H02M1/06 #非导电气体放电管或等效的半导体器件的专用电路，例如闸流管、晶闸管的专用电路[2]" Target="frmContent" Href="../searchservlet?query=H02M1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M1/06"/>
+    <TreeNode Title="H02M1/08 #为静态变换器中的半导体器件产生控制电压的专用电路" Target="frmContent" Href="../searchservlet?query=H02M1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M1/08">
+      <TreeNode Title="H02M1/084 ##使用多相系统中几个相公用的控制电路的[4]" Target="frmContent" Href="../searchservlet?query=H02M1/084&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M1/084"/>
+      <TreeNode Title="H02M1/088 ##用于对串联或并联半导体器件进行同时控制[4]" Target="frmContent" Href="../searchservlet?query=H02M1/088&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M1/088">
+        <TreeNode Title="H02M1/092 ###用光传输控制信号的[4]" Target="frmContent" Href="../searchservlet?query=H02M1/092&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M1/092"/>
+        <TreeNode Title="H02M1/096 ###控制回路的电源并联于电力电源开关元件的(H02M 1/092优先)[4]" Target="frmContent" Href="../searchservlet?query=H02M1/096&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M1/096"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="H02M1/10 #具有能任意地用不同种类的电流向负载供电的变换装置的设备，例如用交流或直流" Target="frmContent" Href="../searchservlet?query=H02M1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M1/10"/>
+    <TreeNode Title="H02M1/12 #减少交流输入或输出谐波成分的装置" Target="frmContent" Href="../searchservlet?query=H02M1/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M1/12"/>
+    <TreeNode Title="H02M1/14 #减少直流输入或输出的波纹的装置" Target="frmContent" Href="../searchservlet?query=H02M1/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M1/14">
+      <TreeNode Title="H02M1/15 ##应用有源元件的[4]" Target="frmContent" Href="../searchservlet?query=H02M1/15&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M1/15"/>
+    </TreeNode>
+    <TreeNode Title="H02M1/16 #切换时分级供给电流的装置，例如应用饱合电抗器" Target="frmContent" Href="../searchservlet?query=H02M1/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M1/16"/>
+    <TreeNode Title="H02M1/20 #动态变换器的接触构件" Target="frmContent" Href="../searchservlet?query=H02M1/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M1/20">
+      <TreeNode Title="H02M1/22 ##有集电器和电刷的" Target="frmContent" Href="../searchservlet?query=H02M1/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M1/22"/>
+      <TreeNode Title="H02M1/24 ##有滚动或翻转接点的" Target="frmContent" Href="../searchservlet?query=H02M1/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M1/24"/>
+      <TreeNode Title="H02M1/26 ##有凸轮操作接点的" Target="frmContent" Href="../searchservlet?query=H02M1/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M1/26"/>
+      <TreeNode Title="H02M1/28 ##有电磁操作振动接点的" Target="frmContent" Href="../searchservlet?query=H02M1/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M1/28"/>
+      <TreeNode Title="H02M1/30 ##有液体接点的" Target="frmContent" Href="../searchservlet?query=H02M1/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M1/30"/>
+    </TreeNode>
+    <TreeNode Title="H02M1/32 #除自动断开以外的用于保护变换器的装置(专用于变换器的自动断开的紧急保护电路装置入H02H7/10)[2007.01]" Target="frmContent" Href="../searchservlet?query=H02M1/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M1/32">
+      <TreeNode Title="H02M1/34 ##缓冲电路[2007.01]" Target="frmContent" Href="../searchservlet?query=H02M1/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M1/34"/>
+    </TreeNode>
+    <TreeNode Title="H02M1/36 #用于启动和停止变换器的装置[2007.01]" Target="frmContent" Href="../searchservlet?query=H02M1/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M1/36"/>
+    <TreeNode Title="H02M1/38 #用于防止开关同时导通的装置[2007.01]" Target="frmContent" Href="../searchservlet?query=H02M1/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M1/38"/>
+    <TreeNode Title="H02M1/40 #用于防止磁饱和的装置[2007.01]" Target="frmContent" Href="../searchservlet?query=H02M1/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M1/40"/>
+    <TreeNode Title="H02M1/42 #用于补偿或者调节变换器或者逆变器中的功率因数的电路或装置[2007.01]" Target="frmContent" Href="../searchservlet?query=H02M1/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M1/42"/>
+    <TreeNode Title="H02M1/44 #用于补偿变换器或者逆变器中的电磁干扰的电路或装置[2007.01]" Target="frmContent" Href="../searchservlet?query=H02M1/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M1/44"/>
+  </TreeNode>
+  <TreeNode Title="H02M3/00 直流功率输入变换为直流功率输出" Target="frmContent" Href="../searchservlet?query=H02M3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M3/00">
+    <TreeNode Title="H02M3/02 #没有中间变换为交流的" Target="frmContent" Href="../searchservlet?query=H02M3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M3/02">
+      <TreeNode Title="H02M3/04 ##用静态变换器的" Target="frmContent" Href="../searchservlet?query=H02M3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M3/04">
+        <TreeNode Title="H02M3/06 ###应用电阻器或电容器的，例如用分压器" Target="frmContent" Href="../searchservlet?query=H02M3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M3/06">
+          <TreeNode Title="H02M3/07 ####用电容器交替充放电的，而电容器的交替充放电是用有控制极的半导体器件来实现的[4]" Target="frmContent" Href="../searchservlet?query=H02M3/07&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M3/07"/>
+        </TreeNode>
+        <TreeNode Title="H02M3/08 ###应用无控制极的放电管或无控制极的半导体器件的" Target="frmContent" Href="../searchservlet?query=H02M3/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M3/08"/>
+        <TreeNode Title="H02M3/10 ###应用有控制极的放电管或有控制极的半导体器件的(H02M 3/07优先)[4]" Target="frmContent" Href="../searchservlet?query=H02M3/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M3/10">
+          <TreeNode Title="H02M3/125 ####应用需要熄灭装置的闸流管或晶闸管型器件的[2]" Target="frmContent" Href="../searchservlet?query=H02M3/125&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M3/125">
+            <TreeNode Title="H02M3/13 #####仅用放电管的[2]" Target="frmContent" Href="../searchservlet?query=H02M3/13&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M3/13"/>
+            <TreeNode Title="H02M3/135 #####仅用半导体器件的[2]" Target="frmContent" Href="../searchservlet?query=H02M3/135&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M3/135">
+              <TreeNode Title="H02M3/137 ######带有自动控制输出电压或电流的，例如开关调节器[4]" Target="frmContent" Href="../searchservlet?query=H02M3/137&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M3/137">
+                <TreeNode Title="H02M3/139 #######带有数字控制的[4]" Target="frmContent" Href="../searchservlet?query=H02M3/139&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M3/139"/>
+                <TreeNode Title="H02M3/142 #######包括多个半导体器件用作单负载最终控制器件的[4]" Target="frmContent" Href="../searchservlet?query=H02M3/142&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M3/142"/>
+              </TreeNode>
+            </TreeNode>
+          </TreeNode>
+          <TreeNode Title="H02M3/145 ####应用需要连续使用控制信号的三极管或晶体管式的器件的[2]" Target="frmContent" Href="../searchservlet?query=H02M3/145&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M3/145">
+            <TreeNode Title="H02M3/15 #####仅用放电管的[2]" Target="frmContent" Href="../searchservlet?query=H02M3/15&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M3/15"/>
+            <TreeNode Title="H02M3/155 #####仅用半导体器件的[2]" Target="frmContent" Href="../searchservlet?query=H02M3/155&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M3/155">
+              <TreeNode Title="H02M3/156 ######带有自动控制输出电压或电流的，例如开关调节器[4]" Target="frmContent" Href="../searchservlet?query=H02M3/156&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M3/156">
+                <TreeNode Title="H02M3/157 #######带有数字控制的[4]" Target="frmContent" Href="../searchservlet?query=H02M3/157&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M3/157"/>
+                <TreeNode Title="H02M3/158 #######含有多个半导体器件作为单个负载的最终控制器件[4]" Target="frmContent" Href="../searchservlet?query=H02M3/158&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M3/158"/>
+              </TreeNode>
+            </TreeNode>
+          </TreeNode>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="H02M3/16 ##用动态变换器的" Target="frmContent" Href="../searchservlet?query=H02M3/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M3/16">
+        <TreeNode Title="H02M3/18 ###应用交替充放电的电容器或电池组的，例如并联充电和串联放电的" Target="frmContent" Href="../searchservlet?query=H02M3/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M3/18"/>
+      </TreeNode>
+      <TreeNode Title="H02M3/20 ##由静态变换器和动态变换器组合的；由机电变换器与另一动态变换器或静态变换器组合的" Target="frmContent" Href="../searchservlet?query=H02M3/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M3/20"/>
+    </TreeNode>
+    <TreeNode Title="H02M3/22 #带有中间变换为交流的" Target="frmContent" Href="../searchservlet?query=H02M3/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M3/22">
+      <TreeNode Title="H02M3/24 ##用静态变换器的" Target="frmContent" Href="../searchservlet?query=H02M3/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M3/24">
+        <TreeNode Title="H02M3/26 ###应用无控制极的放电管或无控制极的半导体器件产生中间交流电的" Target="frmContent" Href="../searchservlet?query=H02M3/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M3/26"/>
+        <TreeNode Title="H02M3/28 ###应用有控制极的放电管或有控制极的半导体器件产生中间交流电的" Target="frmContent" Href="../searchservlet?query=H02M3/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M3/28">
+          <TreeNode Title="H02M3/305 ####应用需要熄灭装置的闸流管或晶闸管型器件的[2]" Target="frmContent" Href="../searchservlet?query=H02M3/305&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M3/305">
+            <TreeNode Title="H02M3/31 #####仅用放电管的[2]" Target="frmContent" Href="../searchservlet?query=H02M3/31&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M3/31"/>
+            <TreeNode Title="H02M3/315 #####仅用半导体器件的[2]" Target="frmContent" Href="../searchservlet?query=H02M3/315&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M3/315"/>
+          </TreeNode>
+          <TreeNode Title="H02M3/325 ####应用需要连续使用控制信号的三极管或晶体管式的器件的[2]" Target="frmContent" Href="../searchservlet?query=H02M3/325&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M3/325">
+            <TreeNode Title="H02M3/33 #####仅用放电管的[2]" Target="frmContent" Href="../searchservlet?query=H02M3/33&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M3/33"/>
+            <TreeNode Title="H02M3/335 #####仅用半导体器件的[2]" Target="frmContent" Href="../searchservlet?query=H02M3/335&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M3/335">
+              <TreeNode Title="H02M3/337 ######以推挽方式[4]" Target="frmContent" Href="../searchservlet?query=H02M3/337&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M3/337"/>
+              <TreeNode Title="H02M3/338 ######成自激振荡器配置的(H02M 3/337优先)[4]" Target="frmContent" Href="../searchservlet?query=H02M3/338&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M3/338"/>
+            </TreeNode>
+          </TreeNode>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="H02M3/34 ##用动态变换器的" Target="frmContent" Href="../searchservlet?query=H02M3/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M3/34">
+        <TreeNode Title="H02M3/36 ###应用机械零部件顺序选择或连续改变输入电位的" Target="frmContent" Href="../searchservlet?query=H02M3/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M3/36"/>
+        <TreeNode Title="H02M3/38 ###应用机械接触开、闭零部件中断信号电位的" Target="frmContent" Href="../searchservlet?query=H02M3/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M3/38">
+          <TreeNode Title="H02M3/40 ####其中零部件是转动的，集电器与电刷或滚轮是协同工作的" Target="frmContent" Href="../searchservlet?query=H02M3/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M3/40"/>
+          <TreeNode Title="H02M3/42 ####带有电磁操作振动接点的，例如斩波器的(自断续器一般入H01H 51/34)" Target="frmContent" Href="../searchservlet?query=H02M3/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M3/42"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="H02M3/44 ##由静态变换器与动态变换器组合的；由机电变换器与另一动态变换器或静态变换器组合的" Target="frmContent" Href="../searchservlet?query=H02M3/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M3/44"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="H02M5/00 交流功率输入变换为交流功率输出，例如用于改变电压、用于改变频率、用于改变相数的" Target="frmContent" Href="../searchservlet?query=H02M5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M5/00">
+    <TreeNode Title="H02M5/02 #没有变换为直流的中级" Target="frmContent" Href="../searchservlet?query=H02M5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M5/02">
+      <TreeNode Title="H02M5/04 ##用静态变换器的(控制变压器、电抗器或扼流圈的，例如用抽头变换的入H02P 13/00)[4]" Target="frmContent" Href="../searchservlet?query=H02M5/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M5/04">
+        <TreeNode Title="H02M5/06 ###应用阻抗的" Target="frmContent" Href="../searchservlet?query=H02M5/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M5/06">
+          <TreeNode Title="H02M5/08 ####仅用电容器的" Target="frmContent" Href="../searchservlet?query=H02M5/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M5/08"/>
+        </TreeNode>
+        <TreeNode Title="H02M5/10 ###用变压器的" Target="frmContent" Href="../searchservlet?query=H02M5/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M5/10">
+          <TreeNode Title="H02M5/12 ####用于仅改变电压或电流的幅值的" Target="frmContent" Href="../searchservlet?query=H02M5/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M5/12"/>
+          <TreeNode Title="H02M5/14 ####用于在不同相数的电路之间变换的" Target="frmContent" Href="../searchservlet?query=H02M5/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M5/14"/>
+          <TreeNode Title="H02M5/16 ####用于频率的变换的" Target="frmContent" Href="../searchservlet?query=H02M5/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M5/16"/>
+          <TreeNode Title="H02M5/18 ####用于波形的变换的" Target="frmContent" Href="../searchservlet?query=H02M5/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M5/18"/>
+        </TreeNode>
+        <TreeNode Title="H02M5/20 ###应用无控制极的放电管或无控制极的半导体器件的" Target="frmContent" Href="../searchservlet?query=H02M5/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M5/20"/>
+        <TreeNode Title="H02M5/22 ###应用有控制极的放电管或有控制极的半导体器件的" Target="frmContent" Href="../searchservlet?query=H02M5/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M5/22">
+          <TreeNode Title="H02M5/25 ####应用需要熄灭装置的闸流管或晶闸管型器件的(H02M 5/27优先)[2]" Target="frmContent" Href="../searchservlet?query=H02M5/25&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M5/25">
+            <TreeNode Title="H02M5/253 #####仅用放电管的[2]" Target="frmContent" Href="../searchservlet?query=H02M5/253&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M5/253"/>
+            <TreeNode Title="H02M5/257 #####仅用半导体器件的[2]" Target="frmContent" Href="../searchservlet?query=H02M5/257&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M5/257"/>
+            <TreeNode Title="H02M5/27 #####用于频率变换的[2]" Target="frmContent" Href="../searchservlet?query=H02M5/27&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M5/27"/>
+          </TreeNode>
+          <TreeNode Title="H02M5/275 ####应用需要连续使用控制信号的三极管或晶体管式器件的(H02M 5/297优先)[2]" Target="frmContent" Href="../searchservlet?query=H02M5/275&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M5/275">
+            <TreeNode Title="H02M5/29 #####仅用放电管的[2]" Target="frmContent" Href="../searchservlet?query=H02M5/29&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M5/29"/>
+            <TreeNode Title="H02M5/293 #####仅用半导体器件的[2]" Target="frmContent" Href="../searchservlet?query=H02M5/293&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M5/293"/>
+            <TreeNode Title="H02M5/297 #####用于频率变换的[2]" Target="frmContent" Href="../searchservlet?query=H02M5/297&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M5/297"/>
+          </TreeNode>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="H02M5/32 ##用动态变换器的" Target="frmContent" Href="../searchservlet?query=H02M5/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M5/32">
+        <TreeNode Title="H02M5/34 ###应用机械接触开闭零部件的" Target="frmContent" Href="../searchservlet?query=H02M5/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M5/34">
+          <TreeNode Title="H02M5/36 ####其中零部件是转动的，且集电器与电刷或滚轮是协同工作的" Target="frmContent" Href="../searchservlet?query=H02M5/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M5/36"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="H02M5/38 ##由静态变换器与动态变换器组合的；由机电变换器与另一动态变换器或静态变换器组合的" Target="frmContent" Href="../searchservlet?query=H02M5/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M5/38"/>
+    </TreeNode>
+    <TreeNode Title="H02M5/40 #带有中间变换为直流的" Target="frmContent" Href="../searchservlet?query=H02M5/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M5/40">
+      <TreeNode Title="H02M5/42 ##用静态变换器的" Target="frmContent" Href="../searchservlet?query=H02M5/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M5/42">
+        <TreeNode Title="H02M5/44 ###应用放电管或半导体器件将中间直流变为交流的" Target="frmContent" Href="../searchservlet?query=H02M5/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M5/44">
+          <TreeNode Title="H02M5/443 ####应用需要熄灭装置的闸流管或晶闸管器件的[2]" Target="frmContent" Href="../searchservlet?query=H02M5/443&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M5/443">
+            <TreeNode Title="H02M5/447 #####仅用放电管的[2]" Target="frmContent" Href="../searchservlet?query=H02M5/447&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M5/447"/>
+            <TreeNode Title="H02M5/45 #####仅用半导体器件的[2]" Target="frmContent" Href="../searchservlet?query=H02M5/45&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M5/45">
+              <TreeNode Title="H02M5/451 ######带有自动控制输出电压或频率的[4]" Target="frmContent" Href="../searchservlet?query=H02M5/451&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M5/451"/>
+              <TreeNode Title="H02M5/452 ######带有自动控制输出波形的[4]" Target="frmContent" Href="../searchservlet?query=H02M5/452&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M5/452"/>
+            </TreeNode>
+          </TreeNode>
+          <TreeNode Title="H02M5/453 ####应用需要连续使用控制信号的三极管或晶体管器件的[2]" Target="frmContent" Href="../searchservlet?query=H02M5/453&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M5/453">
+            <TreeNode Title="H02M5/456 #####仅用放电管的[2]" Target="frmContent" Href="../searchservlet?query=H02M5/456&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M5/456"/>
+            <TreeNode Title="H02M5/458 #####仅用半导体器件的[2]" Target="frmContent" Href="../searchservlet?query=H02M5/458&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M5/458"/>
+          </TreeNode>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="H02M5/46 ##用动态变换器的" Target="frmContent" Href="../searchservlet?query=H02M5/46&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M5/46"/>
+      <TreeNode Title="H02M5/48 ##由静态变换器与动态变换器组合的；由机电变换器与另一动态变换器或静态变换器组合的" Target="frmContent" Href="../searchservlet?query=H02M5/48&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M5/48"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="H02M7/00 交流功率输入变换为直流功率输出；直流功率输入变换为交流功率输出" Target="frmContent" Href="../searchservlet?query=H02M7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M7/00">
+    <TreeNode Title="H02M7/02 #不可逆的交流功率输入变换为直流功率输出" Target="frmContent" Href="../searchservlet?query=H02M7/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M7/02">
+      <TreeNode Title="H02M7/04 ##用静态变换器的" Target="frmContent" Href="../searchservlet?query=H02M7/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M7/04">
+        <TreeNode Title="H02M7/06 ###应用无控制极的放电管或无控制极的半导体器件的" Target="frmContent" Href="../searchservlet?query=H02M7/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M7/06">
+          <TreeNode Title="H02M7/08 ####安排为并联运行的" Target="frmContent" Href="../searchservlet?query=H02M7/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M7/08"/>
+          <TreeNode Title="H02M7/10 ####安排为串联运行的，例如用于倍压" Target="frmContent" Href="../searchservlet?query=H02M7/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M7/10"/>
+        </TreeNode>
+        <TreeNode Title="H02M7/12 ###应用有控制极的放电管或有控制极的半导体器件的" Target="frmContent" Href="../searchservlet?query=H02M7/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M7/12">
+          <TreeNode Title="H02M7/145 ####应用需要熄灭装置的闸流管或晶闸管型器件的[2，4]" Target="frmContent" Href="../searchservlet?query=H02M7/145&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M7/145">
+            <TreeNode Title="H02M7/15 #####仅用放电管的[2]" Target="frmContent" Href="../searchservlet?query=H02M7/15&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M7/15"/>
+            <TreeNode Title="H02M7/155 #####仅用半导体器件的[2]" Target="frmContent" Href="../searchservlet?query=H02M7/155&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M7/155">
+              <TreeNode Title="H02M7/162 ######在桥式连接中的[4]" Target="frmContent" Href="../searchservlet?query=H02M7/162&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M7/162"/>
+              <TreeNode Title="H02M7/17 ######安排为并联运行的[2，4]" Target="frmContent" Href="../searchservlet?query=H02M7/17&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M7/17"/>
+              <TreeNode Title="H02M7/19 ######安排为串联运行的，例如用于倍压[2，4]" Target="frmContent" Href="../searchservlet?query=H02M7/19&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M7/19"/>
+            </TreeNode>
+          </TreeNode>
+          <TreeNode Title="H02M7/21 ####利用需要连续应用控制信号的三极管或晶体管器件的[2，4]" Target="frmContent" Href="../searchservlet?query=H02M7/21&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M7/21">
+            <TreeNode Title="H02M7/213 #####仅用放电管的[2]" Target="frmContent" Href="../searchservlet?query=H02M7/213&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M7/213"/>
+            <TreeNode Title="H02M7/217 #####仅用半导体器件的[2]" Target="frmContent" Href="../searchservlet?query=H02M7/217&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M7/217">
+              <TreeNode Title="H02M7/219 ######在桥式连接中的[4]" Target="frmContent" Href="../searchservlet?query=H02M7/219&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M7/219"/>
+              <TreeNode Title="H02M7/23 ######安排为并联运行的[2，4]" Target="frmContent" Href="../searchservlet?query=H02M7/23&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M7/23"/>
+              <TreeNode Title="H02M7/25 ######安排为串联运行的，例如用于倍压[2，4]" Target="frmContent" Href="../searchservlet?query=H02M7/25&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M7/25"/>
+            </TreeNode>
+          </TreeNode>
+        </TreeNode>
+        <TreeNode Title="H02M7/26 ###应用明式火花装置的，例如马克斯(Marx)整流器" Target="frmContent" Href="../searchservlet?query=H02M7/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M7/26"/>
+        <TreeNode Title="H02M7/28 ###应用电解整流器的" Target="frmContent" Href="../searchservlet?query=H02M7/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M7/28"/>
+      </TreeNode>
+      <TreeNode Title="H02M7/30 ##用动态变换器的" Target="frmContent" Href="../searchservlet?query=H02M7/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M7/30">
+        <TreeNode Title="H02M7/32 ###应用机械接触开闭零部件的" Target="frmContent" Href="../searchservlet?query=H02M7/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M7/32">
+          <TreeNode Title="H02M7/34 ####其中零部件是转动的，且集电器与电刷或滚轮是协同工作的" Target="frmContent" Href="../searchservlet?query=H02M7/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M7/34"/>
+          <TreeNode Title="H02M7/36 ####带有电磁操作振动接点的，例如斩波器( 一般自断续器入H01H 51/34)" Target="frmContent" Href="../searchservlet?query=H02M7/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M7/36"/>
+        </TreeNode>
+        <TreeNode Title="H02M7/38 ###应用一个或一个以上在反电极上旋转的放电电极的" Target="frmContent" Href="../searchservlet?query=H02M7/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M7/38"/>
+      </TreeNode>
+      <TreeNode Title="H02M7/40 ##由静态变换器与动态变换器组合的；由机电变换器与另一动态变换器或静态变换器组合的" Target="frmContent" Href="../searchservlet?query=H02M7/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M7/40"/>
+    </TreeNode>
+    <TreeNode Title="H02M7/42 #不可逆的直流功率输入变换为交流功率输出的" Target="frmContent" Href="../searchservlet?query=H02M7/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M7/42">
+      <TreeNode Title="H02M7/44 ##利用静态变换器的" Target="frmContent" Href="../searchservlet?query=H02M7/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M7/44">
+        <TreeNode Title="H02M7/46 ###应用无控制极的放电管或无控制极的半导体器件的" Target="frmContent" Href="../searchservlet?query=H02M7/46&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M7/46"/>
+        <TreeNode Title="H02M7/48 ###应用有控制极的放电管或有控制极的半导体器件的[1，2007.01]" Target="frmContent" Href="../searchservlet?query=H02M7/48&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M7/48">
+          <TreeNode Title="H02M7/483 ####具有分别具有两个以上的电压电平的输出的变换器[2007.01]" Target="frmContent" Href="../searchservlet?query=H02M7/483&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M7/483">
+            <TreeNode Title="H02M7/487 #####中性点箝位的逆变器[2007.01]" Target="frmContent" Href="../searchservlet?query=H02M7/487&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M7/487"/>
+            <TreeNode Title="H02M7/49 #####多个变换器的输出电压波形的组合[2007.01]" Target="frmContent" Href="../searchservlet?query=H02M7/49&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M7/49"/>
+          </TreeNode>
+          <TreeNode Title="H02M7/493 ####为并行操作而设置的静态变换器[2007.01]" Target="frmContent" Href="../searchservlet?query=H02M7/493&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M7/493"/>
+          <TreeNode Title="H02M7/497 ####正弦输出电压是通过将异相的几个电压进行组合而得到的[2007.01]" Target="frmContent" Href="../searchservlet?query=H02M7/497&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M7/497"/>
+          <TreeNode Title="H02M7/501 ####正弦输出电压是通过将具有不同幅度和宽度的几个脉冲电压进行组合而得到的[2007.01]" Target="frmContent" Href="../searchservlet?query=H02M7/501&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M7/501"/>
+          <TreeNode Title="H02M7/505 ####应用需要熄灭装置的闸流管或晶闸管型器件的[2]" Target="frmContent" Href="../searchservlet?query=H02M7/505&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M7/505">
+            <TreeNode Title="H02M7/51 #####仅用放电管的[2]" Target="frmContent" Href="../searchservlet?query=H02M7/51&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M7/51"/>
+            <TreeNode Title="H02M7/515 #####仅用半导体器件的[2，2007.01]" Target="frmContent" Href="../searchservlet?query=H02M7/515&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M7/515">
+              <TreeNode Title="H02M7/516 ######自振荡装置[2007.01]" Target="frmContent" Href="../searchservlet?query=H02M7/516&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M7/516"/>
+              <TreeNode Title="H02M7/517 ######带有专用起动设备的[4]" Target="frmContent" Href="../searchservlet?query=H02M7/517&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M7/517"/>
+              <TreeNode Title="H02M7/519 ######在推挽式连接中的(H02M 7/517优先)[4]" Target="frmContent" Href="../searchservlet?query=H02M7/519&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M7/519"/>
+              <TreeNode Title="H02M7/521 ######在桥式连接中的[4]" Target="frmContent" Href="../searchservlet?query=H02M7/521&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M7/521"/>
+              <TreeNode Title="H02M7/523 ######在主电路中带有L-C谐振回路的[4]" Target="frmContent" Href="../searchservlet?query=H02M7/523&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M7/523"/>
+              <TreeNode Title="H02M7/525 ######带有自动控制输出波形或频率的(H02M 7/517至H02M 7/523优先)[4]" Target="frmContent" Href="../searchservlet?query=H02M7/525&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M7/525">
+                <TreeNode Title="H02M7/527 #######用脉冲宽度调制的[4]" Target="frmContent" Href="../searchservlet?query=H02M7/527&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M7/527">
+                  <TreeNode Title="H02M7/529 ########应用数字控制的[4]" Target="frmContent" Href="../searchservlet?query=H02M7/529&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M7/529"/>
+                </TreeNode>
+              </TreeNode>
+            </TreeNode>
+          </TreeNode>
+          <TreeNode Title="H02M7/53 ####利用需要连续应用控制信号的三极管或晶体管器件的[2]" Target="frmContent" Href="../searchservlet?query=H02M7/53&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M7/53">
+            <TreeNode Title="H02M7/533 #####仅用放电管的[2]" Target="frmContent" Href="../searchservlet?query=H02M7/533&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M7/533"/>
+            <TreeNode Title="H02M7/537 #####仅用半导体器件的，例如，单开关脉冲逆变器[2]" Target="frmContent" Href="../searchservlet?query=H02M7/537&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M7/537">
+              <TreeNode Title="H02M7/5375 ######带有专用起动设备的[4]" Target="frmContent" Href="../searchservlet?query=H02M7/5375&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M7/5375"/>
+              <TreeNode Title="H02M7/538 ######在推挽式结构中的(H02M 7/5375优先)[4，2007.01]" Target="frmContent" Href="../searchservlet?query=H02M7/538&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M7/538">
+                <TreeNode Title="H02M7/5381 #######并联型[2007.01]" Target="frmContent" Href="../searchservlet?query=H02M7/5381&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M7/5381"/>
+              </TreeNode>
+              <TreeNode Title="H02M7/5383 ######在自振荡装置中的(H02M 7/538优先)[4，2007.01]" Target="frmContent" Href="../searchservlet?query=H02M7/5383&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M7/5383">
+                <TreeNode Title="H02M7/53838 #######应用单交换路径的[2007.01]" Target="frmContent" Href="../searchservlet?query=H02M7/53838&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M7/53838"/>
+                <TreeNode Title="H02M7/53846 #######控制电路[2007.01]" Target="frmContent" Href="../searchservlet?query=H02M7/53846&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M7/53846">
+                  <TreeNode Title="H02M7/53854 ########应用晶闸管型变换器的[2007.01]" Target="frmContent" Href="../searchservlet?query=H02M7/53854&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M7/53854"/>
+                  <TreeNode Title="H02M7/53862 ########应用晶体管型变换器的[2007.01]" Target="frmContent" Href="../searchservlet?query=H02M7/53862&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M7/53862"/>
+                </TreeNode>
+              </TreeNode>
+              <TreeNode Title="H02M7/5387 ######在桥式结构中的[4，2007.01]" Target="frmContent" Href="../searchservlet?query=H02M7/5387&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M7/5387">
+                <TreeNode Title="H02M7/5388 #######有不对称开关结构的[2007.01]" Target="frmContent" Href="../searchservlet?query=H02M7/5388&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M7/5388"/>
+              </TreeNode>
+              <TreeNode Title="H02M7/539 ######带有自动控制输出波形或频率的(H02M 7/5375至H02M 7/5387优先)[4]" Target="frmContent" Href="../searchservlet?query=H02M7/539&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M7/539">
+                <TreeNode Title="H02M7/5395 #######用脉冲宽度调制的[4]" Target="frmContent" Href="../searchservlet?query=H02M7/5395&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M7/5395"/>
+              </TreeNode>
+            </TreeNode>
+          </TreeNode>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="H02M7/54 ##用动态变换器的" Target="frmContent" Href="../searchservlet?query=H02M7/54&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M7/54">
+        <TreeNode Title="H02M7/56 ###应用机械零部件顺序选择或连续改变输入电位的" Target="frmContent" Href="../searchservlet?query=H02M7/56&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M7/56"/>
+        <TreeNode Title="H02M7/58 ###应用机械接触开闭零部件中断信号电位的" Target="frmContent" Href="../searchservlet?query=H02M7/58&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M7/58">
+          <TreeNode Title="H02M7/60 ####其中零部件是转动的，且集电器与电刷或滚轮是协同工作的" Target="frmContent" Href="../searchservlet?query=H02M7/60&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M7/60"/>
+          <TreeNode Title="H02M7/62 ####具有电磁操作振动接点的，例如斩波器(自断续器一般入H01H 51/34)" Target="frmContent" Href="../searchservlet?query=H02M7/62&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M7/62"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="H02M7/64 ##由静态变换器与动态变换器组合的；由机电变换器与另一动态变换器或静态变换器组合的" Target="frmContent" Href="../searchservlet?query=H02M7/64&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M7/64"/>
+    </TreeNode>
+    <TreeNode Title="H02M7/66 #带有可逆变的" Target="frmContent" Href="../searchservlet?query=H02M7/66&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M7/66">
+      <TreeNode Title="H02M7/68 ##用静态变换器的" Target="frmContent" Href="../searchservlet?query=H02M7/68&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M7/68">
+        <TreeNode Title="H02M7/70 ###应用无控制极的放电管或无控制极的半导体器件的" Target="frmContent" Href="../searchservlet?query=H02M7/70&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M7/70"/>
+        <TreeNode Title="H02M7/72 ###应用有控制极的放电管或有控制极的半导体器件的" Target="frmContent" Href="../searchservlet?query=H02M7/72&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M7/72">
+          <TreeNode Title="H02M7/75 ####应用需要熄灭装置的闸流管或晶闸管型器件的(H02M 7/77优先)[2]" Target="frmContent" Href="../searchservlet?query=H02M7/75&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M7/75">
+            <TreeNode Title="H02M7/753 #####仅用放电管的[2]" Target="frmContent" Href="../searchservlet?query=H02M7/753&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M7/753"/>
+            <TreeNode Title="H02M7/757 #####仅用半导体器件的[2]" Target="frmContent" Href="../searchservlet?query=H02M7/757&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M7/757">
+              <TreeNode Title="H02M7/758 ######带有自动控制输出波形或频率的[4]" Target="frmContent" Href="../searchservlet?query=H02M7/758&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M7/758"/>
+            </TreeNode>
+            <TreeNode Title="H02M7/77 #####安排为并联运行的[2]" Target="frmContent" Href="../searchservlet?query=H02M7/77&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M7/77"/>
+          </TreeNode>
+          <TreeNode Title="H02M7/79 ####应用需要连续应用控制信号的三极管或晶体管器件的(H02M 7/81优先)[2]" Target="frmContent" Href="../searchservlet?query=H02M7/79&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M7/79">
+            <TreeNode Title="H02M7/793 #####仅用放电管的[2]" Target="frmContent" Href="../searchservlet?query=H02M7/793&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M7/793"/>
+            <TreeNode Title="H02M7/797 #####仅用半导体器件的[2]" Target="frmContent" Href="../searchservlet?query=H02M7/797&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M7/797"/>
+            <TreeNode Title="H02M7/81 #####安排为并联运行的[2]" Target="frmContent" Href="../searchservlet?query=H02M7/81&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M7/81"/>
+          </TreeNode>
+        </TreeNode>
+        <TreeNode Title="H02M7/82 ###应用明式火花装置的，例如马克斯整流器的" Target="frmContent" Href="../searchservlet?query=H02M7/82&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M7/82"/>
+        <TreeNode Title="H02M7/84 ###应用电解整流器的" Target="frmContent" Href="../searchservlet?query=H02M7/84&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M7/84"/>
+      </TreeNode>
+      <TreeNode Title="H02M7/86 ##用动态变换器的" Target="frmContent" Href="../searchservlet?query=H02M7/86&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M7/86">
+        <TreeNode Title="H02M7/88 ###应用机械零部件顺序选择或连续改变输入电位的" Target="frmContent" Href="../searchservlet?query=H02M7/88&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M7/88"/>
+        <TreeNode Title="H02M7/90 ###应用机械接触开闭零部件中断信号电位的" Target="frmContent" Href="../searchservlet?query=H02M7/90&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M7/90">
+          <TreeNode Title="H02M7/92 ####其中零部件是转动的，且集电器与电刷或滚轮是协同工作的" Target="frmContent" Href="../searchservlet?query=H02M7/92&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M7/92"/>
+          <TreeNode Title="H02M7/94 ####其中零部件由转动凸轮或类似凸轮的装置操作的" Target="frmContent" Href="../searchservlet?query=H02M7/94&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M7/94"/>
+          <TreeNode Title="H02M7/95 ####带有电磁操作振动接点的，例如斩波器(自断续器一般入H01H 51/34)" Target="frmContent" Href="../searchservlet?query=H02M7/95&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M7/95"/>
+          <TreeNode Title="H02M7/96 ####带有移动的液体触点的" Target="frmContent" Href="../searchservlet?query=H02M7/96&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M7/96"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="H02M7/98 ##由静态变换器与动态变换器组合的；由机电变换器与另一动态变换器或静态变换器组合的" Target="frmContent" Href="../searchservlet?query=H02M7/98&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M7/98"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="H02M9/00 直流或交流功率输入变换为浪涌功率输出[2]" Target="frmContent" Href="../searchservlet?query=H02M9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M9/00">
+    <TreeNode Title="H02M9/02 #带有直流功率输入的[2]" Target="frmContent" Href="../searchservlet?query=H02M9/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M9/02">
+      <TreeNode Title="H02M9/04 ##应用电容性存贮器的[2]" Target="frmContent" Href="../searchservlet?query=H02M9/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M9/04"/>
+    </TreeNode>
+    <TreeNode Title="H02M9/06 #带有交流功率输入的[2]" Target="frmContent" Href="../searchservlet?query=H02M9/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M9/06"/>
+  </TreeNode>
+  <TreeNode Title="H02M11/00 本小类其他各组不包含的电力变换系统[4]" Target="frmContent" Href="../searchservlet?query=H02M11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02M11/00"/>
+</Root>

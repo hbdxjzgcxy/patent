@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="B05C1/00 在装置中使用工件与载有液体或其他流体的构件相接触，例如多孔构件装上作涂层用的液体，将液体或其他流体涂布于工件表面(B05C 5/02，B05C 7/00，B05C 19/00优先)[2]" Target="frmContent" Href="../searchservlet?query=B05C1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B05C1/00">
+    <TreeNode Title="B05C1/02 #对分开的各个物品涂布液体或其他流体" Target="frmContent" Href="../searchservlet?query=B05C1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B05C1/02"/>
+    <TreeNode Title="B05C1/04 #对不定长度的工件涂布液体或其他流体" Target="frmContent" Href="../searchservlet?query=B05C1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B05C1/04">
+      <TreeNode Title="B05C1/06 ##用摩擦接触，如用刷，用垫" Target="frmContent" Href="../searchservlet?query=B05C1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B05C1/06"/>
+      <TreeNode Title="B05C1/08 ##用滚子[2]" Target="frmContent" Href="../searchservlet?query=B05C1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B05C1/08">
+        <TreeNode Title="B05C1/10 ###从滚子内部供给液体或其他流体" Target="frmContent" Href="../searchservlet?query=B05C1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B05C1/10"/>
+        <TreeNode Title="B05C1/12 ###工件在滚子周围进给(B05C 1/10优先)" Target="frmContent" Href="../searchservlet?query=B05C1/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B05C1/12"/>
+      </TreeNode>
+      <TreeNode Title="B05C1/14 ##用传送带[2]" Target="frmContent" Href="../searchservlet?query=B05C1/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B05C1/14"/>
+      <TreeNode Title="B05C1/16 ##仅在工件的特殊部分" Target="frmContent" Href="../searchservlet?query=B05C1/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B05C1/16"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="B05C3/00 使工件与大量液体或其他流体在其内部相接触的容器(B05C 19/00优先)[2]" Target="frmContent" Href="../searchservlet?query=B05C3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B05C3/00">
+    <TreeNode Title="B05C3/02 #把工件浸入液体或其他流体中" Target="frmContent" Href="../searchservlet?query=B05C3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B05C3/02">
+      <TreeNode Title="B05C3/04 ##用专用设备搅动工件或搅动液体或其他流体" Target="frmContent" Href="../searchservlet?query=B05C3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B05C3/04">
+        <TreeNode Title="B05C3/05 ###上述设备应用振动" Target="frmContent" Href="../searchservlet?query=B05C3/05&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B05C3/05"/>
+        <TreeNode Title="B05C3/08 ###在容器中工件和液体或其他流体被一起搅动，如滚筒(B05C 3/05优先)" Target="frmContent" Href="../searchservlet?query=B05C3/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B05C3/08"/>
+      </TreeNode>
+      <TreeNode Title="B05C3/09 ##处理单独的物品" Target="frmContent" Href="../searchservlet?query=B05C3/09&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B05C3/09">
+        <TreeNode Title="B05C3/10 ###移动物品通过液体或其他流体(运动物体通过镀槽入B65G，例如B65G 49/02)" Target="frmContent" Href="../searchservlet?query=B05C3/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B05C3/10"/>
+        <TreeNode Title="B05C3/109 ###液体或其他流体进入或通过装有固定物品的容器" Target="frmContent" Href="../searchservlet?query=B05C3/109&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B05C3/109"/>
+      </TreeNode>
+      <TreeNode Title="B05C3/12 ##处理长度不定的工件" Target="frmContent" Href="../searchservlet?query=B05C3/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B05C3/12">
+        <TreeNode Title="B05C3/132 ###支撑在传送装置上" Target="frmContent" Href="../searchservlet?query=B05C3/132&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B05C3/132"/>
+        <TreeNode Title="B05C3/15 ###不支撑在传送装置上(金属薄带或细丝的送料装置本身入B65H)" Target="frmContent" Href="../searchservlet?query=B05C3/15&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B05C3/15">
+          <TreeNode Title="B05C3/152 ####工件以Z字形方式通过滚子" Target="frmContent" Href="../searchservlet?query=B05C3/152&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B05C3/152"/>
+          <TreeNode Title="B05C3/172 ####用循环方式" Target="frmContent" Href="../searchservlet?query=B05C3/172&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B05C3/172"/>
+        </TreeNode>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="B05C3/18 #工件只有一面与液体或其他流体接触(B05C 3/02优先)[2]" Target="frmContent" Href="../searchservlet?query=B05C3/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B05C3/18"/>
+    <TreeNode Title="B05C3/20 #仅在工件的个别部分涂布液体或其他流体(B05C 3/02优先)[2]" Target="frmContent" Href="../searchservlet?query=B05C3/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B05C3/20"/>
+  </TreeNode>
+  <TreeNode Title="B05C5/00 将液体或其他流体物质喷射，灌注或让其流到工件表面的装置(B05C 7/00，B05C 19/00优先；主要包含喷射或静电喷射的入B05B)" Target="frmContent" Href="../searchservlet?query=B05C5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B05C5/00">
+    <TreeNode Title="B05C5/02 #液体从与工件接触的或几乎接触的一个出口中出来(B05C 5/04优先)[3]" Target="frmContent" Href="../searchservlet?query=B05C5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B05C5/02"/>
+    <TreeNode Title="B05C5/04 #液体或其他流体以固体状态供给到装置中，并在应用之前熔化[3]" Target="frmContent" Href="../searchservlet?query=B05C5/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B05C5/04"/>
+  </TreeNode>
+  <TreeNode Title="B05C7/00 为对空心工件内面涂布液体或其他流体而专门设计的装置(B05C 19/00优先)" Target="frmContent" Href="../searchservlet?query=B05C7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B05C7/00">
+    <TreeNode Title="B05C7/02 #液体或其他流体是被喷射的" Target="frmContent" Href="../searchservlet?query=B05C7/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B05C7/02"/>
+    <TreeNode Title="B05C7/04 #液体或其他流体是流过工件的或被移动通过工件；工件中注满液体或其他流体然后被排空" Target="frmContent" Href="../searchservlet?query=B05C7/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B05C7/04"/>
+    <TreeNode Title="B05C7/06 #装置在移动中与工件接触" Target="frmContent" Href="../searchservlet?query=B05C7/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B05C7/06">
+      <TreeNode Title="B05C7/08 ##对管子内部涂布液体或其他流体" Target="frmContent" Href="../searchservlet?query=B05C7/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B05C7/08"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="B05C9/00 把液体或其他流体涂于表面的装置或设备，所采用的方法未包含在B05C 1/00至B05C 7/00组，或表面涂布液体或其他流体的方法不是重要的(B05C 19/00优先)" Target="frmContent" Href="../searchservlet?query=B05C9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B05C9/00">
+    <TreeNode Title="B05C9/02 #对表面涂布液体或其他流体采用B05C 1/00至B05C 7/00中未包含的一个方法，不论是否还使用其他的方法" Target="frmContent" Href="../searchservlet?query=B05C9/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B05C9/02"/>
+    <TreeNode Title="B05C9/04 #对工件的相对面涂布液体或其他流体" Target="frmContent" Href="../searchservlet?query=B05C9/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B05C9/04"/>
+    <TreeNode Title="B05C9/06 #对工件的同一个面要求涂布两种不同的液体或其他流体，或者用同一种液体或其他流体涂布二次" Target="frmContent" Href="../searchservlet?query=B05C9/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B05C9/06"/>
+    <TreeNode Title="B05C9/08 #涂布液体或其他流体并完成辅助操作[2]" Target="frmContent" Href="../searchservlet?query=B05C9/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B05C9/08">
+      <TreeNode Title="B05C9/10 ##在涂布之前完成辅助操作(B05C 9/14优先)" Target="frmContent" Href="../searchservlet?query=B05C9/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B05C9/10"/>
+      <TreeNode Title="B05C9/12 ##在涂布以后完成辅助操作(B05C 9/14优先)" Target="frmContent" Href="../searchservlet?query=B05C9/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B05C9/12"/>
+      <TreeNode Title="B05C9/14 ##辅助操作包括加热" Target="frmContent" Href="../searchservlet?query=B05C9/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B05C9/14"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="B05C11/00 在B05C 1/00至B05C 9/00中没有专门列入的部件、零件及附件(B05C 19/00优先；操纵及夹持工件的方法入B05C 13/00；设备的屏蔽、喷雾装置入B05C 15/00；喷雾室入B05B 15/12)[2]" Target="frmContent" Href="../searchservlet?query=B05C11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B05C11/00">
+    <TreeNode Title="B05C11/02 #向已经涂布过的表面涂敷或分布液体或其他流体的装置(B05C 7/00优先；为此目的使用的手工工具入B05C 17/10)；涂层厚度的控制(液体或其他流体供给量的控制入B05C 11/10)[2]" Target="frmContent" Href="../searchservlet?query=B05C11/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B05C11/02">
+      <TreeNode Title="B05C11/04 ##用刀片的" Target="frmContent" Href="../searchservlet?query=B05C11/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B05C11/04"/>
+      <TreeNode Title="B05C11/06 ##用气体或蒸气冲击[2]" Target="frmContent" Href="../searchservlet?query=B05C11/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B05C11/06"/>
+      <TreeNode Title="B05C11/08 ##通过操纵工件，如倾斜涂敷液体或其他流体" Target="frmContent" Href="../searchservlet?query=B05C11/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B05C11/08"/>
+    </TreeNode>
+    <TreeNode Title="B05C11/10 #液体或其他流体的存贮、供给或控制，过量液体或其他流体的回收" Target="frmContent" Href="../searchservlet?query=B05C11/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B05C11/10">
+      <TreeNode Title="B05C11/105 ##毛细管作用，如利用吸油绳" Target="frmContent" Href="../searchservlet?query=B05C11/105&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B05C11/105"/>
+    </TreeNode>
+    <TreeNode Title="B05C11/11 #盛液体或其他流体物质的桶或其他容器" Target="frmContent" Href="../searchservlet?query=B05C11/11&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B05C11/11">
+      <TreeNode Title="B05C11/115 ##工件入口或出口的密封方法" Target="frmContent" Href="../searchservlet?query=B05C11/115&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B05C11/115"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="B05C13/00 操纵或夹持工件的方法，如对单个物体[2]" Target="frmContent" Href="../searchservlet?query=B05C13/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B05C13/00">
+    <TreeNode Title="B05C13/02 #对特殊物品[2]" Target="frmContent" Href="../searchservlet?query=B05C13/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B05C13/02"/>
+  </TreeNode>
+  <TreeNode Title="B05C15/00 设备的屏蔽；喷雾装置(喷雾室入B05B 15/12)[4]" Target="frmContent" Href="../searchservlet?query=B05C15/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B05C15/00"/>
+  <TreeNode Title="B05C17/00 手工工具或使用手持工具的装置，用于把液体或其他流体涂布在表面上，用于对表面涂敷液体或其他流体的铺开，或从表面上部分地除掉液体或其他流体(刷子入A46B；吸收衬垫，例如药签，用于将介质涂敷于人体的入A61F 13/15；从表面除掉干油漆的工具或设备入B44D 3/16)[2]" Target="frmContent" Href="../searchservlet?query=B05C17/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B05C17/00">
+    <TreeNode Title="B05C17/005 #靠压力将材料排出出口孔的(B05C 17/02优先；借助于活塞或类似物具有分配液态材料的专用装置的容器或封壳入B65D 83/76；润滑油枪入F16N 3/12)[5]" Target="frmContent" Href="../searchservlet?query=B05C17/005&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B05C17/005">
+      <TreeNode Title="B05C17/01 ##具有机械或电动驱动的活塞或类似物的[5]" Target="frmContent" Href="../searchservlet?query=B05C17/01&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B05C17/01"/>
+      <TreeNode Title="B05C17/015 ##具有气动驱动的活塞或类似物的[5]" Target="frmContent" Href="../searchservlet?query=B05C17/015&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B05C17/015"/>
+    </TreeNode>
+    <TreeNode Title="B05C17/02 #辊[2]" Target="frmContent" Href="../searchservlet?query=B05C17/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B05C17/02">
+      <TreeNode Title="B05C17/025 ##具有自备容器的[5]" Target="frmContent" Href="../searchservlet?query=B05C17/025&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B05C17/025"/>
+      <TreeNode Title="B05C17/03 ##具有供给来自外源材料的送料系统的[5]" Target="frmContent" Href="../searchservlet?query=B05C17/03&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B05C17/03">
+        <TreeNode Title="B05C17/035 ###直接供给辊的外表面的[5]" Target="frmContent" Href="../searchservlet?query=B05C17/035&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B05C17/035"/>
+      </TreeNode>
+      <TreeNode Title="B05C17/04 ##油印辊[2]" Target="frmContent" Href="../searchservlet?query=B05C17/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B05C17/04"/>
+    </TreeNode>
+    <TreeNode Title="B05C17/06 #油印用的蜡纸(B05C 17/04优先；与印版或箔配合的蜡纸入B41N 1/24；绘图用附件入B43L 13/00)[2]" Target="frmContent" Href="../searchservlet?query=B05C17/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B05C17/06">
+      <TreeNode Title="B05C17/08 ##蜡纸夹持器[2]" Target="frmContent" Href="../searchservlet?query=B05C17/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B05C17/08"/>
+    </TreeNode>
+    <TreeNode Title="B05C17/10 #手工工具，用于部分地除去、涂敷或再加涂液体或其他流体，如颜料补涂工具[2]" Target="frmContent" Href="../searchservlet?query=B05C17/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B05C17/10"/>
+    <TreeNode Title="B05C17/12 #制造图案的其他手工工具[2]" Target="frmContent" Href="../searchservlet?query=B05C17/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B05C17/12"/>
+  </TreeNode>
+  <TreeNode Title="B05C19/00 专门用于对表面涂布微粒物质的装置[2]" Target="frmContent" Href="../searchservlet?query=B05C19/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B05C19/00">
+    <TreeNode Title="B05C19/02 #采用流化床技术(一般流化床技术入B01J 8/24)[2]" Target="frmContent" Href="../searchservlet?query=B05C19/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B05C19/02"/>
+    <TreeNode Title="B05C19/04 #微粒物质喷射、浇注或允许流到加工表面的(B05C 19/02优先；涉及喷雾或静电喷射入B05B)[5]" Target="frmContent" Href="../searchservlet?query=B05C19/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B05C19/04"/>
+    <TreeNode Title="B05C19/06 #微粒材料的贮藏、供给或应用的控制；过量微粒材料的回收[5]" Target="frmContent" Href="../searchservlet?query=B05C19/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B05C19/06"/>
+  </TreeNode>
+  <TreeNode Title="B05C21/00 不包含在B05C 1/00至B05C 19/00各组中的，关于对表面涂布液体或其他流体所使用的辅助设备或工具(在绘画或艺术作图方面使用的辅助设备或工具完全包含在B44D 3/02至B44D 3/38中，参见B44D 3/00组)[2]" Target="frmContent" Href="../searchservlet?query=B05C21/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B05C21/00"/>
+</Root>

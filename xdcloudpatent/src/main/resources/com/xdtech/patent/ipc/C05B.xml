@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="C05B1/00 过磷酸钙，即为直接得到固体产品用磷酸岩或骨质磷酸盐与一定量及一定浓度的硫酸或磷酸反应生产的肥料" Target="frmContent" Href="../searchservlet?query=C05B1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C05B1/00">
+    <TreeNode Title="C05B1/02 #过磷酸钙" Target="frmContent" Href="../searchservlet?query=C05B1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C05B1/02"/>
+    <TreeNode Title="C05B1/04 #复合过磷酸钙；三重过磷酸钙，以磷酸一钙为基料的其他肥料" Target="frmContent" Href="../searchservlet?query=C05B1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C05B1/04"/>
+    <TreeNode Title="C05B1/06 #过磷酸盐类的氨化(以正磷酸铵为基料的肥料入C05B 7/00)" Target="frmContent" Href="../searchservlet?query=C05B1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C05B1/06"/>
+    <TreeNode Title="C05B1/10 #过磷酸钙生产设备" Target="frmContent" Href="../searchservlet?query=C05B1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C05B1/10"/>
+  </TreeNode>
+  <TreeNode Title="C05B3/00 以磷酸二钙为基料的肥料(C05B 11/00优先)" Target="frmContent" Href="../searchservlet?query=C05B3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C05B3/00"/>
+  <TreeNode Title="C05B5/00 托马斯磷肥；其他矿渣磷肥" Target="frmContent" Href="../searchservlet?query=C05B5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C05B5/00"/>
+  <TreeNode Title="C05B7/00 以正磷酸铵或碱为基料的肥料(C05B 11/00优先)" Target="frmContent" Href="../searchservlet?query=C05B7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C05B7/00"/>
+  <TreeNode Title="C05B9/00 以磷酸镁或双料磷酸镁为基料的肥料(C05B 11/00优先)" Target="frmContent" Href="../searchservlet?query=C05B9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C05B9/00"/>
+  <TreeNode Title="C05B11/00 用湿法处理或用一定量及一定浓度的酸浸析原料以得到溶液然后加以中和的方法，或用碱液浸析原料的方法生产的肥料" Target="frmContent" Href="../searchservlet?query=C05B11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C05B11/00">
+    <TreeNode Title="C05B11/02 #预处理" Target="frmContent" Href="../searchservlet?query=C05B11/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C05B11/02"/>
+    <TreeNode Title="C05B11/04 #用无机酸" Target="frmContent" Href="../searchservlet?query=C05B11/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C05B11/04">
+      <TreeNode Title="C05B11/06 ##用硝酸(硝基磷酸盐)" Target="frmContent" Href="../searchservlet?query=C05B11/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C05B11/06"/>
+      <TreeNode Title="C05B11/08 ##用硫酸" Target="frmContent" Href="../searchservlet?query=C05B11/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C05B11/08"/>
+      <TreeNode Title="C05B11/10 ##用正磷酸" Target="frmContent" Href="../searchservlet?query=C05B11/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C05B11/10"/>
+      <TreeNode Title="C05B11/12 ##用盐酸水溶液" Target="frmContent" Href="../searchservlet?query=C05B11/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C05B11/12"/>
+      <TreeNode Title="C05B11/14 ##用湿的气态酸类" Target="frmContent" Href="../searchservlet?query=C05B11/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C05B11/14"/>
+    </TreeNode>
+    <TreeNode Title="C05B11/16 #用碱液" Target="frmContent" Href="../searchservlet?query=C05B11/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C05B11/16"/>
+  </TreeNode>
+  <TreeNode Title="C05B13/00 用焦化法自含磷酸盐材料生产的肥料" Target="frmContent" Href="../searchservlet?query=C05B13/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C05B13/00">
+    <TreeNode Title="C05B13/02 #自磷酸盐岩(C05B 13/06优先)" Target="frmContent" Href="../searchservlet?query=C05B13/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C05B13/02"/>
+    <TreeNode Title="C05B13/04 #自金属的磷化合物，如铁磷化合物" Target="frmContent" Href="../searchservlet?query=C05B13/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C05B13/04"/>
+    <TreeNode Title="C05B13/06 #碱金属或碱土金属的偏磷酸盐或多磷酸盐肥料" Target="frmContent" Href="../searchservlet?query=C05B13/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C05B13/06"/>
+  </TreeNode>
+  <TreeNode Title="C05B15/00 有机磷肥(骨粉入C05B 17/00)" Target="frmContent" Href="../searchservlet?query=C05B15/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C05B15/00"/>
+  <TreeNode Title="C05B17/00 其他磷肥，如软磷酸盐岩、骨粉" Target="frmContent" Href="../searchservlet?query=C05B17/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C05B17/00">
+    <TreeNode Title="C05B17/02 #含锰的" Target="frmContent" Href="../searchservlet?query=C05B17/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C05B17/02"/>
+  </TreeNode>
+  <TreeNode Title="C05B19/00 非矿渣磷肥的造粒或压片(矿渣造粒入C04B)" Target="frmContent" Href="../searchservlet?query=C05B19/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C05B19/00">
+    <TreeNode Title="C05B19/02 #过磷酸钙或含过磷酸钙的混合物" Target="frmContent" Href="../searchservlet?query=C05B19/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C05B19/02"/>
+  </TreeNode>
+  <TreeNode Title="C05B21/00 包含在C05B 1/00至C05B 19/00一个以上的大组中的混合磷肥" Target="frmContent" Href="../searchservlet?query=C05B21/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C05B21/00"/>
+</Root>

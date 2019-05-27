@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="H04S1/00 双声道系统(H04S 5/00，H04S 7/00优先)[3]" Target="frmContent" Href="../searchservlet?query=H04S1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04S1/00"/>
+  <TreeNode Title="H04S3/00 应用两个以上声道系统，例如四声道系统(H04S 5/00，H04S 7/00优先)[3]" Target="frmContent" Href="../searchservlet?query=H04S3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04S3/00">
+    <TreeNode Title="H04S3/02 #矩阵型的，即其输入信号是代数相加的，例如在彼此间产生相移之后[3]" Target="frmContent" Href="../searchservlet?query=H04S3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04S3/02"/>
+  </TreeNode>
+  <TreeNode Title="H04S5/00 准立体声系统，例如其中附加声道信号是从单声道信号经移相、延时或混响后得到的(用于产生混响或回声的装置入G10K 15/08)[3]" Target="frmContent" Href="../searchservlet?query=H04S5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04S5/00">
+    <TreeNode Title="H04S5/02 #准四声道立体声型的，例如其中背后声道信号是由双声道立体声信号产生的[3]" Target="frmContent" Href="../searchservlet?query=H04S5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04S5/02"/>
+  </TreeNode>
+  <TreeNode Title="H04S7/00 指示装置；控制装置，例如平衡控制[3]" Target="frmContent" Href="../searchservlet?query=H04S7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04S7/00"/>
+</Root>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="C01D1/00 钠、钾或一般碱金属的氧化物或氢氧化物[2]" Target="frmContent" Href="../searchservlet?query=C01D1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01D1/00">
+    <TreeNode Title="C01D1/02 #氧化物" Target="frmContent" Href="../searchservlet?query=C01D1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01D1/02"/>
+    <TreeNode Title="C01D1/04 #氢氧化物" Target="frmContent" Href="../searchservlet?query=C01D1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01D1/04">
+      <TreeNode Title="C01D1/20 ##用碱金属盐与氧化物或氢氧化物反应制备" Target="frmContent" Href="../searchservlet?query=C01D1/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01D1/20">
+        <TreeNode Title="C01D1/22 ###用碳酸盐或酸式碳酸盐" Target="frmContent" Href="../searchservlet?query=C01D1/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01D1/22"/>
+        <TreeNode Title="C01D1/24 ###从或经由氟化物或硅氟化物" Target="frmContent" Href="../searchservlet?query=C01D1/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01D1/24"/>
+      </TreeNode>
+      <TreeNode Title="C01D1/26 ##从或经由氰基化合物，如氰化物，氰氨制备" Target="frmContent" Href="../searchservlet?query=C01D1/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01D1/26"/>
+      <TreeNode Title="C01D1/28 ##纯化；分离" Target="frmContent" Href="../searchservlet?query=C01D1/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01D1/28">
+        <TreeNode Title="C01D1/30 ###用结晶法" Target="frmContent" Href="../searchservlet?query=C01D1/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01D1/30"/>
+        <TreeNode Title="C01D1/32 ###用吸附或沉淀法" Target="frmContent" Href="../searchservlet?query=C01D1/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01D1/32"/>
+        <TreeNode Title="C01D1/34 ###用选择性溶剂" Target="frmContent" Href="../searchservlet?query=C01D1/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01D1/34"/>
+        <TreeNode Title="C01D1/36 ###用氧化法" Target="frmContent" Href="../searchservlet?query=C01D1/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01D1/36"/>
+        <TreeNode Title="C01D1/38 ###用渗析法" Target="frmContent" Href="../searchservlet?query=C01D1/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01D1/38"/>
+        <TreeNode Title="C01D1/40 ###用电解法" Target="frmContent" Href="../searchservlet?query=C01D1/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01D1/40"/>
+      </TreeNode>
+      <TreeNode Title="C01D1/42 ##浓缩；脱水" Target="frmContent" Href="../searchservlet?query=C01D1/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01D1/42"/>
+      <TreeNode Title="C01D1/44 ##制备粒状、片状或其他形状的产品" Target="frmContent" Href="../searchservlet?query=C01D1/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01D1/44"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="C01D3/00 钠、钾或一般碱金属的卤化物[2]" Target="frmContent" Href="../searchservlet?query=C01D3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01D3/00">
+    <TreeNode Title="C01D3/02 #氟化物" Target="frmContent" Href="../searchservlet?query=C01D3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01D3/02"/>
+    <TreeNode Title="C01D3/04 #氯化物" Target="frmContent" Href="../searchservlet?query=C01D3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01D3/04">
+      <TreeNode Title="C01D3/06 ##用加工盐水、海水或废碱液制备" Target="frmContent" Href="../searchservlet?query=C01D3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01D3/06"/>
+      <TreeNode Title="C01D3/08 ##用加工天然或工业盐混合物或含硅矿物制备" Target="frmContent" Href="../searchservlet?query=C01D3/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01D3/08"/>
+    </TreeNode>
+    <TreeNode Title="C01D3/10 #溴化物" Target="frmContent" Href="../searchservlet?query=C01D3/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01D3/10"/>
+    <TreeNode Title="C01D3/12 #碘化物" Target="frmContent" Href="../searchservlet?query=C01D3/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01D3/12"/>
+    <TreeNode Title="C01D3/14 #纯化" Target="frmContent" Href="../searchservlet?query=C01D3/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01D3/14">
+      <TreeNode Title="C01D3/16 ##用沉淀或吸附法" Target="frmContent" Href="../searchservlet?query=C01D3/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01D3/16"/>
+      <TreeNode Title="C01D3/18 ##用选择性溶剂" Target="frmContent" Href="../searchservlet?query=C01D3/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01D3/18"/>
+      <TreeNode Title="C01D3/20 ##用熔化法" Target="frmContent" Href="../searchservlet?query=C01D3/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01D3/20"/>
+    </TreeNode>
+    <TreeNode Title="C01D3/22 #制备粒状、片状或其他形状的产品" Target="frmContent" Href="../searchservlet?query=C01D3/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01D3/22">
+      <TreeNode Title="C01D3/24 ##对结晶过程的影响" Target="frmContent" Href="../searchservlet?query=C01D3/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01D3/24"/>
+    </TreeNode>
+    <TreeNode Title="C01D3/26 #防止晶体吸潮或结块" Target="frmContent" Href="../searchservlet?query=C01D3/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01D3/26"/>
+  </TreeNode>
+  <TreeNode Title="C01D5/00 钠、钾或一般碱金属的硫酸盐或亚硫酸盐[2]" Target="frmContent" Href="../searchservlet?query=C01D5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01D5/00">
+    <TreeNode Title="C01D5/02 #从碱金属盐和硫酸或酸式硫酸盐制备硫酸盐；酸式硫酸盐的制备" Target="frmContent" Href="../searchservlet?query=C01D5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01D5/02"/>
+    <TreeNode Title="C01D5/04 #借助于亚硫酸或亚硫酸盐制备硫酸盐，如哈格里夫斯(Hargreaves)法" Target="frmContent" Href="../searchservlet?query=C01D5/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01D5/04"/>
+    <TreeNode Title="C01D5/06 #用复分解法制备硫酸盐" Target="frmContent" Href="../searchservlet?query=C01D5/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01D5/06">
+      <TreeNode Title="C01D5/08 ##相互作用或与硫酸铵作用" Target="frmContent" Href="../searchservlet?query=C01D5/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01D5/08"/>
+      <TreeNode Title="C01D5/10 ##用镁、钙、锶或钡的硫酸盐" Target="frmContent" Href="../searchservlet?query=C01D5/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01D5/10"/>
+    </TreeNode>
+    <TreeNode Title="C01D5/12 #制备钠或钾与镁的复式硫酸盐[2]" Target="frmContent" Href="../searchservlet?query=C01D5/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01D5/12"/>
+    <TreeNode Title="C01D5/14 #亚硫酸盐的制备(C01D 5/04优先)" Target="frmContent" Href="../searchservlet?query=C01D5/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01D5/14"/>
+    <TreeNode Title="C01D5/16 #提纯" Target="frmContent" Href="../searchservlet?query=C01D5/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01D5/16"/>
+    <TreeNode Title="C01D5/18 #脱水" Target="frmContent" Href="../searchservlet?query=C01D5/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01D5/18"/>
+  </TreeNode>
+  <TreeNode Title="C01D7/00 钠、钾或一般碱金属的碳酸盐[2]" Target="frmContent" Href="../searchservlet?query=C01D7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01D7/00">
+    <TreeNode Title="C01D7/02 #用复分解法制备" Target="frmContent" Href="../searchservlet?query=C01D7/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01D7/02">
+      <TreeNode Title="C01D7/04 ##用氟化物或硅氟化物(C01D 1/24优先)" Target="frmContent" Href="../searchservlet?query=C01D7/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01D7/04"/>
+    </TreeNode>
+    <TreeNode Title="C01D7/06 #经由碳酸镁钠或碳酸镁钾制备" Target="frmContent" Href="../searchservlet?query=C01D7/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01D7/06"/>
+    <TreeNode Title="C01D7/07 #用氢氧化物制备[2]" Target="frmContent" Href="../searchservlet?query=C01D7/07&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01D7/07"/>
+    <TreeNode Title="C01D7/08 #从或经由钠或钾的氰基化合物制备(C01D 1/26优先)" Target="frmContent" Href="../searchservlet?query=C01D7/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01D7/08"/>
+    <TreeNode Title="C01D7/10 #用碳酸盐制备酸式碳酸盐(氨碱法入C01D 7/18)" Target="frmContent" Href="../searchservlet?query=C01D7/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01D7/10"/>
+    <TreeNode Title="C01D7/12 #用酸式碳酸盐制备碳酸盐" Target="frmContent" Href="../searchservlet?query=C01D7/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01D7/12"/>
+    <TreeNode Title="C01D7/14 #倍半碳酸盐的制备" Target="frmContent" Href="../searchservlet?query=C01D7/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01D7/14"/>
+    <TreeNode Title="C01D7/16 #用钠或钾的化合物与胺和二氧化碳制备" Target="frmContent" Href="../searchservlet?query=C01D7/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01D7/16"/>
+    <TreeNode Title="C01D7/18 #用氨碱法制备" Target="frmContent" Href="../searchservlet?query=C01D7/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01D7/18"/>
+    <TreeNode Title="C01D7/22 #提纯" Target="frmContent" Href="../searchservlet?query=C01D7/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01D7/22">
+      <TreeNode Title="C01D7/24 ##结晶" Target="frmContent" Href="../searchservlet?query=C01D7/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01D7/24"/>
+      <TreeNode Title="C01D7/26 ##用沉淀或吸附法" Target="frmContent" Href="../searchservlet?query=C01D7/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01D7/26"/>
+      <TreeNode Title="C01D7/28 ##用选择性溶剂" Target="frmContent" Href="../searchservlet?query=C01D7/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01D7/28"/>
+      <TreeNode Title="C01D7/30 ##用氧化法" Target="frmContent" Href="../searchservlet?query=C01D7/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01D7/30"/>
+      <TreeNode Title="C01D7/32 ##用渗析法" Target="frmContent" Href="../searchservlet?query=C01D7/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01D7/32"/>
+      <TreeNode Title="C01D7/34 ##用电解法" Target="frmContent" Href="../searchservlet?query=C01D7/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01D7/34"/>
+    </TreeNode>
+    <TreeNode Title="C01D7/35 #改变结晶水含量或比重[2]" Target="frmContent" Href="../searchservlet?query=C01D7/35&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01D7/35">
+      <TreeNode Title="C01D7/37 ##碳酸钠增浓[2]" Target="frmContent" Href="../searchservlet?query=C01D7/37&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01D7/37"/>
+    </TreeNode>
+    <TreeNode Title="C01D7/38 #制备粒状、片状或其他形状的产品" Target="frmContent" Href="../searchservlet?query=C01D7/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01D7/38">
+      <TreeNode Title="C01D7/40 ##对结晶过程的影响" Target="frmContent" Href="../searchservlet?query=C01D7/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01D7/40"/>
+    </TreeNode>
+    <TreeNode Title="C01D7/42 #防止吸潮或结块" Target="frmContent" Href="../searchservlet?query=C01D7/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01D7/42"/>
+  </TreeNode>
+  <TreeNode Title="C01D9/00 钠、钾或一般碱金属的硝酸盐[2]" Target="frmContent" Href="../searchservlet?query=C01D9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01D9/00">
+    <TreeNode Title="C01D9/02 #用加工天然盐混合物制备" Target="frmContent" Href="../searchservlet?query=C01D9/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01D9/02"/>
+    <TreeNode Title="C01D9/04 #用硝酸溶液制备" Target="frmContent" Href="../searchservlet?query=C01D9/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01D9/04"/>
+    <TreeNode Title="C01D9/06 #用气态硝酸或氮氧化物制备" Target="frmContent" Href="../searchservlet?query=C01D9/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01D9/06"/>
+    <TreeNode Title="C01D9/08 #用复分解法制备" Target="frmContent" Href="../searchservlet?query=C01D9/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01D9/08">
+      <TreeNode Title="C01D9/10 ##用硝酸铵" Target="frmContent" Href="../searchservlet?query=C01D9/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01D9/10"/>
+      <TreeNode Title="C01D9/12 ##用镁、钙、锶或钡的硝酸盐" Target="frmContent" Href="../searchservlet?query=C01D9/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01D9/12"/>
+      <TreeNode Title="C01D9/14 ##钾盐与硝酸钠的" Target="frmContent" Href="../searchservlet?query=C01D9/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01D9/14"/>
+    </TreeNode>
+    <TreeNode Title="C01D9/16 #提纯" Target="frmContent" Href="../searchservlet?query=C01D9/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01D9/16"/>
+    <TreeNode Title="C01D9/18 #制备成型产品，如颗粒" Target="frmContent" Href="../searchservlet?query=C01D9/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01D9/18"/>
+    <TreeNode Title="C01D9/20 #防止吸潮或结块" Target="frmContent" Href="../searchservlet?query=C01D9/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01D9/20"/>
+  </TreeNode>
+  <TreeNode Title="C01D13/00 其他类目不包含的钠或钾的化合物[2]" Target="frmContent" Href="../searchservlet?query=C01D13/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01D13/00"/>
+  <TreeNode Title="C01D15/00 锂的化合物[2]" Target="frmContent" Href="../searchservlet?query=C01D15/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01D15/00">
+    <TreeNode Title="C01D15/02 #氧化物；氢氧化物[2]" Target="frmContent" Href="../searchservlet?query=C01D15/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01D15/02"/>
+    <TreeNode Title="C01D15/04 #卤化物[2]" Target="frmContent" Href="../searchservlet?query=C01D15/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01D15/04"/>
+    <TreeNode Title="C01D15/06 #硫酸盐；亚硫酸盐[2]" Target="frmContent" Href="../searchservlet?query=C01D15/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01D15/06"/>
+    <TreeNode Title="C01D15/08 #碳酸盐；酸式碳酸盐[2]" Target="frmContent" Href="../searchservlet?query=C01D15/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01D15/08"/>
+    <TreeNode Title="C01D15/10 #硝酸盐[2]" Target="frmContent" Href="../searchservlet?query=C01D15/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01D15/10"/>
+  </TreeNode>
+  <TreeNode Title="C01D17/00 铷、铯或钫的化合物[2]" Target="frmContent" Href="../searchservlet?query=C01D17/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01D17/00"/>
+</Root>

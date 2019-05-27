@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="G07G1/00 现金登记器(报警指示器入G07G 3/00)" Target="frmContent" Href="../searchservlet?query=G07G1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G07G1/00">
+    <TreeNode Title="G07G1/01 #用于指示的零部件(一般的信息显示入G09F、G09G)[4]" Target="frmContent" Href="../searchservlet?query=G07G1/01&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G07G1/01">
+      <TreeNode Title="G07G1/06 ##可指示要付的钱币的[4]" Target="frmContent" Href="../searchservlet?query=G07G1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G07G1/06"/>
+      <TreeNode Title="G07G1/08 ##有显示收入的钱币的旋转鼓轮的[4]" Target="frmContent" Href="../searchservlet?query=G07G1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G07G1/08"/>
+    </TreeNode>
+    <TreeNode Title="G07G1/10 #机械方式操作的[4]" Target="frmContent" Href="../searchservlet?query=G07G1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G07G1/10"/>
+    <TreeNode Title="G07G1/12 #电子方式操作的(数字数据处理方面入G06Q 20/00)[4]" Target="frmContent" Href="../searchservlet?query=G07G1/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G07G1/12">
+      <TreeNode Title="G07G1/14 ##包括一个或多个远端站与一中心处理单元协调操作的系统(一般数据传输入H04L；从一主站选择呼叫一分站的遥测系统入H04Q 9/00)[4]" Target="frmContent" Href="../searchservlet?query=G07G1/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G07G1/14"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="G07G3/00 报警指示器，例如铃" Target="frmContent" Href="../searchservlet?query=G07G3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G07G3/00"/>
+  <TreeNode Title="G07G5/00 收条给出机(给出收条的现金登记器入G07G 1/00)" Target="frmContent" Href="../searchservlet?query=G07G5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G07G5/00"/>
+</Root>

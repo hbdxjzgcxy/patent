@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="C11B1/00 从原料生产脂肪或脂油" Target="frmContent" Href="../searchservlet?query=C11B1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C11B1/00">
+    <TreeNode Title="C11B1/02 #预处理" Target="frmContent" Href="../searchservlet?query=C11B1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C11B1/02">
+      <TreeNode Title="C11B1/04 ##植物性原料的" Target="frmContent" Href="../searchservlet?query=C11B1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C11B1/04"/>
+    </TreeNode>
+    <TreeNode Title="C11B1/06 #压榨法" Target="frmContent" Href="../searchservlet?query=C11B1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C11B1/06">
+      <TreeNode Title="C11B1/08 ##用热压法" Target="frmContent" Href="../searchservlet?query=C11B1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C11B1/08"/>
+    </TreeNode>
+    <TreeNode Title="C11B1/10 #萃取法" Target="frmContent" Href="../searchservlet?query=C11B1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C11B1/10"/>
+    <TreeNode Title="C11B1/12 #熔出法" Target="frmContent" Href="../searchservlet?query=C11B1/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C11B1/12">
+      <TreeNode Title="C11B1/14 ##用热水或水溶液" Target="frmContent" Href="../searchservlet?query=C11B1/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C11B1/14"/>
+      <TreeNode Title="C11B1/16 ##用蒸气" Target="frmContent" Href="../searchservlet?query=C11B1/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C11B1/16"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="C11B3/00 脂肪或脂油的精制" Target="frmContent" Href="../searchservlet?query=C11B3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C11B3/00">
+    <TreeNode Title="C11B3/02 #化学反应法" Target="frmContent" Href="../searchservlet?query=C11B3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C11B3/02">
+      <TreeNode Title="C11B3/04 ##用酸" Target="frmContent" Href="../searchservlet?query=C11B3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C11B3/04"/>
+      <TreeNode Title="C11B3/06 ##用碱" Target="frmContent" Href="../searchservlet?query=C11B3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C11B3/06"/>
+      <TreeNode Title="C11B3/08 ##用氧化剂" Target="frmContent" Href="../searchservlet?query=C11B3/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C11B3/08"/>
+    </TreeNode>
+    <TreeNode Title="C11B3/10 #吸附法" Target="frmContent" Href="../searchservlet?query=C11B3/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C11B3/10"/>
+    <TreeNode Title="C11B3/12 #蒸馏法" Target="frmContent" Href="../searchservlet?query=C11B3/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C11B3/12">
+      <TreeNode Title="C11B3/14 ##用惰性气体或蒸气，如水蒸气" Target="frmContent" Href="../searchservlet?query=C11B3/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C11B3/14"/>
+    </TreeNode>
+    <TreeNode Title="C11B3/16 #机械法" Target="frmContent" Href="../searchservlet?query=C11B3/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C11B3/16"/>
+  </TreeNode>
+  <TreeNode Title="C11B5/00 用添加剂，如用抗氧剂进行保藏" Target="frmContent" Href="../searchservlet?query=C11B5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C11B5/00"/>
+  <TreeNode Title="C11B7/00 脂肪或脂油混合物分离成它们的组分，如饱和油与不饱和油分离" Target="frmContent" Href="../searchservlet?query=C11B7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C11B7/00"/>
+  <TreeNode Title="C11B9/00 香精油；香料(化学物质的合成入C07)" Target="frmContent" Href="../searchservlet?query=C11B9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C11B9/00">
+    <TreeNode Title="C11B9/02 #从原料回收或精制香精油" Target="frmContent" Href="../searchservlet?query=C11B9/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C11B9/02"/>
+  </TreeNode>
+  <TreeNode Title="C11B11/00 其他脂肪物质，如羊毛脂、蜡的回收或精制(合成蜡入C07、C08；矿物蜡入C10G)" Target="frmContent" Href="../searchservlet?query=C11B11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C11B11/00"/>
+  <TreeNode Title="C11B13/00 从废料中回收脂肪、脂油或脂肪酸(从废水中的机械分离入C02F、E03F)" Target="frmContent" Href="../searchservlet?query=C11B13/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C11B13/00">
+    <TreeNode Title="C11B13/02 #从皂脚中" Target="frmContent" Href="../searchservlet?query=C11B13/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C11B13/02"/>
+    <TreeNode Title="C11B13/04 #从废吸附材料中" Target="frmContent" Href="../searchservlet?query=C11B13/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C11B13/04"/>
+  </TreeNode>
+  <TreeNode Title="C11B15/00 用物理方法固化脂油、脂肪或蜡" Target="frmContent" Href="../searchservlet?query=C11B15/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C11B15/00"/>
+</Root>

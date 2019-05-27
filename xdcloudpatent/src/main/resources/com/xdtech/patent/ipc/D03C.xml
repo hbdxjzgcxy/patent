@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="D03C1/00 多臂机" Target="frmContent" Href="../searchservlet?query=D03C1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D03C1/00">
+    <TreeNode Title="D03C1/02 #单动式多臂机，即:同一拉刀或等同物每纬动作一次的多臂机(D03C 1/10优先)" Target="frmContent" Href="../searchservlet?query=D03C1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D03C1/02">
+      <TreeNode Title="D03C1/04 ##全开口型单动式多臂机" Target="frmContent" Href="../searchservlet?query=D03C1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D03C1/04"/>
+    </TreeNode>
+    <TreeNode Title="D03C1/06 #复动式多臂机，即:交替投纬分别由不同的拉刀或等同物动作的多臂机" Target="frmContent" Href="../searchservlet?query=D03C1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D03C1/06">
+      <TreeNode Title="D03C1/08 ##可逆转的，即当织机倒车时自动修正梭口" Target="frmContent" Href="../searchservlet?query=D03C1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D03C1/08"/>
+    </TreeNode>
+    <TreeNode Title="D03C1/10 #中开口型多臂机，即在中央闭合梭口位置提升一些纱线和降下另一些纱线所形成的梭口" Target="frmContent" Href="../searchservlet?query=D03C1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D03C1/10"/>
+    <TreeNode Title="D03C1/12 #采用齿轮代替拉刀的多臂机" Target="frmContent" Href="../searchservlet?query=D03C1/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D03C1/12"/>
+    <TreeNode Title="D03C1/14 #不同多臂机的共同特征(开口机构动作不良时的停车装置入D03D 51/46)" Target="frmContent" Href="../searchservlet?query=D03C1/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D03C1/14">
+      <TreeNode Title="D03C1/16 ##与织机有关的多臂机装置" Target="frmContent" Href="../searchservlet?query=D03C1/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D03C1/16"/>
+      <TreeNode Title="D03C1/18 ##拉刀；刀架" Target="frmContent" Href="../searchservlet?query=D03C1/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D03C1/18"/>
+      <TreeNode Title="D03C1/20 ##拉钩；提综器" Target="frmContent" Href="../searchservlet?query=D03C1/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D03C1/20"/>
+      <TreeNode Title="D03C1/22 ##横针；针箱；针板" Target="frmContent" Href="../searchservlet?query=D03C1/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D03C1/22"/>
+      <TreeNode Title="D03C1/24 ##花筒；花筒摆架" Target="frmContent" Href="../searchservlet?query=D03C1/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D03C1/24"/>
+      <TreeNode Title="D03C1/26 ##便于竖钩与拉刀相啮合" Target="frmContent" Href="../searchservlet?query=D03C1/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D03C1/26">
+        <TreeNode Title="D03C1/28 ###留出然后消除竖钩与拉刀间的间隙" Target="frmContent" Href="../searchservlet?query=D03C1/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D03C1/28"/>
+        <TreeNode Title="D03C1/30 ###所有竖钩脱离拉刀然后选好的竖钩重新啮合" Target="frmContent" Href="../searchservlet?query=D03C1/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D03C1/30"/>
+        <TreeNode Title="D03C1/32 ###所有竖钩与拉刀未脱离然后未选的竖钩脱离啮合" Target="frmContent" Href="../searchservlet?query=D03C1/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D03C1/32"/>
+      </TreeNode>
+      <TreeNode Title="D03C1/34 ##经纱从不同高度穿过，以免互相杂乱的装置" Target="frmContent" Href="../searchservlet?query=D03C1/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D03C1/34"/>
+      <TreeNode Title="D03C1/36 ##纹板或纹链的节省装置，即:织横边多臂机" Target="frmContent" Href="../searchservlet?query=D03C1/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D03C1/36"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="D03C3/00 提花机(用扫描方法控制提花入D03C 17/06；阿克明斯特片梭织机的机构入D03D 39/08)" Target="frmContent" Href="../searchservlet?query=D03C3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D03C3/00">
+    <TreeNode Title="D03C3/02 #单动式提花机" Target="frmContent" Href="../searchservlet?query=D03C3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D03C3/02">
+      <TreeNode Title="D03C3/04 ##全开口型" Target="frmContent" Href="../searchservlet?query=D03C3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D03C3/04"/>
+    </TreeNode>
+    <TreeNode Title="D03C3/06 #复动式提花机" Target="frmContent" Href="../searchservlet?query=D03C3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D03C3/06">
+      <TreeNode Title="D03C3/08 ##全开口型" Target="frmContent" Href="../searchservlet?query=D03C3/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D03C3/08"/>
+    </TreeNode>
+    <TreeNode Title="D03C3/10 #中开口型提花机" Target="frmContent" Href="../searchservlet?query=D03C3/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D03C3/10"/>
+    <TreeNode Title="D03C3/12 #多梭口型提花机，即经纱若干段提至不同高度，例如以备织制绒头织物" Target="frmContent" Href="../searchservlet?query=D03C3/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D03C3/12"/>
+    <TreeNode Title="D03C3/14 #不使用竖钩的提花机，如使用打结绳结合锁眼槽" Target="frmContent" Href="../searchservlet?query=D03C3/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D03C3/14"/>
+    <TreeNode Title="D03C3/16 #在判读横针与竖钩间带有中间电动针的韦多尔式或其他提花机" Target="frmContent" Href="../searchservlet?query=D03C3/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D03C3/16"/>
+    <TreeNode Title="D03C3/18 #织边提花机" Target="frmContent" Href="../searchservlet?query=D03C3/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D03C3/18"/>
+    <TreeNode Title="D03C3/20 #电动提花机" Target="frmContent" Href="../searchservlet?query=D03C3/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D03C3/20"/>
+    <TreeNode Title="D03C3/22 #射流提花机" Target="frmContent" Href="../searchservlet?query=D03C3/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D03C3/22"/>
+    <TreeNode Title="D03C3/24 #不同型式提花机的共同特征" Target="frmContent" Href="../searchservlet?query=D03C3/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D03C3/24">
+      <TreeNode Title="D03C3/26 ##提花机的一般装置或在织机上的配置" Target="frmContent" Href="../searchservlet?query=D03C3/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D03C3/26"/>
+      <TreeNode Title="D03C3/28 ##找断尾装置；防止停车时下一梭口打开的装置" Target="frmContent" Href="../searchservlet?query=D03C3/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D03C3/28"/>
+      <TreeNode Title="D03C3/30 ##竖钩正向运行闭合梭口的装置" Target="frmContent" Href="../searchservlet?query=D03C3/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D03C3/30"/>
+      <TreeNode Title="D03C3/32 ##提花机传动机构" Target="frmContent" Href="../searchservlet?query=D03C3/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D03C3/32">
+        <TreeNode Title="D03C3/34 ###花筒传动机构" Target="frmContent" Href="../searchservlet?query=D03C3/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D03C3/34"/>
+        <TreeNode Title="D03C3/36 ###提刀传动机构" Target="frmContent" Href="../searchservlet?query=D03C3/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D03C3/36"/>
+      </TreeNode>
+      <TreeNode Title="D03C3/38 ##目板" Target="frmContent" Href="../searchservlet?query=D03C3/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D03C3/38"/>
+      <TreeNode Title="D03C3/40 ##提综绳的结构" Target="frmContent" Href="../searchservlet?query=D03C3/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D03C3/40"/>
+      <TreeNode Title="D03C3/42 ##提综绳的设置" Target="frmContent" Href="../searchservlet?query=D03C3/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D03C3/42"/>
+      <TreeNode Title="D03C3/44 ##铅锤" Target="frmContent" Href="../searchservlet?query=D03C3/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D03C3/44"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="D03C5/00 凸轮或其他直接传动的开口机构，即无中介电源机构操纵综框" Target="frmContent" Href="../searchservlet?query=D03C5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D03C5/00">
+    <TreeNode Title="D03C5/02 #回转凸轮操纵" Target="frmContent" Href="../searchservlet?query=D03C5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D03C5/02">
+      <TreeNode Title="D03C5/04 ##凸轮的结构或外形(一般凸轮入F16H 53/00)" Target="frmContent" Href="../searchservlet?query=D03C5/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D03C5/04"/>
+    </TreeNode>
+    <TreeNode Title="D03C5/06 #回转凸轮以外的其他凸轮操纵" Target="frmContent" Href="../searchservlet?query=D03C5/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D03C5/06"/>
+  </TreeNode>
+  <TreeNode Title="D03C7/00 纱罗或类似的开口机构" Target="frmContent" Href="../searchservlet?query=D03C7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D03C7/00">
+    <TreeNode Title="D03C7/02 #纱罗综片" Target="frmContent" Href="../searchservlet?query=D03C7/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D03C7/02"/>
+    <TreeNode Title="D03C7/04 #带有在一横向轴上摆动的圆盘并带有经纱通过的孔隙的机构" Target="frmContent" Href="../searchservlet?query=D03C7/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D03C7/04"/>
+    <TreeNode Title="D03C7/06 #带有使经纱从另一经纱的一边移动到另一侧的孔针的机构" Target="frmContent" Href="../searchservlet?query=D03C7/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D03C7/06"/>
+    <TreeNode Title="D03C7/08 #使经纱向同一方向重复加捻的装置" Target="frmContent" Href="../searchservlet?query=D03C7/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D03C7/08"/>
+  </TreeNode>
+  <TreeNode Title="D03C9/00 综丝；综框(纱罗式开口入D03C 7/00)" Target="frmContent" Href="../searchservlet?query=D03C9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D03C9/00">
+    <TreeNode Title="D03C9/02 #综丝" Target="frmContent" Href="../searchservlet?query=D03C9/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D03C9/02">
+      <TreeNode Title="D03C9/04 ##金属综丝" Target="frmContent" Href="../searchservlet?query=D03C9/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D03C9/04"/>
+    </TreeNode>
+    <TreeNode Title="D03C9/06 #综框" Target="frmContent" Href="../searchservlet?query=D03C9/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D03C9/06"/>
+  </TreeNode>
+  <TreeNode Title="D03C11/00 不形成主开口机械部分的织边开口机构(织边提花入D03C 3/18；纱罗织边机构入D03C 7/00)" Target="frmContent" Href="../searchservlet?query=D03C11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D03C11/00"/>
+  <TreeNode Title="D03C13/00 其他类未列入的开口机构" Target="frmContent" Href="../searchservlet?query=D03C13/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D03C13/00"/>
+  <TreeNode Title="D03C15/00 纹板或纹链" Target="frmContent" Href="../searchservlet?query=D03C15/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D03C15/00">
+    <TreeNode Title="D03C15/02 #带有伸出花型显示部件的金属、木质或类似材料的纹链" Target="frmContent" Href="../searchservlet?query=D03C15/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D03C15/02"/>
+    <TreeNode Title="D03C15/04 #纹板或纸板冲孔以显示花型" Target="frmContent" Href="../searchservlet?query=D03C15/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D03C15/04"/>
+    <TreeNode Title="D03C15/06 #从纹板装拆纹钉的装置" Target="frmContent" Href="../searchservlet?query=D03C15/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D03C15/06"/>
+    <TreeNode Title="D03C15/08 #用于互连，如通过系带，或拆下纹板的装置" Target="frmContent" Href="../searchservlet?query=D03C15/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D03C15/08"/>
+  </TreeNode>
+  <TreeNode Title="D03C17/00 纹板冲孔装置(数字式打印记录载波器入G06K)" Target="frmContent" Href="../searchservlet?query=D03C17/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D03C17/00">
+    <TreeNode Title="D03C17/02 #手工冲孔，即由操作者决定要冲的孔" Target="frmContent" Href="../searchservlet?query=D03C17/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D03C17/02">
+      <TreeNode Title="D03C17/04 ##机电冲孔" Target="frmContent" Href="../searchservlet?query=D03C17/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D03C17/04"/>
+    </TreeNode>
+    <TreeNode Title="D03C17/06 #自动化的，即设计成光电扫描或其他型式用于控制冲孔装置或直接控制织机提花" Target="frmContent" Href="../searchservlet?query=D03C17/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D03C17/06"/>
+  </TreeNode>
+  <TreeNode Title="D03C19/00 本小类其他各组不包括的有关花型设计或制作的装置或方法" Target="frmContent" Href="../searchservlet?query=D03C19/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D03C19/00"/>
+</Root>

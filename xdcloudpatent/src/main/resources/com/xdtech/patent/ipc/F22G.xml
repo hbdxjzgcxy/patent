@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="F22G1/00 以加热方法为特征的蒸汽过热(不包括提供游离氧气的放热化学反应，利用此热源的设备或装置入F24J)" Target="frmContent" Href="../searchservlet?query=F22G1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F22G1/00">
+    <TreeNode Title="F22G1/02 #由蒸汽锅炉炉内热烟气来供热的" Target="frmContent" Href="../searchservlet?query=F22G1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F22G1/02">
+      <TreeNode Title="F22G1/04 ##通过使气流或热烟气流到在再热循环中工作的单独过热器内，例如用于在高压级涡轮机与中压级涡轮机之间再热蒸汽的" Target="frmContent" Href="../searchservlet?query=F22G1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F22G1/04"/>
+    </TreeNode>
+    <TreeNode Title="F22G1/06 #主要通过辐射供热的" Target="frmContent" Href="../searchservlet?query=F22G1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F22G1/06">
+      <TreeNode Title="F22G1/08 ##由热炉墙或类似构件供热的" Target="frmContent" Href="../searchservlet?query=F22G1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F22G1/08"/>
+    </TreeNode>
+    <TreeNode Title="F22G1/10 #由节流来过热的" Target="frmContent" Href="../searchservlet?query=F22G1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F22G1/10"/>
+    <TreeNode Title="F22G1/12 #用炉气或其他燃烧生成物与蒸汽混合的" Target="frmContent" Href="../searchservlet?query=F22G1/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F22G1/12"/>
+    <TreeNode Title="F22G1/14 #使用化学反应所产生的热" Target="frmContent" Href="../searchservlet?query=F22G1/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F22G1/14"/>
+    <TreeNode Title="F22G1/16 #应用与蒸汽锅炉供热无关的单独热源，例如用电、用燃油的辅助燃烧" Target="frmContent" Href="../searchservlet?query=F22G1/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F22G1/16"/>
+  </TreeNode>
+  <TreeNode Title="F22G3/00 以结构特点为特征的蒸汽过热器；及其零部件或组成件(封闭式热交换器的一般方面入F28D)" Target="frmContent" Href="../searchservlet?query=F22G3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F22G3/00"/>
+  <TreeNode Title="F22G5/00 过热温度的控制(蒸汽锅炉的控制系统入F22B；一般调节或控制入G05)" Target="frmContent" Href="../searchservlet?query=F22G5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F22G5/00">
+    <TreeNode Title="F22G5/02 #燃烧控制设备的使用，例如切向燃烧器、摆动燃烧器" Target="frmContent" Href="../searchservlet?query=F22G5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F22G5/02"/>
+    <TreeNode Title="F22G5/04 #采用调节烟气流量的，例如按比例或分流" Target="frmContent" Href="../searchservlet?query=F22G5/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F22G5/04"/>
+    <TreeNode Title="F22G5/06 #采用再循环烟气的" Target="frmContent" Href="../searchservlet?query=F22G5/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F22G5/06">
+      <TreeNode Title="F22G5/08 ##经再循环风机预防炉气回流" Target="frmContent" Href="../searchservlet?query=F22G5/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F22G5/08"/>
+    </TreeNode>
+    <TreeNode Title="F22G5/10 #采用移动过热器区域的" Target="frmContent" Href="../searchservlet?query=F22G5/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F22G5/10"/>
+    <TreeNode Title="F22G5/12 #采用过热蒸汽的温度调节，例如喷射水喷雾(喷雾混合器入B01F 5/18)" Target="frmContent" Href="../searchservlet?query=F22G5/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F22G5/12">
+      <TreeNode Title="F22G5/14 ##用新鲜蒸汽的" Target="frmContent" Href="../searchservlet?query=F22G5/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F22G5/14"/>
+    </TreeNode>
+    <TreeNode Title="F22G5/16 #通过在封闭式辅助热交换器内间接冷却或加热过热蒸汽" Target="frmContent" Href="../searchservlet?query=F22G5/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F22G5/16"/>
+    <TreeNode Title="F22G5/18 #采用旁路蒸汽绕过过热器区域的" Target="frmContent" Href="../searchservlet?query=F22G5/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F22G5/18"/>
+    <TreeNode Title="F22G5/20 #采用结合控制程序的" Target="frmContent" Href="../searchservlet?query=F22G5/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F22G5/20"/>
+  </TreeNode>
+  <TreeNode Title="F22G7/00 以位置、排列或配置为特点的蒸汽过热器" Target="frmContent" Href="../searchservlet?query=F22G7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F22G7/00">
+    <TreeNode Title="F22G7/02 #在火管内的" Target="frmContent" Href="../searchservlet?query=F22G7/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F22G7/02"/>
+    <TreeNode Title="F22G7/04 #在火管外套内的" Target="frmContent" Href="../searchservlet?query=F22G7/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F22G7/04"/>
+    <TreeNode Title="F22G7/06 #在炉管内的" Target="frmContent" Href="../searchservlet?query=F22G7/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F22G7/06"/>
+    <TreeNode Title="F22G7/08 #在火箱内的" Target="frmContent" Href="../searchservlet?query=F22G7/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F22G7/08"/>
+    <TreeNode Title="F22G7/10 #在烟箱内的" Target="frmContent" Href="../searchservlet?query=F22G7/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F22G7/10"/>
+    <TreeNode Title="F22G7/12 #在烟道内的" Target="frmContent" Href="../searchservlet?query=F22G7/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F22G7/12"/>
+    <TreeNode Title="F22G7/14 #在水管锅炉内的，例如在水管的管束之间的" Target="frmContent" Href="../searchservlet?query=F22G7/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F22G7/14"/>
+  </TreeNode>
+</Root>

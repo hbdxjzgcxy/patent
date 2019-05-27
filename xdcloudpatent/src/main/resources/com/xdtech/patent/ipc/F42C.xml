@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="F42C1/00 碰撞引信，即只靠弹药的碰撞而动作的引信" Target="frmContent" Href="../searchservlet?query=F42C1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F42C1/00">
+    <TreeNode Title="F42C1/02 #使用在结构上与引信结合的撞针的" Target="frmContent" Href="../searchservlet?query=F42C1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F42C1/02">
+      <TreeNode Title="F42C1/04 ##靠碰撞时元件的惯性操作的" Target="frmContent" Href="../searchservlet?query=F42C1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F42C1/04">
+        <TreeNode Title="F42C1/06 ###用于任一方向的碰撞" Target="frmContent" Href="../searchservlet?query=F42C1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F42C1/06"/>
+      </TreeNode>
+      <TreeNode Title="F42C1/08 ##使用引信点火后的延迟作用(定时引信入F42C 9/00)" Target="frmContent" Href="../searchservlet?query=F42C1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F42C1/08"/>
+      <TreeNode Title="F42C1/09 ##为将弹药或弹头送入空中，触发推进装药的引信，例如在回弹的弹体中的[5]" Target="frmContent" Href="../searchservlet?query=F42C1/09&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F42C1/09"/>
+    </TreeNode>
+    <TreeNode Title="F42C1/10 #无撞针的" Target="frmContent" Href="../searchservlet?query=F42C1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F42C1/10">
+      <TreeNode Title="F42C1/12 ##使用引信点火后的延迟作用(定时引信入F42C 9/00)" Target="frmContent" Href="../searchservlet?query=F42C1/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F42C1/12"/>
+    </TreeNode>
+    <TreeNode Title="F42C1/14 #在距地面或目标的预定距离以突出元件的方法操作的" Target="frmContent" Href="../searchservlet?query=F42C1/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F42C1/14"/>
+  </TreeNode>
+  <TreeNode Title="F42C3/00 通过暴露在液体中使引信动作的，例如海水(F42C 5/00优先；定时引信入F42C 9/00)" Target="frmContent" Href="../searchservlet?query=F42C3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F42C3/00"/>
+  <TreeNode Title="F42C5/00 通过暴露在预定的外界流体压力下而动作的引信" Target="frmContent" Href="../searchservlet?query=F42C5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F42C5/00">
+    <TreeNode Title="F42C5/02 #大气压力" Target="frmContent" Href="../searchservlet?query=F42C5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F42C5/02"/>
+  </TreeNode>
+  <TreeNode Title="F42C7/00 通过应用预定的机械力，例如张力、扭力、压力，而动作的引信(靠弹药碰撞的入F42C 1/00；靠暴露于预定的外界流体压力的入F42C 5/00)" Target="frmContent" Href="../searchservlet?query=F42C7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F42C7/00">
+    <TreeNode Title="F42C7/02 #接触引信，即通过静止弹药，例如地雷，与运动目标，例如人员之间的机械接触而动作的引信(F42C 7/12优先)" Target="frmContent" Href="../searchservlet?query=F42C7/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F42C7/02">
+      <TreeNode Title="F42C7/04 ##靠施加于弹头上的压力而动作的[5]" Target="frmContent" Href="../searchservlet?query=F42C7/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F42C7/04">
+        <TreeNode Title="F42C7/06 ###并包含气动或液力延缓装置的[5]" Target="frmContent" Href="../searchservlet?query=F42C7/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F42C7/06"/>
+      </TreeNode>
+      <TreeNode Title="F42C7/08 ##释放型的，即靠从弹头上解除压力而动作的[5]" Target="frmContent" Href="../searchservlet?query=F42C7/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F42C7/08"/>
+      <TreeNode Title="F42C7/10 ##天线型的[5]" Target="frmContent" Href="../searchservlet?query=F42C7/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F42C7/10"/>
+    </TreeNode>
+    <TreeNode Title="F42C7/12 #双作用型撞击引信，即在单一运动中准备击发并点火的引信，例如通过牵引一体化的撞针或撞锤(火帽入F42C 19/10)[5]" Target="frmContent" Href="../searchservlet?query=F42C7/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F42C7/12"/>
+  </TreeNode>
+  <TreeNode Title="F42C9/00 定时引信；定时与击发或压力的结合使引信动作的；用于弹药定时自爆的引信" Target="frmContent" Href="../searchservlet?query=F42C9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F42C9/00">
+    <TreeNode Title="F42C9/02 #用机械装置定时的" Target="frmContent" Href="../searchservlet?query=F42C9/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F42C9/02">
+      <TreeNode Title="F42C9/04 ##用发条驱动装置" Target="frmContent" Href="../searchservlet?query=F42C9/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F42C9/04"/>
+      <TreeNode Title="F42C9/06 ##用流动的流态物质，例如细粒、流体的流动" Target="frmContent" Href="../searchservlet?query=F42C9/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F42C9/06"/>
+    </TreeNode>
+    <TreeNode Title="F42C9/08 #用化学作用定时，例如用酸" Target="frmContent" Href="../searchservlet?query=F42C9/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F42C9/08"/>
+    <TreeNode Title="F42C9/10 #用燃烧定时" Target="frmContent" Href="../searchservlet?query=F42C9/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F42C9/10">
+      <TreeNode Title="F42C9/12 ##带有环形燃烧元件" Target="frmContent" Href="../searchservlet?query=F42C9/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F42C9/12"/>
+    </TreeNode>
+    <TreeNode Title="F42C9/14 #双引信；多引信" Target="frmContent" Href="../searchservlet?query=F42C9/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F42C9/14">
+      <TreeNode Title="F42C9/16 ##弹药自爆用的" Target="frmContent" Href="../searchservlet?query=F42C9/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F42C9/16">
+        <TreeNode Title="F42C9/18 ###当旋转速度降至预定限值以下时，例如弹簧力超过离心作用制动销的锁定作用[5]" Target="frmContent" Href="../searchservlet?query=F42C9/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F42C9/18"/>
+      </TreeNode>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="F42C11/00 电引信(近发引信入F42C 13/00；电点火器入F42C 19/12)" Target="frmContent" Href="../searchservlet?query=F42C11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F42C11/00">
+    <TreeNode Title="F42C11/02 #使用压电晶体" Target="frmContent" Href="../searchservlet?query=F42C11/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F42C11/02"/>
+    <TreeNode Title="F42C11/04 #使用电流感应" Target="frmContent" Href="../searchservlet?query=F42C11/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F42C11/04"/>
+    <TreeNode Title="F42C11/06 #使用电路延时的" Target="frmContent" Href="../searchservlet?query=F42C11/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F42C11/06"/>
+  </TreeNode>
+  <TreeNode Title="F42C13/00 近发引信；用于远距离起爆的引信" Target="frmContent" Href="../searchservlet?query=F42C13/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F42C13/00">
+    <TreeNode Title="F42C13/02 #用光度或类似辅射强度来操作" Target="frmContent" Href="../searchservlet?query=F42C13/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F42C13/02"/>
+    <TreeNode Title="F42C13/04 #用无线电波操作" Target="frmContent" Href="../searchservlet?query=F42C13/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F42C13/04"/>
+    <TreeNode Title="F42C13/06 #用声波操作" Target="frmContent" Href="../searchservlet?query=F42C13/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F42C13/06"/>
+    <TreeNode Title="F42C13/08 #用磁场的变化来操作" Target="frmContent" Href="../searchservlet?query=F42C13/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F42C13/08"/>
+  </TreeNode>
+  <TreeNode Title="F42C14/00 以弹药的种类或类型为特征的引信(F42C 1/00，F42C 13/00，F42C 15/00优先)[5]" Target="frmContent" Href="../searchservlet?query=F42C14/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F42C14/00">
+    <TreeNode Title="F42C14/02 #用于手榴弹的[5]" Target="frmContent" Href="../searchservlet?query=F42C14/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F42C14/02"/>
+    <TreeNode Title="F42C14/04 #用于鱼雷、水雷或深水炸弹的(感应水雷入F42B 22/04)[5]" Target="frmContent" Href="../searchservlet?query=F42C14/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F42C14/04"/>
+    <TreeNode Title="F42C14/06 #用于炸弹的[5]" Target="frmContent" Href="../searchservlet?query=F42C14/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F42C14/06"/>
+    <TreeNode Title="F42C14/08 #用于地雷的[5]" Target="frmContent" Href="../searchservlet?query=F42C14/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F42C14/08"/>
+  </TreeNode>
+  <TreeNode Title="F42C15/00 引信中的解除保险装置；防止引信或装药过早引爆的保险装置" Target="frmContent" Href="../searchservlet?query=F42C15/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F42C15/00">
+    <TreeNode Title="F42C15/16 #其中撞针被移至安全作用线以外(F42C 15/40优先)" Target="frmContent" Href="../searchservlet?query=F42C15/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F42C15/16"/>
+    <TreeNode Title="F42C15/18 #其中用于烟火导火索或爆炸导火索元件的载体是移动的(F42C 15/40优先)[5]" Target="frmContent" Href="../searchservlet?query=F42C15/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F42C15/18">
+      <TreeNode Title="F42C15/184 ##使用可滑动的载体[5]" Target="frmContent" Href="../searchservlet?query=F42C15/184&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F42C15/184"/>
+      <TreeNode Title="F42C15/188 ##使用可转动的载体[5]" Target="frmContent" Href="../searchservlet?query=F42C15/188&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F42C15/188">
+        <TreeNode Title="F42C15/192 ###在与弹丸纵轴相平行的平面内转动的[5]" Target="frmContent" Href="../searchservlet?query=F42C15/192&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F42C15/192">
+          <TreeNode Title="F42C15/196 ####靠作用在载体上的离心力或惯性力的，例如具有偏心配重的或重心偏移的载体[5]" Target="frmContent" Href="../searchservlet?query=F42C15/196&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F42C15/196"/>
+        </TreeNode>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="F42C15/20 #其中移动安全销或止动销使引信解除保险的，例如从撞针移开的(F42C 15/40优先)" Target="frmContent" Href="../searchservlet?query=F42C15/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F42C15/20">
+      <TreeNode Title="F42C15/21 ##使用弹簧作用(F42C 15/23优先)[5]" Target="frmContent" Href="../searchservlet?query=F42C15/21&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F42C15/21"/>
+      <TreeNode Title="F42C15/22 ##使用离心力(F42C 15/23优先)" Target="frmContent" Href="../searchservlet?query=F42C15/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F42C15/22"/>
+      <TreeNode Title="F42C15/23 ##靠展开挠曲的条或带的[5]" Target="frmContent" Href="../searchservlet?query=F42C15/23&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F42C15/23"/>
+    </TreeNode>
+    <TreeNode Title="F42C15/24 #其中靠惯性方法产生安全或解除保险作用(F42C 15/196，F42C 15/20优先)" Target="frmContent" Href="../searchservlet?query=F42C15/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F42C15/24">
+      <TreeNode Title="F42C15/26 ##使用离心力" Target="frmContent" Href="../searchservlet?query=F42C15/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F42C15/26"/>
+    </TreeNode>
+    <TreeNode Title="F42C15/28 #靠流动物质，例如细粒，流体的流动而操作的(F42C 15/26优先)" Target="frmContent" Href="../searchservlet?query=F42C15/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F42C15/28">
+      <TreeNode Title="F42C15/285 ##储备于引信壳体中的[5]" Target="frmContent" Href="../searchservlet?query=F42C15/285&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F42C15/285"/>
+      <TreeNode Title="F42C15/29 ##由流体振荡器操作的；由动态流体压力操作的，例如冲压空气操作的[5]" Target="frmContent" Href="../searchservlet?query=F42C15/29&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F42C15/29"/>
+      <TreeNode Title="F42C15/295 ##由涡轮或螺旋桨操作的；其安装方法[5]" Target="frmContent" Href="../searchservlet?query=F42C15/295&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F42C15/295"/>
+      <TreeNode Title="F42C15/30 ##推进气体的，即由推进装药或火箭发动机得到的" Target="frmContent" Href="../searchservlet?query=F42C15/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F42C15/30"/>
+      <TreeNode Title="F42C15/31 ##由引信中烟火装药或爆炸装药的燃烧而产生的[5]" Target="frmContent" Href="../searchservlet?query=F42C15/31&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F42C15/31"/>
+    </TreeNode>
+    <TreeNode Title="F42C15/32 #靠改变流体压力操作的(F42C 5/00，F42C 15/29优先)" Target="frmContent" Href="../searchservlet?query=F42C15/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F42C15/32">
+      <TreeNode Title="F42C15/33 ##靠打破真空或压力容器[5]" Target="frmContent" Href="../searchservlet?query=F42C15/33&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F42C15/33"/>
+    </TreeNode>
+    <TreeNode Title="F42C15/34 #其中由雷管与主装药之间烟火或爆炸导火索中的锁定元件产生安全或解除保险作用的(F42C 15/18，F42C 15/40优先)" Target="frmContent" Href="../searchservlet?query=F42C15/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F42C15/34"/>
+    <TreeNode Title="F42C15/36 #其中由元件的燃烧或熔化来完成解除保险的(F42C 15/31优先)" Target="frmContent" Href="../searchservlet?query=F42C15/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F42C15/36"/>
+    <TreeNode Title="F42C15/38 #其中由化学作用完成解除保险的(F42C 3/00优先)" Target="frmContent" Href="../searchservlet?query=F42C15/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F42C15/38"/>
+    <TreeNode Title="F42C15/40 #其中安全或解除保险动作是用电的方法完成的" Target="frmContent" Href="../searchservlet?query=F42C15/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F42C15/40">
+      <TreeNode Title="F42C15/42 ##远距离场所的，例如用于可控地雷或雷场[5]" Target="frmContent" Href="../searchservlet?query=F42C15/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F42C15/42"/>
+    </TreeNode>
+    <TreeNode Title="F42C15/44 #解除保险以后，例如在发射以后，拆除引信或使其成为无危害的装置[5]" Target="frmContent" Href="../searchservlet?query=F42C15/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F42C15/44"/>
+  </TreeNode>
+  <TreeNode Title="F42C17/00 引信安装设备" Target="frmContent" Href="../searchservlet?query=F42C17/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F42C17/00">
+    <TreeNode Title="F42C17/02 #引信安装扳手" Target="frmContent" Href="../searchservlet?query=F42C17/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F42C17/02"/>
+    <TreeNode Title="F42C17/04 #用于电引信的[5]" Target="frmContent" Href="../searchservlet?query=F42C17/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F42C17/04"/>
+  </TreeNode>
+  <TreeNode Title="F42C19/00 引信的零部件(其他部件入F42C 15/00)" Target="frmContent" Href="../searchservlet?query=F42C19/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F42C19/00">
+    <TreeNode Title="F42C19/02 #引信体；引信套" Target="frmContent" Href="../searchservlet?query=F42C19/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F42C19/02"/>
+    <TreeNode Title="F42C19/04 #保护帽" Target="frmContent" Href="../searchservlet?query=F42C19/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F42C19/04"/>
+    <TreeNode Title="F42C19/06 #专门适用于电引信的电接触部件" Target="frmContent" Href="../searchservlet?query=F42C19/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F42C19/06">
+      <TreeNode Title="F42C19/07 ##用于弹丸或发射物的前端触头[5]" Target="frmContent" Href="../searchservlet?query=F42C19/07&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F42C19/07"/>
+    </TreeNode>
+    <TreeNode Title="F42C19/08 #底火(用于爆破筒的起爆器入F42B 3/10)；雷管" Target="frmContent" Href="../searchservlet?query=F42C19/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F42C19/08">
+      <TreeNode Title="F42C19/085 ##无壳弹药用的底火[5]" Target="frmContent" Href="../searchservlet?query=F42C19/085&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F42C19/085"/>
+      <TreeNode Title="F42C19/09 ##含有空心装药的底火或雷管[5]" Target="frmContent" Href="../searchservlet?query=F42C19/09&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F42C19/09"/>
+      <TreeNode Title="F42C19/095 ##多个分散在弹头周围的底火或雷管的配置，其中一个经选择的底火或雷管是用于定向引爆效果的[5]" Target="frmContent" Href="../searchservlet?query=F42C19/095&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F42C19/095"/>
+      <TreeNode Title="F42C19/10 ##火帽" Target="frmContent" Href="../searchservlet?query=F42C19/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F42C19/10"/>
+      <TreeNode Title="F42C19/12 ##电的" Target="frmContent" Href="../searchservlet?query=F42C19/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F42C19/12">
+        <TreeNode Title="F42C19/14 ###在击发状态也能动作的[5]" Target="frmContent" Href="../searchservlet?query=F42C19/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F42C19/14"/>
+      </TreeNode>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="F42C21/00 检查引信；试验引信" Target="frmContent" Href="../searchservlet?query=F42C21/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F42C21/00"/>
+  <TreeNode Title="F42C99/00 不包含在本小类的其他组中的技术主题[8]" Target="frmContent" Href="../searchservlet?query=F42C99/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F42C99/00"/>
+</Root>

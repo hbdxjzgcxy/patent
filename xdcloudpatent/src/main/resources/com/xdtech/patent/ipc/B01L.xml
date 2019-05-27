@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="B01L1/00 外壳；腔室(通风橱入B08B；配有操作装置，手套箱的入B25J；冷却室入F25D)" Target="frmContent" Href="../searchservlet?query=B01L1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01L1/00">
+    <TreeNode Title="B01L1/02 #气压室；气压室用的气闸" Target="frmContent" Href="../searchservlet?query=B01L1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01L1/02"/>
+    <TreeNode Title="B01L1/04 #无尘房间或无尘箱" Target="frmContent" Href="../searchservlet?query=B01L1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01L1/04"/>
+  </TreeNode>
+  <TreeNode Title="B01L3/00 实验室用的容器或器皿，如实验室玻璃仪器(瓶子入B65D；酶或微生物学用的设备入C12M 1/00)；点滴器(量体积的容器入G01F)" Target="frmContent" Href="../searchservlet?query=B01L3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01L3/00">
+    <TreeNode Title="B01L3/02 #玻璃量杯；滴定管" Target="frmContent" Href="../searchservlet?query=B01L3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01L3/02"/>
+    <TreeNode Title="B01L3/04 #坩埚" Target="frmContent" Href="../searchservlet?query=B01L3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01L3/04"/>
+    <TreeNode Title="B01L3/06 #结晶皿" Target="frmContent" Href="../searchservlet?query=B01L3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01L3/06"/>
+    <TreeNode Title="B01L3/08 #烧瓶(专门用于蒸馏的入B01D)" Target="frmContent" Href="../searchservlet?query=B01L3/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01L3/08"/>
+    <TreeNode Title="B01L3/10 #洗瓶" Target="frmContent" Href="../searchservlet?query=B01L3/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01L3/10"/>
+    <TreeNode Title="B01L3/12 #气瓶或气罐" Target="frmContent" Href="../searchservlet?query=B01L3/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01L3/12"/>
+    <TreeNode Title="B01L3/14 #试管" Target="frmContent" Href="../searchservlet?query=B01L3/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01L3/14"/>
+    <TreeNode Title="B01L3/16 #蒸馏器" Target="frmContent" Href="../searchservlet?query=B01L3/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01L3/16"/>
+    <TreeNode Title="B01L3/18 #刮勺" Target="frmContent" Href="../searchservlet?query=B01L3/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01L3/18"/>
+  </TreeNode>
+  <TreeNode Title="B01L5/00 气体贮运装置(气瓶或气罐入B01L 3/12；冷凝阱，冷隔板入B01D 8/00；气体或蒸气的分离入B01D 53/00；气体发生器入B01J 7/00；蒸气阱入F16T)" Target="frmContent" Href="../searchservlet?query=B01L5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01L5/00">
+    <TreeNode Title="B01L5/02 #气体收集装置，例如靠水下鼓泡的(用于取样的入G01N)" Target="frmContent" Href="../searchservlet?query=B01L5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01L5/02"/>
+    <TreeNode Title="B01L5/04 #气体冲洗设备，如靠鼓泡作用" Target="frmContent" Href="../searchservlet?query=B01L5/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01L5/04"/>
+  </TreeNode>
+  <TreeNode Title="B01L7/00 加热或冷却设备(蒸发器入B01D 1/00；干燥气体或蒸气，如干燥器入B01D 53/26；高压釜入B01J 3/04，干燥炉入F26B；炉、灶入F27)；绝热设备[3]" Target="frmContent" Href="../searchservlet?query=B01L7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01L7/00">
+    <TreeNode Title="B01L7/02 #水浴槽；砂浴槽；空气浴槽" Target="frmContent" Href="../searchservlet?query=B01L7/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01L7/02"/>
+    <TreeNode Title="B01L7/04 #绝热设备，例如容器的护套  [2010.01]" Target="frmContent" Href="../searchservlet?query=B01L7/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01L7/04"/>
+  </TreeNode>
+  <TreeNode Title="B01L9/00 承托器具；夹持器具(镊子，夹钳入B25B)" Target="frmContent" Href="../searchservlet?query=B01L9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01L9/00">
+    <TreeNode Title="B01L9/02 #实验室凳或实验室台；它们的附件" Target="frmContent" Href="../searchservlet?query=B01L9/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01L9/02"/>
+    <TreeNode Title="B01L9/04 #蒸馏器架；蒸馏器夹具" Target="frmContent" Href="../searchservlet?query=B01L9/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01L9/04"/>
+    <TreeNode Title="B01L9/06 #试管支架；试管夹" Target="frmContent" Href="../searchservlet?query=B01L9/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01L9/06"/>
+  </TreeNode>
+  <TreeNode Title="B01L99/00 本小类其他各组中不包括的技术主题[2010.01]" Target="frmContent" Href="../searchservlet?query=B01L99/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01L99/00"/>
+</Root>

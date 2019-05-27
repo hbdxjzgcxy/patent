@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="F02P1/00 具有由无随后贮存的磁—电发电机或机—电发电机产生的电点火能量的设备" Target="frmContent" Href="../searchservlet?query=F02P1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02P1/00">
+    <TreeNode Title="F02P1/02 #以发电机转子是构成发动机飞轮的一部分为特征的" Target="frmContent" Href="../searchservlet?query=F02P1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02P1/02"/>
+    <TreeNode Title="F02P1/04 #发电机专门适用于特殊形式的发动机，例如汽缸是V形排列的发动机" Target="frmContent" Href="../searchservlet?query=F02P1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02P1/04"/>
+    <TreeNode Title="F02P1/06 #发电机传动装置，例如具有快速联轴器" Target="frmContent" Href="../searchservlet?query=F02P1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02P1/06"/>
+    <TreeNode Title="F02P1/08 #线路的布置" Target="frmContent" Href="../searchservlet?query=F02P1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02P1/08"/>
+  </TreeNode>
+  <TreeNode Title="F02P3/00 以点火能量产生贮存类型为特征的其他电火花点火装置" Target="frmContent" Href="../searchservlet?query=F02P3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02P3/00">
+    <TreeNode Title="F02P3/01 #无随后贮存能量的电火花点火装置，即能量由电振荡器供给(具有永磁发电机或直流发电机的入F02P 1/00；压电点火入F02P 3/12；具有连续电火花点火入F02P 15/10)[4]" Target="frmContent" Href="../searchservlet?query=F02P3/01&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02P3/01"/>
+    <TreeNode Title="F02P3/02 #具有电感能量贮存器，例如感应线圈装置" Target="frmContent" Href="../searchservlet?query=F02P3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02P3/02">
+      <TreeNode Title="F02P3/04 ##线路的布置" Target="frmContent" Href="../searchservlet?query=F02P3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02P3/04">
+        <TreeNode Title="F02P3/045 ###点火持续或停止时间的控制[4]" Target="frmContent" Href="../searchservlet?query=F02P3/045&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02P3/045"/>
+        <TreeNode Title="F02P3/05 ###点火线圈中电流大小的控制(起动期间入F02P 15/12)[4]" Target="frmContent" Href="../searchservlet?query=F02P3/05&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02P3/05"/>
+        <TreeNode Title="F02P3/055 ###具有防止回路或点火线圈故障的保护装置[4]" Target="frmContent" Href="../searchservlet?query=F02P3/055&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02P3/055"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="F02P3/06 #具有电容能量贮存器(压电或静电点火入F02P 3/12)" Target="frmContent" Href="../searchservlet?query=F02P3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02P3/06">
+      <TreeNode Title="F02P3/08 ##线路的布置(用于低电压入F02P 3/10)" Target="frmContent" Href="../searchservlet?query=F02P3/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02P3/08">
+        <TreeNode Title="F02P3/09 ###电容器充电的控制(F02P 15/12优先)[4]" Target="frmContent" Href="../searchservlet?query=F02P3/09&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02P3/09"/>
+      </TreeNode>
+      <TreeNode Title="F02P3/10 ##低电压设备，例如使用表面放电火花塞" Target="frmContent" Href="../searchservlet?query=F02P3/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02P3/10"/>
+    </TreeNode>
+    <TreeNode Title="F02P3/12 #压电点火；静电点火" Target="frmContent" Href="../searchservlet?query=F02P3/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02P3/12"/>
+  </TreeNode>
+  <TreeNode Title="F02P5/00 提前或滞后电点火火花；及其控制[6]" Target="frmContent" Href="../searchservlet?query=F02P5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02P5/00">
+    <TreeNode Title="F02P5/02 #非自动的；取决于发动机手动控制装置的位置，例如节流阀位置" Target="frmContent" Href="../searchservlet?query=F02P5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02P5/02"/>
+    <TreeNode Title="F02P5/04 #随发动机或车辆工作条件或大气条件而自动变化(取决于发动机手动控制器的位置入F02P 5/02)" Target="frmContent" Href="../searchservlet?query=F02P5/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02P5/04">
+      <TreeNode Title="F02P5/05 ##采用机械方法[4]" Target="frmContent" Href="../searchservlet?query=F02P5/05&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02P5/05">
+        <TreeNode Title="F02P5/06 ###取决于发动机的速度[4]" Target="frmContent" Href="../searchservlet?query=F02P5/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02P5/06">
+          <TreeNode Title="F02P5/07 ####离心定时机构[6]" Target="frmContent" Href="../searchservlet?query=F02P5/07&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02P5/07"/>
+        </TreeNode>
+        <TreeNode Title="F02P5/10 ###取决于发动机中的流体压力，例如燃烧空气压力[4]" Target="frmContent" Href="../searchservlet?query=F02P5/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02P5/10">
+          <TreeNode Title="F02P5/12 ####取决于除燃烧空气压力以外的特殊压力，例如取决于排气压力、冷却流体压力、润滑剂压力[4]" Target="frmContent" Href="../searchservlet?query=F02P5/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02P5/12"/>
+        </TreeNode>
+        <TreeNode Title="F02P5/14 ###取决于除发动机速度或发动机流体压力之外的特殊条件，例如取决于温度[4]" Target="frmContent" Href="../searchservlet?query=F02P5/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02P5/14"/>
+      </TreeNode>
+      <TreeNode Title="F02P5/145 ##采用电气方法[4]" Target="frmContent" Href="../searchservlet?query=F02P5/145&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02P5/145">
+        <TreeNode Title="F02P5/15 ###数字数据处理[4]" Target="frmContent" Href="../searchservlet?query=F02P5/15&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02P5/15">
+          <TreeNode Title="F02P5/152 ####取决于爆震(检测或指示内燃机中的爆震入G01L 23/22)[6]" Target="frmContent" Href="../searchservlet?query=F02P5/152&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02P5/152"/>
+          <TreeNode Title="F02P5/153 ####取决于燃烧压力[6]" Target="frmContent" Href="../searchservlet?query=F02P5/153&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02P5/153"/>
+        </TreeNode>
+        <TreeNode Title="F02P5/155 ###模拟数据处理[4]" Target="frmContent" Href="../searchservlet?query=F02P5/155&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02P5/155"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="F02P5/16 #以敏感元件或手动控制器和末端执行元件之间的机械传动为特点的" Target="frmContent" Href="../searchservlet?query=F02P5/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02P5/16"/>
+  </TreeNode>
+  <TreeNode Title="F02P7/00 用于电火花点火的分配器、电流接续器、断路器或传感器的配置(提前或迟后点火入F02P 5/00；上述装置的结构本身参见H部的有关类，如旋转开关入H01H 19/00；接触式断电器、分配器入H01R 39/00；发电机入H02K)" Target="frmContent" Href="../searchservlet?query=F02P7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02P7/00">
+    <TreeNode Title="F02P7/02 #分配器的" Target="frmContent" Href="../searchservlet?query=F02P7/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02P7/02">
+      <TreeNode Title="F02P7/03 ##带有电气装置(在1个发动机汽缸或两个或多个独立的发动机汽缸内在不同位置同时发生点火入F02P 15/08)[4]" Target="frmContent" Href="../searchservlet?query=F02P7/03&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02P7/03"/>
+      <TreeNode Title="F02P7/04 ##具有气密外壳的分配器" Target="frmContent" Href="../searchservlet?query=F02P7/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02P7/04"/>
+    </TreeNode>
+    <TreeNode Title="F02P7/06 #适合于检测正时周期的特殊点的电流接续器、断电器或传感器[4]" Target="frmContent" Href="../searchservlet?query=F02P7/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02P7/06">
+      <TreeNode Title="F02P7/063 ##机械传感器、电流接续器或断电器，例如接触式断电器[4]" Target="frmContent" Href="../searchservlet?query=F02P7/063&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02P7/063"/>
+      <TreeNode Title="F02P7/067 ##电磁传感器[4]" Target="frmContent" Href="../searchservlet?query=F02P7/067&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02P7/067">
+        <TreeNode Title="F02P7/07 ###震耳效应传感器[4]" Target="frmContent" Href="../searchservlet?query=F02P7/07&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02P7/07"/>
+      </TreeNode>
+      <TreeNode Title="F02P7/073 ##光传感器[4]" Target="frmContent" Href="../searchservlet?query=F02P7/073&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02P7/073"/>
+      <TreeNode Title="F02P7/077 ##其所用电路，例如脉冲发生器[4]" Target="frmContent" Href="../searchservlet?query=F02P7/077&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02P7/077"/>
+      <TreeNode Title="F02P7/08 ##具有密封外壳" Target="frmContent" Href="../searchservlet?query=F02P7/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02P7/08"/>
+    </TreeNode>
+    <TreeNode Title="F02P7/10 #分配器或电流接续器或断电器的驱动装置" Target="frmContent" Href="../searchservlet?query=F02P7/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02P7/10"/>
+  </TreeNode>
+  <TreeNode Title="F02P9/00 不包含在其他类目中的电火花点火控制器" Target="frmContent" Href="../searchservlet?query=F02P9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02P9/00"/>
+  <TreeNode Title="F02P11/00 不包含在其他类目中的电火花点火的安全装置" Target="frmContent" Href="../searchservlet?query=F02P11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02P11/00">
+    <TreeNode Title="F02P11/02 #发动机或发动机传动装置的故障的预防" Target="frmContent" Href="../searchservlet?query=F02P11/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02P11/02"/>
+    <TreeNode Title="F02P11/04 #发动机未经允许而使用的预防(车辆的入B60R 25/04；点火闭锁装置入H01H 27/00)" Target="frmContent" Href="../searchservlet?query=F02P11/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02P11/04"/>
+    <TreeNode Title="F02P11/06 #危险状况的指示" Target="frmContent" Href="../searchservlet?query=F02P11/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02P11/06"/>
+  </TreeNode>
+  <TreeNode Title="F02P13/00 与内燃机其他部件结构上组合一起的火花塞(带有燃料喷射器的入F02M 57/06；部件的主要方面，参见部件的有关小类)" Target="frmContent" Href="../searchservlet?query=F02P13/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02P13/00"/>
+  <TreeNode Title="F02P15/00 具有不包含在组F02P 1/00至F02P 13/00中或与上述各组无关的特征的电火花点火" Target="frmContent" Href="../searchservlet?query=F02P15/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02P15/00">
+    <TreeNode Title="F02P15/02 #具有两个或多个火花塞的配置" Target="frmContent" Href="../searchservlet?query=F02P15/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02P15/02"/>
+    <TreeNode Title="F02P15/04 #其中1个火花电极是安装在发动机工作活塞上" Target="frmContent" Href="../searchservlet?query=F02P15/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02P15/04"/>
+    <TreeNode Title="F02P15/06 #通过发动机工作汽缸压缩触发的电火花" Target="frmContent" Href="../searchservlet?query=F02P15/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02P15/06"/>
+    <TreeNode Title="F02P15/08 #具有多路火花点火，即在1个发动机汽缸内的不同位置上或两个或多个分开的发动机汽缸内同时发生点火" Target="frmContent" Href="../searchservlet?query=F02P15/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02P15/08"/>
+    <TreeNode Title="F02P15/10 #具有连续的电火花" Target="frmContent" Href="../searchservlet?query=F02P15/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02P15/10"/>
+    <TreeNode Title="F02P15/12 #具有在起动期间强化火花用的装置" Target="frmContent" Href="../searchservlet?query=F02P15/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02P15/12"/>
+  </TreeNode>
+  <TreeNode Title="F02P17/00 点火装置的测试，例如与调整联合进行的测试(燃料喷射装置的测试入F02M 65/00；一般的点火的测试入F23Q 23/00)；压缩点火发动机点火正时的测试[4]" Target="frmContent" Href="../searchservlet?query=F02P17/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02P17/00">
+    <TreeNode Title="F02P17/02 #点火定时的检查与调整[6]" Target="frmContent" Href="../searchservlet?query=F02P17/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02P17/02">
+      <TreeNode Title="F02P17/04 ##动态地[6]" Target="frmContent" Href="../searchservlet?query=F02P17/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02P17/04">
+        <TreeNode Title="F02P17/06 ###使用频闪灯[6]" Target="frmContent" Href="../searchservlet?query=F02P17/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02P17/06"/>
+        <TreeNode Title="F02P17/08 ###使用阴极射线示波器(F02P 17/06优先)[6]" Target="frmContent" Href="../searchservlet?query=F02P17/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02P17/08"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="F02P17/10 #测量停止或非停止时间[6]" Target="frmContent" Href="../searchservlet?query=F02P17/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02P17/10"/>
+    <TreeNode Title="F02P17/12 #测量火花特性、点火电压或电流[6]" Target="frmContent" Href="../searchservlet?query=F02P17/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02P17/12"/>
+  </TreeNode>
+  <TreeNode Title="F02P19/00 白炽点火，例如在内燃机起动期间；白炽点火和火花点火的组合[4]" Target="frmContent" Href="../searchservlet?query=F02P19/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02P19/00">
+    <TreeNode Title="F02P19/02 #电的，例如具有炽热点火塞的装置的线路布置" Target="frmContent" Href="../searchservlet?query=F02P19/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02P19/02"/>
+    <TreeNode Title="F02P19/04 #非电的，例如用燃烧器加热白炽点(使用燃烧器直接点火的入F02P 21/00)" Target="frmContent" Href="../searchservlet?query=F02P19/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02P19/04"/>
+  </TreeNode>
+  <TreeNode Title="F02P21/00 火焰或燃烧器直接用于点火" Target="frmContent" Href="../searchservlet?query=F02P21/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02P21/00">
+    <TreeNode Title="F02P21/02 #火焰基本上是保持在发动机工作室外燃烧" Target="frmContent" Href="../searchservlet?query=F02P21/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02P21/02"/>
+    <TreeNode Title="F02P21/04 #布置在发动机工作室内的燃烧药筒和类似嵌入件(作为辅助起动入F02N19/02)" Target="frmContent" Href="../searchservlet?query=F02P21/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02P21/04"/>
+  </TreeNode>
+  <TreeNode Title="F02P23/00 其他点火" Target="frmContent" Href="../searchservlet?query=F02P23/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02P23/00">
+    <TreeNode Title="F02P23/02 #摩擦、火药或催化点火" Target="frmContent" Href="../searchservlet?query=F02P23/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02P23/02">
+      <TreeNode Title="F02P23/04 ##布置在发动机工作室内的燃烧药筒和类似嵌入件(作为辅助起动入F02N19/02)" Target="frmContent" Href="../searchservlet?query=F02P23/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02P23/04"/>
+    </TreeNode>
+  </TreeNode>
+</Root>

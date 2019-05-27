@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="F24J1/00 利用放热化学反应，而非利用燃烧产生热的设备或装置(用于烹调器的入A47J 36/28；自加热并入A61F 7/03；采用通过不可逆化学反应，而非通过燃烧产生热或冷的材料入C09K 5/18)" Target="frmContent" Href="../searchservlet?query=F24J1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24J1/00"/>
+  <TreeNode Title="F24J2/00 太阳热的利用，例如太阳能集热器(利用太阳能蒸馏或蒸发水入C02F 1/14；能量收集装置的屋面覆盖物入E04D 13/18；利用太阳能产生机械动力的装置入F03G 6/00；专门适用于把太阳能转换成电能的半导体器件入H01L 25/00，H01L 31/00；包含有利用热能的太阳能电池阵列的半导体器件入H01L 31/058；把光辐射直接转变成电能的电发生器入H02N 6/00)[4，5]" Target="frmContent" Href="../searchservlet?query=F24J2/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24J2/00">
+    <TreeNode Title="F24J2/02 #带有加热物支承件的太阳能集热器，例如利用太阳热的炉、灶、坩锅、熔炉或烘箱[4]" Target="frmContent" Href="../searchservlet?query=F24J2/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24J2/02"/>
+    <TreeNode Title="F24J2/04 #工作流体流过集热器的太阳能集热器[4]" Target="frmContent" Href="../searchservlet?query=F24J2/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24J2/04">
+      <TreeNode Title="F24J2/05 ##由透明外罩所包围的，例如真空太阳能集热器[6]" Target="frmContent" Href="../searchservlet?query=F24J2/05&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24J2/05"/>
+      <TreeNode Title="F24J2/06 ##具有聚焦元件的(光学元件或系统本身入G02B)[4]" Target="frmContent" Href="../searchservlet?query=F24J2/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24J2/06">
+        <TreeNode Title="F24J2/07 ###在高温状态下工作的接收装置，例如太阳能发电站[6]" Target="frmContent" Href="../searchservlet?query=F24J2/07&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24J2/07"/>
+        <TreeNode Title="F24J2/08 ###具有作为聚焦元件的透镜[4]" Target="frmContent" Href="../searchservlet?query=F24J2/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24J2/08"/>
+        <TreeNode Title="F24J2/10 ###具有作为聚焦元件的反射器[4]" Target="frmContent" Href="../searchservlet?query=F24J2/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24J2/10">
+          <TreeNode Title="F24J2/12 ####抛物面的[4]" Target="frmContent" Href="../searchservlet?query=F24J2/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24J2/12"/>
+          <TreeNode Title="F24J2/13 ####半球状的[6]" Target="frmContent" Href="../searchservlet?query=F24J2/13&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24J2/13"/>
+          <TreeNode Title="F24J2/14 ####半圆柱状的或柱状抛物面的[4]" Target="frmContent" Href="../searchservlet?query=F24J2/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24J2/14"/>
+          <TreeNode Title="F24J2/15 ####圆锥状的[6]" Target="frmContent" Href="../searchservlet?query=F24J2/15&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24J2/15"/>
+          <TreeNode Title="F24J2/16 ####具有平板的[4]" Target="frmContent" Href="../searchservlet?query=F24J2/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24J2/16"/>
+          <TreeNode Title="F24J2/18 ####分隔对置互相反射表面的[4]" Target="frmContent" Href="../searchservlet?query=F24J2/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24J2/18"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="F24J2/20 ##工作流体在平板之间传送的[4]" Target="frmContent" Href="../searchservlet?query=F24J2/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24J2/20">
+        <TreeNode Title="F24J2/22 ###有增大表面的，例如突起、波纹(F24J 2/28优先)[4]" Target="frmContent" Href="../searchservlet?query=F24J2/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24J2/22"/>
+      </TreeNode>
+      <TreeNode Title="F24J2/23 ##工作流体自由地淋洒在集热器元件上的[6]" Target="frmContent" Href="../searchservlet?query=F24J2/23&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24J2/23"/>
+      <TreeNode Title="F24J2/24 ##工作流体流过管状吸热管道的[4]" Target="frmContent" Href="../searchservlet?query=F24J2/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24J2/24">
+        <TreeNode Title="F24J2/26 ###有增大表面的，例如突起(F24J 2/28优先)[4]" Target="frmContent" Href="../searchservlet?query=F24J2/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24J2/26"/>
+      </TreeNode>
+      <TreeNode Title="F24J2/28 ##有渗透体、多孔或疏松材料的[4]" Target="frmContent" Href="../searchservlet?query=F24J2/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24J2/28"/>
+      <TreeNode Title="F24J2/30 ##带有在多种流体之间进行热交换装置的[4]" Target="frmContent" Href="../searchservlet?query=F24J2/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24J2/30"/>
+      <TreeNode Title="F24J2/32 ##有蒸发段和冷凝段的，例如热管[4]" Target="frmContent" Href="../searchservlet?query=F24J2/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24J2/32"/>
+      <TreeNode Title="F24J2/34 ##有贮热体的[4]" Target="frmContent" Href="../searchservlet?query=F24J2/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24J2/34"/>
+    </TreeNode>
+    <TreeNode Title="F24J2/36 #可卷起或可折叠的集热器组件[4]" Target="frmContent" Href="../searchservlet?query=F24J2/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24J2/36"/>
+    <TreeNode Title="F24J2/38 #采用跟踪装置的(F24J 2/02，F24J 2/06优先；旋转支架或底座入F24J 2/54确定电磁波接收方向的定向器入G01S 3/78；位置或方向的控制入G05D 3/00)[4]" Target="frmContent" Href="../searchservlet?query=F24J2/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24J2/38"/>
+    <TreeNode Title="F24J2/40 #控制装置[4]" Target="frmContent" Href="../searchservlet?query=F24J2/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24J2/40"/>
+    <TreeNode Title="F24J2/42 #不包含在其他类目中的太阳能加热系统[4]" Target="frmContent" Href="../searchservlet?query=F24J2/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24J2/42">
+      <TreeNode Title="F24J2/44 ##有热对流循环的[4]" Target="frmContent" Href="../searchservlet?query=F24J2/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24J2/44"/>
+    </TreeNode>
+    <TreeNode Title="F24J2/46 #太阳能集热器的构件、零部件或附件[4]" Target="frmContent" Href="../searchservlet?query=F24J2/46&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24J2/46">
+      <TreeNode Title="F24J2/48 ##以吸收器材料为特征的[4]" Target="frmContent" Href="../searchservlet?query=F24J2/48&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24J2/48"/>
+      <TreeNode Title="F24J2/50 ##透明涂层[4]" Target="frmContent" Href="../searchservlet?query=F24J2/50&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24J2/50"/>
+      <TreeNode Title="F24J2/51 ##隔热(F24J 2/50优先)[6]" Target="frmContent" Href="../searchservlet?query=F24J2/51&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24J2/51"/>
+      <TreeNode Title="F24J2/52 ##底座或支架的配置[4]" Target="frmContent" Href="../searchservlet?query=F24J2/52&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24J2/52">
+        <TreeNode Title="F24J2/54 ###专门适用于旋转运动的[6]" Target="frmContent" Href="../searchservlet?query=F24J2/54&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24J2/54"/>
+      </TreeNode>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="F24J3/00 其他非燃烧热的产生或利用(太阳热的利用入F24J 2/00)" Target="frmContent" Href="../searchservlet?query=F24J3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24J3/00">
+    <TreeNode Title="F24J3/06 #利用自然热[4]" Target="frmContent" Href="../searchservlet?query=F24J3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24J3/06">
+      <TreeNode Title="F24J3/08 ##利用地热(利用地热产生机械动力的装置入F03G 4/00)[4，5]" Target="frmContent" Href="../searchservlet?query=F24J3/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24J3/08"/>
+    </TreeNode>
+  </TreeNode>
+</Root>

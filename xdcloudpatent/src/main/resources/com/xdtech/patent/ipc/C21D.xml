@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="C21D1/00 热处理的一般方法或设备，例如退火、硬化、淬火、回火(一般炉子入F27；电加热本身入H05B)" Target="frmContent" Href="../searchservlet?query=C21D1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C21D1/00">
+    <TreeNode Title="C21D1/02 #除需成型的工件外不需要再加热的锻造或轧制成型的硬化工件或材料" Target="frmContent" Href="../searchservlet?query=C21D1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C21D1/02"/>
+    <TreeNode Title="C21D1/04 #同时使用超声波、磁场或电场" Target="frmContent" Href="../searchservlet?query=C21D1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C21D1/04"/>
+    <TreeNode Title="C21D1/06 #表面硬化" Target="frmContent" Href="../searchservlet?query=C21D1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C21D1/06">
+      <TreeNode Title="C21D1/08 ##使用火焰" Target="frmContent" Href="../searchservlet?query=C21D1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C21D1/08"/>
+      <TreeNode Title="C21D1/09 ##通过直接使用电能或波能；通过特殊射线[3]" Target="frmContent" Href="../searchservlet?query=C21D1/09&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C21D1/09">
+        <TreeNode Title="C21D1/10 ###通过电感应[3]" Target="frmContent" Href="../searchservlet?query=C21D1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C21D1/10"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="C21D1/18 #硬化(C21D 1/02优先)；随后回火或不回火的淬火(淬火设备入C21D 1/62)[3]" Target="frmContent" Href="../searchservlet?query=C21D1/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C21D1/18">
+      <TreeNode Title="C21D1/19 ##阶段冷却淬火[3]" Target="frmContent" Href="../searchservlet?query=C21D1/19&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C21D1/19">
+        <TreeNode Title="C21D1/20 ###等温淬火，例如贝氏体淬火[3]" Target="frmContent" Href="../searchservlet?query=C21D1/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C21D1/20"/>
+        <TreeNode Title="C21D1/22 ###马氏体等温淬火[3]" Target="frmContent" Href="../searchservlet?query=C21D1/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C21D1/22"/>
+      </TreeNode>
+      <TreeNode Title="C21D1/25 ##硬化，与在300℃至600℃之间的退火相结合，即热精练(调质处理Vergüten)[3]" Target="frmContent" Href="../searchservlet?query=C21D1/25&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C21D1/25"/>
+    </TreeNode>
+    <TreeNode Title="C21D1/26 #退火方法" Target="frmContent" Href="../searchservlet?query=C21D1/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C21D1/26">
+      <TreeNode Title="C21D1/28 ##正火" Target="frmContent" Href="../searchservlet?query=C21D1/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C21D1/28"/>
+      <TreeNode Title="C21D1/30 ##消除应力" Target="frmContent" Href="../searchservlet?query=C21D1/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C21D1/30"/>
+      <TreeNode Title="C21D1/32 ##软化退火，例如球化处理" Target="frmContent" Href="../searchservlet?query=C21D1/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C21D1/32"/>
+    </TreeNode>
+    <TreeNode Title="C21D1/34 #加热方法(C21D 1/06优先)" Target="frmContent" Href="../searchservlet?query=C21D1/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C21D1/34">
+      <TreeNode Title="C21D1/38 ##通过阴极放电加热" Target="frmContent" Href="../searchservlet?query=C21D1/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C21D1/38"/>
+      <TreeNode Title="C21D1/40 ##直接电阻加热" Target="frmContent" Href="../searchservlet?query=C21D1/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C21D1/40"/>
+      <TreeNode Title="C21D1/42 ##感应加热" Target="frmContent" Href="../searchservlet?query=C21D1/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C21D1/42"/>
+      <TreeNode Title="C21D1/44 ##在热处理浴槽内" Target="frmContent" Href="../searchservlet?query=C21D1/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C21D1/44">
+        <TreeNode Title="C21D1/46 ###盐浴" Target="frmContent" Href="../searchservlet?query=C21D1/46&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C21D1/46"/>
+        <TreeNode Title="C21D1/48 ###金属浴" Target="frmContent" Href="../searchservlet?query=C21D1/48&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C21D1/48"/>
+        <TreeNode Title="C21D1/50 ###油浴" Target="frmContent" Href="../searchservlet?query=C21D1/50&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C21D1/50"/>
+      </TreeNode>
+      <TreeNode Title="C21D1/52 ##用火焰" Target="frmContent" Href="../searchservlet?query=C21D1/52&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C21D1/52"/>
+      <TreeNode Title="C21D1/53 ##用流化床加热[3]" Target="frmContent" Href="../searchservlet?query=C21D1/53&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C21D1/53"/>
+    </TreeNode>
+    <TreeNode Title="C21D1/54 #通过测定电或磁的特性来确定达到硬化温度的时间" Target="frmContent" Href="../searchservlet?query=C21D1/54&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C21D1/54"/>
+    <TreeNode Title="C21D1/55 #淬透性试验，例如顶端淬火试验(通过确定材料的物理或化学性能来研究或分析材料，一般入G01N)[3]" Target="frmContent" Href="../searchservlet?query=C21D1/55&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C21D1/55"/>
+    <TreeNode Title="C21D1/56 #以所用淬火剂为特征的" Target="frmContent" Href="../searchservlet?query=C21D1/56&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C21D1/56">
+      <TreeNode Title="C21D1/58 ##油" Target="frmContent" Href="../searchservlet?query=C21D1/58&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C21D1/58"/>
+      <TreeNode Title="C21D1/60 ##水剂" Target="frmContent" Href="../searchservlet?query=C21D1/60&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C21D1/60"/>
+      <TreeNode Title="C21D1/607 ##熔盐[3]" Target="frmContent" Href="../searchservlet?query=C21D1/607&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C21D1/607"/>
+      <TreeNode Title="C21D1/613 ##气体；液化或固化的普通气体材料[3]" Target="frmContent" Href="../searchservlet?query=C21D1/613&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C21D1/613"/>
+    </TreeNode>
+    <TreeNode Title="C21D1/62 #淬火设备" Target="frmContent" Href="../searchservlet?query=C21D1/62&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C21D1/62">
+      <TreeNode Title="C21D1/63 ##槽浴淬火用的[3]" Target="frmContent" Href="../searchservlet?query=C21D1/63&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C21D1/63">
+        <TreeNode Title="C21D1/64 ###用循环液体(一般入F28D)[3]" Target="frmContent" Href="../searchservlet?query=C21D1/64&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C21D1/64"/>
+      </TreeNode>
+      <TreeNode Title="C21D1/667 ##用于喷液淬火的[3]" Target="frmContent" Href="../searchservlet?query=C21D1/667&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C21D1/667"/>
+      <TreeNode Title="C21D1/673 ##用于压床淬火的[3]" Target="frmContent" Href="../searchservlet?query=C21D1/673&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C21D1/673"/>
+    </TreeNode>
+    <TreeNode Title="C21D1/68 #在热处理前或其过程中临时应用的涂覆或包覆材料" Target="frmContent" Href="../searchservlet?query=C21D1/68&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C21D1/68">
+      <TreeNode Title="C21D1/70 ##加热或淬火时" Target="frmContent" Href="../searchservlet?query=C21D1/70&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C21D1/70"/>
+      <TreeNode Title="C21D1/72 ##在表面化学变化时" Target="frmContent" Href="../searchservlet?query=C21D1/72&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C21D1/72"/>
+    </TreeNode>
+    <TreeNode Title="C21D1/74 #在惰性气体、控制气氛、真空或粉状材料中的处理方法(气体的生产入C01、C10)" Target="frmContent" Href="../searchservlet?query=C21D1/74&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C21D1/74">
+      <TreeNode Title="C21D1/76 ##调节气氛的成分" Target="frmContent" Href="../searchservlet?query=C21D1/76&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C21D1/76"/>
+      <TreeNode Title="C21D1/767 ##用强制气体循环；及其再加热[3]" Target="frmContent" Href="../searchservlet?query=C21D1/767&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C21D1/767"/>
+      <TreeNode Title="C21D1/773 ##在低压或真空下[3]" Target="frmContent" Href="../searchservlet?query=C21D1/773&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C21D1/773"/>
+    </TreeNode>
+    <TreeNode Title="C21D1/78 #不包括在上述规定中的复合热处理" Target="frmContent" Href="../searchservlet?query=C21D1/78&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C21D1/78"/>
+    <TreeNode Title="C21D1/82 #用热应力去除氧化皮(机械法入B21、B23；化学法入C23；电解法入C25F)" Target="frmContent" Href="../searchservlet?query=C21D1/82&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C21D1/82"/>
+    <TreeNode Title="C21D1/84 #受控缓慢冷即(金属轧制用的冷却床入B21B 43/00)[3]" Target="frmContent" Href="../searchservlet?query=C21D1/84&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C21D1/84"/>
+  </TreeNode>
+  <TreeNode Title="C21D3/00 去除非金属的扩散法；所用炉子(局部保护涂层入C21D 1/72；一般炉子入F27)" Target="frmContent" Href="../searchservlet?query=C21D3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C21D3/00">
+    <TreeNode Title="C21D3/02 #非金属的去除" Target="frmContent" Href="../searchservlet?query=C21D3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C21D3/02">
+      <TreeNode Title="C21D3/04 ##脱碳" Target="frmContent" Href="../searchservlet?query=C21D3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C21D3/04"/>
+      <TreeNode Title="C21D3/06 ##脱氢" Target="frmContent" Href="../searchservlet?query=C21D3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C21D3/06"/>
+      <TreeNode Title="C21D3/08 ##脱氮" Target="frmContent" Href="../searchservlet?query=C21D3/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C21D3/08"/>
+    </TreeNode>
+    <TreeNode Title="C21D3/10 #所用的炉子" Target="frmContent" Href="../searchservlet?query=C21D3/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C21D3/10"/>
+  </TreeNode>
+  <TreeNode Title="C21D5/00 铸铁的热处理" Target="frmContent" Href="../searchservlet?query=C21D5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C21D5/00">
+    <TreeNode Title="C21D5/02 #改善灰口铸铁的延展性" Target="frmContent" Href="../searchservlet?query=C21D5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C21D5/02"/>
+    <TreeNode Title="C21D5/04 #白口铸铁的" Target="frmContent" Href="../searchservlet?query=C21D5/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C21D5/04">
+      <TreeNode Title="C21D5/06 ##延展性" Target="frmContent" Href="../searchservlet?query=C21D5/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C21D5/06">
+        <TreeNode Title="C21D5/08 ###用碳的氧化" Target="frmContent" Href="../searchservlet?query=C21D5/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C21D5/08">
+          <TreeNode Title="C21D5/10 ####在气体介质中" Target="frmContent" Href="../searchservlet?query=C21D5/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C21D5/10"/>
+          <TreeNode Title="C21D5/12 ####在固体介质中" Target="frmContent" Href="../searchservlet?query=C21D5/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C21D5/12"/>
+        </TreeNode>
+        <TreeNode Title="C21D5/14 ###石墨化" Target="frmContent" Href="../searchservlet?query=C21D5/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C21D5/14">
+          <TreeNode Title="C21D5/16 ####填料剂" Target="frmContent" Href="../searchservlet?query=C21D5/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C21D5/16"/>
+        </TreeNode>
+      </TreeNode>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="C21D6/00 铁基合金的热处理[2]" Target="frmContent" Href="../searchservlet?query=C21D6/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C21D6/00">
+    <TreeNode Title="C21D6/02 #沉淀硬化[2]" Target="frmContent" Href="../searchservlet?query=C21D6/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C21D6/02"/>
+    <TreeNode Title="C21D6/04 #在0℃以下的冷却硬化[2]" Target="frmContent" Href="../searchservlet?query=C21D6/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C21D6/04"/>
+  </TreeNode>
+  <TreeNode Title="C21D7/00 通过变形改变铁或钢的物理性能(金属机械加工设备入B21、B23、B24)" Target="frmContent" Href="../searchservlet?query=C21D7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C21D7/00">
+    <TreeNode Title="C21D7/02 #通过冷加工法" Target="frmContent" Href="../searchservlet?query=C21D7/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C21D7/02">
+      <TreeNode Title="C21D7/04 ##表面的" Target="frmContent" Href="../searchservlet?query=C21D7/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C21D7/04">
+        <TreeNode Title="C21D7/06 ###用喷丸硬化或其他类似的方法" Target="frmContent" Href="../searchservlet?query=C21D7/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C21D7/06"/>
+        <TreeNode Title="C21D7/08 ###用抛光或其他类似的方法" Target="frmContent" Href="../searchservlet?query=C21D7/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C21D7/08"/>
+      </TreeNode>
+      <TreeNode Title="C21D7/10 ##整个横断面的，例如混凝土钢筋的" Target="frmContent" Href="../searchservlet?query=C21D7/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C21D7/10">
+        <TreeNode Title="C21D7/12 ###通过扩张管体的方法" Target="frmContent" Href="../searchservlet?query=C21D7/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C21D7/12"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="C21D7/13 #通过热加工法C21D 8/00通过伴随有变形的热处理或变形后再进行热处理来改变物理性能(除需成型的工件外不需要再加热的锻造或轧制成型的硬化工件或材料入C21D 1/02)[3]" Target="frmContent" Href="../searchservlet?query=C21D7/13&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C21D7/13"/>
+    <TreeNode Title="C21D8/02 #在生产钢板或带钢时(C21D 8/12优先)[3]" Target="frmContent" Href="../searchservlet?query=C21D8/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C21D8/02">
+      <TreeNode Title="C21D8/04 ##生产深冲钢板或带钢[3]" Target="frmContent" Href="../searchservlet?query=C21D8/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C21D8/04"/>
+    </TreeNode>
+    <TreeNode Title="C21D8/06 #在生产棒材或线材时[3]" Target="frmContent" Href="../searchservlet?query=C21D8/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C21D8/06">
+      <TreeNode Title="C21D8/08 ##用于混凝土钢筋[3]" Target="frmContent" Href="../searchservlet?query=C21D8/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C21D8/08"/>
+    </TreeNode>
+    <TreeNode Title="C21D8/10 #在生产管状体时[3]" Target="frmContent" Href="../searchservlet?query=C21D8/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C21D8/10"/>
+    <TreeNode Title="C21D8/12 #在生产具有特殊电磁性能的产品时[3]" Target="frmContent" Href="../searchservlet?query=C21D8/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C21D8/12"/>
+  </TreeNode>
+  <TreeNode Title="C21D9/00 热处理，例如适合于特殊产品的退火、硬化、淬火、回火；所用的炉子(一般炉子入F27)" Target="frmContent" Href="../searchservlet?query=C21D9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C21D9/00">
+    <TreeNode Title="C21D9/02 #用于弹簧" Target="frmContent" Href="../searchservlet?query=C21D9/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C21D9/02"/>
+    <TreeNode Title="C21D9/04 #用于钢轨(现场铁路钢轨热处理设备入E01B 31/18)" Target="frmContent" Href="../searchservlet?query=C21D9/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C21D9/04">
+      <TreeNode Title="C21D9/06 ##减少产生波纹的倾向" Target="frmContent" Href="../searchservlet?query=C21D9/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C21D9/06"/>
+    </TreeNode>
+    <TreeNode Title="C21D9/08 #用于管状体或管子" Target="frmContent" Href="../searchservlet?query=C21D9/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C21D9/08">
+      <TreeNode Title="C21D9/10 ##枪管" Target="frmContent" Href="../searchservlet?query=C21D9/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C21D9/10"/>
+      <TreeNode Title="C21D9/12 ##炮管" Target="frmContent" Href="../searchservlet?query=C21D9/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C21D9/12"/>
+      <TreeNode Title="C21D9/14 ##耐磨或耐压管" Target="frmContent" Href="../searchservlet?query=C21D9/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C21D9/14"/>
+    </TreeNode>
+    <TreeNode Title="C21D9/16 #用于爆炸弹壳" Target="frmContent" Href="../searchservlet?query=C21D9/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C21D9/16"/>
+    <TreeNode Title="C21D9/18 #用于小刀、长柄镰刀、剪刀或类似手工切割刀具" Target="frmContent" Href="../searchservlet?query=C21D9/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C21D9/18"/>
+    <TreeNode Title="C21D9/20 #用于冰鞋的刀刃" Target="frmContent" Href="../searchservlet?query=C21D9/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C21D9/20"/>
+    <TreeNode Title="C21D9/22 #用于钻头；铣刀；机械切削工具" Target="frmContent" Href="../searchservlet?query=C21D9/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C21D9/22"/>
+    <TreeNode Title="C21D9/24 #用于锯片" Target="frmContent" Href="../searchservlet?query=C21D9/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C21D9/24"/>
+    <TreeNode Title="C21D9/26 #用于针；梳理机的齿" Target="frmContent" Href="../searchservlet?query=C21D9/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C21D9/26"/>
+    <TreeNode Title="C21D9/28 #用于普通轴" Target="frmContent" Href="../searchservlet?query=C21D9/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C21D9/28"/>
+    <TreeNode Title="C21D9/30 #用于曲轴；凸轮轴" Target="frmContent" Href="../searchservlet?query=C21D9/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C21D9/30"/>
+    <TreeNode Title="C21D9/32 #用于齿轮、蜗轮或其他类似物" Target="frmContent" Href="../searchservlet?query=C21D9/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C21D9/32"/>
+    <TreeNode Title="C21D9/34 #用于轮箍；轮缘" Target="frmContent" Href="../searchservlet?query=C21D9/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C21D9/34"/>
+    <TreeNode Title="C21D9/36 #用于滚珠；滚柱" Target="frmContent" Href="../searchservlet?query=C21D9/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C21D9/36"/>
+    <TreeNode Title="C21D9/38 #用于辊体" Target="frmContent" Href="../searchservlet?query=C21D9/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C21D9/38"/>
+    <TreeNode Title="C21D9/40 #用于环；轴承座圈" Target="frmContent" Href="../searchservlet?query=C21D9/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C21D9/40"/>
+    <TreeNode Title="C21D9/42 #用于装甲板" Target="frmContent" Href="../searchservlet?query=C21D9/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C21D9/42"/>
+    <TreeNode Title="C21D9/44 #用于衬砌矿山竖井设备，例如扇形体、环形体、支柱" Target="frmContent" Href="../searchservlet?query=C21D9/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C21D9/44"/>
+    <TreeNode Title="C21D9/46 #用于金属薄板" Target="frmContent" Href="../searchservlet?query=C21D9/46&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C21D9/46">
+      <TreeNode Title="C21D9/48 ##深冲薄板" Target="frmContent" Href="../searchservlet?query=C21D9/48&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C21D9/48"/>
+    </TreeNode>
+    <TreeNode Title="C21D9/50 #用于焊接接头" Target="frmContent" Href="../searchservlet?query=C21D9/50&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C21D9/50"/>
+    <TreeNode Title="C21D9/52 #用于线材；带材" Target="frmContent" Href="../searchservlet?query=C21D9/52&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C21D9/52">
+      <TreeNode Title="C21D9/54 ##处理带材或线材的炉子" Target="frmContent" Href="../searchservlet?query=C21D9/54&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C21D9/54">
+        <TreeNode Title="C21D9/56 ###带材或线材连续处理炉" Target="frmContent" Href="../searchservlet?query=C21D9/56&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C21D9/56">
+          <TreeNode Title="C21D9/567 ####用流化床加热[3]" Target="frmContent" Href="../searchservlet?query=C21D9/567&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C21D9/567"/>
+          <TreeNode Title="C21D9/573 ####带冷却[3]" Target="frmContent" Href="../searchservlet?query=C21D9/573&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C21D9/573"/>
+          <TreeNode Title="C21D9/58 ####用槽浴加热" Target="frmContent" Href="../searchservlet?query=C21D9/58&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C21D9/58"/>
+          <TreeNode Title="C21D9/60 ####用感应加热" Target="frmContent" Href="../searchservlet?query=C21D9/60&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C21D9/60"/>
+          <TreeNode Title="C21D9/62 ####用直接电阻加热" Target="frmContent" Href="../searchservlet?query=C21D9/62&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C21D9/62"/>
+          <TreeNode Title="C21D9/63 ####用气体缓冲器支承带材[3]" Target="frmContent" Href="../searchservlet?query=C21D9/63&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C21D9/63"/>
+        </TreeNode>
+        <TreeNode Title="C21D9/64 ###铅淬火炉" Target="frmContent" Href="../searchservlet?query=C21D9/64&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C21D9/64"/>
+        <TreeNode Title="C21D9/66 ###塔式炉" Target="frmContent" Href="../searchservlet?query=C21D9/66&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C21D9/66"/>
+        <TreeNode Title="C21D9/663 ###钟罩式炉[3]" Target="frmContent" Href="../searchservlet?query=C21D9/663&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C21D9/663">
+          <TreeNode Title="C21D9/665 ####仰拱或侧衬式[3]" Target="frmContent" Href="../searchservlet?query=C21D9/665&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C21D9/665"/>
+          <TreeNode Title="C21D9/667 ####多工位炉[3]" Target="frmContent" Href="../searchservlet?query=C21D9/667&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C21D9/667">
+            <TreeNode Title="C21D9/67 #####为在真空或特殊气氛下处理炉料所采用的[3]" Target="frmContent" Href="../searchservlet?query=C21D9/67&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C21D9/67"/>
+          </TreeNode>
+          <TreeNode Title="C21D9/673 ####钟罩式炉所使用的零件、辅助设备或专用设备[3]" Target="frmContent" Href="../searchservlet?query=C21D9/673&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C21D9/673"/>
+          <TreeNode Title="C21D9/675 ####装料或出料装置的配置[3]" Target="frmContent" Href="../searchservlet?query=C21D9/675&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C21D9/675"/>
+          <TreeNode Title="C21D9/677 ####加热设备的配置[3]" Target="frmContent" Href="../searchservlet?query=C21D9/677&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C21D9/677"/>
+        </TreeNode>
+        <TreeNode Title="C21D9/68 ###炉子缠卷装置；热缠卷装置(冷缠卷装置入B21C)" Target="frmContent" Href="../searchservlet?query=C21D9/68&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C21D9/68"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="C21D9/70 #加热钢锭用的炉子，即均热炉" Target="frmContent" Href="../searchservlet?query=C21D9/70&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C21D9/70"/>
+  </TreeNode>
+  <TreeNode Title="C21D10/00 用热处理或变形以外的方法来改变物理性能[3]" Target="frmContent" Href="../searchservlet?query=C21D10/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C21D10/00"/>
+  <TreeNode Title="C21D11/00 热处理过程的控制或调整(一般控制或调整入G05)[2]" Target="frmContent" Href="../searchservlet?query=C21D11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C21D11/00"/>
+</Root>

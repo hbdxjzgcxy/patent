@@ -1,0 +1,720 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="B01D1/00 蒸发(靠蒸发液体使固体材料或物体干燥入F26B)" Target="frmContent" Href="../searchservlet?query=B01D1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D1/00">
+    <TreeNode Title="B01D1/02 #靠蛇形管加热的蒸发器" Target="frmContent" Href="../searchservlet?query=B01D1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D1/02"/>
+    <TreeNode Title="B01D1/04 #水平管蒸发器" Target="frmContent" Href="../searchservlet?query=B01D1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D1/04"/>
+    <TreeNode Title="B01D1/06 #竖管蒸发器" Target="frmContent" Href="../searchservlet?query=B01D1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D1/06">
+      <TreeNode Title="B01D1/08 ##带有短管的(B01D 1/12优先)" Target="frmContent" Href="../searchservlet?query=B01D1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D1/08"/>
+      <TreeNode Title="B01D1/10 ##带有长管的，例如凯斯特纳蒸发器(B01D 1/12优先)" Target="frmContent" Href="../searchservlet?query=B01D1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D1/10"/>
+      <TreeNode Title="B01D1/12 ##并具有强制循环" Target="frmContent" Href="../searchservlet?query=B01D1/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D1/12"/>
+    </TreeNode>
+    <TreeNode Title="B01D1/14 #以加热的气体或蒸气与液体接触" Target="frmContent" Href="../searchservlet?query=B01D1/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D1/14"/>
+    <TreeNode Title="B01D1/16 #用喷雾(B01D 1/22优先)" Target="frmContent" Href="../searchservlet?query=B01D1/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D1/16">
+      <TreeNode Title="B01D1/18 ##为获得干燥的固体(B01D 1/24优先)" Target="frmContent" Href="../searchservlet?query=B01D1/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D1/18"/>
+      <TreeNode Title="B01D1/20 ##喷雾器" Target="frmContent" Href="../searchservlet?query=B01D1/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D1/20"/>
+    </TreeNode>
+    <TreeNode Title="B01D1/22 #使一薄层液体与已加热的表面相接触" Target="frmContent" Href="../searchservlet?query=B01D1/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D1/22">
+      <TreeNode Title="B01D1/24 ##为获得干燥的固体" Target="frmContent" Href="../searchservlet?query=B01D1/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D1/24"/>
+    </TreeNode>
+    <TreeNode Title="B01D1/26 #多效蒸发" Target="frmContent" Href="../searchservlet?query=B01D1/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D1/26"/>
+    <TreeNode Title="B01D1/28 #带有蒸气加压的" Target="frmContent" Href="../searchservlet?query=B01D1/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D1/28"/>
+    <TreeNode Title="B01D1/30 #蒸发器附件" Target="frmContent" Href="../searchservlet?query=B01D1/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D1/30"/>
+  </TreeNode>
+  <TreeNode Title="B01D3/00 蒸馏或相关的在液体同气体介质相接触的过程中发生交换的方法，例如汽提[2]" Target="frmContent" Href="../searchservlet?query=B01D3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D3/00">
+    <TreeNode Title="B01D3/02 #在蒸馏锅或蒸馏釜中[2]" Target="frmContent" Href="../searchservlet?query=B01D3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D3/02"/>
+    <TreeNode Title="B01D3/04 #管式蒸馏器" Target="frmContent" Href="../searchservlet?query=B01D3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D3/04"/>
+    <TreeNode Title="B01D3/06 #急骤蒸馏[2]" Target="frmContent" Href="../searchservlet?query=B01D3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D3/06"/>
+    <TreeNode Title="B01D3/08 #在旋转容器中；旋转盘上的雾化法(B01D 3/10优先)" Target="frmContent" Href="../searchservlet?query=B01D3/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D3/08"/>
+    <TreeNode Title="B01D3/10 #真空蒸馏(B01D 3/12优先)[2]" Target="frmContent" Href="../searchservlet?query=B01D3/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D3/10"/>
+    <TreeNode Title="B01D3/12 #分子蒸馏[2]" Target="frmContent" Href="../searchservlet?query=B01D3/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D3/12"/>
+    <TreeNode Title="B01D3/14 #分馏" Target="frmContent" Href="../searchservlet?query=B01D3/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D3/14">
+      <TreeNode Title="B01D3/16 ##蒸气气泡通过液体的分馏塔" Target="frmContent" Href="../searchservlet?query=B01D3/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D3/16">
+        <TreeNode Title="B01D3/18 ###带有水平泡罩板" Target="frmContent" Href="../searchservlet?query=B01D3/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D3/18">
+          <TreeNode Title="B01D3/20 ####泡罩；蒸气冒口；排液管" Target="frmContent" Href="../searchservlet?query=B01D3/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D3/20"/>
+        </TreeNode>
+        <TreeNode Title="B01D3/22 ###带水平筛板或筛栅；筛板或筛栅的结构" Target="frmContent" Href="../searchservlet?query=B01D3/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D3/22"/>
+        <TreeNode Title="B01D3/24 ###带有斜板或装有阶梯式构件" Target="frmContent" Href="../searchservlet?query=B01D3/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D3/24"/>
+      </TreeNode>
+      <TreeNode Title="B01D3/26 ##各种分馏塔，其中，蒸气和液体相互穿流，或者将液体喷洒到蒸气中，或在两相混合物朝同一方向行进" Target="frmContent" Href="../searchservlet?query=B01D3/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D3/26">
+        <TreeNode Title="B01D3/28 ###带有表面接触和垂直导向装置的分馏塔，例如薄膜作用装置" Target="frmContent" Href="../searchservlet?query=B01D3/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D3/28"/>
+      </TreeNode>
+      <TreeNode Title="B01D3/30 ##带有活动部件或在塔中产生离心运动的分馏塔" Target="frmContent" Href="../searchservlet?query=B01D3/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D3/30"/>
+      <TreeNode Title="B01D3/32 ##分馏塔的其他特征" Target="frmContent" Href="../searchservlet?query=B01D3/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D3/32"/>
+    </TreeNode>
+    <TreeNode Title="B01D3/34 #使用一种或多种助剂" Target="frmContent" Href="../searchservlet?query=B01D3/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D3/34">
+      <TreeNode Title="B01D3/36 ##恒沸蒸馏" Target="frmContent" Href="../searchservlet?query=B01D3/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D3/36"/>
+      <TreeNode Title="B01D3/38 ##蒸气蒸馏" Target="frmContent" Href="../searchservlet?query=B01D3/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D3/38"/>
+      <TreeNode Title="B01D3/40 ##萃取蒸馏" Target="frmContent" Href="../searchservlet?query=B01D3/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D3/40"/>
+    </TreeNode>
+    <TreeNode Title="B01D3/42 #调节；控制" Target="frmContent" Href="../searchservlet?query=B01D3/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D3/42"/>
+  </TreeNode>
+  <TreeNode Title="B01D5/00 蒸气的冷凝；用冷凝法回收挥发性溶剂(B01D 8/00优先；冷凝器入F28B)[3]" Target="frmContent" Href="../searchservlet?query=B01D5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D5/00"/>
+  <TreeNode Title="B01D7/00 升华(B01D 8/00优先；冻干入F26)" Target="frmContent" Href="../searchservlet?query=B01D7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D7/00">
+    <TreeNode Title="B01D7/02 #直接从汽相结晶(成为单晶入C30B 23/00)[2]" Target="frmContent" Href="../searchservlet?query=B01D7/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D7/02"/>
+  </TreeNode>
+  <TreeNode Title="B01D8/00 冷凝阱；冷隔板[3]" Target="frmContent" Href="../searchservlet?query=B01D8/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D8/00"/>
+  <TreeNode Title="B01D9/00 结晶(直接从汽相结晶入B01D 7/02；制成单晶入C30B)" Target="frmContent" Href="../searchservlet?query=B01D9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D9/00">
+    <TreeNode Title="B01D9/02 #从溶液" Target="frmContent" Href="../searchservlet?query=B01D9/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D9/02">
+      <TreeNode Title="B01D9/04 ##靠除去冷冻溶剂来浓缩溶液" Target="frmContent" Href="../searchservlet?query=B01D9/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D9/04"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="B01D11/00 溶剂萃取" Target="frmContent" Href="../searchservlet?query=B01D11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D11/00">
+    <TreeNode Title="B01D11/02 #固体的" Target="frmContent" Href="../searchservlet?query=B01D11/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D11/02"/>
+    <TreeNode Title="B01D11/04 #液态溶液的" Target="frmContent" Href="../searchservlet?query=B01D11/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D11/04"/>
+  </TreeNode>
+  <TreeNode Title="B01D12/00 用其他的液体取代被置换的液体，例如，从湿的固体或从弥散的液体或从在液体内的固体中置换" Target="frmContent" Href="../searchservlet?query=B01D12/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D12/00"/>
+  <TreeNode Title="B01D15/00 包含有用固体吸附剂处理液体的分离方法；及其所用设备 [4]" Target="frmContent" Href="../searchservlet?query=B01D15/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D15/00">
+    <TreeNode Title="B01D15/02 #以移动的吸附剂" Target="frmContent" Href="../searchservlet?query=B01D15/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D15/02"/>
+    <TreeNode Title="B01D15/04 #以离子交换材料作为吸附剂(B01D 15/36优先) [1，8]" Target="frmContent" Href="../searchservlet?query=B01D15/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D15/04"/>
+    <TreeNode Title="B01D15/08 #选择吸附；如，色谱法" Target="frmContent" Href="../searchservlet?query=B01D15/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D15/08">
+      <TreeNode Title="B01D15/10 ##以结构或操作为特征的 [8]" Target="frmContent" Href="../searchservlet?query=B01D15/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D15/10">
+        <TreeNode Title="B01D15/12 ###涉及进料的制备 [8]" Target="frmContent" Href="../searchservlet?query=B01D15/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D15/12"/>
+        <TreeNode Title="B01D15/14 ###涉及将进料加入到装置中 [8]" Target="frmContent" Href="../searchservlet?query=B01D15/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D15/14"/>
+        <TreeNode Title="B01D15/16 ###涉及调节流体载体 [8]" Target="frmContent" Href="../searchservlet?query=B01D15/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D15/16"/>
+        <TreeNode Title="B01D15/18 ###涉及流型 [8]" Target="frmContent" Href="../searchservlet?query=B01D15/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D15/18"/>
+        <TreeNode Title="B01D15/20 ###涉及调节吸附材料 [8]" Target="frmContent" Href="../searchservlet?query=B01D15/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D15/20"/>
+        <TreeNode Title="B01D15/22 ###涉及交换柱的结构 [8]" Target="frmContent" Href="../searchservlet?query=B01D15/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D15/22"/>
+        <TreeNode Title="B01D15/24 ###涉及被分配的分流的处理 [8]" Target="frmContent" Href="../searchservlet?query=B01D15/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D15/24"/>
+      </TreeNode>
+      <TreeNode Title="B01D15/26 ##以分离的机理为特征的 [8]" Target="frmContent" Href="../searchservlet?query=B01D15/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D15/26">
+        <TreeNode Title="B01D15/30 ###分配色谱 [8]" Target="frmContent" Href="../searchservlet?query=B01D15/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D15/30"/>
+        <TreeNode Title="B01D15/32 ###例如，带有常态键合相的、反相或疏水性交互作用的 [8]" Target="frmContent" Href="../searchservlet?query=B01D15/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D15/32"/>
+        <TreeNode Title="B01D15/34 ###选择分离，例如，位阻色谱；胶体过滤作用；渗透作用 [8]" Target="frmContent" Href="../searchservlet?query=B01D15/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D15/34"/>
+        <TreeNode Title="B01D15/36 ###涉及离子交互作用的，例如，离子交换、离子对、离子抑制或离子排除作用的 [8]" Target="frmContent" Href="../searchservlet?query=B01D15/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D15/36"/>
+        <TreeNode Title="B01D15/38 ###涉及不包含在B01D 15/30至B01D 15/36一个组或几个组中的特殊相互作用，例如，亲合、配位体交换或手性色谱 [8]" Target="frmContent" Href="../searchservlet?query=B01D15/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D15/38"/>
+        <TreeNode Title="B01D15/40 ###使用超临界流体作为流动相或洗脱相 [8]" Target="frmContent" Href="../searchservlet?query=B01D15/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D15/40"/>
+      </TreeNode>
+      <TreeNode Title="B01D15/42 ##以冲洗模式为特征，例如通过置换或通过洗脱 [8]" Target="frmContent" Href="../searchservlet?query=B01D15/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D15/42"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="B01D17/00 其他位置不包括的液体的分离，例如靠热扩散" Target="frmContent" Href="../searchservlet?query=B01D17/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D17/00">
+    <TreeNode Title="B01D17/02 #不互溶的液体的分离" Target="frmContent" Href="../searchservlet?query=B01D17/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D17/02">
+      <TreeNode Title="B01D17/022 ##使与可优先湿润的固体相接触[4]" Target="frmContent" Href="../searchservlet?query=B01D17/022&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D17/022"/>
+      <TreeNode Title="B01D17/025 ##在一沉淀箱中，靠重力[4]" Target="frmContent" Href="../searchservlet?query=B01D17/025&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D17/025">
+        <TreeNode Title="B01D17/028 ###装有一组隔板[4]" Target="frmContent" Href="../searchservlet?query=B01D17/028&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D17/028"/>
+        <TreeNode Title="B01D17/032 ###备有至少去除一种已分离液体的专用设备[4]" Target="frmContent" Href="../searchservlet?query=B01D17/032&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D17/032"/>
+      </TreeNode>
+      <TreeNode Title="B01D17/035 ##利用在混合物中加入气泡或者移动的固体[4]" Target="frmContent" Href="../searchservlet?query=B01D17/035&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D17/035"/>
+      <TreeNode Title="B01D17/038 ##用离心力(离心机入B04B；旋流器入B04C)[4]" Target="frmContent" Href="../searchservlet?query=B01D17/038&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D17/038"/>
+      <TreeNode Title="B01D17/04 ##分解乳化液" Target="frmContent" Href="../searchservlet?query=B01D17/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D17/04">
+        <TreeNode Title="B01D17/05 ###用化学处理[4]" Target="frmContent" Href="../searchservlet?query=B01D17/05&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D17/05"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="B01D17/06 #用电使液体互相分离" Target="frmContent" Href="../searchservlet?query=B01D17/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D17/06"/>
+    <TreeNode Title="B01D17/09 #用热扩散[4]" Target="frmContent" Href="../searchservlet?query=B01D17/09&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D17/09"/>
+    <TreeNode Title="B01D17/12 #专门适用于液体分离设备的附属设备，例如控制电路[4]" Target="frmContent" Href="../searchservlet?query=B01D17/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D17/12"/>
+  </TreeNode>
+  <TreeNode Title="B01D19/00 液体的脱气" Target="frmContent" Href="../searchservlet?query=B01D19/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D19/00">
+    <TreeNode Title="B01D19/02 #泡沫的分散或防止" Target="frmContent" Href="../searchservlet?query=B01D19/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D19/02">
+      <TreeNode Title="B01D19/04 ##靠添加化学物质" Target="frmContent" Href="../searchservlet?query=B01D19/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D19/04"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="B01D21/00 用沉积法将悬浮固体微粒从液体中分离(选择性沉积入B03D 3/00)" Target="frmContent" Href="../searchservlet?query=B01D21/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D21/00">
+    <TreeNode Title="B01D21/01 #用絮凝剂[2]" Target="frmContent" Href="../searchservlet?query=B01D21/01&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D21/01"/>
+    <TreeNode Title="B01D21/02 #沉降槽[4]" Target="frmContent" Href="../searchservlet?query=B01D21/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D21/02">
+      <TreeNode Title="B01D21/04 ##带有活动刮板" Target="frmContent" Href="../searchservlet?query=B01D21/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D21/04">
+        <TreeNode Title="B01D21/06 ###带有旋转刮板" Target="frmContent" Href="../searchservlet?query=B01D21/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D21/06"/>
+      </TreeNode>
+      <TreeNode Title="B01D21/08 ##备有絮凝格层" Target="frmContent" Href="../searchservlet?query=B01D21/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D21/08"/>
+    </TreeNode>
+    <TreeNode Title="B01D21/18 #用于沉降槽的刮板或传动机构的结构" Target="frmContent" Href="../searchservlet?query=B01D21/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D21/18">
+      <TreeNode Title="B01D21/20 ##驱动机构" Target="frmContent" Href="../searchservlet?query=B01D21/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D21/20"/>
+      <TreeNode Title="B01D21/22 ##安全机构" Target="frmContent" Href="../searchservlet?query=B01D21/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D21/22"/>
+    </TreeNode>
+    <TreeNode Title="B01D21/24 #用于沉降槽的进料或出料装置" Target="frmContent" Href="../searchservlet?query=B01D21/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D21/24"/>
+    <TreeNode Title="B01D21/26 #靠附加离心力分离沉积物" Target="frmContent" Href="../searchservlet?query=B01D21/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D21/26"/>
+    <TreeNode Title="B01D21/28 #用于加速沉降的机械附属设备，例如用振动器或类似物[4]" Target="frmContent" Href="../searchservlet?query=B01D21/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D21/28"/>
+    <TreeNode Title="B01D21/30 #控制设备[4]" Target="frmContent" Href="../searchservlet?query=B01D21/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D21/30">
+      <TreeNode Title="B01D21/32 ##清理液或沉降物浓度的控制，例如光控[4]" Target="frmContent" Href="../searchservlet?query=B01D21/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D21/32"/>
+      <TreeNode Title="B01D21/34 ##进料分配控制；液面控制[4]" Target="frmContent" Href="../searchservlet?query=B01D21/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D21/34"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="B01D24/00 含有疏松材料的过滤器，例如，在单个粒子或纤维间没有黏合剂的过滤材料(B01D 27/02优先)[5]" Target="frmContent" Href="../searchservlet?query=B01D24/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D24/00">
+    <TreeNode Title="B01D24/02 #过滤期间滤床是不动的[5]" Target="frmContent" Href="../searchservlet?query=B01D24/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D24/02">
+      <TreeNode Title="B01D24/04 ##过滤材料夹持在2个可渗透的固定壁之间(B01D 24/10，B01D 24/20优先)[5]" Target="frmContent" Href="../searchservlet?query=B01D24/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D24/04">
+        <TreeNode Title="B01D24/06 ###可渗透壁包含一组通气孔或缝隙[5]" Target="frmContent" Href="../searchservlet?query=B01D24/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D24/06"/>
+        <TreeNode Title="B01D24/08 ###由至少2个同轴的可渗透壁支撑过滤材料[5]" Target="frmContent" Href="../searchservlet?query=B01D24/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D24/08"/>
+      </TreeNode>
+      <TreeNode Title="B01D24/10 ##在一封闭的容器中装有过滤材料[5]" Target="frmContent" Href="../searchservlet?query=B01D24/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D24/10">
+        <TreeNode Title="B01D24/12 ###下滤，由可渗透表面支撑过滤材料(B01D 24/18优先)[5]" Target="frmContent" Href="../searchservlet?query=B01D24/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D24/12"/>
+        <TreeNode Title="B01D24/14 ###下滤，容器有分配或收集顶盖或可渗透管(B01D 24/18优先)[5]" Target="frmContent" Href="../searchservlet?query=B01D24/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D24/14"/>
+        <TreeNode Title="B01D24/16 ###上滤(B01D 24/18优先)[5]" Target="frmContent" Href="../searchservlet?query=B01D24/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D24/16"/>
+        <TreeNode Title="B01D24/18 ###上滤和下滤相结合[5]" Target="frmContent" Href="../searchservlet?query=B01D24/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D24/18"/>
+      </TreeNode>
+      <TreeNode Title="B01D24/20 ##在敞开的容器中装有过滤材料[5]" Target="frmContent" Href="../searchservlet?query=B01D24/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D24/20">
+        <TreeNode Title="B01D24/22 ###下滤，由可渗透表面支撑过滤材料[5]" Target="frmContent" Href="../searchservlet?query=B01D24/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D24/22"/>
+        <TreeNode Title="B01D24/24 ###下滤，容器有分配或收集顶盖或可渗透管[5]" Target="frmContent" Href="../searchservlet?query=B01D24/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D24/24"/>
+        <TreeNode Title="B01D24/26 ###上滤[5]" Target="frmContent" Href="../searchservlet?query=B01D24/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D24/26"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="B01D24/28 #过滤期间滤床是移动的(有流体化过滤床的入B01D 24/36)[5]" Target="frmContent" Href="../searchservlet?query=B01D24/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D24/28">
+      <TreeNode Title="B01D24/30 ##平动[5]" Target="frmContent" Href="../searchservlet?query=B01D24/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D24/30"/>
+      <TreeNode Title="B01D24/32 ##转动[5]" Target="frmContent" Href="../searchservlet?query=B01D24/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D24/32"/>
+    </TreeNode>
+    <TreeNode Title="B01D24/34 #带有过滤材料并且其可渗透支撑物是移动的(斜斗、盘或类似的部分入B01D 33/327)[5]" Target="frmContent" Href="../searchservlet?query=B01D24/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D24/34"/>
+    <TreeNode Title="B01D24/36 #过滤期间带有流体化的过滤床(带有不动的过滤床入B01D 24/02)[5]" Target="frmContent" Href="../searchservlet?query=B01D24/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D24/36"/>
+    <TreeNode Title="B01D24/38 #进料或排料装置[5]" Target="frmContent" Href="../searchservlet?query=B01D24/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D24/38">
+      <TreeNode Title="B01D24/40 ##用于进料[5]" Target="frmContent" Href="../searchservlet?query=B01D24/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D24/40"/>
+      <TreeNode Title="B01D24/42 ##用于排出滤液[5]" Target="frmContent" Href="../searchservlet?query=B01D24/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D24/42"/>
+      <TreeNode Title="B01D24/44 ##用于排出滤饼，如溜槽[5]" Target="frmContent" Href="../searchservlet?query=B01D24/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D24/44"/>
+    </TreeNode>
+    <TreeNode Title="B01D24/46 #过滤器内过滤材料的再生(B01D 24/44优先)[5]" Target="frmContent" Href="../searchservlet?query=B01D24/46&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D24/46"/>
+    <TreeNode Title="B01D24/48 #与过滤控制装置整体结合的[5]" Target="frmContent" Href="../searchservlet?query=B01D24/48&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D24/48"/>
+  </TreeNode>
+  <TreeNode Title="B01D25/00 由夹持着几个过滤元件或这样的元件的部件所组成的滤器(盘形过滤器入B01D 29/39)[5]" Target="frmContent" Href="../searchservlet?query=B01D25/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D25/00">
+    <TreeNode Title="B01D25/02 #滤器中的过滤元件是预先组成的单独的过滤单元，例如，标准系统" Target="frmContent" Href="../searchservlet?query=B01D25/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D25/02"/>
+    <TreeNode Title="B01D25/12 #压滤机，即板式或者板框式的" Target="frmContent" Href="../searchservlet?query=B01D25/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D25/12">
+      <TreeNode Title="B01D25/127 ##在过滤中在2个压滤板间或滤板与滤框间夹持有一个或多个可移动滤带，例如，Z字形运动的环形带(B01D 25/172，B01D 25/176，B01D 25/19优先)[5]" Target="frmContent" Href="../searchservlet?query=B01D25/127&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D25/127">
+        <TreeNode Title="B01D25/133 ###带有压缩滤饼的，例如，用可吹胀的膜[5]" Target="frmContent" Href="../searchservlet?query=B01D25/133&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D25/133"/>
+      </TreeNode>
+      <TreeNode Title="B01D25/164 ##板室压滤，即过滤元件的两侧夹持在2个相邻滤板之间(B01D 25/127，B01D 25/172，B01D 25/176，B01D 25/19优先)[5]" Target="frmContent" Href="../searchservlet?query=B01D25/164&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D25/164">
+        <TreeNode Title="B01D25/168 ###带有压缩滤饼的，例如，用可吹胀的膜[5]" Target="frmContent" Href="../searchservlet?query=B01D25/168&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D25/168"/>
+      </TreeNode>
+      <TreeNode Title="B01D25/172 ##板的松开装置(滤饼卸除入B01D 25/32)[5]" Target="frmContent" Href="../searchservlet?query=B01D25/172&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D25/172"/>
+      <TreeNode Title="B01D25/176 ##将过滤元件附着到压滤板上，例如在压滤板中心送料孔周围[5]" Target="frmContent" Href="../searchservlet?query=B01D25/176&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D25/176"/>
+      <TreeNode Title="B01D25/19 ##封闭压滤机的夹持装置，例如液压千斤顶[5]" Target="frmContent" Href="../searchservlet?query=B01D25/19&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D25/19"/>
+      <TreeNode Title="B01D25/21 ##板框压滤机(B01D 25/172，B01D 25/176，B01D 25/19优先)[5]" Target="frmContent" Href="../searchservlet?query=B01D25/21&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D25/21"/>
+    </TreeNode>
+    <TreeNode Title="B01D25/22 #多孔过滤器" Target="frmContent" Href="../searchservlet?query=B01D25/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D25/22">
+      <TreeNode Title="B01D25/24 ##多孔辊滤器" Target="frmContent" Href="../searchservlet?query=B01D25/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D25/24"/>
+      <TreeNode Title="B01D25/26 ##多孔堆塔式滤器" Target="frmContent" Href="../searchservlet?query=B01D25/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D25/26"/>
+    </TreeNode>
+    <TreeNode Title="B01D25/28 #滤器中滤块的浸滤或洗涤" Target="frmContent" Href="../searchservlet?query=B01D25/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D25/28"/>
+    <TreeNode Title="B01D25/30 #进料装置" Target="frmContent" Href="../searchservlet?query=B01D25/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D25/30"/>
+    <TreeNode Title="B01D25/32 #卸去滤块" Target="frmContent" Href="../searchservlet?query=B01D25/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D25/32">
+      <TreeNode Title="B01D25/34 ##通过移动过滤元件" Target="frmContent" Href="../searchservlet?query=B01D25/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D25/34">
+        <TreeNode Title="B01D25/36 ###靠离心力" Target="frmContent" Href="../searchservlet?query=B01D25/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D25/36"/>
+      </TreeNode>
+      <TreeNode Title="B01D25/38 ##用活动部件，例如，用与固定的过滤元件相接触的刮板" Target="frmContent" Href="../searchservlet?query=B01D25/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D25/38"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="B01D27/00 抛掷式滤筒过滤器[5]" Target="frmContent" Href="../searchservlet?query=B01D27/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D27/00">
+    <TreeNode Title="B01D27/02 #由带有许多疏松材料制成的滤筒" Target="frmContent" Href="../searchservlet?query=B01D27/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D27/02"/>
+    <TreeNode Title="B01D27/04 #由带有一片整块材料(例如滤纸)制成的滤筒" Target="frmContent" Href="../searchservlet?query=B01D27/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D27/04">
+      <TreeNode Title="B01D27/06 ##带有皱纹的、折叠的或卷绕的材料" Target="frmContent" Href="../searchservlet?query=B01D27/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D27/06">
+        <TreeNode Title="B01D27/07 ###有一同轴的流体穿过过滤元件[5]" Target="frmContent" Href="../searchservlet?query=B01D27/07&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D27/07"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="B01D27/08 #筒的结构" Target="frmContent" Href="../searchservlet?query=B01D27/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D27/08"/>
+    <TreeNode Title="B01D27/10 #安全装置，例如，旁通管" Target="frmContent" Href="../searchservlet?query=B01D27/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D27/10"/>
+    <TreeNode Title="B01D27/14 #有多个过滤元件的[5]" Target="frmContent" Href="../searchservlet?query=B01D27/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D27/14"/>
+  </TreeNode>
+  <TreeNode Title="B01D29/00 不包括在组B01D 24/00至B01D 27/00中的过滤期间过滤元件不动的过滤器，例如压滤器或吸滤器；其过滤元件" Target="frmContent" Href="../searchservlet?query=B01D29/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D29/00">
+    <TreeNode Title="B01D29/01 #带有平的过滤元件(B01D 29/39优先)[5]" Target="frmContent" Href="../searchservlet?query=B01D29/01&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D29/01">
+      <TreeNode Title="B01D29/03 ##自支撑的[5]" Target="frmContent" Href="../searchservlet?query=B01D29/03&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D29/03"/>
+      <TreeNode Title="B01D29/05 ##被支撑的[5]" Target="frmContent" Href="../searchservlet?query=B01D29/05&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D29/05">
+        <TreeNode Title="B01D29/07 ###带有皱纹的、折叠的或卷绕式滤片[5]" Target="frmContent" Href="../searchservlet?query=B01D29/07&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D29/07"/>
+      </TreeNode>
+      <TreeNode Title="B01D29/075 ##放置在封闭壳中并且在过滤元件滤饼一侧有刮板或混合器的，例如，Nutche式或Rosenmund式过滤器用来完成多步骤操作，如化学反应、过滤以及滤饼处理[5]" Target="frmContent" Href="../searchservlet?query=B01D29/075&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D29/075"/>
+    </TreeNode>
+    <TreeNode Title="B01D29/09 #带有过滤带的，例如在两个过滤操作之间可移动的[5]" Target="frmContent" Href="../searchservlet?query=B01D29/09&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D29/09"/>
+    <TreeNode Title="B01D29/11 #带有袋、笼、软管、管、套筒或类似过滤元件的[5]" Target="frmContent" Href="../searchservlet?query=B01D29/11&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D29/11">
+      <TreeNode Title="B01D29/13 ##被支撑的过滤元件[5]" Target="frmContent" Href="../searchservlet?query=B01D29/13&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D29/13">
+        <TreeNode Title="B01D29/15 ###用于向内流动过滤布置的[5]" Target="frmContent" Href="../searchservlet?query=B01D29/15&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D29/15">
+          <TreeNode Title="B01D29/17 ####开口的[5]" Target="frmContent" Href="../searchservlet?query=B01D29/17&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D29/17"/>
+          <TreeNode Title="B01D29/19 ####在带有表面沟槽或类似的实心框架上[5]" Target="frmContent" Href="../searchservlet?query=B01D29/19&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D29/19"/>
+          <TreeNode Title="B01D29/21 ####带有皱纹的、折叠的或卷绕式的滤片[5]" Target="frmContent" Href="../searchservlet?query=B01D29/21&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D29/21"/>
+        </TreeNode>
+        <TreeNode Title="B01D29/23 ###用于向外流动过滤布置的[5]" Target="frmContent" Href="../searchservlet?query=B01D29/23&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D29/23">
+          <TreeNode Title="B01D29/25 ####开口的[5]" Target="frmContent" Href="../searchservlet?query=B01D29/25&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D29/25"/>
+          <TreeNode Title="B01D29/27 ####过滤袋[5]" Target="frmContent" Href="../searchservlet?query=B01D29/27&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D29/27"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="B01D29/31 ##自支撑过滤元件[5]" Target="frmContent" Href="../searchservlet?query=B01D29/31&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D29/31">
+        <TreeNode Title="B01D29/33 ###用于向内流动过滤布置的[5]" Target="frmContent" Href="../searchservlet?query=B01D29/33&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D29/33"/>
+        <TreeNode Title="B01D29/35 ###用于向外流动过滤布置的[5]" Target="frmContent" Href="../searchservlet?query=B01D29/35&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D29/35"/>
+        <TreeNode Title="B01D29/37 ###开口的[5]" Target="frmContent" Href="../searchservlet?query=B01D29/37&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D29/37"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="B01D29/39 #具有并排放置在一个或若干管子上面或周围的中空盘的，例如叶片式的[5]" Target="frmContent" Href="../searchservlet?query=B01D29/39&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D29/39">
+      <TreeNode Title="B01D29/41 ##在管子上横向装配的[5]" Target="frmContent" Href="../searchservlet?query=B01D29/41&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D29/41"/>
+      <TreeNode Title="B01D29/43 ##在管子上非横向装配的[5]" Target="frmContent" Href="../searchservlet?query=B01D29/43&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D29/43"/>
+    </TreeNode>
+    <TreeNode Title="B01D29/44 #流线式滤心，即用邻近不渗透的表面[4]" Target="frmContent" Href="../searchservlet?query=B01D29/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D29/44">
+      <TreeNode Title="B01D29/46 ##平板的，堆叠体的[4]" Target="frmContent" Href="../searchservlet?query=B01D29/46&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D29/46"/>
+      <TreeNode Title="B01D29/48 ##弹簧形或旋绕形体的[4]" Target="frmContent" Href="../searchservlet?query=B01D29/48&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D29/48"/>
+    </TreeNode>
+    <TreeNode Title="B01D29/50 #带有以相互布置为特征的多个过滤元件的(B01D 29/39优先)[5]" Target="frmContent" Href="../searchservlet?query=B01D29/50&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D29/50">
+      <TreeNode Title="B01D29/52 ##并联连接的[5]" Target="frmContent" Href="../searchservlet?query=B01D29/52&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D29/52">
+        <TreeNode Title="B01D29/54 ###同心或同轴布置的[5]" Target="frmContent" Href="../searchservlet?query=B01D29/54&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D29/54"/>
+      </TreeNode>
+      <TreeNode Title="B01D29/56 ##串联连接的[5]" Target="frmContent" Href="../searchservlet?query=B01D29/56&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D29/56">
+        <TreeNode Title="B01D29/58 ###同心或同轴的[5]" Target="frmContent" Href="../searchservlet?query=B01D29/58&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D29/58"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="B01D29/60 #与控制过滤的装置整体结合的[5]" Target="frmContent" Href="../searchservlet?query=B01D29/60&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D29/60"/>
+    <TreeNode Title="B01D29/62 #在过滤器内过滤材料的再生(在多个过滤单元过滤器中停止一个或数个单元作用的装置，例如，为了再生入B01D 35/12)[5]" Target="frmContent" Href="../searchservlet?query=B01D29/62&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D29/62">
+      <TreeNode Title="B01D29/64 ##用刮板、刷子或类似物作用于过滤元件的滤饼一侧[5]" Target="frmContent" Href="../searchservlet?query=B01D29/64&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D29/64"/>
+      <TreeNode Title="B01D29/66 ##用冲洗，例如，逆向气流[5]" Target="frmContent" Href="../searchservlet?query=B01D29/66&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D29/66">
+        <TreeNode Title="B01D29/68 ###带有反冲洗支管、导向板或喷嘴的[5]" Target="frmContent" Href="../searchservlet?query=B01D29/68&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D29/68"/>
+      </TreeNode>
+      <TreeNode Title="B01D29/70 ##由过滤元件的运动产生的力进行的[5]" Target="frmContent" Href="../searchservlet?query=B01D29/70&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D29/70">
+        <TreeNode Title="B01D29/72 ###用振动[5]" Target="frmContent" Href="../searchservlet?query=B01D29/72&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D29/72"/>
+        <TreeNode Title="B01D29/74 ###用离心力[5]" Target="frmContent" Href="../searchservlet?query=B01D29/74&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D29/74"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="B01D29/76 #为再生之外的目的在过滤器内处理滤饼(B01D 29/94优先)[5]" Target="frmContent" Href="../searchservlet?query=B01D29/76&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D29/76">
+      <TreeNode Title="B01D29/78 ##用于冲洗[5]" Target="frmContent" Href="../searchservlet?query=B01D29/78&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D29/78"/>
+      <TreeNode Title="B01D29/80 ##用于干燥[5]" Target="frmContent" Href="../searchservlet?query=B01D29/80&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D29/80">
+        <TreeNode Title="B01D29/82 ###靠压缩[5]" Target="frmContent" Href="../searchservlet?query=B01D29/82&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D29/82"/>
+        <TreeNode Title="B01D29/84 ###靠气体或加热[5]" Target="frmContent" Href="../searchservlet?query=B01D29/84&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D29/84"/>
+      </TreeNode>
+      <TreeNode Title="B01D29/86 ##在过滤周期内延缓滤饼在过滤器上的沉积，例如，使用搅拌器[5]" Target="frmContent" Href="../searchservlet?query=B01D29/86&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D29/86"/>
+    </TreeNode>
+    <TreeNode Title="B01D29/88 #有进料或排料装置的[5]" Target="frmContent" Href="../searchservlet?query=B01D29/88&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D29/88">
+      <TreeNode Title="B01D29/90 ##用于进料[5]" Target="frmContent" Href="../searchservlet?query=B01D29/90&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D29/90"/>
+      <TreeNode Title="B01D29/92 ##用于排出滤料[5]" Target="frmContent" Href="../searchservlet?query=B01D29/92&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D29/92"/>
+      <TreeNode Title="B01D29/94 ##用于排卸滤饼，例如，溜槽[5]" Target="frmContent" Href="../searchservlet?query=B01D29/94&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D29/94"/>
+    </TreeNode>
+    <TreeNode Title="B01D29/96 #其中的过滤元件在两次过滤操作间隙是移动的；移除或更换过滤元件的特别措施；过滤器的输送系统(B01D 29/09，B01D 29/70优先)[5]" Target="frmContent" Href="../searchservlet?query=B01D29/96&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D29/96"/>
+  </TreeNode>
+  <TreeNode Title="B01D33/00 在过滤操作期间过滤元件移动的滤器(在过滤期间具有运动的或流态化的疏松过滤材料的过滤器入B01D 24/28至B01D 24/36；离心机入B04B)[5]" Target="frmContent" Href="../searchservlet?query=B01D33/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D33/00">
+    <TreeNode Title="B01D33/01 #带有平动的移动过滤元件的，例如，活塞(B01D 33/04至B01D 33/327优先)[5]" Target="frmContent" Href="../searchservlet?query=B01D33/01&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D33/01">
+      <TreeNode Title="B01D33/03 ##带有震动过滤元件的[5]" Target="frmContent" Href="../searchservlet?query=B01D33/03&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D33/03"/>
+    </TreeNode>
+    <TreeNode Title="B01D33/04 #带有支撑在过滤时不可渗透的圆筒上的过滤带或类似物的[5]" Target="frmContent" Href="../searchservlet?query=B01D33/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D33/04"/>
+    <TreeNode Title="B01D33/044 #带有支撑在过滤时可渗透的圆筒上的过滤带或类似物的[5]" Target="frmContent" Href="../searchservlet?query=B01D33/044&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D33/044">
+      <TreeNode Title="B01D33/048 ##带有环形滤带的[5]" Target="frmContent" Href="../searchservlet?query=B01D33/048&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D33/048">
+        <TreeNode Title="B01D33/052 ###与压缩装置结合的(B01D 33/64优先)[5]" Target="frmContent" Href="../searchservlet?query=B01D33/052&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D33/052"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="B01D33/056 #滤带或支撑带的结构，例如，用来对中，安装或密封滤带或支撑带的装置[5]" Target="frmContent" Href="../searchservlet?query=B01D33/056&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D33/056"/>
+    <TreeNode Title="B01D33/06 #带有旋转的圆筒过滤面的，例如，空心筒(B01D 33/044优先)" Target="frmContent" Href="../searchservlet?query=B01D33/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D33/06">
+      <TreeNode Title="B01D33/067 ##过滤筒的结构，例如，安装或密封布置[5]" Target="frmContent" Href="../searchservlet?query=B01D33/067&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D33/067"/>
+      <TreeNode Title="B01D33/073 ##用于向内流动过滤的布置[5]" Target="frmContent" Href="../searchservlet?query=B01D33/073&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D33/073">
+        <TreeNode Title="B01D33/09 ###带有单独的连接压力分布器的表面单元[5]" Target="frmContent" Href="../searchservlet?query=B01D33/09&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D33/09"/>
+      </TreeNode>
+      <TreeNode Title="B01D33/11 ##用于向外流动过滤的布置[5]" Target="frmContent" Href="../searchservlet?query=B01D33/11&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D33/11">
+        <TreeNode Title="B01D33/13 ###带有单独的连接压力分布器的表面单元[5]" Target="frmContent" Href="../searchservlet?query=B01D33/13&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D33/13"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="B01D33/15 #带有旋转的平面过滤面的[5]" Target="frmContent" Href="../searchservlet?query=B01D33/15&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D33/15">
+      <TreeNode Title="B01D33/17 ##带有旋转的过滤盘的(划分为独立的外倾动式槽，盘或类似的入B01D 33/327)[5]" Target="frmContent" Href="../searchservlet?query=B01D33/17&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D33/17">
+        <TreeNode Title="B01D33/19 ###盘面划分为相继倾斜的扇形面或室，例如，为排出滤饼[5]" Target="frmContent" Href="../searchservlet?query=B01D33/19&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D33/19"/>
+      </TreeNode>
+      <TreeNode Title="B01D33/21 ##带有横向装在空心转轴上的中空过滤盘的[5]" Target="frmContent" Href="../searchservlet?query=B01D33/21&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D33/21">
+        <TreeNode Title="B01D33/23 ###盘或扇形组件的结构[5]" Target="frmContent" Href="../searchservlet?query=B01D33/23&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D33/23"/>
+      </TreeNode>
+      <TreeNode Title="B01D33/25 ##带有轴向安装在中空转轴上的空心框架的[5]" Target="frmContent" Href="../searchservlet?query=B01D33/25&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D33/25"/>
+    </TreeNode>
+    <TreeNode Title="B01D33/27 #带有既不是圆筒面也不是平面的旋转过滤表面的，例如，螺旋面的[5]" Target="frmContent" Href="../searchservlet?query=B01D33/27&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D33/27"/>
+    <TreeNode Title="B01D33/29 #过滤元件的运动是各种运动的组合(B01D 33/19优先)[5]" Target="frmContent" Href="../searchservlet?query=B01D33/29&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D33/29">
+      <TreeNode Title="B01D33/31 ##行星式运动的[5]" Target="frmContent" Href="../searchservlet?query=B01D33/31&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D33/31"/>
+      <TreeNode Title="B01D33/327 ##可倾翻的槽，盘或类似部件[5]" Target="frmContent" Href="../searchservlet?query=B01D33/327&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D33/327"/>
+    </TreeNode>
+    <TreeNode Title="B01D33/333 #带有沿环行路线运动的独立过滤元件的(可倾翻的槽，盘或类似部件入B01D 33/327)[5]" Target="frmContent" Href="../searchservlet?query=B01D33/333&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D33/333"/>
+    <TreeNode Title="B01D33/35 #带有以相互布置为特征的多个过滤元件的(B01D 33/21优先)[5]" Target="frmContent" Href="../searchservlet?query=B01D33/35&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D33/35">
+      <TreeNode Title="B01D33/37 ##并联连接的[5]" Target="frmContent" Href="../searchservlet?query=B01D33/37&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D33/37">
+        <TreeNode Title="B01D33/39 ###同心的或同轴的[5]" Target="frmContent" Href="../searchservlet?query=B01D33/39&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D33/39"/>
+      </TreeNode>
+      <TreeNode Title="B01D33/41 ##串联连接的[5]" Target="frmContent" Href="../searchservlet?query=B01D33/41&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D33/41">
+        <TreeNode Title="B01D33/42 ###同心的或同轴的[5]" Target="frmContent" Href="../searchservlet?query=B01D33/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D33/42"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="B01D33/44 #过滤器内过滤材料的再生(在多个过滤单元过滤器中停止一个或几个单元的作用的装置，例如，为了再生入B01D 35/12)[5]" Target="frmContent" Href="../searchservlet?query=B01D33/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D33/44">
+      <TreeNode Title="B01D33/46 ##靠刮板、刷子或类似件作用在过滤元件的滤饼一侧[5]" Target="frmContent" Href="../searchservlet?query=B01D33/46&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D33/46"/>
+      <TreeNode Title="B01D33/48 ##靠冲洗，例如，用反向气流[5]" Target="frmContent" Href="../searchservlet?query=B01D33/48&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D33/48">
+        <TreeNode Title="B01D33/50 ###带有反冲洗支管、导向板或喷嘴的[5]" Target="frmContent" Href="../searchservlet?query=B01D33/50&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D33/50"/>
+      </TreeNode>
+      <TreeNode Title="B01D33/52 ##靠过滤元件运动产生的力[5]" Target="frmContent" Href="../searchservlet?query=B01D33/52&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D33/52">
+        <TreeNode Title="B01D33/54 ###包括震动[5]" Target="frmContent" Href="../searchservlet?query=B01D33/54&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D33/54"/>
+        <TreeNode Title="B01D33/56 ###包括离心力[5]" Target="frmContent" Href="../searchservlet?query=B01D33/56&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D33/56"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="B01D33/58 #用于再生目的之外的在过滤器内处理滤饼(B01D 33/76优先)[5]" Target="frmContent" Href="../searchservlet?query=B01D33/58&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D33/58">
+      <TreeNode Title="B01D33/60 ##用于洗涤[5]" Target="frmContent" Href="../searchservlet?query=B01D33/60&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D33/60"/>
+      <TreeNode Title="B01D33/62 ##用于干燥[5]" Target="frmContent" Href="../searchservlet?query=B01D33/62&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D33/62">
+        <TreeNode Title="B01D33/64 ###靠压缩[5]" Target="frmContent" Href="../searchservlet?query=B01D33/64&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D33/64"/>
+        <TreeNode Title="B01D33/66 ###靠气体或加热[5]" Target="frmContent" Href="../searchservlet?query=B01D33/66&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D33/66"/>
+      </TreeNode>
+      <TreeNode Title="B01D33/68 ##在过滤周期中延缓滤饼在过滤器上的沉积，例如，用搅拌器[5]" Target="frmContent" Href="../searchservlet?query=B01D33/68&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D33/68"/>
+    </TreeNode>
+    <TreeNode Title="B01D33/70 #带有进料和出料装置(B01D 33/82优先)[5]" Target="frmContent" Href="../searchservlet?query=B01D33/70&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D33/70">
+      <TreeNode Title="B01D33/72 ##用于进料的[5]" Target="frmContent" Href="../searchservlet?query=B01D33/72&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D33/72"/>
+      <TreeNode Title="B01D33/74 ##用于排出滤液的[5]" Target="frmContent" Href="../searchservlet?query=B01D33/74&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D33/74"/>
+      <TreeNode Title="B01D33/76 ##用于排卸滤饼的，例如，溜槽[5]" Target="frmContent" Href="../searchservlet?query=B01D33/76&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D33/76"/>
+    </TreeNode>
+    <TreeNode Title="B01D33/80 #附属装置[5]" Target="frmContent" Href="../searchservlet?query=B01D33/80&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D33/80">
+      <TreeNode Title="B01D33/82 ##压力分布装置[5]" Target="frmContent" Href="../searchservlet?query=B01D33/82&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D33/82"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="B01D35/00 具有不专门包括在B01D 24/00至B01D 33/00组中的特征或应用的过滤装置；用于过滤的辅助装置；过滤器外壳结构" Target="frmContent" Href="../searchservlet?query=B01D35/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D35/00">
+    <TreeNode Title="B01D35/01 #去除气体的装置，例如，空气清洗系统[5]" Target="frmContent" Href="../searchservlet?query=B01D35/01&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D35/01"/>
+    <TreeNode Title="B01D35/02 #适用于特殊场所的过滤器，如管道、泵、管塞(B01D 35/05优先)" Target="frmContent" Href="../searchservlet?query=B01D35/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D35/02">
+      <TreeNode Title="B01D35/027 ##在贮水槽或贮水池内或外固定安装的(B01D 35/04优先)[5]" Target="frmContent" Href="../searchservlet?query=B01D35/027&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D35/027"/>
+      <TreeNode Title="B01D35/04 ##管塞、龙头或栓的过滤器" Target="frmContent" Href="../searchservlet?query=B01D35/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D35/04"/>
+    </TreeNode>
+    <TreeNode Title="B01D35/05 #浮动过滤器[5]" Target="frmContent" Href="../searchservlet?query=B01D35/05&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D35/05"/>
+    <TreeNode Title="B01D35/06 #利用电或磁的过滤器(超滤、微量过滤入B01D 61/14；电渗析、电渗透入B01D 61/42；由过滤器和磁分离器组成的装置入B03C 1/30)[5]" Target="frmContent" Href="../searchservlet?query=B01D35/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D35/06"/>
+    <TreeNode Title="B01D35/10 #刷形过滤器" Target="frmContent" Href="../searchservlet?query=B01D35/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D35/10"/>
+    <TreeNode Title="B01D35/12 #在多个过滤单元的过滤器上，停止一个或几个单元的作用的装置，例如为了再生" Target="frmContent" Href="../searchservlet?query=B01D35/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D35/12"/>
+    <TreeNode Title="B01D35/14 #专门用于过滤的安全装置；用于指示堵塞装置(置于抛掷式过滤器中的入B01D 27/10)" Target="frmContent" Href="../searchservlet?query=B01D35/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D35/14">
+      <TreeNode Title="B01D35/143 ##过滤状态指示器[5]" Target="frmContent" Href="../searchservlet?query=B01D35/143&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D35/143"/>
+      <TreeNode Title="B01D35/147 ##旁道管或安全阀[5]" Target="frmContent" Href="../searchservlet?query=B01D35/147&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D35/147"/>
+      <TreeNode Title="B01D35/15 ##双向工作过滤器[5]" Target="frmContent" Href="../searchservlet?query=B01D35/15&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D35/15"/>
+      <TreeNode Title="B01D35/153 ##防泄漏或防回流阀[5]" Target="frmContent" Href="../searchservlet?query=B01D35/153&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D35/153"/>
+      <TreeNode Title="B01D35/157 ##流量控制阀；阻尼或定量通道[5]" Target="frmContent" Href="../searchservlet?query=B01D35/157&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D35/157"/>
+    </TreeNode>
+    <TreeNode Title="B01D35/16 #清除装置" Target="frmContent" Href="../searchservlet?query=B01D35/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D35/16"/>
+    <TreeNode Title="B01D35/18 #过滤器的加热或冷却" Target="frmContent" Href="../searchservlet?query=B01D35/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D35/18"/>
+    <TreeNode Title="B01D35/20 #过滤器的振动(在具有不动的过滤元件的过滤器中用震动使过滤材料再生入B01D29/72；在具有运动的过滤元件的过滤器中用震动排出滤饼入B01D 33/54，B01D 33/76)[5]" Target="frmContent" Href="../searchservlet?query=B01D35/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D35/20"/>
+    <TreeNode Title="B01D35/22 #以能清洗过滤器的方式将要过滤的混合物导入过滤器" Target="frmContent" Href="../searchservlet?query=B01D35/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D35/22"/>
+    <TreeNode Title="B01D35/24 #使用疏松颗粒状材料擦净过滤器" Target="frmContent" Href="../searchservlet?query=B01D35/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D35/24"/>
+    <TreeNode Title="B01D35/26 #带有内装泵的过滤器" Target="frmContent" Href="../searchservlet?query=B01D35/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D35/26"/>
+    <TreeNode Title="B01D35/28 #其他类目不包括的粗滤器" Target="frmContent" Href="../searchservlet?query=B01D35/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D35/28"/>
+    <TreeNode Title="B01D35/30 #过滤器外壳的结构[4]" Target="frmContent" Href="../searchservlet?query=B01D35/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D35/30">
+      <TreeNode Title="B01D35/31 ##为防止外界影响包括的装置，例如，抗压性能[5]" Target="frmContent" Href="../searchservlet?query=B01D35/31&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D35/31">
+        <TreeNode Title="B01D35/32 ###抗辐射[5]" Target="frmContent" Href="../searchservlet?query=B01D35/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D35/32"/>
+      </TreeNode>
+      <TreeNode Title="B01D35/34 ##顶部开口的(B01D 35/31优先)[5]" Target="frmContent" Href="../searchservlet?query=B01D35/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D35/34"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="B01D36/00 过滤回路或过滤器与其他分离装置的组合(用于排除气体的装置，例如空气清洗系统入B01D 35/01；与过滤器组合的磁或静电分离器入B03C)[4，5]" Target="frmContent" Href="../searchservlet?query=B01D36/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D36/00">
+    <TreeNode Title="B01D36/02 #不同种类的过滤器的组合(B01D 29/50，B01D 33/35优先)[4，5]" Target="frmContent" Href="../searchservlet?query=B01D36/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D36/02"/>
+    <TreeNode Title="B01D36/04 #过滤器与沉淀箱的组合[4]" Target="frmContent" Href="../searchservlet?query=B01D36/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D36/04"/>
+  </TreeNode>
+  <TreeNode Title="B01D37/00 过滤方法(专门适用于气体过滤的方法入B01D 46/00)" Target="frmContent" Href="../searchservlet?query=B01D37/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D37/00">
+    <TreeNode Title="B01D37/02 #过滤元件或过滤材料预涂助滤剂；在被过滤液体中加添滤器添加剂" Target="frmContent" Href="../searchservlet?query=B01D37/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D37/02"/>
+    <TreeNode Title="B01D37/03 #使用絮凝剂[5]" Target="frmContent" Href="../searchservlet?query=B01D37/03&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D37/03"/>
+    <TreeNode Title="B01D37/04 #过滤的控制" Target="frmContent" Href="../searchservlet?query=B01D37/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D37/04"/>
+  </TreeNode>
+  <TreeNode Title="B01D39/00 用于液态或气态流体的过滤材料" Target="frmContent" Href="../searchservlet?query=B01D39/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D39/00">
+    <TreeNode Title="B01D39/02 #疏松的过滤材料，例如，疏松的纤维" Target="frmContent" Href="../searchservlet?query=B01D39/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D39/02">
+      <TreeNode Title="B01D39/04 ##有机材料，例如，纤维素、棉" Target="frmContent" Href="../searchservlet?query=B01D39/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D39/04"/>
+      <TreeNode Title="B01D39/06 ##无机材料，例如，石棉纤维，玻璃珠或纤维" Target="frmContent" Href="../searchservlet?query=B01D39/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D39/06"/>
+    </TreeNode>
+    <TreeNode Title="B01D39/08 #滤布，即织成的、编织或交织的材料(金属的入B01D 39/10)" Target="frmContent" Href="../searchservlet?query=B01D39/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D39/08"/>
+    <TreeNode Title="B01D39/10 #基本由金属制成的滤网" Target="frmContent" Href="../searchservlet?query=B01D39/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D39/10">
+      <TreeNode Title="B01D39/12 ##金属丝网的；金属丝编织的；多孔金属网的" Target="frmContent" Href="../searchservlet?query=B01D39/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D39/12"/>
+    </TreeNode>
+    <TreeNode Title="B01D39/14 #其他自持式过滤材料" Target="frmContent" Href="../searchservlet?query=B01D39/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D39/14">
+      <TreeNode Title="B01D39/16 ##有机材料的，例如，合成纤维" Target="frmContent" Href="../searchservlet?query=B01D39/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D39/16">
+        <TreeNode Title="B01D39/18 ###纤维素或其派生的材料" Target="frmContent" Href="../searchservlet?query=B01D39/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D39/18"/>
+      </TreeNode>
+      <TreeNode Title="B01D39/20 ##无机材料的，例如，石棉纸，非编织的金属丝的过滤材料" Target="frmContent" Href="../searchservlet?query=B01D39/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D39/20"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="B01D41/00 用于液态或气态流体的过滤材料或过滤元件在过滤器外面的再生" Target="frmContent" Href="../searchservlet?query=B01D41/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D41/00">
+    <TreeNode Title="B01D41/02 #疏松的过滤材料" Target="frmContent" Href="../searchservlet?query=B01D41/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D41/02"/>
+    <TreeNode Title="B01D41/04 #刚性自持式过滤材料" Target="frmContent" Href="../searchservlet?query=B01D41/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D41/04"/>
+  </TreeNode>
+  <TreeNode Title="B01D43/00 除用沉淀或过滤的方法之外的使颗粒从液体中分离或使液体从固体中分离(浮选方法入B03D 1/00；固体材料或物体的干燥入F26B)" Target="frmContent" Href="../searchservlet?query=B01D43/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D43/00"/>
+  <TreeNode Title="B01D45/00 通过重力、惯性或离心力从气体或蒸气中分离弥散的粒子" Target="frmContent" Href="../searchservlet?query=B01D45/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D45/00">
+    <TreeNode Title="B01D45/02 #利用重力" Target="frmContent" Href="../searchservlet?query=B01D45/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D45/02"/>
+    <TreeNode Title="B01D45/04 #利用惯性(B01D 45/12优先)" Target="frmContent" Href="../searchservlet?query=B01D45/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D45/04">
+      <TreeNode Title="B01D45/06 ##靠变换流动的方向" Target="frmContent" Href="../searchservlet?query=B01D45/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D45/06"/>
+      <TreeNode Title="B01D45/08 ##靠对着分离器挡板的撞击" Target="frmContent" Href="../searchservlet?query=B01D45/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D45/08">
+        <TreeNode Title="B01D45/10 ###挡板是浸湿的" Target="frmContent" Href="../searchservlet?query=B01D45/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D45/10"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="B01D45/12 #利用离心力(离心机入B04B；旋流器入B04C)" Target="frmContent" Href="../searchservlet?query=B01D45/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D45/12">
+      <TreeNode Title="B01D45/14 ##靠旋转的轮叶、盘、转筒或刷产生离心力" Target="frmContent" Href="../searchservlet?query=B01D45/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D45/14"/>
+      <TreeNode Title="B01D45/16 ##靠气流的旋流过程产生离心力" Target="frmContent" Href="../searchservlet?query=B01D45/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D45/16"/>
+    </TreeNode>
+    <TreeNode Title="B01D45/18 #清除装置" Target="frmContent" Href="../searchservlet?query=B01D45/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D45/18"/>
+  </TreeNode>
+  <TreeNode Title="B01D46/00 专门用于把弥散粒子从气体或蒸气中分离出来的经过改进的过滤器和过滤方法(过滤元件入B01D 24/00至B01D 35/00；过滤材料入B01D 39/00；它们在过滤器外的再生入B01D 41/00)" Target="frmContent" Href="../searchservlet?query=B01D46/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D46/00">
+    <TreeNode Title="B01D46/02 #由挠性材料制成的空心滤器的粒子分离器，例如聚尘器" Target="frmContent" Href="../searchservlet?query=B01D46/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D46/02">
+      <TreeNode Title="B01D46/04 ##清洗过滤器" Target="frmContent" Href="../searchservlet?query=B01D46/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D46/04"/>
+      <TreeNode Title="B01D46/06 ##带有使工作表面保持平坦的装置的" Target="frmContent" Href="../searchservlet?query=B01D46/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D46/06">
+        <TreeNode Title="B01D46/08 ###工作表面制成星形的" Target="frmContent" Href="../searchservlet?query=B01D46/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D46/08"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="B01D46/10 #采用具有平表面的滤板、滤片或滤垫的粒子分离器，如聚尘器" Target="frmContent" Href="../searchservlet?query=B01D46/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D46/10">
+      <TreeNode Title="B01D46/12 ##多排的" Target="frmContent" Href="../searchservlet?query=B01D46/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D46/12"/>
+      <TreeNode Title="B01D46/14 ##排列成星形的" Target="frmContent" Href="../searchservlet?query=B01D46/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D46/14"/>
+      <TreeNode Title="B01D46/16 ##安排在非过滤的输送器上" Target="frmContent" Href="../searchservlet?query=B01D46/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D46/16"/>
+    </TreeNode>
+    <TreeNode Title="B01D46/18 #采用过滤带的粒子分离器，如聚尘器" Target="frmContent" Href="../searchservlet?query=B01D46/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D46/18">
+      <TreeNode Title="B01D46/20 ##带与转筒结合" Target="frmContent" Href="../searchservlet?query=B01D46/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D46/20"/>
+      <TreeNode Title="B01D46/22 ##在过滤期间带是运行的" Target="frmContent" Href="../searchservlet?query=B01D46/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D46/22"/>
+    </TreeNode>
+    <TreeNode Title="B01D46/24 #采用刚性空心滤体的粒子分离器，如聚尘器" Target="frmContent" Href="../searchservlet?query=B01D46/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D46/24">
+      <TreeNode Title="B01D46/26 ##可转动的" Target="frmContent" Href="../searchservlet?query=B01D46/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D46/26"/>
+    </TreeNode>
+    <TreeNode Title="B01D46/28 #采用过滤刷的粒子分离器，如聚尘器" Target="frmContent" Href="../searchservlet?query=B01D46/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D46/28"/>
+    <TreeNode Title="B01D46/30 #采用疏松过滤材料的粒子分离器，如聚尘器" Target="frmContent" Href="../searchservlet?query=B01D46/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D46/30">
+      <TreeNode Title="B01D46/32 ##在过滤期间过滤材料是运动的" Target="frmContent" Href="../searchservlet?query=B01D46/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D46/32">
+        <TreeNode Title="B01D46/34 ###非水平的，例如采用滑道" Target="frmContent" Href="../searchservlet?query=B01D46/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D46/34"/>
+        <TreeNode Title="B01D46/36 ###大体上如一水平层，如在旋转台、转筒、传送带上" Target="frmContent" Href="../searchservlet?query=B01D46/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D46/36"/>
+        <TreeNode Title="B01D46/38 ###如流化床" Target="frmContent" Href="../searchservlet?query=B01D46/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D46/38"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="B01D46/40 #采用流线式滤器的，即利用邻近的不渗透的表面的粒子分离器，如聚尘器" Target="frmContent" Href="../searchservlet?query=B01D46/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D46/40"/>
+    <TreeNode Title="B01D46/42 #辅助设备及其操作" Target="frmContent" Href="../searchservlet?query=B01D46/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D46/42">
+      <TreeNode Title="B01D46/44 ##控制过滤" Target="frmContent" Href="../searchservlet?query=B01D46/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D46/44">
+        <TreeNode Title="B01D46/46 ###自动的" Target="frmContent" Href="../searchservlet?query=B01D46/46&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D46/46"/>
+      </TreeNode>
+      <TreeNode Title="B01D46/48 ##不同于清理滤器的除尘" Target="frmContent" Href="../searchservlet?query=B01D46/48&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D46/48"/>
+      <TreeNode Title="B01D46/50 ##消除静电的装置" Target="frmContent" Href="../searchservlet?query=B01D46/50&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D46/50"/>
+    </TreeNode>
+    <TreeNode Title="B01D46/52 #采用包含有可折叠材料的粒子分离器，如聚尘器" Target="frmContent" Href="../searchservlet?query=B01D46/52&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D46/52"/>
+    <TreeNode Title="B01D46/54 #采用超细滤片或超滤膜的粒子分离器，如聚尘器" Target="frmContent" Href="../searchservlet?query=B01D46/54&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D46/54"/>
+  </TreeNode>
+  <TreeNode Title="B01D47/00 用液体作为分离剂从气体、空气或蒸气中分离弥散的粒子(B01D 45/10优先；分馏塔或其部件入B01D 3/16)" Target="frmContent" Href="../searchservlet?query=B01D47/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D47/00">
+    <TreeNode Title="B01D47/02 #使气体、空气或蒸气从液体浴槽上或浴槽里通过" Target="frmContent" Href="../searchservlet?query=B01D47/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D47/02"/>
+    <TreeNode Title="B01D47/04 #使气体、空气或蒸气通过泡沫材料" Target="frmContent" Href="../searchservlet?query=B01D47/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D47/04"/>
+    <TreeNode Title="B01D47/05 #通过分离剂的冷凝作用[3]" Target="frmContent" Href="../searchservlet?query=B01D47/05&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D47/05"/>
+    <TreeNode Title="B01D47/06 #喷洗" Target="frmContent" Href="../searchservlet?query=B01D47/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D47/06">
+      <TreeNode Title="B01D47/08 ##带有回旋式喷嘴的" Target="frmContent" Href="../searchservlet?query=B01D47/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D47/08"/>
+    </TreeNode>
+    <TreeNode Title="B01D47/10 #文杜里涤气器" Target="frmContent" Href="../searchservlet?query=B01D47/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D47/10"/>
+    <TreeNode Title="B01D47/12 #带有多个不同洗涤段的洗涤器(B01D 47/14优先)[3]" Target="frmContent" Href="../searchservlet?query=B01D47/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D47/12"/>
+    <TreeNode Title="B01D47/14 #填充洗涤塔[3]" Target="frmContent" Href="../searchservlet?query=B01D47/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D47/14"/>
+    <TreeNode Title="B01D47/16 #非转动喷嘴式的，具有使清洗液雾化的旋转机构的装置" Target="frmContent" Href="../searchservlet?query=B01D47/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D47/16">
+      <TreeNode Title="B01D47/18 ##带有横排轴的" Target="frmContent" Href="../searchservlet?query=B01D47/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D47/18"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="B01D49/00 用其他方法从气体、空气或蒸气中分离弥散的粒子" Target="frmContent" Href="../searchservlet?query=B01D49/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D49/00">
+    <TreeNode Title="B01D49/02 #用热斥力" Target="frmContent" Href="../searchservlet?query=B01D49/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D49/02"/>
+  </TreeNode>
+  <TreeNode Title="B01D50/00 用于从气体或蒸气中分离粒子的组合器械" Target="frmContent" Href="../searchservlet?query=B01D50/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D50/00"/>
+  <TreeNode Title="B01D51/00 从分散颗粒中清洗出的气体或蒸气的辅助预处理[6]" Target="frmContent" Href="../searchservlet?query=B01D51/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D51/00">
+    <TreeNode Title="B01D51/02 #聚积颗粒，例如，靠絮凝作用" Target="frmContent" Href="../searchservlet?query=B01D51/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D51/02">
+      <TreeNode Title="B01D51/04 ##用播种法，例如，靠添加颗粒" Target="frmContent" Href="../searchservlet?query=B01D51/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D51/04"/>
+      <TreeNode Title="B01D51/06 ##用改变气体或蒸气的压力" Target="frmContent" Href="../searchservlet?query=B01D51/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D51/06">
+        <TreeNode Title="B01D51/08 ###靠声或超声波" Target="frmContent" Href="../searchservlet?query=B01D51/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D51/08"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="B01D51/10 #被清洗气体的调节" Target="frmContent" Href="../searchservlet?query=B01D51/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D51/10"/>
+  </TreeNode>
+  <TreeNode Title="B01D53/00 气体或蒸气的分离；从气体中回收挥发性溶剂的蒸气；废气例如发动机废气、烟气、烟雾、烟道气或气溶胶的化学或生物净化(通过冷凝作用回收挥发性溶剂入B01D 5/00；升华入B01D 7/00；冷凝阱，冷挡板入B01D 8/00；难凝聚的气体和空气用液化方法分离入F25J 3/00)[3，5]" Target="frmContent" Href="../searchservlet?query=B01D53/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D53/00">
+    <TreeNode Title="B01D53/02 #通过吸附作用，例如，制备气相色谱法" Target="frmContent" Href="../searchservlet?query=B01D53/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D53/02">
+      <TreeNode Title="B01D53/04 ##用固定的吸附剂" Target="frmContent" Href="../searchservlet?query=B01D53/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D53/04">
+        <TreeNode Title="B01D53/047 ###变压吸附[6]" Target="frmContent" Href="../searchservlet?query=B01D53/047&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D53/047">
+          <TreeNode Title="B01D53/053 ####带有存贮或缓冲容器[6]" Target="frmContent" Href="../searchservlet?query=B01D53/053&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D53/053"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="B01D53/06 ##用运动的吸附剂" Target="frmContent" Href="../searchservlet?query=B01D53/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D53/06">
+        <TreeNode Title="B01D53/08 ###按“移动床”法" Target="frmContent" Href="../searchservlet?query=B01D53/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D53/08"/>
+        <TreeNode Title="B01D53/10 ###用分散的吸附剂" Target="frmContent" Href="../searchservlet?query=B01D53/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D53/10">
+          <TreeNode Title="B01D53/12 ####按“流化技术”" Target="frmContent" Href="../searchservlet?query=B01D53/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D53/12"/>
+        </TreeNode>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="B01D53/14 #通过吸收作用" Target="frmContent" Href="../searchservlet?query=B01D53/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D53/14">
+      <TreeNode Title="B01D53/18 ##吸收装置；其中的液体分配器(B01D 3/16，B01D 3/26，B01D 3/30优先)" Target="frmContent" Href="../searchservlet?query=B01D53/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D53/18"/>
+    </TreeNode>
+    <TreeNode Title="B01D53/22 #用扩散法" Target="frmContent" Href="../searchservlet?query=B01D53/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D53/22"/>
+    <TreeNode Title="B01D53/24 #用离心力(离心机入B04B；旋流器入B04C)" Target="frmContent" Href="../searchservlet?query=B01D53/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D53/24"/>
+    <TreeNode Title="B01D53/26 #将气体或蒸气干燥" Target="frmContent" Href="../searchservlet?query=B01D53/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D53/26">
+      <TreeNode Title="B01D53/28 ##用作干燥剂的材料的选择" Target="frmContent" Href="../searchservlet?query=B01D53/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D53/28"/>
+    </TreeNode>
+    <TreeNode Title="B01D53/30 #用气体分析仪来控制" Target="frmContent" Href="../searchservlet?query=B01D53/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D53/30"/>
+    <TreeNode Title="B01D53/32 #用与B01D 61/00组的方法不同的电效应[5]" Target="frmContent" Href="../searchservlet?query=B01D53/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D53/32"/>
+    <TreeNode Title="B01D53/34 #废气的化学或生物净化[3，6]" Target="frmContent" Href="../searchservlet?query=B01D53/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D53/34">
+      <TreeNode Title="B01D53/38 ##除去不明结构的组分[6]" Target="frmContent" Href="../searchservlet?query=B01D53/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D53/38">
+        <TreeNode Title="B01D53/40 ###酸性组分(B01D 53/44优先)[6]" Target="frmContent" Href="../searchservlet?query=B01D53/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D53/40"/>
+        <TreeNode Title="B01D53/42 ###碱性组分(B01D 53/44优先)[6]" Target="frmContent" Href="../searchservlet?query=B01D53/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D53/42"/>
+        <TreeNode Title="B01D53/44 ###有机组分[6]" Target="frmContent" Href="../searchservlet?query=B01D53/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D53/44"/>
+      </TreeNode>
+      <TreeNode Title="B01D53/46 ##除去已知结构的组分[6]" Target="frmContent" Href="../searchservlet?query=B01D53/46&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D53/46">
+        <TreeNode Title="B01D53/48 ###硫化合物[6]" Target="frmContent" Href="../searchservlet?query=B01D53/48&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D53/48">
+          <TreeNode Title="B01D53/50 ####硫氧化物(B01D 53/60优先)[6]" Target="frmContent" Href="../searchservlet?query=B01D53/50&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D53/50"/>
+          <TreeNode Title="B01D53/52 ####硫化氢[6]" Target="frmContent" Href="../searchservlet?query=B01D53/52&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D53/52"/>
+        </TreeNode>
+        <TreeNode Title="B01D53/54 ###氮化合物[6]" Target="frmContent" Href="../searchservlet?query=B01D53/54&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D53/54">
+          <TreeNode Title="B01D53/56 ####氮氧化物(B01D 53/60优先)[6]" Target="frmContent" Href="../searchservlet?query=B01D53/56&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D53/56"/>
+          <TreeNode Title="B01D53/58 ####氨[6]" Target="frmContent" Href="../searchservlet?query=B01D53/58&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D53/58"/>
+        </TreeNode>
+        <TreeNode Title="B01D53/60 ###同时除去硫氧化物和氮氧化物[6]" Target="frmContent" Href="../searchservlet?query=B01D53/60&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D53/60"/>
+        <TreeNode Title="B01D53/62 ###碳氧化物[6]" Target="frmContent" Href="../searchservlet?query=B01D53/62&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D53/62"/>
+        <TreeNode Title="B01D53/64 ###重金属或其化合物，例如汞[6]" Target="frmContent" Href="../searchservlet?query=B01D53/64&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D53/64"/>
+        <TreeNode Title="B01D53/66 ###臭氧[6]" Target="frmContent" Href="../searchservlet?query=B01D53/66&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D53/66"/>
+        <TreeNode Title="B01D53/68 ###卤素或卤素化合物[6]" Target="frmContent" Href="../searchservlet?query=B01D53/68&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D53/68">
+          <TreeNode Title="B01D53/70 ####有机卤素化合物[6]" Target="frmContent" Href="../searchservlet?query=B01D53/70&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D53/70"/>
+        </TreeNode>
+        <TreeNode Title="B01D53/72 ###不包含在B01D 53/48至B01D 53/70组中的有机化合物，例如烃[6]" Target="frmContent" Href="../searchservlet?query=B01D53/72&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D53/72"/>
+      </TreeNode>
+      <TreeNode Title="B01D53/73 ##所除去组分的后处理[6]" Target="frmContent" Href="../searchservlet?query=B01D53/73&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D53/73"/>
+      <TreeNode Title="B01D53/74 ##净化废气的一般方法；为这类方法特别设计的设备或装置(B01D 53/92优先)[6]" Target="frmContent" Href="../searchservlet?query=B01D53/74&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D53/74">
+        <TreeNode Title="B01D53/75 ###多步骤方法[6]" Target="frmContent" Href="../searchservlet?query=B01D53/75&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D53/75"/>
+        <TreeNode Title="B01D53/76 ###气相方法，例如使用气溶胶[6]" Target="frmContent" Href="../searchservlet?query=B01D53/76&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D53/76"/>
+        <TreeNode Title="B01D53/77 ###液相方法[6]" Target="frmContent" Href="../searchservlet?query=B01D53/77&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D53/77">
+          <TreeNode Title="B01D53/78 ####利用气—液接触[6]" Target="frmContent" Href="../searchservlet?query=B01D53/78&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D53/78"/>
+          <TreeNode Title="B01D53/79 ####注入反应剂[6]" Target="frmContent" Href="../searchservlet?query=B01D53/79&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D53/79"/>
+        </TreeNode>
+        <TreeNode Title="B01D53/80 ###半液相方法，例如使用浆状物[6]" Target="frmContent" Href="../searchservlet?query=B01D53/80&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D53/80"/>
+        <TreeNode Title="B01D53/81 ###固相方法[6]" Target="frmContent" Href="../searchservlet?query=B01D53/81&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D53/81">
+          <TreeNode Title="B01D53/82 ####利用固定反应剂[6]" Target="frmContent" Href="../searchservlet?query=B01D53/82&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D53/82"/>
+          <TreeNode Title="B01D53/83 ####利用移动反应剂[6]" Target="frmContent" Href="../searchservlet?query=B01D53/83&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D53/83"/>
+        </TreeNode>
+        <TreeNode Title="B01D53/84 ###生物方法[6]" Target="frmContent" Href="../searchservlet?query=B01D53/84&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D53/84">
+          <TreeNode Title="B01D53/85 ####利用气—固接触[6]" Target="frmContent" Href="../searchservlet?query=B01D53/85&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D53/85"/>
+        </TreeNode>
+        <TreeNode Title="B01D53/86 ###催化方法[6]" Target="frmContent" Href="../searchservlet?query=B01D53/86&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D53/86">
+          <TreeNode Title="B01D53/88 ####催化剂的操作或安装[6]" Target="frmContent" Href="../searchservlet?query=B01D53/88&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D53/88"/>
+          <TreeNode Title="B01D53/90 ####注入反应剂[6]" Target="frmContent" Href="../searchservlet?query=B01D53/90&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D53/90"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="B01D53/92 ##发动机废气(具有废气净化或其他处理手段的排气装置入F01N 3/00)[6]" Target="frmContent" Href="../searchservlet?query=B01D53/92&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D53/92">
+        <TreeNode Title="B01D53/94 ###通过催化方法[6]" Target="frmContent" Href="../searchservlet?query=B01D53/94&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D53/94"/>
+      </TreeNode>
+      <TreeNode Title="B01D53/96 ##反应剂的再生、再活化或循环[6]" Target="frmContent" Href="../searchservlet?query=B01D53/96&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D53/96"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="B01D57/00 不同于固体分离的，未完全被一个单独的组或小类，例如，B03C所包括的分离" Target="frmContent" Href="../searchservlet?query=B01D57/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D57/00">
+    <TreeNode Title="B01D57/02 #通过电泳[3，5]" Target="frmContent" Href="../searchservlet?query=B01D57/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D57/02"/>
+  </TreeNode>
+  <TreeNode Title="B01D59/00 同一化学元素的不同同位素的分离" Target="frmContent" Href="../searchservlet?query=B01D59/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D59/00">
+    <TreeNode Title="B01D59/02 #通过物相转变的分离" Target="frmContent" Href="../searchservlet?query=B01D59/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D59/02">
+      <TreeNode Title="B01D59/04 ##通过蒸馏法" Target="frmContent" Href="../searchservlet?query=B01D59/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D59/04"/>
+      <TreeNode Title="B01D59/06 ##通过分步熔化；通过区域熔融法" Target="frmContent" Href="../searchservlet?query=B01D59/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D59/06"/>
+      <TreeNode Title="B01D59/08 ##通过分步结晶，通过淀析，通过分区凝固" Target="frmContent" Href="../searchservlet?query=B01D59/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D59/08"/>
+    </TreeNode>
+    <TreeNode Title="B01D59/10 #用扩散分离" Target="frmContent" Href="../searchservlet?query=B01D59/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D59/10">
+      <TreeNode Title="B01D59/12 ##靠穿过隔板的扩散" Target="frmContent" Href="../searchservlet?query=B01D59/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D59/12">
+        <TreeNode Title="B01D59/14 ###隔板的结构" Target="frmContent" Href="../searchservlet?query=B01D59/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D59/14"/>
+      </TreeNode>
+      <TreeNode Title="B01D59/16 ##通过热扩散" Target="frmContent" Href="../searchservlet?query=B01D59/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D59/16"/>
+      <TreeNode Title="B01D59/18 ##用分离喷射" Target="frmContent" Href="../searchservlet?query=B01D59/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D59/18"/>
+    </TreeNode>
+    <TreeNode Title="B01D59/20 #用离心法分离" Target="frmContent" Href="../searchservlet?query=B01D59/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D59/20"/>
+    <TreeNode Title="B01D59/22 #用萃取法分离" Target="frmContent" Href="../searchservlet?query=B01D59/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D59/22">
+      <TreeNode Title="B01D59/24 ##通过溶剂萃取" Target="frmContent" Href="../searchservlet?query=B01D59/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D59/24"/>
+      <TreeNode Title="B01D59/26 ##通过吸着作用，即吸收、吸附、吸混" Target="frmContent" Href="../searchservlet?query=B01D59/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D59/26"/>
+    </TreeNode>
+    <TreeNode Title="B01D59/28 #通过化学置换的分离" Target="frmContent" Href="../searchservlet?query=B01D59/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D59/28">
+      <TreeNode Title="B01D59/30 ##通过离子交换" Target="frmContent" Href="../searchservlet?query=B01D59/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D59/30"/>
+      <TreeNode Title="B01D59/32 ##通过流体间的交换" Target="frmContent" Href="../searchservlet?query=B01D59/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D59/32">
+        <TreeNode Title="B01D59/33 ###包括双向温度交换的[2]" Target="frmContent" Href="../searchservlet?query=B01D59/33&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D59/33"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="B01D59/34 #用光化学法的分离" Target="frmContent" Href="../searchservlet?query=B01D59/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D59/34"/>
+    <TreeNode Title="B01D59/36 #用生物方法分离" Target="frmContent" Href="../searchservlet?query=B01D59/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D59/36"/>
+    <TreeNode Title="B01D59/38 #用电化学法分离" Target="frmContent" Href="../searchservlet?query=B01D59/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D59/38">
+      <TreeNode Title="B01D59/40 ##用电解作用" Target="frmContent" Href="../searchservlet?query=B01D59/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D59/40"/>
+      <TreeNode Title="B01D59/42 ##用电迁移作用；用电泳作用" Target="frmContent" Href="../searchservlet?query=B01D59/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D59/42"/>
+    </TreeNode>
+    <TreeNode Title="B01D59/44 #用摄谱学分离(粒子分光仪和分离管入H01J 49/00)" Target="frmContent" Href="../searchservlet?query=B01D59/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D59/44">
+      <TreeNode Title="B01D59/46 ##仅采用静电场" Target="frmContent" Href="../searchservlet?query=B01D59/46&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D59/46"/>
+      <TreeNode Title="B01D59/48 ##采用静电场和磁场" Target="frmContent" Href="../searchservlet?query=B01D59/48&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D59/48"/>
+    </TreeNode>
+    <TreeNode Title="B01D59/50 #包括从B01D 59/02，B01D 59/10，B01D 59/20，B01D 59/22，B01D 59/28，B01D 59/34，B01D 59/36，B01D 59/38和B01D 59/44各组中选用的不同的组所包含的两种或更多的方法的分离" Target="frmContent" Href="../searchservlet?query=B01D59/50&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D59/50"/>
+  </TreeNode>
+  <TreeNode Title="B01D61/00 利用半透膜分离的方法，例如渗析，渗透，超滤；其专用设备，辅助设备或辅助操作(通过扩散的方法分离气体或蒸气入B01D 53/22)[5]" Target="frmContent" Href="../searchservlet?query=B01D61/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D61/00">
+    <TreeNode Title="B01D61/02 #反渗透；逆渗透[5]" Target="frmContent" Href="../searchservlet?query=B01D61/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D61/02">
+      <TreeNode Title="B01D61/04 ##原料的预处理[5]" Target="frmContent" Href="../searchservlet?query=B01D61/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D61/04"/>
+      <TreeNode Title="B01D61/06 ##能量回收[5]" Target="frmContent" Href="../searchservlet?query=B01D61/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D61/06"/>
+      <TreeNode Title="B01D61/08 ##所用设备[5]" Target="frmContent" Href="../searchservlet?query=B01D61/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D61/08"/>
+      <TreeNode Title="B01D61/10 ##辅助设备；辅助操作[5]" Target="frmContent" Href="../searchservlet?query=B01D61/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D61/10"/>
+      <TreeNode Title="B01D61/12 ##控制或调节[5]" Target="frmContent" Href="../searchservlet?query=B01D61/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D61/12"/>
+    </TreeNode>
+    <TreeNode Title="B01D61/14 #超滤；微量过滤[5]" Target="frmContent" Href="../searchservlet?query=B01D61/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D61/14">
+      <TreeNode Title="B01D61/16 ##原料的预处理[5]" Target="frmContent" Href="../searchservlet?query=B01D61/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D61/16"/>
+      <TreeNode Title="B01D61/18 ##所用设备[5]" Target="frmContent" Href="../searchservlet?query=B01D61/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D61/18"/>
+      <TreeNode Title="B01D61/20 ##辅助设备；辅助操作[5]" Target="frmContent" Href="../searchservlet?query=B01D61/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D61/20"/>
+      <TreeNode Title="B01D61/22 ##控制或调节[5]" Target="frmContent" Href="../searchservlet?query=B01D61/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D61/22"/>
+    </TreeNode>
+    <TreeNode Title="B01D61/24 #渗析[5]" Target="frmContent" Href="../searchservlet?query=B01D61/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D61/24">
+      <TreeNode Title="B01D61/26 ##渗析溶液流，例如，制备、再生[5]" Target="frmContent" Href="../searchservlet?query=B01D61/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D61/26"/>
+      <TreeNode Title="B01D61/28 ##所用设备[5]" Target="frmContent" Href="../searchservlet?query=B01D61/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D61/28"/>
+      <TreeNode Title="B01D61/30 ##辅助设备；辅助操作[5]" Target="frmContent" Href="../searchservlet?query=B01D61/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D61/30"/>
+      <TreeNode Title="B01D61/32 ##控制或调节[5]" Target="frmContent" Href="../searchservlet?query=B01D61/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D61/32">
+        <TreeNode Title="B01D61/34 ###测定渗析时的超滤液[5]" Target="frmContent" Href="../searchservlet?query=B01D61/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D61/34"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="B01D61/36 #全蒸发；膜蒸馏；液体渗透[5]" Target="frmContent" Href="../searchservlet?query=B01D61/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D61/36"/>
+    <TreeNode Title="B01D61/38 #液膜分离[5]" Target="frmContent" Href="../searchservlet?query=B01D61/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D61/38">
+      <TreeNode Title="B01D61/40 ##利用乳液型膜[5]" Target="frmContent" Href="../searchservlet?query=B01D61/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D61/40"/>
+    </TreeNode>
+    <TreeNode Title="B01D61/42 #电渗析；电渗透[5]" Target="frmContent" Href="../searchservlet?query=B01D61/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D61/42">
+      <TreeNode Title="B01D61/44 ##离子选择电渗析[5]" Target="frmContent" Href="../searchservlet?query=B01D61/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D61/44">
+        <TreeNode Title="B01D61/46 ###所用设备[5]" Target="frmContent" Href="../searchservlet?query=B01D61/46&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D61/46">
+          <TreeNode Title="B01D61/48 ####带一个或多个装有离子交换材料的室[5]" Target="frmContent" Href="../searchservlet?query=B01D61/48&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D61/48"/>
+          <TreeNode Title="B01D61/50 ####板框式组件[5]" Target="frmContent" Href="../searchservlet?query=B01D61/50&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D61/50"/>
+        </TreeNode>
+        <TreeNode Title="B01D61/52 ###辅助设备；辅助操作[5]" Target="frmContent" Href="../searchservlet?query=B01D61/52&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D61/52"/>
+        <TreeNode Title="B01D61/54 ###控制或调节[5]" Target="frmContent" Href="../searchservlet?query=B01D61/54&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D61/54"/>
+      </TreeNode>
+      <TreeNode Title="B01D61/56 ##电渗透脱水[5]" Target="frmContent" Href="../searchservlet?query=B01D61/56&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D61/56"/>
+    </TreeNode>
+    <TreeNode Title="B01D61/58 #多步骤工艺[5]" Target="frmContent" Href="../searchservlet?query=B01D61/58&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D61/58"/>
+  </TreeNode>
+  <TreeNode Title="B01D63/00 用于半透膜分离工艺的一般设备[5]" Target="frmContent" Href="../searchservlet?query=B01D63/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D63/00">
+    <TreeNode Title="B01D63/02 #空心纤维组件[5]" Target="frmContent" Href="../searchservlet?query=B01D63/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D63/02">
+      <TreeNode Title="B01D63/04 ##包含多个空心纤维组合件[5]" Target="frmContent" Href="../searchservlet?query=B01D63/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D63/04"/>
+    </TreeNode>
+    <TreeNode Title="B01D63/06 #管状膜组件[5]" Target="frmContent" Href="../searchservlet?query=B01D63/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D63/06"/>
+    <TreeNode Title="B01D63/08 #平板型膜组件[5]" Target="frmContent" Href="../searchservlet?query=B01D63/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D63/08"/>
+    <TreeNode Title="B01D63/10 #螺旋缠绕形膜组件[5]" Target="frmContent" Href="../searchservlet?query=B01D63/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D63/10">
+      <TreeNode Title="B01D63/12 ##包含多个螺旋缠绕形膜组件[5]" Target="frmContent" Href="../searchservlet?query=B01D63/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D63/12"/>
+    </TreeNode>
+    <TreeNode Title="B01D63/14 #皱褶式膜组件[5]" Target="frmContent" Href="../searchservlet?query=B01D63/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D63/14"/>
+    <TreeNode Title="B01D63/16 #旋转式、往复或振动组件[5]" Target="frmContent" Href="../searchservlet?query=B01D63/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D63/16"/>
+  </TreeNode>
+  <TreeNode Title="B01D65/00 用于一般半透膜分离方法或设备的辅助设备或辅助操作[5]" Target="frmContent" Href="../searchservlet?query=B01D65/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D65/00">
+    <TreeNode Title="B01D65/02 #膜的清洗或消毒[5]" Target="frmContent" Href="../searchservlet?query=B01D65/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D65/02">
+      <TreeNode Title="B01D65/04 ##利用活动物体，例如泡沫球[5]" Target="frmContent" Href="../searchservlet?query=B01D65/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D65/04"/>
+      <TreeNode Title="B01D65/06 ##利用特殊洗涤组合物[5]" Target="frmContent" Href="../searchservlet?query=B01D65/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D65/06"/>
+    </TreeNode>
+    <TreeNode Title="B01D65/08 #防止膜结垢或浓缩极化[5]" Target="frmContent" Href="../searchservlet?query=B01D65/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D65/08"/>
+    <TreeNode Title="B01D65/10 #膜或膜设备的检测；泄漏的测定或修补[5]" Target="frmContent" Href="../searchservlet?query=B01D65/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D65/10"/>
+  </TreeNode>
+  <TreeNode Title="B01D67/00 专门适用于分离工艺或设备的半透膜的制备方法[5]" Target="frmContent" Href="../searchservlet?query=B01D67/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D67/00"/>
+  <TreeNode Title="B01D69/00 以形状、结构或性能为特征的用于分离工艺或设备的半透膜；其专用制备方法[5]" Target="frmContent" Href="../searchservlet?query=B01D69/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D69/00">
+    <TreeNode Title="B01D69/02 #以性能为特征[5]" Target="frmContent" Href="../searchservlet?query=B01D69/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D69/02"/>
+    <TreeNode Title="B01D69/04 #管状膜[5]" Target="frmContent" Href="../searchservlet?query=B01D69/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D69/04"/>
+    <TreeNode Title="B01D69/06 #平板型膜[5]" Target="frmContent" Href="../searchservlet?query=B01D69/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D69/06"/>
+    <TreeNode Title="B01D69/08 #空心纤维膜(空心纤维的制备入D01D 5/24，D01F 1/08)[5]" Target="frmContent" Href="../searchservlet?query=B01D69/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D69/08"/>
+    <TreeNode Title="B01D69/10 #支撑的膜；膜的支撑物[5]" Target="frmContent" Href="../searchservlet?query=B01D69/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D69/10"/>
+    <TreeNode Title="B01D69/12 #复合膜；超薄膜[5]" Target="frmContent" Href="../searchservlet?query=B01D69/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D69/12"/>
+    <TreeNode Title="B01D69/14 #动态膜[5]" Target="frmContent" Href="../searchservlet?query=B01D69/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D69/14"/>
+  </TreeNode>
+  <TreeNode Title="B01D71/00 以材料为特征的用于分离工艺或设备的半透膜；其专用制备方法[5]" Target="frmContent" Href="../searchservlet?query=B01D71/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D71/00">
+    <TreeNode Title="B01D71/02 #无机材料[5]" Target="frmContent" Href="../searchservlet?query=B01D71/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D71/02">
+      <TreeNode Title="B01D71/04 ##玻璃[5]" Target="frmContent" Href="../searchservlet?query=B01D71/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D71/04"/>
+    </TreeNode>
+    <TreeNode Title="B01D71/06 #有机材料[5]" Target="frmContent" Href="../searchservlet?query=B01D71/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D71/06">
+      <TreeNode Title="B01D71/08 ##多糖类[5]" Target="frmContent" Href="../searchservlet?query=B01D71/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D71/08">
+        <TreeNode Title="B01D71/10 ###纤维素；改性纤维素[5]" Target="frmContent" Href="../searchservlet?query=B01D71/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D71/10"/>
+        <TreeNode Title="B01D71/12 ###纤维素衍生物[5]" Target="frmContent" Href="../searchservlet?query=B01D71/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D71/12">
+          <TreeNode Title="B01D71/14 ####有机酸酯[5]" Target="frmContent" Href="../searchservlet?query=B01D71/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D71/14">
+            <TreeNode Title="B01D71/16 #####醋酸纤维素[5]" Target="frmContent" Href="../searchservlet?query=B01D71/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D71/16"/>
+            <TreeNode Title="B01D71/18 #####混合酯，例如乙酸—丁酸纤维素[5]" Target="frmContent" Href="../searchservlet?query=B01D71/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D71/18"/>
+          </TreeNode>
+          <TreeNode Title="B01D71/20 ####无机酸酯，例如硝酸纤维素[5]" Target="frmContent" Href="../searchservlet?query=B01D71/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D71/20"/>
+          <TreeNode Title="B01D71/22 ####纤维素醚[5]" Target="frmContent" Href="../searchservlet?query=B01D71/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D71/22"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="B01D71/24 ##橡胶[5]" Target="frmContent" Href="../searchservlet?query=B01D71/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D71/24"/>
+      <TreeNode Title="B01D71/26 ##聚链烯[5]" Target="frmContent" Href="../searchservlet?query=B01D71/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D71/26"/>
+      <TreeNode Title="B01D71/28 ##乙烯基芳族化合物的聚合物[5]" Target="frmContent" Href="../searchservlet?query=B01D71/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D71/28"/>
+      <TreeNode Title="B01D71/30 ##聚卤代烯烃[5]" Target="frmContent" Href="../searchservlet?query=B01D71/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D71/30">
+        <TreeNode Title="B01D71/32 ###含有氟原子[5]" Target="frmContent" Href="../searchservlet?query=B01D71/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D71/32">
+          <TreeNode Title="B01D71/34 ####聚偏氟乙烯[5]" Target="frmContent" Href="../searchservlet?query=B01D71/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D71/34"/>
+          <TreeNode Title="B01D71/36 ####聚四氟乙烯[5]" Target="frmContent" Href="../searchservlet?query=B01D71/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D71/36"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="B01D71/38 ##聚链烯醇；聚链烯酯；聚链烯醚；聚链烯醛；聚链烯酮；聚链烯乙缩醛；聚链烯缩酮[5]" Target="frmContent" Href="../searchservlet?query=B01D71/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D71/38"/>
+      <TreeNode Title="B01D71/40 ##不饱和酸或其衍生物例如盐、酰胺、酰亚胺、腈、酐、酯的聚合物[5]" Target="frmContent" Href="../searchservlet?query=B01D71/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D71/40">
+        <TreeNode Title="B01D71/42 ###腈的聚合物，例如聚丙烯腈[5]" Target="frmContent" Href="../searchservlet?query=B01D71/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D71/42"/>
+      </TreeNode>
+      <TreeNode Title="B01D71/44 ##由只涉及碳—碳不饱合键反应所得到的聚合物，但不包含在B01D 71/26至B01D 71/42的单一组中[5]" Target="frmContent" Href="../searchservlet?query=B01D71/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D71/44"/>
+      <TreeNode Title="B01D71/46 ##环氧树脂[5]" Target="frmContent" Href="../searchservlet?query=B01D71/46&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D71/46"/>
+      <TreeNode Title="B01D71/48 ##聚酯[5]" Target="frmContent" Href="../searchservlet?query=B01D71/48&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D71/48"/>
+      <TreeNode Title="B01D71/50 ##聚碳酸酯[5]" Target="frmContent" Href="../searchservlet?query=B01D71/50&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D71/50"/>
+      <TreeNode Title="B01D71/52 ##聚醚[5]" Target="frmContent" Href="../searchservlet?query=B01D71/52&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D71/52"/>
+      <TreeNode Title="B01D71/54 ##聚脲；聚氨基甲酸乙酯[5]" Target="frmContent" Href="../searchservlet?query=B01D71/54&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D71/54"/>
+      <TreeNode Title="B01D71/56 ##聚酰胺，例如聚酯酰胺[5]" Target="frmContent" Href="../searchservlet?query=B01D71/56&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D71/56"/>
+      <TreeNode Title="B01D71/58 ##主链上有氮的，有或没有氧或只有碳的其他聚合物[5]" Target="frmContent" Href="../searchservlet?query=B01D71/58&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D71/58">
+        <TreeNode Title="B01D71/60 ###聚胺[5]" Target="frmContent" Href="../searchservlet?query=B01D71/60&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D71/60"/>
+        <TreeNode Title="B01D71/62 ###在主链上有含氮杂环的缩聚物[5]" Target="frmContent" Href="../searchservlet?query=B01D71/62&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D71/62">
+          <TreeNode Title="B01D71/64 ####聚酰亚胺；聚酰胺—酰亚胺；聚酯—酰亚胺；聚酰胺酸或类似的聚酰亚胺产物母体[5]" Target="frmContent" Href="../searchservlet?query=B01D71/64&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D71/64"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="B01D71/66 ##主链上有硫的，有或没有氮、氧或只有碳的聚合物[5]" Target="frmContent" Href="../searchservlet?query=B01D71/66&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D71/66">
+        <TreeNode Title="B01D71/68 ###聚砜；聚醚砜[5]" Target="frmContent" Href="../searchservlet?query=B01D71/68&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D71/68"/>
+      </TreeNode>
+      <TreeNode Title="B01D71/70 ##主链上有硅的，有或没有硫、氮、氧或只有碳的聚合物[5]" Target="frmContent" Href="../searchservlet?query=B01D71/70&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D71/70"/>
+      <TreeNode Title="B01D71/72 ##通过只涉及碳—碳不饱和键的反应以外的方法得到的高分子化合物，不是B01D 71/46至B01D 71/70的单一组中所提供的[5]" Target="frmContent" Href="../searchservlet?query=B01D71/72&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D71/72"/>
+      <TreeNode Title="B01D71/74 ##天然高分子材料及其衍生物(B01D 71/08、B01D 71/24优先)[5]" Target="frmContent" Href="../searchservlet?query=B01D71/74&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D71/74"/>
+      <TreeNode Title="B01D71/76 ##不包含在B01D 71/08至B01D 71/74单一组中的高分子材料(一般橡胶入B01D 71/24)[5]" Target="frmContent" Href="../searchservlet?query=B01D71/76&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D71/76">
+        <TreeNode Title="B01D71/78 ###接枝聚合物[5]" Target="frmContent" Href="../searchservlet?query=B01D71/78&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D71/78"/>
+        <TreeNode Title="B01D71/80 ###嵌段共聚物[5]" Target="frmContent" Href="../searchservlet?query=B01D71/80&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D71/80"/>
+        <TreeNode Title="B01D71/82 ###以存在特殊基团为特征，例如通过化学后处理引入的基团[5]" Target="frmContent" Href="../searchservlet?query=B01D71/82&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B01D71/82"/>
+      </TreeNode>
+    </TreeNode>
+  </TreeNode>
+</Root>

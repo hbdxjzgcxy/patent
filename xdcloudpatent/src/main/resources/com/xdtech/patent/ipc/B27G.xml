@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="B27G1/00 清除节疤或其他不规则物或补洞的机械或装置" Target="frmContent" Href="../searchservlet?query=B27G1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B27G1/00"/>
+  <TreeNode Title="B27G3/00 与木工机械结合使用的或在木材加工车间使用的专门设计的清除树皮层、木屑、废料或锯末的装置" Target="frmContent" Href="../searchservlet?query=B27G3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B27G3/00"/>
+  <TreeNode Title="B27G5/00 加工有齐平对接端的45°斜接头的机械或装置(有凸榫或类似连接结构入B27F)" Target="frmContent" Href="../searchservlet?query=B27G5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B27G5/00">
+    <TreeNode Title="B27G5/02 #用于锯45°斜接头；45°角尺(锯床上木料的导向防护装置入B27B 27/00)" Target="frmContent" Href="../searchservlet?query=B27G5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B27G5/02"/>
+    <TreeNode Title="B27G5/04 #用于刨削、切割、剪切或铣削斜角接头" Target="frmContent" Href="../searchservlet?query=B27G5/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B27G5/04"/>
+  </TreeNode>
+  <TreeNode Title="B27G11/00 将黏合剂或胶施加于要被接合的木材表面(一般将液体，如液体黏合剂施加于表面入B05C，B05D；黏合方法入C09J 5/00；与特殊的木材加工相结合的，见有关小类)[2]" Target="frmContent" Href="../searchservlet?query=B27G11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B27G11/00">
+    <TreeNode Title="B27G11/02 #黏合剂的容器；预热或加热黏合剂的装置" Target="frmContent" Href="../searchservlet?query=B27G11/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B27G11/02"/>
+  </TreeNode>
+  <TreeNode Title="B27G13/00 组合铣刀；其他旋转式切削工具(B27G 15/00，B27G 17/00优先)" Target="frmContent" Href="../searchservlet?query=B27G13/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B27G13/00">
+    <TreeNode Title="B27G13/02 #长心轴形的，即圆柱形切割部件(B27G 13/12优先)" Target="frmContent" Href="../searchservlet?query=B27G13/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B27G13/02">
+      <TreeNode Title="B27G13/04 ##用机械夹紧装置固定刀具" Target="frmContent" Href="../searchservlet?query=B27G13/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B27G13/04"/>
+      <TreeNode Title="B27G13/06 ##用流体压力夹紧装置固定刀具" Target="frmContent" Href="../searchservlet?query=B27G13/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B27G13/06"/>
+    </TreeNode>
+    <TreeNode Title="B27G13/08 #类似圆盘构件形的；木工铣刀(B27G 13/12优先)" Target="frmContent" Href="../searchservlet?query=B27G13/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B27G13/08">
+      <TreeNode Title="B27G13/10 ##如用夹紧套圈固定刀具" Target="frmContent" Href="../searchservlet?query=B27G13/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B27G13/10"/>
+    </TreeNode>
+    <TreeNode Title="B27G13/12 #用于定形切割" Target="frmContent" Href="../searchservlet?query=B27G13/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B27G13/12">
+      <TreeNode Title="B27G13/14 ##用于切割槽或凸榫" Target="frmContent" Href="../searchservlet?query=B27G13/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B27G13/14"/>
+      <TreeNode Title="B27G13/16 ##用于使木杆成圆形，如榫钉" Target="frmContent" Href="../searchservlet?query=B27G13/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B27G13/16"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="B27G15/00 镗孔或车削工具；螺旋钻" Target="frmContent" Href="../searchservlet?query=B27G15/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B27G15/00">
+    <TreeNode Title="B27G15/02 #底切孔的钻头" Target="frmContent" Href="../searchservlet?query=B27G15/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B27G15/02"/>
+  </TreeNode>
+  <TreeNode Title="B27G17/00 手动工具" Target="frmContent" Href="../searchservlet?query=B27G17/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B27G17/00">
+    <TreeNode Title="B27G17/02 #手刨(装备有机动组合铣刀的入B27C 1/10)" Target="frmContent" Href="../searchservlet?query=B27G17/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B27G17/02"/>
+    <TreeNode Title="B27G17/04 #辐刨片；刮削器" Target="frmContent" Href="../searchservlet?query=B27G17/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B27G17/04"/>
+    <TreeNode Title="B27G17/06 #木锉" Target="frmContent" Href="../searchservlet?query=B27G17/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B27G17/06"/>
+    <TreeNode Title="B27G17/08 #开榫眼的凿子" Target="frmContent" Href="../searchservlet?query=B27G17/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B27G17/08"/>
+  </TreeNode>
+  <TreeNode Title="B27G19/00 为木锯专门设计的安全护罩或装置(一般安全装置入F16P)；便于木锯正常操作的辅助装置" Target="frmContent" Href="../searchservlet?query=B27G19/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B27G19/00">
+    <TreeNode Title="B27G19/02 #用于圆锯" Target="frmContent" Href="../searchservlet?query=B27G19/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B27G19/02">
+      <TreeNode Title="B27G19/04 ##人工操作的机动圆锯" Target="frmContent" Href="../searchservlet?query=B27G19/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B27G19/04"/>
+    </TreeNode>
+    <TreeNode Title="B27G19/06 #用于带锯或条锯" Target="frmContent" Href="../searchservlet?query=B27G19/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B27G19/06"/>
+    <TreeNode Title="B27G19/08 #保持张开锯口的附件，如劈开刀、楔形块" Target="frmContent" Href="../searchservlet?query=B27G19/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B27G19/08"/>
+    <TreeNode Title="B27G19/10 #防止木材锯开部分扯裂的措施" Target="frmContent" Href="../searchservlet?query=B27G19/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B27G19/10"/>
+  </TreeNode>
+  <TreeNode Title="B27G21/00 为其他木材加工机械专门设计的安全护罩或装置" Target="frmContent" Href="../searchservlet?query=B27G21/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B27G21/00"/>
+  <TreeNode Title="B27G23/00 为调整工具或导向装置专门设计的测调装置，例如调整组合铣刀的刀片(用于锯床导向装置的入B27B 27/00)" Target="frmContent" Href="../searchservlet?query=B27G23/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B27G23/00"/>
+</Root>

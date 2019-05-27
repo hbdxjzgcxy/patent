@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="F16S1/00 片、板或其他类似元件；包括这些元件的组件的结构(装配格子入F16S 3/00；层状制品入B32B)" Target="frmContent" Href="../searchservlet?query=F16S1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16S1/00">
+    <TreeNode Title="F16S1/02 #为了使边与边固定在一起而设计的，如成一个角；其装配件" Target="frmContent" Href="../searchservlet?query=F16S1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16S1/02"/>
+    <TreeNode Title="F16S1/04 #通过变形或其他方法加工平板制成的(用于层状制品的蜂窝或其他芯子元件入B32B 3/00，如B32B 3/12，B32B 3/24，B32B 3/26)" Target="frmContent" Href="../searchservlet?query=F16S1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16S1/04">
+      <TreeNode Title="F16S1/06 ##仅通过变形" Target="frmContent" Href="../searchservlet?query=F16S1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16S1/06"/>
+      <TreeNode Title="F16S1/08 ##通过切割或穿孔，有变形或没有变形" Target="frmContent" Href="../searchservlet?query=F16S1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16S1/08"/>
+    </TreeNode>
+    <TreeNode Title="F16S1/10 #组合件，如有附加肋或凸缘(F16S 1/02优先)" Target="frmContent" Href="../searchservlet?query=F16S1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16S1/10"/>
+    <TreeNode Title="F16S1/12 #较大厚度的，如带有不同厚度变化的、带槽的" Target="frmContent" Href="../searchservlet?query=F16S1/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16S1/12"/>
+    <TreeNode Title="F16S1/14 #这些元件的装配件具有包含在F16S 3/00或F16S 5/00组内的形状的元件(仅供连接用的这类其他元件入F16S 1/02)" Target="frmContent" Href="../searchservlet?query=F16S1/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16S1/14"/>
+  </TreeNode>
+  <TreeNode Title="F16S3/00 细长元件，如成型件；其装配件；格栅或格子窗(由薄板或类似料形成的格栅或格子窗入F16S 1/00，特殊的入F16S 1/08；门、窗或类似物的框架入E06B 1/00，E06B 3/00)" Target="frmContent" Href="../searchservlet?query=F16S3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16S3/00">
+    <TreeNode Title="F16S3/02 #由两个或多个并排的固定在一起的细长元件组成" Target="frmContent" Href="../searchservlet?query=F16S3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16S3/02"/>
+    <TreeNode Title="F16S3/04 #供在各种相对位置连接相似元件而设计的" Target="frmContent" Href="../searchservlet?query=F16S3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16S3/04"/>
+    <TreeNode Title="F16S3/06 #细长元件的装配件(F16S 3/02，F16S 3/04优先)" Target="frmContent" Href="../searchservlet?query=F16S3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16S3/06">
+      <TreeNode Title="F16S3/08 ##成形构架，如格栅" Target="frmContent" Href="../searchservlet?query=F16S3/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16S3/08"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="F16S5/00 不限于完全包括在一单类应用的其他结构件" Target="frmContent" Href="../searchservlet?query=F16S5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16S5/00"/>
+</Root>

@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="H04R1/00 传感器的零部件(振膜入H04R 7/00；以传感器的性质为特征的见H04R 9/00至H04R 23/00的有关大组；头盔中装配无线电装置或通信系统的入A42B 3/30；专用于电话设备的托架入H04M 1/02)" Target="frmContent" Href="../searchservlet?query=H04R1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04R1/00">
+    <TreeNode Title="H04R1/02 #盒；机壳；其中的托架(H04R 1/28优先)" Target="frmContent" Href="../searchservlet?query=H04R1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04R1/02">
+      <TreeNode Title="H04R1/04 ##传声器与所用电路的结构配合(在助听器中的入H04R 25/00)" Target="frmContent" Href="../searchservlet?query=H04R1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04R1/04"/>
+    </TreeNode>
+    <TreeNode Title="H04R1/06 #电路引线的安排；消除电路引线上的应力" Target="frmContent" Href="../searchservlet?query=H04R1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04R1/06"/>
+    <TreeNode Title="H04R1/08 #送话器口；其所用的附件" Target="frmContent" Href="../searchservlet?query=H04R1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04R1/08"/>
+    <TreeNode Title="H04R1/10 #受话器口；其所用的附件" Target="frmContent" Href="../searchservlet?query=H04R1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04R1/10"/>
+    <TreeNode Title="H04R1/12 #用于送话器口或受话器口的清洁或卫生装置，例如防止传染病的措施" Target="frmContent" Href="../searchservlet?query=H04R1/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04R1/12"/>
+    <TreeNode Title="H04R1/14 #用于传声器的喉部安装件" Target="frmContent" Href="../searchservlet?query=H04R1/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04R1/14"/>
+    <TreeNode Title="H04R1/16 #将触针安装或连接到有或无阻尼装置的传感器" Target="frmContent" Href="../searchservlet?query=H04R1/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04R1/16">
+      <TreeNode Title="H04R1/18 ##触针夹持器；夹持器在传感器上的安装" Target="frmContent" Href="../searchservlet?query=H04R1/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04R1/18"/>
+    </TreeNode>
+    <TreeNode Title="H04R1/20 #用于获得所需频率或方向特性的装置(用于获得立体声效果的入H04R 5/00；通过语音信号处理的语音放大入G10L 21/02)" Target="frmContent" Href="../searchservlet?query=H04R1/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04R1/20">
+      <TreeNode Title="H04R1/22 ##只用于获得所需频率特性的(用于组合具有不同频率响应的传感器的电路入H04R 3/00)" Target="frmContent" Href="../searchservlet?query=H04R1/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04R1/22">
+        <TreeNode Title="H04R1/24 ###分别响应于两个或两个以上频段的不同传感器之间、或同一传感器的不同部件之间的结构组合" Target="frmContent" Href="../searchservlet?query=H04R1/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04R1/24"/>
+        <TreeNode Title="H04R1/26 ###分别响应于两个或两个以上频段的不同传感器的空间布置" Target="frmContent" Href="../searchservlet?query=H04R1/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04R1/26"/>
+        <TreeNode Title="H04R1/28 ###专为特定频率响应设计的传感器的固定件或外壳；由机械阻抗或声阻抗装置，例如谐振器、阻尼装置，改进的传感器外壳" Target="frmContent" Href="../searchservlet?query=H04R1/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04R1/28"/>
+        <TreeNode Title="H04R1/30 ###有号筒的传感器的组合，例如有机械匹配装置的(一般号筒入G10K)" Target="frmContent" Href="../searchservlet?query=H04R1/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04R1/30"/>
+      </TreeNode>
+      <TreeNode Title="H04R1/32 ##只用于获得所需方向特性的" Target="frmContent" Href="../searchservlet?query=H04R1/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04R1/32">
+        <TreeNode Title="H04R1/34 ###应用具有声反射、绕射、定向或导向装置的单个传感器" Target="frmContent" Href="../searchservlet?query=H04R1/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04R1/34">
+          <TreeNode Title="H04R1/36 ####应用尺寸不大于最短工作波长的单个孔径" Target="frmContent" Href="../searchservlet?query=H04R1/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04R1/36"/>
+          <TreeNode Title="H04R1/38 ####其中声波作用于振膜两侧、并配有声移相的装置，例如压力梯度传声器" Target="frmContent" Href="../searchservlet?query=H04R1/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04R1/38"/>
+        </TreeNode>
+        <TreeNode Title="H04R1/40 ###用组合若干相同传感器的方法" Target="frmContent" Href="../searchservlet?query=H04R1/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04R1/40"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="H04R1/42 #有流体压力的或其他非电放大装置的传感器的组合" Target="frmContent" Href="../searchservlet?query=H04R1/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04R1/42"/>
+    <TreeNode Title="H04R1/44 #专门适用于水下使用的配件，例如用于水听器的" Target="frmContent" Href="../searchservlet?query=H04R1/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04R1/44"/>
+    <TreeNode Title="H04R1/46 #专门适用于作为接触式传声器使用的配件，例如在乐器、听诊器上的(喉部固定件入H04R 1/14)" Target="frmContent" Href="../searchservlet?query=H04R1/46&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04R1/46"/>
+  </TreeNode>
+  <TreeNode Title="H04R3/00 用于传感器的电路(用于立体声装置的入H04R 5/04；用于产生混响或回声的装置入G10K 15/08；放大器入H03F)" Target="frmContent" Href="../searchservlet?query=H04R3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04R3/00">
+    <TreeNode Title="H04R3/02 #用于防止声反馈" Target="frmContent" Href="../searchservlet?query=H04R3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04R3/02"/>
+    <TreeNode Title="H04R3/04 #用于校正频率响应" Target="frmContent" Href="../searchservlet?query=H04R3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04R3/04">
+      <TreeNode Title="H04R3/06 ##静电传感器的" Target="frmContent" Href="../searchservlet?query=H04R3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04R3/06"/>
+      <TreeNode Title="H04R3/08 ##电磁传感器的" Target="frmContent" Href="../searchservlet?query=H04R3/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04R3/08"/>
+      <TreeNode Title="H04R3/10 ##可变电阻传声器的" Target="frmContent" Href="../searchservlet?query=H04R3/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04R3/10"/>
+    </TreeNode>
+    <TreeNode Title="H04R3/12 #用于向两个或两个以上的扬声器分配信号" Target="frmContent" Href="../searchservlet?query=H04R3/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04R3/12">
+      <TreeNode Title="H04R3/14 ##交叉网络" Target="frmContent" Href="../searchservlet?query=H04R3/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04R3/14"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="H04R5/00 立体声装置(立体声拾音器入H04R 9/16，H04R 11/12，H04R 17/08，H04R 19/10)" Target="frmContent" Href="../searchservlet?query=H04R5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04R5/00">
+    <TreeNode Title="H04R5/02 #扬声器的结构或空间的安排" Target="frmContent" Href="../searchservlet?query=H04R5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04R5/02"/>
+    <TreeNode Title="H04R5/027 #传声器的结构或空间的安排，例如在仿真头中的[3]" Target="frmContent" Href="../searchservlet?query=H04R5/027&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04R5/027"/>
+    <TreeNode Title="H04R5/033 #用于立体声通信设备中的头戴耳机[3]" Target="frmContent" Href="../searchservlet?query=H04R5/033&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04R5/033"/>
+    <TreeNode Title="H04R5/04 #电路装置(放大器的组合入H03F 3/68；立体声系统入H04S)" Target="frmContent" Href="../searchservlet?query=H04R5/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04R5/04"/>
+  </TreeNode>
+  <TreeNode Title="H04R7/00 机电传感器的振膜(一般的入F16J 3/00)；纸盆(用于乐器的入G10)" Target="frmContent" Href="../searchservlet?query=H04R7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04R7/00">
+    <TreeNode Title="H04R7/02 #以结构为特征的" Target="frmContent" Href="../searchservlet?query=H04R7/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04R7/02">
+      <TreeNode Title="H04R7/04 ##平面振膜" Target="frmContent" Href="../searchservlet?query=H04R7/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04R7/04">
+        <TreeNode Title="H04R7/06 ###由几部分或多层组成的" Target="frmContent" Href="../searchservlet?query=H04R7/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04R7/06">
+          <TreeNode Title="H04R7/08 ####由被空气或其他流体分开的叠层组成的" Target="frmContent" Href="../searchservlet?query=H04R7/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04R7/08"/>
+          <TreeNode Title="H04R7/10 ####由互相接触的叠层组成的" Target="frmContent" Href="../searchservlet?query=H04R7/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04R7/10"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="H04R7/12 ##非平面振膜或纸盆" Target="frmContent" Href="../searchservlet?query=H04R7/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04R7/12">
+        <TreeNode Title="H04R7/14 ###波纹形的、褶状的或加肋条的" Target="frmContent" Href="../searchservlet?query=H04R7/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04R7/14"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="H04R7/16 #振膜或纸盆的固定或拉紧" Target="frmContent" Href="../searchservlet?query=H04R7/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04R7/16">
+      <TreeNode Title="H04R7/18 ##在边缘" Target="frmContent" Href="../searchservlet?query=H04R7/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04R7/18">
+        <TreeNode Title="H04R7/20 ###用韧性材料、弹簧、绳或多股线将振膜或纸盆弹性固定到支承物上" Target="frmContent" Href="../searchservlet?query=H04R7/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04R7/20"/>
+        <TreeNode Title="H04R7/22 ###将振膜或纸盆固定到底座上的凸缘" Target="frmContent" Href="../searchservlet?query=H04R7/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04R7/22"/>
+      </TreeNode>
+      <TreeNode Title="H04R7/24 ##用直接作用于振膜或纸盆的自由部分的装置拉紧" Target="frmContent" Href="../searchservlet?query=H04R7/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04R7/24"/>
+    </TreeNode>
+    <TreeNode Title="H04R7/26 #用直接作用于振膜或纸盆的自由部分的装置阻尼(空气阻尼入H04R 1/28)" Target="frmContent" Href="../searchservlet?query=H04R7/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04R7/26"/>
+  </TreeNode>
+  <TreeNode Title="H04R9/00 动圈、动片或动线型传感器" Target="frmContent" Href="../searchservlet?query=H04R9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04R9/00">
+    <TreeNode Title="H04R9/02 #零部件" Target="frmContent" Href="../searchservlet?query=H04R9/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04R9/02">
+      <TreeNode Title="H04R9/04 ##线圈的结构、固定或中心调整" Target="frmContent" Href="../searchservlet?query=H04R9/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04R9/04"/>
+    </TreeNode>
+    <TreeNode Title="H04R9/06 #扬声器" Target="frmContent" Href="../searchservlet?query=H04R9/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04R9/06"/>
+    <TreeNode Title="H04R9/08 #传声器" Target="frmContent" Href="../searchservlet?query=H04R9/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04R9/08"/>
+    <TreeNode Title="H04R9/10 #电话受话器" Target="frmContent" Href="../searchservlet?query=H04R9/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04R9/10"/>
+    <TreeNode Title="H04R9/12 #使用唱针的唱机拾音器；使用唱针的录音机" Target="frmContent" Href="../searchservlet?query=H04R9/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04R9/12">
+      <TreeNode Title="H04R9/14 ##有两个或两个以上唱针或传感器的(H04R 9/16优先)" Target="frmContent" Href="../searchservlet?query=H04R9/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04R9/14"/>
+      <TreeNode Title="H04R9/16 ##以唱针在两个正交方向同时振动来记录或重放信号的" Target="frmContent" Href="../searchservlet?query=H04R9/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04R9/16"/>
+    </TreeNode>
+    <TreeNode Title="H04R9/18 #谐振传感器，即适用于在一个预定频率处产生最大输出的" Target="frmContent" Href="../searchservlet?query=H04R9/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04R9/18"/>
+  </TreeNode>
+  <TreeNode Title="H04R11/00 运动衔铁或运动铁芯型传感器(直接与电磁铁共同动作的可磁化材料的声学振膜入H04R 13/00)" Target="frmContent" Href="../searchservlet?query=H04R11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04R11/00">
+    <TreeNode Title="H04R11/02 #扬声器" Target="frmContent" Href="../searchservlet?query=H04R11/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04R11/02"/>
+    <TreeNode Title="H04R11/04 #传声器" Target="frmContent" Href="../searchservlet?query=H04R11/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04R11/04"/>
+    <TreeNode Title="H04R11/06 #电话受话器" Target="frmContent" Href="../searchservlet?query=H04R11/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04R11/06"/>
+    <TreeNode Title="H04R11/08 #使用唱针的唱机拾音器；使用唱针的录音机" Target="frmContent" Href="../searchservlet?query=H04R11/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04R11/08">
+      <TreeNode Title="H04R11/10 ##有两个或两个以上唱针或传感器的(H04R 11/12优先)" Target="frmContent" Href="../searchservlet?query=H04R11/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04R11/10"/>
+      <TreeNode Title="H04R11/12 ##以唱针在两个正交方向同时振动来记录或重放信号的" Target="frmContent" Href="../searchservlet?query=H04R11/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04R11/12"/>
+    </TreeNode>
+    <TreeNode Title="H04R11/14 #谐振传感器，即适用于在一个预定频率处产生最大输出的" Target="frmContent" Href="../searchservlet?query=H04R11/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04R11/14"/>
+  </TreeNode>
+  <TreeNode Title="H04R13/00 具有直接与电磁铁共同动作的可磁化材料的声学振膜的传感器" Target="frmContent" Href="../searchservlet?query=H04R13/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04R13/00">
+    <TreeNode Title="H04R13/02 #电话受话器" Target="frmContent" Href="../searchservlet?query=H04R13/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04R13/02"/>
+  </TreeNode>
+  <TreeNode Title="H04R15/00 磁致伸缩传感器(一般的磁致伸缩器件入H01L 41/00)" Target="frmContent" Href="../searchservlet?query=H04R15/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04R15/00">
+    <TreeNode Title="H04R15/02 #谐振传感器，即适用于在一个预定频率处产生最大输出的" Target="frmContent" Href="../searchservlet?query=H04R15/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04R15/02"/>
+  </TreeNode>
+  <TreeNode Title="H04R17/00 压电传感器；电致伸缩传感器(一般压电器件或电致伸缩器件入H01L 41/00；压电或电致伸缩电动机、发电机或控制器的零部件入H02N 2/00)" Target="frmContent" Href="../searchservlet?query=H04R17/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04R17/00">
+    <TreeNode Title="H04R17/02 #传声器" Target="frmContent" Href="../searchservlet?query=H04R17/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04R17/02"/>
+    <TreeNode Title="H04R17/04 #使用唱针的唱机拾音器；使用唱针的录音机" Target="frmContent" Href="../searchservlet?query=H04R17/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04R17/04">
+      <TreeNode Title="H04R17/06 ##有两个或两个以上唱针或传感器的(H04R 17/08优先)" Target="frmContent" Href="../searchservlet?query=H04R17/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04R17/06"/>
+      <TreeNode Title="H04R17/08 ##以唱针在两个正交方向同时振动来记录或重放信号的" Target="frmContent" Href="../searchservlet?query=H04R17/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04R17/08"/>
+    </TreeNode>
+    <TreeNode Title="H04R17/10 #谐振传感器，即适用于在一个预定频率处产生最大输出的" Target="frmContent" Href="../searchservlet?query=H04R17/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04R17/10"/>
+  </TreeNode>
+  <TreeNode Title="H04R19/00 静电传感器" Target="frmContent" Href="../searchservlet?query=H04R19/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04R19/00">
+    <TreeNode Title="H04R19/01 #以使用驻极体为特征的[3]" Target="frmContent" Href="../searchservlet?query=H04R19/01&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04R19/01"/>
+    <TreeNode Title="H04R19/02 #扬声器(H04R 19/01优先)[3]" Target="frmContent" Href="../searchservlet?query=H04R19/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04R19/02"/>
+    <TreeNode Title="H04R19/04 #传声器(H04R 19/01优先)[3]" Target="frmContent" Href="../searchservlet?query=H04R19/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04R19/04"/>
+    <TreeNode Title="H04R19/06 #使用唱针的唱机拾音器；使用唱针的录音机(H04R 19/01优先)[3]" Target="frmContent" Href="../searchservlet?query=H04R19/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04R19/06">
+      <TreeNode Title="H04R19/08 ##有两个或两个以上唱针或传感器的(H04R 19/10优先)" Target="frmContent" Href="../searchservlet?query=H04R19/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04R19/08"/>
+      <TreeNode Title="H04R19/10 ##以唱针在两个正交方向同时振动来记录或重放信号" Target="frmContent" Href="../searchservlet?query=H04R19/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04R19/10"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="H04R21/00 可变电阻传感器(气态电阻传感器入H04R 23/00；磁阻传感器入H04R 23/00)" Target="frmContent" Href="../searchservlet?query=H04R21/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04R21/00">
+    <TreeNode Title="H04R21/02 #传声器" Target="frmContent" Href="../searchservlet?query=H04R21/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04R21/02"/>
+    <TreeNode Title="H04R21/04 #使用唱针的唱机拾音器；使用唱针的录音机" Target="frmContent" Href="../searchservlet?query=H04R21/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04R21/04"/>
+  </TreeNode>
+  <TreeNode Title="H04R23/00 H04R9/00至H04R 21/00各组不包含的传感器" Target="frmContent" Href="../searchservlet?query=H04R23/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04R23/00">
+    <TreeNode Title="H04R23/02 #同时应用一种以上原理的传感器H04R 25/00助听器(传感器的结构本身入H04R 9/00至H04R 23/00各组；与眼镜架的结构组合入G02C 11/06；语音信号的处理的入G10L 21/00)" Target="frmContent" Href="../searchservlet?query=H04R23/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04R23/02"/>
+    <TreeNode Title="H04R25/02 #适合于完全用耳朵支承的" Target="frmContent" Href="../searchservlet?query=H04R25/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04R25/02"/>
+    <TreeNode Title="H04R25/04 #有袖珍放大器的" Target="frmContent" Href="../searchservlet?query=H04R25/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04R25/04"/>
+  </TreeNode>
+  <TreeNode Title="H04R27/00 扩音系统(用于防止声反馈的电路入H04R 3/02；用于分配信号至扬声器的电路入H04R 3/12；放大器入H03F)" Target="frmContent" Href="../searchservlet?query=H04R27/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04R27/00">
+    <TreeNode Title="H04R27/02 #聋人使用的放大系统" Target="frmContent" Href="../searchservlet?query=H04R27/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04R27/02"/>
+    <TreeNode Title="H04R27/04 #电扩音机" Target="frmContent" Href="../searchservlet?query=H04R27/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04R27/04"/>
+  </TreeNode>
+  <TreeNode Title="H04R29/00 监控设备；测试设备" Target="frmContent" Href="../searchservlet?query=H04R29/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04R29/00"/>
+  <TreeNode Title="H04R31/00 专用于制造传感器或其所用振膜的设备或方法(专用于制造微型结构的装置或系统的方法或设备，例如与电装置结合入B81C)" Target="frmContent" Href="../searchservlet?query=H04R31/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04R31/00"/>
+</Root>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="B04B1/00 有旋转式转鼓的离心机，并配有坚固的套筒，主要用来分离带有或不带有固体微粒的液体混合物" Target="frmContent" Href="../searchservlet?query=B04B1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B04B1/00">
+    <TreeNode Title="B04B1/02 #不用插入分离隔板" Target="frmContent" Href="../searchservlet?query=B04B1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B04B1/02"/>
+    <TreeNode Title="B04B1/04 #用插入分离隔板" Target="frmContent" Href="../searchservlet?query=B04B1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B04B1/04">
+      <TreeNode Title="B04B1/06 ##圆柱形的" Target="frmContent" Href="../searchservlet?query=B04B1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B04B1/06"/>
+      <TreeNode Title="B04B1/08 ##锥形的" Target="frmContent" Href="../searchservlet?query=B04B1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B04B1/08"/>
+    </TreeNode>
+    <TreeNode Title="B04B1/10 #出料口在转鼓最大直径的面上" Target="frmContent" Href="../searchservlet?query=B04B1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B04B1/10">
+      <TreeNode Title="B04B1/12 ##连续出料" Target="frmContent" Href="../searchservlet?query=B04B1/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B04B1/12"/>
+      <TreeNode Title="B04B1/14 ##间歇出料" Target="frmContent" Href="../searchservlet?query=B04B1/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B04B1/14">
+        <TreeNode Title="B04B1/16 ###用转鼓的旋转速度控制出料口" Target="frmContent" Href="../searchservlet?query=B04B1/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B04B1/16">
+          <TreeNode Title="B04B1/18 ####用辅助液体的离心力控制" Target="frmContent" Href="../searchservlet?query=B04B1/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B04B1/18"/>
+        </TreeNode>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="B04B1/20 #用与转鼓同轴且相对于转鼓转动的螺旋输送器从转鼓里排出固体微粒" Target="frmContent" Href="../searchservlet?query=B04B1/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B04B1/20"/>
+  </TreeNode>
+  <TreeNode Title="B04B3/00 有旋转式转鼓的离心机，在其中用离心力分离固体微粒或固体块，并且同时进行精选或过滤" Target="frmContent" Href="../searchservlet?query=B04B3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B04B3/00">
+    <TreeNode Title="B04B3/02 #用与转鼓同轴并且往复移动的装置从转鼓里排出固体微粒，即推送型离心机" Target="frmContent" Href="../searchservlet?query=B04B3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B04B3/02"/>
+    <TreeNode Title="B04B3/04 #用与转鼓同轴并且相对转鼓转动的螺旋输送器从转鼓里排出固体微粒" Target="frmContent" Href="../searchservlet?query=B04B3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B04B3/04"/>
+    <TreeNode Title="B04B3/06 #使转鼓振动排出固体微粒" Target="frmContent" Href="../searchservlet?query=B04B3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B04B3/06"/>
+    <TreeNode Title="B04B3/08 #用环带式的转鼓隔板排出固体微粒" Target="frmContent" Href="../searchservlet?query=B04B3/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B04B3/08"/>
+  </TreeNode>
+  <TreeNode Title="B04B5/00 其他离心机" Target="frmContent" Href="../searchservlet?query=B04B5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B04B5/00">
+    <TreeNode Title="B04B5/02 #由围绕位于各转鼓之间的一根轴旋转的，多个单独的转鼓组成的离心机" Target="frmContent" Href="../searchservlet?query=B04B5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B04B5/02"/>
+    <TreeNode Title="B04B5/04 #主要用于分离液体混合物(如奶油汁)的径向室装置" Target="frmContent" Href="../searchservlet?query=B04B5/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B04B5/04"/>
+    <TreeNode Title="B04B5/06 #离心逆流装置" Target="frmContent" Href="../searchservlet?query=B04B5/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B04B5/06"/>
+    <TreeNode Title="B04B5/08 #主要用于分离气体混合物的离心机" Target="frmContent" Href="../searchservlet?query=B04B5/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B04B5/08"/>
+    <TreeNode Title="B04B5/10 #与其他装置(如静电分离器)联合的离心机；离心机组或离心机系统(B04B 5/12优先；磁性或静电分离机入B03C)[2]" Target="frmContent" Href="../searchservlet?query=B04B5/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B04B5/10"/>
+    <TreeNode Title="B04B5/12 #不是由转鼓而是由转子在固定容器中产生离心作用的离心机" Target="frmContent" Href="../searchservlet?query=B04B5/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B04B5/12"/>
+  </TreeNode>
+  <TreeNode Title="B04B7/00 离心机元件(传动装置入B04B 9/00；供料，装料，出料的附件或装置入B04B 11/00)" Target="frmContent" Href="../searchservlet?query=B04B7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B04B7/00">
+    <TreeNode Title="B04B7/02 #外壳；盖(减震器，减振器入F16F)" Target="frmContent" Href="../searchservlet?query=B04B7/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B04B7/02">
+      <TreeNode Title="B04B7/04 ##便于出料的外壳" Target="frmContent" Href="../searchservlet?query=B04B7/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B04B7/04"/>
+      <TreeNode Title="B04B7/06 ##安全设备" Target="frmContent" Href="../searchservlet?query=B04B7/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B04B7/06"/>
+    </TreeNode>
+    <TreeNode Title="B04B7/08 #转鼓(离心铸造机入B22D)" Target="frmContent" Href="../searchservlet?query=B04B7/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B04B7/08">
+      <TreeNode Title="B04B7/10 ##使固体成型的转鼓" Target="frmContent" Href="../searchservlet?query=B04B7/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B04B7/10"/>
+      <TreeNode Title="B04B7/12 ##插入件，如护板" Target="frmContent" Href="../searchservlet?query=B04B7/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B04B7/12">
+        <TreeNode Title="B04B7/14 ###用于分隔圆锥形隔板" Target="frmContent" Href="../searchservlet?query=B04B7/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B04B7/14"/>
+        <TreeNode Title="B04B7/16 ###滤网或过滤器(一般过滤器入B01D；一般滤网入B07B)" Target="frmContent" Href="../searchservlet?query=B04B7/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B04B7/16"/>
+      </TreeNode>
+      <TreeNode Title="B04B7/18 ##用筛滤元件形成或包覆的(一般过滤器入B01D；一般滤网入B07B)" Target="frmContent" Href="../searchservlet?query=B04B7/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B04B7/18"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="B04B9/00 专门为离心机设计的驱动装置；传动装置的排列或配置；转鼓的悬挂或平衡装置" Target="frmContent" Href="../searchservlet?query=B04B9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B04B9/00">
+    <TreeNode Title="B04B9/02 #电动机驱动" Target="frmContent" Href="../searchservlet?query=B04B9/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B04B9/02">
+      <TreeNode Title="B04B9/04 ##直接驱动" Target="frmContent" Href="../searchservlet?query=B04B9/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B04B9/04"/>
+    </TreeNode>
+    <TreeNode Title="B04B9/06 #液体驱动" Target="frmContent" Href="../searchservlet?query=B04B9/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B04B9/06"/>
+    <TreeNode Title="B04B9/08 #传动装置的排列或配置" Target="frmContent" Href="../searchservlet?query=B04B9/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B04B9/08"/>
+    <TreeNode Title="B04B9/10 #传动的控制；速度调节" Target="frmContent" Href="../searchservlet?query=B04B9/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B04B9/10"/>
+    <TreeNode Title="B04B9/12 #转鼓的悬挂" Target="frmContent" Href="../searchservlet?query=B04B9/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B04B9/12"/>
+    <TreeNode Title="B04B9/14 #转鼓的平衡(平衡本身入G01M)" Target="frmContent" Href="../searchservlet?query=B04B9/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B04B9/14"/>
+  </TreeNode>
+  <TreeNode Title="B04B11/00 转鼓的供料，装料和出料(B04B 1/00，B04B 3/00，B04B 7/04优先)" Target="frmContent" Href="../searchservlet?query=B04B11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B04B11/00">
+    <TreeNode Title="B04B11/02 #连续供料和出料；其控制装置" Target="frmContent" Href="../searchservlet?query=B04B11/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B04B11/02"/>
+    <TreeNode Title="B04B11/04 #间歇供料和出料；其控制装置" Target="frmContent" Href="../searchservlet?query=B04B11/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B04B11/04">
+      <TreeNode Title="B04B11/05 ##底部出料" Target="frmContent" Href="../searchservlet?query=B04B11/05&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B04B11/05"/>
+    </TreeNode>
+    <TreeNode Title="B04B11/06 #离心机的分配或收集装置" Target="frmContent" Href="../searchservlet?query=B04B11/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B04B11/06"/>
+    <TreeNode Title="B04B11/08 #用于出料的撇渣器或刮削器" Target="frmContent" Href="../searchservlet?query=B04B11/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B04B11/08"/>
+  </TreeNode>
+  <TreeNode Title="B04B13/00 专门为离心机设计的控制装置；离心机的程序控制(用于供料、装料、出料的控制装置入B04B 11/00)" Target="frmContent" Href="../searchservlet?query=B04B13/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B04B13/00"/>
+  <TreeNode Title="B04B15/00 用于离心机的其他附件" Target="frmContent" Href="../searchservlet?query=B04B15/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B04B15/00">
+    <TreeNode Title="B04B15/02 #用于冷却，加热或隔热" Target="frmContent" Href="../searchservlet?query=B04B15/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B04B15/02"/>
+    <TreeNode Title="B04B15/04 #用于抑制泡沫的形成" Target="frmContent" Href="../searchservlet?query=B04B15/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B04B15/04"/>
+    <TreeNode Title="B04B15/06 #用于清理转鼓，过滤器或滤网，插入件等" Target="frmContent" Href="../searchservlet?query=B04B15/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B04B15/06"/>
+    <TreeNode Title="B04B15/08 #用于在离心机中排气或形成真空" Target="frmContent" Href="../searchservlet?query=B04B15/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B04B15/08"/>
+    <TreeNode Title="B04B15/10 #用于在转鼓中形成过滤层的" Target="frmContent" Href="../searchservlet?query=B04B15/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B04B15/10"/>
+    <TreeNode Title="B04B15/12 #用于分离出的固体微粒的干燥或洗涤" Target="frmContent" Href="../searchservlet?query=B04B15/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B04B15/12"/>
+  </TreeNode>
+</Root>

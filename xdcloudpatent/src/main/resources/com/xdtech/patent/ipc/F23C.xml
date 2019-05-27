@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="F23C1/00 专门适用于两种或多种燃料同时或交替燃烧的燃烧设备，其中至少有一种是流体燃料(以包含两个或多个燃烧室为特征的燃烧设备入F23C 6/00；引燃火焰的点火器入F23Q 9/00)[1，7，8]" Target="frmContent" Href="../searchservlet?query=F23C1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23C1/00">
+    <TreeNode Title="F23C1/02 #块状燃料和液体燃料" Target="frmContent" Href="../searchservlet?query=F23C1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23C1/02"/>
+    <TreeNode Title="F23C1/04 #块状燃料和气态燃料" Target="frmContent" Href="../searchservlet?query=F23C1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23C1/04"/>
+    <TreeNode Title="F23C1/06 #块状燃料和粉末燃料" Target="frmContent" Href="../searchservlet?query=F23C1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23C1/06"/>
+    <TreeNode Title="F23C1/08 #液体燃料和气态燃料" Target="frmContent" Href="../searchservlet?query=F23C1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23C1/08"/>
+    <TreeNode Title="F23C1/10 #液体燃料和粉末燃料" Target="frmContent" Href="../searchservlet?query=F23C1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23C1/10"/>
+    <TreeNode Title="F23C1/12 #气态燃料和粉末燃料" Target="frmContent" Href="../searchservlet?query=F23C1/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23C1/12"/>
+  </TreeNode>
+  <TreeNode Title="F23C3/00 以燃烧室形状为特征的燃烧设备(F23C 15/00优先)[1，7，8]" Target="frmContent" Href="../searchservlet?query=F23C3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23C3/00"/>
+  <TreeNode Title="F23C5/00 以燃烧器的配置或安装为特征的燃烧设备[1，7，8]" Target="frmContent" Href="../searchservlet?query=F23C5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23C5/00">
+    <TreeNode Title="F23C5/02 #安装的结构零部件" Target="frmContent" Href="../searchservlet?query=F23C5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23C5/02">
+      <TreeNode Title="F23C5/06 ##运行期间调节燃烧器位置的装置" Target="frmContent" Href="../searchservlet?query=F23C5/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23C5/06"/>
+    </TreeNode>
+    <TreeNode Title="F23C5/08 #燃烧器的配置" Target="frmContent" Href="../searchservlet?query=F23C5/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23C5/08">
+      <TreeNode Title="F23C5/14 ##形成集中的或基本上平面状的单一火焰，例如束状或薄板状火焰(F23C 5/32优先)[3]" Target="frmContent" Href="../searchservlet?query=F23C5/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23C5/14"/>
+      <TreeNode Title="F23C5/24 ##形成环状火焰" Target="frmContent" Href="../searchservlet?query=F23C5/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23C5/24"/>
+      <TreeNode Title="F23C5/28 ##形成对冲火焰，例如冲击火焰" Target="frmContent" Href="../searchservlet?query=F23C5/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23C5/28"/>
+      <TreeNode Title="F23C5/32 ##形成旋转火焰，即火焰作螺旋形或螺线形运动[3]" Target="frmContent" Href="../searchservlet?query=F23C5/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23C5/32"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="F23C6/00 以两个或多个燃烧室的组合为特征的燃烧设备[3，7，8]" Target="frmContent" Href="../searchservlet?query=F23C6/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23C6/00">
+    <TreeNode Title="F23C6/02 #平行排列的[3]" Target="frmContent" Href="../searchservlet?query=F23C6/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23C6/02"/>
+    <TreeNode Title="F23C6/04 #串接的[3]" Target="frmContent" Href="../searchservlet?query=F23C6/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23C6/04"/>
+  </TreeNode>
+  <TreeNode Title="F23C7/00 以空气供应装置为特征的燃烧设备(液化气体的进口入F23C 10/20)[1，7，8]" Target="frmContent" Href="../searchservlet?query=F23C7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23C7/00">
+    <TreeNode Title="F23C7/02 #不通过燃烧器的送风配置" Target="frmContent" Href="../searchservlet?query=F23C7/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23C7/02">
+      <TreeNode Title="F23C7/04 ##使燃烧室壁得到最大热传递的" Target="frmContent" Href="../searchservlet?query=F23C7/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23C7/04"/>
+      <TreeNode Title="F23C7/06 ##加热输入空气的(再生器或间壁式换热器的配置入F23L 15/00)" Target="frmContent" Href="../searchservlet?query=F23C7/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23C7/06">
+        <TreeNode Title="F23C7/08 ###间接用除燃烧生成物以外的二次流体的" Target="frmContent" Href="../searchservlet?query=F23C7/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23C7/08"/>
+      </TreeNode>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="F23C9/00 以具有回送燃烧产物或烟气至燃烧室布置为特征的燃烧设备 (带有颗粒再循环装置的流化床燃烧设备入F23C 10/02；具有将粒料除去和部分再导入装置的流化床入F23C 10/26) [1，7，8]" Target="frmContent" Href="../searchservlet?query=F23C9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23C9/00">
+    <TreeNode Title="F23C9/06 #用于完全燃烧的[3]" Target="frmContent" Href="../searchservlet?query=F23C9/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23C9/06"/>
+    <TreeNode Title="F23C9/08 #用于降低燃烧室温度的，例如用于保护燃烧室壁的[3]" Target="frmContent" Href="../searchservlet?query=F23C9/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23C9/08"/>
+  </TreeNode>
+  <TreeNode Title="F23C10/00 燃烧发生在燃料或其他颗粒的流化床内的设备[7]" Target="frmContent" Href="../searchservlet?query=F23C10/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23C10/00">
+    <TreeNode Title="F23C10/01 #在催化颗粒流化床内的[8]" Target="frmContent" Href="../searchservlet?query=F23C10/01&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23C10/01"/>
+    <TreeNode Title="F23C10/02 #带有专门适用于实现或促进床体中颗粒循环运动或者专门适用于再循环从床体中携带出的颗粒的装置[7]" Target="frmContent" Href="../searchservlet?query=F23C10/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23C10/02">
+      <TreeNode Title="F23C10/04 ##颗粒被循环到一个部分，例如热交换部分或回流管，在将其再引入燃烧区之前，至少部分地与燃烧区隔开[7]" Target="frmContent" Href="../searchservlet?query=F23C10/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23C10/04">
+        <TreeNode Title="F23C10/06 ###通过在流化床的不同部分产生不同程度的流化来促进循环运动[7]" Target="frmContent" Href="../searchservlet?query=F23C10/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23C10/06"/>
+        <TreeNode Title="F23C10/08 ###以从烟气中分离颗粒的分离设备(例如离心式分离器)的布置为特征的[7]" Target="frmContent" Href="../searchservlet?query=F23C10/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23C10/08">
+          <TreeNode Title="F23C10/10 ####将分离设备放置在燃烧室外的[7]" Target="frmContent" Href="../searchservlet?query=F23C10/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23C10/10"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="F23C10/12 ##专门在燃烧区中循环颗粒[7]" Target="frmContent" Href="../searchservlet?query=F23C10/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23C10/12">
+        <TreeNode Title="F23C10/14 ###通过在流化床的不同部分产生不同程度的流化来促进循环运动的[7]" Target="frmContent" Href="../searchservlet?query=F23C10/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23C10/14"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="F23C10/16 #专门适用于在高于大气压的条件下操作的，例如处于高压容器中的燃烧室和一些辅助系统[7]" Target="frmContent" Href="../searchservlet?query=F23C10/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23C10/16"/>
+    <TreeNode Title="F23C10/18 #零部件；辅助设备[7]" Target="frmContent" Href="../searchservlet?query=F23C10/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23C10/18">
+      <TreeNode Title="F23C10/20 ##流化空气的入口，例如炉栅、炉底[7]" Target="frmContent" Href="../searchservlet?query=F23C10/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23C10/20"/>
+      <TreeNode Title="F23C10/22 ##专门适用于流化床燃烧设备的燃料送入装置(F23C 10/26优先)[7]" Target="frmContent" Href="../searchservlet?query=F23C10/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23C10/22"/>
+      <TreeNode Title="F23C10/24 ##从流化床中去除料粒的装置(控制床体中料位或床体中料粒量的装置入F23C 10/30)[7]" Target="frmContent" Href="../searchservlet?query=F23C10/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23C10/24">
+        <TreeNode Title="F23C10/26 ###与部分地将料粒再引入床体中的装置结合的，例如在分离结块部分后[7]" Target="frmContent" Href="../searchservlet?query=F23C10/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23C10/26"/>
+      </TreeNode>
+      <TreeNode Title="F23C10/28 ##专门适用于流化床燃烧设备的控制装置[7]" Target="frmContent" Href="../searchservlet?query=F23C10/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23C10/28">
+        <TreeNode Title="F23C10/30 ###控制床体中料位或料粒量的[7]" Target="frmContent" Href="../searchservlet?query=F23C10/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23C10/30">
+          <TreeNode Title="F23C10/32 ####通过控制从烟气中分离出的颗粒的循环速度而实现的[7]" Target="frmContent" Href="../searchservlet?query=F23C10/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23C10/32"/>
+        </TreeNode>
+      </TreeNode>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="F23C13/00 燃烧是在有催化材料存在的情况下发生的设备(在催化颗粒流体床的情况下入F23C 10/01；用催化反应来产生无焰燃烧的辐射气体燃烧器入F23D 14/18)[8]" Target="frmContent" Href="../searchservlet?query=F23C13/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23C13/00">
+    <TreeNode Title="F23C13/02 #以起动操作的装置为特征的，如用于加热催化材料到工作温度的[8]" Target="frmContent" Href="../searchservlet?query=F23C13/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23C13/02"/>
+    <TreeNode Title="F23C13/04 #以两个或多个催化剂串接为特征的[8]" Target="frmContent" Href="../searchservlet?query=F23C13/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23C13/04"/>
+    <TreeNode Title="F23C13/06 #除催化燃烧之外还有非催化燃烧发生的，如在催化剂的下游[8]" Target="frmContent" Href="../searchservlet?query=F23C13/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23C13/06"/>
+    <TreeNode Title="F23C13/08 #以催化材料为特征的[8]" Target="frmContent" Href="../searchservlet?query=F23C13/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23C13/08"/>
+  </TreeNode>
+  <TreeNode Title="F23C15/00 受气流共振影响发生脉冲式燃烧的设备[8]" Target="frmContent" Href="../searchservlet?query=F23C15/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23C15/00"/>
+  <TreeNode Title="F23C99/00 不包含在本小类其他组中的技术主题[8]" Target="frmContent" Href="../searchservlet?query=F23C99/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23C99/00"/>
+  <TreeNode Title="F23C101/00 悬浮夹带流化床中的燃烧，即没有明显上部界面的流化床[7]F23C,F23D" Target="frmContent" Href="../searchservlet?query=F23C101/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23C101/00"/>
+</Root>

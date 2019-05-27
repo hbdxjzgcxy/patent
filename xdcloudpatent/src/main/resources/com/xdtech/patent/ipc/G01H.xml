@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="G01H1/00 通过利用直接传导到检测器测量固体中的振动(G01H 9/00，G01H 11/00优先)" Target="frmContent" Href="../searchservlet?query=G01H1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01H1/00">
+    <TreeNode Title="G01H1/04 #垂直于传播方向振动的" Target="frmContent" Href="../searchservlet?query=G01H1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01H1/04">
+      <TreeNode Title="G01H1/06 ##频率" Target="frmContent" Href="../searchservlet?query=G01H1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01H1/06"/>
+      <TreeNode Title="G01H1/08 ##振幅" Target="frmContent" Href="../searchservlet?query=G01H1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01H1/08"/>
+    </TreeNode>
+    <TreeNode Title="G01H1/10 #扭转振动的" Target="frmContent" Href="../searchservlet?query=G01H1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01H1/10"/>
+    <TreeNode Title="G01H1/12 #纵向的或不确定方向的振动的[4]" Target="frmContent" Href="../searchservlet?query=G01H1/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01H1/12">
+      <TreeNode Title="G01H1/14 ##频率[4]" Target="frmContent" Href="../searchservlet?query=G01H1/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01H1/14"/>
+      <TreeNode Title="G01H1/16 ##振幅[4]" Target="frmContent" Href="../searchservlet?query=G01H1/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01H1/16"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="G01H3/00 应用流体中的检测器测量振动(G01H 7/00，G01H 9/00，G01H 11/00优先)" Target="frmContent" Href="../searchservlet?query=G01H3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01H3/00">
+    <TreeNode Title="G01H3/04 #频率" Target="frmContent" Href="../searchservlet?query=G01H3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01H3/04">
+      <TreeNode Title="G01H3/06 ##应用电的方法" Target="frmContent" Href="../searchservlet?query=G01H3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01H3/06"/>
+      <TreeNode Title="G01H3/08 ##分析复杂振动的频率，例如，比较谐波" Target="frmContent" Href="../searchservlet?query=G01H3/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01H3/08"/>
+    </TreeNode>
+    <TreeNode Title="G01H3/10 #振幅；功率" Target="frmContent" Href="../searchservlet?query=G01H3/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01H3/10">
+      <TreeNode Title="G01H3/12 ##应用电的方法(G01H 3/14优先)[2]" Target="frmContent" Href="../searchservlet?query=G01H3/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01H3/12"/>
+      <TreeNode Title="G01H3/14 ##测量平均振幅；测量平均功率；测量功率的时间积分[2]" Target="frmContent" Href="../searchservlet?query=G01H3/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01H3/14"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="G01H5/00 测量超声波、声波或次声波的传播速度" Target="frmContent" Href="../searchservlet?query=G01H5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01H5/00"/>
+  <TreeNode Title="G01H7/00 测量混响时间" Target="frmContent" Href="../searchservlet?query=G01H7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01H7/00"/>
+  <TreeNode Title="G01H9/00 应用对辐射敏感的装置，例如光学装置，测量机械振动或超声波、声波或次声波" Target="frmContent" Href="../searchservlet?query=G01H9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01H9/00"/>
+  <TreeNode Title="G01H11/00 通过检测电或磁特性的变化测量机械振动或超声波、声波或次声波" Target="frmContent" Href="../searchservlet?query=G01H11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01H11/00">
+    <TreeNode Title="G01H11/02 #用磁的方法，例如磁阻[4]" Target="frmContent" Href="../searchservlet?query=G01H11/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01H11/02">
+      <TreeNode Title="G01H11/04 ##用磁致伸缩的装置[4]" Target="frmContent" Href="../searchservlet?query=G01H11/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01H11/04"/>
+    </TreeNode>
+    <TreeNode Title="G01H11/06 #用电的方法[4]" Target="frmContent" Href="../searchservlet?query=G01H11/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01H11/06">
+      <TreeNode Title="G01H11/08 ##用压电装置[4]" Target="frmContent" Href="../searchservlet?query=G01H11/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01H11/08"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="G01H13/00 测量共振频率" Target="frmContent" Href="../searchservlet?query=G01H13/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01H13/00"/>
+  <TreeNode Title="G01H15/00 测量力学阻抗或声阻抗[3]" Target="frmContent" Href="../searchservlet?query=G01H15/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01H15/00"/>
+  <TreeNode Title="G01H17/00 不包含在本小类其他组中的机械振动或超声波、声波或次声波的测量[4]" Target="frmContent" Href="../searchservlet?query=G01H17/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01H17/00"/>
+</Root>

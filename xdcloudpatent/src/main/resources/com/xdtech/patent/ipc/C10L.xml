@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="C10L1/00 液体含碳燃料" Target="frmContent" Href="../searchservlet?query=C10L1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10L1/00">
+    <TreeNode Title="C10L1/02 #基于仅由碳、氢及氧组成的成分为主的" Target="frmContent" Href="../searchservlet?query=C10L1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10L1/02"/>
+    <TreeNode Title="C10L1/04 #基于烃类混合物为主的" Target="frmContent" Href="../searchservlet?query=C10L1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10L1/04">
+      <TreeNode Title="C10L1/06 ##用于火花点火" Target="frmContent" Href="../searchservlet?query=C10L1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10L1/06"/>
+      <TreeNode Title="C10L1/08 ##用于压缩点火" Target="frmContent" Href="../searchservlet?query=C10L1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10L1/08"/>
+    </TreeNode>
+    <TreeNode Title="C10L1/10 #含添加剂的" Target="frmContent" Href="../searchservlet?query=C10L1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10L1/10">
+      <TreeNode Title="C10L1/12 ##无机化合物" Target="frmContent" Href="../searchservlet?query=C10L1/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10L1/12"/>
+      <TreeNode Title="C10L1/14 ##有机化合物" Target="frmContent" Href="../searchservlet?query=C10L1/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10L1/14">
+        <TreeNode Title="C10L1/16 ###烃类" Target="frmContent" Href="../searchservlet?query=C10L1/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10L1/16"/>
+        <TreeNode Title="C10L1/18 ###含氧的" Target="frmContent" Href="../searchservlet?query=C10L1/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10L1/18">
+          <TreeNode Title="C10L1/182 ####含羟基；其盐[8]" Target="frmContent" Href="../searchservlet?query=C10L1/182&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10L1/182">
+            <TreeNode Title="C10L1/183 #####至少1个与芳香碳原子连接的羟基[8]" Target="frmContent" Href="../searchservlet?query=C10L1/183&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10L1/183"/>
+          </TreeNode>
+          <TreeNode Title="C10L1/185 ####醚；缩醛；缩酮；醛；酮[8]" Target="frmContent" Href="../searchservlet?query=C10L1/185&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10L1/185"/>
+          <TreeNode Title="C10L1/188 ####羧酸；其盐[8]" Target="frmContent" Href="../searchservlet?query=C10L1/188&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10L1/188">
+            <TreeNode Title="C10L1/189 #####至少1个和芳族碳原子相连的羧基[8]" Target="frmContent" Href="../searchservlet?query=C10L1/189&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10L1/189"/>
+          </TreeNode>
+          <TreeNode Title="C10L1/19 ####酯[8]" Target="frmContent" Href="../searchservlet?query=C10L1/19&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10L1/19"/>
+          <TreeNode Title="C10L1/192 #### 大分子化合物[8]" Target="frmContent" Href="../searchservlet?query=C10L1/192&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10L1/192">
+            <TreeNode Title="C10L1/195 #####由仅涉及碳-碳不饱和键的反应制得的[8]" Target="frmContent" Href="../searchservlet?query=C10L1/195&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10L1/195">
+              <TreeNode Title="C10L1/196 ######从含有碳-碳不饱和键和羧基或其盐、羧酸酐或其酯的单体衍生的 [8]" Target="frmContent" Href="../searchservlet?query=C10L1/196&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10L1/196"/>
+              <TreeNode Title="C10L1/197 ###### 从含有碳-碳不饱和键和饱和羧酸或碳酸的酰氧基的单体衍生的[8]" Target="frmContent" Href="../searchservlet?query=C10L1/197&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10L1/197"/>
+            </TreeNode>
+            <TreeNode Title="C10L1/198 #####由仅涉及碳-碳不饱和键以外的反应制得的[8]" Target="frmContent" Href="../searchservlet?query=C10L1/198&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10L1/198"/>
+          </TreeNode>
+        </TreeNode>
+        <TreeNode Title="C10L1/20 ###含卤素的" Target="frmContent" Href="../searchservlet?query=C10L1/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10L1/20"/>
+        <TreeNode Title="C10L1/22 ###含氮的" Target="frmContent" Href="../searchservlet?query=C10L1/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10L1/22">
+          <TreeNode Title="C10L1/222 ####至少含1个碳-氮单键[8]" Target="frmContent" Href="../searchservlet?query=C10L1/222&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10L1/222">
+            <TreeNode Title="C10L1/223 #####至少有1个和芳族碳原子连接的氨基[8]" Target="frmContent" Href="../searchservlet?query=C10L1/223&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10L1/223"/>
+            <TreeNode Title="C10L1/224 ##### 酰胺；酰亚胺[8]" Target="frmContent" Href="../searchservlet?query=C10L1/224&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10L1/224"/>
+          </TreeNode>
+          <TreeNode Title="C10L1/226 #### 至少含1个氮-氮键，例如偶氮化合物、叠氮、肼[8]" Target="frmContent" Href="../searchservlet?query=C10L1/226&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10L1/226"/>
+          <TreeNode Title="C10L1/228 ####至少含1个碳-氮双键，例如胍、腙、缩氨基脲、亚胺；至少含1个碳-氮三键，例如腈 [8]" Target="frmContent" Href="../searchservlet?query=C10L1/228&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10L1/228"/>
+          <TreeNode Title="C10L1/23 ####至少含1个氮-氧键，例如硝基化合物、硝酸盐、亚硝酸盐[8]" Target="frmContent" Href="../searchservlet?query=C10L1/23&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10L1/23"/>
+          <TreeNode Title="C10L1/232 #### 在杂环上含氮[8]" Target="frmContent" Href="../searchservlet?query=C10L1/232&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10L1/232">
+            <TreeNode Title="C10L1/233 ##### 环上含氮和氧，例如唑[8]" Target="frmContent" Href="../searchservlet?query=C10L1/233&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10L1/233"/>
+          </TreeNode>
+          <TreeNode Title="C10L1/234 #### 高分子化合物[8]" Target="frmContent" Href="../searchservlet?query=C10L1/234&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10L1/234">
+            <TreeNode Title="C10L1/236 ##### 由仅涉及碳-碳不饱和键的反应制得的[8]" Target="frmContent" Href="../searchservlet?query=C10L1/236&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10L1/236"/>
+            <TreeNode Title="C10L1/238 ##### 由仅涉及碳-碳不饱和键以外的反应制得的[8]" Target="frmContent" Href="../searchservlet?query=C10L1/238&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10L1/238">
+              <TreeNode Title="C10L1/2383 ###### 聚胺或聚亚胺，或其衍生物[8]" Target="frmContent" Href="../searchservlet?query=C10L1/2383&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10L1/2383">
+                <TreeNode Title="C10L1/2387 ####### 聚氧化烯胺(Polyoxyalkyleneamines)[8]" Target="frmContent" Href="../searchservlet?query=C10L1/2387&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10L1/2387"/>
+              </TreeNode>
+            </TreeNode>
+          </TreeNode>
+        </TreeNode>
+        <TreeNode Title="C10L1/24 ###含硫、硒或碲的" Target="frmContent" Href="../searchservlet?query=C10L1/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10L1/24"/>
+        <TreeNode Title="C10L1/26 ###含磷的" Target="frmContent" Href="../searchservlet?query=C10L1/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10L1/26"/>
+        <TreeNode Title="C10L1/28 ###含硅的" Target="frmContent" Href="../searchservlet?query=C10L1/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10L1/28"/>
+        <TreeNode Title="C10L1/30 ###含C10L 1/16至 C10L 1/28各组未提到的元素的" Target="frmContent" Href="../searchservlet?query=C10L1/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10L1/30"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="C10L1/32 #由煤-油悬浮液或水乳液所组成的" Target="frmContent" Href="../searchservlet?query=C10L1/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10L1/32"/>
+  </TreeNode>
+  <TreeNode Title="C10L3/00 气体燃料；天然气；用不包含在小类C10G，C10K的方法得到的合成天然气；液化石油气[5]" Target="frmContent" Href="../searchservlet?query=C10L3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10L3/00">
+    <TreeNode Title="C10L3/02 #含乙炔的组合物" Target="frmContent" Href="../searchservlet?query=C10L3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10L3/02">
+      <TreeNode Title="C10L3/04 ##吸收的组合物，如溶剂" Target="frmContent" Href="../searchservlet?query=C10L3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10L3/04"/>
+    </TreeNode>
+    <TreeNode Title="C10L3/06 #天燃气；用不包括在C10G、C10K 3/02或3/04的方法得到的合成天然气[5]" Target="frmContent" Href="../searchservlet?query=C10L3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10L3/06">
+      <TreeNode Title="C10L3/08 ##合成天然气的生产[5]" Target="frmContent" Href="../searchservlet?query=C10L3/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10L3/08"/>
+      <TreeNode Title="C10L3/10 ##天然气或合成天然气的加工[5]" Target="frmContent" Href="../searchservlet?query=C10L3/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10L3/10"/>
+    </TreeNode>
+    <TreeNode Title="C10L3/12 #液化石油气[5]" Target="frmContent" Href="../searchservlet?query=C10L3/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10L3/12"/>
+  </TreeNode>
+  <TreeNode Title="C10L5/00 固体燃料(由流体燃料固化制成的入C10L 7/00；由泥煤块制成的入C10F 7/06)" Target="frmContent" Href="../searchservlet?query=C10L5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10L5/00">
+    <TreeNode Title="C10L5/02 #以含碳的矿物质为主所组成的煤砖(泥煤砖入C10F)" Target="frmContent" Href="../searchservlet?query=C10L5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10L5/02">
+      <TreeNode Title="C10L5/04 ##所用的原料；它的预处理" Target="frmContent" Href="../searchservlet?query=C10L5/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10L5/04"/>
+      <TreeNode Title="C10L5/06 ##制块工艺过程" Target="frmContent" Href="../searchservlet?query=C10L5/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10L5/06">
+        <TreeNode Title="C10L5/08 ###不借助于外加的黏合剂" Target="frmContent" Href="../searchservlet?query=C10L5/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10L5/08"/>
+        <TreeNode Title="C10L5/10 ###借助于黏合剂，如预处理的黏合剂" Target="frmContent" Href="../searchservlet?query=C10L5/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10L5/10">
+          <TreeNode Title="C10L5/12 ####用无机黏合剂" Target="frmContent" Href="../searchservlet?query=C10L5/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10L5/12"/>
+          <TreeNode Title="C10L5/14 ####用有机黏合剂" Target="frmContent" Href="../searchservlet?query=C10L5/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10L5/14">
+            <TreeNode Title="C10L5/16 #####用沥青类的黏合剂，如焦油、焦油沥青" Target="frmContent" Href="../searchservlet?query=C10L5/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10L5/16"/>
+            <TreeNode Title="C10L5/18 #####用萘" Target="frmContent" Href="../searchservlet?query=C10L5/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10L5/18"/>
+            <TreeNode Title="C10L5/20 #####用亚硫酸盐碱液" Target="frmContent" Href="../searchservlet?query=C10L5/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10L5/20"/>
+          </TreeNode>
+          <TreeNode Title="C10L5/22 ####将黏合剂用于其他配料的方法；及其设备" Target="frmContent" Href="../searchservlet?query=C10L5/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10L5/22"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="C10L5/24 ##制块时的防尘；防爆安全装置" Target="frmContent" Href="../searchservlet?query=C10L5/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10L5/24"/>
+      <TreeNode Title="C10L5/26 ##煤砖的后处理" Target="frmContent" Href="../searchservlet?query=C10L5/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10L5/26">
+        <TreeNode Title="C10L5/28 ###煤砖的加热；黏合剂的烧结" Target="frmContent" Href="../searchservlet?query=C10L5/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10L5/28"/>
+        <TreeNode Title="C10L5/30 ###煤砖的冷却" Target="frmContent" Href="../searchservlet?query=C10L5/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10L5/30"/>
+        <TreeNode Title="C10L5/32 ###涂层" Target="frmContent" Href="../searchservlet?query=C10L5/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10L5/32"/>
+      </TreeNode>
+      <TreeNode Title="C10L5/34 ##煤砖的其他方面" Target="frmContent" Href="../searchservlet?query=C10L5/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10L5/34">
+        <TreeNode Title="C10L5/36 ###形状" Target="frmContent" Href="../searchservlet?query=C10L5/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10L5/36">
+          <TreeNode Title="C10L5/38 ####由不同层组成的煤砖" Target="frmContent" Href="../searchservlet?query=C10L5/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10L5/38"/>
+        </TreeNode>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="C10L5/40 #基于非矿物来源为主的物质" Target="frmContent" Href="../searchservlet?query=C10L5/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10L5/40">
+      <TreeNode Title="C10L5/42 ##基于动物物质或由其得到的产物" Target="frmContent" Href="../searchservlet?query=C10L5/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10L5/42"/>
+      <TreeNode Title="C10L5/44 ##基于植物物质" Target="frmContent" Href="../searchservlet?query=C10L5/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10L5/44"/>
+      <TreeNode Title="C10L5/46 ##基于污物、家庭的或城市的垃圾" Target="frmContent" Href="../searchservlet?query=C10L5/46&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10L5/46"/>
+      <TreeNode Title="C10L5/48 ##基于工业残渣及废料(C10L 5/42、C10L 5/44优先)[4]" Target="frmContent" Href="../searchservlet?query=C10L5/48&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10L5/48"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="C10L7/00 流体燃料固化制成的燃料" Target="frmContent" Href="../searchservlet?query=C10L7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10L7/00">
+    <TreeNode Title="C10L7/02 #液体燃料" Target="frmContent" Href="../searchservlet?query=C10L7/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10L7/02">
+      <TreeNode Title="C10L7/04 ##醇C10L 8/00本小类其他组中不包含的燃料[8]" Target="frmContent" Href="../searchservlet?query=C10L7/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10L7/04"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="C10L9/00 为改进燃烧对固体燃料进行的处理" Target="frmContent" Href="../searchservlet?query=C10L9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10L9/00">
+    <TreeNode Title="C10L9/02 #用化学方法" Target="frmContent" Href="../searchservlet?query=C10L9/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10L9/02">
+      <TreeNode Title="C10L9/04 ##用氢化" Target="frmContent" Href="../searchservlet?query=C10L9/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10L9/04"/>
+      <TreeNode Title="C10L9/06 ##用氧化" Target="frmContent" Href="../searchservlet?query=C10L9/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10L9/06"/>
+    </TreeNode>
+    <TreeNode Title="C10L9/08 #用热处理，如煅烧" Target="frmContent" Href="../searchservlet?query=C10L9/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10L9/08"/>
+    <TreeNode Title="C10L9/10 #用添加剂" Target="frmContent" Href="../searchservlet?query=C10L9/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10L9/10">
+      <TreeNode Title="C10L9/12 ##氧化剂，如产生氧的化合物" Target="frmContent" Href="../searchservlet?query=C10L9/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10L9/12"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="C10L10/00 为了特殊目的在燃料和火焰中使用添加剂 (借助黏合剂制备块状固体燃料的入C10L 5/10；使用添加剂改进固体燃料燃烧的入C10 L 9/10)[1，8]" Target="frmContent" Href="../searchservlet?query=C10L10/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10L10/00">
+    <TreeNode Title="C10L10/02 #为减少烟尘的形成" Target="frmContent" Href="../searchservlet?query=C10L10/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10L10/02"/>
+    <TreeNode Title="C10L10/04 #为减少腐蚀或结壳作用的" Target="frmContent" Href="../searchservlet?query=C10L10/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10L10/04"/>
+    <TreeNode Title="C10L10/06 # 为易于除去烟灰的" Target="frmContent" Href="../searchservlet?query=C10L10/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10L10/06"/>
+    <TreeNode Title="C10L10/08 #为提高润滑性；为降低磨损[8]" Target="frmContent" Href="../searchservlet?query=C10L10/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10L10/08"/>
+    <TreeNode Title="C10L10/10 #为提高辛烷值[8]" Target="frmContent" Href="../searchservlet?query=C10L10/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10L10/10"/>
+    <TreeNode Title="C10L10/12 # 为提高十六烷值 [8]" Target="frmContent" Href="../searchservlet?query=C10L10/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10L10/12"/>
+    <TreeNode Title="C10L10/14 #为提高低温性能[8]" Target="frmContent" Href="../searchservlet?query=C10L10/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10L10/14">
+      <TreeNode Title="C10L10/16 ## 倾点抑制剂[8]" Target="frmContent" Href="../searchservlet?query=C10L10/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10L10/16"/>
+    </TreeNode>
+    <TreeNode Title="C10L10/18 #为了不包括在C10L 10/02 至 C10L 10/16各小组的目的而使用的洗涤剂或分散剂[8]" Target="frmContent" Href="../searchservlet?query=C10L10/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10L10/18"/>
+  </TreeNode>
+  <TreeNode Title="C10L11/00 引火物" Target="frmContent" Href="../searchservlet?query=C10L11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10L11/00">
+    <TreeNode Title="C10L11/02 #基于耐火多孔体的" Target="frmContent" Href="../searchservlet?query=C10L11/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10L11/02"/>
+    <TreeNode Title="C10L11/04 #由可燃物料组成的(火柴入C06F)" Target="frmContent" Href="../searchservlet?query=C10L11/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10L11/04"/>
+    <TreeNode Title="C10L11/06 #特殊形状的" Target="frmContent" Href="../searchservlet?query=C10L11/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10L11/06"/>
+    <TreeNode Title="C10L11/08 #制造它的设备" Target="frmContent" Href="../searchservlet?query=C10L11/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10L11/08"/>
+  </TreeNode>
+</Root>

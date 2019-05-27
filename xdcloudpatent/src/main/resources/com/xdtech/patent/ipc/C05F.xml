@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="C05F1/00 由动物尸体或脏器制成的肥料" Target="frmContent" Href="../searchservlet?query=C05F1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C05F1/00">
+    <TreeNode Title="C05F1/02 #制造用设备" Target="frmContent" Href="../searchservlet?query=C05F1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C05F1/02"/>
+  </TreeNode>
+  <TreeNode Title="C05F3/00 人或动物排泄物制成的肥料，如粪肥" Target="frmContent" Href="../searchservlet?query=C05F3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C05F3/00">
+    <TreeNode Title="C05F3/02 #鸟粪" Target="frmContent" Href="../searchservlet?query=C05F3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C05F3/02"/>
+    <TreeNode Title="C05F3/04 #由人粪便" Target="frmContent" Href="../searchservlet?query=C05F3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C05F3/04"/>
+    <TreeNode Title="C05F3/06 #制造用设备" Target="frmContent" Href="../searchservlet?query=C05F3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C05F3/06"/>
+  </TreeNode>
+  <TreeNode Title="C05F5/00 自酒厂废物、废糖浆、酒糟、制糖渣或其他类似废物或残渣制成的肥料" Target="frmContent" Href="../searchservlet?query=C05F5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C05F5/00"/>
+  <TreeNode Title="C05F7/00 自废水、污水淤渣、海水淤泥、软湖泥或类似物质制成的肥料(脱水、干燥或煅烧淤渣的方法或装置入C02F 11/00)" Target="frmContent" Href="../searchservlet?query=C05F7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C05F7/00">
+    <TreeNode Title="C05F7/02 #自纤维素制造中的亚硫酸盐废液或其他废液" Target="frmContent" Href="../searchservlet?query=C05F7/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C05F7/02"/>
+    <TreeNode Title="C05F7/04 #自钾碱工业中的废液" Target="frmContent" Href="../searchservlet?query=C05F7/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C05F7/04"/>
+  </TreeNode>
+  <TreeNode Title="C05F9/00 自家庭或市镇垃圾制成的肥料" Target="frmContent" Href="../searchservlet?query=C05F9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C05F9/00">
+    <TreeNode Title="C05F9/02 #制造用设备" Target="frmContent" Href="../searchservlet?query=C05F9/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C05F9/02"/>
+    <TreeNode Title="C05F9/04 #生物堆肥" Target="frmContent" Href="../searchservlet?query=C05F9/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C05F9/04"/>
+  </TreeNode>
+  <TreeNode Title="C05F11/00 其他有机肥料" Target="frmContent" Href="../searchservlet?query=C05F11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C05F11/00">
+    <TreeNode Title="C05F11/02 #自泥煤、褐煤及类似的植物沉积物制成的" Target="frmContent" Href="../searchservlet?query=C05F11/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C05F11/02">
+      <TreeNode Title="C05F11/04 ##自泥煤制成的园艺土(“Gartnerische Erden”)" Target="frmContent" Href="../searchservlet?query=C05F11/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C05F11/04"/>
+      <TreeNode Title="C05F11/06 ##制造用设备" Target="frmContent" Href="../searchservlet?query=C05F11/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C05F11/06"/>
+    </TreeNode>
+    <TreeNode Title="C05F11/08 #含有加入细菌培养物、菌丝或其他类似物的有机肥料" Target="frmContent" Href="../searchservlet?query=C05F11/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C05F11/08"/>
+    <TreeNode Title="C05F11/10 #含植物维生素或激素的肥料" Target="frmContent" Href="../searchservlet?query=C05F11/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C05F11/10"/>
+  </TreeNode>
+  <TreeNode Title="C05F15/00 包含在C05F 1/00至C05F 11/00一个以上的大组中的混合肥料；由包含在本小类中但不包含在同一大组的原料混合物制造的肥料[5]" Target="frmContent" Href="../searchservlet?query=C05F15/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C05F15/00"/>
+  <TreeNode Title="C05F17/00 以堆制肥料步骤为特征的肥料的制备[5]" Target="frmContent" Href="../searchservlet?query=C05F17/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C05F17/00">
+    <TreeNode Title="C05F17/02 #其设备[5]" Target="frmContent" Href="../searchservlet?query=C05F17/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C05F17/02"/>
+  </TreeNode>
+</Root>

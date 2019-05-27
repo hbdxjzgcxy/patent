@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="G10D1/00 弦乐器的一般设计，例如，小提琴、竖琴、曼陀林、吉他、五弦琴或筝" Target="frmContent" Href="../searchservlet?query=G10D1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G10D1/00">
+    <TreeNode Title="G10D1/02 #小提琴、中提琴、大提琴、低音提琴等的" Target="frmContent" Href="../searchservlet?query=G10D1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G10D1/02"/>
+    <TreeNode Title="G10D1/04 #竖琴、里拉琴(Iyre)等的" Target="frmContent" Href="../searchservlet?query=G10D1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G10D1/04"/>
+    <TreeNode Title="G10D1/06 #曼陀林的" Target="frmContent" Href="../searchservlet?query=G10D1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G10D1/06"/>
+    <TreeNode Title="G10D1/08 #吉他琴的" Target="frmContent" Href="../searchservlet?query=G10D1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G10D1/08"/>
+    <TreeNode Title="G10D1/10 #班卓琴(banjo)的" Target="frmContent" Href="../searchservlet?query=G10D1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G10D1/10"/>
+    <TreeNode Title="G10D1/12 #齐特拉琴(zither)的，例如自动竖琴(autoharp)" Target="frmContent" Href="../searchservlet?query=G10D1/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G10D1/12"/>
+  </TreeNode>
+  <TreeNode Title="G10D3/00 弦乐器的零部件或附件，例如滑杆" Target="frmContent" Href="../searchservlet?query=G10D3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G10D3/00">
+    <TreeNode Title="G10D3/02 #谐振装置、喇叭筒或振动膜" Target="frmContent" Href="../searchservlet?query=G10D3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G10D3/02"/>
+    <TreeNode Title="G10D3/04 #琴马、弱音器或Capo-tastos" Target="frmContent" Href="../searchservlet?query=G10D3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G10D3/04"/>
+    <TreeNode Title="G10D3/06 #指板" Target="frmContent" Href="../searchservlet?query=G10D3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G10D3/06">
+      <TreeNode Title="G10D3/08 ##键盘形式的" Target="frmContent" Href="../searchservlet?query=G10D3/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G10D3/08"/>
+    </TreeNode>
+    <TreeNode Title="G10D3/10 #弦" Target="frmContent" Href="../searchservlet?query=G10D3/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G10D3/10"/>
+    <TreeNode Title="G10D3/12 #弦的固定件，例如系弦板或栓柱" Target="frmContent" Href="../searchservlet?query=G10D3/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G10D3/12"/>
+    <TreeNode Title="G10D3/14 #调音部件，例如弦轴、销钉或摩擦盘" Target="frmContent" Href="../searchservlet?query=G10D3/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G10D3/14"/>
+    <TreeNode Title="G10D3/16 #弓；弓的导引装置；弦乐器的拨子及类似的演奏装置" Target="frmContent" Href="../searchservlet?query=G10D3/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G10D3/16"/>
+    <TreeNode Title="G10D3/18 #腮托、手托或作为乐器一部分的保护件" Target="frmContent" Href="../searchservlet?query=G10D3/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G10D3/18"/>
+  </TreeNode>
+  <TreeNode Title="G10D7/00 管乐器的一般设计，例如，长笛、卵形笛、双簧管、竖笛、风笛、萨克斯管、喇叭或口琴(手风琴或六角手风琴入G10D 11/00；管风琴或簧风琴入G10B；号笛入G10K)" Target="frmContent" Href="../searchservlet?query=G10D7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G10D7/00">
+    <TreeNode Title="G10D7/02 #气流对准斜坡边缘类型的，例如，长笛或八孔直笛" Target="frmContent" Href="../searchservlet?query=G10D7/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G10D7/02">
+      <TreeNode Title="G10D7/04 ##奥卡利那笛(Ocarina)" Target="frmContent" Href="../searchservlet?query=G10D7/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G10D7/04"/>
+    </TreeNode>
+    <TreeNode Title="G10D7/06 #有拍簧(Rohrblatt)或振簧类型的，例如双簧管、黑管、巴松管或风笛" Target="frmContent" Href="../searchservlet?query=G10D7/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G10D7/06">
+      <TreeNode Title="G10D7/08 ##萨克斯管" Target="frmContent" Href="../searchservlet?query=G10D7/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G10D7/08"/>
+    </TreeNode>
+    <TreeNode Title="G10D7/10 #有杯状吹口类型的，例如短号、乐队的小号或长号" Target="frmContent" Href="../searchservlet?query=G10D7/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G10D7/10"/>
+    <TreeNode Title="G10D7/12 #有自由簧片(Zunge)类型的，例如口琴或儿童小号" Target="frmContent" Href="../searchservlet?query=G10D7/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G10D7/12"/>
+  </TreeNode>
+  <TreeNode Title="G10D9/00 管乐器的零部件或附件" Target="frmContent" Href="../searchservlet?query=G10D9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G10D9/00">
+    <TreeNode Title="G10D9/02 #吹口；簧片" Target="frmContent" Href="../searchservlet?query=G10D9/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G10D9/02"/>
+    <TreeNode Title="G10D9/04 #活瓣；活瓣控制件" Target="frmContent" Href="../searchservlet?query=G10D9/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G10D9/04"/>
+    <TreeNode Title="G10D9/06 #弱音器" Target="frmContent" Href="../searchservlet?query=G10D9/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G10D9/06"/>
+  </TreeNode>
+  <TreeNode Title="G10D11/00 手风琴、六角手风琴或类似乐器；其键盘" Target="frmContent" Href="../searchservlet?query=G10D11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G10D11/00">
+    <TreeNode Title="G10D11/02 #机械装置" Target="frmContent" Href="../searchservlet?query=G10D11/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G10D11/02"/>
+  </TreeNode>
+  <TreeNode Title="G10D13/00 打击乐器，例如鼓、手鼓、定音鼓、响板、铙钹、三角铃、锣或盘；零部件或附件" Target="frmContent" Href="../searchservlet?query=G10D13/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G10D13/00">
+    <TreeNode Title="G10D13/02 #鼓；手鼓" Target="frmContent" Href="../searchservlet?query=G10D13/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G10D13/02"/>
+    <TreeNode Title="G10D13/04 #定音鼓" Target="frmContent" Href="../searchservlet?query=G10D13/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G10D13/04"/>
+    <TreeNode Title="G10D13/06 #响板、铙钹、三角铃或其他单音打击乐器(铃入G10K 1/00)" Target="frmContent" Href="../searchservlet?query=G10D13/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G10D13/06"/>
+    <TreeNode Title="G10D13/08 #由能发响声的条、块、叉、锣、板、棒或齿等组成的多音调乐器" Target="frmContent" Href="../searchservlet?query=G10D13/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G10D13/08"/>
+  </TreeNode>
+  <TreeNode Title="G10D15/00 各种乐器的组合(与钢琴、大键琴、立式钢琴或类似的带有一个或多个键盘的弦乐器的组合入G10C 5/00)" Target="frmContent" Href="../searchservlet?query=G10D15/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G10D15/00"/>
+  <TreeNode Title="G10D17/00 本小类其他各组中不包含的乐器，例如风弦琴(aeolian harp)，歌焰乐器(singing-flame musical instrument)" Target="frmContent" Href="../searchservlet?query=G10D17/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G10D17/00"/>
+</Root>

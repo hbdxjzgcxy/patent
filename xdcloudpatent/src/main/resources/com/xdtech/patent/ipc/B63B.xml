@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="B63B1/00 船体或水翼的流体动力学特征或流体静力学特征(潜艇特有的船体入B63B 3/13；龙骨入B63B 3/38；流体动力学或流体静力学特征的确定入B63B 9/00；用作用在周围水上的水翼减少船只纵摇，横摇或类似的不希望有的运动入B63B 39/06)" Target="frmContent" Href="../searchservlet?query=B63B1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B1/00">
+    <TreeNode Title="B63B1/02 # 浮力主要由排水产生(B63B 1/16优先)" Target="frmContent" Href="../searchservlet?query=B63B1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B1/02">
+      <TreeNode Title="B63B1/04 ##单船体的" Target="frmContent" Href="../searchservlet?query=B63B1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B1/04">
+        <TreeNode Title="B63B1/06 ###船首部分的形状" Target="frmContent" Href="../searchservlet?query=B63B1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B1/06"/>
+        <TreeNode Title="B63B1/08 ###船尾部分的形状" Target="frmContent" Href="../searchservlet?query=B63B1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B1/08"/>
+      </TreeNode>
+      <TreeNode Title="B63B1/10 ##多船体的" Target="frmContent" Href="../searchservlet?query=B63B1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B1/10">
+        <TreeNode Title="B63B1/12 ###船体是刚性连接的" Target="frmContent" Href="../searchservlet?query=B63B1/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B1/12"/>
+        <TreeNode Title="B63B1/14 ###船体是弹性连接的" Target="frmContent" Href="../searchservlet?query=B63B1/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B1/14"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="B63B1/16 # 由水动力得到附加浮力" Target="frmContent" Href="../searchservlet?query=B63B1/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B1/16">
+      <TreeNode Title="B63B1/18 ##水平舵型的(用水平舵控制潜艇姿态或深度的入B63G 8/18)" Target="frmContent" Href="../searchservlet?query=B63B1/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B1/18">
+        <TreeNode Title="B63B1/20 ###有一个以上滑行面的(B63B 1/22优先)" Target="frmContent" Href="../searchservlet?query=B63B1/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B1/20"/>
+        <TreeNode Title="B63B1/22 ###有可调滑行面的" Target="frmContent" Href="../searchservlet?query=B63B1/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B1/22"/>
+      </TreeNode>
+      <TreeNode Title="B63B1/24 ##水翼型的" Target="frmContent" Href="../searchservlet?query=B63B1/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B1/24">
+        <TreeNode Title="B63B1/26 ###有一个以上水翼的(B63B 1/28优先)" Target="frmContent" Href="../searchservlet?query=B63B1/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B1/26"/>
+        <TreeNode Title="B63B1/28 ###有活动水翼的" Target="frmContent" Href="../searchservlet?query=B63B1/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B1/28">
+          <TreeNode Title="B63B1/30 ####收缩式或折叠式" Target="frmContent" Href="../searchservlet?query=B63B1/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B1/30"/>
+        </TreeNode>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="B63B1/32 # 用于改变船体固有流体动力学特征的其他措施" Target="frmContent" Href="../searchservlet?query=B63B1/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B1/32">
+      <TreeNode Title="B63B1/34 ##通过减小表面摩擦力" Target="frmContent" Href="../searchservlet?query=B63B1/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B1/34">
+        <TreeNode Title="B63B1/36 ###用机械装置的" Target="frmContent" Href="../searchservlet?query=B63B1/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B1/36"/>
+        <TreeNode Title="B63B1/38 ###用气泡或空气层的" Target="frmContent" Href="../searchservlet?query=B63B1/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B1/38"/>
+      </TreeNode>
+      <TreeNode Title="B63B1/40 ##通过减小波阻的" Target="frmContent" Href="../searchservlet?query=B63B1/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B1/40"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="B63B3/00 船体结构(非金属船体入B63B 5/00；设计，建造，保养或修理的方法入B63B 9/00)" Target="frmContent" Href="../searchservlet?query=B63B3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B3/00">
+    <TreeNode Title="B63B3/02 # 由预制分总成装配的船体" Target="frmContent" Href="../searchservlet?query=B63B3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B3/02">
+      <TreeNode Title="B63B3/04 ##有永久连接的分总成的" Target="frmContent" Href="../searchservlet?query=B63B3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B3/04">
+        <TreeNode Title="B63B3/06 ###分总成基本上是相同的" Target="frmContent" Href="../searchservlet?query=B63B3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B3/06"/>
+      </TreeNode>
+      <TreeNode Title="B63B3/08 ##有可拆连接的分总成的" Target="frmContent" Href="../searchservlet?query=B63B3/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B3/08"/>
+    </TreeNode>
+    <TreeNode Title="B63B3/09 # 非磁性金属构成的船体" Target="frmContent" Href="../searchservlet?query=B63B3/09&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B3/09"/>
+    <TreeNode Title="B63B3/10 # 装甲船体" Target="frmContent" Href="../searchservlet?query=B63B3/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B3/10"/>
+    <TreeNode Title="B63B3/12 # 无骨架船体" Target="frmContent" Href="../searchservlet?query=B63B3/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B3/12"/>
+    <TreeNode Title="B63B3/13 # 完全浸没时经得起静水压力的船体，例如潜艇船体" Target="frmContent" Href="../searchservlet?query=B63B3/13&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B3/13"/>
+    <TreeNode Title="B63B3/14 # 船体部件(船体装甲入B63B 3/10)" Target="frmContent" Href="../searchservlet?query=B63B3/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B3/14">
+      <TreeNode Title="B63B3/16 ##船壳(舷窗或其关闭装置入B63B 19/00)" Target="frmContent" Href="../searchservlet?query=B63B3/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B3/16">
+        <TreeNode Title="B63B3/18 ###以主要构成部件可展开成平面为特点的" Target="frmContent" Href="../searchservlet?query=B63B3/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B3/18"/>
+        <TreeNode Title="B63B3/20 ###双壳式的" Target="frmContent" Href="../searchservlet?query=B63B3/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B3/20"/>
+        <TreeNode Title="B63B3/22 ###有波纹的" Target="frmContent" Href="../searchservlet?query=B63B3/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B3/22"/>
+        <TreeNode Title="B63B3/24 ###用于减少外部隆起物或凸出物的装置" Target="frmContent" Href="../searchservlet?query=B63B3/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B3/24"/>
+      </TreeNode>
+      <TreeNode Title="B63B3/26 ##骨架" Target="frmContent" Href="../searchservlet?query=B63B3/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B3/26">
+        <TreeNode Title="B63B3/28 ###横向型的；纵桁" Target="frmContent" Href="../searchservlet?query=B63B3/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B3/28">
+          <TreeNode Title="B63B3/30 ####舱底肘板；横梁肘板" Target="frmContent" Href="../searchservlet?query=B63B3/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B3/30"/>
+        </TreeNode>
+        <TreeNode Title="B63B3/32 ###加强骨架；加强横梁" Target="frmContent" Href="../searchservlet?query=B63B3/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B3/32"/>
+        <TreeNode Title="B63B3/34 ###纵向型的；舱壁连接" Target="frmContent" Href="../searchservlet?query=B63B3/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B3/34"/>
+        <TreeNode Title="B63B3/36 ###组合骨架系" Target="frmContent" Href="../searchservlet?query=B63B3/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B3/36"/>
+      </TreeNode>
+      <TreeNode Title="B63B3/38 ##龙骨(活动龙骨入B63B 41/00)" Target="frmContent" Href="../searchservlet?query=B63B3/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B3/38"/>
+      <TreeNode Title="B63B3/40 ##尾柱；尾骨架" Target="frmContent" Href="../searchservlet?query=B63B3/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B3/40"/>
+      <TreeNode Title="B63B3/42 ##轴架" Target="frmContent" Href="../searchservlet?query=B63B3/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B3/42"/>
+      <TreeNode Title="B63B3/44 ##舱底龙骨(稳定方面入B63B 39/06)" Target="frmContent" Href="../searchservlet?query=B63B3/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B3/44"/>
+      <TreeNode Title="B63B3/46 ##首部" Target="frmContent" Href="../searchservlet?query=B63B3/46&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B3/46"/>
+      <TreeNode Title="B63B3/48 ##甲板(船壳板入B63B 5/06)" Target="frmContent" Href="../searchservlet?query=B63B3/48&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B3/48">
+        <TreeNode Title="B63B3/50 ###拱顶式的" Target="frmContent" Href="../searchservlet?query=B63B3/50&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B3/50"/>
+        <TreeNode Title="B63B3/52 ###支柱；甲板桁架" Target="frmContent" Href="../searchservlet?query=B63B3/52&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B3/52"/>
+        <TreeNode Title="B63B3/54 ###舱口" Target="frmContent" Href="../searchservlet?query=B63B3/54&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B3/54"/>
+      </TreeNode>
+      <TreeNode Title="B63B3/56 ##舱壁；舱壁增强件(水密门的布置入B63B 43/24)" Target="frmContent" Href="../searchservlet?query=B63B3/56&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B3/56">
+        <TreeNode Title="B63B3/58 ###覆以平板的" Target="frmContent" Href="../searchservlet?query=B63B3/58&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B3/58"/>
+        <TreeNode Title="B63B3/60 ###覆以曲面或波纹板的" Target="frmContent" Href="../searchservlet?query=B63B3/60&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B3/60"/>
+      </TreeNode>
+      <TreeNode Title="B63B3/62 ##双层底；舱顶" Target="frmContent" Href="../searchservlet?query=B63B3/62&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B3/62">
+        <TreeNode Title="B63B3/64 ###内龙骨" Target="frmContent" Href="../searchservlet?query=B63B3/64&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B3/64"/>
+      </TreeNode>
+      <TreeNode Title="B63B3/66 ##栅栏" Target="frmContent" Href="../searchservlet?query=B63B3/66&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B3/66"/>
+      <TreeNode Title="B63B3/68 ##镶板；衬板，例如用于隔离的" Target="frmContent" Href="../searchservlet?query=B63B3/68&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B3/68"/>
+      <TreeNode Title="B63B3/70 ##用于承受局部负荷，例如推进装置，火炮的增强部分" Target="frmContent" Href="../searchservlet?query=B63B3/70&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B3/70"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="B63B5/00 以其非金属材料结构为特点的船体" Target="frmContent" Href="../searchservlet?query=B63B5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B5/00">
+    <TreeNode Title="B63B5/02 # 主要由木材制成的" Target="frmContent" Href="../searchservlet?query=B63B5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B5/02">
+      <TreeNode Title="B63B5/04 ##骨架" Target="frmContent" Href="../searchservlet?query=B63B5/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B5/04"/>
+      <TreeNode Title="B63B5/06 ##甲板；船壳" Target="frmContent" Href="../searchservlet?query=B63B5/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B5/06">
+        <TreeNode Title="B63B5/08 ###有单层船壳板的" Target="frmContent" Href="../searchservlet?query=B63B5/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B5/08"/>
+        <TreeNode Title="B63B5/10 ###有多层船壳板的" Target="frmContent" Href="../searchservlet?query=B63B5/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B5/10"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="B63B5/12 # 主要由带有金属增强的，即复合结构的木材制成" Target="frmContent" Href="../searchservlet?query=B63B5/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B5/12"/>
+    <TreeNode Title="B63B5/14 # 主要由混凝土，例如钢筋混凝土制造" Target="frmContent" Href="../searchservlet?query=B63B5/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B5/14">
+      <TreeNode Title="B63B5/16 ##整体式的" Target="frmContent" Href="../searchservlet?query=B63B5/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B5/16"/>
+      <TreeNode Title="B63B5/18 ##由部件装配的" Target="frmContent" Href="../searchservlet?query=B63B5/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B5/18">
+        <TreeNode Title="B63B5/20 ###与其他材料的部件结合的" Target="frmContent" Href="../searchservlet?query=B63B5/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B5/20"/>
+      </TreeNode>
+      <TreeNode Title="B63B5/22 ##船壳外部有增强部件的" Target="frmContent" Href="../searchservlet?query=B63B5/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B5/22"/>
+    </TreeNode>
+    <TreeNode Title="B63B5/24 # 主要由塑料制造" Target="frmContent" Href="../searchservlet?query=B63B5/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B5/24"/>
+  </TreeNode>
+  <TreeNode Title="B63B7/00 可拆卸，可折叠，可充气或类似的船(可折叠的趸船入B63B 35/36)" Target="frmContent" Href="../searchservlet?query=B63B7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B7/00">
+    <TreeNode Title="B63B7/02 # 仅包含刚性部件的" Target="frmContent" Href="../searchservlet?query=B63B7/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B7/02">
+      <TreeNode Title="B63B7/04 ##分段的" Target="frmContent" Href="../searchservlet?query=B63B7/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B7/04"/>
+    </TreeNode>
+    <TreeNode Title="B63B7/06 # 有非刚性材料部件的" Target="frmContent" Href="../searchservlet?query=B63B7/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B7/06">
+      <TreeNode Title="B63B7/08 ##可充气的(阀与充气弹性体的连接入B60C 29/00)" Target="frmContent" Href="../searchservlet?query=B63B7/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B7/08"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="B63B9/00 其他类目不包括的船只设计、建造、保养、改装、重新装配、修理或测定性能的方法(用于建造水泥船的模壳入E04G)[2]" Target="frmContent" Href="../searchservlet?query=B63B9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B9/00">
+    <TreeNode Title="B63B9/02 # 用船模试验池或船模试验槽进行设计" Target="frmContent" Href="../searchservlet?query=B63B9/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B9/02"/>
+    <TreeNode Title="B63B9/04 # 船舶的重建，例如增加吨位" Target="frmContent" Href="../searchservlet?query=B63B9/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B9/04"/>
+    <TreeNode Title="B63B9/06 # 建造船体的方法[2]" Target="frmContent" Href="../searchservlet?query=B63B9/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B9/06"/>
+    <TreeNode Title="B63B9/08 # 确定船只有关稳定或平衡方面的性能[2]" Target="frmContent" Href="../searchservlet?query=B63B9/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B9/08"/>
+  </TreeNode>
+  <TreeNode Title="B63B11/00 船体的内部分舱(舱壁空间结构入B63B 3/56)" Target="frmContent" Href="../searchservlet?query=B63B11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B11/00">
+    <TreeNode Title="B63B11/02 # 舱壁的布置，例如确定载货空间" Target="frmContent" Href="../searchservlet?query=B63B11/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B11/02"/>
+    <TreeNode Title="B63B11/04 # 燃料舱或压载水柜的结构特征，例如有弹性壁的(液体舱的清洗入B63B 57/00)" Target="frmContent" Href="../searchservlet?query=B63B11/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B11/04"/>
+    <TreeNode Title="B63B11/06 # 螺旋桨轴隧" Target="frmContent" Href="../searchservlet?query=B63B11/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B11/06"/>
+  </TreeNode>
+  <TreeNode Title="B63B13/00 用于排空或压载的管道；自汲设备；排水口(用于舱口的排水装置入B63B 19/26；舱底水离心分离器入B04；一般管道入F16L)" Target="frmContent" Href="../searchservlet?query=B63B13/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B13/00">
+    <TreeNode Title="B63B13/02 # 船舷排水孔" Target="frmContent" Href="../searchservlet?query=B63B13/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B13/02"/>
+  </TreeNode>
+  <TreeNode Title="B63B15/00 上层建筑；桅杆的布置或配备(装卸设备入B63B 27/00；帆、活动索具入B63H；一般桅和支撑入E04H)" Target="frmContent" Href="../searchservlet?query=B63B15/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B15/00">
+    <TreeNode Title="B63B15/02 # 桅杆或其他上层建筑的支撑" Target="frmContent" Href="../searchservlet?query=B63B15/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B15/02"/>
+  </TreeNode>
+  <TreeNode Title="B63B17/00 其他类不包含的船只部件、零件或附件" Target="frmContent" Href="../searchservlet?query=B63B17/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B17/00">
+    <TreeNode Title="B63B17/02 # 天篷" Target="frmContent" Href="../searchservlet?query=B63B17/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B17/02"/>
+    <TreeNode Title="B63B17/04 # 支柱；护栏" Target="frmContent" Href="../searchservlet?query=B63B17/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B17/04"/>
+    <TreeNode Title="B63B17/06 # 排出废物，例如除灰(家庭的或类似的废物的清除入B65F)" Target="frmContent" Href="../searchservlet?query=B63B17/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B17/06"/>
+  </TreeNode>
+  <TreeNode Title="B63B19/00 舷门窗、门、窗、观察孔或其他开口或盖板的布置或配备(排水孔入B63B 13/00；舱壁水密门的布置入B63B 43/24)" Target="frmContent" Href="../searchservlet?query=B63B19/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B19/00">
+    <TreeNode Title="B63B19/02 # 透明观察屏" Target="frmContent" Href="../searchservlet?query=B63B19/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B19/02"/>
+    <TreeNode Title="B63B19/04 # 与窗或观察孔有关的空气收集装置(通风装置入B63J 2/00)" Target="frmContent" Href="../searchservlet?query=B63B19/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B19/04">
+      <TreeNode Title="B63B19/06 ##易拆卸的" Target="frmContent" Href="../searchservlet?query=B63B19/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B19/06"/>
+    </TreeNode>
+    <TreeNode Title="B63B19/08 # 船舷的舷门窗或类似开口" Target="frmContent" Href="../searchservlet?query=B63B19/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B19/08">
+      <TreeNode Title="B63B19/10 ##上煤舱口" Target="frmContent" Href="../searchservlet?query=B63B19/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B19/10"/>
+    </TreeNode>
+    <TreeNode Title="B63B19/12 # 升降舱口；舱口(舱口围板入B63B 3/54)" Target="frmContent" Href="../searchservlet?query=B63B19/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B19/12">
+      <TreeNode Title="B63B19/14 ##舱口盖(一般开启装置入E05F)" Target="frmContent" Href="../searchservlet?query=B63B19/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B19/14">
+        <TreeNode Title="B63B19/16 ###有可拆卸板的" Target="frmContent" Href="../searchservlet?query=B63B19/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B19/16"/>
+        <TreeNode Title="B63B19/18 ###可滑动的" Target="frmContent" Href="../searchservlet?query=B63B19/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B19/18"/>
+        <TreeNode Title="B63B19/19 ###可折叠的[3]" Target="frmContent" Href="../searchservlet?query=B63B19/19&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B19/19">
+          <TreeNode Title="B63B19/197 ####用流体压力作用的[3]" Target="frmContent" Href="../searchservlet?query=B63B19/197&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B19/197"/>
+          <TreeNode Title="B63B19/203 ####用缆索或类似构件作用的[3]" Target="frmContent" Href="../searchservlet?query=B63B19/203&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B19/203"/>
+        </TreeNode>
+        <TreeNode Title="B63B19/21 ###卷收式的[3]" Target="frmContent" Href="../searchservlet?query=B63B19/21&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B19/21"/>
+      </TreeNode>
+      <TreeNode Title="B63B19/22 ##舱口梁" Target="frmContent" Href="../searchservlet?query=B63B19/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B19/22"/>
+      <TreeNode Title="B63B19/24 ##舱口紧固件，例如夹子" Target="frmContent" Href="../searchservlet?query=B63B19/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B19/24"/>
+      <TreeNode Title="B63B19/26 ##衬垫；排水装置" Target="frmContent" Href="../searchservlet?query=B63B19/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B19/26"/>
+      <TreeNode Title="B63B19/28 ##其他安全装置" Target="frmContent" Href="../searchservlet?query=B63B19/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B19/28"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="B63B21/00 绑系；移动、拖曳或推挤设备；锚定(动态锚定入B63H 25/00；海港、岸上、或其他固定的水上结构上的航运设备，例如用于停靠的设备入E02B)[4]" Target="frmContent" Href="../searchservlet?query=B63B21/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B21/00">
+    <TreeNode Title="B63B21/02 # 磁性系泊设备" Target="frmContent" Href="../searchservlet?query=B63B21/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B21/02"/>
+    <TreeNode Title="B63B21/04 # 链、缆索、锚索或类似构件的紧固或导向设备" Target="frmContent" Href="../searchservlet?query=B63B21/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B21/04">
+      <TreeNode Title="B63B21/06 ##系缆桩" Target="frmContent" Href="../searchservlet?query=B63B21/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B21/06"/>
+      <TreeNode Title="B63B21/08 ##夹紧装置(一般入F16B)" Target="frmContent" Href="../searchservlet?query=B63B21/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B21/08"/>
+      <TreeNode Title="B63B21/10 ##导缆装置" Target="frmContent" Href="../searchservlet?query=B63B21/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B21/10"/>
+      <TreeNode Title="B63B21/12 ##防鼠隔板" Target="frmContent" Href="../searchservlet?query=B63B21/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B21/12"/>
+      <TreeNode Title="B63B21/14 ##锚链孔；锚链筒；锚链孔关闭装置" Target="frmContent" Href="../searchservlet?query=B63B21/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B21/14"/>
+    </TreeNode>
+    <TreeNode Title="B63B21/16 # 用绞车的(绞车本身入B66D)" Target="frmContent" Href="../searchservlet?query=B63B21/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B21/16"/>
+    <TreeNode Title="B63B21/18 # 锚链制动器" Target="frmContent" Href="../searchservlet?query=B63B21/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B21/18"/>
+    <TreeNode Title="B63B21/20 # 链、缆索、锚索或类似构件，或其部件的配置(一般链、缆索或锚索见有关小类，例如F16G)" Target="frmContent" Href="../searchservlet?query=B63B21/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B21/20"/>
+    <TreeNode Title="B63B21/22 # 锚的操纵或系索" Target="frmContent" Href="../searchservlet?query=B63B21/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B21/22"/>
+    <TreeNode Title="B63B21/24 # 锚" Target="frmContent" Href="../searchservlet?query=B63B21/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B21/24">
+      <TreeNode Title="B63B21/26 ##固定在海底上" Target="frmContent" Href="../searchservlet?query=B63B21/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B21/26">
+        <TreeNode Title="B63B21/27 ###通过空吸作用[2]" Target="frmContent" Href="../searchservlet?query=B63B21/27&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B21/27"/>
+        <TreeNode Title="B63B21/28 ###用爆炸炸药打入" Target="frmContent" Href="../searchservlet?query=B63B21/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B21/28"/>
+        <TreeNode Title="B63B21/29 ###用重物，例如无爪重锚[2]" Target="frmContent" Href="../searchservlet?query=B63B21/29&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B21/29"/>
+      </TreeNode>
+      <TreeNode Title="B63B21/30 ##使用时是刚性的[3]" Target="frmContent" Href="../searchservlet?query=B63B21/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B21/30">
+        <TreeNode Title="B63B21/32 ###有一个锚爪的" Target="frmContent" Href="../searchservlet?query=B63B21/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B21/32"/>
+        <TreeNode Title="B63B21/34 ###有两个或多个锚爪的" Target="frmContent" Href="../searchservlet?query=B63B21/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B21/34">
+          <TreeNode Title="B63B21/36 ####可折叠的" Target="frmContent" Href="../searchservlet?query=B63B21/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B21/36"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="B63B21/38 ##使用时是转动的[3]" Target="frmContent" Href="../searchservlet?query=B63B21/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B21/38">
+        <TreeNode Title="B63B21/40 ###有一个锚爪的" Target="frmContent" Href="../searchservlet?query=B63B21/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B21/40">
+          <TreeNode Title="B63B21/42 ####犁铧型的" Target="frmContent" Href="../searchservlet?query=B63B21/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B21/42"/>
+        </TreeNode>
+        <TreeNode Title="B63B21/44 ###有两个或多个锚爪的" Target="frmContent" Href="../searchservlet?query=B63B21/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B21/44"/>
+      </TreeNode>
+      <TreeNode Title="B63B21/46 ##可变，例如滑动连接于链的[2]" Target="frmContent" Href="../searchservlet?query=B63B21/46&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B21/46"/>
+      <TreeNode Title="B63B21/48 ##海锚；浮锚" Target="frmContent" Href="../searchservlet?query=B63B21/48&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B21/48"/>
+    </TreeNode>
+    <TreeNode Title="B63B21/50 # 专用船只，例如浮动钻井平台或挖泥船或类似船只的锚定装置" Target="frmContent" Href="../searchservlet?query=B63B21/50&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B21/50"/>
+    <TreeNode Title="B63B21/54 # 船艇钩或类似构件" Target="frmContent" Href="../searchservlet?query=B63B21/54&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B21/54"/>
+    <TreeNode Title="B63B21/56 # 拖曳或推挤设备(拖轮入B63B 35/66)" Target="frmContent" Href="../searchservlet?query=B63B21/56&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B21/56">
+      <TreeNode Title="B63B21/58 ##用于拖曳的钩的配置；拖曳钩的安装(一般钩入F16B)" Target="frmContent" Href="../searchservlet?query=B63B21/58&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B21/58">
+        <TreeNode Title="B63B21/60 ###快速脱钩装置" Target="frmContent" Href="../searchservlet?query=B63B21/60&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B21/60"/>
+      </TreeNode>
+      <TreeNode Title="B63B21/62 ##以一条以上船只运动为特点的(趸船之间的刚性连接入B63B 35/38)" Target="frmContent" Href="../searchservlet?query=B63B21/62&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B21/62"/>
+      <TreeNode Title="B63B21/64 ##用车或人在沿航道的地面道路上前进的方式拖曳或推挤船只的设备(船艇钩或类似构件入B63B 21/54；岸边或地面设备本身，例如车辆，轨道，见有关类)[2]" Target="frmContent" Href="../searchservlet?query=B63B21/64&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B21/64"/>
+      <TreeNode Title="B63B21/66 ##专门适用于拖曳水下目标或船只的设备，例如牵引缆索的减阻装置(水下船只或目标的打捞入B63C 7/00；被拖曳的水下船只入B63G 8/42)[3]" Target="frmContent" Href="../searchservlet?query=B63B21/66&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B21/66"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="B63B22/00 浮标(指示水下物体位置的装置入B63C 7/26；救生浮子，例如救生圈入B63C 9/08)[4]" Target="frmContent" Href="../searchservlet?query=B63B22/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B22/00">
+    <TreeNode Title="B63B22/02 # 专门适用于系泊船只的[4]" Target="frmContent" Href="../searchservlet?query=B63B22/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B22/02"/>
+    <TreeNode Title="B63B22/04 # 锚定设备[4]" Target="frmContent" Href="../searchservlet?query=B63B22/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B22/04">
+      <TreeNode Title="B63B22/06 ##具有使浮标根据发射信号露出水面的装置[4]" Target="frmContent" Href="../searchservlet?query=B63B22/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B22/06"/>
+      <TreeNode Title="B63B22/08 ##将没入水中的浮标释放或推动至水面的装置，例如标志沉没物的位置[4]" Target="frmContent" Href="../searchservlet?query=B63B22/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B22/08">
+        <TreeNode Title="B63B22/10 ###可溶于水的或水解性的装置，即浮标是通过浮标—目标间的固定装置与水接触破坏而释放的[4]" Target="frmContent" Href="../searchservlet?query=B63B22/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B22/10"/>
+        <TreeNode Title="B63B22/12 ###浮标是靠浮标沉没时释放或产生的气体而露出水面的[4]" Target="frmContent" Href="../searchservlet?query=B63B22/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B22/12"/>
+        <TreeNode Title="B63B22/14 ###响应静水压力的浮标—目标固定装置[4]" Target="frmContent" Href="../searchservlet?query=B63B22/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B22/14"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="B63B22/16 # 专门适用于标志航道的(信号或照明装置入B63B 45/00)[4]" Target="frmContent" Href="../searchservlet?query=B63B22/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B22/16"/>
+    <TreeNode Title="B63B22/18 # 具有控制姿态或位置的装置，例如反作用面或系绳[4]" Target="frmContent" Href="../searchservlet?query=B63B22/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B22/18">
+      <TreeNode Title="B63B22/20 ##镇定装置[4]" Target="frmContent" Href="../searchservlet?query=B63B22/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B22/20"/>
+    </TreeNode>
+    <TreeNode Title="B63B22/22 # 可充气的，包括气体发生装置的(B63B 22/12优先；阀与可充气弹性体的连接入B60C 29/00)[4]" Target="frmContent" Href="../searchservlet?query=B63B22/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B22/22"/>
+    <TreeNode Title="B63B22/24 # 容器式的，即具有贮藏物质的装置[4]" Target="frmContent" Href="../searchservlet?query=B63B22/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B22/24">
+      <TreeNode Title="B63B22/26 ##具有选择性释放内存物质的装置的，例如回转接头(船舶与海上建筑之间装卸设备的配置，使用管道的入B63B 27/34；一般管接头或联管器入F16L)[4]" Target="frmContent" Href="../searchservlet?query=B63B22/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B22/26"/>
+      <TreeNode Title="B63B22/28 ##不用时沉入水中的[4]" Target="frmContent" Href="../searchservlet?query=B63B22/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B22/28"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="B63B23/00 救生艇或类似装置的操纵设备" Target="frmContent" Href="../searchservlet?query=B63B23/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B23/00">
+    <TreeNode Title="B63B23/02 # 吊艇杆，即用缆索或类似构件放艇的有吊臂的装置" Target="frmContent" Href="../searchservlet?query=B63B23/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B23/02">
+      <TreeNode Title="B63B23/04 ##有在基本水平的轴上转动的吊臂，例如重力型的" Target="frmContent" Href="../searchservlet?query=B63B23/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B23/04">
+        <TreeNode Title="B63B23/06 ###有实际枢轴的" Target="frmContent" Href="../searchservlet?query=B63B23/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B23/06">
+          <TreeNode Title="B63B23/08 ####吊臂是铰接的" Target="frmContent" Href="../searchservlet?query=B63B23/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B23/08"/>
+          <TreeNode Title="B63B23/10 ####用吊臂强制传动的" Target="frmContent" Href="../searchservlet?query=B63B23/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B23/10"/>
+        </TreeNode>
+        <TreeNode Title="B63B23/12 ###有模拟枢轴的" Target="frmContent" Href="../searchservlet?query=B63B23/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B23/12">
+          <TreeNode Title="B63B23/14 ####使用联动装置的" Target="frmContent" Href="../searchservlet?query=B63B23/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B23/14"/>
+          <TreeNode Title="B63B23/16 ####使用导轨的" Target="frmContent" Href="../searchservlet?query=B63B23/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B23/16"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="B63B23/18 ##吊臂在基本垂直的轴上转动的" Target="frmContent" Href="../searchservlet?query=B63B23/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B23/18">
+        <TreeNode Title="B63B23/20 ###具有单吊臂的吊艇杆(一般起重机入B66C)" Target="frmContent" Href="../searchservlet?query=B63B23/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B23/20">
+          <TreeNode Title="B63B23/22 ####其所用的吊具或类似构件" Target="frmContent" Href="../searchservlet?query=B63B23/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B23/22"/>
+        </TreeNode>
+        <TreeNode Title="B63B23/24 ###其所用的回转装置" Target="frmContent" Href="../searchservlet?query=B63B23/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B23/24"/>
+      </TreeNode>
+      <TreeNode Title="B63B23/26 ##救生艇放下前作直线平移的" Target="frmContent" Href="../searchservlet?query=B63B23/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B23/26"/>
+    </TreeNode>
+    <TreeNode Title="B63B23/28 # 用于投掷或释放救生艇使之自由下落的装置" Target="frmContent" Href="../searchservlet?query=B63B23/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B23/28"/>
+    <TreeNode Title="B63B23/30 # 用于引导救生艇至水面的装置" Target="frmContent" Href="../searchservlet?query=B63B23/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B23/30">
+      <TreeNode Title="B63B23/32 ##刚性导向装置，例如具有在水线附近转动的臂" Target="frmContent" Href="../searchservlet?query=B63B23/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B23/32"/>
+      <TreeNode Title="B63B23/34 ##用于由缆索放艇的导向装置，例如用于倾斜船舶的" Target="frmContent" Href="../searchservlet?query=B63B23/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B23/34">
+        <TreeNode Title="B63B23/36 ###防滑碰垫" Target="frmContent" Href="../searchservlet?query=B63B23/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B23/36"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="B63B23/38 # 运送救生艇至吊艇杆或类似设备的装置" Target="frmContent" Href="../searchservlet?query=B63B23/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B23/38"/>
+    <TreeNode Title="B63B23/40 # 升降装置的使用" Target="frmContent" Href="../searchservlet?query=B63B23/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B23/40">
+      <TreeNode Title="B63B23/42 ##有制动装置的" Target="frmContent" Href="../searchservlet?query=B63B23/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B23/42">
+        <TreeNode Title="B63B23/44 ###在船上的" Target="frmContent" Href="../searchservlet?query=B63B23/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B23/44"/>
+        <TreeNode Title="B63B23/46 ###在艇内的" Target="frmContent" Href="../searchservlet?query=B63B23/46&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B23/46"/>
+      </TreeNode>
+      <TreeNode Title="B63B23/48 ##使用绞车操纵救生艇的(绞车本身入B66D)" Target="frmContent" Href="../searchservlet?query=B63B23/48&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B23/48">
+        <TreeNode Title="B63B23/50 ###有张紧装置的" Target="frmContent" Href="../searchservlet?query=B63B23/50&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B23/50"/>
+        <TreeNode Title="B63B23/52 ###从艇上控制绞车的" Target="frmContent" Href="../searchservlet?query=B63B23/52&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B23/52"/>
+      </TreeNode>
+      <TreeNode Title="B63B23/54 ##有平衡装置的" Target="frmContent" Href="../searchservlet?query=B63B23/54&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B23/54">
+        <TreeNode Title="B63B23/56 ###从艇上控制的" Target="frmContent" Href="../searchservlet?query=B63B23/56&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B23/56"/>
+      </TreeNode>
+      <TreeNode Title="B63B23/58 ##有滑车接合或脱开装置的" Target="frmContent" Href="../searchservlet?query=B63B23/58&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B23/58"/>
+      <TreeNode Title="B63B23/60 ##救生艇与吊艇杆之间的附加连接件" Target="frmContent" Href="../searchservlet?query=B63B23/60&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B23/60"/>
+    </TreeNode>
+    <TreeNode Title="B63B23/62 # 救生艇在甲板上的固定或存放" Target="frmContent" Href="../searchservlet?query=B63B23/62&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B23/62">
+      <TreeNode Title="B63B23/64 ##系索；艇罩" Target="frmContent" Href="../searchservlet?query=B63B23/64&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B23/64"/>
+      <TreeNode Title="B63B23/66 ##艇架；止动垫块" Target="frmContent" Href="../searchservlet?query=B63B23/66&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B23/66">
+        <TreeNode Title="B63B23/68 ###用于存放救生艇的" Target="frmContent" Href="../searchservlet?query=B63B23/68&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B23/68"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="B63B23/70 # 响应情况的操纵设备，例如落放滑车一经与水接触就自行释放救生艇[4]" Target="frmContent" Href="../searchservlet?query=B63B23/70&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B23/70"/>
+  </TreeNode>
+  <TreeNode Title="B63B25/00 载荷处理装置，例如堆放，平衡；以其为特征的船只(货舱结构方面入B63B 11/00；舱口，升降舱口入B63B 19/12；除分配货物以外的平衡，例如利用压载入B63B 43/06，B63B 43/08)" Target="frmContent" Href="../searchservlet?query=B63B25/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B25/00">
+    <TreeNode Title="B63B25/02 # 用于散货的" Target="frmContent" Href="../searchservlet?query=B63B25/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B25/02">
+      <TreeNode Title="B63B25/04 ##固体" Target="frmContent" Href="../searchservlet?query=B63B25/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B25/04">
+        <TreeNode Title="B63B25/06 ###用于谷物的" Target="frmContent" Href="../searchservlet?query=B63B25/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B25/06"/>
+      </TreeNode>
+      <TreeNode Title="B63B25/08 ##流体" Target="frmContent" Href="../searchservlet?query=B63B25/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B25/08">
+        <TreeNode Title="B63B25/10 ###敞口的" Target="frmContent" Href="../searchservlet?query=B63B25/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B25/10"/>
+        <TreeNode Title="B63B25/12 ###封闭的" Target="frmContent" Href="../searchservlet?query=B63B25/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B25/12">
+          <TreeNode Title="B63B25/14 ####加压的" Target="frmContent" Href="../searchservlet?query=B63B25/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B25/14"/>
+          <TreeNode Title="B63B25/16 ####绝热的(隔离镶板入B63B 3/68；加热或冷却入B63J)" Target="frmContent" Href="../searchservlet?query=B63B25/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B25/16"/>
+        </TreeNode>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="B63B25/18 # 可卸甲板" Target="frmContent" Href="../searchservlet?query=B63B25/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B25/18">
+      <TreeNode Title="B63B25/20 ##用于机动车或类似货物" Target="frmContent" Href="../searchservlet?query=B63B25/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B25/20"/>
+    </TreeNode>
+    <TreeNode Title="B63B25/22 # 用于码垛堆积的物品" Target="frmContent" Href="../searchservlet?query=B63B25/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B25/22"/>
+    <TreeNode Title="B63B25/24 # 防止货物多途运动的装置，例如衬板" Target="frmContent" Href="../searchservlet?query=B63B25/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B25/24"/>
+    <TreeNode Title="B63B25/26 # 用于冷藏货物的" Target="frmContent" Href="../searchservlet?query=B63B25/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B25/26"/>
+    <TreeNode Title="B63B25/28 # 用于甲板装载的" Target="frmContent" Href="../searchservlet?query=B63B25/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B25/28"/>
+  </TreeNode>
+  <TreeNode Title="B63B27/00 船上货物装卸或乘客上下设备的配置(自卸驳船或平底船入B63B 35/30；岸上装卸设备入B65G 67/60；电梯、自动楼梯或移动通道本身入B66B；浮游起重机入B66C 23/52；装卸装置本身见有关小类，例如B65G，B66C，B67D)[3]" Target="frmContent" Href="../searchservlet?query=B63B27/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B27/00">
+    <TreeNode Title="B63B27/04 # 桅杆起重机的(桅杆起重机本身入B66C 23/60)[3]" Target="frmContent" Href="../searchservlet?query=B63B27/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B27/04"/>
+    <TreeNode Title="B63B27/08 # 绞车的(绞车本身入B66D)[3]" Target="frmContent" Href="../searchservlet?query=B63B27/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B27/08"/>
+    <TreeNode Title="B63B27/10 # 吊车的(吊车本身入B66C)[3]" Target="frmContent" Href="../searchservlet?query=B63B27/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B27/10">
+      <TreeNode Title="B63B27/12 ##龙门式的[3]" Target="frmContent" Href="../searchservlet?query=B63B27/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B27/12"/>
+    </TreeNode>
+    <TreeNode Title="B63B27/14 # 坡道的，舷梯或其他舷外梯的(舷内梯入B63B 29/20；装载坡道本身入B65G 69/28；梯子本身入E06C)[3]" Target="frmContent" Href="../searchservlet?query=B63B27/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B27/14"/>
+    <TreeNode Title="B63B27/16 # 升降机或起重机的[3]" Target="frmContent" Href="../searchservlet?query=B63B27/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B27/16"/>
+    <TreeNode Title="B63B27/18 # 索道的，例如有裤形救生圈的(索道本身入B65G)[3]" Target="frmContent" Href="../searchservlet?query=B63B27/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B27/18"/>
+    <TreeNode Title="B63B27/22 # 输送机的，如环形皮带输送机的或螺旋式输送机的(具有抛掷动作的装置的布置入B63B 27/26；滑槽的布置入B63B 27/28；输送机本身入B65G)[3，6]" Target="frmContent" Href="../searchservlet?query=B63B27/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B27/22"/>
+    <TreeNode Title="B63B27/24 # 管道的(管道本身入F17D)[3]" Target="frmContent" Href="../searchservlet?query=B63B27/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B27/24">
+      <TreeNode Title="B63B27/25 ##用于流态散料的[3]" Target="frmContent" Href="../searchservlet?query=B63B27/25&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B27/25"/>
+    </TreeNode>
+    <TreeNode Title="B63B27/26 # 具有抛掷动作的装置的(物品或固体材料的机械抛掷机本身入B65G 31/00)[3]" Target="frmContent" Href="../searchservlet?query=B63B27/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B27/26"/>
+    <TreeNode Title="B63B27/28 # 滑槽的(滑槽本身入B65G 11/00)[3]" Target="frmContent" Href="../searchservlet?query=B63B27/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B27/28"/>
+    <TreeNode Title="B63B27/30 # 用于在海上船舶之间或船舶与海上设备之间输送的[3]" Target="frmContent" Href="../searchservlet?query=B63B27/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B27/30">
+      <TreeNode Title="B63B27/32 ##用索道的[3]" Target="frmContent" Href="../searchservlet?query=B63B27/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B27/32"/>
+      <TreeNode Title="B63B27/34 ##用管道的[3]" Target="frmContent" Href="../searchservlet?query=B63B27/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B27/34"/>
+    </TreeNode>
+    <TreeNode Title="B63B27/36 # 用于漂浮货物的(便于收回漂浮物件的装置本身入B66C 13/02)[3]" Target="frmContent" Href="../searchservlet?query=B63B27/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B27/36"/>
+  </TreeNode>
+  <TreeNode Title="B63B29/00 其他类目不包含的船员或乘客居住舱" Target="frmContent" Href="../searchservlet?query=B63B29/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B29/00">
+    <TreeNode Title="B63B29/02 # 舱室或其他起居空间；其结构或布置" Target="frmContent" Href="../searchservlet?query=B63B29/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B29/02">
+      <TreeNode Title="B63B29/04 ##船用家具(可漂浮家具入B63C 9/30)" Target="frmContent" Href="../searchservlet?query=B63B29/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B29/04">
+        <TreeNode Title="B63B29/06 ###紧固在地板上" Target="frmContent" Href="../searchservlet?query=B63B29/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B29/06"/>
+        <TreeNode Title="B63B29/08 ###桌上防风暴装置，例如防滑落桌面框架" Target="frmContent" Href="../searchservlet?query=B63B29/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B29/08"/>
+        <TreeNode Title="B63B29/10 ###床铺；其所用梯子的安装" Target="frmContent" Href="../searchservlet?query=B63B29/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B29/10"/>
+        <TreeNode Title="B63B29/12 ###自动找平装置" Target="frmContent" Href="../searchservlet?query=B63B29/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B29/12"/>
+      </TreeNode>
+      <TreeNode Title="B63B29/14 ##盥洗室或类似的冲洗装置；船用洗涤或洗澡设备" Target="frmContent" Href="../searchservlet?query=B63B29/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B29/14"/>
+    </TreeNode>
+    <TreeNode Title="B63B29/16 # 污水排出装置" Target="frmContent" Href="../searchservlet?query=B63B29/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B29/16"/>
+    <TreeNode Title="B63B29/18 # 游泳池的布置或配备" Target="frmContent" Href="../searchservlet?query=B63B29/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B29/18"/>
+    <TreeNode Title="B63B29/20 # 梯子的布置或配备(床铺梯子的安装入B63B 29/10)" Target="frmContent" Href="../searchservlet?query=B63B29/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B29/20"/>
+    <TreeNode Title="B63B29/22 # 船用厨房[2]" Target="frmContent" Href="../searchservlet?query=B63B29/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B29/22"/>
+  </TreeNode>
+  <TreeNode Title="B63B35/00 适合于专门用途的船舶或类似的浮动结构(以装载布置为特征的船舶入B63B 25/00；消防船入A62C 29/00；潜艇、布雷艇、扫雷艇入B63G；在水中或水下使用的大型容器入B65D 88/78)[5]" Target="frmContent" Href="../searchservlet?query=B63B35/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B35/00">
+    <TreeNode Title="B63B35/03 # 敷设管道的船(水下敷设管道入F16L 1/12)[5]" Target="frmContent" Href="../searchservlet?query=B63B35/03&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B35/03"/>
+    <TreeNode Title="B63B35/04 # 电缆敷设船[5]" Target="frmContent" Href="../searchservlet?query=B63B35/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B35/04">
+      <TreeNode Title="B63B35/06 ##用于将缆端从船上移至岸上的[5]" Target="frmContent" Href="../searchservlet?query=B63B35/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B35/06"/>
+    </TreeNode>
+    <TreeNode Title="B63B35/08 # 破冰船[5]" Target="frmContent" Href="../searchservlet?query=B63B35/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B35/08">
+      <TreeNode Title="B63B35/10 ##具有强制纵摇或横摇的设备的[5]" Target="frmContent" Href="../searchservlet?query=B63B35/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B35/10"/>
+      <TreeNode Title="B63B35/12 ##具有破冰刀的[5]" Target="frmContent" Href="../searchservlet?query=B63B35/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B35/12"/>
+    </TreeNode>
+    <TreeNode Title="B63B35/14 # 渔船(捕鱼入A01K 69/00至A01K 97/00)[5]" Target="frmContent" Href="../searchservlet?query=B63B35/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B35/14">
+      <TreeNode Title="B63B35/16 ##拖网渔船[5]" Target="frmContent" Href="../searchservlet?query=B63B35/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B35/16">
+        <TreeNode Title="B63B35/18 ###适合于在船上拖网的[5]" Target="frmContent" Href="../searchservlet?query=B63B35/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B35/18"/>
+        <TreeNode Title="B63B35/20 ###适合于在船上绞网的[5]" Target="frmContent" Href="../searchservlet?query=B63B35/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B35/20"/>
+      </TreeNode>
+      <TreeNode Title="B63B35/22 ##捕鲸船；鲸鱼加工船[5]" Target="frmContent" Href="../searchservlet?query=B63B35/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B35/22"/>
+      <TreeNode Title="B63B35/24 ##鱼舱[5]" Target="frmContent" Href="../searchservlet?query=B63B35/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B35/24">
+        <TreeNode Title="B63B35/26 ###用于活鱼的[5]" Target="frmContent" Href="../searchservlet?query=B63B35/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B35/26"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="B63B35/28 # 驳船或平底船[5]" Target="frmContent" Href="../searchservlet?query=B63B35/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B35/28">
+      <TreeNode Title="B63B35/30 ##自卸的[5]" Target="frmContent" Href="../searchservlet?query=B63B35/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B35/30"/>
+    </TreeNode>
+    <TreeNode Title="B63B35/32 # 用于从水面收集污染物质的[5]" Target="frmContent" Href="../searchservlet?query=B63B35/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B35/32"/>
+    <TreeNode Title="B63B35/34 # 趸船(浮桥入E01D 15/14)[5]" Target="frmContent" Href="../searchservlet?query=B63B35/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B35/34">
+      <TreeNode Title="B63B35/36 ##可折叠的[5]" Target="frmContent" Href="../searchservlet?query=B63B35/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B35/36"/>
+      <TreeNode Title="B63B35/38 ##刚性连接的趸船[5]" Target="frmContent" Href="../searchservlet?query=B63B35/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B35/38"/>
+    </TreeNode>
+    <TreeNode Title="B63B35/40 # 用于运输海上船只的[5]" Target="frmContent" Href="../searchservlet?query=B63B35/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B35/40">
+      <TreeNode Title="B63B35/42 ##吃水可调的[5]" Target="frmContent" Href="../searchservlet?query=B63B35/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B35/42"/>
+    </TreeNode>
+    <TreeNode Title="B63B35/44 # 浮式建筑物，水上仓库，水上钻井平台或水上车间，例如载有油水分离设备的[5]" Target="frmContent" Href="../searchservlet?query=B63B35/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B35/44"/>
+    <TreeNode Title="B63B35/50 # 用于飞机的船或浮动结构(航空母舰入B63G 11/00；飞船船身，用于飞机的其他浮动装置入B64)[5]" Target="frmContent" Href="../searchservlet?query=B63B35/50&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B35/50">
+      <TreeNode Title="B63B35/52 ##用于从水面上回收飞机的网、船台或类似的设施[5]" Target="frmContent" Href="../searchservlet?query=B63B35/52&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B35/52"/>
+      <TreeNode Title="B63B35/53 ##浮动跑道[3，5]" Target="frmContent" Href="../searchservlet?query=B63B35/53&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B35/53"/>
+    </TreeNode>
+    <TreeNode Title="B63B35/54 # 渡船(链式渡船的推进入B63H)[5]" Target="frmContent" Href="../searchservlet?query=B63B35/54&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B35/54"/>
+    <TreeNode Title="B63B35/56 # 灯船(航道标志入B63B 51/00)[5]" Target="frmContent" Href="../searchservlet?query=B63B35/56&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B35/56"/>
+    <TreeNode Title="B63B35/58 # 筏，即自由漂浮的吃水浅的水上船只，没有或几乎没有干舷，并有支承使用者的平台或地板(救生艇、救生筏或类似物入B63C 9/02)[4，5]" Target="frmContent" Href="../searchservlet?query=B63B35/58&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B35/58">
+      <TreeNode Title="B63B35/607 ##具有低于浮力装置水准面的平台或地板，例如吊篮式的[4，5]" Target="frmContent" Href="../searchservlet?query=B63B35/607&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B35/607"/>
+      <TreeNode Title="B63B35/613 ##有管状漂浮构件的[4，5]" Target="frmContent" Href="../searchservlet?query=B63B35/613&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B35/613"/>
+      <TreeNode Title="B63B35/62 ##由圆木或类似物构成的[4，5]" Target="frmContent" Href="../searchservlet?query=B63B35/62&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B35/62"/>
+    </TreeNode>
+    <TreeNode Title="B63B35/66 # 拖轮(拖曳或推动设备入B63B 21/56)[5]" Target="frmContent" Href="../searchservlet?query=B63B35/66&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B35/66">
+      <TreeNode Title="B63B35/68 ##用于拖曳的[5]" Target="frmContent" Href="../searchservlet?query=B63B35/68&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B35/68"/>
+      <TreeNode Title="B63B35/70 ##用于推动的[5]" Target="frmContent" Href="../searchservlet?query=B63B35/70&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B35/70"/>
+    </TreeNode>
+    <TreeNode Title="B63B35/71 # 独木舟、兽皮舟或类似的船(可拆卸的，可折叠的，可充气的或类似的船入B63B 7/00)[4，5]" Target="frmContent" Href="../searchservlet?query=B63B35/71&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B35/71"/>
+    <TreeNode Title="B63B35/73 # 用于娱乐或运动的其他船舶或类似的浮动结构[5]" Target="frmContent" Href="../searchservlet?query=B63B35/73&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B35/73">
+      <TreeNode Title="B63B35/74 ##支承身体的带座位的浮力装置[4，5]" Target="frmContent" Href="../searchservlet?query=B63B35/74&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B35/74">
+        <TreeNode Title="B63B35/76 ###环形浮力构件[4，5]" Target="frmContent" Href="../searchservlet?query=B63B35/76&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B35/76"/>
+        <TreeNode Title="B63B35/78 ###U形浮力构件[4，5]" Target="frmContent" Href="../searchservlet?query=B63B35/78&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B35/78"/>
+      </TreeNode>
+      <TreeNode Title="B63B35/79 ##冲浪板，例如帆板[5]" Target="frmContent" Href="../searchservlet?query=B63B35/79&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B35/79"/>
+      <TreeNode Title="B63B35/81 ##滑水板；滑水橇[5]" Target="frmContent" Href="../searchservlet?query=B63B35/81&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B35/81"/>
+      <TreeNode Title="B63B35/83 ##水鞋；沼泽鞋[5]" Target="frmContent" Href="../searchservlet?query=B63B35/83&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B35/83"/>
+      <TreeNode Title="B63B35/85 ##其他类不包含的附件，如滑水杖[5]" Target="frmContent" Href="../searchservlet?query=B63B35/85&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B35/85"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="B63B38/00 其他类不包括的船舶或类似浮动结构(以容纳载荷的结构为特点的船入B63B 25/00；消防船入A62C 29/00；潜艇，布雷艇或扫雷艇入B63G；在水中或水下用的大型容器入B65D 88/78)[5]" Target="frmContent" Href="../searchservlet?query=B63B38/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B38/00"/>
+  <TreeNode Title="B63B39/00 减少纵摇，横摇或类似不希望有的船只运动的设备；指示船只姿态的设备" Target="frmContent" Href="../searchservlet?query=B63B39/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B39/00">
+    <TreeNode Title="B63B39/02 # 用移动压载物减少船只运动的[2]" Target="frmContent" Href="../searchservlet?query=B63B39/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B39/02">
+      <TreeNode Title="B63B39/03 ##通过转移液体[2]" Target="frmContent" Href="../searchservlet?query=B63B39/03&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B39/03"/>
+    </TreeNode>
+    <TreeNode Title="B63B39/04 # 直接使用陀螺仪减少船只运动的" Target="frmContent" Href="../searchservlet?query=B63B39/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B39/04"/>
+    <TreeNode Title="B63B39/06 # 使用水翼作用在周围水面减少船只运动的(舱底龙骨的结构方面入B63B 3/44)" Target="frmContent" Href="../searchservlet?query=B63B39/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B39/06"/>
+    <TreeNode Title="B63B39/08 # 使用辅助喷管或螺旋桨减少船只运动的(使用辅助喷管或螺旋桨转向或动态锚定的入B63H 25/00)" Target="frmContent" Href="../searchservlet?query=B63B39/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B39/08"/>
+    <TreeNode Title="B63B39/10 # 用衰减波浪减少船只运动的，例如通过将油倾倒在水上[2]" Target="frmContent" Href="../searchservlet?query=B63B39/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B39/10"/>
+    <TreeNode Title="B63B39/12 # 用于指示吃水或负载的" Target="frmContent" Href="../searchservlet?query=B63B39/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B39/12"/>
+    <TreeNode Title="B63B39/14 # 用于指示横摇的倾角或持续时间的" Target="frmContent" Href="../searchservlet?query=B63B39/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B39/14"/>
+  </TreeNode>
+  <TreeNode Title="B63B41/00 活动龙骨，例如中舷、侧舷(与船体构成整体的龙骨入B63B 3/38；稳定水翼入B63B 39/06)" Target="frmContent" Href="../searchservlet?query=B63B41/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B41/00"/>
+  <TreeNode Title="B63B43/00 其他类目不包含的改进船只安全性，例如破损控制(船上消防设备入A62C 3/10)" Target="frmContent" Href="../searchservlet?query=B63B43/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B43/00">
+    <TreeNode Title="B63B43/02 # 减少倾覆或沉没的危险(利用舱壁上的水密门入B63B 43/24)" Target="frmContent" Href="../searchservlet?query=B63B43/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B43/02">
+      <TreeNode Title="B63B43/04 ##通过改进稳定性" Target="frmContent" Href="../searchservlet?query=B63B43/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B43/04">
+        <TreeNode Title="B63B43/06 ###使用压载水柜(用于排空或压载的管道入B63B 13/00)" Target="frmContent" Href="../searchservlet?query=B63B43/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B43/06"/>
+        <TreeNode Title="B63B43/08 ###通过移动固体压载物" Target="frmContent" Href="../searchservlet?query=B63B43/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B43/08"/>
+      </TreeNode>
+      <TreeNode Title="B63B43/10 ##通过改进浮力" Target="frmContent" Href="../searchservlet?query=B63B43/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B43/10">
+        <TreeNode Title="B63B43/12 ###使用船内空气容器" Target="frmContent" Href="../searchservlet?query=B63B43/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B43/12"/>
+        <TreeNode Title="B63B43/14 ###使用舷外浮动构件" Target="frmContent" Href="../searchservlet?query=B63B43/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B43/14"/>
+        <TreeNode Title="B63B43/16 ###应急堵漏装置，例如堵漏毡" Target="frmContent" Href="../searchservlet?query=B63B43/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B43/16"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="B63B43/18 # 防碰撞；减少碰撞损伤" Target="frmContent" Href="../searchservlet?query=B63B43/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B43/18">
+      <TreeNode Title="B63B43/20 ##量隙规" Target="frmContent" Href="../searchservlet?query=B63B43/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B43/20"/>
+    </TreeNode>
+    <TreeNode Title="B63B43/24 # 舱壁水密门的布置" Target="frmContent" Href="../searchservlet?query=B63B43/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B43/24">
+      <TreeNode Title="B63B43/26 ##滑动式的" Target="frmContent" Href="../searchservlet?query=B63B43/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B43/26">
+        <TreeNode Title="B63B43/28 ###用机械驱动的" Target="frmContent" Href="../searchservlet?query=B63B43/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B43/28"/>
+        <TreeNode Title="B63B43/30 ###用流体驱动的" Target="frmContent" Href="../searchservlet?query=B63B43/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B43/30"/>
+      </TreeNode>
+      <TreeNode Title="B63B43/32 ##非滑动式的" Target="frmContent" Href="../searchservlet?query=B63B43/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B43/32"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="B63B45/00 信号或照明设备的布置或配置(一般车辆用的信号或照明装置的布置，其安装或支承或者其电路入B60Q；救生圈上、救生衣上或类似装置上的，以信号装置为特点的入B63C 9/20；照明装置或其系统入F21L，F21S)[4]" Target="frmContent" Href="../searchservlet?query=B63B45/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B45/00">
+    <TreeNode Title="B63B45/02 # 用于照明船前航道或周围其他区域的设备" Target="frmContent" Href="../searchservlet?query=B63B45/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B45/02"/>
+    <TreeNode Title="B63B45/04 # 用于指明船只或其部件的设备" Target="frmContent" Href="../searchservlet?query=B63B45/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B45/04"/>
+    <TreeNode Title="B63B45/06 # 用于照明船的甲板或内部的设备" Target="frmContent" Href="../searchservlet?query=B63B45/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B45/06"/>
+    <TreeNode Title="B63B45/08 # 音响设备" Target="frmContent" Href="../searchservlet?query=B63B45/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B45/08"/>
+  </TreeNode>
+  <TreeNode Title="B63B49/00 航海仪器或导航设备的布置(航海测量仪器入G01C；无线电或类似的导航系统入G01S)" Target="frmContent" Href="../searchservlet?query=B63B49/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B49/00"/>
+  <TreeNode Title="B63B51/00 不用浮标的航道标志(专门适用于标志航道的浮标入B63B 22/16)[4]" Target="frmContent" Href="../searchservlet?query=B63B51/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B51/00">
+    <TreeNode Title="B63B51/02 # 用锚定的灯船；利用灯塔[4]" Target="frmContent" Href="../searchservlet?query=B63B51/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B51/02"/>
+    <TreeNode Title="B63B51/04 # 用自由漂浮的闪光信号装置" Target="frmContent" Href="../searchservlet?query=B63B51/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B51/04"/>
+  </TreeNode>
+  <TreeNode Title="B63B57/00 专门适用于船只液舱的清洗设备(一般箱罐容器的清洗装置入B08B 9/08)" Target="frmContent" Href="../searchservlet?query=B63B57/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B57/00">
+    <TreeNode Title="B63B57/02 # 用冲洗" Target="frmContent" Href="../searchservlet?query=B63B57/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B57/02"/>
+    <TreeNode Title="B63B57/04 # 用通风" Target="frmContent" Href="../searchservlet?query=B63B57/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B57/04"/>
+  </TreeNode>
+  <TreeNode Title="B63B59/00 船只专用的船体防护装置；船只专用的清洗装置(一般清洗装置入B08B；一般车辆清洗装置，例如风挡刮水器入B60S；用阳极或阴极保护方法防止金属腐蚀入C23F 13/00)" Target="frmContent" Href="../searchservlet?query=B63B59/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B59/00">
+    <TreeNode Title="B63B59/02 # 与水上船只成一体的或专门适用于其上的护舷木；防擦列板(装在岸上、港口中或其他固定的水上结构的防碰装置入E02B 3/26)" Target="frmContent" Href="../searchservlet?query=B63B59/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B59/02"/>
+    <TreeNode Title="B63B59/04 # 防止船体污染的(防污染漆入C09D 5/16)[3]" Target="frmContent" Href="../searchservlet?query=B63B59/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B59/04"/>
+    <TreeNode Title="B63B59/06 # 船体清洗装置[3]" Target="frmContent" Href="../searchservlet?query=B63B59/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B59/06">
+      <TreeNode Title="B63B59/08 ##在水中时水下表面的清洗(B63B 59/10优先)[3]" Target="frmContent" Href="../searchservlet?query=B63B59/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B59/08"/>
+      <TreeNode Title="B63B59/10 ##利用沿表面行驶的空中吊运车或类似的装置[3]" Target="frmContent" Href="../searchservlet?query=B63B59/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63B59/10"/>
+    </TreeNode>
+  </TreeNode>
+</Root>

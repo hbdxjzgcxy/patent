@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="A23P1/00 食料成型或加工" Target="frmContent" Href="../searchservlet?query=A23P1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A23P1/00">
+    <TreeNode Title="A23P1/02 #成团；成粒；制片 [4]" Target="frmContent" Href="../searchservlet?query=A23P1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A23P1/02"/>
+    <TreeNode Title="A23P1/04 #颗粒，如食料添加剂的胶囊化(调味剂入A23L 1/22) [4]" Target="frmContent" Href="../searchservlet?query=A23P1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A23P1/04"/>
+    <TreeNode Title="A23P1/06 #制造散粒的或速溶的粉末(A23P 1/02，A23P 1/04优先) [4]" Target="frmContent" Href="../searchservlet?query=A23P1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A23P1/06"/>
+    <TreeNode Title="A23P1/08 #食料的涂层；以及涂料；成层的、多层的或装填的食料的制造 [4]" Target="frmContent" Href="../searchservlet?query=A23P1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A23P1/08"/>
+    <TreeNode Title="A23P1/10 #其他的成型方法，例如模制 [4]" Target="frmContent" Href="../searchservlet?query=A23P1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A23P1/10">
+      <TreeNode Title="A23P1/12 ##挤压成型 [4]" Target="frmContent" Href="../searchservlet?query=A23P1/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A23P1/12"/>
+      <TreeNode Title="A23P1/14 ##膨化或膨胀 (A23L 1/164， A23L 1/18， A23L 1/217 优先) [4]" Target="frmContent" Href="../searchservlet?query=A23P1/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A23P1/14"/>
+      <TreeNode Title="A23P1/16 ##发泡或搅打(奶油代用品入A23L 1/19) [4]A24B" Target="frmContent" Href="../searchservlet?query=A23P1/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A23P1/16"/>
+    </TreeNode>
+  </TreeNode>
+</Root>

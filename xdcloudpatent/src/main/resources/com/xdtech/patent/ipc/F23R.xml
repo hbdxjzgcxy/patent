@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="F23R3/00 应用液体或气体燃料的连续燃烧室[3]" Target="frmContent" Href="../searchservlet?query=F23R3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23R3/00">
+    <TreeNode Title="F23R3/02 #以空气流或燃气流结构为特征的(逆流燃烧室入F23R 3/54；旋流或涡流式燃烧室入F23R 3/58)[3]" Target="frmContent" Href="../searchservlet?query=F23R3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23R3/02">
+      <TreeNode Title="F23R3/04 ##空气进气口的配置[3]" Target="frmContent" Href="../searchservlet?query=F23R3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23R3/04">
+        <TreeNode Title="F23R3/06 ###小孔沿火焰管排列的[3]" Target="frmContent" Href="../searchservlet?query=F23R3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23R3/06">
+          <TreeNode Title="F23R3/08 ####在环状火焰管各段之间的，例如具有伸缩段的火管筒[3]" Target="frmContent" Href="../searchservlet?query=F23R3/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23R3/08"/>
+        </TreeNode>
+        <TreeNode Title="F23R3/10 ###用于一次空气的(F23R 3/06优先)[3]" Target="frmContent" Href="../searchservlet?query=F23R3/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23R3/10">
+          <TreeNode Title="F23R3/12 ####导致涡流的[3]" Target="frmContent" Href="../searchservlet?query=F23R3/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23R3/12">
+            <TreeNode Title="F23R3/14 #####靠采用涡流叶片的[3]" Target="frmContent" Href="../searchservlet?query=F23R3/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23R3/14"/>
+          </TreeNode>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="F23R3/16 ##在火焰管内或燃烧室内有影响空气流或燃气流装置的[3]" Target="frmContent" Href="../searchservlet?query=F23R3/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23R3/16">
+        <TreeNode Title="F23R3/18 ###火焰稳定装置，例如喷气推进装置后燃室的火焰稳定器[3]" Target="frmContent" Href="../searchservlet?query=F23R3/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23R3/18">
+          <TreeNode Title="F23R3/20 ####含有燃料喷射装置的[3]" Target="frmContent" Href="../searchservlet?query=F23R3/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23R3/20"/>
+          <TreeNode Title="F23R3/22 ####可动的，例如可移至非运行位置；可调节的，例如自动调节的[3]" Target="frmContent" Href="../searchservlet?query=F23R3/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23R3/22"/>
+          <TreeNode Title="F23R3/24 ####流体滤网式的[3]" Target="frmContent" Href="../searchservlet?query=F23R3/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23R3/24"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="F23R3/26 ##控制空气流的[3]" Target="frmContent" Href="../searchservlet?query=F23R3/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23R3/26"/>
+    </TreeNode>
+    <TreeNode Title="F23R3/28 #以燃料供给为特征的[3]" Target="frmContent" Href="../searchservlet?query=F23R3/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23R3/28">
+      <TreeNode Title="F23R3/30 ##包括燃料预蒸发装置的[3]" Target="frmContent" Href="../searchservlet?query=F23R3/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23R3/30">
+        <TreeNode Title="F23R3/32 ###管状的[3]" Target="frmContent" Href="../searchservlet?query=F23R3/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23R3/32"/>
+      </TreeNode>
+      <TreeNode Title="F23R3/34 ##送到不同燃烧区域的[3]" Target="frmContent" Href="../searchservlet?query=F23R3/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23R3/34"/>
+      <TreeNode Title="F23R3/36 ##供给不同燃料的[3]" Target="frmContent" Href="../searchservlet?query=F23R3/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23R3/36"/>
+      <TreeNode Title="F23R3/38 ##包括旋转燃料喷射装置的[3]" Target="frmContent" Href="../searchservlet?query=F23R3/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23R3/38"/>
+    </TreeNode>
+    <TreeNode Title="F23R3/40 #以使用催化装置为特征的[3]" Target="frmContent" Href="../searchservlet?query=F23R3/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23R3/40"/>
+    <TreeNode Title="F23R3/42 #以火焰管或燃烧室的排列或形式为特征的[3]" Target="frmContent" Href="../searchservlet?query=F23R3/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23R3/42">
+      <TreeNode Title="F23R3/44 ##有一个在管状套内的管状火焰管的燃烧室(逆流燃烧室入F23R 3/54)[3]" Target="frmContent" Href="../searchservlet?query=F23R3/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23R3/44"/>
+      <TreeNode Title="F23R3/46 ##火焰管在公共环状套内或各自分开的几个套内以环状排列的燃烧室[3]" Target="frmContent" Href="../searchservlet?query=F23R3/46&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23R3/46">
+        <TreeNode Title="F23R3/48 ###联焰管，例如过桥管[3]" Target="frmContent" Href="../searchservlet?query=F23R3/48&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23R3/48"/>
+      </TreeNode>
+      <TreeNode Title="F23R3/50 ##有一个在环状套内的环状火焰管的燃烧室(环形燃烧室入F23R 3/52)[3]" Target="frmContent" Href="../searchservlet?query=F23R3/50&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23R3/50"/>
+      <TreeNode Title="F23R3/52 ##环形燃烧室[3]" Target="frmContent" Href="../searchservlet?query=F23R3/52&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23R3/52"/>
+      <TreeNode Title="F23R3/54 ##逆流燃烧室[3]" Target="frmContent" Href="../searchservlet?query=F23R3/54&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23R3/54"/>
+      <TreeNode Title="F23R3/56 ##具有旋转火焰管的燃烧室[3]" Target="frmContent" Href="../searchservlet?query=F23R3/56&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23R3/56"/>
+      <TreeNode Title="F23R3/58 ##旋流或涡流式燃烧室[3]" Target="frmContent" Href="../searchservlet?query=F23R3/58&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23R3/58"/>
+      <TreeNode Title="F23R3/60 ##支承结构；连接或安装的装置[3]" Target="frmContent" Href="../searchservlet?query=F23R3/60&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23R3/60"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="F23R5/00 使用固体或粉末状燃料的连续燃烧室[3]" Target="frmContent" Href="../searchservlet?query=F23R5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23R5/00"/>
+  <TreeNode Title="F23R7/00 间歇或爆燃式燃烧室[3]" Target="frmContent" Href="../searchservlet?query=F23R7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23R7/00"/>
+</Root>

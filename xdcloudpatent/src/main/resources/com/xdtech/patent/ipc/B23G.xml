@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="B23G1/00 螺纹切制；专用自动机床" Target="frmContent" Href="../searchservlet?query=B23G1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B23G1/00">
+    <TreeNode Title="B23G1/02 #在外或内圆柱面或圆锥面上，例如在凹槽上(B23G 1/16，B23G 1/22，B23G 1/32，B23G 1/36优先)" Target="frmContent" Href="../searchservlet?query=B23G1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B23G1/02">
+      <TreeNode Title="B23G1/04 ##具有一个工作主轴的机床" Target="frmContent" Href="../searchservlet?query=B23G1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B23G1/04">
+        <TreeNode Title="B23G1/06 ###专门适用于制造锥形螺钉，如木螺钉" Target="frmContent" Href="../searchservlet?query=B23G1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B23G1/06"/>
+      </TreeNode>
+      <TreeNode Title="B23G1/08 ##具有多个工作主轴的机床" Target="frmContent" Href="../searchservlet?query=B23G1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B23G1/08">
+        <TreeNode Title="B23G1/10 ###专门适用于制造锥形螺钉，如木螺钉" Target="frmContent" Href="../searchservlet?query=B23G1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B23G1/10"/>
+      </TreeNode>
+      <TreeNode Title="B23G1/12 ##具有正齿轮或类似形状的齿状切刀，当工件旋转时它转动而加工出螺纹形状的机床" Target="frmContent" Href="../searchservlet?query=B23G1/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B23G1/12">
+        <TreeNode Title="B23G1/14 ###专门适用于制造锥形螺钉，如木螺钉" Target="frmContent" Href="../searchservlet?query=B23G1/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B23G1/14"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="B23G1/16 #在工件孔上用丝锥攻螺纹(B23G 1/26，B23G 1/32，B23G 1/36优先)" Target="frmContent" Href="../searchservlet?query=B23G1/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B23G1/16">
+      <TreeNode Title="B23G1/18 ##具有一个工作主轴的机床" Target="frmContent" Href="../searchservlet?query=B23G1/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B23G1/18"/>
+      <TreeNode Title="B23G1/20 ##具有多个工作主轴的机床" Target="frmContent" Href="../searchservlet?query=B23G1/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B23G1/20"/>
+    </TreeNode>
+    <TreeNode Title="B23G1/22 #专门适用于在管子上加工的机械" Target="frmContent" Href="../searchservlet?query=B23G1/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B23G1/22">
+      <TreeNode Title="B23G1/24 ##便携式" Target="frmContent" Href="../searchservlet?query=B23G1/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B23G1/24"/>
+    </TreeNode>
+    <TreeNode Title="B23G1/26 #手工操作的螺纹切制装置(切螺纹刀具本身的特征入B23G 5/00)" Target="frmContent" Href="../searchservlet?query=B23G1/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B23G1/26">
+      <TreeNode Title="B23G1/28 ##带有调节切螺纹刀具的装置" Target="frmContent" Href="../searchservlet?query=B23G1/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B23G1/28"/>
+      <TreeNode Title="B23G1/30 ##无调节螺纹刀具的装置，如扳牙架(丝锥扳手入B25B)" Target="frmContent" Href="../searchservlet?query=B23G1/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B23G1/30"/>
+    </TreeNode>
+    <TreeNode Title="B23G1/32 #用铣削" Target="frmContent" Href="../searchservlet?query=B23G1/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B23G1/32">
+      <TreeNode Title="B23G1/34 ##具有在闭合轨道上运动的切刀，此轨道对旋转工件的轴线为偏心的" Target="frmContent" Href="../searchservlet?query=B23G1/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B23G1/34"/>
+    </TreeNode>
+    <TreeNode Title="B23G1/36 #用磨削" Target="frmContent" Href="../searchservlet?query=B23G1/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B23G1/36">
+      <TreeNode Title="B23G1/38 ##具有按所需切制螺纹的螺距沿工件操纵的砂轮" Target="frmContent" Href="../searchservlet?query=B23G1/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B23G1/38"/>
+      <TreeNode Title="B23G1/40 ##具有沿工件径向操纵的砂轮" Target="frmContent" Href="../searchservlet?query=B23G1/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B23G1/40"/>
+    </TreeNode>
+    <TreeNode Title="B23G1/42 #无心磨削" Target="frmContent" Href="../searchservlet?query=B23G1/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B23G1/42"/>
+    <TreeNode Title="B23G1/44 #专门适用于螺纹切制机床或装置的附件或装置" Target="frmContent" Href="../searchservlet?query=B23G1/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B23G1/44">
+      <TreeNode Title="B23G1/46 ##夹持切螺纹刀具用的" Target="frmContent" Href="../searchservlet?query=B23G1/46&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B23G1/46"/>
+      <TreeNode Title="B23G1/48 ##引导切螺纹刀具用的" Target="frmContent" Href="../searchservlet?query=B23G1/48&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B23G1/48"/>
+      <TreeNode Title="B23G1/50 ##用于逐次加工的螺纹切制" Target="frmContent" Href="../searchservlet?query=B23G1/50&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B23G1/50"/>
+      <TreeNode Title="B23G1/52 ##用于在管子上加工的" Target="frmContent" Href="../searchservlet?query=B23G1/52&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B23G1/52"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="B23G3/00 使非专门用于螺纹切制的机床能进行螺纹切制的装置或附件，如使工作主轴反向的装置" Target="frmContent" Href="../searchservlet?query=B23G3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B23G3/00">
+    <TreeNode Title="B23G3/02 #用于切螺纹刀具的退刀或重新调整" Target="frmContent" Href="../searchservlet?query=B23G3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B23G3/02">
+      <TreeNode Title="B23G3/04 ##用于切螺纹刀具在预定加工位置的重复定位" Target="frmContent" Href="../searchservlet?query=B23G3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B23G3/04"/>
+    </TreeNode>
+    <TreeNode Title="B23G3/06 #用于补偿导程丝杠螺距误差" Target="frmContent" Href="../searchservlet?query=B23G3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B23G3/06"/>
+    <TreeNode Title="B23G3/08 #用样板，凸轮或类似物推进或控制切螺纹刀具或工件" Target="frmContent" Href="../searchservlet?query=B23G3/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B23G3/08">
+      <TreeNode Title="B23G3/10 ##用于可变螺距的螺纹切削" Target="frmContent" Href="../searchservlet?query=B23G3/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B23G3/10"/>
+      <TreeNode Title="B23G3/12 ##用于使用几个邻接排列的螺纹刀，如用螺纹梳刀" Target="frmContent" Href="../searchservlet?query=B23G3/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B23G3/12"/>
+      <TreeNode Title="B23G3/14 ##用于切制锥形螺纹" Target="frmContent" Href="../searchservlet?query=B23G3/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B23G3/14"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="B23G5/00 螺纹切制刀具；板牙头" Target="frmContent" Href="../searchservlet?query=B23G5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B23G5/00">
+    <TreeNode Title="B23G5/02 #无调节装置的" Target="frmContent" Href="../searchservlet?query=B23G5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B23G5/02">
+      <TreeNode Title="B23G5/04 ##板牙" Target="frmContent" Href="../searchservlet?query=B23G5/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B23G5/04"/>
+      <TreeNode Title="B23G5/06 ##丝锥(所用的夹头入B23B 31/00)" Target="frmContent" Href="../searchservlet?query=B23G5/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B23G5/06"/>
+    </TreeNode>
+    <TreeNode Title="B23G5/08 #有调节装置的" Target="frmContent" Href="../searchservlet?query=B23G5/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B23G5/08">
+      <TreeNode Title="B23G5/10 ##板牙头" Target="frmContent" Href="../searchservlet?query=B23G5/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B23G5/10">
+        <TreeNode Title="B23G5/12 ###自开的" Target="frmContent" Href="../searchservlet?query=B23G5/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B23G5/12"/>
+      </TreeNode>
+      <TreeNode Title="B23G5/14 ##攻丝头" Target="frmContent" Href="../searchservlet?query=B23G5/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B23G5/14">
+        <TreeNode Title="B23G5/16 ###自动松开的" Target="frmContent" Href="../searchservlet?query=B23G5/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B23G5/16"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="B23G5/18 #铣刀" Target="frmContent" Href="../searchservlet?query=B23G5/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B23G5/18"/>
+    <TreeNode Title="B23G5/20 #与其他刀具，如钻头结合在一起的" Target="frmContent" Href="../searchservlet?query=B23G5/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B23G5/20"/>
+  </TreeNode>
+  <TreeNode Title="B23G7/00 用形式和使用方法都类似于螺纹切制刀具的，但不切除任何材料的工具进行螺纹成形加工(非专门适用于特殊螺纹成形的机械或设备的特征入B23G 1/00)" Target="frmContent" Href="../searchservlet?query=B23G7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B23G7/00">
+    <TreeNode Title="B23G7/02 #为此用途的刀具" Target="frmContent" Href="../searchservlet?query=B23G7/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B23G7/02"/>
+  </TreeNode>
+  <TreeNode Title="B23G9/00 与螺纹切制相关的螺钉，螺栓头，螺母的其他加工，如螺钉头部或螺钉杆部的开槽，从螺钉头部或螺钉杆部上去毛刺；螺纹的精加工，如螺纹的抛光(通过加工金属板材，管材或型材，基本上不切除材料，来制造垫圈和螺帽入B21D 53/20，B21D 53/24)" Target="frmContent" Href="../searchservlet?query=B23G9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B23G9/00"/>
+  <TreeNode Title="B23G11/00 连接于，配置于或专门适用于切螺纹机械的进给或卸料机构(用于一般机床入B23Q)" Target="frmContent" Href="../searchservlet?query=B23G11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B23G11/00"/>
+</Root>

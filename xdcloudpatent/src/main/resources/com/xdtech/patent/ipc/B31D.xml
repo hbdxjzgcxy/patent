@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="B31D1/00 制作扁平物品的多道工序" Target="frmContent" Href="../searchservlet?query=B31D1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B31D1/00">
+    <TreeNode Title="B31D1/02 #标品为标签或签条(固定线的装置或工艺入D05)" Target="frmContent" Href="../searchservlet?query=B31D1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B31D1/02"/>
+    <TreeNode Title="B31D1/04 #物品为餐巾、手帕、毛巾、小垫布或类似物" Target="frmContent" Href="../searchservlet?query=B31D1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B31D1/04"/>
+    <TreeNode Title="B31D1/06 #物品是提手" Target="frmContent" Href="../searchservlet?query=B31D1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B31D1/06"/>
+  </TreeNode>
+  <TreeNode Title="B31D3/00 制作蜂窝结构的纸品，如绝缘板" Target="frmContent" Href="../searchservlet?query=B31D3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B31D3/00">
+    <TreeNode Title="B31D3/02 #蜂窝结构" Target="frmContent" Href="../searchservlet?query=B31D3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B31D3/02"/>
+    <TreeNode Title="B31D3/04 #蜂窝状包装纸品，如用于包装瓶子" Target="frmContent" Href="../searchservlet?query=B31D3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B31D3/04"/>
+  </TreeNode>
+  <TreeNode Title="B31D5/00 制作三维纸品的多道工序(花环的组装入A41G 1/00；制作容器入B31B；制作纸管入B31B，B31C)" Target="frmContent" Href="../searchservlet?query=B31D5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B31D5/00">
+    <TreeNode Title="B31D5/02 #包括压制" Target="frmContent" Href="../searchservlet?query=B31D5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B31D5/02"/>
+    <TreeNode Title="B31D5/04 #包括折叠或打褶，如中国灯笼" Target="frmContent" Href="../searchservlet?query=B31D5/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B31D5/04"/>
+  </TreeNode>
+  <TreeNode Title="B31D99/00 不包含在本小类其他组中的技术主题[8]" Target="frmContent" Href="../searchservlet?query=B31D99/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B31D99/00"/>
+</Root>

@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="G05D1/00 陆地、水上、空中或太空中的运载工具的位置、航道、高度或姿态的控制，例如自动驾驶仪(无线电导航系统或使用其他波的类似系统入G01S)" Target="frmContent" Href="../searchservlet?query=G05D1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05D1/00">
+    <TreeNode Title="G05D1/02 #二维的位置或航道控制[2]" Target="frmContent" Href="../searchservlet?query=G05D1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05D1/02">
+      <TreeNode Title="G05D1/03 ##使用近场传输系统，例如，感应环路式" Target="frmContent" Href="../searchservlet?query=G05D1/03&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05D1/03"/>
+    </TreeNode>
+    <TreeNode Title="G05D1/04 #高度或深度的控制" Target="frmContent" Href="../searchservlet?query=G05D1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05D1/04">
+      <TreeNode Title="G05D1/06 ##高度或深度的变化率" Target="frmContent" Href="../searchservlet?query=G05D1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05D1/06"/>
+    </TreeNode>
+    <TreeNode Title="G05D1/08 #姿态的控制，即摇摆、俯仰角或偏航角的控制" Target="frmContent" Href="../searchservlet?query=G05D1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05D1/08"/>
+    <TreeNode Title="G05D1/10 #三维的位置或航道的同时控制(G05D 1/12优先)" Target="frmContent" Href="../searchservlet?query=G05D1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05D1/10"/>
+    <TreeNode Title="G05D1/12 #寻找目标的控制" Target="frmContent" Href="../searchservlet?query=G05D1/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05D1/12"/>
+  </TreeNode>
+  <TreeNode Title="G05D3/00 位置或方向的控制(G05D 1/00优先；用于数字控制的入G05B 19/18)" Target="frmContent" Href="../searchservlet?query=G05D3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05D3/00">
+    <TreeNode Title="G05D3/10 #没使用反馈的[3]" Target="frmContent" Href="../searchservlet?query=G05D3/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05D3/10"/>
+    <TreeNode Title="G05D3/12 #使用反馈的[3]" Target="frmContent" Href="../searchservlet?query=G05D3/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05D3/12">
+      <TreeNode Title="G05D3/14 ##使用模拟比较装置的[3]" Target="frmContent" Href="../searchservlet?query=G05D3/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05D3/14">
+        <TreeNode Title="G05D3/16 ###其输出幅值只取一些离散数值的(G05D 3/18优先)[3]" Target="frmContent" Href="../searchservlet?query=G05D3/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05D3/16"/>
+        <TreeNode Title="G05D3/18 ###提供一系列脉冲的[3]" Target="frmContent" Href="../searchservlet?query=G05D3/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05D3/18"/>
+      </TreeNode>
+      <TreeNode Title="G05D3/20 ##使用数字比较装置的[3]" Target="frmContent" Href="../searchservlet?query=G05D3/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05D3/20"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="G05D5/00 材料尺寸的控制" Target="frmContent" Href="../searchservlet?query=G05D5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05D5/00">
+    <TreeNode Title="G05D5/02 #厚度的控制，例如，辗压材料的控制" Target="frmContent" Href="../searchservlet?query=G05D5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05D5/02">
+      <TreeNode Title="G05D5/03 ##以使用电装置为特征的" Target="frmContent" Href="../searchservlet?query=G05D5/03&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05D5/03"/>
+    </TreeNode>
+    <TreeNode Title="G05D5/04 #物品大小的控制，例如颗粒度的控制" Target="frmContent" Href="../searchservlet?query=G05D5/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05D5/04">
+      <TreeNode Title="G05D5/06 ##以使用电装置为特征的" Target="frmContent" Href="../searchservlet?query=G05D5/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05D5/06"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="G05D7/00 流量控制(液位控制入G05D 9/00；比率控制入G05D 11/00；称重装置入G01G)" Target="frmContent" Href="../searchservlet?query=G05D7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05D7/00">
+    <TreeNode Title="G05D7/01 #无辅助动力的" Target="frmContent" Href="../searchservlet?query=G05D7/01&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05D7/01"/>
+    <TreeNode Title="G05D7/03 #有非电辅助动力的[2]" Target="frmContent" Href="../searchservlet?query=G05D7/03&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05D7/03"/>
+    <TreeNode Title="G05D7/06 #以使用电装置为特征的" Target="frmContent" Href="../searchservlet?query=G05D7/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05D7/06"/>
+  </TreeNode>
+  <TreeNode Title="G05D9/00 液位控制，例如控制存储在容器中的材料量" Target="frmContent" Href="../searchservlet?query=G05D9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05D9/00">
+    <TreeNode Title="G05D9/02 #无辅助动力的" Target="frmContent" Href="../searchservlet?query=G05D9/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05D9/02"/>
+    <TreeNode Title="G05D9/04 #有非电辅助动力的[2]" Target="frmContent" Href="../searchservlet?query=G05D9/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05D9/04"/>
+    <TreeNode Title="G05D9/12 #以使用电装置为特征的" Target="frmContent" Href="../searchservlet?query=G05D9/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05D9/12"/>
+  </TreeNode>
+  <TreeNode Title="G05D11/00 比率控制(化学或物理—化学变量的控制(例如pH值)入G05D 21/00；湿度控制入G05D 22/00；黏度控制入G05D 24/00)[3]" Target="frmContent" Href="../searchservlet?query=G05D11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05D11/00">
+    <TreeNode Title="G05D11/02 #两个或两个以上流动的流体或液态材料的比率控制" Target="frmContent" Href="../searchservlet?query=G05D11/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05D11/02">
+      <TreeNode Title="G05D11/03 ##无辅助动力的" Target="frmContent" Href="../searchservlet?query=G05D11/03&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05D11/03"/>
+      <TreeNode Title="G05D11/035 ##有非电辅助动力的[2]" Target="frmContent" Href="../searchservlet?query=G05D11/035&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05D11/035">
+        <TreeNode Title="G05D11/04 ###通过测出单个成分的重量，例如，重力计量法" Target="frmContent" Href="../searchservlet?query=G05D11/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05D11/04"/>
+        <TreeNode Title="G05D11/06 ###测出混合物的密度，例如，使用气体比重计" Target="frmContent" Href="../searchservlet?query=G05D11/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05D11/06"/>
+        <TreeNode Title="G05D11/08 ###测出混合物的浓度，例如，通过测量pH值[3]" Target="frmContent" Href="../searchservlet?query=G05D11/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05D11/08">
+          <TreeNode Title="G05D11/10 ####通过测出非水流体的水分" Target="frmContent" Href="../searchservlet?query=G05D11/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05D11/10"/>
+        </TreeNode>
+        <TreeNode Title="G05D11/12 ###通过测出混合物的黏度" Target="frmContent" Href="../searchservlet?query=G05D11/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05D11/12"/>
+      </TreeNode>
+      <TreeNode Title="G05D11/13 ##以使用电装置为特征的" Target="frmContent" Href="../searchservlet?query=G05D11/13&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05D11/13"/>
+    </TreeNode>
+    <TreeNode Title="G05D11/16 #控制不同温度的流体的混合比率，例如，通过测出具有不同黏度的流体混合物的温度" Target="frmContent" Href="../searchservlet?query=G05D11/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05D11/16"/>
+  </TreeNode>
+  <TreeNode Title="G05D13/00 线速度的控制；角速度的控制；加速度或减速度的控制，例如，原动机的控制(电信接收机和发送机的同步入H04L 7/00)" Target="frmContent" Href="../searchservlet?query=G05D13/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05D13/00">
+    <TreeNode Title="G05D13/02 #零部件" Target="frmContent" Href="../searchservlet?query=G05D13/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05D13/02">
+      <TreeNode Title="G05D13/04 ##超过最高速度时，提供发动机紧急跳闸" Target="frmContent" Href="../searchservlet?query=G05D13/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05D13/04"/>
+      <TreeNode Title="G05D13/06 ##提供调速器不正常振动的阻尼" Target="frmContent" Href="../searchservlet?query=G05D13/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05D13/06"/>
+    </TreeNode>
+    <TreeNode Title="G05D13/08 #无辅助动力" Target="frmContent" Href="../searchservlet?query=G05D13/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05D13/08">
+      <TreeNode Title="G05D13/10 ##有飞轮配重的离心调速器" Target="frmContent" Href="../searchservlet?query=G05D13/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05D13/10">
+        <TreeNode Title="G05D13/12 ###零部件" Target="frmContent" Href="../searchservlet?query=G05D13/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05D13/12">
+          <TreeNode Title="G05D13/14 ####飞轮配重及其装配架；限位的调节设备，例如，临时性的" Target="frmContent" Href="../searchservlet?query=G05D13/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05D13/14"/>
+          <TreeNode Title="G05D13/16 ####升降器；它的传动齿轮；及其复原机构" Target="frmContent" Href="../searchservlet?query=G05D13/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05D13/16"/>
+        </TreeNode>
+        <TreeNode Title="G05D13/18 ###由直接作用于飞轮配重上的十字叉簧平衡的" Target="frmContent" Href="../searchservlet?query=G05D13/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05D13/18"/>
+        <TreeNode Title="G05D13/20 ###由作用于挂钩升降器上的十字叉簧平衡的" Target="frmContent" Href="../searchservlet?query=G05D13/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05D13/20"/>
+        <TreeNode Title="G05D13/22 ###由作用于挂钩升降器上的液体压力平衡的" Target="frmContent" Href="../searchservlet?query=G05D13/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05D13/22"/>
+        <TreeNode Title="G05D13/24 ###由两个或多个同时作用于挂钩升降器上的器械平衡的，例如，用弹簧力和流体压力，用弹簧力和电磁力" Target="frmContent" Href="../searchservlet?query=G05D13/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05D13/24"/>
+        <TreeNode Title="G05D13/26 ###具有对速度不均匀度调整的装置" Target="frmContent" Href="../searchservlet?query=G05D13/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05D13/26"/>
+        <TreeNode Title="G05D13/28 ###具有过速时执行掣动操作的装置" Target="frmContent" Href="../searchservlet?query=G05D13/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05D13/28"/>
+      </TreeNode>
+      <TreeNode Title="G05D13/30 ##以将轴速度变换为流体压力的流体特性为特征的调速器(将物理量的变化转变为流体压力变量的变换器入F15B 5/00)" Target="frmContent" Href="../searchservlet?query=G05D13/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05D13/30">
+        <TreeNode Title="G05D13/32 ###利用泵" Target="frmContent" Href="../searchservlet?query=G05D13/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05D13/32"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="G05D13/34 #有辅助非电动力的(流体压力变换器入F15B 3/00)[2]" Target="frmContent" Href="../searchservlet?query=G05D13/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05D13/34">
+      <TreeNode Title="G05D13/36 ##利用具有比例带的调节装置，即比例调节装置" Target="frmContent" Href="../searchservlet?query=G05D13/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05D13/36">
+        <TreeNode Title="G05D13/38 ###包含飞轮配重式的离心调速器" Target="frmContent" Href="../searchservlet?query=G05D13/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05D13/38"/>
+        <TreeNode Title="G05D13/40 ###包含泵式的离心调速器" Target="frmContent" Href="../searchservlet?query=G05D13/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05D13/40"/>
+        <TreeNode Title="G05D13/42 ###包含流量控制器型的流体调速器，即用飞轮配重控制流体流的宽度" Target="frmContent" Href="../searchservlet?query=G05D13/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05D13/42"/>
+        <TreeNode Title="G05D13/44 ###包含喷嘴式的流体调速器" Target="frmContent" Href="../searchservlet?query=G05D13/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05D13/44"/>
+      </TreeNode>
+      <TreeNode Title="G05D13/46 ##应用具有比例带和积分作用的调节装置，即P.I.调节装置" Target="frmContent" Href="../searchservlet?query=G05D13/46&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05D13/46">
+        <TreeNode Title="G05D13/48 ###包括弹性复原机构" Target="frmContent" Href="../searchservlet?query=G05D13/48&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05D13/48"/>
+        <TreeNode Title="G05D13/50 ###包含比例和积分调节装置相叠加的连接装置" Target="frmContent" Href="../searchservlet?query=G05D13/50&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05D13/50"/>
+      </TreeNode>
+      <TreeNode Title="G05D13/52 ##应用有比例带和微分作用的调节装置的，即P.D.调节装置" Target="frmContent" Href="../searchservlet?query=G05D13/52&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05D13/52">
+        <TreeNode Title="G05D13/54 ###包含运用加速效应的飞轮配重式离心调速器" Target="frmContent" Href="../searchservlet?query=G05D13/54&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05D13/54"/>
+        <TreeNode Title="G05D13/56 ###包含运用延时效应的复原机构" Target="frmContent" Href="../searchservlet?query=G05D13/56&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05D13/56"/>
+        <TreeNode Title="G05D13/58 ###包含速度和加速度调节设备的连接装置" Target="frmContent" Href="../searchservlet?query=G05D13/58&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05D13/58"/>
+      </TreeNode>
+      <TreeNode Title="G05D13/60 ##应用有比例带、微分及积分作用的调节设备，即P.I.D.调节装置" Target="frmContent" Href="../searchservlet?query=G05D13/60&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05D13/60"/>
+    </TreeNode>
+    <TreeNode Title="G05D13/62 #以使用电装置为特征的，例如，利用测速发电机，利用把电量转变为位移量的变换器" Target="frmContent" Href="../searchservlet?query=G05D13/62&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05D13/62"/>
+    <TreeNode Title="G05D13/64 #补偿差动齿轮啮合的电机之间的速度差或控制轴和被控制轴间的速度差" Target="frmContent" Href="../searchservlet?query=G05D13/64&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05D13/64"/>
+    <TreeNode Title="G05D13/66 #与依据除速度以外的一个变量的控制协同工作的调速器单元" Target="frmContent" Href="../searchservlet?query=G05D13/66&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05D13/66"/>
+  </TreeNode>
+  <TreeNode Title="G05D15/00 机械力或应力的控制；机械压力的控制" Target="frmContent" Href="../searchservlet?query=G05D15/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05D15/00">
+    <TreeNode Title="G05D15/01 #以使用电装置为特征的" Target="frmContent" Href="../searchservlet?query=G05D15/01&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05D15/01"/>
+  </TreeNode>
+  <TreeNode Title="G05D16/00 流体压力的控制" Target="frmContent" Href="../searchservlet?query=G05D16/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05D16/00">
+    <TreeNode Title="G05D16/02 #减少不稳定性影响的措施，例如，减少由于振动、摩擦、不正常温度、过负荷、不平衡的影响(减振器入F16F 7/00)" Target="frmContent" Href="../searchservlet?query=G05D16/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05D16/02"/>
+    <TreeNode Title="G05D16/04 #无辅助动力" Target="frmContent" Href="../searchservlet?query=G05D16/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05D16/04">
+      <TreeNode Title="G05D16/06 ##传感元件为屈服于压力的可挠性构件，例如，膜片、波纹管、膜盒" Target="frmContent" Href="../searchservlet?query=G05D16/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05D16/06">
+        <TreeNode Title="G05D16/08 ###液体压力的控制" Target="frmContent" Href="../searchservlet?query=G05D16/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05D16/08"/>
+      </TreeNode>
+      <TreeNode Title="G05D16/10 ##传感元件为活塞或柱塞" Target="frmContent" Href="../searchservlet?query=G05D16/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05D16/10"/>
+      <TreeNode Title="G05D16/12 ##传感元件为浮子" Target="frmContent" Href="../searchservlet?query=G05D16/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05D16/12"/>
+    </TreeNode>
+    <TreeNode Title="G05D16/14 #具有非电的辅助动力[2]" Target="frmContent" Href="../searchservlet?query=G05D16/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05D16/14">
+      <TreeNode Title="G05D16/16 ##从被控的流体得来的" Target="frmContent" Href="../searchservlet?query=G05D16/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05D16/16"/>
+      <TreeNode Title="G05D16/18 ##从外部动力源得来的" Target="frmContent" Href="../searchservlet?query=G05D16/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05D16/18"/>
+    </TreeNode>
+    <TreeNode Title="G05D16/20 #以使用电装置为特征的" Target="frmContent" Href="../searchservlet?query=G05D16/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05D16/20"/>
+  </TreeNode>
+  <TreeNode Title="G05D17/00 转矩的控制；机械动力的控制" Target="frmContent" Href="../searchservlet?query=G05D17/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05D17/00">
+    <TreeNode Title="G05D17/02 #以使用电装置为特征的" Target="frmContent" Href="../searchservlet?query=G05D17/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05D17/02"/>
+  </TreeNode>
+  <TreeNode Title="G05D19/00 机械振荡的控制，例如，振幅、频率、相位的控制" Target="frmContent" Href="../searchservlet?query=G05D19/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05D19/00">
+    <TreeNode Title="G05D19/02 #以使用电装置为特征的" Target="frmContent" Href="../searchservlet?query=G05D19/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05D19/02"/>
+  </TreeNode>
+  <TreeNode Title="G05D21/00 化学或物理—化学变量的控制，例如，pH值[3]" Target="frmContent" Href="../searchservlet?query=G05D21/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05D21/00">
+    <TreeNode Title="G05D21/02 #以使用电装置为特征的" Target="frmContent" Href="../searchservlet?query=G05D21/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05D21/02"/>
+  </TreeNode>
+  <TreeNode Title="G05D22/00 湿度的控制[2]" Target="frmContent" Href="../searchservlet?query=G05D22/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05D22/00">
+    <TreeNode Title="G05D22/02 #以使用电装置为特征的" Target="frmContent" Href="../searchservlet?query=G05D22/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05D22/02"/>
+  </TreeNode>
+  <TreeNode Title="G05D23/00 温度的控制(电热器械的自动开关装置入H05B 1/02)" Target="frmContent" Href="../searchservlet?query=G05D23/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05D23/00">
+    <TreeNode Title="G05D23/01 #无辅助动力的" Target="frmContent" Href="../searchservlet?query=G05D23/01&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05D23/01">
+      <TreeNode Title="G05D23/02 ##具有随温度变化而膨胀和收缩的传感元件(G05D 23/13优先)" Target="frmContent" Href="../searchservlet?query=G05D23/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05D23/02">
+        <TreeNode Title="G05D23/08 ###具有双金属元件的(专用于混合流体的阀门装置和流体管道入F16K 11/00)" Target="frmContent" Href="../searchservlet?query=G05D23/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05D23/08">
+          <TreeNode Title="G05D23/10 ####具有瞬间动作元件的(用于阀门的入F16K 31/56)" Target="frmContent" Href="../searchservlet?query=G05D23/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05D23/10"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="G05D23/12 ##具有响应于被限定的流体内压力或体积的变化的传感元件" Target="frmContent" Href="../searchservlet?query=G05D23/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05D23/12"/>
+      <TreeNode Title="G05D23/13 ##通过改变不同温度的两种流体的混合比率" Target="frmContent" Href="../searchservlet?query=G05D23/13&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05D23/13"/>
+    </TreeNode>
+    <TreeNode Title="G05D23/185 #具有辅助非电动力的[2]" Target="frmContent" Href="../searchservlet?query=G05D23/185&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05D23/185"/>
+    <TreeNode Title="G05D23/19 #以使用电装置为特征的" Target="frmContent" Href="../searchservlet?query=G05D23/19&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05D23/19">
+      <TreeNode Title="G05D23/20 ##具有随温度变化而产生电或磁性质变化的传感元件(G05D 23/13优先)" Target="frmContent" Href="../searchservlet?query=G05D23/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05D23/20">
+        <TreeNode Title="G05D23/22 ###传感元件为热电偶的" Target="frmContent" Href="../searchservlet?query=G05D23/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05D23/22"/>
+        <TreeNode Title="G05D23/24 ###传感元件具有随温度变化的电阻，例如热敏电阻" Target="frmContent" Href="../searchservlet?query=G05D23/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05D23/24"/>
+        <TreeNode Title="G05D23/26 ###传感元件具有随温度变化的导磁性" Target="frmContent" Href="../searchservlet?query=G05D23/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05D23/26"/>
+      </TreeNode>
+      <TreeNode Title="G05D23/27 ##具有响应于辐射的传感元件" Target="frmContent" Href="../searchservlet?query=G05D23/27&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05D23/27"/>
+      <TreeNode Title="G05D23/275 ##具有响应于温度变化而膨胀、收缩或熔化的传感元件" Target="frmContent" Href="../searchservlet?query=G05D23/275&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05D23/275"/>
+      <TreeNode Title="G05D23/30 ##具有影响传感元件的辅助加热装置的自动控制器，例如，预测温度变化的(一般的和不限于控制温度的自动控制器入G05B)" Target="frmContent" Href="../searchservlet?query=G05D23/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05D23/30">
+        <TreeNode Title="G05D23/32 ###具有调整辅助加热装置作用的装置，例如作为时间函数的" Target="frmContent" Href="../searchservlet?query=G05D23/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05D23/32"/>
+      </TreeNode>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="G05D24/00 黏度的控制" Target="frmContent" Href="../searchservlet?query=G05D24/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05D24/00">
+    <TreeNode Title="G05D24/02 #以使用电装置为特征的" Target="frmContent" Href="../searchservlet?query=G05D24/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05D24/02"/>
+  </TreeNode>
+  <TreeNode Title="G05D25/00 光的控制，例如，强度、颜色、相位的控制(用于光控制的照明装置机械操作部件入F21V；利用可移动或可变形的元件控制独立光源的光的光学器件或装置入G02B 26/00；通过改变光控制器件或装置的介质光学性质而改进光学效果的器件或装置，为此而专门适用的电路装置，通过电—磁波、电子或其他基本粒子控制光的入G02F 1/00)[4]" Target="frmContent" Href="../searchservlet?query=G05D25/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05D25/00">
+    <TreeNode Title="G05D25/02 #以使用电装置为特征的" Target="frmContent" Href="../searchservlet?query=G05D25/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05D25/02"/>
+  </TreeNode>
+  <TreeNode Title="G05D27/00 包含在G05D 1/00至G05D 25/00两个或更多个大组中的变量的同时控制" Target="frmContent" Href="../searchservlet?query=G05D27/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05D27/00">
+    <TreeNode Title="G05D27/02 #以使用电装置为特征的" Target="frmContent" Href="../searchservlet?query=G05D27/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05D27/02"/>
+  </TreeNode>
+  <TreeNode Title="G05D29/00 电和非电变量的同时控制" Target="frmContent" Href="../searchservlet?query=G05D29/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05D29/00"/>
+  <TreeNode Title="G05D99/00 本小类其他各组中不包含的技术主题[8]" Target="frmContent" Href="../searchservlet?query=G05D99/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05D99/00"/>
+</Root>

@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="H03M1/00 模/数转换；数/模转换(模拟值转换到差分调制或相反转换入H03M 3/00)[4]" Target="frmContent" Href="../searchservlet?query=H03M1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03M1/00">
+    <TreeNode Title="H03M1/02 #可逆模/数转换器[4]" Target="frmContent" Href="../searchservlet?query=H03M1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03M1/02"/>
+    <TreeNode Title="H03M1/04 #应用随机技术的[4]" Target="frmContent" Href="../searchservlet?query=H03M1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03M1/04"/>
+    <TreeNode Title="H03M1/06 #连续地补偿或防止物理参量的有害影响(周期地入H03M 1/10)[4]" Target="frmContent" Href="../searchservlet?query=H03M1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03M1/06">
+      <TreeNode Title="H03M1/08 ##噪声的有害影响[4]" Target="frmContent" Href="../searchservlet?query=H03M1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03M1/08"/>
+    </TreeNode>
+    <TreeNode Title="H03M1/10 #校正或测试[4]" Target="frmContent" Href="../searchservlet?query=H03M1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03M1/10"/>
+    <TreeNode Title="H03M1/12 #模/数转换器(H03M 1/02至H03M 1/10优先)[4]" Target="frmContent" Href="../searchservlet?query=H03M1/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03M1/12">
+      <TreeNode Title="H03M1/14 ##步进转换，每步包含相同的或不相同变换方法并发送多于一个比特[4]" Target="frmContent" Href="../searchservlet?query=H03M1/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03M1/14">
+        <TreeNode Title="H03M1/16 ###有比例因子修正的，即通过改变各步之间的放大倍数[4]" Target="frmContent" Href="../searchservlet?query=H03M1/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03M1/16"/>
+      </TreeNode>
+      <TreeNode Title="H03M1/18 ##用以修正转换器能处理的信号范围的自动控制，例如增益范围[4]" Target="frmContent" Href="../searchservlet?query=H03M1/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03M1/18"/>
+      <TreeNode Title="H03M1/20 ##用n比特系统来得到n+m比特以提高分辨率，如用高频脉动技术的方法[4]" Target="frmContent" Href="../searchservlet?query=H03M1/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03M1/20"/>
+      <TreeNode Title="H03M1/22 ##模式读出型的[4]" Target="frmContent" Href="../searchservlet?query=H03M1/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03M1/22">
+        <TreeNode Title="H03M1/24 ###应用相对可动的读出器、盘或带[4，6]" Target="frmContent" Href="../searchservlet?query=H03M1/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03M1/24">
+          <TreeNode Title="H03M1/26 ####带有加权编码的，即对一数字的加权与该数字在信息组或代码字内的位置有关，例如有一已知基数，加权值是此基数的若干次幂[4]" Target="frmContent" Href="../searchservlet?query=H03M1/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03M1/26"/>
+          <TreeNode Title="H03M1/28 ####带有非加权编码的[4]" Target="frmContent" Href="../searchservlet?query=H03M1/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03M1/28">
+            <TreeNode Title="H03M1/30 #####增量的[4]" Target="frmContent" Href="../searchservlet?query=H03M1/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03M1/30"/>
+          </TreeNode>
+        </TreeNode>
+        <TreeNode Title="H03M1/32 ###应用阴极射线管的[4]" Target="frmContent" Href="../searchservlet?query=H03M1/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03M1/32"/>
+      </TreeNode>
+      <TreeNode Title="H03M1/34 ##与参考值相比较的模拟值(H03M 1/48优先)[4]" Target="frmContent" Href="../searchservlet?query=H03M1/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03M1/34">
+        <TreeNode Title="H03M1/36 ###仅同时的，即并行式[4]" Target="frmContent" Href="../searchservlet?query=H03M1/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03M1/36"/>
+        <TreeNode Title="H03M1/38 ###仅顺序的，例如逐位逼近式(每步转换多于一个比特的入H03M 1/14)[4]" Target="frmContent" Href="../searchservlet?query=H03M1/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03M1/38">
+          <TreeNode Title="H03M1/40 ####再循环的[4]" Target="frmContent" Href="../searchservlet?query=H03M1/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03M1/40"/>
+          <TreeNode Title="H03M1/42 ####不改变模拟信号值在串联级中顺序比较[4]" Target="frmContent" Href="../searchservlet?query=H03M1/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03M1/42"/>
+          <TreeNode Title="H03M1/44 ####改变模拟信号值在串联级中顺序比较[4]" Target="frmContent" Href="../searchservlet?query=H03M1/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03M1/44"/>
+          <TreeNode Title="H03M1/46 ####具有为转换器提供参考值的数/模转换器的[4]" Target="frmContent" Href="../searchservlet?query=H03M1/46&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03M1/46"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="H03M1/48 ##伺服式转换器[4]" Target="frmContent" Href="../searchservlet?query=H03M1/48&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03M1/48"/>
+      <TreeNode Title="H03M1/50 ##带有中间变换到时间间隔的(H03M 1/64优先)[4]" Target="frmContent" Href="../searchservlet?query=H03M1/50&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03M1/50">
+        <TreeNode Title="H03M1/52 ###对输入信号进行积分并线性返回到参考电平[4]" Target="frmContent" Href="../searchservlet?query=H03M1/52&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03M1/52"/>
+        <TreeNode Title="H03M1/54 ###对输入信号进行采样和保持并线性返回到参考电平[4]" Target="frmContent" Href="../searchservlet?query=H03M1/54&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03M1/54"/>
+        <TreeNode Title="H03M1/56 ###与线性斜率作比较的输入信号[4]" Target="frmContent" Href="../searchservlet?query=H03M1/56&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03M1/56"/>
+        <TreeNode Title="H03M1/58 ###非线性转换[4]" Target="frmContent" Href="../searchservlet?query=H03M1/58&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03M1/58"/>
+      </TreeNode>
+      <TreeNode Title="H03M1/60 ##带有中间转换到脉冲频率的[4]" Target="frmContent" Href="../searchservlet?query=H03M1/60&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03M1/60">
+        <TreeNode Title="H03M1/62 ###非线性转换[4]" Target="frmContent" Href="../searchservlet?query=H03M1/62&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03M1/62"/>
+      </TreeNode>
+      <TreeNode Title="H03M1/64 ##带有中间转换到正弦信号的相位的[4]" Target="frmContent" Href="../searchservlet?query=H03M1/64&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03M1/64"/>
+    </TreeNode>
+    <TreeNode Title="H03M1/66 #数/模转换器(H03M 1/02至H03M 1/10优先)[4]" Target="frmContent" Href="../searchservlet?query=H03M1/66&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03M1/66">
+      <TreeNode Title="H03M1/68 ##带有不同灵敏度的转换的，即一种转换与较高有效数字比特有关，而另一种转换与较低有效数字比特有关[4]" Target="frmContent" Href="../searchservlet?query=H03M1/68&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03M1/68"/>
+      <TreeNode Title="H03M1/70 ##用于修正转换器范围的自动控制[4]" Target="frmContent" Href="../searchservlet?query=H03M1/70&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03M1/70"/>
+      <TreeNode Title="H03M1/72 ##在串联级中的顺序转换(H03M 1/68优先)[4]" Target="frmContent" Href="../searchservlet?query=H03M1/72&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03M1/72"/>
+      <TreeNode Title="H03M1/74 ##同时转换[4]" Target="frmContent" Href="../searchservlet?query=H03M1/74&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03M1/74">
+        <TreeNode Title="H03M1/76 ###应用开关树形网络的[4]" Target="frmContent" Href="../searchservlet?query=H03M1/76&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03M1/76"/>
+        <TreeNode Title="H03M1/78 ###应用梯形网络的[4]" Target="frmContent" Href="../searchservlet?query=H03M1/78&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03M1/78"/>
+        <TreeNode Title="H03M1/80 ###应用加权阻抗的(H03M 1/76优先)[4]" Target="frmContent" Href="../searchservlet?query=H03M1/80&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03M1/80"/>
+      </TreeNode>
+      <TreeNode Title="H03M1/82 ##带有中间转换到时间间隔的[4]" Target="frmContent" Href="../searchservlet?query=H03M1/82&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03M1/82">
+        <TreeNode Title="H03M1/84 ###非线性转换[4]" Target="frmContent" Href="../searchservlet?query=H03M1/84&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03M1/84"/>
+      </TreeNode>
+      <TreeNode Title="H03M1/86 ##带有中间转换到脉冲频率的[4]" Target="frmContent" Href="../searchservlet?query=H03M1/86&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03M1/86">
+        <TreeNode Title="H03M1/88 ###非线性转换[4]" Target="frmContent" Href="../searchservlet?query=H03M1/88&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03M1/88"/>
+      </TreeNode>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="H03M3/00 模拟值转换到差分调制或相反转换[4]" Target="frmContent" Href="../searchservlet?query=H03M3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03M3/00">
+    <TreeNode Title="H03M3/02 #增量调制，即单比特差分调制[4]" Target="frmContent" Href="../searchservlet?query=H03M3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03M3/02"/>
+    <TreeNode Title="H03M3/04 #几个比特差分调制[4]" Target="frmContent" Href="../searchservlet?query=H03M3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03M3/04"/>
+  </TreeNode>
+  <TreeNode Title="H03M5/00 单个数字表示形式的转换[4]" Target="frmContent" Href="../searchservlet?query=H03M5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03M5/00">
+    <TreeNode Title="H03M5/02 #转换到用脉冲表示或相反转换[4]" Target="frmContent" Href="../searchservlet?query=H03M5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03M5/02">
+      <TreeNode Title="H03M5/04 ##该脉冲有两个电平[4]" Target="frmContent" Href="../searchservlet?query=H03M5/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03M5/04">
+        <TreeNode Title="H03M5/06 ###代码表示法，例如跃变，用于只与该码元中的信息有关的已给定码元[4]" Target="frmContent" Href="../searchservlet?query=H03M5/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03M5/06">
+          <TreeNode Title="H03M5/08 ####用脉冲宽度表示的代码表示法[4]" Target="frmContent" Href="../searchservlet?query=H03M5/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03M5/08"/>
+          <TreeNode Title="H03M5/10 ####用脉冲频率表示的代码表示法[4]" Target="frmContent" Href="../searchservlet?query=H03M5/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03M5/10"/>
+          <TreeNode Title="H03M5/12 ####双相电平码，例如分相码，曼彻斯特码；双相空号或传号码，例如倍频码[4]" Target="frmContent" Href="../searchservlet?query=H03M5/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03M5/12"/>
+        </TreeNode>
+        <TreeNode Title="H03M5/14 ###代码表示法，例如跃变，用于与相邻一个或多个码元中的信息有关的给定码元，例如延迟调制码、双密度码[4]" Target="frmContent" Href="../searchservlet?query=H03M5/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03M5/14"/>
+      </TreeNode>
+      <TreeNode Title="H03M5/16 ##该脉冲有3个电平的[4]" Target="frmContent" Href="../searchservlet?query=H03M5/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03M5/16">
+        <TreeNode Title="H03M5/18 ###两个电平相对于第3个电平是对称的，即平衡双极三进制码[4]" Target="frmContent" Href="../searchservlet?query=H03M5/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03M5/18"/>
+      </TreeNode>
+      <TreeNode Title="H03M5/20 ##该脉冲有多于3个电平的[4]" Target="frmContent" Href="../searchservlet?query=H03M5/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03M5/20"/>
+    </TreeNode>
+    <TreeNode Title="H03M5/22 #转换到用正弦信号表示或相反转换[4]" Target="frmContent" Href="../searchservlet?query=H03M5/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03M5/22"/>
+  </TreeNode>
+  <TreeNode Title="H03M7/00 把用给定序列的数字或给定数目的数字来表示信息的码，转换到用不同序列的数字或不同数目的数字来表示相同信息的码[4]" Target="frmContent" Href="../searchservlet?query=H03M7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03M7/00">
+    <TreeNode Title="H03M7/02 #转换到加权代码或相反转换，即对一数字的加权与该数字在信息组或代码字中的位置有关[4]" Target="frmContent" Href="../searchservlet?query=H03M7/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03M7/02">
+      <TreeNode Title="H03M7/04 ##其基数是二[4]" Target="frmContent" Href="../searchservlet?query=H03M7/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03M7/04"/>
+      <TreeNode Title="H03M7/06 ##其基数是不同于二的正整数[4]" Target="frmContent" Href="../searchservlet?query=H03M7/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03M7/06">
+        <TreeNode Title="H03M7/08 ###其基数是十，即纯十进制码[4]" Target="frmContent" Href="../searchservlet?query=H03M7/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03M7/08"/>
+      </TreeNode>
+      <TreeNode Title="H03M7/10 ##其基数是负数[4]" Target="frmContent" Href="../searchservlet?query=H03M7/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03M7/10"/>
+      <TreeNode Title="H03M7/12 ##有两个基数，例如二~十进制码[4]" Target="frmContent" Href="../searchservlet?query=H03M7/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03M7/12"/>
+    </TreeNode>
+    <TreeNode Title="H03M7/14 #转换到非加权代码或相反转换[4]" Target="frmContent" Href="../searchservlet?query=H03M7/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03M7/14">
+      <TreeNode Title="H03M7/16 ##转换到单位距离码或相反转换，例如葛莱码、反射二进制码[4]" Target="frmContent" Href="../searchservlet?query=H03M7/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03M7/16"/>
+      <TreeNode Title="H03M7/18 ##转换到剩余码或相反转换[4]" Target="frmContent" Href="../searchservlet?query=H03M7/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03M7/18"/>
+      <TreeNode Title="H03M7/20 ##转换到m中取n码或相反的转换[4]" Target="frmContent" Href="../searchservlet?query=H03M7/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03M7/20">
+        <TreeNode Title="H03M7/22 ###转换到n中取1个码或相反转换[4]" Target="frmContent" Href="../searchservlet?query=H03M7/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03M7/22"/>
+      </TreeNode>
+      <TreeNode Title="H03M7/24 ##转换到浮点码或相反转换[4]" Target="frmContent" Href="../searchservlet?query=H03M7/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03M7/24"/>
+    </TreeNode>
+    <TreeNode Title="H03M7/26 #转换到随机码或相反转换[4]" Target="frmContent" Href="../searchservlet?query=H03M7/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03M7/26"/>
+    <TreeNode Title="H03M7/28 #可编程序结构，即代码转换器所包括的设备其算符是可变的，以调整转换程序[4]" Target="frmContent" Href="../searchservlet?query=H03M7/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03M7/28"/>
+    <TreeNode Title="H03M7/30 #压缩(用于减少冗余的语言分析—合成入G10L 19/00；用于图像通信的入H04N)；扩展；消除不需要的数据，例如减少冗余[4]" Target="frmContent" Href="../searchservlet?query=H03M7/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03M7/30">
+      <TreeNode Title="H03M7/32 ##转换到增量调制或相反转换，即单比特差分调制[4]" Target="frmContent" Href="../searchservlet?query=H03M7/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03M7/32">
+        <TreeNode Title="H03M7/34 ###自适应的[4]" Target="frmContent" Href="../searchservlet?query=H03M7/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03M7/34"/>
+      </TreeNode>
+      <TreeNode Title="H03M7/36 ##转换到数个比特的差分调制或相反转换，即用多于1个比特为逐次取样之间的差编码[4]" Target="frmContent" Href="../searchservlet?query=H03M7/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03M7/36">
+        <TreeNode Title="H03M7/38 ###自适应的[4]" Target="frmContent" Href="../searchservlet?query=H03M7/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03M7/38"/>
+      </TreeNode>
+      <TreeNode Title="H03M7/40 ##转换到可变长度编码或相反转换，例如Shannon-Fano编码、霍夫曼编码、莫尔斯编码[4]" Target="frmContent" Href="../searchservlet?query=H03M7/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03M7/40">
+        <TreeNode Title="H03M7/42 ###编码或译码过程中查表的，例如用只读存储器[4]" Target="frmContent" Href="../searchservlet?query=H03M7/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03M7/42"/>
+        <TreeNode Title="H03M7/44 ###消除不相关零[4]" Target="frmContent" Href="../searchservlet?query=H03M7/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03M7/44"/>
+      </TreeNode>
+      <TreeNode Title="H03M7/46 ##转换到游程编码或相反转换，即相同类的连续数字或数字组的数目用表征该类的1个码字和1个数字来表示[4]" Target="frmContent" Href="../searchservlet?query=H03M7/46&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03M7/46">
+        <TreeNode Title="H03M7/48 ###在代码转换过程中交替地应用其他代码的，例如只有当出现足够长游程的同类数字时才完成的游程序码[4]" Target="frmContent" Href="../searchservlet?query=H03M7/48&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03M7/48"/>
+      </TreeNode>
+      <TreeNode Title="H03M7/50 ##转换到非线性编码或相反转换，例如压缩扩展[4]" Target="frmContent" Href="../searchservlet?query=H03M7/50&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03M7/50"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="H03M9/00 并行/串行转换或相反转换(其中的信息逐级移动的数字存储器本身入G11C 19/00)[4]" Target="frmContent" Href="../searchservlet?query=H03M9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03M9/00"/>
+  <TreeNode Title="H03M11/00 与键盘或类似装置有关的编码，即操作键位置的编码(键盘开关设备，编码器的结构连接和键盘的结构连接入H01H 13/70，H03K 17/94)[4]" Target="frmContent" Href="../searchservlet?query=H03M11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03M11/00">
+    <TreeNode Title="H03M11/02 #零部件[5]" Target="frmContent" Href="../searchservlet?query=H03M11/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03M11/02">
+      <TreeNode Title="H03M11/04 ##多功能键的编码[5]" Target="frmContent" Href="../searchservlet?query=H03M11/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03M11/04">
+        <TreeNode Title="H03M11/06 ###通过用不同方式操作多功能键本身[5]" Target="frmContent" Href="../searchservlet?query=H03M11/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03M11/06">
+          <TreeNode Title="H03M11/08 ####通过操作选择组合的多功能键[5]" Target="frmContent" Href="../searchservlet?query=H03M11/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03M11/08"/>
+          <TreeNode Title="H03M11/10 ####采用根据检测击键的持续时间或压力的方法[5]" Target="frmContent" Href="../searchservlet?query=H03M11/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03M11/10"/>
+          <TreeNode Title="H03M11/12 ####通过对一个键有选择地连续数次操作，然后使用一个单独的输入键标志该连续数次操作结束[5]" Target="frmContent" Href="../searchservlet?query=H03M11/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03M11/12"/>
+        </TreeNode>
+        <TreeNode Title="H03M11/14 ###通过使用附加键(例如转换键)确定由多功能键执行的功能[5]" Target="frmContent" Href="../searchservlet?query=H03M11/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03M11/14">
+          <TreeNode Title="H03M11/16 ####在操作多功能键之后操作转换键[5]" Target="frmContent" Href="../searchservlet?query=H03M11/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03M11/16"/>
+          <TreeNode Title="H03M11/18 ####在操作多功能键之前操作转换键[5]" Target="frmContent" Href="../searchservlet?query=H03M11/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03M11/18"/>
+        </TreeNode>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="H03M11/20 #动态编码，即通过键扫描(H03M 11/26优先)[5]" Target="frmContent" Href="../searchservlet?query=H03M11/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03M11/20"/>
+    <TreeNode Title="H03M11/22 #静态编码(H03M 11/26优先)[5]" Target="frmContent" Href="../searchservlet?query=H03M11/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03M11/22">
+      <TreeNode Title="H03M11/24 ##使用模拟装置[5]" Target="frmContent" Href="../searchservlet?query=H03M11/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03M11/24"/>
+    </TreeNode>
+    <TreeNode Title="H03M11/26 #使用光电子装置[5]" Target="frmContent" Href="../searchservlet?query=H03M11/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03M11/26"/>
+  </TreeNode>
+  <TreeNode Title="H03M13/00 用于检错或纠错的编码、译码或代码转换；编码理论基本假设；编码约束；误差概率估计方法；信道模型；代码的模拟或测试(用于模/数，数/模或代码转换的检错或纠错入H03M 1/00至H03M 11/00；专用于数字计算机的入G06F 11/08，用于基于记录载体和传感器之间相对运动的信息存储器入G11B，例如G11B 20/18，用于静态存储器的入G11C)[4，7]" Target="frmContent" Href="../searchservlet?query=H03M13/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03M13/00">
+    <TreeNode Title="H03M13/01 #编码理论基本假设；编码约束；误差概率估算方法；信道模型；代码的模拟或测试[7]" Target="frmContent" Href="../searchservlet?query=H03M13/01&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03M13/01"/>
+    <TreeNode Title="H03M13/03 #用数据表示中的冗余项检错或前向纠错，即码字包含比源字更多的位数[7]" Target="frmContent" Href="../searchservlet?query=H03M13/03&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03M13/03">
+      <TreeNode Title="H03M13/05 ##应用分组码，即与预定信息位编号相连的预定校验位编号[7]" Target="frmContent" Href="../searchservlet?query=H03M13/05&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03M13/05">
+        <TreeNode Title="H03M13/07 ###算术码[7]" Target="frmContent" Href="../searchservlet?query=H03M13/07&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03M13/07"/>
+        <TreeNode Title="H03M13/09 ###只检错的，例如应用循环冗余校验(CRC)码或1位奇偶校验位的[7]" Target="frmContent" Href="../searchservlet?query=H03M13/09&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03M13/09"/>
+        <TreeNode Title="H03M13/11 ###应用多位奇偶校验位的[7]" Target="frmContent" Href="../searchservlet?query=H03M13/11&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03M13/11"/>
+        <TreeNode Title="H03M13/13 ###线形码[7]" Target="frmContent" Href="../searchservlet?query=H03M13/13&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03M13/13">
+          <TreeNode Title="H03M13/15 ####循环码，即码字的循环移位产生其他码字，例如由多项式、玻色—查德赫利—霍克昆海母(BCH)代码发生器定义的代码(H03M 13/17优先)[7]" Target="frmContent" Href="../searchservlet?query=H03M13/15&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03M13/15"/>
+          <TreeNode Title="H03M13/17 ####突发纠错，例如误差俘获、法尔码[7]" Target="frmContent" Href="../searchservlet?query=H03M13/17&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03M13/17"/>
+          <TreeNode Title="H03M13/19 ####未应用循环码(例如汉明码、扩充或广义汉明码)的特定特性的单个纠错[7]" Target="frmContent" Href="../searchservlet?query=H03M13/19&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03M13/19"/>
+        </TreeNode>
+        <TreeNode Title="H03M13/21 ###非线性码，例如带有检错或纠错的m位数据字到n位码字(mBnB)的变换[7]" Target="frmContent" Href="../searchservlet?query=H03M13/21&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03M13/21"/>
+      </TreeNode>
+      <TreeNode Title="H03M13/23 ##应用卷积码，例如单位存储器码[7]" Target="frmContent" Href="../searchservlet?query=H03M13/23&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03M13/23"/>
+    </TreeNode>
+    <TreeNode Title="H03M13/25 #由信号空间编码进行的检错或前向纠错，即在信号丛中增加冗余项，例如梳状编码调制(TCM)[7]" Target="frmContent" Href="../searchservlet?query=H03M13/25&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03M13/25"/>
+    <TreeNode Title="H03M13/27 #应用交错技术的[7]" Target="frmContent" Href="../searchservlet?query=H03M13/27&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03M13/27"/>
+    <TreeNode Title="H03M13/29 #合并两个或多个代码或代码结构，例如乘积码、广义乘积码、链接码、内层码和外层码[7]" Target="frmContent" Href="../searchservlet?query=H03M13/29&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03M13/29"/>
+    <TreeNode Title="H03M13/31 #合并用于检错或纠错并有效应用频谱的编码(没有检错或纠错的入H03M 5/14)[7]" Target="frmContent" Href="../searchservlet?query=H03M13/31&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03M13/31"/>
+    <TreeNode Title="H03M13/33 #基于误差编码或译码的同步[7]" Target="frmContent" Href="../searchservlet?query=H03M13/33&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03M13/33"/>
+    <TreeNode Title="H03M13/35 #不等或自适应防错，例如根据源信息的有效性提供不同级别的保护，或根据传输信道特性的变化自适应编码[7]" Target="frmContent" Href="../searchservlet?query=H03M13/35&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03M13/35"/>
+    <TreeNode Title="H03M13/37 #不专用于H03M 13/03至H03M 13/35各组中规定的特定类型的编码的译码方法或技术[7]" Target="frmContent" Href="../searchservlet?query=H03M13/37&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03M13/37">
+      <TreeNode Title="H03M13/39 ##序列估计，即采用原始代码重构的统计方法[7]" Target="frmContent" Href="../searchservlet?query=H03M13/39&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03M13/39">
+        <TreeNode Title="H03M13/41 ###应用维特比算法或维特比处理器的[7]" Target="frmContent" Href="../searchservlet?query=H03M13/41&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03M13/41"/>
+      </TreeNode>
+      <TreeNode Title="H03M13/43 ##择多逻辑或阈值译码[7]" Target="frmContent" Href="../searchservlet?query=H03M13/43&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03M13/43"/>
+      <TreeNode Title="H03M13/45 ##软译码，即应用符号可靠性信息的(H03M 13/41优先)[7]" Target="frmContent" Href="../searchservlet?query=H03M13/45&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03M13/45"/>
+    </TreeNode>
+    <TreeNode Title="H03M13/47 #不包含在H03M 13/01至H03M 13/37各组中的检错、前向纠错或防错[7]" Target="frmContent" Href="../searchservlet?query=H03M13/47&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03M13/47">
+      <TreeNode Title="H03M13/49 ##单向检错或纠错[7]" Target="frmContent" Href="../searchservlet?query=H03M13/49&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03M13/49"/>
+      <TreeNode Title="H03M13/51 ##定权码；m中取n码；伯格码[7]" Target="frmContent" Href="../searchservlet?query=H03M13/51&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03M13/51"/>
+      <TreeNode Title="H03M13/53 ##应用斐波纳契数列的代码[7]" Target="frmContent" Href="../searchservlet?query=H03M13/53&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03M13/53"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="H03M99/00 本小类其他组不包含的技术主题	[8]" Target="frmContent" Href="../searchservlet?query=H03M99/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03M99/00"/>
+</Root>

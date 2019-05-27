@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="B25G1/00 手柄结构" Target="frmContent" Href="../searchservlet?query=B25G1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B25G1/00">
+    <TreeNode Title="B25G1/01 #吸振装置(B25G 1/02优先)[5]" Target="frmContent" Href="../searchservlet?query=B25G1/01&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B25G1/01"/>
+    <TreeNode Title="B25G1/02 #挠性的(具有吸振装置的锤头入B25D 1/12)[5]" Target="frmContent" Href="../searchservlet?query=B25G1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B25G1/02"/>
+    <TreeNode Title="B25G1/04 #可伸缩的；可延伸的；分段的" Target="frmContent" Href="../searchservlet?query=B25G1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B25G1/04"/>
+    <TreeNode Title="B25G1/06 #位置可转换或可调整的" Target="frmContent" Href="../searchservlet?query=B25G1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B25G1/06"/>
+    <TreeNode Title="B25G1/08 #有储存工具元件的装置" Target="frmContent" Href="../searchservlet?query=B25G1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B25G1/08"/>
+    <TreeNode Title="B25G1/10 #以材料或形状为特征的(B25G 1/01，B25G 1/02优先)[5]" Target="frmContent" Href="../searchservlet?query=B25G1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B25G1/10">
+      <TreeNode Title="B25G1/12 ##电绝缘材料[2]" Target="frmContent" Href="../searchservlet?query=B25G1/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B25G1/12"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="B25G3/00 手柄连接到器械上" Target="frmContent" Href="../searchservlet?query=B25G3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B25G3/00">
+    <TreeNode Title="B25G3/02 #插口、柄脚或类似的固定件(B25G 3/34优先)" Target="frmContent" Href="../searchservlet?query=B25G3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B25G3/02">
+      <TreeNode Title="B25G3/04 ##有可卸下或分开的插口件(B25G 3/12优先)" Target="frmContent" Href="../searchservlet?query=B25G3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B25G3/04"/>
+      <TreeNode Title="B25G3/06 ##有复式插口，例如T型插口(B25G 3/12优先)" Target="frmContent" Href="../searchservlet?query=B25G3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B25G3/06"/>
+      <TreeNode Title="B25G3/08 ##有燕尾槽或其他槽(B25G 3/12优先)" Target="frmContent" Href="../searchservlet?query=B25G3/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B25G3/08"/>
+      <TreeNode Title="B25G3/10 ##有弹性的、有锥度的或其他自夹插口或柄脚(B25G 3/12优先)" Target="frmContent" Href="../searchservlet?query=B25G3/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B25G3/10"/>
+      <TreeNode Title="B25G3/12 ##锁紧或保险装置" Target="frmContent" Href="../searchservlet?query=B25G3/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B25G3/12">
+        <TreeNode Title="B25G3/14 ###包括倒钩或齿" Target="frmContent" Href="../searchservlet?query=B25G3/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B25G3/14"/>
+        <TreeNode Title="B25G3/16 ###包括卡口接合" Target="frmContent" Href="../searchservlet?query=B25G3/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B25G3/16"/>
+        <TreeNode Title="B25G3/18 ###包括卡子或棘爪" Target="frmContent" Href="../searchservlet?query=B25G3/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B25G3/18"/>
+        <TreeNode Title="B25G3/20 ###包括与手柄或插口同心作用的夹紧或收缩装置" Target="frmContent" Href="../searchservlet?query=B25G3/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B25G3/20">
+          <TreeNode Title="B25G3/22 ####夹头" Target="frmContent" Href="../searchservlet?query=B25G3/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B25G3/22"/>
+        </TreeNode>
+        <TreeNode Title="B25G3/24 ###包括手柄或插口横向作用的夹紧或收缩装置" Target="frmContent" Href="../searchservlet?query=B25G3/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B25G3/24"/>
+        <TreeNode Title="B25G3/26 ###包括横穿或插入插口的钉、螺钉、螺栓或销子" Target="frmContent" Href="../searchservlet?query=B25G3/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B25G3/26"/>
+        <TreeNode Title="B25G3/28 ###包括楔、键或类似的胀开装置" Target="frmContent" Href="../searchservlet?query=B25G3/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B25G3/28"/>
+        <TreeNode Title="B25G3/30 ###包括螺旋插口或柄脚" Target="frmContent" Href="../searchservlet?query=B25G3/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B25G3/30"/>
+        <TreeNode Title="B25G3/32 ###与轴向穿过手柄全长的柄脚、螺栓或其他零件结合或包括轴向穿过手柄全长的柄脚、螺栓或其他零件" Target="frmContent" Href="../searchservlet?query=B25G3/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B25G3/32"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="B25G3/34 #将手柄压在器械上；使用黏合剂或熔化的金属，如铸造、模压；用焊接或类似的方法" Target="frmContent" Href="../searchservlet?query=B25G3/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B25G3/34"/>
+    <TreeNode Title="B25G3/36 #搭接；铆接、螺纹连接或类似连接(插口、柄脚或类似的固定入B25G 3/02)" Target="frmContent" Href="../searchservlet?query=B25G3/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B25G3/36"/>
+    <TreeNode Title="B25G3/38 #铰链连接、枢轴连接、旋转连接或折叠连接" Target="frmContent" Href="../searchservlet?query=B25G3/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B25G3/38"/>
+  </TreeNode>
+</Root>

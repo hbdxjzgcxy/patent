@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="F02G1/00 热气变容式发动机装置(以装置中燃烧产生的工作气体为特点的变容式发动机装置入F02G 3/00)[3]" Target="frmContent" Href="../searchservlet?query=F02G1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02G1/00">
+    <TreeNode Title="F02G1/02 #开式循环" Target="frmContent" Href="../searchservlet?query=F02G1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02G1/02"/>
+    <TreeNode Title="F02G1/04 #闭式循环" Target="frmContent" Href="../searchservlet?query=F02G1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02G1/04">
+      <TreeNode Title="F02G1/043 ##依靠工作气体的膨胀和压缩推动的发动机，该工作气体在始终连通的一组可膨胀室之一里被加热和冷却，如斯特林循环发动机[3]" Target="frmContent" Href="../searchservlet?query=F02G1/043&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02G1/043">
+        <TreeNode Title="F02G1/044 ###具有至少两个工作元件，如活塞，提供功率输出[3]" Target="frmContent" Href="../searchservlet?query=F02G1/044&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02G1/044"/>
+        <TreeNode Title="F02G1/045 ###控制[3]" Target="frmContent" Href="../searchservlet?query=F02G1/045&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02G1/045">
+          <TreeNode Title="F02G1/047 ####改变加热或冷却[3]" Target="frmContent" Href="../searchservlet?query=F02G1/047&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02G1/047"/>
+          <TreeNode Title="F02G1/05 ####改变工作气体的流速和流量[3]" Target="frmContent" Href="../searchservlet?query=F02G1/05&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02G1/05"/>
+        </TreeNode>
+        <TreeNode Title="F02G1/053 ###部件或零件[3]" Target="frmContent" Href="../searchservlet?query=F02G1/053&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02G1/053">
+          <TreeNode Title="F02G1/055 ####加热器或冷却器[3]" Target="frmContent" Href="../searchservlet?query=F02G1/055&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02G1/055"/>
+          <TreeNode Title="F02G1/057 ####回热器[3]" Target="frmContent" Href="../searchservlet?query=F02G1/057&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02G1/057"/>
+        </TreeNode>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="F02G1/06 #控制" Target="frmContent" Href="../searchservlet?query=F02G1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02G1/06"/>
+  </TreeNode>
+  <TreeNode Title="F02G3/00 以装置中燃烧产生的工作气体为特点的变容式发动机装置[3]" Target="frmContent" Href="../searchservlet?query=F02G3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02G3/00">
+    <TreeNode Title="F02G3/02 #带有往复式活塞发动机" Target="frmContent" Href="../searchservlet?query=F02G3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02G3/02"/>
+  </TreeNode>
+  <TreeNode Title="F02G5/00 不包含在其他类目中的燃烧发动机余热的利用" Target="frmContent" Href="../searchservlet?query=F02G5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02G5/00">
+    <TreeNode Title="F02G5/02 #排出气体的余热的利用" Target="frmContent" Href="../searchservlet?query=F02G5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02G5/02">
+      <TreeNode Title="F02G5/04 ##与来自燃烧发动机的其他余热混合" Target="frmContent" Href="../searchservlet?query=F02G5/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02G5/04"/>
+    </TreeNode>
+  </TreeNode>
+</Root>

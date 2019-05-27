@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="A61M1/00 医用吸引或汲送器械；抽取、处理或转移体液的器械；引流系统(导管入A61M 25/00；专门适用于医用的连接管、耦合管、阀或分流元件入A61M 39/00；血液取样器械入A61B 5/15；牙医用除唾液器械入A61C 17/06；可植入血管内的滤器入A61F 2/01) [5]" Target="frmContent" Href="../searchservlet?query=A61M1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61M1/00">
+    <TreeNode Title="A61M1/02 #输血装置(用注射器注血液入A61M 5/14)" Target="frmContent" Href="../searchservlet?query=A61M1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61M1/02"/>
+    <TreeNode Title="A61M1/04 #气胸装置" Target="frmContent" Href="../searchservlet?query=A61M1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61M1/04"/>
+    <TreeNode Title="A61M1/06 #吸奶器" Target="frmContent" Href="../searchservlet?query=A61M1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61M1/06"/>
+    <TreeNode Title="A61M1/08 #玻璃吸杯" Target="frmContent" Href="../searchservlet?query=A61M1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61M1/08"/>
+    <TreeNode Title="A61M1/10 #血液泵；人造心脏；助血液循环的机械装置，例如内主动脉气囊泵(心脏刺激入A61H 31/00) [4]" Target="frmContent" Href="../searchservlet?query=A61M1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61M1/10">
+      <TreeNode Title="A61M1/12 ##可植入体内的 [4]" Target="frmContent" Href="../searchservlet?query=A61M1/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61M1/12"/>
+    </TreeNode>
+    <TreeNode Title="A61M1/14 #透析系统；人工肾脏；血液供氧器(以材料、制造工艺为特征的半透膜入B01D 71/00) [4]" Target="frmContent" Href="../searchservlet?query=A61M1/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61M1/14">
+      <TreeNode Title="A61M1/16 ##有膜的 [4]" Target="frmContent" Href="../searchservlet?query=A61M1/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61M1/16">
+        <TreeNode Title="A61M1/18 ###中空纤维状的 [4]" Target="frmContent" Href="../searchservlet?query=A61M1/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61M1/18"/>
+        <TreeNode Title="A61M1/20 ###管状的 [4]" Target="frmContent" Href="../searchservlet?query=A61M1/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61M1/20"/>
+        <TreeNode Title="A61M1/22 ###薄片状的 [4]" Target="frmContent" Href="../searchservlet?query=A61M1/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61M1/22">
+          <TreeNode Title="A61M1/24 ####螺旋形切口 [4]" Target="frmContent" Href="../searchservlet?query=A61M1/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61M1/24"/>
+        </TreeNode>
+        <TreeNode Title="A61M1/26 ###活动的 [4]" Target="frmContent" Href="../searchservlet?query=A61M1/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61M1/26"/>
+      </TreeNode>
+      <TreeNode Title="A61M1/28 ##腹膜透析 [4]" Target="frmContent" Href="../searchservlet?query=A61M1/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61M1/28"/>
+      <TreeNode Title="A61M1/30 ##单针透析 [4]" Target="frmContent" Href="../searchservlet?query=A61M1/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61M1/30"/>
+      <TreeNode Title="A61M1/32 ##无膜供氧器 [4]" Target="frmContent" Href="../searchservlet?query=A61M1/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61M1/32"/>
+    </TreeNode>
+    <TreeNode Title="A61M1/34 #通过膜滤出血液中物质，即滤血、渗滤 [4]" Target="frmContent" Href="../searchservlet?query=A61M1/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61M1/34"/>
+    <TreeNode Title="A61M1/36 #自然循环旁路系统中血液的其他处理，例如温度适应、辐照 [4]" Target="frmContent" Href="../searchservlet?query=A61M1/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61M1/36">
+      <TreeNode Title="A61M1/38 ##从供血者的血液中分离成分并将剩余部分送回体内 [5]" Target="frmContent" Href="../searchservlet?query=A61M1/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61M1/38"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="A61M3/00 医用注射器，例如灌肠器；冲洗器(A61M 5/00优先；活塞入A61M 5/315) [2]" Target="frmContent" Href="../searchservlet?query=A61M3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61M3/00">
+    <TreeNode Title="A61M3/02 #灌肠器；冲洗器 [5]" Target="frmContent" Href="../searchservlet?query=A61M3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61M3/02">
+      <TreeNode Title="A61M3/04 ##专门适用于子宫的 [5]" Target="frmContent" Href="../searchservlet?query=A61M3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61M3/04"/>
+      <TreeNode Title="A61M3/06 ##与坐浴盆组合的 [5]" Target="frmContent" Href="../searchservlet?query=A61M3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61M3/06"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="A61M5/00 以皮下注射、静脉注射或肌内注射的方式将介质引入体内的器械；其附件，例如充填或清洁器、靠手(专门适用于医用的联接管、耦合器、阀或分流元件入A61M 39/00；专门适用于医用或药用的容器入A61J 1/00) [5]" Target="frmContent" Href="../searchservlet?query=A61M5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61M5/00">
+    <TreeNode Title="A61M5/14 #输注器械，例如重力法输注；血液输注；其所用的附件[5]" Target="frmContent" Href="../searchservlet?query=A61M5/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61M5/14">
+      <TreeNode Title="A61M5/142 ##压力输注，例如用泵 [5]" Target="frmContent" Href="../searchservlet?query=A61M5/142&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61M5/142">
+        <TreeNode Title="A61M5/145 ###用压力储存器，例如用活塞装置 [5]" Target="frmContent" Href="../searchservlet?query=A61M5/145&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61M5/145">
+          <TreeNode Title="A61M5/148 ####可伸缩变形的(A61M 5/155优先) [5]" Target="frmContent" Href="../searchservlet?query=A61M5/148&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61M5/148">
+            <TreeNode Title="A61M5/152 #####用弹力储存器的收缩施压的 [5]" Target="frmContent" Href="../searchservlet?query=A61M5/152&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61M5/152"/>
+          </TreeNode>
+          <TreeNode Title="A61M5/155 ####用气体施压的 [5]" Target="frmContent" Href="../searchservlet?query=A61M5/155&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61M5/155"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="A61M5/158 ##针头 [5]" Target="frmContent" Href="../searchservlet?query=A61M5/158&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61M5/158"/>
+      <TreeNode Title="A61M5/162 ##针具，即通过穿刺储存器和管之间来联结的器械 [5]" Target="frmContent" Href="../searchservlet?query=A61M5/162&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61M5/162"/>
+      <TreeNode Title="A61M5/165 ##过滤配件，例如血液过滤器、输液用过滤器(A61M 1/34，A61M 5/36优先) [5]" Target="frmContent" Href="../searchservlet?query=A61M5/165&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61M5/165"/>
+      <TreeNode Title="A61M5/168 ##用于控制或计算身体的介质流量的装置，例如滴注计、计数器 [5]" Target="frmContent" Href="../searchservlet?query=A61M5/168&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61M5/168">
+        <TreeNode Title="A61M5/172 ###电的或电子的 [5]" Target="frmContent" Href="../searchservlet?query=A61M5/172&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61M5/172"/>
+        <TreeNode Title="A61M5/175 ###机械的 [5]" Target="frmContent" Href="../searchservlet?query=A61M5/175&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61M5/175"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="A61M5/178 #注射器 [5]" Target="frmContent" Href="../searchservlet?query=A61M5/178&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61M5/178">
+      <TreeNode Title="A61M5/19 ##有一个以上的腔的 [5]" Target="frmContent" Href="../searchservlet?query=A61M5/19&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61M5/19"/>
+      <TreeNode Title="A61M5/20 ##自动注射器，例如用自动推动的活塞杆的，用自动针头注射的，自动填充(A61M 5/142优先) [2，5]" Target="frmContent" Href="../searchservlet?query=A61M5/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61M5/20"/>
+      <TreeNode Title="A61M5/24 ##安瓿注射器，即与可替换安瓿或卡普耳联合使用的带针头的注射器，如自动的[5]" Target="frmContent" Href="../searchservlet?query=A61M5/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61M5/24"/>
+      <TreeNode Title="A61M5/28 ##注射器安瓿或卡普耳，即备有针头的安瓿或卡普耳 [5]" Target="frmContent" Href="../searchservlet?query=A61M5/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61M5/28"/>
+      <TreeNode Title="A61M5/30 ##借喷射作用，无针头的注射器，例如与可替换的安瓿或卡普耳一起使用的 [5]" Target="frmContent" Href="../searchservlet?query=A61M5/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61M5/30">
+        <TreeNode Title="A61M5/303 ###借喷射作用注入介质的注射器 [5]" Target="frmContent" Href="../searchservlet?query=A61M5/303&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61M5/303"/>
+        <TreeNode Title="A61M5/307 ###借液压作用注入介质的注射器 [5]" Target="frmContent" Href="../searchservlet?query=A61M5/307&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61M5/307"/>
+      </TreeNode>
+      <TreeNode Title="A61M5/31 ##附件 [2，5]" Target="frmContent" Href="../searchservlet?query=A61M5/31&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61M5/31">
+        <TreeNode Title="A61M5/315 ###活塞；活塞杆；活塞杆运动的导向，阻滞或限制；活塞杆上便于计量剂量的器具 [2，5]" Target="frmContent" Href="../searchservlet?query=A61M5/315&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61M5/315"/>
+        <TreeNode Title="A61M5/32 ###针头；针头与注射器或针座联接的元件(输注针头入A61M 5/158)；将针头插入人体中或固定在身体上的零件；保护针头的器具 [2，5]" Target="frmContent" Href="../searchservlet?query=A61M5/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61M5/32">
+          <TreeNode Title="A61M5/34 ####连接针头的结构 [2，5]" Target="frmContent" Href="../searchservlet?query=A61M5/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61M5/34"/>
+        </TreeNode>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="A61M5/36 #带有消除或避免将空气注射、输入人体的装置的[5]" Target="frmContent" Href="../searchservlet?query=A61M5/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61M5/36">
+      <TreeNode Title="A61M5/38 ##用亲水性或疏水性过滤器 [5]" Target="frmContent" Href="../searchservlet?query=A61M5/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61M5/38"/>
+      <TreeNode Title="A61M5/40 ##用低液面的浮阀截断来自储存器的介质流 [5]" Target="frmContent" Href="../searchservlet?query=A61M5/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61M5/40"/>
+    </TreeNode>
+    <TreeNode Title="A61M5/42 #带有降低皮肤敏感度，使皮肤耸起便于刺入或给穿刺点定位的装置 [5]" Target="frmContent" Href="../searchservlet?query=A61M5/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61M5/42"/>
+    <TreeNode Title="A61M5/44 #带有用来冷冻或加热设备或介质的装置 [5]" Target="frmContent" Href="../searchservlet?query=A61M5/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61M5/44"/>
+    <TreeNode Title="A61M5/46 #带有用来控制进入深度的装置 [5]" Target="frmContent" Href="../searchservlet?query=A61M5/46&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61M5/46"/>
+    <TreeNode Title="A61M5/48 #带有用来改变、调节、指示或限制注射压力的装置(A61M 5/142优先) [5]" Target="frmContent" Href="../searchservlet?query=A61M5/48&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61M5/48"/>
+    <TreeNode Title="A61M5/50 #带有避免重复使用或用来指示有缺陷、被使用过、被损坏或未消毒的装置 [5]" Target="frmContent" Href="../searchservlet?query=A61M5/50&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61M5/50"/>
+    <TreeNode Title="A61M5/52 #靠手 [5]" Target="frmContent" Href="../searchservlet?query=A61M5/52&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61M5/52"/>
+  </TreeNode>
+  <TreeNode Title="A61M9/00 半水栖性灌肠器" Target="frmContent" Href="../searchservlet?query=A61M9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61M9/00"/>
+  <TreeNode Title="A61M11/00 专门适用于治疗目的喷雾器或雾化器" Target="frmContent" Href="../searchservlet?query=A61M11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61M11/00">
+    <TreeNode Title="A61M11/02 #以施用于被喷或被雾化液体上的空气压力操作的" Target="frmContent" Href="../searchservlet?query=A61M11/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61M11/02"/>
+    <TreeNode Title="A61M11/04 #以所喷或所雾化液体之蒸气压力操作的" Target="frmContent" Href="../searchservlet?query=A61M11/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61M11/04"/>
+    <TreeNode Title="A61M11/06 #注射器型的" Target="frmContent" Href="../searchservlet?query=A61M11/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61M11/06">
+      <TreeNode Title="A61M11/08 ##注射器型的袖珍雾化器" Target="frmContent" Href="../searchservlet?query=A61M11/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61M11/08"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="A61M13/00 治疗或消毒用的吹入器" Target="frmContent" Href="../searchservlet?query=A61M13/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61M13/00"/>
+  <TreeNode Title="A61M15/00 吸入器" Target="frmContent" Href="../searchservlet?query=A61M15/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61M15/00">
+    <TreeNode Title="A61M15/02 #带活化或离子化气体的；臭氧吸入器" Target="frmContent" Href="../searchservlet?query=A61M15/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61M15/02"/>
+    <TreeNode Title="A61M15/06 #形似雪茄、卷烟或烟斗状的吸入器" Target="frmContent" Href="../searchservlet?query=A61M15/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61M15/06"/>
+    <TreeNode Title="A61M15/08 #插入鼻腔内的吸入器具" Target="frmContent" Href="../searchservlet?query=A61M15/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61M15/08"/>
+  </TreeNode>
+  <TreeNode Title="A61M16/00 以气体处理法影响病人呼吸系统的器械，如口对口呼吸；气管用插管(以机械的、气动的或电学的方法刺激呼吸运动，带气体呼吸装置的人工呼吸器入A61H 31/00) [4]" Target="frmContent" Href="../searchservlet?query=A61M16/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61M16/00">
+    <TreeNode Title="A61M16/01 #专用于麻醉的 [4]" Target="frmContent" Href="../searchservlet?query=A61M16/01&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61M16/01"/>
+    <TreeNode Title="A61M16/04 #气管用插管[4]" Target="frmContent" Href="../searchservlet?query=A61M16/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61M16/04"/>
+    <TreeNode Title="A61M16/06 #呼吸或麻醉面具 [4]" Target="frmContent" Href="../searchservlet?query=A61M16/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61M16/06"/>
+    <TreeNode Title="A61M16/08 #风箱；连接管 [4]" Target="frmContent" Href="../searchservlet?query=A61M16/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61M16/08"/>
+    <TreeNode Title="A61M16/10 #呼吸气体或蒸气的制备 [4]" Target="frmContent" Href="../searchservlet?query=A61M16/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61M16/10">
+      <TreeNode Title="A61M16/12 ##以不同气体混合的 [4]" Target="frmContent" Href="../searchservlet?query=A61M16/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61M16/12"/>
+      <TreeNode Title="A61M16/14 ##以不同流体混合，其中之一为液相的 [4]" Target="frmContent" Href="../searchservlet?query=A61M16/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61M16/14">
+        <TreeNode Title="A61M16/16 ###湿润呼吸用空气的装置 [4]" Target="frmContent" Href="../searchservlet?query=A61M16/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61M16/16"/>
+        <TreeNode Title="A61M16/18 ###麻醉剂的气化装置 [4]" Target="frmContent" Href="../searchservlet?query=A61M16/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61M16/18"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="A61M16/20 #医用呼吸装置中专用的阀门 [4]" Target="frmContent" Href="../searchservlet?query=A61M16/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61M16/20"/>
+    <TreeNode Title="A61M16/22 #二氧化碳吸收装置[4]" Target="frmContent" Href="../searchservlet?query=A61M16/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61M16/22"/>
+  </TreeNode>
+  <TreeNode Title="A61M19/00 局部麻醉的器具；降低体温的器具(A61M 5/42优先) [2]" Target="frmContent" Href="../searchservlet?query=A61M19/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61M19/00"/>
+  <TreeNode Title="A61M21/00 引起知觉状态改变的其他装置或方法；用机械、光学或声学方法产生或终止睡眠的装置，如用于催眠的(催眠床入A61G 7/043)" Target="frmContent" Href="../searchservlet?query=A61M21/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61M21/00">
+    <TreeNode Title="A61M21/02 #导致睡眠或放松的，例如直接神经刺激、催眠、痛觉丧失(用按摩的入A61H；电疗入A61N，例如用交变电或间歇电流产生麻醉的入A61N 1/34) [5]" Target="frmContent" Href="../searchservlet?query=A61M21/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61M21/02"/>
+  </TreeNode>
+  <TreeNode Title="A61M23/00 实心探针；探条" Target="frmContent" Href="../searchservlet?query=A61M23/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61M23/00"/>
+  <TreeNode Title="A61M25/00 导管；空心探针(用于测量或检测的入A61B)" Target="frmContent" Href="../searchservlet?query=A61M25/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61M25/00">
+    <TreeNode Title="A61M25/01 #引入、导向、推进、定位或支持导管(A61M 25/10优先) [5]" Target="frmContent" Href="../searchservlet?query=A61M25/01&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61M25/01">
+      <TreeNode Title="A61M25/02 ##支持装置，如放在身体上的 [5]" Target="frmContent" Href="../searchservlet?query=A61M25/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61M25/02">
+        <TreeNode Title="A61M25/04 ###在体内，如可扩张的 [5]" Target="frmContent" Href="../searchservlet?query=A61M25/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61M25/04"/>
+      </TreeNode>
+      <TreeNode Title="A61M25/06 ##穿刺身体的导引针头或类似器械(A61M 25/088优先) [5，6]" Target="frmContent" Href="../searchservlet?query=A61M25/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61M25/06"/>
+      <TreeNode Title="A61M25/08 ##推进装置，如自动推进的 [5]" Target="frmContent" Href="../searchservlet?query=A61M25/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61M25/08">
+        <TreeNode Title="A61M25/082 ###自动推进装置(A61M 25/085优先) [6]" Target="frmContent" Href="../searchservlet?query=A61M25/082&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61M25/082"/>
+        <TreeNode Title="A61M25/085 ###流体推进 [6]" Target="frmContent" Href="../searchservlet?query=A61M25/085&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61M25/085"/>
+      </TreeNode>
+      <TreeNode Title="A61M25/088 ##使用额外的导管，例如到达较难接近的部位 [6]" Target="frmContent" Href="../searchservlet?query=A61M25/088&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61M25/088"/>
+      <TreeNode Title="A61M25/09 ##导引线 [6]" Target="frmContent" Href="../searchservlet?query=A61M25/09&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61M25/09"/>
+      <TreeNode Title="A61M25/092 ##远端定位的遥控 [6]" Target="frmContent" Href="../searchservlet?query=A61M25/092&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61M25/092"/>
+      <TreeNode Title="A61M25/095 ##能够检测导管在体内位置的装置，例如放射线照相 [6]" Target="frmContent" Href="../searchservlet?query=A61M25/095&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61M25/095">
+        <TreeNode Title="A61M25/098 ###利用不透放射线的标识器 [6]" Target="frmContent" Href="../searchservlet?query=A61M25/098&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61M25/098"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="A61M25/10 #气球形导管 [5]" Target="frmContent" Href="../searchservlet?query=A61M25/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61M25/10">
+      <TreeNode Title="A61M25/12 ##用于当导管定位时剥离气球的装置 [6]" Target="frmContent" Href="../searchservlet?query=A61M25/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61M25/12"/>
+    </TreeNode>
+    <TreeNode Title="A61M25/14 #流体流动通道的设置或形状，例如多个流体通道(A61M 25/10优先) [6]" Target="frmContent" Href="../searchservlet?query=A61M25/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61M25/14"/>
+    <TreeNode Title="A61M25/16 #未列入其他类目的制作或组装 [6]" Target="frmContent" Href="../searchservlet?query=A61M25/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61M25/16">
+      <TreeNode Title="A61M25/18 ##导管或探针与针座的联接 [6]" Target="frmContent" Href="../searchservlet?query=A61M25/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61M25/18"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="A61M27/00 创口引流器或类似物(保持创口张开用的器械入A61B 17/02)" Target="frmContent" Href="../searchservlet?query=A61M27/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61M27/00"/>
+  <TreeNode Title="A61M29/00 带或不带引入介质，例如药物的扩张器(支架入A61F 2/82) [2]" Target="frmContent" Href="../searchservlet?query=A61M29/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61M29/00">
+    <TreeNode Title="A61M29/02 #可膨胀的扩张器(阀与可膨胀的弹性体的连接入B60C 29/00)；由可膨胀材料制成之扩张器 [3]" Target="frmContent" Href="../searchservlet?query=A61M29/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61M29/02">
+      <TreeNode Title="A61M29/04 ##用可膨胀材料制作的扩张器 [5]" Target="frmContent" Href="../searchservlet?query=A61M29/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61M29/04"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="A61M31/00 体腔中引入或保留介质，例如药物的器械(A61M 25/00优先) [2，5]" Target="frmContent" Href="../searchservlet?query=A61M31/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61M31/00"/>
+  <TreeNode Title="A61M35/00 在人体上施加介质，例如药物的器械(涉及化妆品或梳妆品的用具入A45D；吸收垫，如拭子入A61F 13/15) [2]" Target="frmContent" Href="../searchservlet?query=A61M35/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61M35/00"/>
+  <TreeNode Title="A61M36/00 把放射性材料运用于人体的 [5]" Target="frmContent" Href="../searchservlet?query=A61M36/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61M36/00">
+    <TreeNode Title="A61M36/02 #与其他辐射或波能源组合的，例如电磁波、热、微波 [5]" Target="frmContent" Href="../searchservlet?query=A61M36/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61M36/02"/>
+    <TreeNode Title="A61M36/04 #专门适用于把放射性材料放入，例如吸入或注射入体内的设备 [5]" Target="frmContent" Href="../searchservlet?query=A61M36/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61M36/04">
+      <TreeNode Title="A61M36/06 ##借助一个穿刺身体的导管注入含放射剂或增强剂的液体 [5]" Target="frmContent" Href="../searchservlet?query=A61M36/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61M36/06">
+        <TreeNode Title="A61M36/08 ###液体储存护罩，例如注射器护罩 [5]" Target="frmContent" Href="../searchservlet?query=A61M36/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61M36/08"/>
+      </TreeNode>
+      <TreeNode Title="A61M36/10 ##用于子宫—阴道或骨盆的 [5]" Target="frmContent" Href="../searchservlet?query=A61M36/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61M36/10"/>
+      <TreeNode Title="A61M36/12 ##用于接种或植入的注射器、支持器，例如胶囊 [5]" Target="frmContent" Href="../searchservlet?query=A61M36/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61M36/12"/>
+    </TreeNode>
+    <TreeNode Title="A61M36/14 #放射性敷料 [5]" Target="frmContent" Href="../searchservlet?query=A61M36/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61M36/14"/>
+  </TreeNode>
+  <TreeNode Title="A61M37/00 介质引入体内的其他器械(用于繁殖或受精的入A61B 17/425；电离子透入疗法或阳离子电泳的装置入A61N 1/30)；经皮即通过皮肤渗透将药物引入体内(盐浴入A61H 33/04) [5]" Target="frmContent" Href="../searchservlet?query=A61M37/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61M37/00"/>
+  <TreeNode Title="A61M39/00 专门适用于医用的管、联接管、耦合管、阀、分流接管或类似物(用于呼吸装置的，如气管套管的，入A61M 16/00，人工心脏瓣膜入A61F 2/24) [5]" Target="frmContent" Href="../searchservlet?query=A61M39/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61M39/00">
+    <TreeNode Title="A61M39/02 #分流接管 [5]" Target="frmContent" Href="../searchservlet?query=A61M39/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61M39/02">
+      <TreeNode Title="A61M39/04 ##具有可穿透的自动密封膜的 [5]" Target="frmContent" Href="../searchservlet?query=A61M39/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61M39/04"/>
+      <TreeNode Title="A61M39/06 ##止血阀，即围绕针头、导管或类似物密封的垫圈，取下时封闭 [6]" Target="frmContent" Href="../searchservlet?query=A61M39/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61M39/06"/>
+    </TreeNode>
+    <TreeNode Title="A61M39/08 #管；专门适用于管的存储元件 [6]" Target="frmContent" Href="../searchservlet?query=A61M39/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61M39/08"/>
+    <TreeNode Title="A61M39/10 #联接管或耦合管 [6]" Target="frmContent" Href="../searchservlet?query=A61M39/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61M39/10">
+      <TreeNode Title="A61M39/12 ##用于联接柔性管与刚性附属装置的 [6]" Target="frmContent" Href="../searchservlet?query=A61M39/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61M39/12"/>
+      <TreeNode Title="A61M39/14 ##用于联接具有密封端的管的 [6]" Target="frmContent" Href="../searchservlet?query=A61M39/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61M39/14"/>
+      <TreeNode Title="A61M39/16 ##提供消毒或无菌的 [6]" Target="frmContent" Href="../searchservlet?query=A61M39/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61M39/16">
+        <TreeNode Title="A61M39/18 ###在无菌条件下进行联接，即无菌对接的方法或装置 [6]" Target="frmContent" Href="../searchservlet?query=A61M39/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61M39/18"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="A61M39/20 #用于联接器或管的敞开端的密封盖或塞 [6]" Target="frmContent" Href="../searchservlet?query=A61M39/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61M39/20"/>
+    <TreeNode Title="A61M39/22 #阀或阀装置 [6]" Target="frmContent" Href="../searchservlet?query=A61M39/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61M39/22">
+      <TreeNode Title="A61M39/24 ##校验阀或止回阀 [6]" Target="frmContent" Href="../searchservlet?query=A61M39/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61M39/24"/>
+      <TreeNode Title="A61M39/26 ##当管断开时自动封闭而当管重新联接时打开的阀 [6]" Target="frmContent" Href="../searchservlet?query=A61M39/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61M39/26"/>
+      <TreeNode Title="A61M39/28 ##用于挤压柔性导管的夹持元件，例如滚动夹 [6]" Target="frmContent" Href="../searchservlet?query=A61M39/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61M39/28"/>
+    </TreeNode>
+  </TreeNode>
+</Root>

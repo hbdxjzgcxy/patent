@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="F16F1/00 弹簧(用流体工作入F16F 5/00，F16F 9/00)" Target="frmContent" Href="../searchservlet?query=F16F1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F1/00">
+    <TreeNode Title="F16F1/02 #由低内摩擦的钢或其他材料制造的(F16F 1/36优先)；盘簧、扭簧、片簧、杯簧、环管或类似弹簧，不涉及弹簧材料[6]" Target="frmContent" Href="../searchservlet?query=F16F1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F1/02">
+      <TreeNode Title="F16F1/04 ##盘簧" Target="frmContent" Href="../searchservlet?query=F16F1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F1/04">
+        <TreeNode Title="F16F1/06 ###弹簧圈成圆柱形" Target="frmContent" Href="../searchservlet?query=F16F1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F1/06"/>
+        <TreeNode Title="F16F1/08 ###弹簧圈基本成锥形" Target="frmContent" Href="../searchservlet?query=F16F1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F1/08"/>
+        <TreeNode Title="F16F1/10 ###弹簧圈基本成平面盘簧" Target="frmContent" Href="../searchservlet?query=F16F1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F1/10"/>
+        <TreeNode Title="F16F1/12 ###连接或安装" Target="frmContent" Href="../searchservlet?query=F16F1/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F1/12">
+          <TreeNode Title="F16F1/13 ####包括在卷圈之间的插入件或隔离件，用以改变弹簧的机械或物理性能[6]" Target="frmContent" Href="../searchservlet?query=F16F1/13&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F1/13"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="F16F1/14 ##由杆或管组成的扭簧" Target="frmContent" Href="../searchservlet?query=F16F1/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F1/14">
+        <TreeNode Title="F16F1/16 ###连接或安装" Target="frmContent" Href="../searchservlet?query=F16F1/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F1/16"/>
+      </TreeNode>
+      <TreeNode Title="F16F1/18 ##片簧" Target="frmContent" Href="../searchservlet?query=F16F1/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F1/18">
+        <TreeNode Title="F16F1/20 ###带有垫片，如抗摩擦片或在簧片之间带有滚柱" Target="frmContent" Href="../searchservlet?query=F16F1/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F1/20"/>
+        <TreeNode Title="F16F1/22 ###带有变更弹簧特性的装置" Target="frmContent" Href="../searchservlet?query=F16F1/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F1/22"/>
+        <TreeNode Title="F16F1/24 ###润滑；盖，如用于保持润滑剂" Target="frmContent" Href="../searchservlet?query=F16F1/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F1/24"/>
+        <TreeNode Title="F16F1/26 ###连接或安装(B60G 11/10优先)[5]" Target="frmContent" Href="../searchservlet?query=F16F1/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F1/26">
+          <TreeNode Title="F16F1/28 ####有在紧配的套内转动的金属圆柱销" Target="frmContent" Href="../searchservlet?query=F16F1/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F1/28"/>
+          <TreeNode Title="F16F1/30 ####包含由橡胶或类似弹性材料制成的中间体" Target="frmContent" Href="../searchservlet?query=F16F1/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F1/30"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="F16F1/32 ##杯簧；盘簧(隔模入F16J 3/00)" Target="frmContent" Href="../searchservlet?query=F16F1/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F1/32"/>
+      <TreeNode Title="F16F1/34 ##环状弹簧，即由于轴向负载而径向变形的环形体" Target="frmContent" Href="../searchservlet?query=F16F1/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F1/34"/>
+    </TreeNode>
+    <TreeNode Title="F16F1/36 #由塑性材料制造的，例如橡胶；由高内摩擦材料制造的" Target="frmContent" Href="../searchservlet?query=F16F1/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F1/36">
+      <TreeNode Title="F16F1/362 ##由钢纤维或压缩的毛状金属丝制造的[6]" Target="frmContent" Href="../searchservlet?query=F16F1/362&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F1/362"/>
+      <TreeNode Title="F16F1/364 ##由软木、木头或类似材料制造的[6]" Target="frmContent" Href="../searchservlet?query=F16F1/364&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F1/364"/>
+      <TreeNode Title="F16F1/366 ##由纤维增强塑料制造的[6]" Target="frmContent" Href="../searchservlet?query=F16F1/366&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F1/366">
+        <TreeNode Title="F16F1/368 ###片簧[6]" Target="frmContent" Href="../searchservlet?query=F16F1/368&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F1/368"/>
+      </TreeNode>
+      <TreeNode Title="F16F1/37 ##泡沫状材料的，例如海绵橡胶" Target="frmContent" Href="../searchservlet?query=F16F1/37&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F1/37"/>
+      <TreeNode Title="F16F1/371 ##以插入或辅助延伸件为特征的，如用于固定(F16F 1/366，F16F 1/387优先)[6]" Target="frmContent" Href="../searchservlet?query=F16F1/371&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F1/371"/>
+      <TreeNode Title="F16F1/373 ##以有特殊的形状为特征的[6]" Target="frmContent" Href="../searchservlet?query=F16F1/373&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F1/373">
+        <TreeNode Title="F16F1/374 ###有球形或类似形状[6]" Target="frmContent" Href="../searchservlet?query=F16F1/374&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F1/374"/>
+        <TreeNode Title="F16F1/376 ###在至少一个表面有突出物、销、细锯齿或类似物(F16F 1/387优先)[6]" Target="frmContent" Href="../searchservlet?query=F16F1/376&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F1/376"/>
+        <TreeNode Title="F16F1/377 ###有孔或开口(F16F 1/387优先)[6]" Target="frmContent" Href="../searchservlet?query=F16F1/377&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F1/377"/>
+      </TreeNode>
+      <TreeNode Title="F16F1/379 ##以调节弹簧温度，如通过冷却为特征[6]" Target="frmContent" Href="../searchservlet?query=F16F1/379&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F1/379"/>
+      <TreeNode Title="F16F1/38 ##在刚性外套与刚性内套或销之间有一弹性材料的套" Target="frmContent" Href="../searchservlet?query=F16F1/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F1/38">
+        <TreeNode Title="F16F1/387 ###包括在特殊方向上改变刚性的装置[6]" Target="frmContent" Href="../searchservlet?query=F16F1/387&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F1/387"/>
+        <TreeNode Title="F16F1/393 ###带有球形式锥形套[6]" Target="frmContent" Href="../searchservlet?query=F16F1/393&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F1/393"/>
+      </TreeNode>
+      <TreeNode Title="F16F1/40 ##由用非弹性中间片隔开的相似元件层叠组成" Target="frmContent" Href="../searchservlet?query=F16F1/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F1/40">
+        <TreeNode Title="F16F1/41 ###弹簧由通常为锥形设置的元件组成[6]" Target="frmContent" Href="../searchservlet?query=F16F1/41&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F1/41"/>
+      </TreeNode>
+      <TreeNode Title="F16F1/42 ##以受应力方式为特征的" Target="frmContent" Href="../searchservlet?query=F16F1/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F1/42">
+        <TreeNode Title="F16F1/44 ###主要受压应力" Target="frmContent" Href="../searchservlet?query=F16F1/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F1/44"/>
+        <TreeNode Title="F16F1/46 ###主要受拉应力" Target="frmContent" Href="../searchservlet?query=F16F1/46&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F1/46"/>
+        <TreeNode Title="F16F1/48 ###主要受扭应力" Target="frmContent" Href="../searchservlet?query=F16F1/48&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F1/48"/>
+        <TreeNode Title="F16F1/50 ###主要受剪应力" Target="frmContent" Href="../searchservlet?query=F16F1/50&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F1/50"/>
+        <TreeNode Title="F16F1/52 ###受复合应力" Target="frmContent" Href="../searchservlet?query=F16F1/52&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F1/52">
+          <TreeNode Title="F16F1/54 ####受压和剪应力" Target="frmContent" Href="../searchservlet?query=F16F1/54&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F1/54"/>
+        </TreeNode>
+      </TreeNode>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="F16F3/00 由几个弹簧组成的弹簧组件，如为获得所需要的弹簧特性(包括流体弹簧的入F16F 5/00，F16F 13/00)" Target="frmContent" Href="../searchservlet?query=F16F3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F3/00">
+    <TreeNode Title="F16F3/02 #带有由钢或其他具有低摩擦材料制成的弹簧" Target="frmContent" Href="../searchservlet?query=F16F3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F3/02">
+      <TreeNode Title="F16F3/04 ##仅由盘簧组成" Target="frmContent" Href="../searchservlet?query=F16F3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F3/04">
+        <TreeNode Title="F16F3/06 ###其中有些盘簧围绕另一些盘簧放置，以这种方式通过相互摩擦，盘簧彼此相互抑制" Target="frmContent" Href="../searchservlet?query=F16F3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F3/06"/>
+      </TreeNode>
+      <TreeNode Title="F16F3/07 ##与充气或充液的室结合" Target="frmContent" Href="../searchservlet?query=F16F3/07&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F3/07"/>
+    </TreeNode>
+    <TreeNode Title="F16F3/08 #带有由高内摩擦材料制成的弹簧，如橡胶材料" Target="frmContent" Href="../searchservlet?query=F16F3/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F3/08">
+      <TreeNode Title="F16F3/087 ##包括由塑料或类似材料组成的几个弹簧的单元(F16F 1/40优先)[6]" Target="frmContent" Href="../searchservlet?query=F16F3/087&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F3/087">
+        <TreeNode Title="F16F3/093 ###弹簧有不同的材料，如有不同类型的橡胶[6]" Target="frmContent" Href="../searchservlet?query=F16F3/093&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F3/093"/>
+      </TreeNode>
+      <TreeNode Title="F16F3/10 ##与由钢或其他低内摩擦材料制成的弹簧结合" Target="frmContent" Href="../searchservlet?query=F16F3/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F3/10">
+        <TreeNode Title="F16F3/12 ###钢弹簧和橡胶弹簧接触，如嵌入其中[6]" Target="frmContent" Href="../searchservlet?query=F16F3/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F3/12"/>
+      </TreeNode>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="F16F5/00 液力弹簧，其中液体由于压缩而如弹簧一样工作，如与节流作用结合；包含液力弹簧的装置组合" Target="frmContent" Href="../searchservlet?query=F16F5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F5/00"/>
+  <TreeNode Title="F16F6/00 磁力弹簧；流体磁力弹簧" Target="frmContent" Href="../searchservlet?query=F16F6/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F6/00"/>
+  <TreeNode Title="F16F7/00 减振器；减震器(应用流体入F16F 5/00，F16F 9/00；专用于旋转系统入F16F 15/10)" Target="frmContent" Href="../searchservlet?query=F16F7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F7/00">
+    <TreeNode Title="F16F7/01 #利用松散微粒之间的摩擦，如砂子[6]" Target="frmContent" Href="../searchservlet?query=F16F7/01&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F7/01"/>
+    <TreeNode Title="F16F7/02 #带有压在一起的相对旋转的摩擦面(F16F 7/01优先；元件之一是弹簧的入F16F 13/02)[6]" Target="frmContent" Href="../searchservlet?query=F16F7/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F7/02">
+      <TreeNode Title="F16F7/04 ##在旋转轴方向" Target="frmContent" Href="../searchservlet?query=F16F7/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F7/04"/>
+      <TreeNode Title="F16F7/06 ##在垂直于或倾斜于旋转轴方向" Target="frmContent" Href="../searchservlet?query=F16F7/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F7/06"/>
+    </TreeNode>
+    <TreeNode Title="F16F7/08 #带有可相互作直线移动的摩擦面(F16F 7/01优先)[6]" Target="frmContent" Href="../searchservlet?query=F16F7/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F7/08">
+      <TreeNode Title="F16F7/09 ##在缸—活塞式阻尼器中[6]" Target="frmContent" Href="../searchservlet?query=F16F7/09&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F7/09"/>
+    </TreeNode>
+    <TreeNode Title="F16F7/10 #利用惯性效应" Target="frmContent" Href="../searchservlet?query=F16F7/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F7/10">
+      <TreeNode Title="F16F7/104 ##惯性件是弹性设置的[6]" Target="frmContent" Href="../searchservlet?query=F16F7/104&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F7/104">
+        <TreeNode Title="F16F7/108 ###在塑料弹簧上[6]" Target="frmContent" Href="../searchservlet?query=F16F7/108&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F7/108"/>
+        <TreeNode Title="F16F7/112 ###在流体弹簧上[6]" Target="frmContent" Href="../searchservlet?query=F16F7/112&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F7/112"/>
+        <TreeNode Title="F16F7/116 ###在金属弹簧上[6]" Target="frmContent" Href="../searchservlet?query=F16F7/116&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F7/116"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="F16F7/12 #利用元件的塑性变形" Target="frmContent" Href="../searchservlet?query=F16F7/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F7/12"/>
+    <TreeNode Title="F16F7/14 #缆索支架式，即摩擦接合的环形缆索" Target="frmContent" Href="../searchservlet?query=F16F7/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F7/14"/>
+  </TreeNode>
+  <TreeNode Title="F16F9/00 使用流体或相当物作为阻尼介质的弹簧、减振器、减震器或类似结构的运动阻尼器(F16F 5/00优先；阀与可充气弹性体的连接入B60C 29/00；带流体制动态系统的门操作设备入E05F)" Target="frmContent" Href="../searchservlet?query=F16F9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F9/00">
+    <TreeNode Title="F16F9/02 #只使用气体" Target="frmContent" Href="../searchservlet?query=F16F9/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F9/02">
+      <TreeNode Title="F16F9/04 ##在有挠性壁的室中" Target="frmContent" Href="../searchservlet?query=F16F9/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F9/04">
+        <TreeNode Title="F16F9/05 ###压膜式挠性壁[5]" Target="frmContent" Href="../searchservlet?query=F16F9/05&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F9/05"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="F16F9/06 #使用气体和液体" Target="frmContent" Href="../searchservlet?query=F16F9/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F9/06">
+      <TreeNode Title="F16F9/08 ##在有挠性壁的室内" Target="frmContent" Href="../searchservlet?query=F16F9/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F9/08">
+        <TreeNode Title="F16F9/084 ###包括在挠性壁内的气体弹簧，该壁不与阻尼流体接触，即从外面安置在阻尼器柱塞上[6]" Target="frmContent" Href="../searchservlet?query=F16F9/084&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F9/084"/>
+        <TreeNode Title="F16F9/088 ###包括带有挠性壁的气体弹簧，该挠性壁位于单筒阻尼器的活塞杆上的缸内或在双筒阻尼器的内管内[6]" Target="frmContent" Href="../searchservlet?query=F16F9/088&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F9/088"/>
+        <TreeNode Title="F16F9/092 ###包括带有设在双筒阻尼器管之间的挠性壁的气体弹簧[6]" Target="frmContent" Href="../searchservlet?query=F16F9/092&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F9/092"/>
+        <TreeNode Title="F16F9/096 ###包括膜式液压气动蓄能器，其设置在阻尼器的上端或下端或与阻尼器分开或横置在阻尼器上[6]" Target="frmContent" Href="../searchservlet?query=F16F9/096&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F9/096"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="F16F9/10 #只使用液体；使用其性质是不重要的流体" Target="frmContent" Href="../searchservlet?query=F16F9/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F9/10">
+      <TreeNode Title="F16F9/12 ##带有一个或多个在流体内转动的回转叶片的装置，任何节流效应是不重要的" Target="frmContent" Href="../searchservlet?query=F16F9/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F9/12"/>
+      <TreeNode Title="F16F9/14 ##带有一个或多个元件的装置，如活塞、叶片，在室内来回运动并应用节流效应" Target="frmContent" Href="../searchservlet?query=F16F9/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F9/14">
+        <TreeNode Title="F16F9/16 ###只包含有效零件的直线运动" Target="frmContent" Href="../searchservlet?query=F16F9/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F9/16">
+          <TreeNode Title="F16F9/18 ####带有封闭的缸和在缸内隔开两个或多个工作空间的活塞" Target="frmContent" Href="../searchservlet?query=F16F9/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F9/18">
+            <TreeNode Title="F16F9/19 #####带有一个单缸" Target="frmContent" Href="../searchservlet?query=F16F9/19&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F9/19"/>
+            <TreeNode Title="F16F9/20 #####带有贯穿缸两端的活塞杆" Target="frmContent" Href="../searchservlet?query=F16F9/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F9/20"/>
+          </TreeNode>
+          <TreeNode Title="F16F9/22 ####带有一个或多个缸，每个缸有一用活塞或柱塞封闭的单一工作空间" Target="frmContent" Href="../searchservlet?query=F16F9/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F9/22">
+            <TreeNode Title="F16F9/24 #####带有单缸和单活塞或柱塞" Target="frmContent" Href="../searchservlet?query=F16F9/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F9/24"/>
+            <TreeNode Title="F16F9/26 #####带有成一直线的两个缸，并带两个连在一起的活塞或柱塞" Target="frmContent" Href="../searchservlet?query=F16F9/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F9/26"/>
+            <TreeNode Title="F16F9/28 #####带有两个平行的缸，并带两个连在一起的活塞或柱塞" Target="frmContent" Href="../searchservlet?query=F16F9/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F9/28"/>
+          </TreeNode>
+        </TreeNode>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="F16F9/30 #用固体或半固体材料，如用黏性物质作为减振介质" Target="frmContent" Href="../searchservlet?query=F16F9/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F9/30"/>
+    <TreeNode Title="F16F9/32 #零件" Target="frmContent" Href="../searchservlet?query=F16F9/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F9/32">
+      <TreeNode Title="F16F9/34 ##特殊阀结构(一般阀入F16K)；节流通道的形状或结构" Target="frmContent" Href="../searchservlet?query=F16F9/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F9/34">
+        <TreeNode Title="F16F9/342 ###节流通道用量针操作" Target="frmContent" Href="../searchservlet?query=F16F9/342&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F9/342"/>
+        <TreeNode Title="F16F9/344 ###涡流通道[6]" Target="frmContent" Href="../searchservlet?query=F16F9/344&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F9/344"/>
+        <TreeNode Title="F16F9/346 ###节流通道呈槽状配置于缸壁内" Target="frmContent" Href="../searchservlet?query=F16F9/346&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F9/346"/>
+        <TreeNode Title="F16F9/348 ###节流通道呈圆盘状在相反方向工作" Target="frmContent" Href="../searchservlet?query=F16F9/348&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F9/348"/>
+      </TreeNode>
+      <TreeNode Title="F16F9/36 ##特殊密封，包括活塞杆的密封或导向" Target="frmContent" Href="../searchservlet?query=F16F9/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F9/36"/>
+      <TreeNode Title="F16F9/38 ##用于防护或外观的盖" Target="frmContent" Href="../searchservlet?query=F16F9/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F9/38"/>
+      <TreeNode Title="F16F9/40 ##用于防止泡沫的装置" Target="frmContent" Href="../searchservlet?query=F16F9/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F9/40"/>
+      <TreeNode Title="F16F9/42 ##冷却装置" Target="frmContent" Href="../searchservlet?query=F16F9/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F9/42"/>
+      <TreeNode Title="F16F9/43 ##充填装置，如用于供给气体" Target="frmContent" Href="../searchservlet?query=F16F9/43&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F9/43"/>
+      <TreeNode Title="F16F9/44 ##在阻尼器上或阻尼器内的用于手动或非自动调整的装置；这种装置与温度校正组合(F16F 9/53，F16F 9/56优先；仅温度校正入F16F 9/52)[5，6]" Target="frmContent" Href="../searchservlet?query=F16F9/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F9/44">
+        <TreeNode Title="F16F9/46 ###允许从远距离控制" Target="frmContent" Href="../searchservlet?query=F16F9/46&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F9/46"/>
+      </TreeNode>
+      <TreeNode Title="F16F9/48 ##用于在行程的不同部分提供不同阻尼效应的装置(F16F 9/53，F16F 9/56优先)[5，6]" Target="frmContent" Href="../searchservlet?query=F16F9/48&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F9/48">
+        <TreeNode Title="F16F9/49 ###流体通道限制器，如液压限制器" Target="frmContent" Href="../searchservlet?query=F16F9/49&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F9/49"/>
+      </TreeNode>
+      <TreeNode Title="F16F9/50 ##提供自动阻尼调整的特殊装置(F16F 9/53，F16F 9/56优先)[5，6]" Target="frmContent" Href="../searchservlet?query=F16F9/50&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F9/50">
+        <TreeNode Title="F16F9/504 ###对惯性敏感的装置[6]" Target="frmContent" Href="../searchservlet?query=F16F9/504&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F9/504"/>
+        <TreeNode Title="F16F9/508 ###对活塞移动速度敏感的装置[6]" Target="frmContent" Href="../searchservlet?query=F16F9/508&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F9/508"/>
+        <TreeNode Title="F16F9/512 ###对在阻尼器上的负荷或在阻尼器内的流体压力敏感的装置[6]" Target="frmContent" Href="../searchservlet?query=F16F9/512&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F9/512"/>
+        <TreeNode Title="F16F9/516 ###结果是在延伸过程和收缩过程中阻尼作用不相同[6]" Target="frmContent" Href="../searchservlet?query=F16F9/516&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F9/516"/>
+        <TreeNode Title="F16F9/52 ###在温度变化的情况下(与外部调整组合入F16F 9/44)" Target="frmContent" Href="../searchservlet?query=F16F9/52&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F9/52"/>
+      </TreeNode>
+      <TreeNode Title="F16F9/53 ##改变流体黏性调整阻尼性质的装置，例如电磁[5]" Target="frmContent" Href="../searchservlet?query=F16F9/53&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F9/53"/>
+      <TreeNode Title="F16F9/54 ##连接装置" Target="frmContent" Href="../searchservlet?query=F16F9/54&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F9/54"/>
+      <TreeNode Title="F16F9/56 ##用于调整或锁定弹簧或阻尼器的长度装置，如在行程的端部[6]" Target="frmContent" Href="../searchservlet?query=F16F9/56&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F9/56"/>
+      <TreeNode Title="F16F9/58 ##行程限制器，如布置在缸外侧的活塞杆上(F16F 9/49优先)[6]" Target="frmContent" Href="../searchservlet?query=F16F9/58&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F9/58"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="F16F11/00 用摩擦和阻尼液工作的减振器或减震器" Target="frmContent" Href="../searchservlet?query=F16F11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F11/00"/>
+  <TreeNode Title="F16F13/00 包括非液力型弹簧以及减振器，减震器或液力弹簧的装置(F16F 5/00优先)" Target="frmContent" Href="../searchservlet?query=F16F13/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F13/00">
+    <TreeNode Title="F16F13/02 #通过弹簧和制动装置之间的摩擦接触来达到阻尼作用(盘簧起相互摩擦作用入F16F 3/06)" Target="frmContent" Href="../searchservlet?query=F16F13/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F13/02"/>
+    <TreeNode Title="F16F13/04 #包括一个塑料弹簧和一个阻尼器，如摩擦阻尼器[6]" Target="frmContent" Href="../searchservlet?query=F16F13/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F13/04">
+      <TreeNode Title="F16F13/06 ##阻尼器是流体阻尼器，如塑料弹簧不形成阻尼器流体腔壁的一部分(F16F 13/26优先)[6]" Target="frmContent" Href="../searchservlet?query=F16F13/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F13/06">
+        <TreeNode Title="F16F13/08 ###塑料弹簧至少形成阻尼器流体腔壁的一部分(F16F 13/20至F16F 13/24优先)[6]" Target="frmContent" Href="../searchservlet?query=F16F13/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F13/08">
+          <TreeNode Title="F16F13/10 ####该壁至少部分由挠性膜片或类似物形成(F16F 13/12至F16F 13/18优先)[6]" Target="frmContent" Href="../searchservlet?query=F16F13/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F13/10"/>
+          <TreeNode Title="F16F13/12 ####单一腔阻尼器(F16F 13/14优先)[6]" Target="frmContent" Href="../searchservlet?query=F16F13/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F13/12"/>
+          <TreeNode Title="F16F13/14 ####套筒式单元[6]" Target="frmContent" Href="../searchservlet?query=F16F13/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F13/14">
+            <TreeNode Title="F16F13/16 #####专用于接收轴向负荷的[6]" Target="frmContent" Href="../searchservlet?query=F16F13/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F13/16"/>
+          </TreeNode>
+          <TreeNode Title="F16F13/18 ####以平衡腔的位置或形状为特征的，如平衡腔室围绕塑料弹簧或是环形的(F16F 13/14优先)[6]" Target="frmContent" Href="../searchservlet?query=F16F13/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F13/18"/>
+        </TreeNode>
+        <TreeNode Title="F16F13/20 ###以还包含气动弹簧为特征的(F16F 13/22优先)[6]" Target="frmContent" Href="../searchservlet?query=F16F13/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F13/20"/>
+        <TreeNode Title="F16F13/22 ###以还包含动力阻尼器为特征的(利用惯性作用的阻尼器本身入F16F 7/10)[6]" Target="frmContent" Href="../searchservlet?query=F16F13/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F13/22"/>
+        <TreeNode Title="F16F13/24 ###单元的中央部分由一个元件支承而单元的两端由单个的其他元件支撑，即双作用安置[6]" Target="frmContent" Href="../searchservlet?query=F16F13/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F13/24"/>
+      </TreeNode>
+      <TreeNode Title="F16F13/26 ##以响应外部条件的调节或校正装置为特征的[6]" Target="frmContent" Href="../searchservlet?query=F16F13/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F13/26">
+        <TreeNode Title="F16F13/28 ###专用于套筒式单元(F16F 13/30优先)[6]" Target="frmContent" Href="../searchservlet?query=F16F13/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F13/28"/>
+        <TreeNode Title="F16F13/30 ###包括改变流体黏度的装置，如磁化或电流变流体[6]" Target="frmContent" Href="../searchservlet?query=F16F13/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F13/30"/>
+      </TreeNode>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="F16F15/00 系统中振动的抑制(汽车座悬挂设备入B60N 2/50)；避免或减少不平衡力的装置或配置，如由于运动产生的不平衡力(检验静或动平衡的机器或结构入G01M 1/00)" Target="frmContent" Href="../searchservlet?query=F16F15/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F15/00">
+    <TreeNode Title="F16F15/02 #非旋转系统振动的抑制，如往复系统；通过利用不与旋转系统一起运动的元件抑制旋转系统的振动(层状产品入B32B；船舶振动的抑制入B63)" Target="frmContent" Href="../searchservlet?query=F16F15/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F15/02">
+      <TreeNode Title="F16F15/023 ##使用流体装置[6]" Target="frmContent" Href="../searchservlet?query=F16F15/023&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F15/023">
+        <TreeNode Title="F16F15/027 ###包括控制装置[6]" Target="frmContent" Href="../searchservlet?query=F16F15/027&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F15/027"/>
+      </TreeNode>
+      <TreeNode Title="F16F15/03 ##使用电磁装置(F16F 9/53优先)[5]" Target="frmContent" Href="../searchservlet?query=F16F15/03&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F15/03"/>
+      <TreeNode Title="F16F15/04 ##使用弹性装置(单个元件或其连接入F16F 1/00至F16F 13/00)[2]" Target="frmContent" Href="../searchservlet?query=F16F15/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F15/04">
+        <TreeNode Title="F16F15/06 ###带金属弹簧(也带橡胶弹簧入F16F 15/08)" Target="frmContent" Href="../searchservlet?query=F16F15/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F15/06">
+          <TreeNode Title="F16F15/067 ####仅使用盘簧[6]" Target="frmContent" Href="../searchservlet?query=F16F15/067&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F15/067"/>
+          <TreeNode Title="F16F15/073 ####仅使用片簧[6]" Target="frmContent" Href="../searchservlet?query=F16F15/073&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F15/073"/>
+        </TreeNode>
+        <TreeNode Title="F16F15/08 ###带有橡胶弹簧" Target="frmContent" Href="../searchservlet?query=F16F15/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F15/08"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="F16F15/10 #通过利用与系统一起运动的元件抑制旋转系统的振动(通过平衡入F16F 15/22；用变化或间歇作用的飞轮入F16H)" Target="frmContent" Href="../searchservlet?query=F16F15/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F15/10">
+      <TreeNode Title="F16F15/12 ##使用弹性元件或摩擦阻尼件，如在一个旋转轴和安装其上的旋转体之间(F16F 15/16优先)[6]" Target="frmContent" Href="../searchservlet?query=F16F15/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F15/12">
+        <TreeNode Title="F16F15/121 ###使用弹簧作为弹性件，如金属弹簧(F16F 15/131优先)[6]" Target="frmContent" Href="../searchservlet?query=F16F15/121&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F15/121">
+          <TreeNode Title="F16F15/123 ####盘簧[6]" Target="frmContent" Href="../searchservlet?query=F16F15/123&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F15/123"/>
+          <TreeNode Title="F16F15/124 ####塑料弹簧，如橡胶制造的(F16F 15/123优先) [6]" Target="frmContent" Href="../searchservlet?query=F16F15/124&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F15/124">
+            <TreeNode Title="F16F15/126 #####至少由一绕旋转轴的环形件构成[6]" Target="frmContent" Href="../searchservlet?query=F16F15/126&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F15/126"/>
+          </TreeNode>
+          <TreeNode Title="F16F15/127 ####塑料弹簧和其他类型弹簧结合的[6]" Target="frmContent" Href="../searchservlet?query=F16F15/127&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F15/127"/>
+        </TreeNode>
+        <TreeNode Title="F16F15/129 ###以摩擦阻尼装置为特征的(F16F 15/131优先)[6]" Target="frmContent" Href="../searchservlet?query=F16F15/129&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F15/129"/>
+        <TreeNode Title="F16F15/131 ###包括两个或多个旋转体的旋转系统[6]" Target="frmContent" Href="../searchservlet?query=F16F15/131&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F15/131">
+          <TreeNode Title="F16F15/133 ####使用弹簧作为弹性件，如金属弹簧[6]" Target="frmContent" Href="../searchservlet?query=F16F15/133&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F15/133">
+            <TreeNode Title="F16F15/134 #####盘簧[6]" Target="frmContent" Href="../searchservlet?query=F16F15/134&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F15/134"/>
+            <TreeNode Title="F16F15/136 #####塑料弹簧，如橡胶制造的(F16F 15/134优先)[6]" Target="frmContent" Href="../searchservlet?query=F16F15/136&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F15/136"/>
+            <TreeNode Title="F16F15/137 #####由两个或多个不同类型的弹簧组成的弹性件[6]" Target="frmContent" Href="../searchservlet?query=F16F15/137&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F15/137"/>
+          </TreeNode>
+          <TreeNode Title="F16F15/139 ####以摩擦阻尼装置为特征[6]" Target="frmContent" Href="../searchservlet?query=F16F15/139&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F15/139"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="F16F15/14 ##使用与系统一起旋转的自由摆动的质量" Target="frmContent" Href="../searchservlet?query=F16F15/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F15/14"/>
+      <TreeNode Title="F16F15/16 ##使用流体(连接输入或输出元件的装置入F16D)" Target="frmContent" Href="../searchservlet?query=F16F15/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F15/16">
+        <TreeNode Title="F16F15/167 ###有惯性件，如环[6]" Target="frmContent" Href="../searchservlet?query=F16F15/167&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F15/167">
+          <TreeNode Title="F16F15/173 ####设置在封闭的壳体内[6]" Target="frmContent" Href="../searchservlet?query=F16F15/173&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F15/173"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="F16F15/18 ##作用电装置(电动装置入H02K)" Target="frmContent" Href="../searchservlet?query=F16F15/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F15/18"/>
+    </TreeNode>
+    <TreeNode Title="F16F15/20 #通过一个或多个系统的运动元件的合适分组或相对配置来抑制旋转系统的振动" Target="frmContent" Href="../searchservlet?query=F16F15/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F15/20"/>
+    <TreeNode Title="F16F15/22 #惯性力的补偿" Target="frmContent" Href="../searchservlet?query=F16F15/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F15/22">
+      <TreeNode Title="F16F15/24 ##通过曲柄、活塞或类似件的特殊配置来补偿曲轴系统的惯性力" Target="frmContent" Href="../searchservlet?query=F16F15/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F15/24"/>
+      <TreeNode Title="F16F15/26 ##使用除普通活塞以外的与系统一起运动的固体质量来补偿曲轴系统的惯性力" Target="frmContent" Href="../searchservlet?query=F16F15/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F15/26"/>
+    </TreeNode>
+    <TreeNode Title="F16F15/28 #平衡重；其连接或安装(供滚动型罩的入E06B 9/62)" Target="frmContent" Href="../searchservlet?query=F16F15/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F15/28"/>
+    <TreeNode Title="F16F15/30 #飞轮(F16F 15/16优先；使用和系统一起移动的弹性件或摩擦阻尼件阻止旋转系统的振动入F16F 15/12；一般的旋转体入F16C 13/00，F16C 15/00)[6]" Target="frmContent" Href="../searchservlet?query=F16F15/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F15/30">
+      <TreeNode Title="F16F15/305 ##塑料制造的，如纤维增强塑料(FRP)[6]" Target="frmContent" Href="../searchservlet?query=F16F15/305&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F15/305"/>
+      <TreeNode Title="F16F15/31 ##以用于改变惯性力矩的装置为特征[6]" Target="frmContent" Href="../searchservlet?query=F16F15/31&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F15/31"/>
+      <TreeNode Title="F16F15/315 ##以它们的支撑配置为特征，如用固定件、机架将惯性件固定于轴(F16F 15/31优先)[6]" Target="frmContent" Href="../searchservlet?query=F16F15/315&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F15/315"/>
+    </TreeNode>
+    <TreeNode Title="F16F15/32 #用于平衡旋转体(例如车轮)的校正重量或配重或相当的装置[2，5]" Target="frmContent" Href="../searchservlet?query=F16F15/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F15/32">
+      <TreeNode Title="F16F15/34 ##其紧固装置[5]" Target="frmContent" Href="../searchservlet?query=F16F15/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F15/34"/>
+      <TreeNode Title="F16F15/36 ##自动操作[5]" Target="frmContent" Href="../searchservlet?query=F16F15/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16F15/36"/>
+    </TreeNode>
+  </TreeNode>
+</Root>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="B27H1/00 弯曲木材，如木把手[2]" Target="frmContent" Href="../searchservlet?query=B27H1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B27H1/00"/>
+  <TreeNode Title="B27H3/00 制造盆、桶或粗腰桶的结构件(如桶的装配入B27H 5/00)" Target="frmContent" Href="../searchservlet?query=B27H3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B27H3/00">
+    <TreeNode Title="B27H3/02 #制造粗腰桶的桶板" Target="frmContent" Href="../searchservlet?query=B27H3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B27H3/02"/>
+    <TreeNode Title="B27H3/04 #制造桶顶或桶套" Target="frmContent" Href="../searchservlet?query=B27H3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B27H3/04"/>
+  </TreeNode>
+  <TreeNode Title="B27H5/00 制造盆、桶或粗腰桶(用单板条或层板制造入B27D 1/00)" Target="frmContent" Href="../searchservlet?query=B27H5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B27H5/00">
+    <TreeNode Title="B27H5/02 #用桶板拼装" Target="frmContent" Href="../searchservlet?query=B27H5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B27H5/02">
+      <TreeNode Title="B27H5/04 ##把桶板制成最终形状并装配它们" Target="frmContent" Href="../searchservlet?query=B27H5/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B27H5/04"/>
+    </TreeNode>
+    <TreeNode Title="B27H5/08 #终加工粗腰桶，如切槽" Target="frmContent" Href="../searchservlet?query=B27H5/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B27H5/08">
+      <TreeNode Title="B27H5/10 ##扎紧桶或桶上加箍" Target="frmContent" Href="../searchservlet?query=B27H5/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B27H5/10"/>
+      <TreeNode Title="B27H5/12 ##用木料制造桶盖；桶盖钻孔或扩孔" Target="frmContent" Href="../searchservlet?query=B27H5/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B27H5/12"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="B27H7/00 完全或主要用木材制造车轮，如大车轮；制造木缘轮，如方向盘[2]" Target="frmContent" Href="../searchservlet?query=B27H7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B27H7/00"/>
+</Root>

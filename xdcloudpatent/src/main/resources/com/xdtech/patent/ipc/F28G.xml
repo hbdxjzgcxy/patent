@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="F28G1/00 不旋转的器具，例如往复式器具(F28G 3/00优先)" Target="frmContent" Href="../searchservlet?query=F28G1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F28G1/00">
+    <TreeNode Title="F28G1/02 #有刷子的(刷子入A46B)" Target="frmContent" Href="../searchservlet?query=F28G1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F28G1/02"/>
+    <TreeNode Title="F28G1/04 #有铰接工具的，例如装配成链式" Target="frmContent" Href="../searchservlet?query=F28G1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F28G1/04"/>
+    <TreeNode Title="F28G1/06 #有盘绕金属丝工具的，例如筐篮式工具" Target="frmContent" Href="../searchservlet?query=F28G1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F28G1/06"/>
+    <TreeNode Title="F28G1/08 #有刮削器、锤或刀具的，例如刚性安装的" Target="frmContent" Href="../searchservlet?query=F28G1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F28G1/08">
+      <TreeNode Title="F28G1/10 ##弹性安装的" Target="frmContent" Href="../searchservlet?query=F28G1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F28G1/10"/>
+    </TreeNode>
+    <TreeNode Title="F28G1/12 #流体推进的刮削器、弹丸或类似固体" Target="frmContent" Href="../searchservlet?query=F28G1/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F28G1/12"/>
+    <TreeNode Title="F28G1/14 #拉入杆" Target="frmContent" Href="../searchservlet?query=F28G1/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F28G1/14"/>
+    <TreeNode Title="F28G1/16 #用流体喷射清除碎片的(F28G 1/12优先)" Target="frmContent" Href="../searchservlet?query=F28G1/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F28G1/16"/>
+  </TreeNode>
+  <TreeNode Title="F28G3/00 旋转器具" Target="frmContent" Href="../searchservlet?query=F28G3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F28G3/00">
+    <TreeNode Title="F28G3/02 #有打磨工具的" Target="frmContent" Href="../searchservlet?query=F28G3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F28G3/02"/>
+    <TreeNode Title="F28G3/04 #有刷子的(刷子入A46B)" Target="frmContent" Href="../searchservlet?query=F28G3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F28G3/04"/>
+    <TreeNode Title="F28G3/06 #有铰接工具的，例如装配成链式" Target="frmContent" Href="../searchservlet?query=F28G3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F28G3/06"/>
+    <TreeNode Title="F28G3/08 #有盘绕金属丝工具的，即筐篮式工具" Target="frmContent" Href="../searchservlet?query=F28G3/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F28G3/08"/>
+    <TreeNode Title="F28G3/10 #有刮削器、锤或刀具的，例如刚性安装的" Target="frmContent" Href="../searchservlet?query=F28G3/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F28G3/10">
+      <TreeNode Title="F28G3/12 ##弹性安装的" Target="frmContent" Href="../searchservlet?query=F28G3/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F28G3/12"/>
+      <TreeNode Title="F28G3/14 ##靠离心力作用在加工部位上的" Target="frmContent" Href="../searchservlet?query=F28G3/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F28G3/14"/>
+    </TreeNode>
+    <TreeNode Title="F28G3/16 #用液体喷射清除碎片的" Target="frmContent" Href="../searchservlet?query=F28G3/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F28G3/16"/>
+  </TreeNode>
+  <TreeNode Title="F28G5/00 用变形法清洗(振动法入F28G 7/00)" Target="frmContent" Href="../searchservlet?query=F28G5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F28G5/00"/>
+  <TreeNode Title="F28G7/00 用振动法清洗" Target="frmContent" Href="../searchservlet?query=F28G7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F28G7/00"/>
+  <TreeNode Title="F28G9/00 用冲洗或洗涤法清洗，例如用化学溶液(用液体喷射清除碎片入F28G 1/16，F28G 3/16)" Target="frmContent" Href="../searchservlet?query=F28G9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F28G9/00"/>
+  <TreeNode Title="F28G11/00 利用燃烧过程清洗，例如应用小型点火器，应用移动式燃烧器" Target="frmContent" Href="../searchservlet?query=F28G11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F28G11/00"/>
+  <TreeNode Title="F28G13/00 不包含在F28G 1/00至F28G 11/00各组内的器具或方法；包含在F28G 1/00至F28G 11/00各组内的器具或方法的组合" Target="frmContent" Href="../searchservlet?query=F28G13/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F28G13/00"/>
+  <TreeNode Title="F28G15/00 零部件(测量沉积物厚度入G01B)" Target="frmContent" Href="../searchservlet?query=F28G15/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F28G15/00">
+    <TreeNode Title="F28G15/02 #清洗器具的支架，例如框架" Target="frmContent" Href="../searchservlet?query=F28G15/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F28G15/02"/>
+    <TreeNode Title="F28G15/04 #进给或传动装置，例如动力操作的" Target="frmContent" Href="../searchservlet?query=F28G15/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F28G15/04">
+      <TreeNode Title="F28G15/06 ##自动反向装置" Target="frmContent" Href="../searchservlet?query=F28G15/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F28G15/06"/>
+    </TreeNode>
+    <TreeNode Title="F28G15/08 #确定清洗工具在管道内位置的" Target="frmContent" Href="../searchservlet?query=F28G15/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F28G15/08"/>
+    <TreeNode Title="F28G15/10 #用于限定要清洗区域的遮掩装置" Target="frmContent" Href="../searchservlet?query=F28G15/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F28G15/10"/>
+  </TreeNode>
+</Root>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="H02J1/00 直流干线或直流配电网络的电路装置" Target="frmContent" Href="../searchservlet?query=H02J1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02J1/00">
+    <TreeNode Title="H02J1/02 #减少谐波或波纹的装置(在变换器中的入H02M 1/14)" Target="frmContent" Href="../searchservlet?query=H02J1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02J1/02"/>
+    <TreeNode Title="H02J1/04 #恒流供电系统" Target="frmContent" Href="../searchservlet?query=H02J1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02J1/04"/>
+    <TreeNode Title="H02J1/06 #双线制系统" Target="frmContent" Href="../searchservlet?query=H02J1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02J1/06"/>
+    <TreeNode Title="H02J1/08 #三线制系统；多于三线的系统" Target="frmContent" Href="../searchservlet?query=H02J1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02J1/08"/>
+    <TreeNode Title="H02J1/10 #直流电源的并联运行(含有电池组的入H02J 7/34)" Target="frmContent" Href="../searchservlet?query=H02J1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02J1/10">
+      <TreeNode Title="H02J1/12 ##直流发电机与变换器的并联运行，例如与汞弧整流器" Target="frmContent" Href="../searchservlet?query=H02J1/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02J1/12"/>
+    </TreeNode>
+    <TreeNode Title="H02J1/14 #网络中的负荷平衡(用电池的入H02J 7/34)" Target="frmContent" Href="../searchservlet?query=H02J1/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02J1/14">
+      <TreeNode Title="H02J1/16 ##应用与飞轮耦合的电动机" Target="frmContent" Href="../searchservlet?query=H02J1/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02J1/16"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="H02J3/00 交流干线或交流配电网络的电路装置" Target="frmContent" Href="../searchservlet?query=H02J3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02J3/00">
+    <TreeNode Title="H02J3/01 #减少谐波或波纹的装置(在变换器中的入H02M 1/12)[3]" Target="frmContent" Href="../searchservlet?query=H02J3/01&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02J3/01"/>
+    <TreeNode Title="H02J3/02 #应用单个网络以不同频率同时配电的；应用单个网络对交流和直流同时配电的" Target="frmContent" Href="../searchservlet?query=H02J3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02J3/02"/>
+    <TreeNode Title="H02J3/04 #用于连接以相同频率但由不同电源供电的网络" Target="frmContent" Href="../searchservlet?query=H02J3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02J3/04">
+      <TreeNode Title="H02J3/06 ##相连网络之间电力转换的控制；相连网络之间负荷分配的控制" Target="frmContent" Href="../searchservlet?query=H02J3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02J3/06"/>
+      <TreeNode Title="H02J3/08 ##网络的同步" Target="frmContent" Href="../searchservlet?query=H02J3/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02J3/08"/>
+    </TreeNode>
+    <TreeNode Title="H02J3/10 #恒流供电系统" Target="frmContent" Href="../searchservlet?query=H02J3/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02J3/10"/>
+    <TreeNode Title="H02J3/12 #用于通过改变网络负载的一个特性来调整交流网络中的电压的" Target="frmContent" Href="../searchservlet?query=H02J3/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02J3/12">
+      <TreeNode Title="H02J3/14 ##用于把负载接入网络或从网络断开的，例如逐渐平衡的负载" Target="frmContent" Href="../searchservlet?query=H02J3/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02J3/14"/>
+      <TreeNode Title="H02J3/16 ##用于调整无功功率的" Target="frmContent" Href="../searchservlet?query=H02J3/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02J3/16"/>
+    </TreeNode>
+    <TreeNode Title="H02J3/18 #网络中调整、消除或补偿无功功率的装置(用于调整电压的入H02J 3/12；应用灭弧线圈的入H02H 9/08)" Target="frmContent" Href="../searchservlet?query=H02J3/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02J3/18">
+      <TreeNode Title="H02J3/20 ##在长架空线路中的" Target="frmContent" Href="../searchservlet?query=H02J3/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02J3/20"/>
+      <TreeNode Title="H02J3/22 ##在电缆中的" Target="frmContent" Href="../searchservlet?query=H02J3/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02J3/22"/>
+    </TreeNode>
+    <TreeNode Title="H02J3/24 #在网络中防止或减少功率振荡的装置(用单个发电机进行控制的方法入H02P 9/00)" Target="frmContent" Href="../searchservlet?query=H02J3/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02J3/24"/>
+    <TreeNode Title="H02J3/26 #多相网络中消除或减少不对称的装置" Target="frmContent" Href="../searchservlet?query=H02J3/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02J3/26"/>
+    <TreeNode Title="H02J3/28 #用储能方法在网络中平衡负载的装置" Target="frmContent" Href="../searchservlet?query=H02J3/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02J3/28">
+      <TreeNode Title="H02J3/30 ##应用与飞轮耦合的电动机" Target="frmContent" Href="../searchservlet?query=H02J3/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02J3/30"/>
+      <TreeNode Title="H02J3/32 ##应用有变换装置的电池组" Target="frmContent" Href="../searchservlet?query=H02J3/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02J3/32"/>
+    </TreeNode>
+    <TreeNode Title="H02J3/34 #在频率相差很大的网络之间传递电力的装置(频率变换器入H02M)" Target="frmContent" Href="../searchservlet?query=H02J3/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02J3/34"/>
+    <TreeNode Title="H02J3/36 #通过高压直流链路在交流网络之间传递电力的装置" Target="frmContent" Href="../searchservlet?query=H02J3/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02J3/36"/>
+    <TreeNode Title="H02J3/38 #由两个或两个以上发电机、变换器或变压器对1个网络并联馈电的装置" Target="frmContent" Href="../searchservlet?query=H02J3/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02J3/38">
+      <TreeNode Title="H02J3/40 ##用于连接到网络或另一发电机的发电机的同步" Target="frmContent" Href="../searchservlet?query=H02J3/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02J3/40">
+        <TreeNode Title="H02J3/42 ###当同步后带有自动并联连接的" Target="frmContent" Href="../searchservlet?query=H02J3/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02J3/42"/>
+        <TreeNode Title="H02J3/44 ###带有保证正确相序装置的" Target="frmContent" Href="../searchservlet?query=H02J3/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02J3/44"/>
+      </TreeNode>
+      <TreeNode Title="H02J3/46 ##发电机、变换器或变压器之间输出分配的控制" Target="frmContent" Href="../searchservlet?query=H02J3/46&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02J3/46">
+        <TreeNode Title="H02J3/48 ###同相分量分配的控制" Target="frmContent" Href="../searchservlet?query=H02J3/48&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02J3/48"/>
+        <TreeNode Title="H02J3/50 ###反相分量分配的控制" Target="frmContent" Href="../searchservlet?query=H02J3/50&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02J3/50"/>
+      </TreeNode>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="H02J4/00 不指明为交流或直流的干线或配电网络的电路装置[2]" Target="frmContent" Href="../searchservlet?query=H02J4/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02J4/00"/>
+  <TreeNode Title="H02J5/00 交流网络和直流网络之间传递电力的电路装置(H02J 3/36优先)" Target="frmContent" Href="../searchservlet?query=H02J5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02J5/00"/>
+  <TreeNode Title="H02J7/00 用于电池组的充电或去极化或用于由电池组向负载供电的装置" Target="frmContent" Href="../searchservlet?query=H02J7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02J7/00">
+    <TreeNode Title="H02J7/02 #用变换器从交流干线为电池组充电的" Target="frmContent" Href="../searchservlet?query=H02J7/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02J7/02">
+      <TreeNode Title="H02J7/04 ##充电电流或电压的调节" Target="frmContent" Href="../searchservlet?query=H02J7/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02J7/04">
+        <TreeNode Title="H02J7/06 ###应用放电管或半导体器件的" Target="frmContent" Href="../searchservlet?query=H02J7/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02J7/06">
+          <TreeNode Title="H02J7/08 ####只用放电管的" Target="frmContent" Href="../searchservlet?query=H02J7/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02J7/08"/>
+          <TreeNode Title="H02J7/10 ####只用半导体器件的" Target="frmContent" Href="../searchservlet?query=H02J7/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02J7/10"/>
+        </TreeNode>
+        <TreeNode Title="H02J7/12 ###应用有可控饱和度的磁性器件，即饱和电抗器" Target="frmContent" Href="../searchservlet?query=H02J7/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02J7/12"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="H02J7/14 #用于从变速驱动的发电机为电池组充电的，例如在车辆上" Target="frmContent" Href="../searchservlet?query=H02J7/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02J7/14">
+      <TreeNode Title="H02J7/16 ##由改变磁场来调节充电电流或电压" Target="frmContent" Href="../searchservlet?query=H02J7/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02J7/16">
+        <TreeNode Title="H02J7/18 ###应用逐步接入或断开电路中的电阻的方法使磁场回路中的欧姆电阻发生变化" Target="frmContent" Href="../searchservlet?query=H02J7/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02J7/18"/>
+        <TreeNode Title="H02J7/20 ###由于连续可变欧姆电阻的改变" Target="frmContent" Href="../searchservlet?query=H02J7/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02J7/20"/>
+        <TreeNode Title="H02J7/22 ###由于间歇动作接触器的通断比的变化，例如应梯瑞尔电压调整器" Target="frmContent" Href="../searchservlet?query=H02J7/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02J7/22"/>
+        <TreeNode Title="H02J7/24 ###应用放电管或半导体器件" Target="frmContent" Href="../searchservlet?query=H02J7/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02J7/24"/>
+        <TreeNode Title="H02J7/26 ###应用饱和度可控的磁性装置" Target="frmContent" Href="../searchservlet?query=H02J7/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02J7/26"/>
+        <TreeNode Title="H02J7/28 ###应用与受控放电管或受控半导体器件相结合的饱和度可控的磁性装置" Target="frmContent" Href="../searchservlet?query=H02J7/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02J7/28"/>
+        <TreeNode Title="H02J7/30 ###应用电枢反应励磁机" Target="frmContent" Href="../searchservlet?query=H02J7/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02J7/30"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="H02J7/32 #用于从含有非电原动机的充电装置对电池组充电的" Target="frmContent" Href="../searchservlet?query=H02J7/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02J7/32"/>
+    <TreeNode Title="H02J7/34 #兼用蓄电池和其他直流电源的网络中的并联运行，例如提供缓冲作用(H02J 7/14优先)[4]" Target="frmContent" Href="../searchservlet?query=H02J7/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02J7/34">
+      <TreeNode Title="H02J7/35 ##有光敏电池的[4]" Target="frmContent" Href="../searchservlet?query=H02J7/35&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02J7/35"/>
+    </TreeNode>
+    <TreeNode Title="H02J7/36 #应用端电池切换的装置" Target="frmContent" Href="../searchservlet?query=H02J7/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02J7/36"/>
+  </TreeNode>
+  <TreeNode Title="H02J9/00 用于紧急或备用电源的回路装置，例如用于紧急照明(具有向备用电池组充电的装置的入H02J 7/00)" Target="frmContent" Href="../searchservlet?query=H02J9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02J9/00">
+    <TreeNode Title="H02J9/02 #其中的辅助配电系统和使用中的与其相关联的灯泡" Target="frmContent" Href="../searchservlet?query=H02J9/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02J9/02"/>
+    <TreeNode Title="H02J9/04 #其中的配电系统从正常电源断开并连到备用电源的" Target="frmContent" Href="../searchservlet?query=H02J9/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02J9/04">
+      <TreeNode Title="H02J9/06 ##带有自动转换的" Target="frmContent" Href="../searchservlet?query=H02J9/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02J9/06">
+        <TreeNode Title="H02J9/08 ###需要起动原动机的" Target="frmContent" Href="../searchservlet?query=H02J9/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02J9/08"/>
+      </TreeNode>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="H02J11/00 对发电、配电或变电的站内的辅助设备提供电源的回路装置(紧急或备用装置入H02J 9/00)" Target="frmContent" Href="../searchservlet?query=H02J11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02J11/00"/>
+  <TreeNode Title="H02J13/00 对网络情况提供远距离指示的电路装置，例如网络中每个电路保护器的开合情况的瞬时记录；对配电网络中的开关装置进行远距离控制的电路装置，例如用网络传送的脉冲编码信号接入或断开电流用户" Target="frmContent" Href="../searchservlet?query=H02J13/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02J13/00"/>
+  <TreeNode Title="H02J15/00 存储电能的系统(所用的机械系统入F01至F04；化学形态的入H01M)[2]" Target="frmContent" Href="../searchservlet?query=H02J15/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02J15/00"/>
+  <TreeNode Title="H02J17/00 用电磁波供电或配电的系统[3]" Target="frmContent" Href="../searchservlet?query=H02J17/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02J17/00"/>
+</Root>

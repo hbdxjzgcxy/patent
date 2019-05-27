@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="D06Q1/00 纺织品的装饰(局部染色入D06B 11/00；织物染印前保留部分材料的入D06P 5/12)" Target="frmContent" Href="../searchservlet?query=D06Q1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06Q1/00">
+    <TreeNode Title="D06Q1/02 #用化学方法使局部的织物纤维受到破坏或改变，从而制出图案花，如产生半透明的" Target="frmContent" Href="../searchservlet?query=D06Q1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06Q1/02"/>
+    <TreeNode Title="D06Q1/04 #用金属化(金属粒子的转移入D06Q 1/12)[5]" Target="frmContent" Href="../searchservlet?query=D06Q1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06Q1/04"/>
+    <TreeNode Title="D06Q1/06 #用化学装置，绒头织物的局部处理[5]" Target="frmContent" Href="../searchservlet?query=D06Q1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06Q1/06"/>
+    <TreeNode Title="D06Q1/08 #用机械效果的固着，如轧光、轧花或摩擦轧光效果，使用化学方法[5]" Target="frmContent" Href="../searchservlet?query=D06Q1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06Q1/08"/>
+    <TreeNode Title="D06Q1/10 #用特殊材料处理并固着，如云母、玻璃珠(金属化入D06Q 1/04；通过转移入D06Q 1/12)[5]" Target="frmContent" Href="../searchservlet?query=D06Q1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06Q1/10"/>
+    <TreeNode Title="D06Q1/12 #通过将化学试剂或特定的或其他形状的金属或非金属材料从一个固体临时载体上转移至织物上[5]" Target="frmContent" Href="../searchservlet?query=D06Q1/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06Q1/12">
+      <TreeNode Title="D06Q1/14 ##通过将纤维，或纤维黏合剂转移到织物上[5]" Target="frmContent" Href="../searchservlet?query=D06Q1/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06Q1/14"/>
+    </TreeNode>
+  </TreeNode>
+</Root>

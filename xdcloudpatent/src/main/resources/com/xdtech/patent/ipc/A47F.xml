@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="A47F1/00 分配货物用的货架(一般货架入A47B；工厂的贮存设备入B25H)；分配货物用的容器(陈列物品用的入A47F 3/00；工厂放零件用的入B25H 3/00；一般容器入B65D；投币自动配给器入G07F)" Target="frmContent" Href="../searchservlet?query=A47F1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47F1/00">
+    <TreeNode Title="A47F1/02 #颗粒或粉末材料用的" Target="frmContent" Href="../searchservlet?query=A47F1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47F1/02">
+      <TreeNode Title="A47F1/03 ##分送装置" Target="frmContent" Href="../searchservlet?query=A47F1/03&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47F1/03">
+        <TreeNode Title="A47F1/035 ###有测量装置的" Target="frmContent" Href="../searchservlet?query=A47F1/035&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47F1/035"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="A47F1/04 #具有分送物品装置的容器" Target="frmContent" Href="../searchservlet?query=A47F1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47F1/04">
+      <TreeNode Title="A47F1/06 ##从顶部分送的" Target="frmContent" Href="../searchservlet?query=A47F1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47F1/06"/>
+      <TreeNode Title="A47F1/08 ##从底部分送的" Target="frmContent" Href="../searchservlet?query=A47F1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47F1/08">
+        <TreeNode Title="A47F1/10 ###有机械分送装置的" Target="frmContent" Href="../searchservlet?query=A47F1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47F1/10"/>
+      </TreeNode>
+      <TreeNode Title="A47F1/12 ##从近似水平的货架之一端分送的" Target="frmContent" Href="../searchservlet?query=A47F1/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47F1/12"/>
+    </TreeNode>
+    <TreeNode Title="A47F1/14 #适宜重叠的容器，或与陈列台组合的，或与陈列台组合形成货架的容器" Target="frmContent" Href="../searchservlet?query=A47F1/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47F1/14"/>
+    <TreeNode Title="A47F1/16 #可旋转的容器" Target="frmContent" Href="../searchservlet?query=A47F1/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47F1/16"/>
+    <TreeNode Title="A47F1/18 #货架和售货广口瓶的组合" Target="frmContent" Href="../searchservlet?query=A47F1/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47F1/18"/>
+  </TreeNode>
+  <TreeNode Title="A47F3/00 陈列用的橱柜" Target="frmContent" Href="../searchservlet?query=A47F3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47F3/00">
+    <TreeNode Title="A47F3/02 #有分送装置的(投币式的入G07F)" Target="frmContent" Href="../searchservlet?query=A47F3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47F3/02">
+      <TreeNode Title="A47F3/022 ##从顶部分送的" Target="frmContent" Href="../searchservlet?query=A47F3/022&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47F3/022"/>
+      <TreeNode Title="A47F3/024 ##从底部分送的" Target="frmContent" Href="../searchservlet?query=A47F3/024&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47F3/024">
+        <TreeNode Title="A47F3/026 ###有机械分送装置的" Target="frmContent" Href="../searchservlet?query=A47F3/026&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47F3/026"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="A47F3/04 #有空气调节的，有冷冻的(冷冻库入F25D；专用于透明或反射区域的加热装置入H05B 3/84)" Target="frmContent" Href="../searchservlet?query=A47F3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47F3/04"/>
+    <TreeNode Title="A47F3/06 #有活动的或可卸的搁板的" Target="frmContent" Href="../searchservlet?query=A47F3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47F3/06"/>
+    <TreeNode Title="A47F3/08 #有连续地或间歇性地移动货物装置的" Target="frmContent" Href="../searchservlet?query=A47F3/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47F3/08"/>
+    <TreeNode Title="A47F3/10 #旋转式陈列橱柜" Target="frmContent" Href="../searchservlet?query=A47F3/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47F3/10">
+      <TreeNode Title="A47F3/11 ##有机械驱动装置的" Target="frmContent" Href="../searchservlet?query=A47F3/11&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47F3/11"/>
+    </TreeNode>
+    <TreeNode Title="A47F3/12 #支撑、固定或连接玻璃板用的夹具或其他装置" Target="frmContent" Href="../searchservlet?query=A47F3/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47F3/12"/>
+    <TreeNode Title="A47F3/14 #陈列盘(做陈列盘用的包装箱入B65D)" Target="frmContent" Href="../searchservlet?query=A47F3/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47F3/14"/>
+  </TreeNode>
+  <TreeNode Title="A47F5/00 按结构特征分类的陈列台、吊架或货架" Target="frmContent" Href="../searchservlet?query=A47F5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47F5/00">
+    <TreeNode Title="A47F5/01 #由管子或金属丝制成的(可折叠的或可调节的入A47F 5/13)" Target="frmContent" Href="../searchservlet?query=A47F5/01&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47F5/01"/>
+    <TreeNode Title="A47F5/02 #旋转式陈列台" Target="frmContent" Href="../searchservlet?query=A47F5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47F5/02">
+      <TreeNode Title="A47F5/025 ##有机械驱动的，例如旋转桌(A47F 5/03优先)" Target="frmContent" Href="../searchservlet?query=A47F5/025&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47F5/025"/>
+      <TreeNode Title="A47F5/03 ##有水平旋转轴的" Target="frmContent" Href="../searchservlet?query=A47F5/03&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47F5/03"/>
+    </TreeNode>
+    <TreeNode Title="A47F5/04 #有中心柱的陈列台，例如树式的" Target="frmContent" Href="../searchservlet?query=A47F5/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47F5/04">
+      <TreeNode Title="A47F5/05 ##具有围绕中心柱旋转的分离式容器" Target="frmContent" Href="../searchservlet?query=A47F5/05&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47F5/05"/>
+      <TreeNode Title="A47F5/06 ##可调节的" Target="frmContent" Href="../searchservlet?query=A47F5/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47F5/06"/>
+    </TreeNode>
+    <TreeNode Title="A47F5/08 #固定在墙壁、天花板等上的；墙壁托架式陈列装置" Target="frmContent" Href="../searchservlet?query=A47F5/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47F5/08"/>
+    <TreeNode Title="A47F5/10 #可调节的或可折叠的陈列台" Target="frmContent" Href="../searchservlet?query=A47F5/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47F5/10">
+      <TreeNode Title="A47F5/11 ##由硬纸板、纸等制成的(A47F 5/12优先)" Target="frmContent" Href="../searchservlet?query=A47F5/11&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47F5/11"/>
+      <TreeNode Title="A47F5/12 ##可倾斜的台" Target="frmContent" Href="../searchservlet?query=A47F5/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47F5/12"/>
+      <TreeNode Title="A47F5/13 ##由管子或金属丝制成的(A47F 5/12优先)" Target="frmContent" Href="../searchservlet?query=A47F5/13&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47F5/13"/>
+    </TreeNode>
+    <TreeNode Title="A47F5/14 #金属丝陈列台的管状连接部件" Target="frmContent" Href="../searchservlet?query=A47F5/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47F5/14"/>
+    <TreeNode Title="A47F5/16 #有平坦的、倾斜的或弯曲的上部表面的平台式陈列台" Target="frmContent" Href="../searchservlet?query=A47F5/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47F5/16"/>
+  </TreeNode>
+  <TreeNode Title="A47F7/00 适宜特殊商品或材料的陈列台、吊架或货架" Target="frmContent" Href="../searchservlet?query=A47F7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47F7/00">
+    <TreeNode Title="A47F7/02 #陈列珠宝、假牙、钟表、眼镜、透镜等用的" Target="frmContent" Href="../searchservlet?query=A47F7/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47F7/02">
+      <TreeNode Title="A47F7/024 ##有防止他人移动的装置的" Target="frmContent" Href="../searchservlet?query=A47F7/024&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47F7/024"/>
+      <TreeNode Title="A47F7/03 ##箱式的；适于陈列用的箱" Target="frmContent" Href="../searchservlet?query=A47F7/03&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47F7/03"/>
+    </TreeNode>
+    <TreeNode Title="A47F7/04 #陈列轮胎用的" Target="frmContent" Href="../searchservlet?query=A47F7/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47F7/04"/>
+    <TreeNode Title="A47F7/06 #陈列帽子用的" Target="frmContent" Href="../searchservlet?query=A47F7/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47F7/06"/>
+    <TreeNode Title="A47F7/08 #陈列靴鞋用的" Target="frmContent" Href="../searchservlet?query=A47F7/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47F7/08"/>
+    <TreeNode Title="A47F7/10 #陈列男人商品用的" Target="frmContent" Href="../searchservlet?query=A47F7/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47F7/10"/>
+    <TreeNode Title="A47F7/12 #陈列领带用的(家用领带架入A47G 25/74)； 陈列衣领用的" Target="frmContent" Href="../searchservlet?query=A47F7/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47F7/12"/>
+    <TreeNode Title="A47F7/14 #陈列图片用的，例如与书籍或种子袋结合在一起的" Target="frmContent" Href="../searchservlet?query=A47F7/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47F7/14"/>
+    <TreeNode Title="A47F7/16 #陈列地毯用的； 陈列墙纸用的；陈列纺织品用的" Target="frmContent" Href="../searchservlet?query=A47F7/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47F7/16">
+      <TreeNode Title="A47F7/17 ##成卷的或成卷带状的" Target="frmContent" Href="../searchservlet?query=A47F7/17&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47F7/17"/>
+      <TreeNode Title="A47F7/18 ##陈列衣料用的(A47F 7/17优先) [3]" Target="frmContent" Href="../searchservlet?query=A47F7/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47F7/18"/>
+    </TreeNode>
+    <TreeNode Title="A47F7/19 #陈列服装用的(男人服装用的入A47F 7/10；领带或衣领用的入A47F 7/12；假人、半身胸像等入A47F 8/00；带有衣架的衣柜入A47B 61/00；家用的带衣架的衣柜入A47G 25/00)" Target="frmContent" Href="../searchservlet?query=A47F7/19&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47F7/19">
+      <TreeNode Title="A47F7/22 ##陈列衬衫用的" Target="frmContent" Href="../searchservlet?query=A47F7/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47F7/22"/>
+      <TreeNode Title="A47F7/24 ##衣架" Target="frmContent" Href="../searchservlet?query=A47F7/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47F7/24">
+        <TreeNode Title="A47F7/26 ###能从陈列柜伸展的" Target="frmContent" Href="../searchservlet?query=A47F7/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47F7/26"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="A47F7/28 #陈列容器用的，例如陈列细颈瓶、酒瓶用的" Target="frmContent" Href="../searchservlet?query=A47F7/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47F7/28"/>
+    <TreeNode Title="A47F7/30 #陈列家具用的，例如陈列床、床垫用的" Target="frmContent" Href="../searchservlet?query=A47F7/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47F7/30"/>
+  </TreeNode>
+  <TreeNode Title="A47F8/00 假人、半身胸像等，例如陈列服装用的(裁缝店的假人入A41H 5/00)" Target="frmContent" Href="../searchservlet?query=A47F8/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47F8/00">
+    <TreeNode Title="A47F8/02 #金属人物模型；陈列服装用的人物轮廓模型" Target="frmContent" Href="../searchservlet?query=A47F8/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47F8/02"/>
+  </TreeNode>
+  <TreeNode Title="A47F9/00 商店、酒店、银行或类似的柜台(陈列用的箱或橱入A47F 3/00；安全处理部分，如可移动的支付板入E05G 7/00)" Target="frmContent" Href="../searchservlet?query=A47F9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47F9/00">
+    <TreeNode Title="A47F9/02 #付款柜台" Target="frmContent" Href="../searchservlet?query=A47F9/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47F9/02">
+      <TreeNode Title="A47F9/04 ##出口处柜台，如用于自动售货商店的 [3]" Target="frmContent" Href="../searchservlet?query=A47F9/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47F9/04"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="A47F10/00 未列入其他类目的、专门适用于特别的服务行业的家具或设备(传送方面的入B65G； 建筑方面的入E04H； 硬币传动装置入G07F) [3]" Target="frmContent" Href="../searchservlet?query=A47F10/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47F10/00">
+    <TreeNode Title="A47F10/02 #用于自选型的系统，例如超级市场(A47F 10/06优先；手推车入B62B；篮子入B65D) [3]" Target="frmContent" Href="../searchservlet?query=A47F10/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47F10/02">
+      <TreeNode Title="A47F10/04 ##为储存或搬运自选用手推车或篮子的 [3]" Target="frmContent" Href="../searchservlet?query=A47F10/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47F10/04"/>
+    </TreeNode>
+    <TreeNode Title="A47F10/06 #为饭店服务行业用的(桌用设施入A47G) [3]" Target="frmContent" Href="../searchservlet?query=A47F10/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47F10/06"/>
+  </TreeNode>
+  <TreeNode Title="A47F11/00 商店橱窗或陈列橱柜用的装置" Target="frmContent" Href="../searchservlet?query=A47F11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47F11/00">
+    <TreeNode Title="A47F11/02 #活动壁；支架；特殊窗帘等" Target="frmContent" Href="../searchservlet?query=A47F11/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47F11/02"/>
+    <TreeNode Title="A47F11/04 #镜子或类似物的特殊装置" Target="frmContent" Href="../searchservlet?query=A47F11/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47F11/04"/>
+    <TreeNode Title="A47F11/06 #产生特殊光学效应的装置" Target="frmContent" Href="../searchservlet?query=A47F11/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47F11/06">
+      <TreeNode Title="A47F11/08 ##不反光的橱窗" Target="frmContent" Href="../searchservlet?query=A47F11/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47F11/08"/>
+      <TreeNode Title="A47F11/10 ##光源装置" Target="frmContent" Href="../searchservlet?query=A47F11/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47F11/10"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="A47F13/00 商店等场所用的辅助用具(从卷筒抽出和切割纸张的装置入B65H；活动梯子入E06C 9/06)" Target="frmContent" Href="../searchservlet?query=A47F13/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47F13/00">
+    <TreeNode Title="A47F13/04 #绳的支架或切割器" Target="frmContent" Href="../searchservlet?query=A47F13/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47F13/04"/>
+    <TreeNode Title="A47F13/06 #取货物的装置(有夹持装置的入B25J)" Target="frmContent" Href="../searchservlet?query=A47F13/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47F13/06"/>
+    <TreeNode Title="A47F13/08 #手用工具，例如食品店的铲子、长柄勺子、纸袋支架" Target="frmContent" Href="../searchservlet?query=A47F13/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47F13/08"/>
+  </TreeNode>
+</Root>

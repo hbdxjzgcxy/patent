@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="G04C1/00 机械时钟的电动上发条(机械上发条入G04B 3/00)" Target="frmContent" Href="../searchservlet?query=G04C1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04C1/00">
+    <TreeNode Title="G04C1/02 #用电磁体" Target="frmContent" Href="../searchservlet?query=G04C1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04C1/02"/>
+    <TreeNode Title="G04C1/04 #用旋转或往复运动的电动机" Target="frmContent" Href="../searchservlet?query=G04C1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04C1/04">
+      <TreeNode Title="G04C1/06 ##上紧弹簧" Target="frmContent" Href="../searchservlet?query=G04C1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04C1/06"/>
+      <TreeNode Title="G04C1/08 ##提升重锤" Target="frmContent" Href="../searchservlet?query=G04C1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04C1/08"/>
+    </TreeNode>
+    <TreeNode Title="G04C1/10 #上发条过紧的保护(机械钟表的入G04B 1/20，G04B 3/06，G04B 3/10)" Target="frmContent" Href="../searchservlet?query=G04C1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04C1/10">
+      <TreeNode Title="G04C1/12 ##弹簧的" Target="frmContent" Href="../searchservlet?query=G04C1/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04C1/12"/>
+      <TreeNode Title="G04C1/14 ##重锤的" Target="frmContent" Href="../searchservlet?query=G04C1/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04C1/14"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="G04C3/00 与其他计时器无关的并由电动装置维持运转的电动机械钟表(用同步马达驱动的钟入G04C 15/00)" Target="frmContent" Href="../searchservlet?query=G04C3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04C3/00">
+    <TreeNode Title="G04C3/02 #机芯由摆调节的" Target="frmContent" Href="../searchservlet?query=G04C3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04C3/02">
+      <TreeNode Title="G04C3/027 ##电源和摆之间利用电磁耦合的(G04C 3/033优先)[3]" Target="frmContent" Href="../searchservlet?query=G04C3/027&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04C3/027"/>
+      <TreeNode Title="G04C3/033 ##利用扭摆；利用锥形摆(其结构入G04B 17/00)[3]" Target="frmContent" Href="../searchservlet?query=G04C3/033&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04C3/033"/>
+    </TreeNode>
+    <TreeNode Title="G04C3/04 #机芯由摆轮调节的" Target="frmContent" Href="../searchservlet?query=G04C3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04C3/04">
+      <TreeNode Title="G04C3/06 ##电源和摆轮之间利用电磁耦合的[3]" Target="frmContent" Href="../searchservlet?query=G04C3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04C3/06"/>
+    </TreeNode>
+    <TreeNode Title="G04C3/08 #机芯用与摆或摆轮作用不同的机械振动器调节的，例如，用音叉[3]" Target="frmContent" Href="../searchservlet?query=G04C3/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04C3/08">
+      <TreeNode Title="G04C3/10 ##用电磁装置驱动[3]" Target="frmContent" Href="../searchservlet?query=G04C3/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04C3/10"/>
+      <TreeNode Title="G04C3/12 ##用压电装置驱动；用磁致伸缩装置驱动[3]" Target="frmContent" Href="../searchservlet?query=G04C3/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04C3/12"/>
+    </TreeNode>
+    <TreeNode Title="G04C3/14 #装有步进电机(G04C 3/02至G04C 3/12优先)[3]" Target="frmContent" Href="../searchservlet?query=G04C3/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04C3/14"/>
+    <TreeNode Title="G04C3/16 #装有电动连续转动马达(G04C 3/02至G04C 3/12优先)[3]" Target="frmContent" Href="../searchservlet?query=G04C3/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04C3/16"/>
+    <TreeNode Title="G04C3/18 #装有电—热或电—气动驱动装置[3]" Target="frmContent" Href="../searchservlet?query=G04C3/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04C3/18"/>
+  </TreeNode>
+  <TreeNode Title="G04C5/00 计时器内将摆动变换成转动的电或磁装置，即电或磁的擒纵机构(调节器入G04C 3/00)[3]" Target="frmContent" Href="../searchservlet?query=G04C5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04C5/00"/>
+  <TreeNode Title="G04C9/00 调整时间指示装置的电动操作装置(子钟的入G04C 13/03；机械调整装置入G04B 27/00)[3]" Target="frmContent" Href="../searchservlet?query=G04C9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04C9/00">
+    <TreeNode Title="G04C9/02 #用无线电发射带动工作" Target="frmContent" Href="../searchservlet?query=G04C9/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04C9/02"/>
+    <TreeNode Title="G04C9/04 #用阻断驱动装置的方法[3]" Target="frmContent" Href="../searchservlet?query=G04C9/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04C9/04"/>
+    <TreeNode Title="G04C9/06 #用使驱动装置解耦的方法(与阻断的方法结合的入G04C 9/04)[3]" Target="frmContent" Href="../searchservlet?query=G04C9/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04C9/06"/>
+    <TreeNode Title="G04C9/08 #用电驱动[3]" Target="frmContent" Href="../searchservlet?query=G04C9/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04C9/08"/>
+  </TreeNode>
+  <TreeNode Title="G04C10/00 计时器内的电源装置[3]" Target="frmContent" Href="../searchservlet?query=G04C10/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04C10/00">
+    <TreeNode Title="G04C10/02 #电源是放射性源[3]" Target="frmContent" Href="../searchservlet?query=G04C10/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04C10/02"/>
+    <TreeNode Title="G04C10/04 #带有指示电源状况的装置[3]" Target="frmContent" Href="../searchservlet?query=G04C10/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04C10/04"/>
+  </TreeNode>
+  <TreeNode Title="G04C11/00 独立驱动的时钟的同步" Target="frmContent" Href="../searchservlet?query=G04C11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04C11/00">
+    <TreeNode Title="G04C11/02 #用无线电" Target="frmContent" Href="../searchservlet?query=G04C11/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04C11/02"/>
+    <TreeNode Title="G04C11/04 #通过线路(通过电话网络传送时间信号的入H04M 11/06)" Target="frmContent" Href="../searchservlet?query=G04C11/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04C11/04"/>
+    <TreeNode Title="G04C11/06 #在时间指示装置上用直接的机械动作[3]" Target="frmContent" Href="../searchservlet?query=G04C11/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04C11/06"/>
+    <TreeNode Title="G04C11/08 #利用电磁铁或马达[3]" Target="frmContent" Href="../searchservlet?query=G04C11/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04C11/08"/>
+  </TreeNode>
+  <TreeNode Title="G04C13/00 由母钟带动的时钟的驱动机构" Target="frmContent" Href="../searchservlet?query=G04C13/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04C13/00">
+    <TreeNode Title="G04C13/02 #电路布置；电钟的装设" Target="frmContent" Href="../searchservlet?query=G04C13/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04C13/02">
+      <TreeNode Title="G04C13/03 ##带有调整子钟时间指示的附加装置的脉冲发射系统[3]" Target="frmContent" Href="../searchservlet?query=G04C13/03&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04C13/03"/>
+      <TreeNode Title="G04C13/04 ##母钟" Target="frmContent" Href="../searchservlet?query=G04C13/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04C13/04">
+        <TreeNode Title="G04C13/06 ###触点装置(用于几个钟同时上发条的入G04C 1/00)" Target="frmContent" Href="../searchservlet?query=G04C13/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04C13/06"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="G04C13/08 #间歇动作的子钟" Target="frmContent" Href="../searchservlet?query=G04C13/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04C13/08">
+      <TreeNode Title="G04C13/10 ##用机电的步进机构" Target="frmContent" Href="../searchservlet?query=G04C13/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04C13/10">
+        <TreeNode Title="G04C13/11 ###有转动的电枢[3]" Target="frmContent" Href="../searchservlet?query=G04C13/11&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04C13/11"/>
+      </TreeNode>
+      <TreeNode Title="G04C13/12 ##用连续转动的电机[3]" Target="frmContent" Href="../searchservlet?query=G04C13/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04C13/12"/>
+      <TreeNode Title="G04C13/14 ##用电动释放的机械驱动机构" Target="frmContent" Href="../searchservlet?query=G04C13/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04C13/14"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="G04C15/00 用同步马达驱动的时钟" Target="frmContent" Href="../searchservlet?query=G04C15/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04C15/00"/>
+  <TreeNode Title="G04C17/00 应用电动装置以光学方式指示时间(G04C 19/00优先；液晶材料入C09K 19/00；用机械装置入G04B 19/00，G04B 19/20)[3]" Target="frmContent" Href="../searchservlet?query=G04C17/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04C17/00">
+    <TreeNode Title="G04C17/02 #用电灯" Target="frmContent" Href="../searchservlet?query=G04C17/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04C17/02"/>
+  </TreeNode>
+  <TreeNode Title="G04C19/00 应用电动装置在预定时间产生光的时间信号" Target="frmContent" Href="../searchservlet?query=G04C19/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04C19/00">
+    <TreeNode Title="G04C19/02 #用电灯" Target="frmContent" Href="../searchservlet?query=G04C19/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04C19/02"/>
+    <TreeNode Title="G04C19/04 #用电动的指示元件，例如，片、带" Target="frmContent" Href="../searchservlet?query=G04C19/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04C19/04"/>
+  </TreeNode>
+  <TreeNode Title="G04C21/00 应用电动装置产生声音的时间信号" Target="frmContent" Href="../searchservlet?query=G04C21/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04C21/00">
+    <TreeNode Title="G04C21/02 #结构零件(G04C 21/04，G04C 21/16优先)" Target="frmContent" Href="../searchservlet?query=G04C21/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04C21/02"/>
+    <TreeNode Title="G04C21/04 #指示白天的时间(时间的音响指示入G04B 21/00)" Target="frmContent" Href="../searchservlet?query=G04C21/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04C21/04">
+      <TreeNode Title="G04C21/06 ##用敲打报时机构" Target="frmContent" Href="../searchservlet?query=G04C21/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04C21/06">
+        <TreeNode Title="G04C21/08 ###有蜗形轮的" Target="frmContent" Href="../searchservlet?query=G04C21/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04C21/08"/>
+        <TreeNode Title="G04C21/10 ###有锁定板的" Target="frmContent" Href="../searchservlet?query=G04C21/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04C21/10"/>
+      </TreeNode>
+      <TreeNode Title="G04C21/12 ##用电声装置" Target="frmContent" Href="../searchservlet?query=G04C21/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04C21/12">
+        <TreeNode Title="G04C21/14 ###电声报时，即说话的" Target="frmContent" Href="../searchservlet?query=G04C21/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04C21/14"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="G04C21/16 #在可调的固定时间产生信号" Target="frmContent" Href="../searchservlet?query=G04C21/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04C21/16">
+      <TreeNode Title="G04C21/18 ##由机械释放电动机械振动器，例如，由电驱动机构的漏逸磁道操作的" Target="frmContent" Href="../searchservlet?query=G04C21/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04C21/18"/>
+      <TreeNode Title="G04C21/20 ##由关闭触点打响机电鸣时器" Target="frmContent" Href="../searchservlet?query=G04C21/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04C21/20">
+        <TreeNode Title="G04C21/22 ###由机电鸣时器的心轴操作的" Target="frmContent" Href="../searchservlet?query=G04C21/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04C21/22"/>
+        <TreeNode Title="G04C21/24 ###由机电鸣时器的弹簧操作的" Target="frmContent" Href="../searchservlet?query=G04C21/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04C21/24"/>
+        <TreeNode Title="G04C21/26 ###由机电鸣时器的动作引起振动而操作的" Target="frmContent" Href="../searchservlet?query=G04C21/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04C21/26"/>
+      </TreeNode>
+      <TreeNode Title="G04C21/28 ##由关闭触点使电声装置动作的，例如，由音乐报时" Target="frmContent" Href="../searchservlet?query=G04C21/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04C21/28"/>
+      <TreeNode Title="G04C21/30 ##在不同时间备有若干操作的，例如，学校中的响铃" Target="frmContent" Href="../searchservlet?query=G04C21/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04C21/30">
+        <TreeNode Title="G04C21/32 ###在各个不同时间对若干地方给出报时信号，例如，旅馆中的报时系统" Target="frmContent" Href="../searchservlet?query=G04C21/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04C21/32"/>
+      </TreeNode>
+      <TreeNode Title="G04C21/34 ##装在表上或类似的可携带的计时器上的装置" Target="frmContent" Href="../searchservlet?query=G04C21/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04C21/34"/>
+      <TreeNode Title="G04C21/36 ##重复报时信号装置" Target="frmContent" Href="../searchservlet?query=G04C21/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04C21/36"/>
+      <TreeNode Title="G04C21/38 ##调节报时信号持续时间" Target="frmContent" Href="../searchservlet?query=G04C21/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04C21/38"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="G04C23/00 带有或装有在预选时间或在预先时间间隔之后操作任一器件的装置的时钟(如果限定由电动装置产生声音的时间信号入G04C 21/00；机械闹钟入G04B 23/02；可以调整和能进行测量预定时间间隔的器械入G04F 3/06；在程序执行后自动地终止其操作的时间或时间程序开关入H01H 43/00)" Target="frmContent" Href="../searchservlet?query=G04C23/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04C23/00">
+    <TreeNode Title="G04C23/02 #结构零件" Target="frmContent" Href="../searchservlet?query=G04C23/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04C23/02">
+      <TreeNode Title="G04C23/04 ##外壳、支架、屏蔽罩或类似的静止零部件" Target="frmContent" Href="../searchservlet?query=G04C23/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04C23/04"/>
+      <TreeNode Title="G04C23/06 ##驱动或调节装置" Target="frmContent" Href="../searchservlet?query=G04C23/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04C23/06"/>
+      <TreeNode Title="G04C23/08 ##编制程序装置" Target="frmContent" Href="../searchservlet?query=G04C23/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04C23/08"/>
+      <TreeNode Title="G04C23/10 ##用于驱动使有关装置运转或起动的任一构件" Target="frmContent" Href="../searchservlet?query=G04C23/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04C23/10"/>
+      <TreeNode Title="G04C23/12 ##电路" Target="frmContent" Href="../searchservlet?query=G04C23/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04C23/12"/>
+    </TreeNode>
+    <TreeNode Title="G04C23/14 #使钟表时刻与操作相联系的连续运转的机构" Target="frmContent" Href="../searchservlet?query=G04C23/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04C23/14">
+      <TreeNode Title="G04C23/16 ##只在一个预选的时刻或在一段可调节的时间间隔内动作的" Target="frmContent" Href="../searchservlet?query=G04C23/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04C23/16"/>
+      <TreeNode Title="G04C23/18 ##用于在若干不同时间操作一装置的" Target="frmContent" Href="../searchservlet?query=G04C23/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04C23/18">
+        <TreeNode Title="G04C23/20 ###带有由时钟指针或类似的构件操作的或组成的触点" Target="frmContent" Href="../searchservlet?query=G04C23/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04C23/20"/>
+        <TreeNode Title="G04C23/22 ###具有由圆盘带动的执行元件" Target="frmContent" Href="../searchservlet?query=G04C23/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04C23/22">
+          <TreeNode Title="G04C23/24 ####执行元件机械地控制另一元件" Target="frmContent" Href="../searchservlet?query=G04C23/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04C23/24"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="G04C23/26 ##用于在不同时间操作若干装置" Target="frmContent" Href="../searchservlet?query=G04C23/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04C23/26">
+        <TreeNode Title="G04C23/28 ###带有由时钟指针或类似的构件操作的或组成的触点" Target="frmContent" Href="../searchservlet?query=G04C23/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04C23/28"/>
+        <TreeNode Title="G04C23/30 ###具有由圆盘带动的执行元件" Target="frmContent" Href="../searchservlet?query=G04C23/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04C23/30">
+          <TreeNode Title="G04C23/32 ####执行元件机械地控制另一元件" Target="frmContent" Href="../searchservlet?query=G04C23/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04C23/32"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="G04C23/34 ##备有程序自动更改的装置，例如，在星期日更改" Target="frmContent" Href="../searchservlet?query=G04C23/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04C23/34">
+        <TreeNode Title="G04C23/36 ###通过外部的影响" Target="frmContent" Href="../searchservlet?query=G04C23/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04C23/36"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="G04C23/38 #测量间隔开始时刻与钟表上时刻无关的所选择的时间间隔的机构" Target="frmContent" Href="../searchservlet?query=G04C23/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04C23/38">
+      <TreeNode Title="G04C23/40 ##应用连续运转的机构" Target="frmContent" Href="../searchservlet?query=G04C23/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04C23/40"/>
+      <TreeNode Title="G04C23/42 ##只在单个时间间隔的终点动作" Target="frmContent" Href="../searchservlet?query=G04C23/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04C23/42">
+        <TreeNode Title="G04C23/44 ###从若干预定的时间间隔中选择" Target="frmContent" Href="../searchservlet?query=G04C23/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04C23/44"/>
+        <TreeNode Title="G04C23/46 ###备有时间间隔的调节装置(G04C 23/44优先)" Target="frmContent" Href="../searchservlet?query=G04C23/46&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04C23/46"/>
+      </TreeNode>
+      <TreeNode Title="G04C23/48 ##在相继的时间间隔的终点动作" Target="frmContent" Href="../searchservlet?query=G04C23/48&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04C23/48"/>
+      <TreeNode Title="G04C23/50 ##具有借外部影响变更时间间隔的装置" Target="frmContent" Href="../searchservlet?query=G04C23/50&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04C23/50"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="G04C99/00 本小类其他各组中不包含的技术主题[8]" Target="frmContent" Href="../searchservlet?query=G04C99/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04C99/00"/>
+</Root>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="B60V1/00 气垫车(陆地车辆，水面船只或飞机适合于或改建成在气垫上行驶的入B60V 3/00)" Target="frmContent" Href="../searchservlet?query=B60V1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60V1/00">
+    <TreeNode Title="B60V1/02 # 其中气垫至少由一个围边流体裙产生并保持的" Target="frmContent" Href="../searchservlet?query=B60V1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60V1/02"/>
+    <TreeNode Title="B60V1/04 # 其中气垫至少部分由侧壁保持的" Target="frmContent" Href="../searchservlet?query=B60V1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60V1/04"/>
+    <TreeNode Title="B60V1/06 # 其中气垫是在充气室内形成的" Target="frmContent" Href="../searchservlet?query=B60V1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60V1/06"/>
+    <TreeNode Title="B60V1/08 # 其中气垫是在车向前运动时通过冲压效应产生的" Target="frmContent" Href="../searchservlet?query=B60V1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60V1/08"/>
+    <TreeNode Title="B60V1/10 # 其中形成围裙的喷嘴或车辆底部被成型以产生涡流围裙的" Target="frmContent" Href="../searchservlet?query=B60V1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60V1/10"/>
+    <TreeNode Title="B60V1/11 # 稳定性或状态控制[2]" Target="frmContent" Href="../searchservlet?query=B60V1/11&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60V1/11">
+      <TreeNode Title="B60V1/12 ##通过分隔气垫[2]" Target="frmContent" Href="../searchservlet?query=B60V1/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60V1/12"/>
+    </TreeNode>
+    <TreeNode Title="B60V1/14 # 驱动；及其控制(B60V 1/11优先)[2]" Target="frmContent" Href="../searchservlet?query=B60V1/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60V1/14">
+      <TreeNode Title="B60V1/15 ##利用气垫形成流体一部分的[2]" Target="frmContent" Href="../searchservlet?query=B60V1/15&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60V1/15"/>
+    </TreeNode>
+    <TreeNode Title="B60V1/16 # 挠性裙" Target="frmContent" Href="../searchservlet?query=B60V1/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60V1/16"/>
+    <TreeNode Title="B60V1/18 # 车身结构" Target="frmContent" Href="../searchservlet?query=B60V1/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60V1/18"/>
+    <TreeNode Title="B60V1/20 # 喷射导流板" Target="frmContent" Href="../searchservlet?query=B60V1/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60V1/20"/>
+    <TreeNode Title="B60V1/22 # 装有水翼的" Target="frmContent" Href="../searchservlet?query=B60V1/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60V1/22"/>
+  </TreeNode>
+  <TreeNode Title="B60V3/00 陆地车辆、水面船只或飞机适合于或改建成在气垫上行驶的" Target="frmContent" Href="../searchservlet?query=B60V3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60V3/00">
+    <TreeNode Title="B60V3/02 # 陆地车辆，例如道路车辆" Target="frmContent" Href="../searchservlet?query=B60V3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60V3/02">
+      <TreeNode Title="B60V3/04 ##与轨道或其他导向装置共同作用的，例如轨道与车之间有气垫的" Target="frmContent" Href="../searchservlet?query=B60V3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60V3/04"/>
+    </TreeNode>
+    <TreeNode Title="B60V3/06 # 水面船只" Target="frmContent" Href="../searchservlet?query=B60V3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60V3/06"/>
+    <TreeNode Title="B60V3/08 # 飞机，例如所用气垫起落架" Target="frmContent" Href="../searchservlet?query=B60V3/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60V3/08"/>
+  </TreeNode>
+</Root>

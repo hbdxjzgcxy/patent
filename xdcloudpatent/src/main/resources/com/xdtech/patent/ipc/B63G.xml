@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="B63G1/00 枪炮或导弹发射装置的布置；以其为特点的舰艇(潜艇入B63G 8/00；枪炮，导弹发射装置入F41)" Target="frmContent" Href="../searchservlet?query=B63G1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63G1/00"/>
+  <TreeNode Title="B63G3/00 弹药贮藏或运输装置的布置(潜艇专用的入B63G 8/00；一般导弹或炮弹的供给入F41A 9/00)；以其为特点的舰艇(通常货船方面入B63B)" Target="frmContent" Href="../searchservlet?query=B63G3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63G3/00">
+    <TreeNode Title="B63G3/02 # 用于鱼雷的" Target="frmContent" Href="../searchservlet?query=B63G3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63G3/02"/>
+    <TreeNode Title="B63G3/04 # 用于导弹的" Target="frmContent" Href="../searchservlet?query=B63G3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63G3/04"/>
+    <TreeNode Title="B63G3/06 # 用于水雷或深水炸弹的" Target="frmContent" Href="../searchservlet?query=B63G3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63G3/06"/>
+  </TreeNode>
+  <TreeNode Title="B63G5/00 以适合发射鱼雷为特点的舰艇(潜艇入B63G 8/00；鱼雷发射本身入F41F 3/00)" Target="frmContent" Href="../searchservlet?query=B63G5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63G5/00"/>
+  <TreeNode Title="B63G6/00 水雷或深水炸弹的布设；以其为特点的舰艇(潜艇上用于布雷的装置入B63G 8/33)[2]" Target="frmContent" Href="../searchservlet?query=B63G6/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63G6/00"/>
+  <TreeNode Title="B63G7/00 扫雷；以其为特点的舰艇" Target="frmContent" Href="../searchservlet?query=B63G7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63G7/00">
+    <TreeNode Title="B63G7/02 # 扫雷装置；消灭水雷的装置" Target="frmContent" Href="../searchservlet?query=B63G7/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63G7/02">
+      <TreeNode Title="B63G7/04 ##用缆索的" Target="frmContent" Href="../searchservlet?query=B63G7/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63G7/04"/>
+      <TreeNode Title="B63G7/06 ##电磁型的" Target="frmContent" Href="../searchservlet?query=B63G7/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63G7/06"/>
+      <TreeNode Title="B63G7/08 ##声波型的" Target="frmContent" Href="../searchservlet?query=B63G7/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63G7/08"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="B63G8/00 水下舰艇，例如潜艇(潜艇壳体入B63B 3/13；与基地有机械连接的，例如缆索的潜水舱入B63C 11/34；潜水员滑板入B63C 11/46；鱼雷入F42B 19/00)" Target="frmContent" Href="../searchservlet?query=B63G8/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63G8/00">
+    <TreeNode Title="B63G8/04 # 上层建筑" Target="frmContent" Href="../searchservlet?query=B63G8/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63G8/04">
+      <TreeNode Title="B63G8/06 ##指挥塔" Target="frmContent" Href="../searchservlet?query=B63G8/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63G8/06"/>
+    </TreeNode>
+    <TreeNode Title="B63G8/08 #推进设备(核推进设备入B63H 21/18；潜水排气装置入F01N 13/12；推进动力设备或推进器本身见有关各类)" Target="frmContent" Href="../searchservlet?query=B63G8/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63G8/08">
+      <TreeNode Title="B63G8/10 ##用蒸汽机的" Target="frmContent" Href="../searchservlet?query=B63G8/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63G8/10"/>
+      <TreeNode Title="B63G8/12 ##用内燃机的" Target="frmContent" Href="../searchservlet?query=B63G8/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63G8/12"/>
+    </TreeNode>
+    <TreeNode Title="B63G8/14 # 姿态或深度的控制(鱼雷的入F42B 19/00)" Target="frmContent" Href="../searchservlet?query=B63G8/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63G8/14">
+      <TreeNode Title="B63G8/16 ##直接用螺旋桨或喷射器的" Target="frmContent" Href="../searchservlet?query=B63G8/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63G8/16"/>
+      <TreeNode Title="B63G8/18 ##用水平舵的" Target="frmContent" Href="../searchservlet?query=B63G8/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63G8/18"/>
+      <TreeNode Title="B63G8/20 ##操舵设备(B63G 8/16，B63G 8/18优先；一般船只操舵入B63H 25/00)[2]" Target="frmContent" Href="../searchservlet?query=B63G8/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63G8/20"/>
+      <TreeNode Title="B63G8/22 ##用水压舱调节浮力；用于压载箱的卸载设备(使用压载箱稳定船只的入B63B 43/06)" Target="frmContent" Href="../searchservlet?query=B63G8/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63G8/22"/>
+      <TreeNode Title="B63G8/24 ##自动深度调整装置；用于增大浮力的安全装置，例如可卸压舱物，浮体" Target="frmContent" Href="../searchservlet?query=B63G8/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63G8/24"/>
+      <TreeNode Title="B63G8/26 ##平衡装置" Target="frmContent" Href="../searchservlet?query=B63G8/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63G8/26"/>
+    </TreeNode>
+    <TreeNode Title="B63G8/28 # 攻击或防御设备的布置" Target="frmContent" Href="../searchservlet?query=B63G8/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63G8/28">
+      <TreeNode Title="B63G8/30 ##大炮或导弹发射装置的" Target="frmContent" Href="../searchservlet?query=B63G8/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63G8/30"/>
+      <TreeNode Title="B63G8/32 ##鱼雷发射装置的(鱼雷发射装置本身入F41F 3/00)；鱼雷贮藏或运输装置的[2]" Target="frmContent" Href="../searchservlet?query=B63G8/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63G8/32"/>
+      <TreeNode Title="B63G8/33 ##布雷装置的(除潜艇外的布雷舰艇入B63G 6/00)[2]" Target="frmContent" Href="../searchservlet?query=B63G8/33&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63G8/33"/>
+      <TreeNode Title="B63G8/34 ##伪装(用于其他舰艇的入B63G 13/02；一般伪装入F41H 3/00)" Target="frmContent" Href="../searchservlet?query=B63G8/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63G8/34"/>
+    </TreeNode>
+    <TreeNode Title="B63G8/36 # 通风、冷却、加热或空气调节的配置(密闭室内空气更新入A62B 11/00；一般船用的入B63J 2/00；一般空气调节装置入F24F)" Target="frmContent" Href="../searchservlet?query=B63G8/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63G8/36"/>
+    <TreeNode Title="B63G8/38 # 光学或电子监视装置的布置，例如潜望镜的，雷达的" Target="frmContent" Href="../searchservlet?query=B63G8/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63G8/38"/>
+    <TreeNode Title="B63G8/39 # 声波监视装置的布置，例如低频声波监视装置，声纳" Target="frmContent" Href="../searchservlet?query=B63G8/39&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63G8/39"/>
+    <TreeNode Title="B63G8/40 # 人员救援设备(非专门适用于潜艇人员的水中救生入B63C)" Target="frmContent" Href="../searchservlet?query=B63G8/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63G8/40">
+      <TreeNode Title="B63G8/41 ##可从潜艇投放的应急舱、气密室、水密船或类似装置[2]" Target="frmContent" Href="../searchservlet?query=B63G8/41&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63G8/41"/>
+    </TreeNode>
+    <TreeNode Title="B63G8/42 # 被牵引的水下舰艇[2]" Target="frmContent" Href="../searchservlet?query=B63G8/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63G8/42"/>
+  </TreeNode>
+  <TreeNode Title="B63G9/00 对抗潜艇、鱼雷或水雷的舰艇上的其他攻击或防御设备" Target="frmContent" Href="../searchservlet?query=B63G9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63G9/00">
+    <TreeNode Title="B63G9/02 # 保护舰艇免受鱼雷攻击的装置(装甲船体入B63B 3/10)" Target="frmContent" Href="../searchservlet?query=B63G9/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63G9/02">
+      <TreeNode Title="B63G9/04 ##网或类似装置(港口防御用的网栅入F41H 11/00)" Target="frmContent" Href="../searchservlet?query=B63G9/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63G9/04"/>
+    </TreeNode>
+    <TreeNode Title="B63G9/06 # 用于舰艇消磁的(一般退磁入H01F 13/00)" Target="frmContent" Href="../searchservlet?query=B63G9/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63G9/06"/>
+  </TreeNode>
+  <TreeNode Title="B63G11/00 航空母舰，即装备有飞行甲板的军舰，飞机能在其上起飞和着落，而且具有用于维修飞机的机库舱甲板(用于飞机的其他船只或浮动设施入B63B 35/50；航空母舰甲板设备入B64F 1/00)" Target="frmContent" Href="../searchservlet?query=B63G11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63G11/00"/>
+  <TreeNode Title="B63G13/00 舰艇上其他攻击或防御装备；以其为特点的舰艇" Target="frmContent" Href="../searchservlet?query=B63G13/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63G13/00">
+    <TreeNode Title="B63G13/02 # 伪装(用于潜艇的入B63G 8/34；一般伪装入F41H 3/00)[2]" Target="frmContent" Href="../searchservlet?query=B63G13/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63G13/02"/>
+  </TreeNode>
+</Root>

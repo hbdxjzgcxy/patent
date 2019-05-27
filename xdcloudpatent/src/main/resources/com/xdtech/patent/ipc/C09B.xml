@@ -1,0 +1,811 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="C09B1/00 具有1个未与任何其他环稠合的蒽环的染料" Target="frmContent" Href="../searchservlet?query=C09B1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B1/00">
+    <TreeNode Title="C09B1/02 #羟基蒽醌类；它的醚及其酯类" Target="frmContent" Href="../searchservlet?query=C09B1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B1/02">
+      <TreeNode Title="C09B1/04 ##由环的合成制备" Target="frmContent" Href="../searchservlet?query=C09B1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B1/04"/>
+      <TreeNode Title="C09B1/06 ##由已含有蒽环的原料制备" Target="frmContent" Href="../searchservlet?query=C09B1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B1/06">
+        <TreeNode Title="C09B1/08 ###只含有羟基的染料" Target="frmContent" Href="../searchservlet?query=C09B1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B1/08"/>
+        <TreeNode Title="C09B1/10 ###含卤素的染料" Target="frmContent" Href="../searchservlet?query=C09B1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B1/10"/>
+        <TreeNode Title="C09B1/12 ###含磺酸基的染料" Target="frmContent" Href="../searchservlet?query=C09B1/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B1/12"/>
+        <TreeNode Title="C09B1/14 ###含醚基的染料" Target="frmContent" Href="../searchservlet?query=C09B1/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B1/14"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="C09B1/16 #氮基蒽醌类" Target="frmContent" Href="../searchservlet?query=C09B1/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B1/16">
+      <TreeNode Title="C09B1/18 ##由环的合成制备" Target="frmContent" Href="../searchservlet?query=C09B1/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B1/18"/>
+      <TreeNode Title="C09B1/20 ##由已含有蒽环的原料制备" Target="frmContent" Href="../searchservlet?query=C09B1/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B1/20">
+        <TreeNode Title="C09B1/22 ###具有未取代的氨基的染料" Target="frmContent" Href="../searchservlet?query=C09B1/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B1/22">
+          <TreeNode Title="C09B1/24 ####磺化的" Target="frmContent" Href="../searchservlet?query=C09B1/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B1/24"/>
+        </TreeNode>
+        <TreeNode Title="C09B1/26 ###具有被烃基取代的氮基的染料" Target="frmContent" Href="../searchservlet?query=C09B1/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B1/26">
+          <TreeNode Title="C09B1/28 ####以烷基、芳烷基或环烷基取代的" Target="frmContent" Href="../searchservlet?query=C09B1/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B1/28">
+            <TreeNode Title="C09B1/30 #####磺化的" Target="frmContent" Href="../searchservlet?query=C09B1/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B1/30"/>
+          </TreeNode>
+          <TreeNode Title="C09B1/32 ####以芳基取代的(蒽亚胺入C09B 1/48)" Target="frmContent" Href="../searchservlet?query=C09B1/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B1/32">
+            <TreeNode Title="C09B1/34 #####磺化的" Target="frmContent" Href="../searchservlet?query=C09B1/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B1/34"/>
+          </TreeNode>
+        </TreeNode>
+        <TreeNode Title="C09B1/36 ###具有酰化氨基的染料" Target="frmContent" Href="../searchservlet?query=C09B1/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B1/36">
+          <TreeNode Title="C09B1/38 ####脲或硫脲衍生物" Target="frmContent" Href="../searchservlet?query=C09B1/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B1/38"/>
+          <TreeNode Title="C09B1/40 ####是1个脂肪族或芳香脂肪族羧酸的酰基" Target="frmContent" Href="../searchservlet?query=C09B1/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B1/40"/>
+          <TreeNode Title="C09B1/42 ####是1个芳香族羧酸的酰基" Target="frmContent" Href="../searchservlet?query=C09B1/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B1/42">
+            <TreeNode Title="C09B1/43 #####二羧酸[3]" Target="frmContent" Href="../searchservlet?query=C09B1/43&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B1/43"/>
+          </TreeNode>
+          <TreeNode Title="C09B1/44 ####是1个杂环羧酸的酰基" Target="frmContent" Href="../searchservlet?query=C09B1/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B1/44"/>
+          <TreeNode Title="C09B1/46 ####是三聚氰酸或类似杂环化合物的酰基" Target="frmContent" Href="../searchservlet?query=C09B1/46&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B1/46">
+            <TreeNode Title="C09B1/467 #####连接两个或更多个蒽醌环[3]" Target="frmContent" Href="../searchservlet?query=C09B1/467&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B1/467"/>
+          </TreeNode>
+          <TreeNode Title="C09B1/473 ####是1个磺酸的酰基[3]" Target="frmContent" Href="../searchservlet?query=C09B1/473&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B1/473"/>
+        </TreeNode>
+        <TreeNode Title="C09B1/48 ###蒽亚胺类" Target="frmContent" Href="../searchservlet?query=C09B1/48&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B1/48"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="C09B1/50 #氨基-羟基蒽醌类；其醚或酯类" Target="frmContent" Href="../searchservlet?query=C09B1/50&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B1/50">
+      <TreeNode Title="C09B1/503 ##未取代的氨基-羟基蒽醌[2]" Target="frmContent" Href="../searchservlet?query=C09B1/503&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B1/503"/>
+      <TreeNode Title="C09B1/51 ##N-取代的氨基-羟基蒽醌[2]" Target="frmContent" Href="../searchservlet?query=C09B1/51&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B1/51">
+        <TreeNode Title="C09B1/514 ###N-芳基衍生物(N-芳烷基衍生物入1/515)[2]" Target="frmContent" Href="../searchservlet?query=C09B1/514&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B1/514"/>
+        <TreeNode Title="C09B1/515 ###N-烷基、N-芳烷基或N-环烷基衍生物[2]" Target="frmContent" Href="../searchservlet?query=C09B1/515&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B1/515"/>
+        <TreeNode Title="C09B1/516 ###N-酰化衍生物[2]" Target="frmContent" Href="../searchservlet?query=C09B1/516&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B1/516"/>
+      </TreeNode>
+      <TreeNode Title="C09B1/52 ##磺化的" Target="frmContent" Href="../searchservlet?query=C09B1/52&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B1/52"/>
+      <TreeNode Title="C09B1/54 ##醚化的" Target="frmContent" Href="../searchservlet?query=C09B1/54&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B1/54"/>
+    </TreeNode>
+    <TreeNode Title="C09B1/56 #巯基-蒽醌类" Target="frmContent" Href="../searchservlet?query=C09B1/56&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B1/56">
+      <TreeNode Title="C09B1/58 ##与脂肪族的、脂环族的、芳脂族的基或芳基取代的巯基[3]" Target="frmContent" Href="../searchservlet?query=C09B1/58&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B1/58">
+        <TreeNode Title="C09B1/60 ###由脂肪族的、脂环族的或芳脂族的基取代[3]" Target="frmContent" Href="../searchservlet?query=C09B1/60&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B1/60"/>
+      </TreeNode>
+      <TreeNode Title="C09B1/62 ##与1个杂环取代的巯基[3]" Target="frmContent" Href="../searchservlet?query=C09B1/62&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B1/62"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="C09B3/00 蒽环与1个或多个碳环稠合的染料" Target="frmContent" Href="../searchservlet?query=C09B3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B3/00">
+    <TreeNode Title="C09B3/02 #苯并蒽酮类" Target="frmContent" Href="../searchservlet?query=C09B3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B3/02">
+      <TreeNode Title="C09B3/04 ##由环的合成制备" Target="frmContent" Href="../searchservlet?query=C09B3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B3/04"/>
+      <TreeNode Title="C09B3/06 ##由已含有苯并蒽酮环的原料制备" Target="frmContent" Href="../searchservlet?query=C09B3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B3/06">
+        <TreeNode Title="C09B3/08 ###用卤化作用" Target="frmContent" Href="../searchservlet?query=C09B3/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B3/08"/>
+        <TreeNode Title="C09B3/10 ###氨基衍生物" Target="frmContent" Href="../searchservlet?query=C09B3/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B3/10"/>
+      </TreeNode>
+      <TreeNode Title="C09B3/12 ##二苯并蒽酮基" Target="frmContent" Href="../searchservlet?query=C09B3/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B3/12"/>
+    </TreeNode>
+    <TreeNode Title="C09B3/14 #衍生物" Target="frmContent" Href="../searchservlet?query=C09B3/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B3/14">
+      <TreeNode Title="C09B3/16 ##由环的合成制备" Target="frmContent" Href="../searchservlet?query=C09B3/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B3/16"/>
+      <TreeNode Title="C09B3/18 ##由已含有环的原料制备" Target="frmContent" Href="../searchservlet?query=C09B3/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B3/18">
+        <TreeNode Title="C09B3/20 ###用卤化作用" Target="frmContent" Href="../searchservlet?query=C09B3/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B3/20"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="C09B3/22 #二苯并蒽酮类；异二苯并蒽酮类" Target="frmContent" Href="../searchservlet?query=C09B3/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B3/22">
+      <TreeNode Title="C09B3/24 ##由环的合成制备" Target="frmContent" Href="../searchservlet?query=C09B3/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B3/24">
+        <TreeNode Title="C09B3/26 ###由二苯并蒽酮基" Target="frmContent" Href="../searchservlet?query=C09B3/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B3/26"/>
+        <TreeNode Title="C09B3/28 ###由衍生物" Target="frmContent" Href="../searchservlet?query=C09B3/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B3/28"/>
+      </TreeNode>
+      <TreeNode Title="C09B3/30 ##由已含有二苯并蒽酮或异二苯并蒽酮环的原料制备" Target="frmContent" Href="../searchservlet?query=C09B3/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B3/30">
+        <TreeNode Title="C09B3/32 ###用卤化作用" Target="frmContent" Href="../searchservlet?query=C09B3/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B3/32"/>
+        <TreeNode Title="C09B3/34 ###用氧化作用" Target="frmContent" Href="../searchservlet?query=C09B3/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B3/34"/>
+        <TreeNode Title="C09B3/36 ###用羟基化合物的醚化作用" Target="frmContent" Href="../searchservlet?query=C09B3/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B3/36"/>
+        <TreeNode Title="C09B3/38 ###用在氨基中引入烃基或酰基" Target="frmContent" Href="../searchservlet?query=C09B3/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B3/38"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="C09B3/40 #皮蒽酮类" Target="frmContent" Href="../searchservlet?query=C09B3/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B3/40">
+      <TreeNode Title="C09B3/42 ##由环的合成制备" Target="frmContent" Href="../searchservlet?query=C09B3/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B3/42"/>
+      <TreeNode Title="C09B3/44 ##由已含皮蒽酮环的原料制备" Target="frmContent" Href="../searchservlet?query=C09B3/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B3/44">
+        <TreeNode Title="C09B3/46 ###用卤化作用" Target="frmContent" Href="../searchservlet?query=C09B3/46&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B3/46"/>
+        <TreeNode Title="C09B3/48 ###氨基衍生物" Target="frmContent" Href="../searchservlet?query=C09B3/48&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B3/48"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="C09B3/50 #二苯并芘醌类" Target="frmContent" Href="../searchservlet?query=C09B3/50&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B3/50">
+      <TreeNode Title="C09B3/52 ##由环的合成制备" Target="frmContent" Href="../searchservlet?query=C09B3/52&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B3/52"/>
+      <TreeNode Title="C09B3/54 ##由已含有二苯并芘醌环的原料制备" Target="frmContent" Href="../searchservlet?query=C09B3/54&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B3/54">
+        <TreeNode Title="C09B3/56 ###氨基衍生物" Target="frmContent" Href="../searchservlet?query=C09B3/56&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B3/56"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="C09B3/58 #苯并蒽醌类" Target="frmContent" Href="../searchservlet?query=C09B3/58&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B3/58"/>
+    <TreeNode Title="C09B3/60 #蒽垛蒽酮类" Target="frmContent" Href="../searchservlet?query=C09B3/60&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B3/60">
+      <TreeNode Title="C09B3/62 ##由环的合成制备" Target="frmContent" Href="../searchservlet?query=C09B3/62&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B3/62"/>
+      <TreeNode Title="C09B3/64 ##由已含有蒽垛蒽酮类环的原料制备" Target="frmContent" Href="../searchservlet?query=C09B3/64&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B3/64">
+        <TreeNode Title="C09B3/66 ###用卤化作用" Target="frmContent" Href="../searchservlet?query=C09B3/66&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B3/66"/>
+        <TreeNode Title="C09B3/68 ###氨基衍生物" Target="frmContent" Href="../searchservlet?query=C09B3/68&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B3/68"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="C09B3/70 #苯并-、萘并-、蒽-、二蒽酮类" Target="frmContent" Href="../searchservlet?query=C09B3/70&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B3/70">
+      <TreeNode Title="C09B3/72 ##用环的合成制备" Target="frmContent" Href="../searchservlet?query=C09B3/72&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B3/72"/>
+      <TreeNode Title="C09B3/74 ##由已含有苯并-、萘并-或蒽并-二蒽酮环的原料制备" Target="frmContent" Href="../searchservlet?query=C09B3/74&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B3/74">
+        <TreeNode Title="C09B3/76 ###用卤化作用" Target="frmContent" Href="../searchservlet?query=C09B3/76&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B3/76"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="C09B3/78 #其他染料，其中蒽环与1个或多个碳环稠合" Target="frmContent" Href="../searchservlet?query=C09B3/78&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B3/78">
+      <TreeNode Title="C09B3/80 ##用环的合成制备" Target="frmContent" Href="../searchservlet?query=C09B3/80&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B3/80"/>
+      <TreeNode Title="C09B3/82 ##由已含有稠合蒽环的原料制备" Target="frmContent" Href="../searchservlet?query=C09B3/82&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B3/82"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="C09B5/00 具有1个蒽环与1个或多个杂环稠合，与或未与碳环稠合的染料" Target="frmContent" Href="../searchservlet?query=C09B5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B5/00">
+    <TreeNode Title="C09B5/02 #在迫位上稠合的杂环" Target="frmContent" Href="../searchservlet?query=C09B5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B5/02">
+      <TreeNode Title="C09B5/04 ##吡唑蒽酮类" Target="frmContent" Href="../searchservlet?query=C09B5/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B5/04">
+        <TreeNode Title="C09B5/06 ###苯并蒽酮-吡唑蒽酮缩合产物" Target="frmContent" Href="../searchservlet?query=C09B5/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B5/06"/>
+        <TreeNode Title="C09B5/08 ###二吡唑蒽酮类" Target="frmContent" Href="../searchservlet?query=C09B5/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B5/08"/>
+      </TreeNode>
+      <TreeNode Title="C09B5/10 ##异噻唑蒽酮类；异唑蒽酮类；异硒唑蒽酮类" Target="frmContent" Href="../searchservlet?query=C09B5/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B5/10"/>
+      <TreeNode Title="C09B5/12 ##噻吩蒽酮类" Target="frmContent" Href="../searchservlet?query=C09B5/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B5/12"/>
+      <TreeNode Title="C09B5/14 ##苯并-氮杂苯并蒽酮类(蒽吡啶酮类)" Target="frmContent" Href="../searchservlet?query=C09B5/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B5/14"/>
+      <TreeNode Title="C09B5/16 ##苯并-二氮杂苯并蒽酮类，如蒽嘧啶酮" Target="frmContent" Href="../searchservlet?query=C09B5/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B5/16"/>
+      <TreeNode Title="C09B5/18 ##萘并吨；萘并噻吨；萘并吖啶满；及其衍生物" Target="frmContent" Href="../searchservlet?query=C09B5/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B5/18"/>
+      <TreeNode Title="C09B5/20 ##黄烷士酮类" Target="frmContent" Href="../searchservlet?query=C09B5/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B5/20">
+        <TreeNode Title="C09B5/22 ###由已含有黄烷士酮环的原料制备" Target="frmContent" Href="../searchservlet?query=C09B5/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B5/22"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="C09B5/24 #在1～2位或2～3位与1个蒽醌环稠合的杂环" Target="frmContent" Href="../searchservlet?query=C09B5/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B5/24">
+      <TreeNode Title="C09B5/26 ##蒽系的咔唑类" Target="frmContent" Href="../searchservlet?query=C09B5/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B5/26">
+        <TreeNode Title="C09B5/28 ###蒽酰亚胺咔唑" Target="frmContent" Href="../searchservlet?query=C09B5/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B5/28"/>
+      </TreeNode>
+      <TreeNode Title="C09B5/30 ##蒽系的1.2唑" Target="frmContent" Href="../searchservlet?query=C09B5/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B5/30"/>
+      <TreeNode Title="C09B5/32 ##蒽系的1.3唑" Target="frmContent" Href="../searchservlet?query=C09B5/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B5/32"/>
+      <TreeNode Title="C09B5/34 ##蒽醌吖啶酮类或硫杂蒽酮类" Target="frmContent" Href="../searchservlet?query=C09B5/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B5/34">
+        <TreeNode Title="C09B5/36 ###氨基吖啶酮" Target="frmContent" Href="../searchservlet?query=C09B5/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B5/36"/>
+        <TreeNode Title="C09B5/38 ###含有吖啶酮及吖唑环的化合物" Target="frmContent" Href="../searchservlet?query=C09B5/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B5/38"/>
+        <TreeNode Title="C09B5/40 ###苯并蒽酮-氨基蒽醌的缩合产物" Target="frmContent" Href="../searchservlet?query=C09B5/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B5/40"/>
+      </TreeNode>
+      <TreeNode Title="C09B5/42 ##吡啶并蒽醌类" Target="frmContent" Href="../searchservlet?query=C09B5/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B5/42"/>
+      <TreeNode Title="C09B5/44 ##蒽系的吖嗪类" Target="frmContent" Href="../searchservlet?query=C09B5/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B5/44">
+        <TreeNode Title="C09B5/46 ###对二嗪" Target="frmContent" Href="../searchservlet?query=C09B5/46&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B5/46">
+          <TreeNode Title="C09B5/48 ####双蒽醌二嗪(阴丹酮)" Target="frmContent" Href="../searchservlet?query=C09B5/48&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B5/48">
+            <TreeNode Title="C09B5/50 #####由2-氨基蒽醌的碱熔融制备" Target="frmContent" Href="../searchservlet?query=C09B5/50&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B5/50"/>
+            <TreeNode Title="C09B5/52 #####由1，2-卤代氨基蒽醌的缩合制备" Target="frmContent" Href="../searchservlet?query=C09B5/52&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B5/52"/>
+            <TreeNode Title="C09B5/54 #####由2-氨基蒽氢醌制备" Target="frmContent" Href="../searchservlet?query=C09B5/54&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B5/54"/>
+            <TreeNode Title="C09B5/56 #####由已含有阴丹士林环的原料制备" Target="frmContent" Href="../searchservlet?query=C09B5/56&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B5/56">
+              <TreeNode Title="C09B5/58 ######用卤化作用" Target="frmContent" Href="../searchservlet?query=C09B5/58&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B5/58"/>
+            </TreeNode>
+          </TreeNode>
+        </TreeNode>
+        <TreeNode Title="C09B5/60 ###噻嗪；嗪" Target="frmContent" Href="../searchservlet?query=C09B5/60&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B5/60"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="C09B5/62 #蒽，苯并蒽，或系的迫位二羧酸的环亚胺或眯" Target="frmContent" Href="../searchservlet?query=C09B5/62&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B5/62"/>
+  </TreeNode>
+  <TreeNode Title="C09B6/00 以上未包括的蒽染料[2]" Target="frmContent" Href="../searchservlet?query=C09B6/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B6/00"/>
+  <TreeNode Title="C09B7/00 靛类染料" Target="frmContent" Href="../searchservlet?query=C09B7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B7/00">
+    <TreeNode Title="C09B7/02 #双吲哚靛兰类" Target="frmContent" Href="../searchservlet?query=C09B7/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B7/02">
+      <TreeNode Title="C09B7/04 ##它的卤化作用" Target="frmContent" Href="../searchservlet?query=C09B7/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B7/04"/>
+    </TreeNode>
+    <TreeNode Title="C09B7/06 #二氢茚酮-硫茚靛兰类" Target="frmContent" Href="../searchservlet?query=C09B7/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B7/06"/>
+    <TreeNode Title="C09B7/08 #其他吲哚-靛兰类" Target="frmContent" Href="../searchservlet?query=C09B7/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B7/08"/>
+    <TreeNode Title="C09B7/10 #双硫茚靛兰类" Target="frmContent" Href="../searchservlet?query=C09B7/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B7/10"/>
+    <TreeNode Title="C09B7/12 #其他硫茚靛兰类" Target="frmContent" Href="../searchservlet?query=C09B7/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B7/12"/>
+  </TreeNode>
+  <TreeNode Title="C09B9/00 还原性染料的隐色体的酯及酯-盐类" Target="frmContent" Href="../searchservlet?query=C09B9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B9/00">
+    <TreeNode Title="C09B9/02 #蒽染料的" Target="frmContent" Href="../searchservlet?query=C09B9/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B9/02"/>
+    <TreeNode Title="C09B9/04 #靛类染料的" Target="frmContent" Href="../searchservlet?query=C09B9/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B9/04"/>
+  </TreeNode>
+  <TreeNode Title="C09B11/00 二芳基或三芳基甲烷染料" Target="frmContent" Href="../searchservlet?query=C09B11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B11/00">
+    <TreeNode Title="C09B11/02 #由二芳基甲烷得到的" Target="frmContent" Href="../searchservlet?query=C09B11/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B11/02"/>
+    <TreeNode Title="C09B11/04 #由三芳基甲烷得到的" Target="frmContent" Href="../searchservlet?query=C09B11/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B11/04">
+      <TreeNode Title="C09B11/06 ##三芳基甲烷的羟基衍生物，其中至少有1个羟基连接在芳族环上" Target="frmContent" Href="../searchservlet?query=C09B11/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B11/06">
+        <TreeNode Title="C09B11/08 ###酞类" Target="frmContent" Href="../searchservlet?query=C09B11/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B11/08"/>
+      </TreeNode>
+      <TreeNode Title="C09B11/10 ##三芳基甲烷的氨基衍生物" Target="frmContent" Href="../searchservlet?query=C09B11/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B11/10">
+        <TreeNode Title="C09B11/12 ###没有羟基(-OH)与芳族环连接" Target="frmContent" Href="../searchservlet?query=C09B11/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B11/12">
+          <TreeNode Title="C09B11/14 ####由芳族醛、芳族羧酸或其衍生物，及芳族胺制备" Target="frmContent" Href="../searchservlet?query=C09B11/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B11/14"/>
+          <TreeNode Title="C09B11/16 ####由二芳基酮或二芳基甲醇制备" Target="frmContent" Href="../searchservlet?query=C09B11/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B11/16"/>
+          <TreeNode Title="C09B11/18 ####用氧化作用制备" Target="frmContent" Href="../searchservlet?query=C09B11/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B11/18"/>
+          <TreeNode Title="C09B11/20 ####由其他三芳基甲烷衍生物制备" Target="frmContent" Href="../searchservlet?query=C09B11/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B11/20"/>
+        </TreeNode>
+        <TreeNode Title="C09B11/22 ###含有连接到1个芳族环上的羟基(-OH)" Target="frmContent" Href="../searchservlet?query=C09B11/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B11/22"/>
+        <TreeNode Title="C09B11/24 ###含有氨基的酞" Target="frmContent" Href="../searchservlet?query=C09B11/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B11/24"/>
+      </TreeNode>
+      <TreeNode Title="C09B11/26 ##三芳基甲烷染料，其中至少有1个芳族环是杂环" Target="frmContent" Href="../searchservlet?query=C09B11/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B11/26"/>
+    </TreeNode>
+    <TreeNode Title="C09B11/28 #二苯氧杂芑胺类" Target="frmContent" Href="../searchservlet?query=C09B11/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B11/28"/>
+  </TreeNode>
+  <TreeNode Title="C09B13/00 羟基酮染料" Target="frmContent" Href="../searchservlet?query=C09B13/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B13/00">
+    <TreeNode Title="C09B13/02 #萘系的，如萘茜" Target="frmContent" Href="../searchservlet?query=C09B13/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B13/02"/>
+    <TreeNode Title="C09B13/04 #芘系的" Target="frmContent" Href="../searchservlet?query=C09B13/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B13/04"/>
+    <TreeNode Title="C09B13/06 #苯乙酮系的" Target="frmContent" Href="../searchservlet?query=C09B13/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B13/06"/>
+  </TreeNode>
+  <TreeNode Title="C09B15/00 吖啶染料" Target="frmContent" Href="../searchservlet?query=C09B15/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B15/00"/>
+  <TreeNode Title="C09B17/00 吖嗪染料" Target="frmContent" Href="../searchservlet?query=C09B17/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B17/00">
+    <TreeNode Title="C09B17/02 #苯系的" Target="frmContent" Href="../searchservlet?query=C09B17/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B17/02"/>
+    <TreeNode Title="C09B17/04 #萘系的" Target="frmContent" Href="../searchservlet?query=C09B17/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B17/04"/>
+    <TreeNode Title="C09B17/06 #萤吲啶及其衍生物" Target="frmContent" Href="../searchservlet?query=C09B17/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B17/06"/>
+  </TreeNode>
+  <TreeNode Title="C09B19/00 嗪染料" Target="frmContent" Href="../searchservlet?query=C09B19/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B19/00">
+    <TreeNode Title="C09B19/02 #由氨基醌制备的双嗪染料" Target="frmContent" Href="../searchservlet?query=C09B19/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B19/02"/>
+  </TreeNode>
+  <TreeNode Title="C09B21/00 噻嗪染料" Target="frmContent" Href="../searchservlet?query=C09B21/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B21/00"/>
+  <TreeNode Title="C09B23/00 甲川基或多甲川基染料，例如菁染料" Target="frmContent" Href="../searchservlet?query=C09B23/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B23/00">
+    <TreeNode Title="C09B23/01 #以甲川基链为特征的[3]" Target="frmContent" Href="../searchservlet?query=C09B23/01&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B23/01">
+      <TreeNode Title="C09B23/02 ##含有奇数的CH基[3]" Target="frmContent" Href="../searchservlet?query=C09B23/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B23/02">
+        <TreeNode Title="C09B23/04 ###1个CH基，如菁、异菁、假菁[3]" Target="frmContent" Href="../searchservlet?query=C09B23/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B23/04"/>
+        <TreeNode Title="C09B23/06 ###3个CH基，如羰花菁[3]" Target="frmContent" Href="../searchservlet?query=C09B23/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B23/06"/>
+        <TreeNode Title="C09B23/08 ###多于3个CH基，如多羰花菁[3]" Target="frmContent" Href="../searchservlet?query=C09B23/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B23/08"/>
+      </TreeNode>
+      <TreeNode Title="C09B23/10 ##含有偶数的CH基[3]" Target="frmContent" Href="../searchservlet?query=C09B23/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B23/10"/>
+    </TreeNode>
+    <TreeNode Title="C09B23/12 #多甲川基链是分支的" Target="frmContent" Href="../searchservlet?query=C09B23/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B23/12"/>
+    <TreeNode Title="C09B23/14 #苯乙烯基染料" Target="frmContent" Href="../searchservlet?query=C09B23/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B23/14"/>
+    <TreeNode Title="C09B23/16 #多甲川基链含有杂原子" Target="frmContent" Href="../searchservlet?query=C09B23/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B23/16"/>
+  </TreeNode>
+  <TreeNode Title="C09B25/00 喹啉并酞酮类" Target="frmContent" Href="../searchservlet?query=C09B25/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B25/00"/>
+  <TreeNode Title="C09B26/00 腙染料；三氮烯染料[3]" Target="frmContent" Href="../searchservlet?query=C09B26/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B26/00">
+    <TreeNode Title="C09B26/02 #腙染料(腙-偶氮染料入C09B 56/18)[3]" Target="frmContent" Href="../searchservlet?query=C09B26/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B26/02">
+      <TreeNode Title="C09B26/04 ##阳离子的[3]" Target="frmContent" Href="../searchservlet?query=C09B26/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B26/04"/>
+    </TreeNode>
+    <TreeNode Title="C09B26/06 #三氮烯染料(三氮烯-偶氮染料入C09B 56/20)[3]" Target="frmContent" Href="../searchservlet?query=C09B26/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B26/06"/>
+  </TreeNode>
+  <TreeNode Title="C09B27/00 除了用重氮化及偶合以外的任何方法生成偶氮基的偶氮染料" Target="frmContent" Href="../searchservlet?query=C09B27/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B27/00">
+    <TreeNode Title="C09B27/06 #酒石黄[3]" Target="frmContent" Href="../searchservlet?query=C09B27/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B27/06"/>
+  </TreeNode>
+  <TreeNode Title="C09B29/00 由重氮化及偶合制备的单偶氮染料" Target="frmContent" Href="../searchservlet?query=C09B29/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B29/00">
+    <TreeNode Title="C09B29/01 #以重氮组分为特征的[3]" Target="frmContent" Href="../searchservlet?query=C09B29/01&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B29/01">
+      <TreeNode Title="C09B29/02 ##由重氮化的邻-氨基-羟基化合物[3]" Target="frmContent" Href="../searchservlet?query=C09B29/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B29/02"/>
+      <TreeNode Title="C09B29/03 ##由重氮化的邻-氨基羧酸或邻-氨基-磺酸[3]" Target="frmContent" Href="../searchservlet?query=C09B29/03&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B29/03"/>
+      <TreeNode Title="C09B29/033 ##由含有1个杂环的重氮化的胺[3]" Target="frmContent" Href="../searchservlet?query=C09B29/033&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B29/033">
+        <TreeNode Title="C09B29/036 ###只含有氮作为杂原子的杂环[3]" Target="frmContent" Href="../searchservlet?query=C09B29/036&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B29/036"/>
+        <TreeNode Title="C09B29/039 ###含有氮和硫作为杂原子的杂环[3]" Target="frmContent" Href="../searchservlet?query=C09B29/039&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B29/039">
+          <TreeNode Title="C09B29/042 ####杂环是噻唑环[3]" Target="frmContent" Href="../searchservlet?query=C09B29/042&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B29/042">
+            <TreeNode Title="C09B29/045 #####苯并噻唑[3]" Target="frmContent" Href="../searchservlet?query=C09B29/045&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B29/045"/>
+          </TreeNode>
+          <TreeNode Title="C09B29/048 ####杂环是硫杂重氮环[3]" Target="frmContent" Href="../searchservlet?query=C09B29/048&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B29/048"/>
+        </TreeNode>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="C09B29/06 #由含有氨基作为仅有的定向基的偶合组分" Target="frmContent" Href="../searchservlet?query=C09B29/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B29/06">
+      <TreeNode Title="C09B29/08 ##苯胺类" Target="frmContent" Href="../searchservlet?query=C09B29/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B29/08">
+        <TreeNode Title="C09B29/085 ###与重氮化的苯胺偶合[3]" Target="frmContent" Href="../searchservlet?query=C09B29/085&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B29/085"/>
+        <TreeNode Title="C09B29/09 ###与含有杂环的重氮化的胺偶合[3]" Target="frmContent" Href="../searchservlet?query=C09B29/09&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B29/09"/>
+      </TreeNode>
+      <TreeNode Title="C09B29/095 ##氨基萘类[3]" Target="frmContent" Href="../searchservlet?query=C09B29/095&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B29/095"/>
+    </TreeNode>
+    <TreeNode Title="C09B29/10 #由含有羟基作为仅有的定向基的偶合组分" Target="frmContent" Href="../searchservlet?query=C09B29/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B29/10">
+      <TreeNode Title="C09B29/12 ##苯系的" Target="frmContent" Href="../searchservlet?query=C09B29/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B29/12">
+        <TreeNode Title="C09B29/14 ###羟基羧酸" Target="frmContent" Href="../searchservlet?query=C09B29/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B29/14"/>
+      </TreeNode>
+      <TreeNode Title="C09B29/15 ##萘系的[3]" Target="frmContent" Href="../searchservlet?query=C09B29/15&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B29/15">
+        <TreeNode Title="C09B29/16 ###萘酚-磺酸[3]" Target="frmContent" Href="../searchservlet?query=C09B29/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B29/16"/>
+      </TreeNode>
+      <TreeNode Title="C09B29/18 ##邻-羟基碳酰胺" Target="frmContent" Href="../searchservlet?query=C09B29/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B29/18">
+        <TreeNode Title="C09B29/20 ###萘系的" Target="frmContent" Href="../searchservlet?query=C09B29/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B29/20"/>
+        <TreeNode Title="C09B29/22 ###杂环化合物的" Target="frmContent" Href="../searchservlet?query=C09B29/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B29/22"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="C09B29/24 #由含有羟基和氨基两个定向基的偶合组分" Target="frmContent" Href="../searchservlet?query=C09B29/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B29/24">
+      <TreeNode Title="C09B29/26 ##氨基苯酚类" Target="frmContent" Href="../searchservlet?query=C09B29/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B29/26"/>
+      <TreeNode Title="C09B29/28 ##氨基萘酚类" Target="frmContent" Href="../searchservlet?query=C09B29/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B29/28">
+        <TreeNode Title="C09B29/30 ###氨基萘酚磺酸" Target="frmContent" Href="../searchservlet?query=C09B29/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B29/30"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="C09B29/32 #由含有1个活性亚甲基的偶合组分" Target="frmContent" Href="../searchservlet?query=C09B29/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B29/32">
+      <TreeNode Title="C09B29/33 ##乙酰-或苯甲酰-乙酰芳基化物[3]" Target="frmContent" Href="../searchservlet?query=C09B29/33&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B29/33"/>
+    </TreeNode>
+    <TreeNode Title="C09B29/34 #由其他偶合组分" Target="frmContent" Href="../searchservlet?query=C09B29/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B29/34">
+      <TreeNode Title="C09B29/36 ##由杂环化合物" Target="frmContent" Href="../searchservlet?query=C09B29/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B29/36">
+        <TreeNode Title="C09B29/40 ###含有1个具有1个氮原子作为仅有的杂环原子的五元环[3]" Target="frmContent" Href="../searchservlet?query=C09B29/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B29/40"/>
+        <TreeNode Title="C09B29/42 ###含有1个具有1个氮原子作为仅有的杂环原子的六元环[3]" Target="frmContent" Href="../searchservlet?query=C09B29/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B29/42">
+          <TreeNode Title="C09B29/44 ####喹啉或氢化喹啉[3]" Target="frmContent" Href="../searchservlet?query=C09B29/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B29/44"/>
+        </TreeNode>
+        <TreeNode Title="C09B29/46 ###1，2-二唑或氢化1，2-二唑[3]" Target="frmContent" Href="../searchservlet?query=C09B29/46&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B29/46">
+          <TreeNode Title="C09B29/48 ####氨基-1，2-二唑[3]" Target="frmContent" Href="../searchservlet?query=C09B29/48&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B29/48"/>
+          <TreeNode Title="C09B29/50 ####1，2-二唑酮[3]" Target="frmContent" Href="../searchservlet?query=C09B29/50&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B29/50"/>
+        </TreeNode>
+        <TreeNode Title="C09B29/52 ###二嗪[3]" Target="frmContent" Href="../searchservlet?query=C09B29/52&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B29/52"/>
+      </TreeNode>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="C09B31/00 由重氮化及偶合制备的A→B→C，A→B→C→D，或类似类型的双偶氮及多偶氮染料" Target="frmContent" Href="../searchservlet?query=C09B31/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B31/00">
+    <TreeNode Title="C09B31/02 #双偶氮染料" Target="frmContent" Href="../searchservlet?query=C09B31/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B31/02">
+      <TreeNode Title="C09B31/04 ##由含有1个定向氨基的偶合组分“C”" Target="frmContent" Href="../searchservlet?query=C09B31/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B31/04">
+        <TreeNode Title="C09B31/043 ###苯胺类[3]" Target="frmContent" Href="../searchservlet?query=C09B31/043&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B31/043">
+          <TreeNode Title="C09B31/047 ####含有酸基，例如：-COOH、-SO3H、-PO3H2、-OSO3H、-OPO2H2；它的盐[3]" Target="frmContent" Href="../searchservlet?query=C09B31/047&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B31/047"/>
+        </TreeNode>
+        <TreeNode Title="C09B31/053 ###氨基萘胺类[3]" Target="frmContent" Href="../searchservlet?query=C09B31/053&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B31/053">
+          <TreeNode Title="C09B31/057 ####含有酸基、例如：-COOH、-SO3H、-PO3H2、-OSO3H、-OPO2H2；它的盐[3]" Target="frmContent" Href="../searchservlet?query=C09B31/057&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B31/057"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="C09B31/06 ##由含有1个定向羟基的偶合组分“C”" Target="frmContent" Href="../searchservlet?query=C09B31/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B31/06">
+        <TreeNode Title="C09B31/062 ###酚类[3]" Target="frmContent" Href="../searchservlet?query=C09B31/062&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B31/062">
+          <TreeNode Title="C09B31/065 ####含有酸基、例如：-COOH、-SO3H、-PO3H2、-OSO3H、-OPO2H2；它的盐[3]" Target="frmContent" Href="../searchservlet?query=C09B31/065&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B31/065"/>
+        </TreeNode>
+        <TreeNode Title="C09B31/068 ###萘酚类[3]" Target="frmContent" Href="../searchservlet?query=C09B31/068&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B31/068">
+          <TreeNode Title="C09B31/072 ####含有酸基、例如：-COOH、-SO3H、-PO3H2、-OSO3H、-OPO2H2；它的盐[3]" Target="frmContent" Href="../searchservlet?query=C09B31/072&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B31/072"/>
+        </TreeNode>
+        <TreeNode Title="C09B31/075 ###邻-羟基羧酸酰胺[3]" Target="frmContent" Href="../searchservlet?query=C09B31/075&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B31/075">
+          <TreeNode Title="C09B31/078 ####含有酸基、例如：-COOH、-SO3H、-PO3H2、-OSO3H、-OPO2H2；它的盐[3]" Target="frmContent" Href="../searchservlet?query=C09B31/078&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B31/078"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="C09B31/08 ##由含有定向羟基及氨基的偶合组分“C”" Target="frmContent" Href="../searchservlet?query=C09B31/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B31/08"/>
+      <TreeNode Title="C09B31/10 ##由含有活性亚甲基的偶合组分“C”" Target="frmContent" Href="../searchservlet?query=C09B31/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B31/10">
+        <TreeNode Title="C09B31/11 ###乙酰-或苯甲酰-乙酰基芳基化物[3]" Target="frmContent" Href="../searchservlet?query=C09B31/11&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B31/11"/>
+      </TreeNode>
+      <TreeNode Title="C09B31/12 ##由其他偶合组分“C”" Target="frmContent" Href="../searchservlet?query=C09B31/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B31/12">
+        <TreeNode Title="C09B31/14 ###杂环化合物" Target="frmContent" Href="../searchservlet?query=C09B31/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B31/14">
+          <TreeNode Title="C09B31/143 ####1，2-二唑[3]" Target="frmContent" Href="../searchservlet?query=C09B31/143&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B31/143">
+            <TreeNode Title="C09B31/147 #####吡唑[3]" Target="frmContent" Href="../searchservlet?query=C09B31/147&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B31/147"/>
+          </TreeNode>
+          <TreeNode Title="C09B31/15 ####吲哚[3]" Target="frmContent" Href="../searchservlet?query=C09B31/15&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B31/15"/>
+          <TreeNode Title="C09B31/153 ####含有1个具有1个氮原子作为仅有的杂环原子的六元环[3]" Target="frmContent" Href="../searchservlet?query=C09B31/153&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B31/153">
+            <TreeNode Title="C09B31/157 #####喹啉或氢化喹啉[3]" Target="frmContent" Href="../searchservlet?query=C09B31/157&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B31/157"/>
+          </TreeNode>
+        </TreeNode>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="C09B31/16 #三偶氮染料" Target="frmContent" Href="../searchservlet?query=C09B31/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B31/16">
+      <TreeNode Title="C09B31/18 ##由含有1个定向氨基的偶合组分“D”" Target="frmContent" Href="../searchservlet?query=C09B31/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B31/18"/>
+      <TreeNode Title="C09B31/20 ##由含有1个定向羟基的偶合组分“D”" Target="frmContent" Href="../searchservlet?query=C09B31/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B31/20"/>
+      <TreeNode Title="C09B31/22 ##由含有1个定向羟基及氨基的偶合组分“D”" Target="frmContent" Href="../searchservlet?query=C09B31/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B31/22"/>
+      <TreeNode Title="C09B31/24 ##由含有活性亚甲基的偶合组分“D”" Target="frmContent" Href="../searchservlet?query=C09B31/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B31/24"/>
+      <TreeNode Title="C09B31/26 ##由其他偶合组分“D”" Target="frmContent" Href="../searchservlet?query=C09B31/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B31/26">
+        <TreeNode Title="C09B31/28 ###杂环化合物" Target="frmContent" Href="../searchservlet?query=C09B31/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B31/28"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="C09B31/30 #其他多偶氮染料" Target="frmContent" Href="../searchservlet?query=C09B31/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B31/30"/>
+  </TreeNode>
+  <TreeNode Title="C09B33/00 由重氮化及偶合制备的A→K←B，A→B→K←C或类似类型的双偶氮及多偶氮染料" Target="frmContent" Href="../searchservlet?query=C09B33/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B33/00">
+    <TreeNode Title="C09B33/02 #双偶氮染料" Target="frmContent" Href="../searchservlet?query=C09B33/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B33/02">
+      <TreeNode Title="C09B33/04 ##其中偶合组分是二羟基或多羟基化合物" Target="frmContent" Href="../searchservlet?query=C09B33/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B33/04">
+        <TreeNode Title="C09B33/044 ###偶合组分是双酚[3]" Target="frmContent" Href="../searchservlet?query=C09B33/044&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B33/044"/>
+        <TreeNode Title="C09B33/048 ###偶合组分是双萘酚[3]" Target="frmContent" Href="../searchservlet?query=C09B33/048&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B33/048"/>
+        <TreeNode Title="C09B33/052 ###偶合组分是双-(萘酚-胺)[3]" Target="frmContent" Href="../searchservlet?query=C09B33/052&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B33/052"/>
+        <TreeNode Title="C09B33/056 ###偶合组分是双-(萘酚-脲)[3]" Target="frmContent" Href="../searchservlet?query=C09B33/056&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B33/056"/>
+      </TreeNode>
+      <TreeNode Title="C09B33/06 ##其中偶合组分是二元胺和多元胺" Target="frmContent" Href="../searchservlet?query=C09B33/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B33/06"/>
+      <TreeNode Title="C09B33/08 ##其中偶合组分是羟基-氨基化合物" Target="frmContent" Href="../searchservlet?query=C09B33/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B33/08">
+        <TreeNode Title="C09B33/10 ###其中偶合组分是氨基萘酚" Target="frmContent" Href="../searchservlet?query=C09B33/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B33/10"/>
+      </TreeNode>
+      <TreeNode Title="C09B33/12 ##其中偶合组分是杂环化合物" Target="frmContent" Href="../searchservlet?query=C09B33/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B33/12">
+        <TreeNode Title="C09B33/13 ###偶合组分是双吡唑啉酮[3]" Target="frmContent" Href="../searchservlet?query=C09B33/13&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B33/13"/>
+      </TreeNode>
+      <TreeNode Title="C09B33/147 ##其中偶合组分是双-(邻-羟基羧酸酰胺)[3]" Target="frmContent" Href="../searchservlet?query=C09B33/147&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B33/147"/>
+      <TreeNode Title="C09B33/153 ##基中偶合组分是双-(乙酰-乙酰胺)或双-(苯甲酰-乙酰胺)[3]" Target="frmContent" Href="../searchservlet?query=C09B33/153&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B33/153"/>
+      <TreeNode Title="C09B33/16 ##由其他偶合组分" Target="frmContent" Href="../searchservlet?query=C09B33/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B33/16"/>
+    </TreeNode>
+    <TreeNode Title="C09B33/18 #三偶氮或高级多偶氮染料" Target="frmContent" Href="../searchservlet?query=C09B33/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B33/18">
+      <TreeNode Title="C09B33/22 ##A→B→K←C类型的三偶氮染料[3]" Target="frmContent" Href="../searchservlet?query=C09B33/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B33/22"/>
+      <TreeNode Title="C09B33/24 ##类型的三偶氮染料[3]" Target="frmContent" Href="../searchservlet?query=C09B33/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B33/24"/>
+      <TreeNode Title="C09B33/26 ##A→B→C→K←D类型的四偶氮染料[3]" Target="frmContent" Href="../searchservlet?query=C09B33/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B33/26"/>
+      <TreeNode Title="C09B33/28 ##A→B→K←C←D类型的四偶氮染料[3]" Target="frmContent" Href="../searchservlet?query=C09B33/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B33/28"/>
+      <TreeNode Title="C09B33/30 ## 类型的四偶氮染料[3]" Target="frmContent" Href="../searchservlet?query=C09B33/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B33/30"/>
+      <TreeNode Title="C09B33/32 ##类型的四偶氮染料[3]" Target="frmContent" Href="../searchservlet?query=C09B33/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B33/32"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="C09B35/00 由重氮化及偶合制备的A←D→B类型的双偶氮或多偶氮染料" Target="frmContent" Href="../searchservlet?query=C09B35/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B35/00">
+    <TreeNode Title="C09B35/02 #双偶氮染料" Target="frmContent" Href="../searchservlet?query=C09B35/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B35/02">
+      <TreeNode Title="C09B35/021 ##以两种相同类型的偶合组分为特征的[3]" Target="frmContent" Href="../searchservlet?query=C09B35/021&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B35/021">
+        <TreeNode Title="C09B35/023 ###其中偶合组分是羟基或多羟基化合物[3]" Target="frmContent" Href="../searchservlet?query=C09B35/023&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B35/023"/>
+        <TreeNode Title="C09B35/025 ###其中偶合组分是胺或多胺[3]" Target="frmContent" Href="../searchservlet?query=C09B35/025&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B35/025"/>
+        <TreeNode Title="C09B35/027 ###其中偶合组分是羟基-氨基化合物[3]" Target="frmContent" Href="../searchservlet?query=C09B35/027&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B35/027">
+          <TreeNode Title="C09B35/029 ####氨基萘酚[3]" Target="frmContent" Href="../searchservlet?query=C09B35/029&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B35/029"/>
+        </TreeNode>
+        <TreeNode Title="C09B35/03 ###其中偶合组分是杂环化合物[3]" Target="frmContent" Href="../searchservlet?query=C09B35/03&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B35/03">
+          <TreeNode Title="C09B35/031 ####含有1个带有1个氮原子作为仅有的杂环原子的六元环[3]" Target="frmContent" Href="../searchservlet?query=C09B35/031&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B35/031"/>
+        </TreeNode>
+        <TreeNode Title="C09B35/033 ###其中偶合组分是邻-羟基-羧酸或β-酮基-羧酸的芳香酰胺[3]" Target="frmContent" Href="../searchservlet?query=C09B35/033&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B35/033"/>
+        <TreeNode Title="C09B35/035 ###其中偶合组分含有活性亚甲基[3]" Target="frmContent" Href="../searchservlet?query=C09B35/035&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B35/035"/>
+      </TreeNode>
+      <TreeNode Title="C09B35/037 ##以两种不同类型的偶合组分为特征的[3]" Target="frmContent" Href="../searchservlet?query=C09B35/037&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B35/037"/>
+      <TreeNode Title="C09B35/039 ##以双偶氮组分为特征的[3]" Target="frmContent" Href="../searchservlet?query=C09B35/039&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B35/039">
+        <TreeNode Title="C09B35/04 ###双偶氮组分是苯衍生物[3]" Target="frmContent" Href="../searchservlet?query=C09B35/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B35/04"/>
+        <TreeNode Title="C09B35/06 ###双偶氮组分是萘衍生物[3]" Target="frmContent" Href="../searchservlet?query=C09B35/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B35/06"/>
+        <TreeNode Title="C09B35/08 ###双偶氮组分是联苯衍生物[3]" Target="frmContent" Href="../searchservlet?query=C09B35/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B35/08">
+          <TreeNode Title="C09B35/10 ####由两种相同类型的偶合组分[3]" Target="frmContent" Href="../searchservlet?query=C09B35/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B35/10">
+            <TreeNode Title="C09B35/12 #####由胺[3]" Target="frmContent" Href="../searchservlet?query=C09B35/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B35/12"/>
+            <TreeNode Title="C09B35/14 #####由羟基化合物[3]" Target="frmContent" Href="../searchservlet?query=C09B35/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B35/14"/>
+            <TreeNode Title="C09B35/16 #####由羟基胺[3]" Target="frmContent" Href="../searchservlet?query=C09B35/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B35/16"/>
+            <TreeNode Title="C09B35/18 #####由杂环化合物[3]" Target="frmContent" Href="../searchservlet?query=C09B35/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B35/18"/>
+          </TreeNode>
+          <TreeNode Title="C09B35/20 ####由两种不同类型的偶合组分[3]" Target="frmContent" Href="../searchservlet?query=C09B35/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B35/20"/>
+        </TreeNode>
+        <TreeNode Title="C09B35/205 ###双偶氮组分是二芳基-或三芳基-链烷烃或-链烯烃的衍生物[3]" Target="frmContent" Href="../searchservlet?query=C09B35/205&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B35/205">
+          <TreeNode Title="C09B35/21 ####二芳基甲烷或三芳基甲烷的[3]" Target="frmContent" Href="../searchservlet?query=C09B35/21&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B35/21"/>
+          <TreeNode Title="C09B35/215 ####二芳基乙烷或二芳基乙烯的[3]" Target="frmContent" Href="../searchservlet?query=C09B35/215&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B35/215"/>
+        </TreeNode>
+        <TreeNode Title="C09B35/22 ###双偶氮组分是二芳基醚的衍生物[3]" Target="frmContent" Href="../searchservlet?query=C09B35/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B35/22"/>
+        <TreeNode Title="C09B35/227 ###双偶氮组分是二芳基硫化物或二芳基多硫化物的衍生物[3]" Target="frmContent" Href="../searchservlet?query=C09B35/227&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B35/227"/>
+        <TreeNode Title="C09B35/233 ###双偶氮组分是二芳基酮或联苯酰的衍生物[3]" Target="frmContent" Href="../searchservlet?query=C09B35/233&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B35/233"/>
+        <TreeNode Title="C09B35/24 ###双偶氮组分是二芳基胺的衍生物[3]" Target="frmContent" Href="../searchservlet?query=C09B35/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B35/24"/>
+        <TreeNode Title="C09B35/26 ###双偶氮组分是二芳基脲的衍生物[3]" Target="frmContent" Href="../searchservlet?query=C09B35/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B35/26"/>
+        <TreeNode Title="C09B35/28 ###双偶氮组分含有两个芳环，这两个芳环由-CON，-SO2N，-SO2-，或-SO2O-基中至少1个连接[3]" Target="frmContent" Href="../searchservlet?query=C09B35/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B35/28">
+          <TreeNode Title="C09B35/30 ####由两个相同的偶合组分[3]" Target="frmContent" Href="../searchservlet?query=C09B35/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B35/30"/>
+          <TreeNode Title="C09B35/32 ####由两个不同的偶合组分[3]" Target="frmContent" Href="../searchservlet?query=C09B35/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B35/32"/>
+        </TreeNode>
+        <TreeNode Title="C09B35/34 ###双偶氮组分是杂环[3]" Target="frmContent" Href="../searchservlet?query=C09B35/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B35/34"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="C09B35/35 #三偶氮染料，其中双偶氮组分是二氨基-偶氮-芳基化合物[3]" Target="frmContent" Href="../searchservlet?query=C09B35/35&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B35/35"/>
+    <TreeNode Title="C09B35/36 # DABE类型的三偶氮染料" Target="frmContent" Href="../searchservlet?query=C09B35/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B35/36">
+      <TreeNode Title="C09B35/362 ##D是苯[3]" Target="frmContent" Href="../searchservlet?query=C09B35/362&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B35/362"/>
+      <TreeNode Title="C09B35/364 ##D是萘[3]" Target="frmContent" Href="../searchservlet?query=C09B35/364&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B35/364"/>
+      <TreeNode Title="C09B35/366 ##D是联苯[3]" Target="frmContent" Href="../searchservlet?query=C09B35/366&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B35/366"/>
+      <TreeNode Title="C09B35/368 ##D是二芳基醚，二芳基硫化物或二芳基多硫化物[3]" Target="frmContent" Href="../searchservlet?query=C09B35/368&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B35/368"/>
+      <TreeNode Title="C09B35/37 ##D是二芳基胺[3]" Target="frmContent" Href="../searchservlet?query=C09B35/37&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B35/37"/>
+      <TreeNode Title="C09B35/372 ##D是二芳基脲[3]" Target="frmContent" Href="../searchservlet?query=C09B35/372&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B35/372"/>
+      <TreeNode Title="C09B35/374 ##D含有两个芳环，这两个芳环由CON，SO2N，-SO2-，或-SO2O-基中至少1个连接[3]" Target="frmContent" Href="../searchservlet?query=C09B35/374&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B35/374"/>
+      <TreeNode Title="C09B35/376 ##D是杂环化合物[3]" Target="frmContent" Href="../searchservlet?query=C09B35/376&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B35/376"/>
+    </TreeNode>
+    <TreeNode Title="C09B35/378 # 类型的三偶氮染料[3]" Target="frmContent" Href="../searchservlet?query=C09B35/378&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B35/378"/>
+    <TreeNode Title="C09B35/38 # 类型的三偶氮染料" Target="frmContent" Href="../searchservlet?query=C09B35/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B35/38">
+      <TreeNode Title="C09B35/40 ##组分K是二羟基或多羟基化合物" Target="frmContent" Href="../searchservlet?query=C09B35/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B35/40"/>
+      <TreeNode Title="C09B35/42 ##组分K是二元胺或多元胺" Target="frmContent" Href="../searchservlet?query=C09B35/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B35/42"/>
+      <TreeNode Title="C09B35/44 ##组分K是羟基胺" Target="frmContent" Href="../searchservlet?query=C09B35/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B35/44">
+        <TreeNode Title="C09B35/46 ###组分K是氨基萘酚" Target="frmContent" Href="../searchservlet?query=C09B35/46&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B35/46"/>
+      </TreeNode>
+      <TreeNode Title="C09B35/48 ##组分K是杂环" Target="frmContent" Href="../searchservlet?query=C09B35/48&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B35/48"/>
+    </TreeNode>
+    <TreeNode Title="C09B35/50 #四偶氮染料" Target="frmContent" Href="../searchservlet?query=C09B35/50&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B35/50">
+      <TreeNode Title="C09B35/52 ## 类型的[3]" Target="frmContent" Href="../searchservlet?query=C09B35/52&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B35/52"/>
+      <TreeNode Title="C09B35/54 ## 类型的[3]" Target="frmContent" Href="../searchservlet?query=C09B35/54&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B35/54"/>
+      <TreeNode Title="C09B35/56 ## DACBE类型的[3]" Target="frmContent" Href="../searchservlet?query=C09B35/56&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B35/56"/>
+      <TreeNode Title="C09B35/58 ## 类型的[3]" Target="frmContent" Href="../searchservlet?query=C09B35/58&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B35/58"/>
+      <TreeNode Title="C09B35/60 ##类型的[3]" Target="frmContent" Href="../searchservlet?query=C09B35/60&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B35/60"/>
+      <TreeNode Title="C09B35/62 ## 类型的[3]" Target="frmContent" Href="../searchservlet?query=C09B35/62&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B35/62"/>
+    </TreeNode>
+    <TreeNode Title="C09B35/64 #高级多偶氮染料，例如 [3]" Target="frmContent" Href="../searchservlet?query=C09B35/64&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B35/64"/>
+  </TreeNode>
+  <TreeNode Title="C09B37/00 重氮化的胺与它本身偶合制备的偶氮染料" Target="frmContent" Href="../searchservlet?query=C09B37/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B37/00"/>
+  <TreeNode Title="C09B39/00 由重氮化及偶合制备的其他偶氮染料" Target="frmContent" Href="../searchservlet?query=C09B39/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B39/00"/>
+  <TreeNode Title="C09B41/00 进行偶合反应的特殊方法" Target="frmContent" Href="../searchservlet?query=C09B41/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B41/00"/>
+  <TreeNode Title="C09B43/00 由其他偶氮化合物制备的偶氮染料" Target="frmContent" Href="../searchservlet?query=C09B43/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B43/00">
+    <TreeNode Title="C09B43/02 #用磺化作用" Target="frmContent" Href="../searchservlet?query=C09B43/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B43/02"/>
+    <TreeNode Title="C09B43/04 #用硝化作用" Target="frmContent" Href="../searchservlet?query=C09B43/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B43/04"/>
+    <TreeNode Title="C09B43/06 #用氧化作用" Target="frmContent" Href="../searchservlet?query=C09B43/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B43/06"/>
+    <TreeNode Title="C09B43/08 #用还原作用(脱氨基作用入C09B 43/44)" Target="frmContent" Href="../searchservlet?query=C09B43/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B43/08">
+      <TreeNode Title="C09B43/10 ##形成1个新的偶氮或1个氧化偶氮桥" Target="frmContent" Href="../searchservlet?query=C09B43/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B43/10"/>
+    </TreeNode>
+    <TreeNode Title="C09B43/11 #在伯氨或仲氨基上，引进烃基或取代烃基(用还原形成氨基，例如硝基的还原入C09B 43/08)[3]" Target="frmContent" Href="../searchservlet?query=C09B43/11&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B43/11"/>
+    <TreeNode Title="C09B43/12 #用氨基的酰化作用" Target="frmContent" Href="../searchservlet?query=C09B43/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B43/12">
+      <TreeNode Title="C09B43/124 ##用一元羧酸，氨基甲酸酯或卤化物、单异氰酸盐或卤化甲酸酯[3]" Target="frmContent" Href="../searchservlet?query=C09B43/124&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B43/124">
+        <TreeNode Title="C09B43/128 ###脂肪族的，脂环族的或芳香脂肪族的酸[3]" Target="frmContent" Href="../searchservlet?query=C09B43/128&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B43/128"/>
+        <TreeNode Title="C09B43/132 ###具有羧基直接连接到1个芳族碳环上[3]" Target="frmContent" Href="../searchservlet?query=C09B43/132&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B43/132"/>
+      </TreeNode>
+      <TreeNode Title="C09B43/136 ##用多官能的酰化剂[3]" Target="frmContent" Href="../searchservlet?query=C09B43/136&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B43/136">
+        <TreeNode Title="C09B43/14 ###用光气或硫光气[3]" Target="frmContent" Href="../searchservlet?query=C09B43/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B43/14"/>
+        <TreeNode Title="C09B43/145 ###用多元羧酸[3]" Target="frmContent" Href="../searchservlet?query=C09B43/145&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B43/145">
+          <TreeNode Title="C09B43/15 ####带有邻位-或迫位-二元羧酸的环状亚胺的生成[3]" Target="frmContent" Href="../searchservlet?query=C09B43/15&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B43/15"/>
+        </TreeNode>
+        <TreeNode Title="C09B43/155 ###用二-或多-异氰酸盐[3]" Target="frmContent" Href="../searchservlet?query=C09B43/155&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B43/155"/>
+        <TreeNode Title="C09B43/16 ###用三聚氰酸或三聚氰酸残基把氨基偶氮化合物与其他的氨基化合物键合[3]" Target="frmContent" Href="../searchservlet?query=C09B43/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B43/16"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="C09B43/18 #用羟基的酰化作用" Target="frmContent" Href="../searchservlet?query=C09B43/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B43/18">
+      <TreeNode Title="C09B43/20 ##用一元羧酸，氨基甲酸酯或卤化物，单异氰酸盐或卤代甲酸酯[3]" Target="frmContent" Href="../searchservlet?query=C09B43/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B43/20">
+        <TreeNode Title="C09B43/22 ###具有羧基直接连接到1个芳族碳环上[3]" Target="frmContent" Href="../searchservlet?query=C09B43/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B43/22"/>
+      </TreeNode>
+      <TreeNode Title="C09B43/24 ##用-O-SO2-R或-O-SO3H基的生成[3]" Target="frmContent" Href="../searchservlet?query=C09B43/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B43/24"/>
+      <TreeNode Title="C09B43/26 ##用多官能的酰化剂[3]" Target="frmContent" Href="../searchservlet?query=C09B43/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B43/26"/>
+    </TreeNode>
+    <TreeNode Title="C09B43/28 #用羟基的醚化作用[3]" Target="frmContent" Href="../searchservlet?query=C09B43/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B43/28"/>
+    <TreeNode Title="C09B43/30 #用-COOH或-SO3H基的酯化作用[3]" Target="frmContent" Href="../searchservlet?query=C09B43/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B43/30"/>
+    <TreeNode Title="C09B43/32 #用羟基或碘基或它的衍生物，与胺反应，用酮基与胺反应[3]" Target="frmContent" Href="../searchservlet?query=C09B43/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B43/32">
+      <TreeNode Title="C09B43/34 ##由邻-或迫-二羧基染料反应[3]" Target="frmContent" Href="../searchservlet?query=C09B43/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B43/34"/>
+      <TreeNode Title="C09B43/36 ##用氨基蒽或氨基蒽醌染料[3]" Target="frmContent" Href="../searchservlet?query=C09B43/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B43/36"/>
+      <TreeNode Title="C09B43/38 ##由两个或更多个邻羟基萘甲酸染料与多元胺反应[3]" Target="frmContent" Href="../searchservlet?query=C09B43/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B43/38"/>
+    </TreeNode>
+    <TreeNode Title="C09B43/40 #由含有其他杂原子基团取代杂原子[3]" Target="frmContent" Href="../searchservlet?query=C09B43/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B43/40">
+      <TreeNode Title="C09B43/42 ##由含有杂原子基团取代-CN基[3]" Target="frmContent" Href="../searchservlet?query=C09B43/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B43/42"/>
+    </TreeNode>
+    <TreeNode Title="C09B43/44 #用氨基取代羟基或羟基取代胺基；酰-氨基脱酰作用；脱氨基作用[3]" Target="frmContent" Href="../searchservlet?query=C09B43/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B43/44"/>
+  </TreeNode>
+  <TreeNode Title="C09B44/00 含有基的偶氮染料[3]" Target="frmContent" Href="../searchservlet?query=C09B44/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B44/00">
+    <TreeNode Title="C09B44/02 #含有不直接连接到偶氮基上的铵基[3]" Target="frmContent" Href="../searchservlet?query=C09B44/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B44/02">
+      <TreeNode Title="C09B44/04 ##由含有氨基作为仅有的定向基的偶合组分[3]" Target="frmContent" Href="../searchservlet?query=C09B44/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B44/04"/>
+      <TreeNode Title="C09B44/06 ##由含有羟基作为仅有的定向基的偶合组分[3]" Target="frmContent" Href="../searchservlet?query=C09B44/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B44/06"/>
+      <TreeNode Title="C09B44/08 ##由含有杂环的偶合组分[3]" Target="frmContent" Href="../searchservlet?query=C09B44/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B44/08"/>
+    </TreeNode>
+    <TreeNode Title="C09B44/10 #含有由环系的1个碳原子连接到1个偶氮基上的环铵基[3]" Target="frmContent" Href="../searchservlet?query=C09B44/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B44/10">
+      <TreeNode Title="C09B44/12 ##具有1个氮原子作为仅有的环杂原了[3]" Target="frmContent" Href="../searchservlet?query=C09B44/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B44/12"/>
+      <TreeNode Title="C09B44/14 ##1，2-二唑或氢化1，2-二唑[3]" Target="frmContent" Href="../searchservlet?query=C09B44/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B44/14"/>
+      <TreeNode Title="C09B44/16 ##1，3-二唑或氢化1，3-二唑[3]" Target="frmContent" Href="../searchservlet?query=C09B44/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B44/16"/>
+      <TreeNode Title="C09B44/18 ##具有3个氮原子作为仅有的杂环原子[3]" Target="frmContent" Href="../searchservlet?query=C09B44/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B44/18"/>
+      <TreeNode Title="C09B44/20 ##噻唑或氢化噻唑[3]" Target="frmContent" Href="../searchservlet?query=C09B44/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B44/20"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="C09B45/00 偶氮染料的配合金属化合物" Target="frmContent" Href="../searchservlet?query=C09B45/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B45/00">
+    <TreeNode Title="C09B45/01 #以金属化的方法为特征的[3]" Target="frmContent" Href="../searchservlet?query=C09B45/01&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B45/01"/>
+    <TreeNode Title="C09B45/02 #由在邻位含有羟基和在次邻位含有羟基、烷氧基、羧基、氨基或酮基的染料制备[2]" Target="frmContent" Href="../searchservlet?query=C09B45/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B45/02">
+      <TreeNode Title="C09B45/04 ##一般偶氮化合物" Target="frmContent" Href="../searchservlet?query=C09B45/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B45/04">
+        <TreeNode Title="C09B45/06 ###铬化合物" Target="frmContent" Href="../searchservlet?query=C09B45/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B45/06"/>
+        <TreeNode Title="C09B45/08 ###铜化合物" Target="frmContent" Href="../searchservlet?query=C09B45/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B45/08"/>
+        <TreeNode Title="C09B45/10 ###钴化合物" Target="frmContent" Href="../searchservlet?query=C09B45/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B45/10"/>
+        <TreeNode Title="C09B45/12 ###其他金属化合物" Target="frmContent" Href="../searchservlet?query=C09B45/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B45/12"/>
+      </TreeNode>
+      <TreeNode Title="C09B45/14 ##单偶氮化合物" Target="frmContent" Href="../searchservlet?query=C09B45/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B45/14">
+        <TreeNode Title="C09B45/16 ###含铬" Target="frmContent" Href="../searchservlet?query=C09B45/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B45/16"/>
+        <TreeNode Title="C09B45/18 ###含铜" Target="frmContent" Href="../searchservlet?query=C09B45/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B45/18"/>
+        <TreeNode Title="C09B45/20 ###含钴" Target="frmContent" Href="../searchservlet?query=C09B45/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B45/20"/>
+        <TreeNode Title="C09B45/22 ###含其他金属" Target="frmContent" Href="../searchservlet?query=C09B45/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B45/22"/>
+      </TreeNode>
+      <TreeNode Title="C09B45/24 ##双偶氮或多偶氮化合物" Target="frmContent" Href="../searchservlet?query=C09B45/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B45/24">
+        <TreeNode Title="C09B45/26 ###含铬" Target="frmContent" Href="../searchservlet?query=C09B45/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B45/26"/>
+        <TreeNode Title="C09B45/28 ###含铜" Target="frmContent" Href="../searchservlet?query=C09B45/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B45/28"/>
+        <TreeNode Title="C09B45/30 ###含钴" Target="frmContent" Href="../searchservlet?query=C09B45/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B45/30"/>
+        <TreeNode Title="C09B45/32 ###含其他金属" Target="frmContent" Href="../searchservlet?query=C09B45/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B45/32"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="C09B45/34 #由在次邻位上有1个原子或除羟基、烷氧基、羧基、氨基或酮基以外的官能团的邻-单羟基偶氮化合物制备" Target="frmContent" Href="../searchservlet?query=C09B45/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B45/34">
+      <TreeNode Title="C09B45/36 ##用在次邻位上氢的氧化" Target="frmContent" Href="../searchservlet?query=C09B45/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B45/36"/>
+    </TreeNode>
+    <TreeNode Title="C09B45/38 #由在相同环中或在迫位具有相邻的-OH和-COOH的化合物制备" Target="frmContent" Href="../searchservlet?query=C09B45/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B45/38">
+      <TreeNode Title="C09B45/40 ##铬化合物" Target="frmContent" Href="../searchservlet?query=C09B45/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B45/40"/>
+      <TreeNode Title="C09B45/42 ##铜化合物" Target="frmContent" Href="../searchservlet?query=C09B45/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B45/42"/>
+      <TreeNode Title="C09B45/44 ##钴化合物" Target="frmContent" Href="../searchservlet?query=C09B45/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B45/44"/>
+      <TreeNode Title="C09B45/46 ##其他金属化合物" Target="frmContent" Href="../searchservlet?query=C09B45/46&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B45/46"/>
+    </TreeNode>
+    <TreeNode Title="C09B45/48 #由偶氮染料的其他配合金属化合物制备" Target="frmContent" Href="../searchservlet?query=C09B45/48&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B45/48"/>
+  </TreeNode>
+  <TreeNode Title="C09B46/00 不包含在C09B 27/00至C09B 45/00组内的偶氮染料[2]" Target="frmContent" Href="../searchservlet?query=C09B46/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B46/00"/>
+  <TreeNode Title="C09B47/00 卟吩；吖卟吩" Target="frmContent" Href="../searchservlet?query=C09B47/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B47/00">
+    <TreeNode Title="C09B47/04 #酞菁类[3]" Target="frmContent" Href="../searchservlet?query=C09B47/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B47/04">
+      <TreeNode Title="C09B47/06 ##由羧酸或其衍生物制备[3]" Target="frmContent" Href="../searchservlet?query=C09B47/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B47/06">
+        <TreeNode Title="C09B47/067 ###由酞二腈[3]" Target="frmContent" Href="../searchservlet?query=C09B47/067&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B47/067"/>
+      </TreeNode>
+      <TreeNode Title="C09B47/073 ##由异吲哚咛制备[3]" Target="frmContent" Href="../searchservlet?query=C09B47/073&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B47/073"/>
+      <TreeNode Title="C09B47/08 ##由其他酞菁化合物制备" Target="frmContent" Href="../searchservlet?query=C09B47/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B47/08">
+        <TreeNode Title="C09B47/10 ###获得具有卤原子直接连接到酞菁骨架上的化合物[3]" Target="frmContent" Href="../searchservlet?query=C09B47/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B47/10"/>
+        <TreeNode Title="C09B47/12 ###获得具有烷基，或由杂原子取代的烷基，连接到酞菁骨架上的化合物[3]" Target="frmContent" Href="../searchservlet?query=C09B47/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B47/12">
+          <TreeNode Title="C09B47/14 ####有由卤原子取代的烷基[3]" Target="frmContent" Href="../searchservlet?query=C09B47/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B47/14"/>
+          <TreeNode Title="C09B47/16 ####有由氮原子取代的烷基[3]" Target="frmContent" Href="../searchservlet?query=C09B47/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B47/16"/>
+        </TreeNode>
+        <TreeNode Title="C09B47/18 ###获得具有氧原子直接连接到酞菁骨架上的化合物[3]" Target="frmContent" Href="../searchservlet?query=C09B47/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B47/18"/>
+        <TreeNode Title="C09B47/20 ###获得具有硫原子直接连接到酞菁骨架上的化合物[3]" Target="frmContent" Href="../searchservlet?query=C09B47/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B47/20"/>
+        <TreeNode Title="C09B47/22 ###获得具有氮原子直接连接到酞菁骨架上的化合物[3]" Target="frmContent" Href="../searchservlet?query=C09B47/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B47/22"/>
+        <TreeNode Title="C09B47/24 ###获得具有-COOH或-SO3H基，或它们的衍生物，直接连接到酞菁基上的化合物[3]" Target="frmContent" Href="../searchservlet?query=C09B47/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B47/24">
+          <TreeNode Title="C09B47/26 ####酰胺基[3]" Target="frmContent" Href="../searchservlet?query=C09B47/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B47/26"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="C09B47/28 ##含有-S-SO3H基的酞菁染料[3]" Target="frmContent" Href="../searchservlet?query=C09B47/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B47/28"/>
+      <TreeNode Title="C09B47/30 ##不含金属的酞菁[3]" Target="frmContent" Href="../searchservlet?query=C09B47/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B47/30"/>
+      <TreeNode Title="C09B47/32 ##阳离子的酞菁染料[3]" Target="frmContent" Href="../searchservlet?query=C09B47/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B47/32"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="C09B48/00 喹吖啶酮" Target="frmContent" Href="../searchservlet?query=C09B48/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B48/00"/>
+  <TreeNode Title="C09B49/00 硫化染料" Target="frmContent" Href="../searchservlet?query=C09B49/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B49/00">
+    <TreeNode Title="C09B49/02 #由苯、萘或蒽系的硝基化合物" Target="frmContent" Href="../searchservlet?query=C09B49/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B49/02"/>
+    <TreeNode Title="C09B49/04 #由苯、萘或蒽系的氨基化合物" Target="frmContent" Href="../searchservlet?query=C09B49/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B49/04"/>
+    <TreeNode Title="C09B49/06 #由吖嗪，嗪，噻嗪或噻唑" Target="frmContent" Href="../searchservlet?query=C09B49/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B49/06"/>
+    <TreeNode Title="C09B49/08 #由脲衍生物" Target="frmContent" Href="../searchservlet?query=C09B49/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B49/08"/>
+    <TreeNode Title="C09B49/10 #由二苯胺，吲达胺或靛酚" Target="frmContent" Href="../searchservlet?query=C09B49/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B49/10"/>
+    <TreeNode Title="C09B49/12 #由其他化合物" Target="frmContent" Href="../searchservlet?query=C09B49/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B49/12"/>
+  </TreeNode>
+  <TreeNode Title="C09B50/00 甲染料；四唑染料[3]" Target="frmContent" Href="../searchservlet?query=C09B50/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B50/00">
+    <TreeNode Title="C09B50/02 #四唑染料[3]" Target="frmContent" Href="../searchservlet?query=C09B50/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B50/02"/>
+    <TreeNode Title="C09B50/04 #不含金属的甲染料[3]" Target="frmContent" Href="../searchservlet?query=C09B50/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B50/04"/>
+    <TreeNode Title="C09B50/06 #双甲染料[3]" Target="frmContent" Href="../searchservlet?query=C09B50/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B50/06"/>
+    <TreeNode Title="C09B50/08 #中-酰基甲染料[3]" Target="frmContent" Href="../searchservlet?query=C09B50/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B50/08"/>
+    <TreeNode Title="C09B50/10 #阳离子的甲染料[3]" Target="frmContent" Href="../searchservlet?query=C09B50/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B50/10"/>
+  </TreeNode>
+  <TreeNode Title="C09B51/00 硝基及亚硝基染料" Target="frmContent" Href="../searchservlet?query=C09B51/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B51/00"/>
+  <TreeNode Title="C09B53/00 醌亚胺类" Target="frmContent" Href="../searchservlet?query=C09B53/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B53/00">
+    <TreeNode Title="C09B53/02 #吲达胺类；靛酚类" Target="frmContent" Href="../searchservlet?query=C09B53/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B53/02"/>
+  </TreeNode>
+  <TreeNode Title="C09B55/00 偶氮甲碱染料" Target="frmContent" Href="../searchservlet?query=C09B55/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B55/00"/>
+  <TreeNode Title="C09B56/00 含有其他发色体系的偶氮染料[3]" Target="frmContent" Href="../searchservlet?query=C09B56/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B56/00">
+    <TreeNode Title="C09B56/02 #偶氮甲碱-偶氮染料[3]" Target="frmContent" Href="../searchservlet?query=C09B56/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B56/02"/>
+    <TreeNode Title="C09B56/04 #芪-偶氮染料[3]" Target="frmContent" Href="../searchservlet?query=C09B56/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B56/04">
+      <TreeNode Title="C09B56/06 ##双-芪或多-芪-偶氮染料[3]" Target="frmContent" Href="../searchservlet?query=C09B56/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B56/06"/>
+    </TreeNode>
+    <TreeNode Title="C09B56/08 #苯乙烯基-偶氮染料[3]" Target="frmContent" Href="../searchservlet?query=C09B56/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B56/08"/>
+    <TreeNode Title="C09B56/10 #甲-偶氮染料[3]" Target="frmContent" Href="../searchservlet?query=C09B56/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B56/10"/>
+    <TreeNode Title="C09B56/12 #蒽醌-偶氮染料[3]" Target="frmContent" Href="../searchservlet?query=C09B56/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B56/12"/>
+    <TreeNode Title="C09B56/14 #酞菁-偶氮染料[3]" Target="frmContent" Href="../searchservlet?query=C09B56/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B56/14"/>
+    <TreeNode Title="C09B56/16 #甲川或多甲川-偶氮染料[3]" Target="frmContent" Href="../searchservlet?query=C09B56/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B56/16"/>
+    <TreeNode Title="C09B56/18 #腙-偶氮染料[3]" Target="frmContent" Href="../searchservlet?query=C09B56/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B56/18"/>
+    <TreeNode Title="C09B56/20 #三氮烯-偶氮染料[3]" Target="frmContent" Href="../searchservlet?query=C09B56/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B56/20"/>
+  </TreeNode>
+  <TreeNode Title="C09B57/00 其他已知结构的合成染料" Target="frmContent" Href="../searchservlet?query=C09B57/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B57/00">
+    <TreeNode Title="C09B57/02 #香豆素染料[3]" Target="frmContent" Href="../searchservlet?query=C09B57/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B57/02"/>
+    <TreeNode Title="C09B57/04 #异吲哚满染料[3]" Target="frmContent" Href="../searchservlet?query=C09B57/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B57/04"/>
+    <TreeNode Title="C09B57/06 #萘并内酰胺染料[3]" Target="frmContent" Href="../searchservlet?query=C09B57/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B57/06"/>
+    <TreeNode Title="C09B57/08 #萘二甲酰胺染料；酞酰亚胺染料[3]" Target="frmContent" Href="../searchservlet?query=C09B57/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B57/08"/>
+    <TreeNode Title="C09B57/10 #在非配合体中不是染料的有机化合物的金属配合物[3]" Target="frmContent" Href="../searchservlet?query=C09B57/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B57/10"/>
+    <TreeNode Title="C09B57/12 #迫位酮，即萘酰基烯-芳基-咪唑[3]" Target="frmContent" Href="../searchservlet?query=C09B57/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B57/12"/>
+    <TreeNode Title="C09B57/14 #苯并吨染料；苯并噻吨染料[3]" Target="frmContent" Href="../searchservlet?query=C09B57/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B57/14"/>
+  </TreeNode>
+  <TreeNode Title="C09B59/00 未知结构的人造染料" Target="frmContent" Href="../searchservlet?query=C09B59/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B59/00"/>
+  <TreeNode Title="C09B61/00 由天然原料制备的天然来源的染料" Target="frmContent" Href="../searchservlet?query=C09B61/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B61/00"/>
+  <TreeNode Title="C09B62/00 活性染料，即与基质形成共价键或自身聚合的染料[3]" Target="frmContent" Href="../searchservlet?query=C09B62/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B62/00">
+    <TreeNode Title="C09B62/002 #与交替给定的活性基团的连接[3]" Target="frmContent" Href="../searchservlet?query=C09B62/002&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B62/002">
+      <TreeNode Title="C09B62/004 ##蒽染料[3]" Target="frmContent" Href="../searchservlet?query=C09B62/004&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B62/004"/>
+      <TreeNode Title="C09B62/006 ##偶氮染料[3]" Target="frmContent" Href="../searchservlet?query=C09B62/006&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B62/006">
+        <TreeNode Title="C09B62/008 ###单偶氮染料[3]" Target="frmContent" Href="../searchservlet?query=C09B62/008&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B62/008"/>
+        <TreeNode Title="C09B62/01 ###双偶氮或多偶氮染料[3]" Target="frmContent" Href="../searchservlet?query=C09B62/01&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B62/01"/>
+        <TreeNode Title="C09B62/012 ###金属配合偶氮染料[3]" Target="frmContent" Href="../searchservlet?query=C09B62/012&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B62/012"/>
+      </TreeNode>
+      <TreeNode Title="C09B62/014 ##硝基染料[3]" Target="frmContent" Href="../searchservlet?query=C09B62/014&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B62/014"/>
+      <TreeNode Title="C09B62/016 ##卟吩；吖卟吩[3]" Target="frmContent" Href="../searchservlet?query=C09B62/016&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B62/016"/>
+      <TreeNode Title="C09B62/018 ##甲染料[3]" Target="frmContent" Href="../searchservlet?query=C09B62/018&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B62/018"/>
+    </TreeNode>
+    <TreeNode Title="C09B62/02 #带有直接连接到杂环上的活性基团" Target="frmContent" Href="../searchservlet?query=C09B62/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B62/02">
+      <TreeNode Title="C09B62/022 ##交替地给定的杂环[3]" Target="frmContent" Href="../searchservlet?query=C09B62/022&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B62/022">
+        <TreeNode Title="C09B62/024 ###蒽染料[3]" Target="frmContent" Href="../searchservlet?query=C09B62/024&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B62/024"/>
+        <TreeNode Title="C09B62/026 ###偶氮染料[3]" Target="frmContent" Href="../searchservlet?query=C09B62/026&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B62/026">
+          <TreeNode Title="C09B62/028 ####单偶氮染料[3]" Target="frmContent" Href="../searchservlet?query=C09B62/028&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B62/028"/>
+          <TreeNode Title="C09B62/03 ####双偶氮或多偶氮染料[3]" Target="frmContent" Href="../searchservlet?query=C09B62/03&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B62/03"/>
+          <TreeNode Title="C09B62/032 ####金属配合偶氮染料[3]" Target="frmContent" Href="../searchservlet?query=C09B62/032&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B62/032"/>
+        </TreeNode>
+        <TreeNode Title="C09B62/034 ###硝基染料[3]" Target="frmContent" Href="../searchservlet?query=C09B62/034&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B62/034"/>
+        <TreeNode Title="C09B62/036 ###卟吩；吖卟吩[3]" Target="frmContent" Href="../searchservlet?query=C09B62/036&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B62/036"/>
+        <TreeNode Title="C09B62/038 ###甲染料[3]" Target="frmContent" Href="../searchservlet?query=C09B62/038&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B62/038"/>
+      </TreeNode>
+      <TreeNode Title="C09B62/04 ##连接到1个三嗪环上" Target="frmContent" Href="../searchservlet?query=C09B62/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B62/04">
+        <TreeNode Title="C09B62/06 ###蒽染料" Target="frmContent" Href="../searchservlet?query=C09B62/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B62/06"/>
+        <TreeNode Title="C09B62/08 ###偶氮染料" Target="frmContent" Href="../searchservlet?query=C09B62/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B62/08">
+          <TreeNode Title="C09B62/085 ####单偶氮染料[3]" Target="frmContent" Href="../searchservlet?query=C09B62/085&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B62/085"/>
+          <TreeNode Title="C09B62/09 ####双偶氮或多氮染料[3]" Target="frmContent" Href="../searchservlet?query=C09B62/09&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B62/09"/>
+          <TreeNode Title="C09B62/095 ####金属配合偶氮染料[3]" Target="frmContent" Href="../searchservlet?query=C09B62/095&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B62/095"/>
+        </TreeNode>
+        <TreeNode Title="C09B62/10 ###卟吩；吖卟吩" Target="frmContent" Href="../searchservlet?query=C09B62/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B62/10"/>
+      </TreeNode>
+      <TreeNode Title="C09B62/12 ##连接到1个哒嗪环上" Target="frmContent" Href="../searchservlet?query=C09B62/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B62/12">
+        <TreeNode Title="C09B62/14 ###蒽染料" Target="frmContent" Href="../searchservlet?query=C09B62/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B62/14"/>
+        <TreeNode Title="C09B62/16 ###偶氮染料" Target="frmContent" Href="../searchservlet?query=C09B62/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B62/16">
+          <TreeNode Title="C09B62/165 ####单偶氮染料[3]" Target="frmContent" Href="../searchservlet?query=C09B62/165&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B62/165"/>
+          <TreeNode Title="C09B62/17 ####双偶氮或多偶氮染料[3]" Target="frmContent" Href="../searchservlet?query=C09B62/17&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B62/17"/>
+          <TreeNode Title="C09B62/175 ####金属配合偶氮染料[3]" Target="frmContent" Href="../searchservlet?query=C09B62/175&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B62/175"/>
+        </TreeNode>
+        <TreeNode Title="C09B62/18 ###卟吩；吖卟吩" Target="frmContent" Href="../searchservlet?query=C09B62/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B62/18"/>
+      </TreeNode>
+      <TreeNode Title="C09B62/20 ##连接到1个嘧啶环上" Target="frmContent" Href="../searchservlet?query=C09B62/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B62/20">
+        <TreeNode Title="C09B62/22 ###蒽染料" Target="frmContent" Href="../searchservlet?query=C09B62/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B62/22"/>
+        <TreeNode Title="C09B62/24 ###偶氮染料" Target="frmContent" Href="../searchservlet?query=C09B62/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B62/24">
+          <TreeNode Title="C09B62/245 ####单偶氮染料[3]" Target="frmContent" Href="../searchservlet?query=C09B62/245&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B62/245"/>
+          <TreeNode Title="C09B62/25 ####双偶氮或多偶氮染料[3]" Target="frmContent" Href="../searchservlet?query=C09B62/25&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B62/25"/>
+          <TreeNode Title="C09B62/255 ####金属配合偶氮染料[3]" Target="frmContent" Href="../searchservlet?query=C09B62/255&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B62/255"/>
+        </TreeNode>
+        <TreeNode Title="C09B62/26 ###卟吩；吖卟吩" Target="frmContent" Href="../searchservlet?query=C09B62/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B62/26"/>
+      </TreeNode>
+      <TreeNode Title="C09B62/28 ##连接到1个吡嗪环上" Target="frmContent" Href="../searchservlet?query=C09B62/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B62/28">
+        <TreeNode Title="C09B62/30 ###蒽染料" Target="frmContent" Href="../searchservlet?query=C09B62/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B62/30"/>
+        <TreeNode Title="C09B62/32 ###偶氮染料" Target="frmContent" Href="../searchservlet?query=C09B62/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B62/32">
+          <TreeNode Title="C09B62/325 ####单偶氮染料[3]" Target="frmContent" Href="../searchservlet?query=C09B62/325&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B62/325"/>
+          <TreeNode Title="C09B62/33 ####双偶氮或多偶氮染料[3]" Target="frmContent" Href="../searchservlet?query=C09B62/33&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B62/33"/>
+          <TreeNode Title="C09B62/335 ####金属配合偶氮染料[3]" Target="frmContent" Href="../searchservlet?query=C09B62/335&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B62/335"/>
+        </TreeNode>
+        <TreeNode Title="C09B62/34 ###卟吩；吖卟吩" Target="frmContent" Href="../searchservlet?query=C09B62/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B62/34"/>
+      </TreeNode>
+      <TreeNode Title="C09B62/343 ##连接到1个五元环上[3]" Target="frmContent" Href="../searchservlet?query=C09B62/343&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B62/343">
+        <TreeNode Title="C09B62/345 ###蒽染料[3]" Target="frmContent" Href="../searchservlet?query=C09B62/345&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B62/345"/>
+        <TreeNode Title="C09B62/347 ###偶氮染料[3]" Target="frmContent" Href="../searchservlet?query=C09B62/347&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B62/347">
+          <TreeNode Title="C09B62/35 ####单偶氮染料[3]" Target="frmContent" Href="../searchservlet?query=C09B62/35&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B62/35"/>
+          <TreeNode Title="C09B62/353 ####双偶氮或多偶氮染料[3]" Target="frmContent" Href="../searchservlet?query=C09B62/353&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B62/353"/>
+          <TreeNode Title="C09B62/355 ####金属配合偶氮染料[3]" Target="frmContent" Href="../searchservlet?query=C09B62/355&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B62/355"/>
+        </TreeNode>
+        <TreeNode Title="C09B62/357 ###卟吩；吖卟吩[3]" Target="frmContent" Href="../searchservlet?query=C09B62/357&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B62/357"/>
+      </TreeNode>
+      <TreeNode Title="C09B62/36 ##连接到其他某个杂环上" Target="frmContent" Href="../searchservlet?query=C09B62/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B62/36">
+        <TreeNode Title="C09B62/38 ###蒽染料" Target="frmContent" Href="../searchservlet?query=C09B62/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B62/38"/>
+        <TreeNode Title="C09B62/40 ###偶氮染料" Target="frmContent" Href="../searchservlet?query=C09B62/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B62/40">
+          <TreeNode Title="C09B62/405 ####单偶氮染料[3]" Target="frmContent" Href="../searchservlet?query=C09B62/405&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B62/405"/>
+          <TreeNode Title="C09B62/41 ####双偶氮或多偶氮染料[3]" Target="frmContent" Href="../searchservlet?query=C09B62/41&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B62/41"/>
+          <TreeNode Title="C09B62/415 ####金属配合偶氮染料[3]" Target="frmContent" Href="../searchservlet?query=C09B62/415&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B62/415"/>
+        </TreeNode>
+        <TreeNode Title="C09B62/42 ###卟吩；吖卟吩" Target="frmContent" Href="../searchservlet?query=C09B62/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B62/42"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="C09B62/44 #带有不直接连接到杂环上的活性基团" Target="frmContent" Href="../searchservlet?query=C09B62/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B62/44">
+      <TreeNode Title="C09B62/443 ##交替地给定的活性基团[3]" Target="frmContent" Href="../searchservlet?query=C09B62/443&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B62/443">
+        <TreeNode Title="C09B62/445 ###蒽染料[3]" Target="frmContent" Href="../searchservlet?query=C09B62/445&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B62/445"/>
+        <TreeNode Title="C09B62/447 ###偶氮染料[3]" Target="frmContent" Href="../searchservlet?query=C09B62/447&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B62/447">
+          <TreeNode Title="C09B62/45 ####单偶氮染料[3]" Target="frmContent" Href="../searchservlet?query=C09B62/45&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B62/45"/>
+          <TreeNode Title="C09B62/453 ####双偶氮或多偶氮染料[3]" Target="frmContent" Href="../searchservlet?query=C09B62/453&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B62/453"/>
+          <TreeNode Title="C09B62/455 ####金属配合偶氮染料[3]" Target="frmContent" Href="../searchservlet?query=C09B62/455&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B62/455"/>
+        </TreeNode>
+        <TreeNode Title="C09B62/457 ###卟吩；吖卟吩[3]" Target="frmContent" Href="../searchservlet?query=C09B62/457&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B62/457"/>
+        <TreeNode Title="C09B62/463 ###甲染料[3]" Target="frmContent" Href="../searchservlet?query=C09B62/463&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B62/463"/>
+      </TreeNode>
+      <TreeNode Title="C09B62/465 ##活性基团是1个丙烯酰基，1个季铵化的或非季铵化的氨基烷基羰基或1个(-N)n-CO-A-O-X或(-N)n-CO-A-Hal基团，其中A是烷撑或烷叉基，X是氢或有机或无机酸的酰基，Hal是卤原子，n＝0或1[3]" Target="frmContent" Href="../searchservlet?query=C09B62/465&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B62/465">
+        <TreeNode Title="C09B62/467 ###蒽染料[3]" Target="frmContent" Href="../searchservlet?query=C09B62/467&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B62/467"/>
+        <TreeNode Title="C09B62/47 ###偶氮染料[3]" Target="frmContent" Href="../searchservlet?query=C09B62/47&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B62/47">
+          <TreeNode Title="C09B62/473 ####单偶氮染料[3]" Target="frmContent" Href="../searchservlet?query=C09B62/473&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B62/473"/>
+          <TreeNode Title="C09B62/475 ####双偶氮或多偶氮染料[3]" Target="frmContent" Href="../searchservlet?query=C09B62/475&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B62/475"/>
+          <TreeNode Title="C09B62/477 ####金属配合偶氮染料[3]" Target="frmContent" Href="../searchservlet?query=C09B62/477&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B62/477"/>
+        </TreeNode>
+        <TreeNode Title="C09B62/483 ###卟吩；吖卟吩[3]" Target="frmContent" Href="../searchservlet?query=C09B62/483&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B62/483"/>
+      </TreeNode>
+      <TreeNode Title="C09B62/485 ##活性基团是1个卤素-环丁基-羰基、卤素-环丁基-乙烯基-羰基或卤素-环丁烯基-羰基[3]" Target="frmContent" Href="../searchservlet?query=C09B62/485&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B62/485">
+        <TreeNode Title="C09B62/487 ###蒽染料[3]" Target="frmContent" Href="../searchservlet?query=C09B62/487&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B62/487"/>
+        <TreeNode Title="C09B62/489 ###偶氮染料[3]" Target="frmContent" Href="../searchservlet?query=C09B62/489&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B62/489">
+          <TreeNode Title="C09B62/491 ####单偶氮染料[3]" Target="frmContent" Href="../searchservlet?query=C09B62/491&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B62/491"/>
+          <TreeNode Title="C09B62/493 ####双偶氮或多偶氮染料[3]" Target="frmContent" Href="../searchservlet?query=C09B62/493&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B62/493"/>
+          <TreeNode Title="C09B62/495 ####金属配合偶氮染料[3]" Target="frmContent" Href="../searchservlet?query=C09B62/495&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B62/495"/>
+        </TreeNode>
+        <TreeNode Title="C09B62/497 ###卟吩；吖卟吩[3]" Target="frmContent" Href="../searchservlet?query=C09B62/497&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B62/497"/>
+      </TreeNode>
+      <TreeNode Title="C09B62/503 ##活性基团是1个酯化的或未酯化的羟烷基磺酰基或巯基烷基磺酰基，1个季铵化的或非季铵化的氨基烷基磺酰基，1个杂巯基烷基磺酰基，1个乙烯基磺酰基或取代的乙烯基磺酰基，或1个噻吩-二氧化物基团[3]" Target="frmContent" Href="../searchservlet?query=C09B62/503&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B62/503">
+        <TreeNode Title="C09B62/505 ###蒽染料[3]" Target="frmContent" Href="../searchservlet?query=C09B62/505&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B62/505"/>
+        <TreeNode Title="C09B62/507 ###偶氮染料[3]" Target="frmContent" Href="../searchservlet?query=C09B62/507&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B62/507">
+          <TreeNode Title="C09B62/51 ####单偶氮染料[3]" Target="frmContent" Href="../searchservlet?query=C09B62/51&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B62/51"/>
+          <TreeNode Title="C09B62/513 ####双偶氮或多偶氮染料[3]" Target="frmContent" Href="../searchservlet?query=C09B62/513&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B62/513"/>
+          <TreeNode Title="C09B62/515 ####金属配合偶氮染料[3]" Target="frmContent" Href="../searchservlet?query=C09B62/515&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B62/515"/>
+        </TreeNode>
+        <TreeNode Title="C09B62/517 ###卟吩；吖卟吩[3]" Target="frmContent" Href="../searchservlet?query=C09B62/517&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B62/517"/>
+      </TreeNode>
+      <TreeNode Title="C09B62/523 ##活性基团是1个酯化的或未酯化的羟烷基磺酰胺基或羟烷基氨基磺酰基，1个季铵化的或非季铵化的氨基烷基磺酰胺基，或1个取代的烷基氨基磺酰胺基，或1个卤代烷基磺酰胺基或卤代烷基氨基磺酰基，或1个乙烯基磺酰胺基或取代的乙烯基磺酰胺基[3]" Target="frmContent" Href="../searchservlet?query=C09B62/523&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B62/523">
+        <TreeNode Title="C09B62/525 ###蒽染料[3]" Target="frmContent" Href="../searchservlet?query=C09B62/525&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B62/525"/>
+        <TreeNode Title="C09B62/527 ###偶氮染料[3]" Target="frmContent" Href="../searchservlet?query=C09B62/527&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B62/527">
+          <TreeNode Title="C09B62/53 ####单偶氮染料[3]" Target="frmContent" Href="../searchservlet?query=C09B62/53&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B62/53"/>
+          <TreeNode Title="C09B62/533 ####双偶氮或多偶氮染料[3]" Target="frmContent" Href="../searchservlet?query=C09B62/533&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B62/533"/>
+          <TreeNode Title="C09B62/535 ####金属配合偶氮染料[3]" Target="frmContent" Href="../searchservlet?query=C09B62/535&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B62/535"/>
+        </TreeNode>
+        <TreeNode Title="C09B62/537 ###卟吩，吖卟吩[3]" Target="frmContent" Href="../searchservlet?query=C09B62/537&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B62/537"/>
+      </TreeNode>
+      <TreeNode Title="C09B62/54 ##活性基团是环氧基或卤代醇基[3]" Target="frmContent" Href="../searchservlet?query=C09B62/54&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B62/54">
+        <TreeNode Title="C09B62/56 ###蒽染料" Target="frmContent" Href="../searchservlet?query=C09B62/56&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B62/56"/>
+        <TreeNode Title="C09B62/58 ###偶氮染料" Target="frmContent" Href="../searchservlet?query=C09B62/58&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B62/58">
+          <TreeNode Title="C09B62/585 ####单偶氮染料[3]" Target="frmContent" Href="../searchservlet?query=C09B62/585&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B62/585"/>
+          <TreeNode Title="C09B62/59 ####双偶氮或多偶氮染料[3]" Target="frmContent" Href="../searchservlet?query=C09B62/59&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B62/59"/>
+          <TreeNode Title="C09B62/595 ####金属配合偶氮染料[3]" Target="frmContent" Href="../searchservlet?query=C09B62/595&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B62/595"/>
+        </TreeNode>
+        <TreeNode Title="C09B62/60 ###卟吩；吖卟吩" Target="frmContent" Href="../searchservlet?query=C09B62/60&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B62/60"/>
+      </TreeNode>
+      <TreeNode Title="C09B62/62 ##活性基团是1个乙撑亚胺或N-酰化的乙撑亚胺或1个-CO-NH-CH2-CH2-X基，基中X是卤原子，季铵基或O-酰基和从有机酸或无机酸衍生的酰基，或β取代的乙胺基" Target="frmContent" Href="../searchservlet?query=C09B62/62&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B62/62">
+        <TreeNode Title="C09B62/64 ###蒽染料" Target="frmContent" Href="../searchservlet?query=C09B62/64&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B62/64"/>
+        <TreeNode Title="C09B62/66 ###偶氮染料" Target="frmContent" Href="../searchservlet?query=C09B62/66&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B62/66">
+          <TreeNode Title="C09B62/665 ####单偶氮染料[3]" Target="frmContent" Href="../searchservlet?query=C09B62/665&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B62/665"/>
+          <TreeNode Title="C09B62/67 ####双偶氮或多偶氮染料[3]" Target="frmContent" Href="../searchservlet?query=C09B62/67&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B62/67"/>
+          <TreeNode Title="C09B62/675 ####金属配合偶氮染料[3]" Target="frmContent" Href="../searchservlet?query=C09B62/675&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B62/675"/>
+        </TreeNode>
+        <TreeNode Title="C09B62/68 ###卟吩；吖卟吩" Target="frmContent" Href="../searchservlet?query=C09B62/68&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B62/68"/>
+      </TreeNode>
+      <TreeNode Title="C09B62/763 ##活性基团是N-羟甲基或它的O-衍生物[3]" Target="frmContent" Href="../searchservlet?query=C09B62/763&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B62/763">
+        <TreeNode Title="C09B62/765 ###蒽染料[3]" Target="frmContent" Href="../searchservlet?query=C09B62/765&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B62/765"/>
+        <TreeNode Title="C09B62/767 ###偶氮染料[3]" Target="frmContent" Href="../searchservlet?query=C09B62/767&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B62/767">
+          <TreeNode Title="C09B62/77 ####单偶氮染料[3]" Target="frmContent" Href="../searchservlet?query=C09B62/77&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B62/77"/>
+          <TreeNode Title="C09B62/773 ####双偶氮或多偶氮染料[3]" Target="frmContent" Href="../searchservlet?query=C09B62/773&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B62/773"/>
+          <TreeNode Title="C09B62/775 ####金属配合偶氮染料[3]" Target="frmContent" Href="../searchservlet?query=C09B62/775&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B62/775"/>
+        </TreeNode>
+        <TreeNode Title="C09B62/777 ###卟吩，吖卟吩[3]" Target="frmContent" Href="../searchservlet?query=C09B62/777&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B62/777"/>
+      </TreeNode>
+      <TreeNode Title="C09B62/78 ##带有其他活性基团" Target="frmContent" Href="../searchservlet?query=C09B62/78&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B62/78">
+        <TreeNode Title="C09B62/80 ###蒽染料" Target="frmContent" Href="../searchservlet?query=C09B62/80&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B62/80"/>
+        <TreeNode Title="C09B62/82 ###偶氮染料" Target="frmContent" Href="../searchservlet?query=C09B62/82&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B62/82">
+          <TreeNode Title="C09B62/825 ####单偶氮染料[3]" Target="frmContent" Href="../searchservlet?query=C09B62/825&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B62/825"/>
+          <TreeNode Title="C09B62/83 ####双偶氮或多偶氮染料[3]" Target="frmContent" Href="../searchservlet?query=C09B62/83&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B62/83"/>
+          <TreeNode Title="C09B62/835 ####金属配合偶氮染料[3]" Target="frmContent" Href="../searchservlet?query=C09B62/835&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B62/835"/>
+        </TreeNode>
+        <TreeNode Title="C09B62/84 ###卟吩，吖卟吩" Target="frmContent" Href="../searchservlet?query=C09B62/84&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B62/84"/>
+      </TreeNode>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="C09B63/00 色淀" Target="frmContent" Href="../searchservlet?query=C09B63/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B63/00"/>
+  <TreeNode Title="C09B65/00 含媒染剂的组合物(媒染剂化合物的制备入CO1，CO7)" Target="frmContent" Href="../searchservlet?query=C09B65/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B65/00"/>
+  <TreeNode Title="C09B67/00 没有化学反应，例如用溶剂处理，对染料的物理性能，例如染或印的影响；染料制备过程中的工艺特点；特殊物理形态的染料制备，例如片状、膜状" Target="frmContent" Href="../searchservlet?query=C09B67/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B67/00">
+    <TreeNode Title="C09B67/02 #以特殊物理形状为特征的染料制备，例如片状、膜状[3]" Target="frmContent" Href="../searchservlet?query=C09B67/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B67/02"/>
+    <TreeNode Title="C09B67/04 #研磨或碾磨(C09B 67/14优先)[3]" Target="frmContent" Href="../searchservlet?query=C09B67/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B67/04"/>
+    <TreeNode Title="C09B67/06 #干燥[3]" Target="frmContent" Href="../searchservlet?query=C09B67/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B67/06"/>
+    <TreeNode Title="C09B67/08 #涂层的细颗粒颜料或染料[3]" Target="frmContent" Href="../searchservlet?query=C09B67/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B67/08"/>
+    <TreeNode Title="C09B67/10 #用液体，例如溶剂处理对物理性质的影响(C09B 67/14、C09B 67/18、C09B 67/20优先)[3]" Target="frmContent" Href="../searchservlet?query=C09B67/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B67/10">
+      <TreeNode Title="C09B67/12 ##酞菁染料的[3]" Target="frmContent" Href="../searchservlet?query=C09B67/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B67/12"/>
+    </TreeNode>
+    <TreeNode Title="C09B67/14 #用酸处理对物理性能的影响[3]" Target="frmContent" Href="../searchservlet?query=C09B67/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B67/14">
+      <TreeNode Title="C09B67/16 ##酞菁染料的[3]" Target="frmContent" Href="../searchservlet?query=C09B67/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B67/16"/>
+    </TreeNode>
+    <TreeNode Title="C09B67/18 #用胺处理对物理性能的影响[3]" Target="frmContent" Href="../searchservlet?query=C09B67/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B67/18"/>
+    <TreeNode Title="C09B67/20 #有机颜料的制备[3]" Target="frmContent" Href="../searchservlet?query=C09B67/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B67/20"/>
+    <TreeNode Title="C09B67/22 #不同颜料或染料的混合或颜料或染料的固体溶液[3]" Target="frmContent" Href="../searchservlet?query=C09B67/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B67/22"/>
+    <TreeNode Title="C09B67/24 #酸性染料或活性染料的制备[3]" Target="frmContent" Href="../searchservlet?query=C09B67/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B67/24">
+      <TreeNode Title="C09B67/26 ##以液体产品[3]" Target="frmContent" Href="../searchservlet?query=C09B67/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B67/26"/>
+    </TreeNode>
+    <TreeNode Title="C09B67/28 #还原或硫化染料的制备[3]" Target="frmContent" Href="../searchservlet?query=C09B67/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B67/28">
+      <TreeNode Title="C09B67/30 ##以液体产品[3]" Target="frmContent" Href="../searchservlet?query=C09B67/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B67/30"/>
+    </TreeNode>
+    <TreeNode Title="C09B67/32 #阳离子或碱性染料的制备[3]" Target="frmContent" Href="../searchservlet?query=C09B67/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B67/32">
+      <TreeNode Title="C09B67/34 ##以液体产品[3]" Target="frmContent" Href="../searchservlet?query=C09B67/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B67/34"/>
+    </TreeNode>
+    <TreeNode Title="C09B67/36 #偶氮染料的制备[3]" Target="frmContent" Href="../searchservlet?query=C09B67/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B67/36"/>
+    <TreeNode Title="C09B67/38 #分散染料的制备[3]" Target="frmContent" Href="../searchservlet?query=C09B67/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B67/38">
+      <TreeNode Title="C09B67/40 ##以液体产品[3]" Target="frmContent" Href="../searchservlet?query=C09B67/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B67/40"/>
+    </TreeNode>
+    <TreeNode Title="C09B67/42 #在C09B 67/24至C09B 67/40单一组中不包括的染料制备[3]" Target="frmContent" Href="../searchservlet?query=C09B67/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B67/42">
+      <TreeNode Title="C09B67/44 ##溶解液[3]" Target="frmContent" Href="../searchservlet?query=C09B67/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B67/44"/>
+      <TreeNode Title="C09B67/46 ##分散液[3]" Target="frmContent" Href="../searchservlet?query=C09B67/46&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B67/46"/>
+    </TreeNode>
+    <TreeNode Title="C09B67/48 #颜料或染料结晶的调整(C09B 62/24优先)[3]" Target="frmContent" Href="../searchservlet?query=C09B67/48&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B67/48">
+      <TreeNode Title="C09B67/50 ##酞菁染料的[3]" Target="frmContent" Href="../searchservlet?query=C09B67/50&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B67/50"/>
+      <TreeNode Title="C09B67/52 ##喹吖啶酮的[3]" Target="frmContent" Href="../searchservlet?query=C09B67/52&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B67/52"/>
+    </TreeNode>
+    <TreeNode Title="C09B67/54 #分离，提纯(C09B 67/06、 C09B 67/10优先)[3]" Target="frmContent" Href="../searchservlet?query=C09B67/54&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B67/54"/>
+  </TreeNode>
+  <TreeNode Title="C09B69/00 不包含在本小类任一单独的组内的染料[2]" Target="frmContent" Href="../searchservlet?query=C09B69/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B69/00">
+    <TreeNode Title="C09B69/02 #染料的盐，例如酸性染料与碱性染料的盐(关于染料的Na、K或NH4＋盐或关于氯化物、硫酸盐或氯锌酸盐，见有关的染料组)[3]" Target="frmContent" Href="../searchservlet?query=C09B69/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B69/02">
+      <TreeNode Title="C09B69/04 ##带有含氮化合物的阴离子染料的[3]" Target="frmContent" Href="../searchservlet?query=C09B69/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B69/04"/>
+      <TreeNode Title="C09B69/06 ##带有有机酸的阳离子染料的[3]" Target="frmContent" Href="../searchservlet?query=C09B69/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B69/06"/>
+    </TreeNode>
+    <TreeNode Title="C09B69/08 #含有一种易分裂的水增溶基的染料[3]" Target="frmContent" Href="../searchservlet?query=C09B69/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B69/08"/>
+    <TreeNode Title="C09B69/10 #聚合的染料；染料与单体或高分子化合物的反应产物[3]" Target="frmContent" Href="../searchservlet?query=C09B69/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09B69/10"/>
+  </TreeNode>
+</Root>

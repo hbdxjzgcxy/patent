@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="C23F1/00 金属材料的化学法蚀刻(制作印刷表面入B41C；制作印刷线路入H05K)[2]" Target="frmContent" Href="../searchservlet?query=C23F1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C23F1/00">
+    <TreeNode Title="C23F1/02 #局部蚀刻" Target="frmContent" Href="../searchservlet?query=C23F1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C23F1/02">
+      <TreeNode Title="C23F1/04 ##化学铣削" Target="frmContent" Href="../searchservlet?query=C23F1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C23F1/04"/>
+    </TreeNode>
+    <TreeNode Title="C23F1/06 #使锉刀锐利" Target="frmContent" Href="../searchservlet?query=C23F1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C23F1/06"/>
+    <TreeNode Title="C23F1/08 #装置，如照相印刷制版装置(照相复印入G03F)" Target="frmContent" Href="../searchservlet?query=C23F1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C23F1/08"/>
+    <TreeNode Title="C23F1/10 #蚀刻用组合物(C23F 1/44优先)[4]" Target="frmContent" Href="../searchservlet?query=C23F1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C23F1/10">
+      <TreeNode Title="C23F1/12 ##气态组合物[4]" Target="frmContent" Href="../searchservlet?query=C23F1/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C23F1/12"/>
+      <TreeNode Title="C23F1/14 ##含水组合物[4]" Target="frmContent" Href="../searchservlet?query=C23F1/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C23F1/14">
+        <TreeNode Title="C23F1/16 ###酸性组合物(C23F 1/42优先)[4]" Target="frmContent" Href="../searchservlet?query=C23F1/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C23F1/16">
+          <TreeNode Title="C23F1/18 ####蚀刻铜或铜合金用的[4]" Target="frmContent" Href="../searchservlet?query=C23F1/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C23F1/18"/>
+          <TreeNode Title="C23F1/20 ####蚀刻铝或铝合金用的[4]" Target="frmContent" Href="../searchservlet?query=C23F1/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C23F1/20"/>
+          <TreeNode Title="C23F1/22 ####蚀刻镁或镁合金用的[4]" Target="frmContent" Href="../searchservlet?query=C23F1/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C23F1/22"/>
+          <TreeNode Title="C23F1/24 ####蚀刻硅或锗用的[4]" Target="frmContent" Href="../searchservlet?query=C23F1/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C23F1/24"/>
+          <TreeNode Title="C23F1/26 ####蚀刻难熔金属用的[4]" Target="frmContent" Href="../searchservlet?query=C23F1/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C23F1/26"/>
+          <TreeNode Title="C23F1/28 ####蚀刻铁族金属用的[4]" Target="frmContent" Href="../searchservlet?query=C23F1/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C23F1/28"/>
+          <TreeNode Title="C23F1/30 ####蚀刻其他金属材料用的[4]" Target="frmContent" Href="../searchservlet?query=C23F1/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C23F1/30"/>
+        </TreeNode>
+        <TreeNode Title="C23F1/32 ###碱性组合物(C23F 1/42优先)[4]" Target="frmContent" Href="../searchservlet?query=C23F1/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C23F1/32">
+          <TreeNode Title="C23F1/34 ####蚀刻铜或铜合金用的[4]" Target="frmContent" Href="../searchservlet?query=C23F1/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C23F1/34"/>
+          <TreeNode Title="C23F1/36 ####蚀刻铝或铝合金用的[4]" Target="frmContent" Href="../searchservlet?query=C23F1/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C23F1/36"/>
+          <TreeNode Title="C23F1/38 ####蚀刻难熔金属用的[4]" Target="frmContent" Href="../searchservlet?query=C23F1/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C23F1/38"/>
+          <TreeNode Title="C23F1/40 ####蚀刻其他金属材料用的[4]" Target="frmContent" Href="../searchservlet?query=C23F1/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C23F1/40"/>
+        </TreeNode>
+        <TreeNode Title="C23F1/42 ###含有一种与水不互溶分散相液体的[4]" Target="frmContent" Href="../searchservlet?query=C23F1/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C23F1/42"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="C23F1/44 #从一种不同成分的金属材料基体上蚀刻金属材料的组合物[4]" Target="frmContent" Href="../searchservlet?query=C23F1/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C23F1/44"/>
+    <TreeNode Title="C23F1/46 #蚀刻组合物的再生[4]" Target="frmContent" Href="../searchservlet?query=C23F1/46&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C23F1/46"/>
+  </TreeNode>
+  <TreeNode Title="C23F3/00 金属的化学法光亮处理[2]" Target="frmContent" Href="../searchservlet?query=C23F3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C23F3/00">
+    <TreeNode Title="C23F3/02 #轻金属" Target="frmContent" Href="../searchservlet?query=C23F3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C23F3/02">
+      <TreeNode Title="C23F3/03 ##用酸性溶液的[4]" Target="frmContent" Href="../searchservlet?query=C23F3/03&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C23F3/03"/>
+    </TreeNode>
+    <TreeNode Title="C23F3/04 #重金属" Target="frmContent" Href="../searchservlet?query=C23F3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C23F3/04">
+      <TreeNode Title="C23F3/06 ##用酸性溶液的[4]" Target="frmContent" Href="../searchservlet?query=C23F3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C23F3/06"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="C23F4/00 不包含在C23F 1/00或C23F 3/00组中的表面除去金属材料的工艺[4]" Target="frmContent" Href="../searchservlet?query=C23F4/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C23F4/00">
+    <TreeNode Title="C23F4/02 #蒸发法[4]" Target="frmContent" Href="../searchservlet?query=C23F4/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C23F4/02"/>
+    <TreeNode Title="C23F4/04 #物理溶蚀法[4]" Target="frmContent" Href="../searchservlet?query=C23F4/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C23F4/04"/>
+  </TreeNode>
+  <TreeNode Title="C23F11/00 通过给有腐蚀危险的表面上施加抑制剂或在腐蚀剂中加入抑制剂来抑制金属材料的腐蚀(孔眼或井就地抑制腐蚀的组合物入C09K 8/54； 矿物油，燃料，或润滑剂中添加抑制剂入C10；酸洗液中加抑制剂入C23G)" Target="frmContent" Href="../searchservlet?query=C23F11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C23F11/00">
+    <TreeNode Title="C23F11/02 #在空气或气体中添加气相缓蚀剂" Target="frmContent" Href="../searchservlet?query=C23F11/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C23F11/02"/>
+    <TreeNode Title="C23F11/04 #在明显酸性的液体中" Target="frmContent" Href="../searchservlet?query=C23F11/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C23F11/04"/>
+    <TreeNode Title="C23F11/06 #在明显碱性的液体中" Target="frmContent" Href="../searchservlet?query=C23F11/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C23F11/06"/>
+    <TreeNode Title="C23F11/08 #在其他液体中" Target="frmContent" Href="../searchservlet?query=C23F11/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C23F11/08">
+      <TreeNode Title="C23F11/10 ##用有机的缓蚀剂" Target="frmContent" Href="../searchservlet?query=C23F11/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C23F11/10">
+        <TreeNode Title="C23F11/12 ###含氧的化合物" Target="frmContent" Href="../searchservlet?query=C23F11/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C23F11/12"/>
+        <TreeNode Title="C23F11/14 ###含氮的化合物" Target="frmContent" Href="../searchservlet?query=C23F11/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C23F11/14"/>
+        <TreeNode Title="C23F11/16 ###含硫的化合物" Target="frmContent" Href="../searchservlet?query=C23F11/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C23F11/16"/>
+        <TreeNode Title="C23F11/167 ###含磷的化合物[4]" Target="frmContent" Href="../searchservlet?query=C23F11/167&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C23F11/167"/>
+        <TreeNode Title="C23F11/173 ###高分子化合物[4]" Target="frmContent" Href="../searchservlet?query=C23F11/173&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C23F11/173"/>
+      </TreeNode>
+      <TreeNode Title="C23F11/18 ##用无机缓蚀剂" Target="frmContent" Href="../searchservlet?query=C23F11/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C23F11/18"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="C23F13/00 用阳极或阴极保护法的金属防腐蚀" Target="frmContent" Href="../searchservlet?query=C23F13/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C23F13/00">
+    <TreeNode Title="C23F13/02 #阴极的；阴极保护的条件、参数或工艺，如电条件的选择[5]" Target="frmContent" Href="../searchservlet?query=C23F13/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C23F13/02">
+      <TreeNode Title="C23F13/04 ##所需参数的控制或调节[5]" Target="frmContent" Href="../searchservlet?query=C23F13/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C23F13/04"/>
+      <TreeNode Title="C23F13/06 ##阴极保护装置的结构部件或组件[5]" Target="frmContent" Href="../searchservlet?query=C23F13/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C23F13/06">
+        <TreeNode Title="C23F13/08 ###阴极保护的专用缓蚀电极；其制造；电流的导入[5]" Target="frmContent" Href="../searchservlet?query=C23F13/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C23F13/08">
+          <TreeNode Title="C23F13/10 ####以结构为特征的电极(C23F 13/16优先)[5]" Target="frmContent" Href="../searchservlet?query=C23F13/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C23F13/10"/>
+          <TreeNode Title="C23F13/12 ####以材料为特征的电极(C23F 13/16优先)[5]" Target="frmContent" Href="../searchservlet?query=C23F13/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C23F13/12">
+            <TreeNode Title="C23F13/14 #####牺牲阳极用的材料[5]" Target="frmContent" Href="../searchservlet?query=C23F13/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C23F13/14"/>
+          </TreeNode>
+          <TreeNode Title="C23F13/16 ####以结构和材料的组合为特征的电极[5]" Target="frmContent" Href="../searchservlet?query=C23F13/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C23F13/16"/>
+          <TreeNode Title="C23F13/18 ####电极的支承物[5]" Target="frmContent" Href="../searchservlet?query=C23F13/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C23F13/18"/>
+          <TreeNode Title="C23F13/20 ####向电极导入电流[5]" Target="frmContent" Href="../searchservlet?query=C23F13/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C23F13/20"/>
+          <TreeNode Title="C23F13/22 ####所用的检测装置[5]" Target="frmContent" Href="../searchservlet?query=C23F13/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C23F13/22"/>
+        </TreeNode>
+      </TreeNode>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="C23F14/00 在物理或化学用的液体加热装置中的防垢(在水中添加预防或去除水垢剂入C02F 5/00)[2]" Target="frmContent" Href="../searchservlet?query=C23F14/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C23F14/00">
+    <TreeNode Title="C23F14/02 #用化学法" Target="frmContent" Href="../searchservlet?query=C23F14/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C23F14/02"/>
+  </TreeNode>
+  <TreeNode Title="C23F15/00 防腐蚀或防垢的其他方法" Target="frmContent" Href="../searchservlet?query=C23F15/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C23F15/00"/>
+  <TreeNode Title="C23F17/00 包括C23大类中所列入的至少一种工艺及C21D、C22F小类或C25大类中所列入的至少一种工艺之多步法金属材料表面处理工艺(C23C 28/00优先)[4]" Target="frmContent" Href="../searchservlet?query=C23F17/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C23F17/00"/>
+</Root>

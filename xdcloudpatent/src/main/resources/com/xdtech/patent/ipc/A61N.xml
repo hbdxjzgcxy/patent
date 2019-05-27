@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="A61N1/00 电疗法；其所用的线路(A61N 2/00优先；用于治疗或体内测试的导电药剂入A61K 50/00)  [5]" Target="frmContent" Href="../searchservlet?query=A61N1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61N1/00">
+    <TreeNode Title="A61N1/02 #元件" Target="frmContent" Href="../searchservlet?query=A61N1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61N1/02">
+      <TreeNode Title="A61N1/04 ##电极" Target="frmContent" Href="../searchservlet?query=A61N1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61N1/04">
+        <TreeNode Title="A61N1/05 ###植入或插入躯体内用的，例如心脏电极(A61N 1/06优先) [4]" Target="frmContent" Href="../searchservlet?query=A61N1/05&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61N1/05"/>
+        <TreeNode Title="A61N1/06 ###用于高频疗法的" Target="frmContent" Href="../searchservlet?query=A61N1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61N1/06"/>
+      </TreeNode>
+      <TreeNode Title="A61N1/08 ##监测、保护、控制或指示用的设备或线路(用于单一专用设备的入A61N 1/10至A61N 1/44) [4]" Target="frmContent" Href="../searchservlet?query=A61N1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61N1/08"/>
+    </TreeNode>
+    <TreeNode Title="A61N1/10 #应用静电的(应用离子化气体或蒸气的入A61N 1/44)" Target="frmContent" Href="../searchservlet?query=A61N1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61N1/10"/>
+    <TreeNode Title="A61N1/14 #电荷的导离，例如用接地法" Target="frmContent" Href="../searchservlet?query=A61N1/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61N1/14"/>
+    <TreeNode Title="A61N1/16 #大气或地球辐射或场的不良影响的屏蔽或中和" Target="frmContent" Href="../searchservlet?query=A61N1/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61N1/16"/>
+    <TreeNode Title="A61N1/18 #通过接触电极施加电流" Target="frmContent" Href="../searchservlet?query=A61N1/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61N1/18">
+      <TreeNode Title="A61N1/20 ##连续的直流电" Target="frmContent" Href="../searchservlet?query=A61N1/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61N1/20">
+        <TreeNode Title="A61N1/22 ###电疗带" Target="frmContent" Href="../searchservlet?query=A61N1/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61N1/22">
+          <TreeNode Title="A61N1/24 ####带附装电源的" Target="frmContent" Href="../searchservlet?query=A61N1/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61N1/24"/>
+        </TreeNode>
+        <TreeNode Title="A61N1/26 ###电疗刷；电疗按摩器" Target="frmContent" Href="../searchservlet?query=A61N1/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61N1/26"/>
+        <TreeNode Title="A61N1/28 ###应用温差电流的装置" Target="frmContent" Href="../searchservlet?query=A61N1/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61N1/28"/>
+        <TreeNode Title="A61N1/30 ###离子透入或阳离子电泳用的器械" Target="frmContent" Href="../searchservlet?query=A61N1/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61N1/30"/>
+      </TreeNode>
+      <TreeNode Title="A61N1/32 ##交变或间歇电流" Target="frmContent" Href="../searchservlet?query=A61N1/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61N1/32">
+        <TreeNode Title="A61N1/34 ###诱导麻醉用" Target="frmContent" Href="../searchservlet?query=A61N1/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61N1/34"/>
+        <TreeNode Title="A61N1/36 ###刺激用，例如心脏起搏器" Target="frmContent" Href="../searchservlet?query=A61N1/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61N1/36">
+          <TreeNode Title="A61N1/362 ####心脏刺激器(A61N 1/372优先；心脏除纤颤器入A61N 1/39) [4]" Target="frmContent" Href="../searchservlet?query=A61N1/362&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61N1/362">
+            <TreeNode Title="A61N1/365 #####由生理参数，如心电位控制的 [4]" Target="frmContent" Href="../searchservlet?query=A61N1/365&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61N1/365">
+              <TreeNode Title="A61N1/368 ######包括一个以上与不同心脏部位协同作用的电极 [4]" Target="frmContent" Href="../searchservlet?query=A61N1/368&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61N1/368"/>
+            </TreeNode>
+            <TreeNode Title="A61N1/37 #####监测；保护 [4]" Target="frmContent" Href="../searchservlet?query=A61N1/37&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61N1/37"/>
+          </TreeNode>
+          <TreeNode Title="A61N1/372 ####与植入刺激器有关的装置 [4]" Target="frmContent" Href="../searchservlet?query=A61N1/372&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61N1/372">
+            <TreeNode Title="A61N1/375 #####结构上的安置，例如外壳 [4]" Target="frmContent" Href="../searchservlet?query=A61N1/375&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61N1/375"/>
+            <TreeNode Title="A61N1/378 #####电源 [4]" Target="frmContent" Href="../searchservlet?query=A61N1/378&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61N1/378"/>
+          </TreeNode>
+        </TreeNode>
+        <TreeNode Title="A61N1/38 ###用于产生休克效应的" Target="frmContent" Href="../searchservlet?query=A61N1/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61N1/38">
+          <TreeNode Title="A61N1/39 ####心脏除纤颤器 [4]" Target="frmContent" Href="../searchservlet?query=A61N1/39&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61N1/39"/>
+        </TreeNode>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="A61N1/40 #电感耦合或电容耦合电场的应用" Target="frmContent" Href="../searchservlet?query=A61N1/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61N1/40"/>
+    <TreeNode Title="A61N1/44 #电离流体的应用" Target="frmContent" Href="../searchservlet?query=A61N1/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61N1/44"/>
+  </TreeNode>
+  <TreeNode Title="A61N2/00 磁疗法 [5]" Target="frmContent" Href="../searchservlet?query=A61N2/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61N2/00">
+    <TreeNode Title="A61N2/02 #由线圈产生磁场，包括单匝线圈或电磁体(A61N 2/12优先) [5]" Target="frmContent" Href="../searchservlet?query=A61N2/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61N2/02">
+      <TreeNode Title="A61N2/04 ##用可变磁场，例如低频或脉动磁场 [5]" Target="frmContent" Href="../searchservlet?query=A61N2/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61N2/04"/>
+    </TreeNode>
+    <TreeNode Title="A61N2/06 #用永久磁铁产生磁场(A61N 2/12优先) [5]" Target="frmContent" Href="../searchservlet?query=A61N2/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61N2/06">
+      <TreeNode Title="A61N2/08 ##应用于外部 [5]" Target="frmContent" Href="../searchservlet?query=A61N2/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61N2/08"/>
+      <TreeNode Title="A61N2/10 ##在体内使用，如带有注入或植入元件的 [5]" Target="frmContent" Href="../searchservlet?query=A61N2/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61N2/10"/>
+    </TreeNode>
+    <TreeNode Title="A61N2/12 #利用由机械运动产生的可变磁场的 [5]" Target="frmContent" Href="../searchservlet?query=A61N2/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61N2/12"/>
+  </TreeNode>
+  <TreeNode Title="A61N5/00 放射疗(治疗及诊断两用的器械或设备入A61B 6/00；把放射性材料运用到体内的入A61M 36/00) [5，6]" Target="frmContent" Href="../searchservlet?query=A61N5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61N5/00">
+    <TreeNode Title="A61N5/01 #治疗时产生放射源运动的器械" Target="frmContent" Href="../searchservlet?query=A61N5/01&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61N5/01"/>
+    <TreeNode Title="A61N5/02 #利用微波(A61N 5/01优先)" Target="frmContent" Href="../searchservlet?query=A61N5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61N5/02">
+      <TreeNode Title="A61N5/04 ##近场处置用的辐射器" Target="frmContent" Href="../searchservlet?query=A61N5/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61N5/04"/>
+    </TreeNode>
+    <TreeNode Title="A61N5/06 #利用光(A61N 5/01优先)" Target="frmContent" Href="../searchservlet?query=A61N5/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61N5/06">
+      <TreeNode Title="A61N5/067 ##利用激光 [7]" Target="frmContent" Href="../searchservlet?query=A61N5/067&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61N5/067"/>
+      <TreeNode Title="A61N5/073 ##利用偏振光(A61N 5/067优先) [7]" Target="frmContent" Href="../searchservlet?query=A61N5/073&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61N5/073"/>
+      <TreeNode Title="A61N5/08 ##利用组合的红外线与紫外线" Target="frmContent" Href="../searchservlet?query=A61N5/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61N5/08"/>
+    </TreeNode>
+    <TreeNode Title="A61N5/10 #X射线治疗法，γ射线治疗法；粒子照射疗法(A61N 5/01优先)" Target="frmContent" Href="../searchservlet?query=A61N5/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61N5/10"/>
+  </TreeNode>
+  <TreeNode Title="A61N7/00 超声波疗法(碎石术入A61B 17/22，A61B 17/225；利用超音频振动按摩入A61H 23/00) [6]" Target="frmContent" Href="../searchservlet?query=A61N7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61N7/00">
+    <TreeNode Title="A61N7/02 #局部的超声波发热 [6]" Target="frmContent" Href="../searchservlet?query=A61N7/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A61N7/02"/>
+  </TreeNode>
+</Root>

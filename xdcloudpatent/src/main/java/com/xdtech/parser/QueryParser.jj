@@ -1,0 +1,275 @@
+/*
+ *该文件源于solr6.0的QueryParser.jj文件。在其基础上修改了赋值操作符，将:修改成=；并添加了>、>=、<、<=的支持，并添加了cnt函数的支持。
+ */
+
+options {
+  STATIC=false;
+  JAVA_UNICODE_ESCAPE=true;
+  USER_CHAR_STREAM=true;
+}
+
+PARSER_BEGIN(QueryParser)
+
+package com.xdtech.parser;
+
+import java.io.StringReader;
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Locale;
+
+import org.apache.lucene.analysis.Analyzer;
+import org.apache.lucene.document.DateTools;
+import org.apache.lucene.search.BooleanClause;
+import org.apache.lucene.search.BooleanQuery;
+import org.apache.lucene.search.Query;
+import org.apache.lucene.search.TermRangeQuery;
+import org.apache.lucene.search.TermQuery;
+import org.apache.lucene.util.Version;
+
+
+public class QueryParser extends XDBaseParser {
+  static{BooleanQuery.setMaxClauseCount(1024000);}
+  /** The default operator for parsing queries.
+   */
+  static public enum Operator { OR, AND }
+	
+  public QueryParser(String defaultField) {
+    this(new FastCharStream(new StringReader("")));
+    init(defaultField);
+  }
+}
+
+PARSER_END(QueryParser)
+
+TOKEN_MGR_DECLS : {
+  int commentNestingDepth ;
+}
+
+/* ***************** */
+/* Token Definitions */
+/* ***************** */
+
+<*> TOKEN : {
+  <#_NUM_CHAR:   ["0"-"9"] >
+ // every character that follows a backslash is considered as an escaped character
+ | <#_ESCAPED_CHAR: "\\" ~[] >
+ | <#_TERM_START_CHAR: ( ~[ " ", "\t", "\n", "\r", "\u3000", "+", "-", "!", "(", ")", "=", "^",
+                      "[", "]", "\"", "{", "}", "~", "*", "?", "\\", "/" ,">","<"]
+                      | <_ESCAPED_CHAR> ) >
+ | <#_TERM_CHAR: ( <_TERM_START_CHAR>
+                       | <_ESCAPED_CHAR> | "-" | "+" | "/" | "!") >
+ | <#_WHITESPACE:  ( " " | "\t" | "\n" | "\r" | "\u3000") >
+ | <#_QUOTED_CHAR:  ( ~[ "\"", "\\" ] | <_ESCAPED_CHAR> ) >
+ | <#_SQUOTED_CHAR:  ( ~[ "'", "\\" ] | <_ESCAPED_CHAR> ) >
+}
+
+<DEFAULT, COMMENT> SKIP : {
+   < <_WHITESPACE>>
+  | "/*" {commentNestingDepth++;} : COMMENT
+ }
+
+<COMMENT> SKIP : {
+  // trying to avoid matching end-of-comment in string leads to more problems (incorrectly thinking we are in a string due
+  // to the simplistic matching in this state.
+  // < ("\"" (<_QUOTED_CHAR>)* "\"") >
+  "*/" { commentNestingDepth -= 1; SwitchTo( commentNestingDepth==0 ? DEFAULT : COMMENT ); }
+  | < ~[]>
+}
+
+<Range> SKIP : {
+  < <_WHITESPACE>>
+}
+
+
+<DEFAULT> TOKEN : {
+  <AND:       ("AND" | "&&"|"and"|"And"|"aNd"|"anD"|"ANd"|"aND"|"AnD") >
+ | <OR:        ("OR" | "||" | "or" |"Or"|"oR") >
+ | <NOT:       ("NOT" | "!"|"not"|"Not"|"nOt"|"noT"|"NOt"|"nOT"|"NoT") >
+ | <PLUS:      "+" >
+ | <MINUS:     "-" >
+ | <BAREOPER:    ("+"|"-"|"!") <_WHITESPACE> >
+ | <LPAREN:    "(" >
+ | <RPAREN:    ")" >
+ | <COLON:     ("<=" | ">=" | "=" | ">" | "<"  ) >
+ | <STAR:      "*" >
+ | <CARAT:     "^" > : Boost
+ | <QUOTED:     "\"" (<_QUOTED_CHAR>)* "\"">
+ | <TERM:      <_TERM_START_CHAR> (<_TERM_CHAR>)*  >
+ | <FUZZY_SLOP:     "~" ( (<_NUM_CHAR>)+ ( "." (<_NUM_CHAR>)+ )? )? >
+ | <PREFIXTERM:  ("*") | ( <_TERM_START_CHAR> (<_TERM_CHAR>)* "*" ) >
+ | <WILDTERM:  (<_TERM_START_CHAR> | [ "*", "?" ]) (<_TERM_CHAR> | ( [ "*", "?" ] ))* >
+ | <REGEXPTERM: "/" (~["*","/"] | "\\/" ) (~[ "/" ] | "\\/" )* "/" >
+ | <RANGEIN_START: "[" > : Range
+ | <RANGEEX_START: "{" > : Range
+// TODO: consider using token states instead of inlining SQUOTED
+//  | <SQUOTED:     "'" (<_SQUOTED_CHAR>)* "'">
+//  | <LPARAMS:     ("{!" ( (<_WHITESPACE>)* (~["=","}"])+ ( "=" (<QUOTED> | <SQUOTED> | (~[" ","}"])+ )? )? )* "}")+  (~[")"," ","\t","\n","{","^"])*  >
+  | <LPARAMS:     ("{!" ( (<_WHITESPACE>)* (~["=","}"])+ ( "=" (<QUOTED> | ("'" (<_SQUOTED_CHAR>)* "'") | (~[" ","}"])+ )? )? )* "}")+  (~[")"," ","\t","\n","{","^"])*  >
+  | <FILTER:      "filter(" >
+  |<COUNTFUNCTION:	("cnt(" | "CNT(" | "cnT(" ) (["a"-"z","A"-"Z","0"-"9","_","-","@"])+ ")">
+  |<XD_RANGE:	(">"|"<")>
+}
+
+<Boost> TOKEN : {
+ <NUMBER:    ("=")?("-")? (<_NUM_CHAR>)+ ( "." (<_NUM_CHAR>)+ )? > : DEFAULT
+}
+
+<Range> TOKEN : {
+ <RANGE_TO: "TO">
+ | <RANGEIN_END: "]"> : DEFAULT
+ | <RANGEEX_END: "}"> : DEFAULT
+ | <RANGE_QUOTED: "\"" (~["\""] | "\\\"")+ "\"">
+ | <RANGE_GOOP: (~[ " ", "]", "}" ])+ >
+}
+
+// *   Query  ::= ( Clause )*
+// *   Clause ::= ["+", "-"] [<TERM> "="] ( <TERM> | "(" Query ")" )
+
+int Conjunction() : {
+  int ret = CONJ_NONE;
+}
+{
+  [
+    <AND> { ret = CONJ_AND; }
+    | <OR>  { ret = CONJ_OR; }
+  ]
+  { return ret; }
+}
+
+int Modifiers() : {
+  int ret = MOD_NONE;
+}
+{
+  [
+     <PLUS> { ret = MOD_REQ; }
+     | <MINUS> { ret = MOD_NOT; }
+     | <NOT> { ret = MOD_NOT; }
+  ]
+  { return ret; }
+}
+
+// This makes sure that there is no garbage after the query string
+Query TopLevelQuery(String field) throws Exception :
+{
+  Query q;
+}
+{
+  q=Query(field) <EOF>
+  {
+    return q;
+  }
+}
+
+Query Query(String field) throws Exception :
+{
+  List<BooleanClause> clauses = new ArrayList<BooleanClause>();
+  Query q, firstQuery=null;
+  int conj, mods;
+}
+{
+  mods=Modifiers() q=Clause(field)
+  {
+    addClause(clauses, CONJ_NONE, mods, q);
+    if (mods == MOD_NONE)
+        firstQuery=q;
+  }
+  (
+    conj=Conjunction() mods=Modifiers() q=Clause(field)
+    { addClause(clauses, conj, mods, q); }
+  )*
+    {
+      if (clauses.size() == 1 && firstQuery != null)
+        return firstQuery;
+      else {
+  return getBooleanQuery(clauses);
+      }
+    }
+}
+
+Query Clause(String field) throws Exception : {
+  Query q;
+  Token fieldToken=null, boost=null;
+  Token localParams=null;
+  Token op = null;
+  boolean function = false;
+}
+{
+ 
+  [
+    LOOKAHEAD(2)
+    (
+    fieldToken=<TERM> op=<COLON> {field=discardEscapeChar(fieldToken.image);}
+    | <STAR> <COLON> {field="*";}
+    |fieldToken=<COUNTFUNCTION> op=<COLON> {function=true; field=fieldToken.image;}
+    )
+  ]
+
+
+  (
+   q=Term(field) {q=XDTermQueryChange(q, op==null?"=":op.image, function);}
+   | <LPAREN> q=Query(field) {q=XDTermQueryChange(q, op==null?"=":op.image, function);} <RPAREN> (<CARAT> boost=<NUMBER>)?
+   | (<FILTER> q=Query(field) {q=XDTermQueryChange(q, op==null?"=":op.image, function);} <RPAREN> (<CARAT> boost=<NUMBER>)? { q=getFilter(q); }  )
+   | (localParams = <LPARAMS> (<CARAT> boost=<NUMBER>)? { q=getLocalParams(field, localParams.image);q=XDTermQueryChange(q, op==null?"=":op.image, function); }  )
+  )
+    {  return handleBoost(q, boost); }
+}
+
+
+Query Term(String field) throws Exception : {
+  Token term, boost=null, fuzzySlop=null, goop1, goop2;
+  boolean prefix = false;
+  boolean wildcard = false;
+  boolean fuzzy = false;
+  boolean regexp = false;
+  boolean startInc=false;
+  boolean endInc=false;
+  Query q;
+}
+{
+  (
+    (
+      term=<TERM>
+      | term=<STAR> { wildcard=false; }
+      | term=<PREFIXTERM> { prefix=false; }
+      | term=<WILDTERM> { wildcard=false; }
+      | term=<REGEXPTERM> { regexp=false; }
+      | term=<NUMBER>
+      | term=<BAREOPER> { term.image = term.image.substring(0,1); }
+    )
+    [ fuzzySlop=<FUZZY_SLOP> { fuzzy=true; } ]
+    [ <CARAT> boost=<NUMBER> [ fuzzySlop=<FUZZY_SLOP> { fuzzy=true; } ] ]
+    {
+      q = handleBareTokenQuery(getField(field), term, fuzzySlop, prefix, wildcard, fuzzy, regexp);
+    }
+    | ( ( <RANGEIN_START> {startInc=true;} | <RANGEEX_START> )
+        ( goop1=<RANGE_GOOP>|goop1=<RANGE_QUOTED> )
+        [ <RANGE_TO> ]
+        ( goop2=<RANGE_GOOP>|goop2=<RANGE_QUOTED> )
+        ( <RANGEIN_END> {endInc=true;} | <RANGEEX_END>))
+      [ <CARAT> boost=<NUMBER> ]
+       {
+         boolean startOpen=false;
+         boolean endOpen=false;
+         if (goop1.kind == RANGE_QUOTED) {
+           goop1.image = goop1.image.substring(1, goop1.image.length()-1);
+         } else if ("*".equals(goop1.image)) {
+           startOpen=true;
+         }
+         if (goop2.kind == RANGE_QUOTED) {
+           goop2.image = goop2.image.substring(1, goop2.image.length()-1);
+         } else if ("*".equals(goop2.image)) {
+           endOpen=true;
+         }
+         q = getRangeQuery(getField(field), startOpen ? null : discardEscapeChar(goop1.image), endOpen ? null : discardEscapeChar(goop2.image), startInc, endInc);
+       }
+    | term=<QUOTED>
+      [ fuzzySlop=<FUZZY_SLOP> ]
+      [ <CARAT> boost=<NUMBER> ]
+      {
+        q = handleQuotedTerm(getField(field), term, fuzzySlop);
+      }
+  )
+  {
+    return handleBoost(q, boost);
+  }
+}

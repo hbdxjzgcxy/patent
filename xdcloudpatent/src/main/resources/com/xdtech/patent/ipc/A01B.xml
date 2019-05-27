@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="A01B1/00 手动工具(草坪修整机入A01G 3/06)" Target="frmContent" Href="../searchservlet?query=A01B1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B1/00">
+    <TreeNode Title="A01B1/02 #锹；铲" Target="frmContent" Href="../searchservlet?query=A01B1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B1/02">
+      <TreeNode Title="A01B1/04 ##带齿的" Target="frmContent" Href="../searchservlet?query=A01B1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B1/04"/>
+    </TreeNode>
+    <TreeNode Title="A01B1/06 #锄；手动中耕机" Target="frmContent" Href="../searchservlet?query=A01B1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B1/06">
+      <TreeNode Title="A01B1/08 ##带单铲刀的" Target="frmContent" Href="../searchservlet?query=A01B1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B1/08"/>
+      <TreeNode Title="A01B1/10 ##带双铲刀或多铲刀的" Target="frmContent" Href="../searchservlet?query=A01B1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B1/10"/>
+      <TreeNode Title="A01B1/12 ##带齿铲刀的" Target="frmContent" Href="../searchservlet?query=A01B1/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B1/12"/>
+      <TreeNode Title="A01B1/14 ##只带齿的" Target="frmContent" Href="../searchservlet?query=A01B1/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B1/14"/>
+    </TreeNode>
+    <TreeNode Title="A01B1/16 #拔草工具" Target="frmContent" Href="../searchservlet?query=A01B1/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B1/16">
+      <TreeNode Title="A01B1/18 ##钳式工具" Target="frmContent" Href="../searchservlet?query=A01B1/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B1/18"/>
+    </TreeNode>
+    <TreeNode Title="A01B1/20 #不同类型手动工具的组合" Target="frmContent" Href="../searchservlet?query=A01B1/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B1/20"/>
+    <TreeNode Title="A01B1/22 #把铲刀或类似工作部件固接在手柄上(工具的手柄或其附件一般入B25G)；可更换或可调整的铲刀" Target="frmContent" Href="../searchservlet?query=A01B1/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B1/22"/>
+    <TreeNode Title="A01B1/24 #处理草地或草坪用的 [2]" Target="frmContent" Href="../searchservlet?query=A01B1/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B1/24"/>
+  </TreeNode>
+  <TreeNode Title="A01B3/00 装有固定式犁铧的犁" Target="frmContent" Href="../searchservlet?query=A01B3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B3/00">
+    <TreeNode Title="A01B3/02 #人力犁" Target="frmContent" Href="../searchservlet?query=A01B3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B3/02"/>
+    <TreeNode Title="A01B3/04 #畜力牵引犁" Target="frmContent" Href="../searchservlet?query=A01B3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B3/04">
+      <TreeNode Title="A01B3/06 ##不能双向使用的，即在回程时不能翻耕邻行的" Target="frmContent" Href="../searchservlet?query=A01B3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B3/06">
+        <TreeNode Title="A01B3/08 ###摆杆步犁" Target="frmContent" Href="../searchservlet?query=A01B3/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B3/08"/>
+        <TreeNode Title="A01B3/10 ###桁架式辕犁；单轮犁" Target="frmContent" Href="../searchservlet?query=A01B3/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B3/10"/>
+        <TreeNode Title="A01B3/12 ###双轮辕犁" Target="frmContent" Href="../searchservlet?query=A01B3/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B3/12"/>
+        <TreeNode Title="A01B3/14 ###架式多铧犁" Target="frmContent" Href="../searchservlet?query=A01B3/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B3/14"/>
+      </TreeNode>
+      <TreeNode Title="A01B3/16 ##双向犁，即在回程时能翻耕邻行的" Target="frmContent" Href="../searchservlet?query=A01B3/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B3/16">
+        <TreeNode Title="A01B3/18 ###翻转犁壁双向犁" Target="frmContent" Href="../searchservlet?query=A01B3/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B3/18"/>
+        <TreeNode Title="A01B3/20 ###平衡犁" Target="frmContent" Href="../searchservlet?query=A01B3/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B3/20"/>
+        <TreeNode Title="A01B3/22 ###装有双向使用的平行犁机构的" Target="frmContent" Href="../searchservlet?query=A01B3/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B3/22"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="A01B3/24 #拖拉机牵引犁(A01B 3/04优先)" Target="frmContent" Href="../searchservlet?query=A01B3/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B3/24">
+      <TreeNode Title="A01B3/26 ##不能双向使用的" Target="frmContent" Href="../searchservlet?query=A01B3/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B3/26"/>
+      <TreeNode Title="A01B3/28 ##双向犁" Target="frmContent" Href="../searchservlet?query=A01B3/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B3/28">
+        <TreeNode Title="A01B3/30 ###翻转犁壁双向犁" Target="frmContent" Href="../searchservlet?query=A01B3/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B3/30"/>
+        <TreeNode Title="A01B3/32 ###平衡犁" Target="frmContent" Href="../searchservlet?query=A01B3/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B3/32"/>
+        <TreeNode Title="A01B3/34 ###装有双向使用平行犁机构的" Target="frmContent" Href="../searchservlet?query=A01B3/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B3/34"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="A01B3/36 #拖拉机悬挂犁" Target="frmContent" Href="../searchservlet?query=A01B3/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B3/36">
+      <TreeNode Title="A01B3/38 ##不能双向使用的" Target="frmContent" Href="../searchservlet?query=A01B3/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B3/38"/>
+      <TreeNode Title="A01B3/40 ##双向犁" Target="frmContent" Href="../searchservlet?query=A01B3/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B3/40">
+        <TreeNode Title="A01B3/42 ###翻转犁壁双向犁" Target="frmContent" Href="../searchservlet?query=A01B3/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B3/42">
+          <TreeNode Title="A01B3/421 ####带有单体式悬挂架的 [2]" Target="frmContent" Href="../searchservlet?query=A01B3/421&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B3/421"/>
+          <TreeNode Title="A01B3/426 ####带有由两个或两个以上构件组成的悬挂架的 [2]" Target="frmContent" Href="../searchservlet?query=A01B3/426&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B3/426"/>
+        </TreeNode>
+        <TreeNode Title="A01B3/44 ###装有双向使用的平行犁机构的" Target="frmContent" Href="../searchservlet?query=A01B3/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B3/44"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="A01B3/46 #半悬挂犁， 即一部分由拖拉机支持，另一部分由自身轮支撑" Target="frmContent" Href="../searchservlet?query=A01B3/46&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B3/46"/>
+    <TreeNode Title="A01B3/50 #自走式犁" Target="frmContent" Href="../searchservlet?query=A01B3/50&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B3/50">
+      <TreeNode Title="A01B3/52 ##具有三轮或多轮的，或具有履带的" Target="frmContent" Href="../searchservlet?query=A01B3/52&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B3/52">
+        <TreeNode Title="A01B3/54 ###不能双向使用的" Target="frmContent" Href="../searchservlet?query=A01B3/54&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B3/54"/>
+        <TreeNode Title="A01B3/56 ###双向犁" Target="frmContent" Href="../searchservlet?query=A01B3/56&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B3/56"/>
+      </TreeNode>
+      <TreeNode Title="A01B3/58 ##双轮的" Target="frmContent" Href="../searchservlet?query=A01B3/58&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B3/58">
+        <TreeNode Title="A01B3/60 ###双向犁" Target="frmContent" Href="../searchservlet?query=A01B3/60&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B3/60">
+          <TreeNode Title="A01B3/62 ####平衡犁" Target="frmContent" Href="../searchservlet?query=A01B3/62&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B3/62"/>
+        </TreeNode>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="A01B3/64 #绳索犁；绳索犁系统的指示或信号装置" Target="frmContent" Href="../searchservlet?query=A01B3/64&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B3/64">
+      <TreeNode Title="A01B3/66 ##有装于犁上的机动绕线装置的" Target="frmContent" Href="../searchservlet?query=A01B3/66&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B3/66"/>
+      <TreeNode Title="A01B3/68 ##装有1台或两台发动机的绳索系统" Target="frmContent" Href="../searchservlet?query=A01B3/68&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B3/68">
+        <TreeNode Title="A01B3/70 ###装有1台用于爬坡作业的发动机的绳索系统" Target="frmContent" Href="../searchservlet?query=A01B3/70&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B3/70"/>
+      </TreeNode>
+      <TreeNode Title="A01B3/72 ##铰系绳索的用具" Target="frmContent" Href="../searchservlet?query=A01B3/72&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B3/72"/>
+    </TreeNode>
+    <TreeNode Title="A01B3/74 #电力驱动犁(集电器入B60L 5/00)" Target="frmContent" Href="../searchservlet?query=A01B3/74&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B3/74"/>
+  </TreeNode>
+  <TreeNode Title="A01B5/00 带有非驱动式滚动工作部件的犁，例如圆盘犁(带有驱动式旋转工作部件的入A01B 9/00)" Target="frmContent" Href="../searchservlet?query=A01B5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B5/00">
+    <TreeNode Title="A01B5/02 #畜力牵引的" Target="frmContent" Href="../searchservlet?query=A01B5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B5/02"/>
+    <TreeNode Title="A01B5/04 #拖拉机牵引的" Target="frmContent" Href="../searchservlet?query=A01B5/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B5/04">
+      <TreeNode Title="A01B5/06 ##不能双向使用的" Target="frmContent" Href="../searchservlet?query=A01B5/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B5/06"/>
+      <TreeNode Title="A01B5/08 ##双向犁" Target="frmContent" Href="../searchservlet?query=A01B5/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B5/08"/>
+    </TreeNode>
+    <TreeNode Title="A01B5/10 #悬挂或半悬挂在拖拉机上的" Target="frmContent" Href="../searchservlet?query=A01B5/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B5/10">
+      <TreeNode Title="A01B5/12 ##不能双向使用的" Target="frmContent" Href="../searchservlet?query=A01B5/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B5/12"/>
+      <TreeNode Title="A01B5/14 ##双向犁" Target="frmContent" Href="../searchservlet?query=A01B5/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B5/14"/>
+    </TreeNode>
+    <TreeNode Title="A01B5/16 #自走式圆盘犁或类似的犁" Target="frmContent" Href="../searchservlet?query=A01B5/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B5/16"/>
+  </TreeNode>
+  <TreeNode Title="A01B7/00 作为犁或耙或类似机件使用的圆盘式整地机具" Target="frmContent" Href="../searchservlet?query=A01B7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B7/00"/>
+  <TreeNode Title="A01B9/00 带有驱动式旋转工作部件的犁(带有驱动式旋转工作部件的耕作机具入A01B 33/00)" Target="frmContent" Href="../searchservlet?query=A01B9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B9/00"/>
+  <TreeNode Title="A01B11/00 带有振动、挖掘或穿孔工作部件的犁" Target="frmContent" Href="../searchservlet?query=A01B11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B11/00"/>
+  <TreeNode Title="A01B13/00 专门用途的犁或类似的机具(排水用的入E02B 11/02)" Target="frmContent" Href="../searchservlet?query=A01B13/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B13/00">
+    <TreeNode Title="A01B13/02 #用于起垅或修垅的，例如带有对称配置的犁壁的" Target="frmContent" Href="../searchservlet?query=A01B13/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B13/02"/>
+    <TreeNode Title="A01B13/04 #用于葡萄园、果园等地作业的" Target="frmContent" Href="../searchservlet?query=A01B13/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B13/04">
+      <TreeNode Title="A01B13/06 ##防止损伤葡萄藤等作物的装置" Target="frmContent" Href="../searchservlet?query=A01B13/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B13/06"/>
+    </TreeNode>
+    <TreeNode Title="A01B13/08 #用于耕整底土的" Target="frmContent" Href="../searchservlet?query=A01B13/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B13/08">
+      <TreeNode Title="A01B13/10 ##掀起底土层的专用机具" Target="frmContent" Href="../searchservlet?query=A01B13/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B13/10">
+        <TreeNode Title="A01B13/12 ###将底土布于地表的装置" Target="frmContent" Href="../searchservlet?query=A01B13/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B13/12"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="A01B13/14 #用于耕整两层或多层土壤的" Target="frmContent" Href="../searchservlet?query=A01B13/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B13/14"/>
+    <TreeNode Title="A01B13/16 #控制土壤侵蚀的机械，例如水槽挖掘机、开沟打埂器" Target="frmContent" Href="../searchservlet?query=A01B13/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B13/16"/>
+  </TreeNode>
+  <TreeNode Title="A01B15/00 犁的构件、工作部件或零件" Target="frmContent" Href="../searchservlet?query=A01B15/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B15/00">
+    <TreeNode Title="A01B15/02 #犁刀；固定犁刀的" Target="frmContent" Href="../searchservlet?query=A01B15/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B15/02">
+      <TreeNode Title="A01B15/04 ##犁铧" Target="frmContent" Href="../searchservlet?query=A01B15/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B15/04">
+        <TreeNode Title="A01B15/06 ###可更换或可调整的犁铧" Target="frmContent" Href="../searchservlet?query=A01B15/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B15/06"/>
+      </TreeNode>
+      <TreeNode Title="A01B15/08 ##犁壁" Target="frmContent" Href="../searchservlet?query=A01B15/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B15/08">
+        <TreeNode Title="A01B15/10 ###可更换或可调整的犁壁" Target="frmContent" Href="../searchservlet?query=A01B15/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B15/10"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="A01B15/12 #犁辕；手柄(工具或其附件的手柄一般入B25G)" Target="frmContent" Href="../searchservlet?query=A01B15/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B15/12"/>
+    <TreeNode Title="A01B15/14 #犁架(简便运输工具或装置入A01B 73/00) [4]" Target="frmContent" Href="../searchservlet?query=A01B15/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B15/14"/>
+    <TreeNode Title="A01B15/16 #圆犁刀(其轴承入A01B 71/04)；清理圆犁刀的刮土刀；刃磨附属设备(刃磨一般入B24)" Target="frmContent" Href="../searchservlet?query=A01B15/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B15/16"/>
+    <TreeNode Title="A01B15/18 #犁刀" Target="frmContent" Href="../searchservlet?query=A01B15/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B15/18"/>
+    <TreeNode Title="A01B15/20 #拖拉机牵引式或悬挂式山地犁的工作部件专用调整装置" Target="frmContent" Href="../searchservlet?query=A01B15/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B15/20"/>
+  </TreeNode>
+  <TreeNode Title="A01B17/00 带专用附属装置的犁，例如带土下施肥工具、碎土器的(A01B 49/00优先；耕整底土的犁入A01B 13/08) [2]" Target="frmContent" Href="../searchservlet?query=A01B17/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B17/00"/>
+  <TreeNode Title="A01B19/00 带非旋转式工作部件的耙" Target="frmContent" Href="../searchservlet?query=A01B19/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B19/00">
+    <TreeNode Title="A01B19/02 #工作部件与机架刚性或弹性联结的" Target="frmContent" Href="../searchservlet?query=A01B19/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B19/02">
+      <TreeNode Title="A01B19/04 ##带两个或多个机架的" Target="frmContent" Href="../searchservlet?query=A01B19/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B19/04"/>
+      <TreeNode Title="A01B19/06 ##工作部件或机架可以机械地往复运动的" Target="frmContent" Href="../searchservlet?query=A01B19/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B19/06"/>
+    </TreeNode>
+    <TreeNode Title="A01B19/08 #带安装有钉齿状工作部件的链网的" Target="frmContent" Href="../searchservlet?query=A01B19/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B19/08"/>
+    <TreeNode Title="A01B19/10 #提升或清理装置" Target="frmContent" Href="../searchservlet?query=A01B19/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B19/10"/>
+  </TreeNode>
+  <TreeNode Title="A01B21/00 带非驱动式旋转工作部件的耙(带驱动式旋转工作部件的耕作机具入A01B 33/00)" Target="frmContent" Href="../searchservlet?query=A01B21/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B21/00">
+    <TreeNode Title="A01B21/02 #带钉齿状工作部件的" Target="frmContent" Href="../searchservlet?query=A01B21/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B21/02">
+      <TreeNode Title="A01B21/04 ##安装在卧置轴上的" Target="frmContent" Href="../searchservlet?query=A01B21/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B21/04"/>
+      <TreeNode Title="A01B21/06 ##安装在立置轴上的" Target="frmContent" Href="../searchservlet?query=A01B21/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B21/06"/>
+    </TreeNode>
+    <TreeNode Title="A01B21/08 #带圆盘状工作部件的" Target="frmContent" Href="../searchservlet?query=A01B21/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B21/08"/>
+  </TreeNode>
+  <TreeNode Title="A01B23/00 耙的构件、工作部件或零件" Target="frmContent" Href="../searchservlet?query=A01B23/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B23/00">
+    <TreeNode Title="A01B23/02 #耙齿；固定耙齿" Target="frmContent" Href="../searchservlet?query=A01B23/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B23/02"/>
+    <TreeNode Title="A01B23/04 #机架(简便运输装置或工具入A01B 73/00)；牵引装置 [4]" Target="frmContent" Href="../searchservlet?query=A01B23/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B23/04"/>
+    <TreeNode Title="A01B23/06 #圆盘耙片(A01B 15/16优先；所用的轴承入A01B 71/04)；清理圆盘耙片的刮土刀；刃磨附属装置(刃磨一般入B24) [2]" Target="frmContent" Href="../searchservlet?query=A01B23/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B23/06"/>
+  </TreeNode>
+  <TreeNode Title="A01B25/00 带有专门附属装置的耙，例如撒播肥料的装置；专门用途的耙(A01B 39/00优先)" Target="frmContent" Href="../searchservlet?query=A01B25/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B25/00"/>
+  <TreeNode Title="A01B27/00 土块压碎机" Target="frmContent" Href="../searchservlet?query=A01B27/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B27/00"/>
+  <TreeNode Title="A01B29/00 镇压器" Target="frmContent" Href="../searchservlet?query=A01B29/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B29/00">
+    <TreeNode Title="A01B29/02 #平滑表面的" Target="frmContent" Href="../searchservlet?query=A01B29/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B29/02"/>
+    <TreeNode Title="A01B29/04 #由镇压器体上安装的可转动圆环或圆盘，或带有的凸起或肋状结构而形成非平滑表面的；表土镇压器" Target="frmContent" Href="../searchservlet?query=A01B29/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B29/04"/>
+    <TreeNode Title="A01B29/06 #带专用附属装置的" Target="frmContent" Href="../searchservlet?query=A01B29/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B29/06"/>
+  </TreeNode>
+  <TreeNode Title="A01B31/00 耢" Target="frmContent" Href="../searchservlet?query=A01B31/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B31/00"/>
+  <TreeNode Title="A01B33/00 带驱动式旋转工作部件的耕作机具" Target="frmContent" Href="../searchservlet?query=A01B33/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B33/00">
+    <TreeNode Title="A01B33/02 #工作部件安装在与行进方向呈横向的水平轴上的" Target="frmContent" Href="../searchservlet?query=A01B33/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B33/02"/>
+    <TreeNode Title="A01B33/04 #工作部件安装在与行进方向平行的水平轴上的" Target="frmContent" Href="../searchservlet?query=A01B33/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B33/04"/>
+    <TreeNode Title="A01B33/06 #工作部件安装在垂直或陡斜的轴上的" Target="frmContent" Href="../searchservlet?query=A01B33/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B33/06"/>
+    <TreeNode Title="A01B33/08 #工作部件；零件，例如传动装置或齿轮装置" Target="frmContent" Href="../searchservlet?query=A01B33/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B33/08">
+      <TreeNode Title="A01B33/10 ##工作部件的结构或功能特点" Target="frmContent" Href="../searchservlet?query=A01B33/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B33/10"/>
+      <TreeNode Title="A01B33/12 ##工作部件的配置；工作部件的防护板" Target="frmContent" Href="../searchservlet?query=A01B33/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B33/12"/>
+      <TreeNode Title="A01B33/14 ##工作部件与旋转轴的联结，例如弹性联结的工作部件" Target="frmContent" Href="../searchservlet?query=A01B33/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B33/14"/>
+    </TreeNode>
+    <TreeNode Title="A01B33/16 #带专用附属装置的(A01B 49/00优先；用于播种或施肥的入A01B 49/06) [2]" Target="frmContent" Href="../searchservlet?query=A01B33/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B33/16"/>
+  </TreeNode>
+  <TreeNode Title="A01B35/00 其他整地机械(A01B 37/00，A01B 39/00，A01B 77/00优先)" Target="frmContent" Href="../searchservlet?query=A01B35/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B35/00">
+    <TreeNode Title="A01B35/02 #带非旋转工作部件的" Target="frmContent" Href="../searchservlet?query=A01B35/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B35/02">
+      <TreeNode Title="A01B35/04 ##由畜力或拖拉机牵引的" Target="frmContent" Href="../searchservlet?query=A01B35/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B35/04">
+        <TreeNode Title="A01B35/06 ###带弹性工作部件的" Target="frmContent" Href="../searchservlet?query=A01B35/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B35/06"/>
+        <TreeNode Title="A01B35/08 ###带刚性工作部件的" Target="frmContent" Href="../searchservlet?query=A01B35/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B35/08"/>
+      </TreeNode>
+      <TreeNode Title="A01B35/10 ##悬挂在拖拉机上的" Target="frmContent" Href="../searchservlet?query=A01B35/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B35/10">
+        <TreeNode Title="A01B35/12 ###带弹性工作部件的" Target="frmContent" Href="../searchservlet?query=A01B35/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B35/12"/>
+        <TreeNode Title="A01B35/14 ###带刚性工作部件的" Target="frmContent" Href="../searchservlet?query=A01B35/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B35/14"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="A01B35/16 #带非驱动式旋转或循环工作部件的" Target="frmContent" Href="../searchservlet?query=A01B35/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B35/16"/>
+    <TreeNode Title="A01B35/18 #同时带旋转或非旋转工作部件的" Target="frmContent" Href="../searchservlet?query=A01B35/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B35/18"/>
+    <TreeNode Title="A01B35/20 #工作部件；零件" Target="frmContent" Href="../searchservlet?query=A01B35/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B35/20">
+      <TreeNode Title="A01B35/22 ##非旋转工作部件；悬挂的非旋转工作部件" Target="frmContent" Href="../searchservlet?query=A01B35/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B35/22">
+        <TreeNode Title="A01B35/24 ###弹性工作部件" Target="frmContent" Href="../searchservlet?query=A01B35/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B35/24"/>
+        <TreeNode Title="A01B35/26 ###刚性工作部件" Target="frmContent" Href="../searchservlet?query=A01B35/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B35/26"/>
+      </TreeNode>
+      <TreeNode Title="A01B35/28 ##旋转工作部件；悬挂的旋转工作部件" Target="frmContent" Href="../searchservlet?query=A01B35/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B35/28"/>
+      <TreeNode Title="A01B35/30 ##底盘(A01B 23/04优先) [2]" Target="frmContent" Href="../searchservlet?query=A01B35/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B35/30"/>
+    </TreeNode>
+    <TreeNode Title="A01B35/32 #带专用附属装置的" Target="frmContent" Href="../searchservlet?query=A01B35/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B35/32"/>
+  </TreeNode>
+  <TreeNode Title="A01B37/00 疏松被车轮等压实的土壤的装置" Target="frmContent" Href="../searchservlet?query=A01B37/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B37/00"/>
+  <TreeNode Title="A01B39/00 专门适用于长有作物的土地整地的其他专用机械" Target="frmContent" Href="../searchservlet?query=A01B39/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B39/00">
+    <TreeNode Title="A01B39/02 #带非旋转工作部件的" Target="frmContent" Href="../searchservlet?query=A01B39/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B39/02">
+      <TreeNode Title="A01B39/04 ##由畜力或拖拉机牵引的" Target="frmContent" Href="../searchservlet?query=A01B39/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B39/04"/>
+      <TreeNode Title="A01B39/06 ##自走式机械" Target="frmContent" Href="../searchservlet?query=A01B39/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B39/06"/>
+    </TreeNode>
+    <TreeNode Title="A01B39/08 #带旋转工作部件的" Target="frmContent" Href="../searchservlet?query=A01B39/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B39/08"/>
+    <TreeNode Title="A01B39/10 #带摆动工作部件的" Target="frmContent" Href="../searchservlet?query=A01B39/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B39/10"/>
+    <TreeNode Title="A01B39/12 #专用的" Target="frmContent" Href="../searchservlet?query=A01B39/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B39/12">
+      <TreeNode Title="A01B39/14 ##作垄的" Target="frmContent" Href="../searchservlet?query=A01B39/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B39/14"/>
+      <TreeNode Title="A01B39/16 ##在葡萄园、果园等地作业的" Target="frmContent" Href="../searchservlet?query=A01B39/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B39/16"/>
+      <TreeNode Title="A01B39/18 ##除草用的" Target="frmContent" Href="../searchservlet?query=A01B39/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B39/18">
+        <TreeNode Title="A01B39/19 ###杆式除草机，即具有在表土下推进的旋转杆的除草机" Target="frmContent" Href="../searchservlet?query=A01B39/19&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B39/19"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="A01B39/20 #工作部件；零件" Target="frmContent" Href="../searchservlet?query=A01B39/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B39/20">
+      <TreeNode Title="A01B39/22 ##工作部件；悬挂的工作部件" Target="frmContent" Href="../searchservlet?query=A01B39/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B39/22"/>
+      <TreeNode Title="A01B39/24 ##底盘(A01B 23/04优先) [2]" Target="frmContent" Href="../searchservlet?query=A01B39/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B39/24"/>
+      <TreeNode Title="A01B39/26 ##保护植物的装置" Target="frmContent" Href="../searchservlet?query=A01B39/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B39/26"/>
+    </TreeNode>
+    <TreeNode Title="A01B39/28 #带专用附属装置的 (A01B 49/00 优先) [2]" Target="frmContent" Href="../searchservlet?query=A01B39/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B39/28"/>
+  </TreeNode>
+  <TreeNode Title="A01B41/00 间苗机械" Target="frmContent" Href="../searchservlet?query=A01B41/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B41/00">
+    <TreeNode Title="A01B41/02 #带摆动工作部件的" Target="frmContent" Href="../searchservlet?query=A01B41/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B41/02"/>
+    <TreeNode Title="A01B41/04 #带旋转工作部件的" Target="frmContent" Href="../searchservlet?query=A01B41/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B41/04"/>
+    <TreeNode Title="A01B41/06 #用电，例如用光电控制间苗作业的" Target="frmContent" Href="../searchservlet?query=A01B41/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B41/06"/>
+  </TreeNode>
+  <TreeNode Title="A01B43/00 除去土壤中石头、不需要的残根或类似杂物的收集机，例如用拖拉机牵引的堆积机 [4]" Target="frmContent" Href="../searchservlet?query=A01B43/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B43/00"/>
+  <TreeNode Title="A01B45/00 草地或草坪处理机械" Target="frmContent" Href="../searchservlet?query=A01B45/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B45/00">
+    <TreeNode Title="A01B45/02 #用于通风的" Target="frmContent" Href="../searchservlet?query=A01B45/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B45/02"/>
+    <TreeNode Title="A01B45/04 #用于切割草皮或草地的" Target="frmContent" Href="../searchservlet?query=A01B45/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B45/04"/>
+  </TreeNode>
+  <TreeNode Title="A01B47/00 利用工作部件和土壤之间电压差的整地" Target="frmContent" Href="../searchservlet?query=A01B47/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B47/00"/>
+  <TreeNode Title="A01B49/00 联合作业机械(联接在不同类型机具上的附属部件，比如联接在犁上的耙，见机具的各有关组)" Target="frmContent" Href="../searchservlet?query=A01B49/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B49/00">
+    <TreeNode Title="A01B49/02 #带两件或多件不同类型的整地工作部件的" Target="frmContent" Href="../searchservlet?query=A01B49/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B49/02"/>
+    <TreeNode Title="A01B49/04 #整地部件与非整地部件，例如播种部件的组合" Target="frmContent" Href="../searchservlet?query=A01B49/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B49/04">
+      <TreeNode Title="A01B49/06 ##播种或施肥用的" Target="frmContent" Href="../searchservlet?query=A01B49/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B49/06"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="A01B51/00 专门用于安装各种农业机具或装置的底盘(一般车辆入B60或B62的有关小类)" Target="frmContent" Href="../searchservlet?query=A01B51/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B51/00">
+    <TreeNode Title="A01B51/02 #发动机驱动的" Target="frmContent" Href="../searchservlet?query=A01B51/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B51/02"/>
+    <TreeNode Title="A01B51/04 #由畜力或拖拉机牵引的" Target="frmContent" Href="../searchservlet?query=A01B51/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B51/04"/>
+  </TreeNode>
+  <TreeNode Title="A01B59/00 专门适用于牲畜或拖拉机与农业机具之间联接的装置(A01B 63/00优先；车辆的联接件一般入B60D；畜力牵引车辆的牵引装置一般入 B62C 5/00) [3]" Target="frmContent" Href="../searchservlet?query=A01B59/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B59/00">
+    <TreeNode Title="A01B59/02 #用于畜力牵引机械的" Target="frmContent" Href="../searchservlet?query=A01B59/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B59/02"/>
+    <TreeNode Title="A01B59/04 #用于拖拉机牵引或推进的机械的" Target="frmContent" Href="../searchservlet?query=A01B59/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B59/04">
+      <TreeNode Title="A01B59/041 ##防止或限制机具侧面间隙的(防止过载的入A01B 61/00) [2]" Target="frmContent" Href="../searchservlet?query=A01B59/041&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B59/041"/>
+      <TreeNode Title="A01B59/042 ##牵引装置安装在拖拉机尾部的" Target="frmContent" Href="../searchservlet?query=A01B59/042&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B59/042">
+        <TreeNode Title="A01B59/043 ###三点支撑的，例如快速松脱式挂结器(A01B 59/06优先)" Target="frmContent" Href="../searchservlet?query=A01B59/043&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B59/043"/>
+      </TreeNode>
+      <TreeNode Title="A01B59/044 ##牵引装置安装在拖拉机中部的" Target="frmContent" Href="../searchservlet?query=A01B59/044&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B59/044"/>
+      <TreeNode Title="A01B59/046 ##牵引或推进装置安装在拖拉机侧面的" Target="frmContent" Href="../searchservlet?query=A01B59/046&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B59/046"/>
+      <TreeNode Title="A01B59/048 ##牵引或推进装置安装在拖拉机前部的" Target="frmContent" Href="../searchservlet?query=A01B59/048&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B59/048"/>
+    </TreeNode>
+    <TreeNode Title="A01B59/06 #用于拖拉机悬挂机械的" Target="frmContent" Href="../searchservlet?query=A01B59/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B59/06"/>
+  </TreeNode>
+  <TreeNode Title="A01B61/00 用于防止农机具过载的装置或农机具的防止过载的部件(车辆联接件上防止过载力的装置一般入B60D；联轴器本身防止过载的装置入F16D) [3]" Target="frmContent" Href="../searchservlet?query=A01B61/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B61/00">
+    <TreeNode Title="A01B61/02 #拖拉机与机械之间的联接装置的" Target="frmContent" Href="../searchservlet?query=A01B61/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B61/02"/>
+    <TreeNode Title="A01B61/04 #工作部件与底盘梁架之间的联接装置的" Target="frmContent" Href="../searchservlet?query=A01B61/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B61/04"/>
+  </TreeNode>
+  <TreeNode Title="A01B63/00 农机或农具的提升或调整装置或机构(割草机切割器的提升机构入A01D 34/24；割草机切割器的调整装置入A01D 34/28；提升装置本身结构特点入B66F) [3]" Target="frmContent" Href="../searchservlet?query=A01B63/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B63/00">
+    <TreeNode Title="A01B63/02 #用于拖拉机悬挂农具的" Target="frmContent" Href="../searchservlet?query=A01B63/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B63/02">
+      <TreeNode Title="A01B63/04 ##手动装置；带机械蓄能器，例如弹簧的手动装置" Target="frmContent" Href="../searchservlet?query=A01B63/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B63/04"/>
+      <TreeNode Title="A01B63/06 ##由拖拉机动力机械操作的" Target="frmContent" Href="../searchservlet?query=A01B63/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B63/06"/>
+      <TreeNode Title="A01B63/08 ##由拖拉机的运动操作的" Target="frmContent" Href="../searchservlet?query=A01B63/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B63/08"/>
+      <TreeNode Title="A01B63/10 ##由液压或气动装置操作的" Target="frmContent" Href="../searchservlet?query=A01B63/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B63/10">
+        <TreeNode Title="A01B63/102 ###以拖拉机悬挂部位为特征的，如在尾部" Target="frmContent" Href="../searchservlet?query=A01B63/102&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B63/102">
+          <TreeNode Title="A01B63/104 ####在中部，即在前后轮之间" Target="frmContent" Href="../searchservlet?query=A01B63/104&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B63/104"/>
+          <TreeNode Title="A01B63/106 ####在侧面" Target="frmContent" Href="../searchservlet?query=A01B63/106&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B63/106"/>
+          <TreeNode Title="A01B63/108 ####在前部" Target="frmContent" Href="../searchservlet?query=A01B63/108&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B63/108"/>
+        </TreeNode>
+        <TreeNode Title="A01B63/11 ###用于控制机具与拖拉机车轮之间重量转移的 [2]" Target="frmContent" Href="../searchservlet?query=A01B63/11&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B63/11"/>
+        <TreeNode Title="A01B63/111 ###用于调节机具作业深度的" Target="frmContent" Href="../searchservlet?query=A01B63/111&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B63/111">
+          <TreeNode Title="A01B63/112 ####用于控制牵引载荷，即拉力 [2]" Target="frmContent" Href="../searchservlet?query=A01B63/112&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B63/112"/>
+          <TreeNode Title="A01B63/114 ####保持稳定作业深度的 [2]" Target="frmContent" Href="../searchservlet?query=A01B63/114&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B63/114"/>
+        </TreeNode>
+        <TreeNode Title="A01B63/118 ###机具安装于动力提升拉杆上的(A01B 59/043优先；防止或限制机具侧面间隙的入A01B 59/041；防止过载的入A01B 61/00) [2]" Target="frmContent" Href="../searchservlet?query=A01B63/118&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B63/118"/>
+      </TreeNode>
+      <TreeNode Title="A01B63/12 ##用电动机操作的" Target="frmContent" Href="../searchservlet?query=A01B63/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B63/12"/>
+    </TreeNode>
+    <TreeNode Title="A01B63/14 #用于牲畜或拖拉机牵引机具的" Target="frmContent" Href="../searchservlet?query=A01B63/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B63/14">
+      <TreeNode Title="A01B63/16 ##轮子可相对于机架调整的" Target="frmContent" Href="../searchservlet?query=A01B63/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B63/16">
+        <TreeNode Title="A01B63/18 ###离合器在Z型轴和车轮之间的" Target="frmContent" Href="../searchservlet?query=A01B63/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B63/18"/>
+        <TreeNode Title="A01B63/20 ###有齿轮和齿条装置的" Target="frmContent" Href="../searchservlet?query=A01B63/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B63/20"/>
+        <TreeNode Title="A01B63/22 ###用液压和气动装置操作的" Target="frmContent" Href="../searchservlet?query=A01B63/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B63/22"/>
+      </TreeNode>
+      <TreeNode Title="A01B63/24 ##工作部件或工作部件夹持装置可与机架作相对调整的" Target="frmContent" Href="../searchservlet?query=A01B63/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B63/24">
+        <TreeNode Title="A01B63/26 ###人力的" Target="frmContent" Href="../searchservlet?query=A01B63/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B63/26"/>
+        <TreeNode Title="A01B63/28 ###由机具操作的" Target="frmContent" Href="../searchservlet?query=A01B63/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B63/28"/>
+        <TreeNode Title="A01B63/30 ###通过机械传动，由发动机动力操作的" Target="frmContent" Href="../searchservlet?query=A01B63/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B63/30"/>
+        <TreeNode Title="A01B63/32 ###用液压或气动装置操作的" Target="frmContent" Href="../searchservlet?query=A01B63/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B63/32"/>
+      </TreeNode>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="A01B67/00 通过工作部件的阻力控制拖拉机发动机的装置(防止过载的入A01B 61/00)" Target="frmContent" Href="../searchservlet?query=A01B67/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B67/00"/>
+  <TreeNode Title="A01B69/00 农业机械或农具的转向机构；在所要求的轨道上导引农机具 [3]" Target="frmContent" Href="../searchservlet?query=A01B69/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B69/00">
+    <TreeNode Title="A01B69/02 #隆起标记或类似装置；尺度索；所需附件" Target="frmContent" Href="../searchservlet?query=A01B69/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B69/02"/>
+    <TreeNode Title="A01B69/04 #拖拉机自动转向机构的特殊匹配，例如环路耕作的电力系统" Target="frmContent" Href="../searchservlet?query=A01B69/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B69/04"/>
+    <TreeNode Title="A01B69/06 #由辅助驾驶员操纵的机具横向转向机构" Target="frmContent" Href="../searchservlet?query=A01B69/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B69/06"/>
+    <TreeNode Title="A01B69/08 #由拖拉机的横向移动而导致的农机具横向转向" Target="frmContent" Href="../searchservlet?query=A01B69/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B69/08"/>
+  </TreeNode>
+  <TreeNode Title="A01B71/00 安装或调整机构、机具或工作部件的驱动装置或动力输出轴的结构或布置；部件防尘或防类似物的装置；农用机械专用部件" Target="frmContent" Href="../searchservlet?query=A01B71/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B71/00">
+    <TreeNode Title="A01B71/02 #安装或调整机构" Target="frmContent" Href="../searchservlet?query=A01B71/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B71/02"/>
+    <TreeNode Title="A01B71/04 #旋转部件的轴承，例如用于整地圆盘的(轴承一般入F16C)" Target="frmContent" Href="../searchservlet?query=A01B71/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B71/04"/>
+    <TreeNode Title="A01B71/06 #动力输出轴与机具或机械的传动轴之间的专用联接装置(传递旋转的联轴器入F16D)" Target="frmContent" Href="../searchservlet?query=A01B71/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B71/06"/>
+    <TreeNode Title="A01B71/08 #防尘或类似物或用于清扫农业机具的装置(A01B 15/16，A01B 19/10，A01B 23/06优先；驱动式旋转耕作部件的防护板入A01B 33/12；旋转部件的防护板一般入F16P 1/00) [2]" Target="frmContent" Href="../searchservlet?query=A01B71/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B71/08"/>
+  </TreeNode>
+  <TreeNode Title="A01B73/00 农业机械或机具的简便运输工具或装置，如减小总体宽度的折叠机架(用于整地农具提升装置的设备入A01B 63/00；适用于货运或运载特殊货物或物体的车辆入B60P；机动车，拖车入B62D) [4]" Target="frmContent" Href="../searchservlet?query=A01B73/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B73/00">
+    <TreeNode Title="A01B73/02 #折叠机架 [4]" Target="frmContent" Href="../searchservlet?query=A01B73/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B73/02">
+      <TreeNode Title="A01B73/04 ##可绕水平轴折叠的 [4]" Target="frmContent" Href="../searchservlet?query=A01B73/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B73/04"/>
+      <TreeNode Title="A01B73/06 ##可绕立轴折叠的 [4]" Target="frmContent" Href="../searchservlet?query=A01B73/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B73/06"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="A01B75/00 支撑正在田间工作，例如间甜菜苗的人员的运载工具" Target="frmContent" Href="../searchservlet?query=A01B75/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B75/00"/>
+  <TreeNode Title="A01B76/00 在组 A01B 51/00 至A01B 75/00中不包含的农业机械或农具的其他部件、零件或附件 [8]" Target="frmContent" Href="../searchservlet?query=A01B76/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B76/00"/>
+  <TreeNode Title="A01B77/00 提升和处理土壤的机械(杀生剂，害虫驱避剂或引诱剂，植物生长调节剂入A01N 25/00至A01N 65/00；肥料入C05；土壤改良或土壤稳定材料入C09K 17/00)" Target="frmContent" Href="../searchservlet?query=A01B77/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B77/00"/>
+  <TreeNode Title="A01B79/00 整地方法(必须使用的专用机械见该机械的各相应组)" Target="frmContent" Href="../searchservlet?query=A01B79/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B79/00">
+    <TreeNode Title="A01B79/02 #与其他农业过程，例如施肥、种植相结合的" Target="frmContent" Href="../searchservlet?query=A01B79/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01B79/02"/>
+  </TreeNode>
+</Root>

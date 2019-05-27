@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="B65F1/00 垃圾贮器(不是专门用于垃圾的容器，一般情况的垃圾贮器的特征入B65D)" Target="frmContent" Href="../searchservlet?query=B65F1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B65F1/00">
+    <TreeNode Title="B65F1/02 # 无可拆除的内装件" Target="frmContent" Href="../searchservlet?query=B65F1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B65F1/02"/>
+    <TreeNode Title="B65F1/04 # 有可拆除的内装件" Target="frmContent" Href="../searchservlet?query=B65F1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B65F1/04">
+      <TreeNode Title="B65F1/06 ##有挠性内装件，如袋或包" Target="frmContent" Href="../searchservlet?query=B65F1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B65F1/06"/>
+      <TreeNode Title="B65F1/08 ##有刚性的内装件" Target="frmContent" Href="../searchservlet?query=B65F1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B65F1/08"/>
+    </TreeNode>
+    <TreeNode Title="B65F1/10 # 有垃圾装入装置，如气闸" Target="frmContent" Href="../searchservlet?query=B65F1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B65F1/10"/>
+    <TreeNode Title="B65F1/12 # 有便于排空的装置" Target="frmContent" Href="../searchservlet?query=B65F1/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B65F1/12"/>
+    <TreeNode Title="B65F1/14 # 其他结构特征(手持物件用的夹持器或搬运器入A45F 5/00；挡板紧固装置入E05C；铰链入E05D)" Target="frmContent" Href="../searchservlet?query=B65F1/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B65F1/14">
+      <TreeNode Title="B65F1/16 ##盖或罩(脚踏或手杆操纵的入B65D)" Target="frmContent" Href="../searchservlet?query=B65F1/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B65F1/16"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="B65F3/00 专门适用于收集垃圾的车辆(一般车辆入B60；驾驶车辆设备或辅助件入B60K；用倾倒整个车辆的方法卸料入B65G；排空污水管或污水井用的有轮装置入E03F 7/10)" Target="frmContent" Href="../searchservlet?query=B65F3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B65F3/00">
+    <TreeNode Title="B65F3/02 # 带有用于卸除车辆内垃圾贮器的装置(输送机结构入B65G；与车辆分开的装载机入B66F；一般液力控制系统入F15B)" Target="frmContent" Href="../searchservlet?query=B65F3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B65F3/02">
+      <TreeNode Title="B65F3/04 ##用于升起并随后倾倒贮器的连杆，装在枢轴上的臂杆，或装在枢轴上的托架" Target="frmContent" Href="../searchservlet?query=B65F3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B65F3/04">
+        <TreeNode Title="B65F3/06 ###流体执行机构的配置或安排" Target="frmContent" Href="../searchservlet?query=B65F3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B65F3/06"/>
+      </TreeNode>
+      <TreeNode Title="B65F3/08 ##用于升起或倾倒容器的有导轨或通道的平台式升降机或卷扬机" Target="frmContent" Href="../searchservlet?query=B65F3/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B65F3/08">
+        <TreeNode Title="B65F3/10 ###流体执行机构的配置或安排" Target="frmContent" Href="../searchservlet?query=B65F3/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B65F3/10"/>
+      </TreeNode>
+      <TreeNode Title="B65F3/12 ##车辆和贮器上的盖、盖舌和活门的联合运动机构；车辆上的封口倾倒容器的联合操作" Target="frmContent" Href="../searchservlet?query=B65F3/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B65F3/12"/>
+    </TreeNode>
+    <TreeNode Title="B65F3/14 # 垃圾车辆槽箱内部有装料、分配或压缩垃圾的装置(B65F 3/02优先)[2]" Target="frmContent" Href="../searchservlet?query=B65F3/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B65F3/14">
+      <TreeNode Title="B65F3/16 ##有输送机滚轮(有螺旋输送机的入B65F 3/22)[2]" Target="frmContent" Href="../searchservlet?query=B65F3/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B65F3/16"/>
+      <TreeNode Title="B65F3/18 ##有循环输送机，如提升机[2]" Target="frmContent" Href="../searchservlet?query=B65F3/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B65F3/18"/>
+      <TreeNode Title="B65F3/20 ##有装料活塞、装料板或类似件(用于卸料的入B65F 3/28)[2]" Target="frmContent" Href="../searchservlet?query=B65F3/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B65F3/20"/>
+      <TreeNode Title="B65F3/22 ##有螺旋输送机，回转式槽箱[2]" Target="frmContent" Href="../searchservlet?query=B65F3/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B65F3/22"/>
+    </TreeNode>
+    <TreeNode Title="B65F3/24 # 有垃圾车辆槽箱卸料装置[2]" Target="frmContent" Href="../searchservlet?query=B65F3/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B65F3/24">
+      <TreeNode Title="B65F3/26 ##用倾倒槽箱的方法[2]" Target="frmContent" Href="../searchservlet?query=B65F3/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B65F3/26"/>
+      <TreeNode Title="B65F3/28 ## 靠器壁的纵向移动，如一块板、一个活塞或类似件(用于装料的入B65F 3/20)[2]" Target="frmContent" Href="../searchservlet?query=B65F3/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B65F3/28"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="B65F5/00 除采用贮器或车辆以外的垃圾的收集或清除(贮存仓库，其装料或卸料入B65G)" Target="frmContent" Href="../searchservlet?query=B65F5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B65F5/00"/>
+  <TreeNode Title="B65F7/00 与垃圾贮器或垃圾车辆结合的清洁或消毒装置(此类装置本身入A61L，B08B)" Target="frmContent" Href="../searchservlet?query=B65F7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B65F7/00"/>
+  <TreeNode Title="B65F9/00 在有中间贮存或压挤的车辆或容器之间传送垃圾(打包压力机本身入B30B 9/30)[4]" Target="frmContent" Href="../searchservlet?query=B65F9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B65F9/00"/>
+</Root>

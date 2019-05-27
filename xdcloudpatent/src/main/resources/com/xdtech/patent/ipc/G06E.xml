@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="G06E1/00 只处理数字数据的装置[5]" Target="frmContent" Href="../searchservlet?query=G06E1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06E1/00">
+    <TreeNode Title="G06E1/02 #根据指令或所要处理的数据内容操作的[5]" Target="frmContent" Href="../searchservlet?query=G06E1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06E1/02">
+      <TreeNode Title="G06E1/04 ##只利用数制表示，例如利用二进制、三进制、十进制表示来完成计算的[5]" Target="frmContent" Href="../searchservlet?query=G06E1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06E1/04"/>
+      <TreeNode Title="G06E1/06 ##使用数字的非数制表示，即无基数的数目表示法；使用数制表示和非数制表示的组合来完成计算的[5]" Target="frmContent" Href="../searchservlet?query=G06E1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06E1/06"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="G06E3/00 在组G06E 1/00中不包括的装置，例如，用于处理模拟数据或混合数据的装置[5]" Target="frmContent" Href="../searchservlet?query=G06E3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06E3/00"/>
+</Root>

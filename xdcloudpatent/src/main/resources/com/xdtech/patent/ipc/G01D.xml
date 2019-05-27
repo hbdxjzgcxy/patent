@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="G01D1/00 给出变量的非瞬时值结果的通用测量装置(G01D 3/00优先；在计费设备中的入G01D 4/00；非专用于特定变量的变换器入G01D 5/00)" Target="frmContent" Href="../searchservlet?query=G01D1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D1/00">
+    <TreeNode Title="G01D1/02 #给出平均值，如均方根值(测量电流或电压的均方根值入G01R 19/02)" Target="frmContent" Href="../searchservlet?query=G01D1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D1/02"/>
+    <TreeNode Title="G01D1/04 #给出积分值(给出平均值入G01D 1/02)" Target="frmContent" Href="../searchservlet?query=G01D1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D1/04">
+      <TreeNode Title="G01D1/06 ##采用间断累加法" Target="frmContent" Href="../searchservlet?query=G01D1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D1/06">
+        <TreeNode Title="G01D1/08 ###在固定的时间期间内" Target="frmContent" Href="../searchservlet?query=G01D1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D1/08"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="G01D1/10 #给出微分值" Target="frmContent" Href="../searchservlet?query=G01D1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D1/10"/>
+    <TreeNode Title="G01D1/12 #给出一个量的最大值或最小值" Target="frmContent" Href="../searchservlet?query=G01D1/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D1/12"/>
+    <TreeNode Title="G01D1/14 #给出数值的分布函数，即该数值在特定的幅值范围内出现的次数" Target="frmContent" Href="../searchservlet?query=G01D1/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D1/14"/>
+    <TreeNode Title="G01D1/16 #给出两个或两个以上量的函数值，如乘积、比值" Target="frmContent" Href="../searchservlet?query=G01D1/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D1/16"/>
+    <TreeNode Title="G01D1/18 #对非指定参量超过预定值发出信号的装置(G01D 1/14优先)[3]" Target="frmContent" Href="../searchservlet?query=G01D1/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D1/18"/>
+  </TreeNode>
+  <TreeNode Title="G01D3/00 用于本组各小组中所列特定用途的测量装置" Target="frmContent" Href="../searchservlet?query=G01D3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D3/00">
+    <TreeNode Title="G01D3/02 #用于改变或校正传递函数" Target="frmContent" Href="../searchservlet?query=G01D3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D3/02">
+      <TreeNode Title="G01D3/024 ##用于范围改变；用另一个代替一个传感元件的装置[6]" Target="frmContent" Href="../searchservlet?query=G01D3/024&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D3/024"/>
+    </TreeNode>
+    <TreeNode Title="G01D3/028 #减轻不希望产生的影响，例如温度、压力[6]" Target="frmContent" Href="../searchservlet?query=G01D3/028&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D3/028">
+      <TreeNode Title="G01D3/032 ##作用于输入信号，例如通过平均；控制不希望产生的信号[6]" Target="frmContent" Href="../searchservlet?query=G01D3/032&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D3/032"/>
+      <TreeNode Title="G01D3/036 ##测量装置自身[6]" Target="frmContent" Href="../searchservlet?query=G01D3/036&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D3/036"/>
+    </TreeNode>
+    <TreeNode Title="G01D3/06 #用于通过调零办法进行操作" Target="frmContent" Href="../searchservlet?query=G01D3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D3/06"/>
+    <TreeNode Title="G01D3/08 #用于保护设备，如防止非正规操作，防止击穿" Target="frmContent" Href="../searchservlet?query=G01D3/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D3/08"/>
+    <TreeNode Title="G01D3/10 #用于接入附加或辅助指示器或记录器" Target="frmContent" Href="../searchservlet?query=G01D3/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D3/10"/>
+  </TreeNode>
+  <TreeNode Title="G01D4/00 计费设备(在出租汽车计费表中的入G07B 13/00；由硬币、磁卡或者有仪表控制的分配液体、气体或电的设备入G07F 15/00)" Target="frmContent" Href="../searchservlet?query=G01D4/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D4/00">
+    <TreeNode Title="G01D4/02 #零部件" Target="frmContent" Href="../searchservlet?query=G01D4/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D4/02">
+      <TreeNode Title="G01D4/04 ##复位机构，如用于指示的构件" Target="frmContent" Href="../searchservlet?query=G01D4/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D4/04"/>
+      <TreeNode Title="G01D4/06 ##驱动和指示构件之间的离合装置，如磁滞作用离合器(G01D 4/04优先)" Target="frmContent" Href="../searchservlet?query=G01D4/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D4/06"/>
+      <TreeNode Title="G01D4/08 ##从一个计数器到总和计数器的指示传递" Target="frmContent" Href="../searchservlet?query=G01D4/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D4/08"/>
+    </TreeNode>
+    <TreeNode Title="G01D4/10 #最大值指示或记录仪表，即根据一段时间内的最大需求量计算该时间内的费用" Target="frmContent" Href="../searchservlet?query=G01D4/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D4/10">
+      <TreeNode Title="G01D4/12 ##用于指示或记录递增的最大值的仪器" Target="frmContent" Href="../searchservlet?query=G01D4/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D4/12"/>
+      <TreeNode Title="G01D4/14 ##固定需求量的指示或记录仪表，即在大于或小于预定的时间间隔内当耗用了预定的数量时给出指示" Target="frmContent" Href="../searchservlet?query=G01D4/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D4/14"/>
+    </TreeNode>
+    <TreeNode Title="G01D4/16 #最大或最小负载时数的指示或记录仪表" Target="frmContent" Href="../searchservlet?query=G01D4/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D4/16"/>
+    <TreeNode Title="G01D4/18 #应用反向转矩的过消耗指示或记录仪表，该反向转矩在超过预定数量时发生作用，如减法表" Target="frmContent" Href="../searchservlet?query=G01D4/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D4/18"/>
+  </TreeNode>
+  <TreeNode Title="G01D5/00 用于传递传感构件的输出的机械装置；将传感构件的输出变换成不同变量的装置，其中传感构件的形式和特性不限制变换装置；非专用于特定变量的变换器(G01D 3/00优先；专门适用于给出除变量的瞬时值以外的结果的仪表入G01D 1/00)[6]" Target="frmContent" Href="../searchservlet?query=G01D5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D5/00">
+    <TreeNode Title="G01D5/02 #采用机械装置" Target="frmContent" Href="../searchservlet?query=G01D5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D5/02">
+      <TreeNode Title="G01D5/04 ##应用杠杆；应用凸轮；应用齿轮" Target="frmContent" Href="../searchservlet?query=G01D5/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D5/04"/>
+      <TreeNode Title="G01D5/06 ##通过箱壁或外罩起作用，例如通过风箱，通过磁耦合" Target="frmContent" Href="../searchservlet?query=G01D5/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D5/06"/>
+      <TreeNode Title="G01D5/08 ##减少摩擦的影响，如通过应用振动" Target="frmContent" Href="../searchservlet?query=G01D5/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D5/08"/>
+      <TreeNode Title="G01D5/10 ##用外力来增强可用于操作指示或记录零件的力" Target="frmContent" Href="../searchservlet?query=G01D5/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D5/10"/>
+    </TreeNode>
+    <TreeNode Title="G01D5/12 #采用电或磁装置(G01D 5/06优先)[3]" Target="frmContent" Href="../searchservlet?query=G01D5/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D5/12">
+      <TreeNode Title="G01D5/14 ##影响电流或电压的大小" Target="frmContent" Href="../searchservlet?query=G01D5/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D5/14">
+        <TreeNode Title="G01D5/16 ###通过改变电阻" Target="frmContent" Href="../searchservlet?query=G01D5/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D5/16">
+          <TreeNode Title="G01D5/165 ####通过一触点和电阻导向装置的相对移动[6]" Target="frmContent" Href="../searchservlet?query=G01D5/165&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D5/165"/>
+        </TreeNode>
+        <TreeNode Title="G01D5/18 ###通过改变放电管或半导体器件的有效阻抗" Target="frmContent" Href="../searchservlet?query=G01D5/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D5/18"/>
+        <TreeNode Title="G01D5/20 ###通过改变电感，如采用可动电枢" Target="frmContent" Href="../searchservlet?query=G01D5/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D5/20">
+          <TreeNode Title="G01D5/22 ####差动地影响两个线圈" Target="frmContent" Href="../searchservlet?query=G01D5/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D5/22"/>
+        </TreeNode>
+        <TreeNode Title="G01D5/24 ###通过改变电容" Target="frmContent" Href="../searchservlet?query=G01D5/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D5/24">
+          <TreeNode Title="G01D5/241 ####通过电容器电极的相对移动[6]" Target="frmContent" Href="../searchservlet?query=G01D5/241&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D5/241"/>
+        </TreeNode>
+        <TreeNode Title="G01D5/242 ###通过改变电动装置的输出，如测速发电机的输出" Target="frmContent" Href="../searchservlet?query=G01D5/242&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D5/242"/>
+      </TreeNode>
+      <TreeNode Title="G01D5/243 ##影响交流量的相位或频率" Target="frmContent" Href="../searchservlet?query=G01D5/243&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D5/243"/>
+      <TreeNode Title="G01D5/244 ##影响脉冲或脉冲序列的特性；产生脉冲或脉冲序列[6]" Target="frmContent" Href="../searchservlet?query=G01D5/244&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D5/244">
+        <TreeNode Title="G01D5/245 ###应用脉冲数目可变的脉冲序列" Target="frmContent" Href="../searchservlet?query=G01D5/245&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D5/245"/>
+        <TreeNode Title="G01D5/246 ###通过改变单个脉冲的持续时间" Target="frmContent" Href="../searchservlet?query=G01D5/246&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D5/246"/>
+        <TreeNode Title="G01D5/247 ###应用脉冲的时间移动" Target="frmContent" Href="../searchservlet?query=G01D5/247&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D5/247"/>
+        <TreeNode Title="G01D5/248 ###通过改变脉冲的重复频率" Target="frmContent" Href="../searchservlet?query=G01D5/248&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D5/248"/>
+        <TreeNode Title="G01D5/249 ###应用脉冲编码" Target="frmContent" Href="../searchservlet?query=G01D5/249&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D5/249"/>
+      </TreeNode>
+      <TreeNode Title="G01D5/25 ##从多个导电体或通道中选择一个或多个导电体或通道，如通过闭合接点" Target="frmContent" Href="../searchservlet?query=G01D5/25&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D5/25">
+        <TreeNode Title="G01D5/251 ###一个导电体或通道" Target="frmContent" Href="../searchservlet?query=G01D5/251&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D5/251"/>
+        <TreeNode Title="G01D5/252 ###多个导电体或通道的组合" Target="frmContent" Href="../searchservlet?query=G01D5/252&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D5/252"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="G01D5/26 #采用光学装置，即应用红外光、可见光或紫外光" Target="frmContent" Href="../searchservlet?query=G01D5/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D5/26">
+      <TreeNode Title="G01D5/28 ##利用光束的偏转，例如直接的光指示(G01D 5/40优先)" Target="frmContent" Href="../searchservlet?query=G01D5/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D5/28">
+        <TreeNode Title="G01D5/30 ###利用光电元件检测光束" Target="frmContent" Href="../searchservlet?query=G01D5/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D5/30"/>
+      </TreeNode>
+      <TreeNode Title="G01D5/32 ##利用光束的减弱或者全部或局部的闭塞(G01D 5/40优先)" Target="frmContent" Href="../searchservlet?query=G01D5/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D5/32">
+        <TreeNode Title="G01D5/34 ###利用光电元件检测光束" Target="frmContent" Href="../searchservlet?query=G01D5/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D5/34">
+          <TreeNode Title="G01D5/347 ####利用位移编码度盘[6]" Target="frmContent" Href="../searchservlet?query=G01D5/347&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D5/347"/>
+          <TreeNode Title="G01D5/353 ####影响光纤的传输特性[6]" Target="frmContent" Href="../searchservlet?query=G01D5/353&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D5/353"/>
+          <TreeNode Title="G01D5/36 ####将光线形成脉冲" Target="frmContent" Href="../searchservlet?query=G01D5/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D5/36">
+            <TreeNode Title="G01D5/38 #####用衍射光栅" Target="frmContent" Href="../searchservlet?query=G01D5/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D5/38"/>
+          </TreeNode>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="G01D5/39 ##对被测量值的可见指示进行扫描并且在远处重现这一指示，如在阴极射线管的屏幕上予以重现" Target="frmContent" Href="../searchservlet?query=G01D5/39&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D5/39"/>
+      <TreeNode Title="G01D5/40 ##专门用来和红外线一起使用的" Target="frmContent" Href="../searchservlet?query=G01D5/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D5/40"/>
+    </TreeNode>
+    <TreeNode Title="G01D5/42 #采用流体装置" Target="frmContent" Href="../searchservlet?query=G01D5/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D5/42">
+      <TreeNode Title="G01D5/44 ##应用流体喷嘴" Target="frmContent" Href="../searchservlet?query=G01D5/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D5/44">
+        <TreeNode Title="G01D5/46 ###通过对流体的偏转或节流" Target="frmContent" Href="../searchservlet?query=G01D5/46&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D5/46"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="G01D5/48 #采用波或粒子辐射装置(G01D 5/26优先)" Target="frmContent" Href="../searchservlet?query=G01D5/48&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D5/48">
+      <TreeNode Title="G01D5/50 ##从放射性源发出的" Target="frmContent" Href="../searchservlet?query=G01D5/50&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D5/50">
+        <TreeNode Title="G01D5/52 ###用计数管检测" Target="frmContent" Href="../searchservlet?query=G01D5/52&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D5/52"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="G01D5/54 #采用G01D 5/02，G01D 5/12，G01D 5/26，G01D 5/42和G01D 5/48中两个或更多个组中所列出的装置" Target="frmContent" Href="../searchservlet?query=G01D5/54&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D5/54">
+      <TreeNode Title="G01D5/56 ##采用电或磁的装置" Target="frmContent" Href="../searchservlet?query=G01D5/56&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D5/56"/>
+      <TreeNode Title="G01D5/58 ##采用光学装置，即利用红外光、可见光或紫外光" Target="frmContent" Href="../searchservlet?query=G01D5/58&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D5/58"/>
+      <TreeNode Title="G01D5/60 ##利用流体装置" Target="frmContent" Href="../searchservlet?query=G01D5/60&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D5/60"/>
+      <TreeNode Title="G01D5/62 ##利用不包括在G01D 5/58中的波或粒子辐射装置" Target="frmContent" Href="../searchservlet?query=G01D5/62&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D5/62"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="G01D7/00 测量值的指示" Target="frmContent" Href="../searchservlet?query=G01D7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D7/00">
+    <TreeNode Title="G01D7/02 #同时指示两个或更多个变量的值" Target="frmContent" Href="../searchservlet?query=G01D7/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D7/02">
+      <TreeNode Title="G01D7/04 ##每一个变量用单独的指示元件" Target="frmContent" Href="../searchservlet?query=G01D7/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D7/04">
+        <TreeNode Title="G01D7/06 ###投射在一个公共屏幕上的发光指示" Target="frmContent" Href="../searchservlet?query=G01D7/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D7/06"/>
+      </TreeNode>
+      <TreeNode Title="G01D7/08 ##两个或更多个变量应用一个公共指示元件" Target="frmContent" Href="../searchservlet?query=G01D7/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D7/08">
+        <TreeNode Title="G01D7/10 ###以坐标形式给出指示" Target="frmContent" Href="../searchservlet?query=G01D7/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D7/10"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="G01D7/12 #仪表读数的听觉指示，如供盲人使用的[2]" Target="frmContent" Href="../searchservlet?query=G01D7/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D7/12"/>
+  </TreeNode>
+  <TreeNode Title="G01D9/00 测量值的记录" Target="frmContent" Href="../searchservlet?query=G01D9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D9/00">
+    <TreeNode Title="G01D9/02 #提供单个变量值的一个或多个记录" Target="frmContent" Href="../searchservlet?query=G01D9/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D9/02">
+      <TreeNode Title="G01D9/04 ##具有用于多路或交替式记录的" Target="frmContent" Href="../searchservlet?query=G01D9/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D9/04">
+        <TreeNode Title="G01D9/06 ###多路记录，如复式记录" Target="frmContent" Href="../searchservlet?query=G01D9/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D9/06">
+          <TreeNode Title="G01D9/08 ####同时给出图形和数值记录" Target="frmContent" Href="../searchservlet?query=G01D9/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D9/08"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="G01D9/10 ##用变量控制的记录元件，如记录笔，以及依照时间控制的记录介质，如纸滚筒" Target="frmContent" Href="../searchservlet?query=G01D9/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D9/10">
+        <TreeNode Title="G01D9/12 ###连续记录" Target="frmContent" Href="../searchservlet?query=G01D9/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D9/12">
+          <TreeNode Title="G01D9/14 ####依据所记录的变量大小来改变记录介质的速度" Target="frmContent" Href="../searchservlet?query=G01D9/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D9/14"/>
+        </TreeNode>
+        <TreeNode Title="G01D9/16 ###间断的记录，如采用落弓" Target="frmContent" Href="../searchservlet?query=G01D9/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D9/16">
+          <TreeNode Title="G01D9/18 ####仅由变量的变化来驱动的记录元件" Target="frmContent" Href="../searchservlet?query=G01D9/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D9/18"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="G01D9/20 ##依照时间来控制的记录元件，如记录笔，以及由变量控制的记录介质，如纸滚筒" Target="frmContent" Href="../searchservlet?query=G01D9/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D9/20">
+        <TreeNode Title="G01D9/22 ###连续记录" Target="frmContent" Href="../searchservlet?query=G01D9/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D9/22"/>
+        <TreeNode Title="G01D9/24 ###间断的记录，如采用落弓" Target="frmContent" Href="../searchservlet?query=G01D9/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D9/24"/>
+      </TreeNode>
+      <TreeNode Title="G01D9/26 ##记录元件，如记录笔，或者记录介质，如纸滚筒，都是依照时间和变量来控制的" Target="frmContent" Href="../searchservlet?query=G01D9/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D9/26"/>
+    </TreeNode>
+    <TreeNode Title="G01D9/28 #产生一个或多个记录，而每一个记录表示两个或更多个不同变量的数值(G01D 9/38，G01D 9/40优先)" Target="frmContent" Href="../searchservlet?query=G01D9/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D9/28">
+      <TreeNode Title="G01D9/30 ##每一个变量用单独的记录元件，如多笔记录器" Target="frmContent" Href="../searchservlet?query=G01D9/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D9/30"/>
+      <TreeNode Title="G01D9/32 ##两个或更多个变量使用一公共记录元件" Target="frmContent" Href="../searchservlet?query=G01D9/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D9/32">
+        <TreeNode Title="G01D9/34 ###按预定顺序对变量进行记录" Target="frmContent" Href="../searchservlet?query=G01D9/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D9/34">
+          <TreeNode Title="G01D9/36 ####按分开纵列进行记录" Target="frmContent" Href="../searchservlet?query=G01D9/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D9/36"/>
+        </TreeNode>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="G01D9/38 #产生一个或多个记录，每一个记录是由一个变量控制记录元件，如记录笔，并且由另一个变量控制记录介质(如纸滚筒)而获得的" Target="frmContent" Href="../searchservlet?query=G01D9/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D9/38"/>
+    <TreeNode Title="G01D9/40 #产生一个或多个记录，每个记录是由两个或更多个变量控制记录元件(如记录笔或记录介质，如纸滚筒)而获得的" Target="frmContent" Href="../searchservlet?query=G01D9/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D9/40"/>
+    <TreeNode Title="G01D9/42 #利用照相装置来记录测量仪器的指示，如对计数器的指示进行记录" Target="frmContent" Href="../searchservlet?query=G01D9/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D9/42"/>
+  </TreeNode>
+  <TreeNode Title="G01D11/00 非专用于特定变量的测量装置的组件(G01D 13/00，G01D 15/00优先)" Target="frmContent" Href="../searchservlet?query=G01D11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D11/00">
+    <TreeNode Title="G01D11/02 #可动部件的轴承或悬挂" Target="frmContent" Href="../searchservlet?query=G01D11/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D11/02">
+      <TreeNode Title="G01D11/04 ##刀刃式轴承" Target="frmContent" Href="../searchservlet?query=G01D11/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D11/04"/>
+      <TreeNode Title="G01D11/06 ##悬带或悬丝，如处在拉力状态下的" Target="frmContent" Href="../searchservlet?query=G01D11/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D11/06"/>
+    </TreeNode>
+    <TreeNode Title="G01D11/08 #平衡运动部件的元件" Target="frmContent" Href="../searchservlet?query=G01D11/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D11/08"/>
+    <TreeNode Title="G01D11/10 #阻尼部件运动的元件" Target="frmContent" Href="../searchservlet?query=G01D11/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D11/10">
+      <TreeNode Title="G01D11/12 ##应用流体阻尼" Target="frmContent" Href="../searchservlet?query=G01D11/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D11/12"/>
+      <TreeNode Title="G01D11/14 ##应用磁感应阻尼" Target="frmContent" Href="../searchservlet?query=G01D11/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D11/14"/>
+    </TreeNode>
+    <TreeNode Title="G01D11/16 #限制或防止部件运动的元件，如调零点用的(可动部件不使用时的锁定入G01D 11/20)" Target="frmContent" Href="../searchservlet?query=G01D11/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D11/16">
+      <TreeNode Title="G01D11/18 ##弹簧(G01D 11/06优先)" Target="frmContent" Href="../searchservlet?query=G01D11/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D11/18"/>
+    </TreeNode>
+    <TreeNode Title="G01D11/20 #可动部件不使用时的锁定装置" Target="frmContent" Href="../searchservlet?query=G01D11/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D11/20">
+      <TreeNode Title="G01D11/22 ##自动操作的" Target="frmContent" Href="../searchservlet?query=G01D11/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D11/22"/>
+    </TreeNode>
+    <TreeNode Title="G01D11/24 #外壳" Target="frmContent" Href="../searchservlet?query=G01D11/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D11/24">
+      <TreeNode Title="G01D11/26 ##窗口；玻璃罩盖；其密封" Target="frmContent" Href="../searchservlet?query=G01D11/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D11/26"/>
+    </TreeNode>
+    <TreeNode Title="G01D11/28 #与仪表结构相结合的照明装置" Target="frmContent" Href="../searchservlet?query=G01D11/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D11/28"/>
+    <TreeNode Title="G01D11/30 #专门适用于一台仪器的支架；专门适用于一组仪器的支架" Target="frmContent" Href="../searchservlet?query=G01D11/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D11/30"/>
+  </TreeNode>
+  <TreeNode Title="G01D13/00 非专用于特定变量的测量装置的指示器的组件" Target="frmContent" Href="../searchservlet?query=G01D13/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D13/00">
+    <TreeNode Title="G01D13/02 #刻度盘，分度盘" Target="frmContent" Href="../searchservlet?query=G01D13/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D13/02">
+      <TreeNode Title="G01D13/04 ##结构" Target="frmContent" Href="../searchservlet?query=G01D13/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D13/04">
+        <TreeNode Title="G01D13/06 ###移动带(G01D 13/10优先)" Target="frmContent" Href="../searchservlet?query=G01D13/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D13/06"/>
+        <TreeNode Title="G01D13/08 ###旋转滚筒(G01D 13/10优先)" Target="frmContent" Href="../searchservlet?query=G01D13/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D13/08"/>
+        <TreeNode Title="G01D13/10 ###具有可调刻度盘；具有辅助刻度盘，如游标尺" Target="frmContent" Href="../searchservlet?query=G01D13/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D13/10"/>
+      </TreeNode>
+      <TreeNode Title="G01D13/12 ##分度" Target="frmContent" Href="../searchservlet?query=G01D13/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D13/12">
+        <TreeNode Title="G01D13/14 ###用于大于360°的旋转" Target="frmContent" Href="../searchservlet?query=G01D13/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D13/14"/>
+        <TreeNode Title="G01D13/16 ###有交错标记的" Target="frmContent" Href="../searchservlet?query=G01D13/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D13/16"/>
+        <TreeNode Title="G01D13/18 ###具有凸起或凹进标记的" Target="frmContent" Href="../searchservlet?query=G01D13/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D13/18"/>
+        <TreeNode Title="G01D13/20 ###具有发光标记的" Target="frmContent" Href="../searchservlet?query=G01D13/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D13/20"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="G01D13/22 #指针，如可调指针的" Target="frmContent" Href="../searchservlet?query=G01D13/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D13/22">
+      <TreeNode Title="G01D13/24 ##用于指示一个最大值或最小值的" Target="frmContent" Href="../searchservlet?query=G01D13/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D13/24"/>
+      <TreeNode Title="G01D13/26 ##用于执行下一步操作的，如形成电接触的" Target="frmContent" Href="../searchservlet?query=G01D13/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D13/26"/>
+      <TreeNode Title="G01D13/28 ##具有发光标记的" Target="frmContent" Href="../searchservlet?query=G01D13/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D13/28"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="G01D15/00 非专用于特定变量的测量装置的记录器的组件" Target="frmContent" Href="../searchservlet?query=G01D15/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D15/00">
+    <TreeNode Title="G01D15/02 #使记录表面发生机械变形或穿孔的笔尖或其他记录元件(打印记录元件入G01D 15/20)" Target="frmContent" Href="../searchservlet?query=G01D15/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D15/02">
+      <TreeNode Title="G01D15/04 ##在记录表面上进行穿孔的" Target="frmContent" Href="../searchservlet?query=G01D15/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D15/04"/>
+    </TreeNode>
+    <TreeNode Title="G01D15/06 #电记录元件，如电解式的" Target="frmContent" Href="../searchservlet?query=G01D15/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D15/06">
+      <TreeNode Title="G01D15/08 ##电火花腐蚀用的" Target="frmContent" Href="../searchservlet?query=G01D15/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D15/08"/>
+    </TreeNode>
+    <TreeNode Title="G01D15/10 #作用于热敏层上的加热记录元件" Target="frmContent" Href="../searchservlet?query=G01D15/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D15/10"/>
+    <TreeNode Title="G01D15/12 #磁记录元件" Target="frmContent" Href="../searchservlet?query=G01D15/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D15/12"/>
+    <TreeNode Title="G01D15/14 #光学记录元件；应用X射线或核辐射的记录元件" Target="frmContent" Href="../searchservlet?query=G01D15/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D15/14"/>
+    <TreeNode Title="G01D15/16 #传递记录材料的记录元件，如将墨水传递到记录表面所用的(打印记录元件入G01D 15/20)" Target="frmContent" Href="../searchservlet?query=G01D15/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D15/16">
+      <TreeNode Title="G01D15/18 ##喷出记录材料的喷嘴" Target="frmContent" Href="../searchservlet?query=G01D15/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D15/18"/>
+    </TreeNode>
+    <TreeNode Title="G01D15/20 #用墨水进行打印的记录元件或通过使记录表面变形或穿孔进行打印的记录元件，如压纹记录" Target="frmContent" Href="../searchservlet?query=G01D15/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D15/20"/>
+    <TreeNode Title="G01D15/22 #使记录元件与记录表面相接触的落弓" Target="frmContent" Href="../searchservlet?query=G01D15/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D15/22"/>
+    <TreeNode Title="G01D15/24 #未列入G01D 5/00组的记录元件或记录表面的驱动机构" Target="frmContent" Href="../searchservlet?query=G01D15/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D15/24">
+      <TreeNode Title="G01D15/26 ##由钟表机构驱动的" Target="frmContent" Href="../searchservlet?query=G01D15/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D15/26"/>
+    </TreeNode>
+    <TreeNode Title="G01D15/28 #记录表面的支承装置；记录表面的引导装置；记录表面的交换装置" Target="frmContent" Href="../searchservlet?query=G01D15/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D15/28">
+      <TreeNode Title="G01D15/30 ##用于可折叠的条状记录图表" Target="frmContent" Href="../searchservlet?query=G01D15/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D15/30"/>
+      <TreeNode Title="G01D15/32 ##用于环状记录图表" Target="frmContent" Href="../searchservlet?query=G01D15/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D15/32"/>
+    </TreeNode>
+    <TreeNode Title="G01D15/34 #记录表面" Target="frmContent" Href="../searchservlet?query=G01D15/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D15/34"/>
+  </TreeNode>
+  <TreeNode Title="G01D18/00 大组G01D 1/00至G01D 15/00中规定的设备或装置的测试或校准" Target="frmContent" Href="../searchservlet?query=G01D18/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D18/00"/>
+  <TreeNode Title="G01D21/00 未列入其他类目的测量或测试" Target="frmContent" Href="../searchservlet?query=G01D21/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D21/00">
+    <TreeNode Title="G01D21/02 #用不包括在其他单个小类中的装置来测量两个或更多个变量" Target="frmContent" Href="../searchservlet?query=G01D21/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01D21/02"/>
+  </TreeNode>
+</Root>

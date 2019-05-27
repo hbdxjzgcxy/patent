@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="D06H1/00 纺织材料作标记；与测长或检验相结合的作标记" Target="frmContent" Href="../searchservlet?query=D06H1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06H1/00">
+    <TreeNode Title="D06H1/02 #用印或类似印的方法作标记" Target="frmContent" Href="../searchservlet?query=D06H1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06H1/02"/>
+    <TreeNode Title="D06H1/04 #用线、标签或类似物" Target="frmContent" Href="../searchservlet?query=D06H1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06H1/04"/>
+  </TreeNode>
+  <TreeNode Title="D06H3/00 纺织材料的检验(纺织材料的物理性能检验入G01N，例如使用光学装置检查疵点、缺陷或沾污的存在入G01N 21/88)" Target="frmContent" Href="../searchservlet?query=D06H3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06H3/00">
+    <TreeNode Title="D06H3/02 #目检(D06H 3/12，D06H 3/14，D06H 3/16优先)" Target="frmContent" Href="../searchservlet?query=D06H3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06H3/02">
+      <TreeNode Title="D06H3/04 ##材料由工作台支撑" Target="frmContent" Href="../searchservlet?query=D06H3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06H3/04"/>
+      <TreeNode Title="D06H3/06 ##材料由圆筒支撑" Target="frmContent" Href="../searchservlet?query=D06H3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06H3/06"/>
+    </TreeNode>
+    <TreeNode Title="D06H3/08 #光电或电视法(D06H 3/12，D06H 3/14，D06H 3/16优先)" Target="frmContent" Href="../searchservlet?query=D06H3/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06H3/08"/>
+    <TreeNode Title="D06H3/10 #非光学设备(D06H 3/12，D06H 3/14，D06H 3/16优先)" Target="frmContent" Href="../searchservlet?query=D06H3/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06H3/10"/>
+    <TreeNode Title="D06H3/12 #机织物纬纱的探纬和自动纠错" Target="frmContent" Href="../searchservlet?query=D06H3/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06H3/12"/>
+    <TreeNode Title="D06H3/14 #探测和除掉织物上的金属颗粒，如断针，断梳针等" Target="frmContent" Href="../searchservlet?query=D06H3/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06H3/14"/>
+    <TreeNode Title="D06H3/16 #袜类或其他圆筒形织物的检验；与内侧外翻，分类或其他处理相关联的检验(内侧外翻本身入D06G 3/00)" Target="frmContent" Href="../searchservlet?query=D06H3/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06H3/16"/>
+  </TreeNode>
+  <TreeNode Title="D06H5/00 纺织材料的接缝" Target="frmContent" Href="../searchservlet?query=D06H5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06H5/00"/>
+  <TreeNode Title="D06H7/00 用于纺织材料裁剪的，或其他切断的，专门适用于裁剪，或其他切断的装置和方法(扣眼切割入A41H；一般手持切断工具入B26B；一般切断机入B26D；一般切割外的切断入B26F；接缝修边和剪毛装置入D06C)" Target="frmContent" Href="../searchservlet?query=D06H7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06H7/00">
+    <TreeNode Title="D06H7/02 #横向的(D06H 7/14优先)" Target="frmContent" Href="../searchservlet?query=D06H7/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06H7/02"/>
+    <TreeNode Title="D06H7/04 #纵向的(D06H 7/14优先)" Target="frmContent" Href="../searchservlet?query=D06H7/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06H7/04">
+      <TreeNode Title="D06H7/06 ##去边" Target="frmContent" Href="../searchservlet?query=D06H7/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06H7/06"/>
+      <TreeNode Title="D06H7/08 ##圆筒形织物纵向开裁" Target="frmContent" Href="../searchservlet?query=D06H7/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06H7/08"/>
+    </TreeNode>
+    <TreeNode Title="D06H7/10 #斜向的" Target="frmContent" Href="../searchservlet?query=D06H7/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06H7/10">
+      <TreeNode Title="D06H7/12 ##圆筒形织物螺旋开裁" Target="frmContent" Href="../searchservlet?query=D06H7/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06H7/12"/>
+    </TreeNode>
+    <TreeNode Title="D06H7/14 #通过剪切纬或经线，同时制作专用装置避免分别剪切到邻近剪切处的纬或经线来剪切织物的" Target="frmContent" Href="../searchservlet?query=D06H7/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06H7/14"/>
+    <TreeNode Title="D06H7/16 #专门适用于剪裁花边和刺绣的" Target="frmContent" Href="../searchservlet?query=D06H7/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06H7/16"/>
+    <TreeNode Title="D06H7/18 #卷状材料不退绕状态下的切割" Target="frmContent" Href="../searchservlet?query=D06H7/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06H7/18"/>
+    <TreeNode Title="D06H7/20 #撕" Target="frmContent" Href="../searchservlet?query=D06H7/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06H7/20"/>
+    <TreeNode Title="D06H7/22 #加热或用化学药物切割" Target="frmContent" Href="../searchservlet?query=D06H7/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06H7/22"/>
+    <TreeNode Title="D06H7/24 #剪裁小样的专门用具" Target="frmContent" Href="../searchservlet?query=D06H7/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06H7/24"/>
+  </TreeNode>
+</Root>

@@ -1,0 +1,525 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="C01B3/00 氢；含氢混合气；从含氢混合气中分离氢；氢的净化(用固体碳质物料生产水煤气或合成气入C10J)[3]" Target="frmContent" Href="../searchservlet?query=C01B3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B3/00">
+    <TreeNode Title="C01B3/02 #氢或含氢混合气的生产[3]" Target="frmContent" Href="../searchservlet?query=C01B3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B3/02">
+      <TreeNode Title="C01B3/04 ##用无机化合物，如氨的分解法[3]" Target="frmContent" Href="../searchservlet?query=C01B3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B3/04"/>
+      <TreeNode Title="C01B3/06 ##用含正电性氢的无机化合物，如水、酸、碱、氨与无机还原剂的反应(用电解水法入C25B 1/04)[3]" Target="frmContent" Href="../searchservlet?query=C01B3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B3/06">
+        <TreeNode Title="C01B3/08 ###与金属[3]" Target="frmContent" Href="../searchservlet?query=C01B3/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B3/08">
+          <TreeNode Title="C01B3/10 ####用水蒸气与金属的反应[3]" Target="frmContent" Href="../searchservlet?query=C01B3/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B3/10"/>
+        </TreeNode>
+        <TreeNode Title="C01B3/12 ###用水蒸气与一氧化碳的反应[3]" Target="frmContent" Href="../searchservlet?query=C01B3/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B3/12">
+          <TreeNode Title="C01B3/14 ####用热和蒸气处理[3]" Target="frmContent" Href="../searchservlet?query=C01B3/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B3/14"/>
+          <TreeNode Title="C01B3/16 ####使用催化剂[3]" Target="frmContent" Href="../searchservlet?query=C01B3/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B3/16"/>
+          <TreeNode Title="C01B3/18 ####使用移动固体颗粒[3]" Target="frmContent" Href="../searchservlet?query=C01B3/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B3/18"/>
+        </TreeNode>
+        <TreeNode Title="C01B3/20 ###用金属氢氧化物与一氧化碳的反应[3]" Target="frmContent" Href="../searchservlet?query=C01B3/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B3/20"/>
+      </TreeNode>
+      <TreeNode Title="C01B3/22 ##通过气态或液态有机化合物的分解[3]" Target="frmContent" Href="../searchservlet?query=C01B3/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B3/22">
+        <TreeNode Title="C01B3/24 ###烃类的[3]" Target="frmContent" Href="../searchservlet?query=C01B3/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B3/24">
+          <TreeNode Title="C01B3/26 ####使用催化剂[3]" Target="frmContent" Href="../searchservlet?query=C01B3/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B3/26"/>
+          <TreeNode Title="C01B3/28 ####使用移动固体颗粒[3]" Target="frmContent" Href="../searchservlet?query=C01B3/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B3/28">
+            <TreeNode Title="C01B3/30 #####使用流化床技术[3]" Target="frmContent" Href="../searchservlet?query=C01B3/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B3/30"/>
+          </TreeNode>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="C01B3/32 ##用气态或液态的有机化合物与气化剂，如水、二氧化碳、空气的反应[3]" Target="frmContent" Href="../searchservlet?query=C01B3/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B3/32">
+        <TreeNode Title="C01B3/34 ###用烃类与气化剂的反应[3]" Target="frmContent" Href="../searchservlet?query=C01B3/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B3/34">
+          <TreeNode Title="C01B3/36 ####使用氧或含氧混合物作气化剂[3]" Target="frmContent" Href="../searchservlet?query=C01B3/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B3/36"/>
+          <TreeNode Title="C01B3/38 ####使用催化剂[3]" Target="frmContent" Href="../searchservlet?query=C01B3/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B3/38">
+            <TreeNode Title="C01B3/40 #####以催化剂为特征的[3]" Target="frmContent" Href="../searchservlet?query=C01B3/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B3/40"/>
+            <TreeNode Title="C01B3/42 #####使用移动固体颗粒[3]" Target="frmContent" Href="../searchservlet?query=C01B3/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B3/42">
+              <TreeNode Title="C01B3/44 ######使用流化床技术[3]" Target="frmContent" Href="../searchservlet?query=C01B3/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B3/44"/>
+            </TreeNode>
+          </TreeNode>
+          <TreeNode Title="C01B3/46 ####使用间断预热的非移动固体物料，如鼓风和转动[3]" Target="frmContent" Href="../searchservlet?query=C01B3/46&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B3/46"/>
+          <TreeNode Title="C01B3/48 ####随后有水蒸气与一氧化碳反应的[3]" Target="frmContent" Href="../searchservlet?query=C01B3/48&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B3/48"/>
+        </TreeNode>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="C01B3/50 #氢或含氢气体从混合气体中的分离，如净化(C01B 3/14优先)[3]" Target="frmContent" Href="../searchservlet?query=C01B3/50&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B3/50">
+      <TreeNode Title="C01B3/52 ##用与液体接触法；所用液体的再生[3]" Target="frmContent" Href="../searchservlet?query=C01B3/52&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B3/52">
+        <TreeNode Title="C01B3/54 ###包含催化反应[3]" Target="frmContent" Href="../searchservlet?query=C01B3/54&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B3/54"/>
+      </TreeNode>
+      <TreeNode Title="C01B3/56 ##用固体接触法；所用固体的再生[3]" Target="frmContent" Href="../searchservlet?query=C01B3/56&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B3/56">
+        <TreeNode Title="C01B3/58 ###包含催化反应[3]" Target="frmContent" Href="../searchservlet?query=C01B3/58&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B3/58"/>
+      </TreeNode>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="C01B4/00 氢同位素；用同位素交换法制备氢同位素的无机化合物，例如NH3+D2→ NH2D+HD[2]" Target="frmContent" Href="../searchservlet?query=C01B4/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B4/00"/>
+  <TreeNode Title="C01B5/00 水" Target="frmContent" Href="../searchservlet?query=C01B5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B5/00">
+    <TreeNode Title="C01B5/02 #重水；用氢同位素或其化合物的化学反应制备，如4ND3+7O2→4NO2+6D2O，2D2+O2→2D2O" Target="frmContent" Href="../searchservlet?query=C01B5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B5/02"/>
+  </TreeNode>
+  <TreeNode Title="C01B6/00 金属氢化物；甲硼烷或乙硼烷；其加成配合物[2]" Target="frmContent" Href="../searchservlet?query=C01B6/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B6/00">
+    <TreeNode Title="C01B6/02 #过渡元素的氢化物；其加成配合物" Target="frmContent" Href="../searchservlet?query=C01B6/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B6/02"/>
+    <TreeNode Title="C01B6/04 #碱金属、碱土金属、铍或镁的氢化物；其加成配合物" Target="frmContent" Href="../searchservlet?query=C01B6/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B6/04"/>
+    <TreeNode Title="C01B6/06 #铝、镓、铟、铊、锗、锡、铅、砷、锑、铋或钋的氢化物；甲硼烷；乙硼烷；其加成配合物" Target="frmContent" Href="../searchservlet?query=C01B6/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B6/06">
+      <TreeNode Title="C01B6/10 ##甲硼烷；乙硼烷；其加成配合物[2]" Target="frmContent" Href="../searchservlet?query=C01B6/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B6/10">
+        <TreeNode Title="C01B6/11 ###用硼或含硼和氧的无机化合物制备[2]" Target="frmContent" Href="../searchservlet?query=C01B6/11&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B6/11"/>
+        <TreeNode Title="C01B6/13 ###甲硼烷或乙硼烷的加成配合物，如与膦、胂或肼的[2]" Target="frmContent" Href="../searchservlet?query=C01B6/13&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B6/13">
+          <TreeNode Title="C01B6/15 ####金属氢硼化物；其加成配合物[2]" Target="frmContent" Href="../searchservlet?query=C01B6/15&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B6/15">
+            <TreeNode Title="C01B6/17 #####用硼或含硼和氧的无机化合物制备[2]" Target="frmContent" Href="../searchservlet?query=C01B6/17&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B6/17"/>
+            <TreeNode Title="C01B6/19 #####用硼的其他化合物制备[2]" Target="frmContent" Href="../searchservlet?query=C01B6/19&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B6/19">
+              <TreeNode Title="C01B6/21 ######碱金属、碱土金属、镁或铍的氢硼化物的制备；其加成配合物，如LiBH4#2N2H4、 NaB2H7[2]" Target="frmContent" Href="../searchservlet?query=C01B6/21&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B6/21"/>
+              <TreeNode Title="C01B6/23 ######其他金属氢硼化物的制备，如硼氢化铝；其加成配合物，如Li［Al(BH4)3H］[2]" Target="frmContent" Href="../searchservlet?query=C01B6/23&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B6/23"/>
+            </TreeNode>
+          </TreeNode>
+        </TreeNode>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="C01B6/24 #含至少两种金属的氢化物，如Li(AlH4)；其加成配合物(C01B 6/13至C01B 6/23优先)[2]" Target="frmContent" Href="../searchservlet?query=C01B6/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B6/24">
+      <TreeNode Title="C01B6/26 ##用最高价的金属或用其氧化物或其含氧酸盐制备" Target="frmContent" Href="../searchservlet?query=C01B6/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B6/26"/>
+    </TreeNode>
+    <TreeNode Title="C01B6/34 #提纯；稳定" Target="frmContent" Href="../searchservlet?query=C01B6/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B6/34"/>
+  </TreeNode>
+  <TreeNode Title="C01B7/00 卤素；氢卤酸" Target="frmContent" Href="../searchservlet?query=C01B7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B7/00">
+    <TreeNode Title="C01B7/01 #氯；氯化氢[2]" Target="frmContent" Href="../searchservlet?query=C01B7/01&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B7/01">
+      <TreeNode Title="C01B7/03 ##用氯化物制备[2，3]" Target="frmContent" Href="../searchservlet?query=C01B7/03&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B7/03">
+        <TreeNode Title="C01B7/04 ###用氯化氢制备氯[3]" Target="frmContent" Href="../searchservlet?query=C01B7/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B7/04"/>
+        <TreeNode Title="C01B7/05 ###用氯化铵制备[2，3]" Target="frmContent" Href="../searchservlet?query=C01B7/05&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B7/05"/>
+      </TreeNode>
+      <TreeNode Title="C01B7/07 ##提纯[2，3]" Target="frmContent" Href="../searchservlet?query=C01B7/07&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B7/07">
+        <TreeNode Title="C01B7/075 ###液态氯的[2，3]" Target="frmContent" Href="../searchservlet?query=C01B7/075&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B7/075"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="C01B7/09 #溴；溴化氢[2]" Target="frmContent" Href="../searchservlet?query=C01B7/09&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B7/09"/>
+    <TreeNode Title="C01B7/13 #碘；碘化氢[2]" Target="frmContent" Href="../searchservlet?query=C01B7/13&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B7/13">
+      <TreeNode Title="C01B7/14 ##碘[2]" Target="frmContent" Href="../searchservlet?query=C01B7/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B7/14">
+        <TreeNode Title="C01B7/16 ###用海藻制备[2]" Target="frmContent" Href="../searchservlet?query=C01B7/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B7/16"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="C01B7/19 #氟；氟化氢[2]" Target="frmContent" Href="../searchservlet?query=C01B7/19&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B7/19">
+      <TreeNode Title="C01B7/20 ##氟[2]" Target="frmContent" Href="../searchservlet?query=C01B7/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B7/20"/>
+    </TreeNode>
+    <TreeNode Title="C01B7/24 #卤间化合物" Target="frmContent" Href="../searchservlet?query=C01B7/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B7/24"/>
+  </TreeNode>
+  <TreeNode Title="C01B9/00 制备卤化物的一般方法(个别特殊的卤化物，见按与卤素化合的元素分的C01B至C01G小类中有关各组；无机化合物的电解法制备入C25B)" Target="frmContent" Href="../searchservlet?query=C01B9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B9/00">
+    <TreeNode Title="C01B9/02 #氯化物" Target="frmContent" Href="../searchservlet?query=C01B9/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B9/02"/>
+    <TreeNode Title="C01B9/04 #溴化物" Target="frmContent" Href="../searchservlet?query=C01B9/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B9/04"/>
+    <TreeNode Title="C01B9/06 #碘化物" Target="frmContent" Href="../searchservlet?query=C01B9/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B9/06"/>
+    <TreeNode Title="C01B9/08 #氟化物" Target="frmContent" Href="../searchservlet?query=C01B9/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B9/08"/>
+  </TreeNode>
+  <TreeNode Title="C01B11/00 卤素的氧化物或含氧酸；其盐类" Target="frmContent" Href="../searchservlet?query=C01B11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B11/00">
+    <TreeNode Title="C01B11/02 #氯的氧化物" Target="frmContent" Href="../searchservlet?query=C01B11/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B11/02"/>
+    <TreeNode Title="C01B11/04 #次氯酸" Target="frmContent" Href="../searchservlet?query=C01B11/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B11/04">
+      <TreeNode Title="C01B11/06 ##次氯酸盐，如漂白粉" Target="frmContent" Href="../searchservlet?query=C01B11/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B11/06"/>
+    </TreeNode>
+    <TreeNode Title="C01B11/08 #亚氯酸" Target="frmContent" Href="../searchservlet?query=C01B11/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B11/08">
+      <TreeNode Title="C01B11/10 ##亚氯酸盐" Target="frmContent" Href="../searchservlet?query=C01B11/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B11/10"/>
+    </TreeNode>
+    <TreeNode Title="C01B11/12 #氯酸" Target="frmContent" Href="../searchservlet?query=C01B11/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B11/12">
+      <TreeNode Title="C01B11/14 ##氯酸盐" Target="frmContent" Href="../searchservlet?query=C01B11/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B11/14"/>
+    </TreeNode>
+    <TreeNode Title="C01B11/16 #高氯酸" Target="frmContent" Href="../searchservlet?query=C01B11/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B11/16">
+      <TreeNode Title="C01B11/18 ##高氯酸盐" Target="frmContent" Href="../searchservlet?query=C01B11/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B11/18"/>
+    </TreeNode>
+    <TreeNode Title="C01B11/20 #溴的氧化合物" Target="frmContent" Href="../searchservlet?query=C01B11/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B11/20"/>
+    <TreeNode Title="C01B11/22 #碘的氧化合物" Target="frmContent" Href="../searchservlet?query=C01B11/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B11/22"/>
+    <TreeNode Title="C01B11/24 #氟的氧化合物" Target="frmContent" Href="../searchservlet?query=C01B11/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B11/24"/>
+  </TreeNode>
+  <TreeNode Title="C01B13/00 氧；臭氧；一般氧化物或氢氧化物" Target="frmContent" Href="../searchservlet?query=C01B13/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B13/00">
+    <TreeNode Title="C01B13/02 #氧的制备(用液化法入F25J)" Target="frmContent" Href="../searchservlet?query=C01B13/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B13/02">
+      <TreeNode Title="C01B13/08 ##用空气借助金属氧化物，如氧化钡、氧化锰" Target="frmContent" Href="../searchservlet?query=C01B13/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B13/08"/>
+    </TreeNode>
+    <TreeNode Title="C01B13/10 #臭氧的制备" Target="frmContent" Href="../searchservlet?query=C01B13/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B13/10">
+      <TreeNode Title="C01B13/11 ##用放电法[2]" Target="frmContent" Href="../searchservlet?query=C01B13/11&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B13/11"/>
+    </TreeNode>
+    <TreeNode Title="C01B13/14 #制备一般氧化物或氢氧化物的方法(个别特殊氧化物或氢氧化物，见按与氧或羟基化合的元素分的C01B至C01G或C25B中有关各组)" Target="frmContent" Href="../searchservlet?query=C01B13/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B13/14">
+      <TreeNode Title="C01B13/16 ##提纯[3]" Target="frmContent" Href="../searchservlet?query=C01B13/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B13/16"/>
+      <TreeNode Title="C01B13/18 ##用化合物(如盐或氢氧化物)的热分解[3]" Target="frmContent" Href="../searchservlet?query=C01B13/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B13/18"/>
+      <TreeNode Title="C01B13/20 ##用气态单质的氧化；气态化合物的氧化或水解[3]" Target="frmContent" Href="../searchservlet?query=C01B13/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B13/20">
+        <TreeNode Title="C01B13/22 ###卤化物或卤氧化物的[3]" Target="frmContent" Href="../searchservlet?query=C01B13/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B13/22">
+          <TreeNode Title="C01B13/24 ####在热燃烧气存在下[3]" Target="frmContent" Href="../searchservlet?query=C01B13/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B13/24"/>
+          <TreeNode Title="C01B13/26 ####在流化床存在下[3]" Target="frmContent" Href="../searchservlet?query=C01B13/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B13/26"/>
+          <TreeNode Title="C01B13/28 ####使用等离子体或放电[3]" Target="frmContent" Href="../searchservlet?query=C01B13/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B13/28"/>
+          <TreeNode Title="C01B13/30 ####含悬浮物氧化物的去除和冷却[3]" Target="frmContent" Href="../searchservlet?query=C01B13/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B13/30"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="C01B13/32 ##用液态的或固态的单质或化合物的氧化或水解法[3]" Target="frmContent" Href="../searchservlet?query=C01B13/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B13/32"/>
+      <TreeNode Title="C01B13/34 ##用喷雾或雾化溶液的氧化或水解法 [3]" Target="frmContent" Href="../searchservlet?query=C01B13/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B13/34"/>
+      <TreeNode Title="C01B13/36 ##用溶液中的沉淀反应法[3]" Target="frmContent" Href="../searchservlet?query=C01B13/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B13/36"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="C01B15/00 过氧化物；过氧水合物；过氧酸或其盐；超氧化物；臭氧化物" Target="frmContent" Href="../searchservlet?query=C01B15/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B15/00">
+    <TreeNode Title="C01B15/01 #过氧化氢[3]" Target="frmContent" Href="../searchservlet?query=C01B15/01&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B15/01">
+      <TreeNode Title="C01B15/013 ##分离；纯化；浓缩[3]" Target="frmContent" Href="../searchservlet?query=C01B15/013&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B15/013">
+        <TreeNode Title="C01B15/017 ###无水过氧化氢；含有过氧化氢的无水溶液或气态混合物[3]" Target="frmContent" Href="../searchservlet?query=C01B15/017&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B15/017"/>
+      </TreeNode>
+      <TreeNode Title="C01B15/022 ##用有机化合物制备[2]" Target="frmContent" Href="../searchservlet?query=C01B15/022&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B15/022">
+        <TreeNode Title="C01B15/023 ###用烷基蒽醌方法[3]" Target="frmContent" Href="../searchservlet?query=C01B15/023&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B15/023"/>
+        <TreeNode Title="C01B15/024 ###用烃类[3]" Target="frmContent" Href="../searchservlet?query=C01B15/024&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B15/024"/>
+        <TreeNode Title="C01B15/026 ###用醇类[3]" Target="frmContent" Href="../searchservlet?query=C01B15/026&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B15/026"/>
+      </TreeNode>
+      <TreeNode Title="C01B15/027 ##用水制备[3]" Target="frmContent" Href="../searchservlet?query=C01B15/027&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B15/027"/>
+      <TreeNode Title="C01B15/029 ##用氢和氧制备[3]" Target="frmContent" Href="../searchservlet?query=C01B15/029&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B15/029"/>
+      <TreeNode Title="C01B15/03 ##用无机过氧化物制备，如用过硫酸盐[3]" Target="frmContent" Href="../searchservlet?query=C01B15/03&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B15/03">
+        <TreeNode Title="C01B15/032 ###用金属过氧化物[3]" Target="frmContent" Href="../searchservlet?query=C01B15/032&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B15/032"/>
+      </TreeNode>
+      <TreeNode Title="C01B15/037 ##用添加剂增强稳定性[3]" Target="frmContent" Href="../searchservlet?query=C01B15/037&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B15/037"/>
+    </TreeNode>
+    <TreeNode Title="C01B15/04 #金属过氧化物或其过氧化水合物；超氧化物；臭氧化物[3]" Target="frmContent" Href="../searchservlet?query=C01B15/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B15/04">
+      <TreeNode Title="C01B15/043 ##碱金属、碱土金属或镁的[2，3]" Target="frmContent" Href="../searchservlet?query=C01B15/043&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B15/043"/>
+      <TreeNode Title="C01B15/047 ##重金属的[2，3]" Target="frmContent" Href="../searchservlet?query=C01B15/047&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B15/047"/>
+    </TreeNode>
+    <TreeNode Title="C01B15/055 #过氧化水合物(C01B 15/04优先)；过氧酸或其盐[3]" Target="frmContent" Href="../searchservlet?query=C01B15/055&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B15/055">
+      <TreeNode Title="C01B15/06 ##含硫[3]" Target="frmContent" Href="../searchservlet?query=C01B15/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B15/06">
+        <TreeNode Title="C01B15/08 ###过硫酸盐[3]" Target="frmContent" Href="../searchservlet?query=C01B15/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B15/08"/>
+      </TreeNode>
+      <TreeNode Title="C01B15/10 ##含碳[3]" Target="frmContent" Href="../searchservlet?query=C01B15/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B15/10"/>
+      <TreeNode Title="C01B15/12 ##含硼[3]" Target="frmContent" Href="../searchservlet?query=C01B15/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B15/12"/>
+      <TreeNode Title="C01B15/14 ##含硅[3]" Target="frmContent" Href="../searchservlet?query=C01B15/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B15/14"/>
+      <TreeNode Title="C01B15/16 ##含磷[3]" Target="frmContent" Href="../searchservlet?query=C01B15/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B15/16"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="C01B17/00 硫；其化合物" Target="frmContent" Href="../searchservlet?query=C01B17/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B17/00">
+    <TreeNode Title="C01B17/02 #硫的制备；提纯" Target="frmContent" Href="../searchservlet?query=C01B17/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B17/02">
+      <TreeNode Title="C01B17/027 ##从含有单质硫的物料，如活性黄土中回收硫；提纯[3]" Target="frmContent" Href="../searchservlet?query=C01B17/027&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B17/027">
+        <TreeNode Title="C01B17/033 ###利用液体提取剂[3]" Target="frmContent" Href="../searchservlet?query=C01B17/033&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B17/033"/>
+      </TreeNode>
+      <TreeNode Title="C01B17/04 ##从包括气态硫化物的气态含硫化合物" Target="frmContent" Href="../searchservlet?query=C01B17/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B17/04">
+        <TreeNode Title="C01B17/05 ###用湿法[3]" Target="frmContent" Href="../searchservlet?query=C01B17/05&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B17/05"/>
+      </TreeNode>
+      <TreeNode Title="C01B17/06 ##从非气态硫化物或含有这种硫化物的物料，如矿石" Target="frmContent" Href="../searchservlet?query=C01B17/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B17/06"/>
+      <TreeNode Title="C01B17/10 ##细碎硫，如升华硫，硫华" Target="frmContent" Href="../searchservlet?query=C01B17/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B17/10"/>
+      <TreeNode Title="C01B17/12 ##不溶性硫(μ-硫)" Target="frmContent" Href="../searchservlet?query=C01B17/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B17/12"/>
+    </TreeNode>
+    <TreeNode Title="C01B17/16 #硫化氢" Target="frmContent" Href="../searchservlet?query=C01B17/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B17/16">
+      <TreeNode Title="C01B17/18 ##多硫化氢" Target="frmContent" Href="../searchservlet?query=C01B17/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B17/18"/>
+    </TreeNode>
+    <TreeNode Title="C01B17/20 #制备一般硫化物或多硫化物的方法(硫化铵或多硫化铵入C01C；除碱金属、镁、钙、锶和钡以外的金属硫化物或多硫化物，见按金属分入C01F或C01G中有关各组)" Target="frmContent" Href="../searchservlet?query=C01B17/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B17/20"/>
+    <TreeNode Title="C01B17/22 #碱金属的硫化物或多硫化物" Target="frmContent" Href="../searchservlet?query=C01B17/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B17/22">
+      <TreeNode Title="C01B17/24 ##用还原法制备" Target="frmContent" Href="../searchservlet?query=C01B17/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B17/24">
+        <TreeNode Title="C01B17/26 ###用碳" Target="frmContent" Href="../searchservlet?query=C01B17/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B17/26"/>
+        <TreeNode Title="C01B17/28 ###用还原气" Target="frmContent" Href="../searchservlet?query=C01B17/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B17/28"/>
+      </TreeNode>
+      <TreeNode Title="C01B17/30 ##用钠汞齐或钾汞齐与硫或硫化物制备" Target="frmContent" Href="../searchservlet?query=C01B17/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B17/30"/>
+      <TreeNode Title="C01B17/32 ##钠或钾的氢硫化物" Target="frmContent" Href="../searchservlet?query=C01B17/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B17/32"/>
+      <TreeNode Title="C01B17/34 ##钠或钾的多硫化物" Target="frmContent" Href="../searchservlet?query=C01B17/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B17/34"/>
+      <TreeNode Title="C01B17/36 ##提纯" Target="frmContent" Href="../searchservlet?query=C01B17/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B17/36"/>
+      <TreeNode Title="C01B17/38 ##脱水" Target="frmContent" Href="../searchservlet?query=C01B17/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B17/38"/>
+      <TreeNode Title="C01B17/40 ##制造成型产品，如颗粒" Target="frmContent" Href="../searchservlet?query=C01B17/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B17/40"/>
+    </TreeNode>
+    <TreeNode Title="C01B17/42 #镁、钙、锶或钡的硫化物或多硫化物" Target="frmContent" Href="../searchservlet?query=C01B17/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B17/42">
+      <TreeNode Title="C01B17/43 ##用氧化物或氢氧化物与硫或硫化氢" Target="frmContent" Href="../searchservlet?query=C01B17/43&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B17/43"/>
+      <TreeNode Title="C01B17/44 ##用硫酸盐还原法" Target="frmContent" Href="../searchservlet?query=C01B17/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B17/44"/>
+    </TreeNode>
+    <TreeNode Title="C01B17/45 #含氧或不含氧的硫和卤素的化合物" Target="frmContent" Href="../searchservlet?query=C01B17/45&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B17/45"/>
+    <TreeNode Title="C01B17/46 #含硫、卤素、氢和氧的化合物" Target="frmContent" Href="../searchservlet?query=C01B17/46&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B17/46"/>
+    <TreeNode Title="C01B17/48 #二氧化硫；亚硫酸" Target="frmContent" Href="../searchservlet?query=C01B17/48&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B17/48">
+      <TreeNode Title="C01B17/50 ##二氧化硫的制备" Target="frmContent" Href="../searchservlet?query=C01B17/50&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B17/50">
+        <TreeNode Title="C01B17/52 ###用硫化物焙烧法(C22B 1/00优先)" Target="frmContent" Href="../searchservlet?query=C01B17/52&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B17/52"/>
+        <TreeNode Title="C01B17/54 ###用单质硫燃烧法" Target="frmContent" Href="../searchservlet?query=C01B17/54&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B17/54"/>
+        <TreeNode Title="C01B17/56 ###分离；提纯" Target="frmContent" Href="../searchservlet?query=C01B17/56&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B17/56"/>
+        <TreeNode Title="C01B17/58 ###从酸焦油和类似物中二氧化硫的回收" Target="frmContent" Href="../searchservlet?query=C01B17/58&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B17/58"/>
+        <TreeNode Title="C01B17/60 ###煤气中二氧化硫的分离" Target="frmContent" Href="../searchservlet?query=C01B17/60&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B17/60"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="C01B17/62 #一般亚硫酸盐的制备方法(个别特殊的亚硫酸盐，见按其正离子分入C01B至C01G中有关各组)" Target="frmContent" Href="../searchservlet?query=C01B17/62&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B17/62"/>
+    <TreeNode Title="C01B17/64 #硫代硫酸盐；连二亚硫酸盐；连多硫酸盐" Target="frmContent" Href="../searchservlet?query=C01B17/64&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B17/64">
+      <TreeNode Title="C01B17/66 ##连二亚硫酸盐" Target="frmContent" Href="../searchservlet?query=C01B17/66&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B17/66"/>
+    </TreeNode>
+    <TreeNode Title="C01B17/69 #三氧化硫；硫酸[3]" Target="frmContent" Href="../searchservlet?query=C01B17/69&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B17/69">
+      <TreeNode Title="C01B17/70 ##γ-形三氧化硫的稳定" Target="frmContent" Href="../searchservlet?query=C01B17/70&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B17/70"/>
+      <TreeNode Title="C01B17/74 ##制备[3]" Target="frmContent" Href="../searchservlet?query=C01B17/74&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B17/74">
+        <TreeNode Title="C01B17/76 ###用接触法" Target="frmContent" Href="../searchservlet?query=C01B17/76&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B17/76">
+          <TreeNode Title="C01B17/765 ####三氧化硫多级转化[3]" Target="frmContent" Href="../searchservlet?query=C01B17/765&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B17/765"/>
+          <TreeNode Title="C01B17/77 ####流化床方法[3]" Target="frmContent" Href="../searchservlet?query=C01B17/77&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B17/77"/>
+          <TreeNode Title="C01B17/775 ####液相接触方法或湿催化方法[3]" Target="frmContent" Href="../searchservlet?query=C01B17/775&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B17/775"/>
+          <TreeNode Title="C01B17/78 ####以所用催化剂为特征的" Target="frmContent" Href="../searchservlet?query=C01B17/78&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B17/78">
+            <TreeNode Title="C01B17/79 #####含钒[3]" Target="frmContent" Href="../searchservlet?query=C01B17/79&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B17/79"/>
+          </TreeNode>
+          <TreeNode Title="C01B17/80 ####装置" Target="frmContent" Href="../searchservlet?query=C01B17/80&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B17/80"/>
+        </TreeNode>
+        <TreeNode Title="C01B17/82 ###使用氧化氮法的硫酸的" Target="frmContent" Href="../searchservlet?query=C01B17/82&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B17/82">
+          <TreeNode Title="C01B17/84 ####铅室法" Target="frmContent" Href="../searchservlet?query=C01B17/84&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B17/84"/>
+          <TreeNode Title="C01B17/86 ####塔式法" Target="frmContent" Href="../searchservlet?query=C01B17/86&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B17/86"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="C01B17/88 ##硫酸的浓缩" Target="frmContent" Href="../searchservlet?query=C01B17/88&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B17/88"/>
+      <TreeNode Title="C01B17/90 ##分离；纯化" Target="frmContent" Href="../searchservlet?query=C01B17/90&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B17/90">
+        <TreeNode Title="C01B17/92 ###从酸焦油和类似物中回收" Target="frmContent" Href="../searchservlet?query=C01B17/92&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B17/92"/>
+        <TreeNode Title="C01B17/94 ###从硝化酸中回收" Target="frmContent" Href="../searchservlet?query=C01B17/94&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B17/94"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="C01B17/96 #一般硫酸盐的制备方法(个别特殊的硫酸盐，见其按正离子分的C01B至C01G中有关各组)" Target="frmContent" Href="../searchservlet?query=C01B17/96&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B17/96"/>
+    <TreeNode Title="C01B17/98 #含硫和氧的其他化合物(过硫酸入C01B 15/06；过硫酸盐入C01B 15/08)" Target="frmContent" Href="../searchservlet?query=C01B17/98&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B17/98"/>
+  </TreeNode>
+  <TreeNode Title="C01B19/00 硒；碲；其化合物" Target="frmContent" Href="../searchservlet?query=C01B19/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B19/00">
+    <TreeNode Title="C01B19/02 #元素硒或碲[3]" Target="frmContent" Href="../searchservlet?query=C01B19/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B19/02"/>
+    <TreeNode Title="C01B19/04 #二元化合物[3]" Target="frmContent" Href="../searchservlet?query=C01B19/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B19/04"/>
+  </TreeNode>
+  <TreeNode Title="C01B21/00 氮；其化合物" Target="frmContent" Href="../searchservlet?query=C01B21/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B21/00">
+    <TreeNode Title="C01B21/02 #氮的制备(通过氨分解入C01B 3/04)" Target="frmContent" Href="../searchservlet?query=C01B21/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B21/02"/>
+    <TreeNode Title="C01B21/04 #氮的净化或分离(用液化法入F25J)" Target="frmContent" Href="../searchservlet?query=C01B21/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B21/04"/>
+    <TreeNode Title="C01B21/06 #氮与金属、硅或硼的二元化合物" Target="frmContent" Href="../searchservlet?query=C01B21/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B21/06">
+      <TreeNode Title="C01B21/064 ##与硼[3]" Target="frmContent" Href="../searchservlet?query=C01B21/064&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B21/064"/>
+      <TreeNode Title="C01B21/068 ##与硅[3]" Target="frmContent" Href="../searchservlet?query=C01B21/068&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B21/068"/>
+      <TreeNode Title="C01B21/072 ##与铝[3]" Target="frmContent" Href="../searchservlet?query=C01B21/072&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B21/072"/>
+      <TreeNode Title="C01B21/076 ##与钛或锆[3]" Target="frmContent" Href="../searchservlet?query=C01B21/076&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B21/076"/>
+    </TreeNode>
+    <TreeNode Title="C01B21/08 #叠氮酸；叠氮化物；叠氮化卤" Target="frmContent" Href="../searchservlet?query=C01B21/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B21/08"/>
+    <TreeNode Title="C01B21/082 #含氮和非金属的化合物(C01B 21/06、C01B 21/08优先)[3]" Target="frmContent" Href="../searchservlet?query=C01B21/082&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B21/082">
+      <TreeNode Title="C01B21/083 ##含有1个或多个卤素原子[3]" Target="frmContent" Href="../searchservlet?query=C01B21/083&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B21/083">
+        <TreeNode Title="C01B21/084 ###也含有1个或多个氧原子，如亚硝酰卤化物[3]" Target="frmContent" Href="../searchservlet?query=C01B21/084&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B21/084"/>
+      </TreeNode>
+      <TreeNode Title="C01B21/086 ##含有1个或多个硫原子[3]" Target="frmContent" Href="../searchservlet?query=C01B21/086&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B21/086"/>
+      <TreeNode Title="C01B21/087 ##含有1个或多个氢原子[3]" Target="frmContent" Href="../searchservlet?query=C01B21/087&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B21/087">
+        <TreeNode Title="C01B21/088 ###也含有1个或多个卤原子[3]" Target="frmContent" Href="../searchservlet?query=C01B21/088&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B21/088">
+          <TreeNode Title="C01B21/09 ####卤化胺，如氯胺[3]" Target="frmContent" Href="../searchservlet?query=C01B21/09&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B21/09"/>
+        </TreeNode>
+        <TreeNode Title="C01B21/092 ###也含有1个或多个金属原子[3]" Target="frmContent" Href="../searchservlet?query=C01B21/092&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B21/092"/>
+        <TreeNode Title="C01B21/093 ###也含有1个或多个硫原子[3]" Target="frmContent" Href="../searchservlet?query=C01B21/093&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B21/093">
+          <TreeNode Title="C01B21/094 ####含有酸的亚硝酰的[3]" Target="frmContent" Href="../searchservlet?query=C01B21/094&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B21/094"/>
+          <TreeNode Title="C01B21/096 ####氨基磺酸；其盐类[3]" Target="frmContent" Href="../searchservlet?query=C01B21/096&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B21/096"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="C01B21/097 ##含有磷原子[3]" Target="frmContent" Href="../searchservlet?query=C01B21/097&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B21/097">
+        <TreeNode Title="C01B21/098 ###二氧磷基腈的二卤化物；其聚合物[3]" Target="frmContent" Href="../searchservlet?query=C01B21/098&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B21/098"/>
+      </TreeNode>
+      <TreeNode Title="C01B21/12 ##氨基甲酸；其盐类" Target="frmContent" Href="../searchservlet?query=C01B21/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B21/12"/>
+      <TreeNode Title="C01B21/14 ##羟胺；其盐类" Target="frmContent" Href="../searchservlet?query=C01B21/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B21/14"/>
+      <TreeNode Title="C01B21/16 ##肼；其盐类" Target="frmContent" Href="../searchservlet?query=C01B21/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B21/16"/>
+    </TreeNode>
+    <TreeNode Title="C01B21/20 #氮的氧化物；氮的含氧酸；其盐类" Target="frmContent" Href="../searchservlet?query=C01B21/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B21/20">
+      <TreeNode Title="C01B21/22 ##一氧化二氮(N2O)" Target="frmContent" Href="../searchservlet?query=C01B21/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B21/22"/>
+      <TreeNode Title="C01B21/24 ##氧化一氮(NO)" Target="frmContent" Href="../searchservlet?query=C01B21/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B21/24">
+        <TreeNode Title="C01B21/26 ###用氨的催化氧化法制备" Target="frmContent" Href="../searchservlet?query=C01B21/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B21/26">
+          <TreeNode Title="C01B21/28 ####装置" Target="frmContent" Href="../searchservlet?query=C01B21/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B21/28"/>
+        </TreeNode>
+        <TreeNode Title="C01B21/30 ###用氮的氧化法制备" Target="frmContent" Href="../searchservlet?query=C01B21/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B21/30">
+          <TreeNode Title="C01B21/32 ####装置" Target="frmContent" Href="../searchservlet?query=C01B21/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B21/32"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="C01B21/34 ##三氧化二氮(N2O3)" Target="frmContent" Href="../searchservlet?query=C01B21/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B21/34"/>
+      <TreeNode Title="C01B21/36 ##二氧化氮(NO2、N2O4)(C01B 21/26、C01B 21/30优先)" Target="frmContent" Href="../searchservlet?query=C01B21/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B21/36"/>
+      <TreeNode Title="C01B21/38 ##硝酸" Target="frmContent" Href="../searchservlet?query=C01B21/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B21/38">
+        <TreeNode Title="C01B21/40 ###用氮的氧化物吸收法制备" Target="frmContent" Href="../searchservlet?query=C01B21/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B21/40"/>
+        <TreeNode Title="C01B21/42 ###用硝酸盐制备" Target="frmContent" Href="../searchservlet?query=C01B21/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B21/42"/>
+        <TreeNode Title="C01B21/44 ###浓缩" Target="frmContent" Href="../searchservlet?query=C01B21/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B21/44"/>
+        <TreeNode Title="C01B21/46 ###提纯；分离" Target="frmContent" Href="../searchservlet?query=C01B21/46&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B21/46"/>
+      </TreeNode>
+      <TreeNode Title="C01B21/48 ##一般硝酸盐的制备方法(个别特殊的硝酸盐，见按其正离子分的C01B至C01G中有关各组)" Target="frmContent" Href="../searchservlet?query=C01B21/48&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B21/48"/>
+      <TreeNode Title="C01B21/50 ##亚硝酸；其盐类" Target="frmContent" Href="../searchservlet?query=C01B21/50&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B21/50"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="C01B23/00 惰性气体；其化合物(液化入F25J)" Target="frmContent" Href="../searchservlet?query=C01B23/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B23/00"/>
+  <TreeNode Title="C01B25/00 磷；其化合物(C01B 21/00、C01B 23/00优先；过磷酸盐入C01B 15/16)[3]" Target="frmContent" Href="../searchservlet?query=C01B25/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B25/00">
+    <TreeNode Title="C01B25/01 #处理磷酸盐矿或其他含磷酸盐物料，以制备磷或磷的化合物[2]" Target="frmContent" Href="../searchservlet?query=C01B25/01&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B25/01"/>
+    <TreeNode Title="C01B25/02 #磷的制备" Target="frmContent" Href="../searchservlet?query=C01B25/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B25/02">
+      <TreeNode Title="C01B25/023 ##红磷的[2]" Target="frmContent" Href="../searchservlet?query=C01B25/023&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B25/023"/>
+      <TreeNode Title="C01B25/027 ##黄磷的[2]" Target="frmContent" Href="../searchservlet?query=C01B25/027&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B25/027"/>
+    </TreeNode>
+    <TreeNode Title="C01B25/04 #磷的纯化" Target="frmContent" Href="../searchservlet?query=C01B25/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B25/04">
+      <TreeNode Title="C01B25/043 ##红磷的[2]" Target="frmContent" Href="../searchservlet?query=C01B25/043&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B25/043"/>
+      <TreeNode Title="C01B25/047 ##黄磷的[2]" Target="frmContent" Href="../searchservlet?query=C01B25/047&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B25/047"/>
+    </TreeNode>
+    <TreeNode Title="C01B25/06 #磷化氢" Target="frmContent" Href="../searchservlet?query=C01B25/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B25/06"/>
+    <TreeNode Title="C01B25/08 #其他磷化物" Target="frmContent" Href="../searchservlet?query=C01B25/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B25/08"/>
+    <TreeNode Title="C01B25/10 #磷的卤化物或卤氧化物[2]" Target="frmContent" Href="../searchservlet?query=C01B25/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B25/10"/>
+    <TreeNode Title="C01B25/12 #磷的氧化物" Target="frmContent" Href="../searchservlet?query=C01B25/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B25/12"/>
+    <TreeNode Title="C01B25/14 #含硫、硒或碲的磷化合物" Target="frmContent" Href="../searchservlet?query=C01B25/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B25/14"/>
+    <TreeNode Title="C01B25/16 #磷的含氧酸；其盐类(过氧酸或其盐入C01B 15/00)" Target="frmContent" Href="../searchservlet?query=C01B25/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B25/16">
+      <TreeNode Title="C01B25/163 ##亚磷酸；其盐类[2]" Target="frmContent" Href="../searchservlet?query=C01B25/163&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B25/163"/>
+      <TreeNode Title="C01B25/165 ##次磷酸；其盐类[2]" Target="frmContent" Href="../searchservlet?query=C01B25/165&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B25/165"/>
+      <TreeNode Title="C01B25/168 ##焦亚磷酸；其盐类[2]" Target="frmContent" Href="../searchservlet?query=C01B25/168&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B25/168"/>
+      <TreeNode Title="C01B25/18 ##磷酸" Target="frmContent" Href="../searchservlet?query=C01B25/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B25/18">
+        <TreeNode Title="C01B25/20 ###由单质磷或磷酐制备" Target="frmContent" Href="../searchservlet?query=C01B25/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B25/20"/>
+        <TreeNode Title="C01B25/22 ###用含磷酸盐物料与酸反应制备，如湿法" Target="frmContent" Href="../searchservlet?query=C01B25/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B25/22">
+          <TreeNode Title="C01B25/222 ####与硫酸，以硫酸为主要成分的酸的混合物或反应中形成它的化合物混合物，如二氧化硫，水和氧的混合物[3]" Target="frmContent" Href="../searchservlet?query=C01B25/222&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B25/222">
+            <TreeNode Title="C01B25/223 #####只形成一种形式的硫酸钙[3]" Target="frmContent" Href="../searchservlet?query=C01B25/223&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B25/223">
+              <TreeNode Title="C01B25/225 ######二水合物法[3]" Target="frmContent" Href="../searchservlet?query=C01B25/225&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B25/225"/>
+              <TreeNode Title="C01B25/226 ######半水合物法[3]" Target="frmContent" Href="../searchservlet?query=C01B25/226&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B25/226"/>
+            </TreeNode>
+            <TreeNode Title="C01B25/228 #####形成一种形式的硫酸钙然后转变成另一种形式[3]" Target="frmContent" Href="../searchservlet?query=C01B25/228&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B25/228">
+              <TreeNode Title="C01B25/229 ######半水合物-二水合物法[3]" Target="frmContent" Href="../searchservlet?query=C01B25/229&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B25/229"/>
+              <TreeNode Title="C01B25/231 ######二水合物-半水合物法[3]" Target="frmContent" Href="../searchservlet?query=C01B25/231&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B25/231"/>
+            </TreeNode>
+            <TreeNode Title="C01B25/232 #####用含磷酸盐的物料与浓硫酸反应然后浸提所获得的块状物来制备，如熔块法[3]" Target="frmContent" Href="../searchservlet?query=C01B25/232&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B25/232"/>
+          </TreeNode>
+        </TreeNode>
+        <TreeNode Title="C01B25/234 ###提纯；稳定；浓缩 (伴随制备的提纯入C01B 25/22；涉及溶剂-溶剂萃取的制备入C01B 25/46)[3]" Target="frmContent" Href="../searchservlet?query=C01B25/234&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B25/234">
+          <TreeNode Title="C01B25/235 ####澄清；稳定以防止溶解杂质的继续沉淀[3]" Target="frmContent" Href="../searchservlet?query=C01B25/235&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B25/235"/>
+          <TreeNode Title="C01B25/237 ####杂质的选择性消除[3]" Target="frmContent" Href="../searchservlet?query=C01B25/237&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B25/237">
+            <TreeNode Title="C01B25/238 #####阳离子的杂质[3]" Target="frmContent" Href="../searchservlet?query=C01B25/238&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B25/238"/>
+          </TreeNode>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="C01B25/24 ##缩合磷酸" Target="frmContent" Href="../searchservlet?query=C01B25/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B25/24"/>
+      <TreeNode Title="C01B25/26 ##磷酸盐(过磷酸盐入C01B 15/16)" Target="frmContent" Href="../searchservlet?query=C01B25/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B25/26">
+        <TreeNode Title="C01B25/28 ###磷酸铵" Target="frmContent" Href="../searchservlet?query=C01B25/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B25/28"/>
+        <TreeNode Title="C01B25/30 ###碱金属磷酸盐" Target="frmContent" Href="../searchservlet?query=C01B25/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B25/30"/>
+        <TreeNode Title="C01B25/32 ###镁、钙、锶或钡的磷酸盐" Target="frmContent" Href="../searchservlet?query=C01B25/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B25/32">
+          <TreeNode Title="C01B25/34 ####磷酸镁" Target="frmContent" Href="../searchservlet?query=C01B25/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B25/34"/>
+        </TreeNode>
+        <TreeNode Title="C01B25/36 ###磷酸铝" Target="frmContent" Href="../searchservlet?query=C01B25/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B25/36"/>
+        <TreeNode Title="C01B25/37 ###重金属磷酸盐[2]" Target="frmContent" Href="../searchservlet?query=C01B25/37&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B25/37"/>
+        <TreeNode Title="C01B25/38 ###缩合磷酸盐" Target="frmContent" Href="../searchservlet?query=C01B25/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B25/38">
+          <TreeNode Title="C01B25/39 ####碱金属的[3]" Target="frmContent" Href="../searchservlet?query=C01B25/39&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B25/39"/>
+          <TreeNode Title="C01B25/40 ####多磷酸盐[2]" Target="frmContent" Href="../searchservlet?query=C01B25/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B25/40">
+            <TreeNode Title="C01B25/41 #####碱金属的[3]" Target="frmContent" Href="../searchservlet?query=C01B25/41&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B25/41"/>
+          </TreeNode>
+          <TreeNode Title="C01B25/42 ####焦磷酸盐[2]" Target="frmContent" Href="../searchservlet?query=C01B25/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B25/42"/>
+          <TreeNode Title="C01B25/44 ####偏磷酸盐[2]" Target="frmContent" Href="../searchservlet?query=C01B25/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B25/44">
+            <TreeNode Title="C01B25/445 #####碱金属的[3]" Target="frmContent" Href="../searchservlet?query=C01B25/445&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B25/445"/>
+          </TreeNode>
+        </TreeNode>
+        <TreeNode Title="C01B25/45 ###含两种以上金属或金属和铵[3]" Target="frmContent" Href="../searchservlet?query=C01B25/45&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B25/45"/>
+        <TreeNode Title="C01B25/455 ###含卤素[3]" Target="frmContent" Href="../searchservlet?query=C01B25/455&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B25/455"/>
+      </TreeNode>
+      <TreeNode Title="C01B25/46 ##涉及溶剂-溶剂萃取的制备[2]" Target="frmContent" Href="../searchservlet?query=C01B25/46&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B25/46"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="C01B31/00 碳；其化合物(C01B 21/00、C01B 23/00优先；过碳酸盐入C01B 15/10；碳黑入C09C 1/48)[3]" Target="frmContent" Href="../searchservlet?query=C01B31/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B31/00">
+    <TreeNode Title="C01B31/02 #碳的制备(使用超高压，如用于金刚石的生成入B01J3/06；用晶体生长法入C30B)；纯化" Target="frmContent" Href="../searchservlet?query=C01B31/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B31/02">
+      <TreeNode Title="C01B31/04 ##石墨" Target="frmContent" Href="../searchservlet?query=C01B31/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B31/04"/>
+      <TreeNode Title="C01B31/06 ##金刚石" Target="frmContent" Href="../searchservlet?query=C01B31/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B31/06"/>
+    </TreeNode>
+    <TreeNode Title="C01B31/08 #活性炭" Target="frmContent" Href="../searchservlet?query=C01B31/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B31/08">
+      <TreeNode Title="C01B31/10 ##使用气态活化剂制备" Target="frmContent" Href="../searchservlet?query=C01B31/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B31/10"/>
+      <TreeNode Title="C01B31/12 ##使用非气态活化剂制备" Target="frmContent" Href="../searchservlet?query=C01B31/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B31/12"/>
+      <TreeNode Title="C01B31/14 ##造粒" Target="frmContent" Href="../searchservlet?query=C01B31/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B31/14"/>
+    </TreeNode>
+    <TreeNode Title="C01B31/16 #由碳质物料制备离子交换材料" Target="frmContent" Href="../searchservlet?query=C01B31/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B31/16"/>
+    <TreeNode Title="C01B31/18 #一氧化碳" Target="frmContent" Href="../searchservlet?query=C01B31/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B31/18"/>
+    <TreeNode Title="C01B31/20 #二氧化碳" Target="frmContent" Href="../searchservlet?query=C01B31/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B31/20">
+      <TreeNode Title="C01B31/22 ##固化" Target="frmContent" Href="../searchservlet?query=C01B31/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B31/22"/>
+    </TreeNode>
+    <TreeNode Title="C01B31/24 #一般碳酸盐或酸式碳酸盐的制备方法(过碳酸盐入C01B 15/10；个别特殊碳酸盐，见按其正离子分入的C01B至C01G中有关各组)" Target="frmContent" Href="../searchservlet?query=C01B31/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B31/24"/>
+    <TreeNode Title="C01B31/26 #含碳和硫的化合物，如二硫化碳、氧硫化碳；硫光气" Target="frmContent" Href="../searchservlet?query=C01B31/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B31/26"/>
+    <TreeNode Title="C01B31/28 #光气" Target="frmContent" Href="../searchservlet?query=C01B31/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B31/28"/>
+    <TreeNode Title="C01B31/30 #碳化物" Target="frmContent" Href="../searchservlet?query=C01B31/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B31/30">
+      <TreeNode Title="C01B31/32 ##碳化钙" Target="frmContent" Href="../searchservlet?query=C01B31/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B31/32"/>
+      <TreeNode Title="C01B31/34 ##钨或钼的碳化物" Target="frmContent" Href="../searchservlet?query=C01B31/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B31/34"/>
+      <TreeNode Title="C01B31/36 ##硅或硼的碳化物" Target="frmContent" Href="../searchservlet?query=C01B31/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B31/36"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="C01B33/00 硅；其化合物(C01B 21/00、C01B 23/00优先；过硅酸盐入C01B 15/14；碳化物入C01B 31/36)[3]" Target="frmContent" Href="../searchservlet?query=C01B33/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B33/00">
+    <TreeNode Title="C01B33/02 #硅(形成单晶或有一定结构的均匀多晶材料入C30B)[5]" Target="frmContent" Href="../searchservlet?query=C01B33/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B33/02">
+      <TreeNode Title="C01B33/021 ##制备(由气相的化学涂层入C23C 16/00)[5]" Target="frmContent" Href="../searchservlet?query=C01B33/021&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B33/021">
+        <TreeNode Title="C01B33/023 ###用二氧化硅或含二氧化硅的物料的还原方法[5]" Target="frmContent" Href="../searchservlet?query=C01B33/023&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B33/023">
+          <TreeNode Title="C01B33/025 ####使用碳或固体碳质物料，即碳热还原工艺[5]" Target="frmContent" Href="../searchservlet?query=C01B33/025&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B33/025"/>
+        </TreeNode>
+        <TreeNode Title="C01B33/027 ###使用除二氧化硅或含二氧化硅物料以外的气态或汽化的硅化合物的分解或还原[5]" Target="frmContent" Href="../searchservlet?query=C01B33/027&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B33/027">
+          <TreeNode Title="C01B33/029 ####使用甲硅烷的分解[5]" Target="frmContent" Href="../searchservlet?query=C01B33/029&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B33/029"/>
+          <TreeNode Title="C01B33/03 ####使用卤化硅或卤化硅烷的分解，或其以氢作为惟一的还原剂的还原[5]" Target="frmContent" Href="../searchservlet?query=C01B33/03&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B33/03">
+            <TreeNode Title="C01B33/031 #####使用四碘化硅的分解[5]" Target="frmContent" Href="../searchservlet?query=C01B33/031&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B33/031"/>
+          </TreeNode>
+          <TreeNode Title="C01B33/033 ####使用金属或金属合金作为惟一还原剂的卤化硅或卤代硅烷的还原[5]" Target="frmContent" Href="../searchservlet?query=C01B33/033&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B33/033"/>
+          <TreeNode Title="C01B33/035 ####在存在硅、碳或耐熔金属(如钽或钨)的热丝情况下，或在存在热硅棒［通过沉积硅，如西门子法(siemens process)获得硅棒］情况下，用气态或汽化的硅化合物的分解或还原[5]" Target="frmContent" Href="../searchservlet?query=C01B33/035&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B33/035"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="C01B33/037 ##纯化(用区域熔融入C30B 13/00)[5]" Target="frmContent" Href="../searchservlet?query=C01B33/037&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B33/037">
+        <TreeNode Title="C01B33/039 ###使用将硅转化为化合物、任意法纯化化合物并再转化为硅[5]" Target="frmContent" Href="../searchservlet?query=C01B33/039&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B33/039"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="C01B33/04 #硅的氢化物" Target="frmContent" Href="../searchservlet?query=C01B33/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B33/04"/>
+    <TreeNode Title="C01B33/06 #金属的硅化物" Target="frmContent" Href="../searchservlet?query=C01B33/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B33/06"/>
+    <TreeNode Title="C01B33/08 #含卤素的化合物" Target="frmContent" Href="../searchservlet?query=C01B33/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B33/08">
+      <TreeNode Title="C01B33/10 ##含硅、氟和其他元素的化合物" Target="frmContent" Href="../searchservlet?query=C01B33/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B33/10"/>
+      <TreeNode Title="C01B33/107 ##卤化硅烷[3]" Target="frmContent" Href="../searchservlet?query=C01B33/107&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B33/107"/>
+    </TreeNode>
+    <TreeNode Title="C01B33/113 #氧化硅；其水合物[3]" Target="frmContent" Href="../searchservlet?query=C01B33/113&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B33/113">
+      <TreeNode Title="C01B33/12 ##硅石；其水合物，如勒皮硅酸[3]" Target="frmContent" Href="../searchservlet?query=C01B33/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B33/12">
+        <TreeNode Title="C01B33/14 ###胶体硅石，如分散体、凝胶、溶胶[3]" Target="frmContent" Href="../searchservlet?query=C01B33/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B33/14">
+          <TreeNode Title="C01B33/141 ####水溶胶或水分散体的制备[3]" Target="frmContent" Href="../searchservlet?query=C01B33/141&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B33/141">
+            <TreeNode Title="C01B33/142 #####用硅酸盐的酸处理法[3]" Target="frmContent" Href="../searchservlet?query=C01B33/142&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B33/142">
+              <TreeNode Title="C01B33/143 ######硅酸盐水溶液的[3]" Target="frmContent" Href="../searchservlet?query=C01B33/143&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B33/143"/>
+            </TreeNode>
+          </TreeNode>
+          <TreeNode Title="C01B33/145 ####水有机溶胶，有机溶胶或有机介质中分散体的制备[3]" Target="frmContent" Href="../searchservlet?query=C01B33/145&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B33/145"/>
+          <TreeNode Title="C01B33/146 ####溶胶的后处理(从水溶胶制备水有机溶胶、有机溶胶或有机介质中的分散体入C01B 33/145)[3]" Target="frmContent" Href="../searchservlet?query=C01B33/146&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B33/146">
+            <TreeNode Title="C01B33/148 #####浓缩；干燥；脱水；稳定；提纯[3]" Target="frmContent" Href="../searchservlet?query=C01B33/148&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B33/148"/>
+            <TreeNode Title="C01B33/149 #####涂覆[3]" Target="frmContent" Href="../searchservlet?query=C01B33/149&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B33/149"/>
+            <TreeNode Title="C01B33/151 #####用逐步将一种溶胶添加到另一种溶胶中，即用1个“起始物种”使粒子“积累”起来[3]" Target="frmContent" Href="../searchservlet?query=C01B33/151&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B33/151"/>
+          </TreeNode>
+          <TreeNode Title="C01B33/152 ####水凝胶的制备[3]" Target="frmContent" Href="../searchservlet?query=C01B33/152&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B33/152">
+            <TreeNode Title="C01B33/154 #####用硅酸盐水溶液的酸处理法[3]" Target="frmContent" Href="../searchservlet?query=C01B33/154&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B33/154"/>
+          </TreeNode>
+          <TreeNode Title="C01B33/155 ####水有机凝胶或有机凝胶的制备[3]" Target="frmContent" Href="../searchservlet?query=C01B33/155&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B33/155"/>
+          <TreeNode Title="C01B33/157 ####凝胶的后处理[3]" Target="frmContent" Href="../searchservlet?query=C01B33/157&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B33/157">
+            <TreeNode Title="C01B33/158 #####提纯；干燥； 脱水[3]" Target="frmContent" Href="../searchservlet?query=C01B33/158&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B33/158"/>
+            <TreeNode Title="C01B33/159 #####涂覆或憎水化[3]" Target="frmContent" Href="../searchservlet?query=C01B33/159&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B33/159"/>
+          </TreeNode>
+        </TreeNode>
+        <TreeNode Title="C01B33/16 ###硅干凝胶的制备[3]" Target="frmContent" Href="../searchservlet?query=C01B33/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B33/16"/>
+        <TreeNode Title="C01B33/18 ###既非溶胶态又非凝胶态的细分散硅石的制备；其后处理(提高着色或填充性质的处理入C09C)[3]" Target="frmContent" Href="../searchservlet?query=C01B33/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B33/18">
+          <TreeNode Title="C01B33/187 ####硅酸盐的酸处理法[3]" Target="frmContent" Href="../searchservlet?query=C01B33/187&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B33/187">
+            <TreeNode Title="C01B33/193 #####硅酸盐水溶液的[3]" Target="frmContent" Href="../searchservlet?query=C01B33/193&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B33/193"/>
+          </TreeNode>
+        </TreeNode>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="C01B33/20 #硅酸盐(过硅酸盐入C01B 15/14)" Target="frmContent" Href="../searchservlet?query=C01B33/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B33/20">
+      <TreeNode Title="C01B33/22 ##硅酸镁" Target="frmContent" Href="../searchservlet?query=C01B33/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B33/22"/>
+      <TreeNode Title="C01B33/24 ##碱土金属的硅酸盐" Target="frmContent" Href="../searchservlet?query=C01B33/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B33/24"/>
+      <TreeNode Title="C01B33/26 ##含铝的硅酸盐[5]" Target="frmContent" Href="../searchservlet?query=C01B33/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B33/26"/>
+      <TreeNode Title="C01B33/32 ##碱金属硅酸盐(C01B 33/26优先)[3]" Target="frmContent" Href="../searchservlet?query=C01B33/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B33/32"/>
+      <TreeNode Title="C01B33/36 ##具有碱交换特性而不具有分子筛特性[6]" Target="frmContent" Href="../searchservlet?query=C01B33/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B33/36">
+        <TreeNode Title="C01B33/38 ###层状碱交换硅酸盐，如黏土、云母类或水羟硅钠石或麦羟硅钠石类的碱金属硅酸盐[6]" Target="frmContent" Href="../searchservlet?query=C01B33/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B33/38">
+          <TreeNode Title="C01B33/40 ####黏土类[6]" Target="frmContent" Href="../searchservlet?query=C01B33/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B33/40"/>
+          <TreeNode Title="C01B33/42 ####云母类[6]" Target="frmContent" Href="../searchservlet?query=C01B33/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B33/42"/>
+          <TreeNode Title="C01B33/44 ####通过与有机化合物如铵、磷或硫化合物离子交换或通过有机化合物，如有机土材料嵌入，由层状碱-交换硅酸盐得到的产物[6]" Target="frmContent" Href="../searchservlet?query=C01B33/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B33/44"/>
+        </TreeNode>
+        <TreeNode Title="C01B33/46 ###非晶形硅酸盐，如所谓的“非晶形沸石”[6]" Target="frmContent" Href="../searchservlet?query=C01B33/46&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B33/46"/>
+      </TreeNode>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="C01B35/00 硼；其化合物(甲硼烷、乙硼烷、金属硼氢化物或其加成配合物入C01B 6/00；过硼酸盐入C01B 15/12；含氮的二元化合物入C01B 21/06；磷化物入C01B 25/08；碳化物入C01B 31/36)[2]" Target="frmContent" Href="../searchservlet?query=C01B35/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B35/00">
+    <TreeNode Title="C01B35/02 #硼；硼化物[2]" Target="frmContent" Href="../searchservlet?query=C01B35/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B35/02">
+      <TreeNode Title="C01B35/04 ##金属硼化物[2]" Target="frmContent" Href="../searchservlet?query=C01B35/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B35/04"/>
+    </TreeNode>
+    <TreeNode Title="C01B35/06 #硼卤化合物[2]" Target="frmContent" Href="../searchservlet?query=C01B35/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B35/06"/>
+    <TreeNode Title="C01B35/08 #含硼和氮、磷、氧、硫、硒或碲的化合物[2]" Target="frmContent" Href="../searchservlet?query=C01B35/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B35/08">
+      <TreeNode Title="C01B35/10 ##含硼和氧的化合物(C01B 35/06优先)[2]" Target="frmContent" Href="../searchservlet?query=C01B35/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B35/10">
+        <TreeNode Title="C01B35/12 ###硼酸盐[2]" Target="frmContent" Href="../searchservlet?query=C01B35/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B35/12"/>
+      </TreeNode>
+      <TreeNode Title="C01B35/14 ##含硼和氮、磷、硫、硒或碲的化合物[2]" Target="frmContent" Href="../searchservlet?query=C01B35/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B35/14"/>
+    </TreeNode>
+    <TreeNode Title="C01B35/16 #含两个硼原子直接键合的化合物，如Cl2B-BCl2[2]" Target="frmContent" Href="../searchservlet?query=C01B35/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B35/16"/>
+    <TreeNode Title="C01B35/18 #含有3个或更多硼原子的化合物，如NaB3H8、MgB10Br10(硼嗪类入C01B 35/14)[2]" Target="frmContent" Href="../searchservlet?query=C01B35/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B35/18"/>
+  </TreeNode>
+  <TreeNode Title="C01B37/00 具有分子筛特性但不具有碱交换特性的化合物[6]" Target="frmContent" Href="../searchservlet?query=C01B37/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B37/00">
+    <TreeNode Title="C01B37/02 #多晶型结晶硅，如硅质岩[6]" Target="frmContent" Href="../searchservlet?query=C01B37/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B37/02"/>
+    <TreeNode Title="C01B37/04 #磷酸铝(APO化合物)[6]" Target="frmContent" Href="../searchservlet?query=C01B37/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B37/04"/>
+    <TreeNode Title="C01B37/06 #含其他元素，如金属、硼的磷酸铝[6]" Target="frmContent" Href="../searchservlet?query=C01B37/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B37/06">
+      <TreeNode Title="C01B37/08 ##硅铝磷酸盐(SAPO化合物)[6]" Target="frmContent" Href="../searchservlet?query=C01B37/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B37/08"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="C01B39/00 具有分子筛和碱交换特性的化合物，如结晶沸石；其制备；后处理，如离子交换或脱铝作用(用黏合剂处理以改变其吸附性能，例如成形入B01J 20/10；改变其催化特性的处理，例如使沸石适用于作催化剂的各种处理入B01J 29/04；改进离子交换特性的处理入B01J 39/14)[6]" Target="frmContent" Href="../searchservlet?query=C01B39/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B39/00">
+    <TreeNode Title="C01B39/02 #结晶硅酸铝沸石；其同晶化合物；其直接制备方法；以含另一类结晶沸石的反应混合物或以预成形的反应物作原料的制备方法；其后处理[6]" Target="frmContent" Href="../searchservlet?query=C01B39/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B39/02">
+      <TreeNode Title="C01B39/04 ##用至少一种有机模板定向剂，如离子季铵化合物或胺化化合物[6]" Target="frmContent" Href="../searchservlet?query=C01B39/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B39/04"/>
+      <TreeNode Title="C01B39/06 ##以晶格骨架中铝或硅原子被其他元素的原子取代为特征的同晶沸石的制备[6]" Target="frmContent" Href="../searchservlet?query=C01B39/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B39/06">
+        <TreeNode Title="C01B39/08 ###铝原子全部被取代[6]" Target="frmContent" Href="../searchservlet?query=C01B39/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B39/08"/>
+        <TreeNode Title="C01B39/10 ###取代原子是磷原子[6]" Target="frmContent" Href="../searchservlet?query=C01B39/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B39/10"/>
+        <TreeNode Title="C01B39/12 ###取代原子是硼原子[6]" Target="frmContent" Href="../searchservlet?query=C01B39/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B39/12"/>
+      </TreeNode>
+      <TreeNode Title="C01B39/14 ##A型[6]" Target="frmContent" Href="../searchservlet?query=C01B39/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B39/14">
+        <TreeNode Title="C01B39/16 ###来自碱金属铝酸盐和碱金属硅酸盐的水溶液，除其他来源的氧化铝或氧化硅作晶种外[6]" Target="frmContent" Href="../searchservlet?query=C01B39/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B39/16"/>
+        <TreeNode Title="C01B39/18 ###来自含至少一种硅酸铝或黏土类硅酸铝，如高岭土或偏高岭土或其温升变型体或水铝英石的反应混合物[6]" Target="frmContent" Href="../searchservlet?query=C01B39/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B39/18"/>
+      </TreeNode>
+      <TreeNode Title="C01B39/20 ##八面型沸石，如X型或Y型[6]" Target="frmContent" Href="../searchservlet?query=C01B39/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B39/20">
+        <TreeNode Title="C01B39/22 ###X型[6]" Target="frmContent" Href="../searchservlet?query=C01B39/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B39/22"/>
+        <TreeNode Title="C01B39/24 ###Y型[6]" Target="frmContent" Href="../searchservlet?query=C01B39/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B39/24"/>
+      </TreeNode>
+      <TreeNode Title="C01B39/26 ##丝光沸石[6]" Target="frmContent" Href="../searchservlet?query=C01B39/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B39/26"/>
+      <TreeNode Title="C01B39/28 ##钙十字石或交沸石，如B型[6]" Target="frmContent" Href="../searchservlet?query=C01B39/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B39/28"/>
+      <TreeNode Title="C01B39/30 ##毛沸石或硅铝钾沸石，如T型沸石[6]" Target="frmContent" Href="../searchservlet?query=C01B39/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B39/30"/>
+      <TreeNode Title="C01B39/32 ##L型[6]" Target="frmContent" Href="../searchservlet?query=C01B39/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B39/32"/>
+      <TreeNode Title="C01B39/34 ##ZSM-4型或Ω型[6]" Target="frmContent" Href="../searchservlet?query=C01B39/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B39/34"/>
+      <TreeNode Title="C01B39/36 ##Pentasil型，如ZSM-5、ZSM-8或ZSM-11型[6]" Target="frmContent" Href="../searchservlet?query=C01B39/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B39/36">
+        <TreeNode Title="C01B39/38 ###ZSM-5型[6]" Target="frmContent" Href="../searchservlet?query=C01B39/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B39/38">
+          <TreeNode Title="C01B39/40 ####用至少一种有机模板定向剂[6]" Target="frmContent" Href="../searchservlet?query=C01B39/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B39/40"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="C01B39/42 ##ZSM-12型[6]" Target="frmContent" Href="../searchservlet?query=C01B39/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B39/42"/>
+      <TreeNode Title="C01B39/44 ##铁结砾岩，如ZSM-21、ZSM-35或ZSM-38型[6]" Target="frmContent" Href="../searchservlet?query=C01B39/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B39/44"/>
+      <TreeNode Title="C01B39/46 ##以其X-射线衍射图和其限定成分为特征的其他类型[6]" Target="frmContent" Href="../searchservlet?query=C01B39/46&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B39/46">
+        <TreeNode Title="C01B39/48 ###用至少一种有机模板定向剂[6]" Target="frmContent" Href="../searchservlet?query=C01B39/48&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B39/48"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="C01B39/50 #在晶格骨架中夹杂无机碱或盐通道的沸石，如钠沸石、钙霞石、黝方石、蓝方石[6]" Target="frmContent" Href="../searchservlet?query=C01B39/50&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B39/50">
+      <TreeNode Title="C01B39/52 ##钠沸石[6]" Target="frmContent" Href="../searchservlet?query=C01B39/52&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B39/52"/>
+    </TreeNode>
+    <TreeNode Title="C01B39/54 #磷酸盐，如APO或SAPO化合物[6]" Target="frmContent" Href="../searchservlet?query=C01B39/54&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01B39/54"/>
+  </TreeNode>
+</Root>

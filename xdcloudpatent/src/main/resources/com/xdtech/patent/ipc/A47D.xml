@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="A47D1/00 儿童椅(一般椅子入A47C；用于儿童的车辆座椅入B60N 2/26)" Target="frmContent" Href="../searchservlet?query=A47D1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47D1/00">
+    <TreeNode Title="A47D1/02 #折叠椅" Target="frmContent" Href="../searchservlet?query=A47D1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47D1/02"/>
+    <TreeNode Title="A47D1/04 #翻转后能从高椅变成矮椅的" Target="frmContent" Href="../searchservlet?query=A47D1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47D1/04"/>
+    <TreeNode Title="A47D1/06 #能变成手推椅" Target="frmContent" Href="../searchservlet?query=A47D1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47D1/06"/>
+    <TreeNode Title="A47D1/08 #能变成摇椅的" Target="frmContent" Href="../searchservlet?query=A47D1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47D1/08"/>
+    <TreeNode Title="A47D1/10 #能悬挂在或连接到桌子或其他物件上的" Target="frmContent" Href="../searchservlet?query=A47D1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47D1/10"/>
+  </TreeNode>
+  <TreeNode Title="A47D3/00 儿童桌" Target="frmContent" Href="../searchservlet?query=A47D3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47D3/00"/>
+  <TreeNode Title="A47D5/00 儿童梳妆台(有抽屉的橱柜入A47B 67/00)" Target="frmContent" Href="../searchservlet?query=A47D5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47D5/00"/>
+  <TreeNode Title="A47D7/00 儿童床(一般床入A47C)" Target="frmContent" Href="../searchservlet?query=A47D7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47D7/00">
+    <TreeNode Title="A47D7/01 #有可调部件的，如使床的长度适宜儿童生长的" Target="frmContent" Href="../searchservlet?query=A47D7/01&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47D7/01">
+      <TreeNode Title="A47D7/02 ##有可下降的床帮的" Target="frmContent" Href="../searchservlet?query=A47D7/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47D7/02"/>
+      <TreeNode Title="A47D7/03 ##有可调式安装的床垫" Target="frmContent" Href="../searchservlet?query=A47D7/03&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47D7/03"/>
+    </TreeNode>
+    <TreeNode Title="A47D7/04 #能悬挂在或连接到窗框或其他物体上的" Target="frmContent" Href="../searchservlet?query=A47D7/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47D7/04"/>
+  </TreeNode>
+  <TreeNode Title="A47D9/00 摇床" Target="frmContent" Href="../searchservlet?query=A47D9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47D9/00">
+    <TreeNode Title="A47D9/02 #有摇床装置的(可前后活动婴儿车的装置入B62B 9/22)" Target="frmContent" Href="../searchservlet?query=A47D9/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47D9/02">
+      <TreeNode Title="A47D9/04 ##有可拆卸摇板的" Target="frmContent" Href="../searchservlet?query=A47D9/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47D9/04"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="A47D11/00 能变成其他种类家具的儿童家具，例如能变成床的儿童椅或长凳(一般可变的家具入A47B 85/00)" Target="frmContent" Href="../searchservlet?query=A47D11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47D11/00">
+    <TreeNode Title="A47D11/02 #能变成儿童椅的椅子" Target="frmContent" Href="../searchservlet?query=A47D11/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47D11/02"/>
+  </TreeNode>
+  <TreeNode Title="A47D13/00 其他幼儿家具(幼儿用的辅助或携带式便座入A47K 13/06)" Target="frmContent" Href="../searchservlet?query=A47D13/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47D13/00">
+    <TreeNode Title="A47D13/02 #婴儿车；婴儿床" Target="frmContent" Href="../searchservlet?query=A47D13/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47D13/02"/>
+    <TreeNode Title="A47D13/04 #婴儿行走辅助器；婴儿步行器或折叠式婴儿车(病人或残疾人用的轮式行走辅助器入A61H 3/04)" Target="frmContent" Href="../searchservlet?query=A47D13/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47D13/04"/>
+    <TreeNode Title="A47D13/06 #儿童围栏" Target="frmContent" Href="../searchservlet?query=A47D13/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47D13/06"/>
+    <TreeNode Title="A47D13/08 #控制或支撑儿童用的装置，例如安全吊带" Target="frmContent" Href="../searchservlet?query=A47D13/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47D13/08"/>
+    <TreeNode Title="A47D13/10 #摇椅(一般入A47C 3/02；摇动木马入A63G 15/00)；秋千(一般入A63G 9/00)" Target="frmContent" Href="../searchservlet?query=A47D13/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47D13/10"/>
+  </TreeNode>
+  <TreeNode Title="A47D15/00 儿童家具的辅助用具，例如安全带、婴儿瓶的夹具(医疗输液的药瓶夹具入A61J 9/06；一般的安全带或身体吊带入A62B 35/00；地面车辆用的安全带或身体吊带入B60R 22/00；飞机上用的安全带入B64D 25/06)  [4]" Target="frmContent" Href="../searchservlet?query=A47D15/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47D15/00">
+    <TreeNode Title="A47D15/02 #防止婴儿把床单抛出床外的床单保持装置" Target="frmContent" Href="../searchservlet?query=A47D15/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A47D15/02"/>
+  </TreeNode>
+</Root>

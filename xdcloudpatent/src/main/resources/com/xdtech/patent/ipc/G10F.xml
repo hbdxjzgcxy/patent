@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="G10F1/00 自动乐器" Target="frmContent" Href="../searchservlet?query=G10F1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G10F1/00">
+    <TreeNode Title="G10F1/02 #有键盘的钢琴" Target="frmContent" Href="../searchservlet?query=G10F1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G10F1/02"/>
+    <TreeNode Title="G10F1/04 #无键盘的钢琴" Target="frmContent" Href="../searchservlet?query=G10F1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G10F1/04"/>
+    <TreeNode Title="G10F1/06 #有弹拨的齿、片或类似件的声盒(和其他物品组合的，见有关该物品的类别)" Target="frmContent" Href="../searchservlet?query=G10F1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G10F1/06"/>
+    <TreeNode Title="G10F1/08 #打击乐器" Target="frmContent" Href="../searchservlet?query=G10F1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G10F1/08">
+      <TreeNode Title="G10F1/10 ##钟琴(Carillon)" Target="frmContent" Href="../searchservlet?query=G10F1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G10F1/10"/>
+    </TreeNode>
+    <TreeNode Title="G10F1/12 #风动乐器" Target="frmContent" Href="../searchservlet?query=G10F1/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G10F1/12">
+      <TreeNode Title="G10F1/14 ##手摇风琴" Target="frmContent" Href="../searchservlet?query=G10F1/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G10F1/14"/>
+    </TreeNode>
+    <TreeNode Title="G10F1/16 #除钢琴外的弦乐器" Target="frmContent" Href="../searchservlet?query=G10F1/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G10F1/16">
+      <TreeNode Title="G10F1/18 ##用弓演奏的" Target="frmContent" Href="../searchservlet?query=G10F1/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G10F1/18"/>
+      <TreeNode Title="G10F1/20 ##弹拨的" Target="frmContent" Href="../searchservlet?query=G10F1/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G10F1/20"/>
+    </TreeNode>
+    <TreeNode Title="G10F1/22 #两种或两种以上乐器组合的" Target="frmContent" Href="../searchservlet?query=G10F1/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G10F1/22"/>
+  </TreeNode>
+  <TreeNode Title="G10F3/00 键盘乐器的独立自动演奏装置" Target="frmContent" Href="../searchservlet?query=G10F3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G10F3/00"/>
+  <TreeNode Title="G10F5/00 零部件或附件" Target="frmContent" Href="../searchservlet?query=G10F5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G10F5/00">
+    <TreeNode Title="G10F5/02 #机械装置" Target="frmContent" Href="../searchservlet?query=G10F5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G10F5/02"/>
+    <TreeNode Title="G10F5/04 #调音桶、片、滚筒、卷轴或诸如此类者" Target="frmContent" Href="../searchservlet?query=G10F5/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G10F5/04">
+      <TreeNode Title="G10F5/06 ##调音桶、盘或类似件的驱动或调定；调音片或类似件的缠绕、重绕或导向" Target="frmContent" Href="../searchservlet?query=G10F5/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G10F5/06"/>
+    </TreeNode>
+  </TreeNode>
+</Root>

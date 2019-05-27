@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="H04L1/00 检测或防止收到信息中的差错的装置(校正同步入H04L 7/00；传输通道中的装置入H04B)" Target="frmContent" Href="../searchservlet?query=H04L1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L1/00">
+    <TreeNode Title="H04L1/02 #应用分集接收(一般入H04B 7/02)" Target="frmContent" Href="../searchservlet?query=H04L1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L1/02">
+      <TreeNode Title="H04L1/04 ##应用频率分集" Target="frmContent" Href="../searchservlet?query=H04L1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L1/04"/>
+      <TreeNode Title="H04L1/06 ##应用空间分集" Target="frmContent" Href="../searchservlet?query=H04L1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L1/06"/>
+    </TreeNode>
+    <TreeNode Title="H04L1/08 #应用重发，例如Verdan系统" Target="frmContent" Href="../searchservlet?query=H04L1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L1/08"/>
+    <TreeNode Title="H04L1/12 #应用返回信道" Target="frmContent" Href="../searchservlet?query=H04L1/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L1/12">
+      <TreeNode Title="H04L1/14 ##其中信号被送回发射机以便检验" Target="frmContent" Href="../searchservlet?query=H04L1/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L1/14"/>
+      <TreeNode Title="H04L1/16 ##其中返回信道载有监视信号，例如重复请求信号" Target="frmContent" Href="../searchservlet?query=H04L1/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L1/16">
+        <TreeNode Title="H04L1/18 ###自动重复系统，例如van Duuren系统" Target="frmContent" Href="../searchservlet?query=H04L1/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L1/18"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="H04L1/20 #用信号质量检测器[3]" Target="frmContent" Href="../searchservlet?query=H04L1/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L1/20"/>
+    <TreeNode Title="H04L1/22 #用冗余装置以提高可靠性[3]" Target="frmContent" Href="../searchservlet?query=H04L1/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L1/22"/>
+    <TreeNode Title="H04L1/24 #测试校正操作[3]" Target="frmContent" Href="../searchservlet?query=H04L1/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L1/24"/>
+  </TreeNode>
+  <TreeNode Title="H04L5/00 为传输通道提供多用途的装置(一般多路复用通信入H04J)" Target="frmContent" Href="../searchservlet?query=H04L5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L5/00">
+    <TreeNode Title="H04L5/02 #以信号形式表征的信道" Target="frmContent" Href="../searchservlet?query=H04L5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L5/02">
+      <TreeNode Title="H04L5/04 ##用不同幅度或极性表征的信号，例如四路复用系统" Target="frmContent" Href="../searchservlet?query=H04L5/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L5/04"/>
+      <TreeNode Title="H04L5/06 ##用不同频率表征的信号(与时分多路复用相结合的入H04L 5/26)" Target="frmContent" Href="../searchservlet?query=H04L5/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L5/06">
+        <TreeNode Title="H04L5/08 ###用1个固定的频率代表不同信道中的每个信号组合" Target="frmContent" Href="../searchservlet?query=H04L5/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L5/08"/>
+        <TreeNode Title="H04L5/10 ###带有电动方式产生载波；具有机械滤波器或解调器" Target="frmContent" Href="../searchservlet?query=H04L5/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L5/10"/>
+      </TreeNode>
+      <TreeNode Title="H04L5/12 ##用单载波的不同相位调制表征的信号" Target="frmContent" Href="../searchservlet?query=H04L5/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L5/12"/>
+    </TreeNode>
+    <TreeNode Title="H04L5/14 #使用相同形式的信号的双向工作，即双工(一般双向传输的调节入H04B 3/20)" Target="frmContent" Href="../searchservlet?query=H04L5/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L5/14">
+      <TreeNode Title="H04L5/16 ##半双工系统；单工/双工转换；断路信号的传输" Target="frmContent" Href="../searchservlet?query=H04L5/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L5/16"/>
+      <TreeNode Title="H04L5/18 ##通信量方向的自动改变" Target="frmContent" Href="../searchservlet?query=H04L5/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L5/18"/>
+    </TreeNode>
+    <TreeNode Title="H04L5/20 #应用许多线路的不同组合，例如幻象工作" Target="frmContent" Href="../searchservlet?query=H04L5/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L5/20"/>
+    <TreeNode Title="H04L5/22 #应用时分多路复用" Target="frmContent" Href="../searchservlet?query=H04L5/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L5/22">
+      <TreeNode Title="H04L5/24 ##带有起止同步变换器" Target="frmContent" Href="../searchservlet?query=H04L5/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L5/24"/>
+      <TreeNode Title="H04L5/26 ##与不同频率的使用相结合" Target="frmContent" Href="../searchservlet?query=H04L5/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L5/26"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="H04L7/00 使接收机与发射机同步的装置" Target="frmContent" Href="../searchservlet?query=H04L7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L7/00">
+    <TreeNode Title="H04L7/02 #用收到的编码信号控制速度或相位，该信号不包含专用的同步信息" Target="frmContent" Href="../searchservlet?query=H04L7/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L7/02">
+      <TreeNode Title="H04L7/027 ##从接收信号的频谱中提取同步或时钟信号，例如使用谐振或带通电路[5]" Target="frmContent" Href="../searchservlet?query=H04L7/027&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L7/027"/>
+      <TreeNode Title="H04L7/033 ##使用接收信号的瞬变控制同步信号发生装置的相位，例如使用锁相环路[5]" Target="frmContent" Href="../searchservlet?query=H04L7/033&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L7/033"/>
+    </TreeNode>
+    <TreeNode Title="H04L7/04 #用同步信号控制速度或相位" Target="frmContent" Href="../searchservlet?query=H04L7/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L7/04">
+      <TreeNode Title="H04L7/06 ##在幅度、极性或频率方面与信息信号不同的同步信号" Target="frmContent" Href="../searchservlet?query=H04L7/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L7/06"/>
+      <TreeNode Title="H04L7/08 ##用周期循环性的同步信号" Target="frmContent" Href="../searchservlet?query=H04L7/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L7/08"/>
+      <TreeNode Title="H04L7/10 ##起始同步装置" Target="frmContent" Href="../searchservlet?query=H04L7/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L7/10"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="H04L9/00 保密或安全通信装置(扩频技术入H04B 1/69)" Target="frmContent" Href="../searchservlet?query=H04L9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L9/00">
+    <TreeNode Title="H04L9/06 #使用移位寄存器或存储器用于块式码的密码装置，例如dES系统[5]" Target="frmContent" Href="../searchservlet?query=H04L9/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L9/06">
+      <TreeNode Title="H04L9/08 ##密钥分配[5]" Target="frmContent" Href="../searchservlet?query=H04L9/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L9/08"/>
+    </TreeNode>
+    <TreeNode Title="H04L9/10 #带有特殊机体，物理特征或人工控制[5]" Target="frmContent" Href="../searchservlet?query=H04L9/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L9/10"/>
+    <TreeNode Title="H04L9/12 #同步的或最初建立特殊方式的发送和接收密码设备[5]" Target="frmContent" Href="../searchservlet?query=H04L9/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L9/12"/>
+    <TreeNode Title="H04L9/14 #使用多个密钥或算法[5]" Target="frmContent" Href="../searchservlet?query=H04L9/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L9/14">
+      <TreeNode Title="H04L9/16 ##在工作期间变化的密钥或算法[5]" Target="frmContent" Href="../searchservlet?query=H04L9/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L9/16"/>
+    </TreeNode>
+    <TreeNode Title="H04L9/18 #用串行和连续修改数据流单元加密，例如数据流加密系统[5]" Target="frmContent" Href="../searchservlet?query=H04L9/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L9/18">
+      <TreeNode Title="H04L9/20 ##具有单元替单元与数据序列联合的伪随机密钥序列[5]" Target="frmContent" Href="../searchservlet?query=H04L9/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L9/20">
+        <TreeNode Title="H04L9/22 ###具有特殊的伪随机序列发生器[5]" Target="frmContent" Href="../searchservlet?query=H04L9/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L9/22">
+          <TreeNode Title="H04L9/24 ####用多于1个发生器产生的序列[5]" Target="frmContent" Href="../searchservlet?query=H04L9/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L9/24"/>
+          <TreeNode Title="H04L9/26 ####产生非线性伪随机序列[5]" Target="frmContent" Href="../searchservlet?query=H04L9/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L9/26"/>
+        </TreeNode>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="H04L9/28 #使用特殊的加密算法[5]" Target="frmContent" Href="../searchservlet?query=H04L9/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L9/28">
+      <TreeNode Title="H04L9/30 ##公用密钥，即计算的加密算法不能被变换并且用户的加密密钥不需要保密[5]" Target="frmContent" Href="../searchservlet?query=H04L9/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L9/30"/>
+    </TreeNode>
+    <TreeNode Title="H04L9/32 #包括用于检验系统用户的身份或凭据的装置(防止未授权行为的保护计算机或计算机系统的安全装置入G06F 21/00；通过编码识别卡或信贷卡片操作的分发装置入G07F 7/08；特别适用于无线通信网络的入H04W 12/00)[5]" Target="frmContent" Href="../searchservlet?query=H04L9/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L9/32"/>
+    <TreeNode Title="H04L9/34 #电报信息的比特，或比特组随时间交替变化[5]" Target="frmContent" Href="../searchservlet?query=H04L9/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L9/34"/>
+    <TreeNode Title="H04L9/36 #带有与传输特征无关的检测设备[5]" Target="frmContent" Href="../searchservlet?query=H04L9/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L9/36"/>
+    <TreeNode Title="H04L9/38 #用机械装置实现的加密，例如旋转凸轮、开关、键带信息穿孔机[5]" Target="frmContent" Href="../searchservlet?query=H04L9/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L9/38"/>
+  </TreeNode>
+  <TreeNode Title="H04L12/00 数据交换网络(存储器、输入/输出设备或中央处理单元之间的信息或其他信号的互连或传送入G06F 13/00)[5]" Target="frmContent" Href="../searchservlet?query=H04L12/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L12/00">
+    <TreeNode Title="H04L12/02 #零部件[5]" Target="frmContent" Href="../searchservlet?query=H04L12/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L12/02">
+      <TreeNode Title="H04L12/04 ##交换台[5]" Target="frmContent" Href="../searchservlet?query=H04L12/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L12/04"/>
+      <TreeNode Title="H04L12/06 ##应答机构或电路[5]" Target="frmContent" Href="../searchservlet?query=H04L12/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L12/06"/>
+      <TreeNode Title="H04L12/08 ##对消息进行编号；字符、词或消息的计数[5]" Target="frmContent" Href="../searchservlet?query=H04L12/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L12/08"/>
+      <TreeNode Title="H04L12/10 ##电流供给装置[5]" Target="frmContent" Href="../searchservlet?query=H04L12/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L12/10"/>
+      <TreeNode Title="H04L12/12 ##对分局或其设备远距离连接或切断的装置[5]" Target="frmContent" Href="../searchservlet?query=H04L12/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L12/12"/>
+      <TreeNode Title="H04L12/14 ##计费装置[5]" Target="frmContent" Href="../searchservlet?query=H04L12/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L12/14"/>
+      <TreeNode Title="H04L12/16 ##向分局提供特种业务的装置[5]" Target="frmContent" Href="../searchservlet?query=H04L12/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L12/16">
+        <TreeNode Title="H04L12/18 ###用于广播或会议的[5]" Target="frmContent" Href="../searchservlet?query=H04L12/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L12/18"/>
+        <TreeNode Title="H04L12/20 ###用于将传输速率从一个分局的固有速率变换为另一个分局的固有速度[5]" Target="frmContent" Href="../searchservlet?query=H04L12/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L12/20"/>
+      </TreeNode>
+      <TreeNode Title="H04L12/22 ##防止未经允许从数据传输信道取出数据的装置(保密或安全通信系统中检验用户的身份或凭据的装置入H04L 9/32)[5]" Target="frmContent" Href="../searchservlet?query=H04L12/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L12/22"/>
+      <TreeNode Title="H04L12/24 ##用于维护或管理的装置[5]" Target="frmContent" Href="../searchservlet?query=H04L12/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L12/24"/>
+      <TreeNode Title="H04L12/26 ##监视装置；测试装置[5]" Target="frmContent" Href="../searchservlet?query=H04L12/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L12/26"/>
+    </TreeNode>
+    <TreeNode Title="H04L12/28 #以通路配置为特征的，例如LAN[局域网]或WAN[广域网](无线通信网络入H04W)[5，6]" Target="frmContent" Href="../searchservlet?query=H04L12/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L12/28">
+      <TreeNode Title="H04L12/40 ##总线网络[5，6]" Target="frmContent" Href="../searchservlet?query=H04L12/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L12/40">
+        <TreeNode Title="H04L12/403 ###带有集中控制的，例如轮询[6]" Target="frmContent" Href="../searchservlet?query=H04L12/403&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L12/403"/>
+        <TreeNode Title="H04L12/407 ###带有分散控制的[6]" Target="frmContent" Href="../searchservlet?query=H04L12/407&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L12/407">
+          <TreeNode Title="H04L12/413 ####带有随机存取，例如具有冲突检测的载频敏感多址存取(CSMA-CD)[6]" Target="frmContent" Href="../searchservlet?query=H04L12/413&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L12/413"/>
+          <TreeNode Title="H04L12/417 ####带有确定性存取，例如令牌传送[6]" Target="frmContent" Href="../searchservlet?query=H04L12/417&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L12/417"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="H04L12/42 ##环形网络[5，6]" Target="frmContent" Href="../searchservlet?query=H04L12/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L12/42">
+        <TreeNode Title="H04L12/423 ###带有集中控制的，例如轮询[6]" Target="frmContent" Href="../searchservlet?query=H04L12/423&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L12/423"/>
+        <TreeNode Title="H04L12/427 ###带有分散控制的[6]" Target="frmContent" Href="../searchservlet?query=H04L12/427&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L12/427">
+          <TreeNode Title="H04L12/43 ####带有同步传输，例如时分多路复用(TDM)、时隙环形[6]" Target="frmContent" Href="../searchservlet?query=H04L12/43&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L12/43"/>
+          <TreeNode Title="H04L12/433 ####带有异步传输，例如令牌，寄存器插入[6]" Target="frmContent" Href="../searchservlet?query=H04L12/433&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L12/433"/>
+        </TreeNode>
+        <TreeNode Title="H04L12/437 ###环形故障隔离或重新配置[6]" Target="frmContent" Href="../searchservlet?query=H04L12/437&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L12/437"/>
+      </TreeNode>
+      <TreeNode Title="H04L12/44 ##星形或树形网络[5，6]" Target="frmContent" Href="../searchservlet?query=H04L12/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L12/44"/>
+      <TreeNode Title="H04L12/46 ##网络的互连[5，6]" Target="frmContent" Href="../searchservlet?query=H04L12/46&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L12/46"/>
+    </TreeNode>
+    <TreeNode Title="H04L12/50 #电路交换系统，即系统在通信期间通路具有完全永久性[5，6]" Target="frmContent" Href="../searchservlet?query=H04L12/50&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L12/50">
+      <TreeNode Title="H04L12/52 ##使用时分技术(数字传输系统中的入H04L 5/22)[5，6]" Target="frmContent" Href="../searchservlet?query=H04L12/52&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L12/52"/>
+    </TreeNode>
+    <TreeNode Title="H04L12/54 #存储转发交换系统[5，6]" Target="frmContent" Href="../searchservlet?query=H04L12/54&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L12/54">
+      <TreeNode Title="H04L12/56 ##分组交换系统[5，6]" Target="frmContent" Href="../searchservlet?query=H04L12/56&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L12/56"/>
+      <TreeNode Title="H04L12/58 ##消息交换系统(置换码的选择入H04Q 3/02)[5，6]" Target="frmContent" Href="../searchservlet?query=H04L12/58&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L12/58">
+        <TreeNode Title="H04L12/60 ###人工中继器系统，例如按键交换[5，6]" Target="frmContent" Href="../searchservlet?query=H04L12/60&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L12/60">
+          <TreeNode Title="H04L12/62 ####用穿孔纸带存储器[5，6]" Target="frmContent" Href="../searchservlet?query=H04L12/62&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L12/62"/>
+        </TreeNode>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="H04L12/64 #混合交换系统[5，6]" Target="frmContent" Href="../searchservlet?query=H04L12/64&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L12/64"/>
+    <TreeNode Title="H04L12/66 #用于在不同类型的交换系统网络之间连接的装置，例如网关[5，6]" Target="frmContent" Href="../searchservlet?query=H04L12/66&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L12/66"/>
+  </TreeNode>
+  <TreeNode Title="H04L13/00 由H04L 15/00或H04L 17/00组所包含的设备或电路的零部件" Target="frmContent" Href="../searchservlet?query=H04L13/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L13/00">
+    <TreeNode Title="H04L13/02 #非接收机或发射机专用的零部件" Target="frmContent" Href="../searchservlet?query=H04L13/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L13/02">
+      <TreeNode Title="H04L13/04 ##驱动机构；离合器(一般入F16)" Target="frmContent" Href="../searchservlet?query=H04L13/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L13/04"/>
+      <TreeNode Title="H04L13/06 ##纸带或纸页的引导或进给装置" Target="frmContent" Href="../searchservlet?query=H04L13/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L13/06"/>
+      <TreeNode Title="H04L13/08 ##中间存储装置" Target="frmContent" Href="../searchservlet?query=H04L13/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L13/08"/>
+      <TreeNode Title="H04L13/10 ##分配器" Target="frmContent" Href="../searchservlet?query=H04L13/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L13/10">
+        <TreeNode Title="H04L13/12 ###非机械分配器，例如继电器分配器" Target="frmContent" Href="../searchservlet?query=H04L13/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L13/12">
+          <TreeNode Title="H04L13/14 ####电子分配器(一般入H03K 17/00)" Target="frmContent" Href="../searchservlet?query=H04L13/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L13/14"/>
+        </TreeNode>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="H04L13/16 #发射机的零部件，例如码条、码盘" Target="frmContent" Href="../searchservlet?query=H04L13/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L13/16"/>
+    <TreeNode Title="H04L13/18 #接收机的零部件" Target="frmContent" Href="../searchservlet?query=H04L13/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L13/18"/>
+  </TreeNode>
+  <TreeNode Title="H04L15/00 发送或接收“点划电码”的设备或局部电路，例如莫尔斯电码(其训练设备入G09B；一般键盘开关入H01H 13/70，H03K 17/94；电报装带键入H01H 21/86；与键盘或类似器件有关的编码，一般入H03M 11/00)" Target="frmContent" Href="../searchservlet?query=H04L15/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L15/00">
+    <TreeNode Title="H04L15/03 #结构上与发声器相连的键[2]" Target="frmContent" Href="../searchservlet?query=H04L15/03&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L15/03"/>
+    <TreeNode Title="H04L15/04 #发射端的装置或电路" Target="frmContent" Href="../searchservlet?query=H04L15/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L15/04">
+      <TreeNode Title="H04L15/06 ##键数限定的，例如每种码元形式有各自的键" Target="frmContent" Href="../searchservlet?query=H04L15/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L15/06">
+        <TreeNode Title="H04L15/08 ###带有单独键的，在一个位置上发送“点”，而在第二个位置上发送“划”" Target="frmContent" Href="../searchservlet?query=H04L15/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L15/08"/>
+        <TreeNode Title="H04L15/10 ###与穿孔设备相组合" Target="frmContent" Href="../searchservlet?query=H04L15/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L15/10"/>
+      </TreeNode>
+      <TreeNode Title="H04L15/12 ##带有键盘与码条相配合" Target="frmContent" Href="../searchservlet?query=H04L15/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L15/12">
+        <TreeNode Title="H04L15/14 ###与穿孔设备相组合" Target="frmContent" Href="../searchservlet?query=H04L15/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L15/14"/>
+      </TreeNode>
+      <TreeNode Title="H04L15/16 ##带有键盘与码盘相配合" Target="frmContent" Href="../searchservlet?query=H04L15/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L15/16"/>
+      <TreeNode Title="H04L15/18 ##自动发射机，例如由穿孔带控制的" Target="frmContent" Href="../searchservlet?query=H04L15/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L15/18">
+        <TreeNode Title="H04L15/20 ###带有光传感装置的" Target="frmContent" Href="../searchservlet?query=H04L15/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L15/20"/>
+      </TreeNode>
+      <TreeNode Title="H04L15/22 ##发送1个或限定数目的信号，例如发送遇难信号的装置或电路" Target="frmContent" Href="../searchservlet?query=H04L15/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L15/22"/>
+    </TreeNode>
+    <TreeNode Title="H04L15/24 #接收端的装置或电路" Target="frmContent" Href="../searchservlet?query=H04L15/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L15/24">
+      <TreeNode Title="H04L15/26 ##只在收到预置码信号时才工作的，例如遇难信号、合用线路呼叫信号" Target="frmContent" Href="../searchservlet?query=H04L15/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L15/26"/>
+      <TreeNode Title="H04L15/28 ##电码再生设备" Target="frmContent" Href="../searchservlet?query=H04L15/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L15/28">
+        <TreeNode Title="H04L15/30 ###书写记录器" Target="frmContent" Href="../searchservlet?query=H04L15/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L15/30"/>
+        <TreeNode Title="H04L15/32 ###穿孔记录器" Target="frmContent" Href="../searchservlet?query=H04L15/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L15/32"/>
+      </TreeNode>
+      <TreeNode Title="H04L15/34 ##对收到的码信号翻译后再记录的设备，例如打印机" Target="frmContent" Href="../searchservlet?query=H04L15/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L15/34"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="H04L17/00 用于发送或接收电码的设备或局部电路，其中每个字符用相同数目的等长码元表示，例如波特码(一般键盘开关入H01H 13/70，H03K 17/94；与键盘或类似器件有关的编码，一般入H03M 11/00)" Target="frmContent" Href="../searchservlet?query=H04L17/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L17/00">
+    <TreeNode Title="H04L17/02 #发射端的装置或电路" Target="frmContent" Href="../searchservlet?query=H04L17/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L17/02">
+      <TreeNode Title="H04L17/04 ##带有键盘与码条相配合" Target="frmContent" Href="../searchservlet?query=H04L17/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L17/04">
+        <TreeNode Title="H04L17/06 ###接点操作装置" Target="frmContent" Href="../searchservlet?query=H04L17/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L17/06"/>
+        <TreeNode Title="H04L17/08 ###与穿孔设备相组合" Target="frmContent" Href="../searchservlet?query=H04L17/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L17/08"/>
+      </TreeNode>
+      <TreeNode Title="H04L17/10 ##带有键盘与码盘相配合" Target="frmContent" Href="../searchservlet?query=H04L17/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L17/10"/>
+      <TreeNode Title="H04L17/12 ##自动发射机，例如由穿孔带控制的" Target="frmContent" Href="../searchservlet?query=H04L17/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L17/12">
+        <TreeNode Title="H04L17/14 ###有光传感装置的" Target="frmContent" Href="../searchservlet?query=H04L17/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L17/14"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="H04L17/16 #接收端的装置或电路" Target="frmContent" Href="../searchservlet?query=H04L17/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L17/16">
+      <TreeNode Title="H04L17/18 ##选码机构" Target="frmContent" Href="../searchservlet?query=H04L17/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L17/18"/>
+      <TreeNode Title="H04L17/20 ##使用穿孔记录器的" Target="frmContent" Href="../searchservlet?query=H04L17/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L17/20"/>
+      <TreeNode Title="H04L17/22 ##应用机械译码和打字条打印" Target="frmContent" Href="../searchservlet?query=H04L17/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L17/22"/>
+      <TreeNode Title="H04L17/24 ##应用机械译码和打字头打印，例如打字轮、打字圆筒" Target="frmContent" Href="../searchservlet?query=H04L17/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L17/24"/>
+      <TreeNode Title="H04L17/26 ##应用集合运转译码" Target="frmContent" Href="../searchservlet?query=H04L17/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L17/26"/>
+      <TreeNode Title="H04L17/28 ##应用气动或液压译码" Target="frmContent" Href="../searchservlet?query=H04L17/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L17/28"/>
+      <TreeNode Title="H04L17/30 ##应用电气和电子译码" Target="frmContent" Href="../searchservlet?query=H04L17/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L17/30"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="H04L19/00 用于步进制系统的设备或局部电路" Target="frmContent" Href="../searchservlet?query=H04L19/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L19/00"/>
+  <TreeNode Title="H04L21/00 用于镶嵌式打印机电报系统的设备或局部电路" Target="frmContent" Href="../searchservlet?query=H04L21/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L21/00">
+    <TreeNode Title="H04L21/02 #在发射端" Target="frmContent" Href="../searchservlet?query=H04L21/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L21/02"/>
+    <TreeNode Title="H04L21/04 #在接收端" Target="frmContent" Href="../searchservlet?query=H04L21/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L21/04"/>
+  </TreeNode>
+  <TreeNode Title="H04L23/00 H04L15/00至H04L 21/00各组未包含的系统的设备或局部电路" Target="frmContent" Href="../searchservlet?query=H04L23/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L23/00">
+    <TreeNode Title="H04L23/02 #适合于正交信号的[2]" Target="frmContent" Href="../searchservlet?query=H04L23/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L23/02"/>
+  </TreeNode>
+  <TreeNode Title="H04L25/00 基带系统" Target="frmContent" Href="../searchservlet?query=H04L25/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L25/00">
+    <TreeNode Title="H04L25/02 #零部件(一般处理脉冲的电路入H03K；在有线传输系统中的一般入H04B 3/02)" Target="frmContent" Href="../searchservlet?query=H04L25/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L25/02">
+      <TreeNode Title="H04L25/03 ##发射机或接收机中的整形网络，例如自适应整形网络(阻抗网络本身入H03H)[2]" Target="frmContent" Href="../searchservlet?query=H04L25/03&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L25/03">
+        <TreeNode Title="H04L25/04 ###无源整形网络[2]" Target="frmContent" Href="../searchservlet?query=H04L25/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L25/04"/>
+      </TreeNode>
+      <TreeNode Title="H04L25/05 ##在发射和重发射前有电或磁信号存储器，以改变传输速率[7]" Target="frmContent" Href="../searchservlet?query=H04L25/05&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L25/05"/>
+      <TreeNode Title="H04L25/06 ##直流电平复原装置；偏置畸变校正" Target="frmContent" Href="../searchservlet?query=H04L25/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L25/06"/>
+      <TreeNode Title="H04L25/08 ##为减少干扰所做的改进；为减少线路故障影响所做的改进" Target="frmContent" Href="../searchservlet?query=H04L25/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L25/08"/>
+      <TreeNode Title="H04L25/10 ##对线路平衡变化的补偿" Target="frmContent" Href="../searchservlet?query=H04L25/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L25/10"/>
+      <TreeNode Title="H04L25/12 ##对线路阻抗变化的补偿" Target="frmContent" Href="../searchservlet?query=H04L25/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L25/12"/>
+      <TreeNode Title="H04L25/14 ##信道分配装置" Target="frmContent" Href="../searchservlet?query=H04L25/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L25/14"/>
+      <TreeNode Title="H04L25/17 ##插入装置[4]" Target="frmContent" Href="../searchservlet?query=H04L25/17&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L25/17"/>
+      <TreeNode Title="H04L25/18 ##以感应方法产生电报信号的装置(感应线圈断续器入H01H 51/34；动力电机入H02K)" Target="frmContent" Href="../searchservlet?query=H04L25/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L25/18"/>
+      <TreeNode Title="H04L25/20 ##增音机电路；中继器电路" Target="frmContent" Href="../searchservlet?query=H04L25/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L25/20">
+        <TreeNode Title="H04L25/22 ###二线变为四线用的增音机 (一般增音机入H04B)；单电流变为双电流用的中继增音机" Target="frmContent" Href="../searchservlet?query=H04L25/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L25/22"/>
+        <TreeNode Title="H04L25/24 ###应用放电管或半导体器件的中继器电路" Target="frmContent" Href="../searchservlet?query=H04L25/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L25/24"/>
+        <TreeNode Title="H04L25/26 ###有光传感装置的电路" Target="frmContent" Href="../searchservlet?query=H04L25/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L25/26"/>
+        <TreeNode Title="H04L25/28 ###应用调制而后解调的增音机" Target="frmContent" Href="../searchservlet?query=H04L25/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L25/28"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="H04L25/30 #非同步系统" Target="frmContent" Href="../searchservlet?query=H04L25/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L25/30">
+      <TreeNode Title="H04L25/32 ##以所用电码为特征的" Target="frmContent" Href="../searchservlet?query=H04L25/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L25/32">
+        <TreeNode Title="H04L25/34 ###应用3个或3个以上不同幅度的，例如电缆码" Target="frmContent" Href="../searchservlet?query=H04L25/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L25/34"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="H04L25/38 #同步或起止系统，例如用于波特码" Target="frmContent" Href="../searchservlet?query=H04L25/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L25/38">
+      <TreeNode Title="H04L25/40 ##发送电路；接收电路(增音机电路、中继器电路入H04L 25/52)" Target="frmContent" Href="../searchservlet?query=H04L25/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L25/40">
+        <TreeNode Title="H04L25/42 ###使用机械分配器" Target="frmContent" Href="../searchservlet?query=H04L25/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L25/42"/>
+        <TreeNode Title="H04L25/44 ###使用继电器分配器" Target="frmContent" Href="../searchservlet?query=H04L25/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L25/44"/>
+        <TreeNode Title="H04L25/45 ###使用电子分配器(一般电子分配器入H03K 17/00)[2]" Target="frmContent" Href="../searchservlet?query=H04L25/45&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L25/45"/>
+        <TreeNode Title="H04L25/46 ###使用调谐音叉或振动簧片" Target="frmContent" Href="../searchservlet?query=H04L25/46&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L25/46"/>
+        <TreeNode Title="H04L25/48 ###以所用电码为特征的(H04L 25/49优先)[2]" Target="frmContent" Href="../searchservlet?query=H04L25/48&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L25/48"/>
+        <TreeNode Title="H04L25/49 ###在发射机处应用码变换；应用预失真；插入空码以得到所需频谱；应用3个或3个以上的幅度电平[2]" Target="frmContent" Href="../searchservlet?query=H04L25/49&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L25/49">
+          <TreeNode Title="H04L25/493 ####用转换编码，即传输之前对转换的时间—位置或方向进行编码[3]" Target="frmContent" Href="../searchservlet?query=H04L25/493&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L25/493"/>
+          <TreeNode Title="H04L25/497 ####用相关编码，例如部分响应编码或回波调制编码[3]" Target="frmContent" Href="../searchservlet?query=H04L25/497&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L25/497"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="H04L25/52 ##增音机电路；中继器电路" Target="frmContent" Href="../searchservlet?query=H04L25/52&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L25/52">
+        <TreeNode Title="H04L25/54 ###使用机械分配器" Target="frmContent" Href="../searchservlet?query=H04L25/54&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L25/54"/>
+        <TreeNode Title="H04L25/56 ###非电再生增音机" Target="frmContent" Href="../searchservlet?query=H04L25/56&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L25/56"/>
+        <TreeNode Title="H04L25/58 ###使用继电器分配器" Target="frmContent" Href="../searchservlet?query=H04L25/58&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L25/58"/>
+        <TreeNode Title="H04L25/60 ###有电磁开关的再生增音机" Target="frmContent" Href="../searchservlet?query=H04L25/60&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L25/60"/>
+        <TreeNode Title="H04L25/62 ###使用调谐音叉或振动簧片" Target="frmContent" Href="../searchservlet?query=H04L25/62&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L25/62"/>
+        <TreeNode Title="H04L25/64 ###使用放电管或半导体器件的启止再生增音机" Target="frmContent" Href="../searchservlet?query=H04L25/64&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L25/64"/>
+        <TreeNode Title="H04L25/66 ###使用放电管或半导体器件的同步增音机" Target="frmContent" Href="../searchservlet?query=H04L25/66&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L25/66"/>
+      </TreeNode>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="H04L27/00 调制载波系统" Target="frmContent" Href="../searchservlet?query=H04L27/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L27/00">
+    <TreeNode Title="H04L27/01 #均衡器[5]" Target="frmContent" Href="../searchservlet?query=H04L27/01&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L27/01"/>
+    <TreeNode Title="H04L27/02 #调幅载波系统，例如应用通/断键控的；单边带或残留边带调制(H04L 27/32优先)[2，5]" Target="frmContent" Href="../searchservlet?query=H04L27/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L27/02">
+      <TreeNode Title="H04L27/04 ##调制器电路(一般入H03C)；发射机电路" Target="frmContent" Href="../searchservlet?query=H04L27/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L27/04"/>
+      <TreeNode Title="H04L27/06 ##解调器电路(一般入H03D)；接收机电路" Target="frmContent" Href="../searchservlet?query=H04L27/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L27/06"/>
+      <TreeNode Title="H04L27/08 ##幅度调节装置" Target="frmContent" Href="../searchservlet?query=H04L27/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L27/08"/>
+    </TreeNode>
+    <TreeNode Title="H04L27/10 #调频载波系统，即应用频移键控的(H04L 27/32优先)[5]" Target="frmContent" Href="../searchservlet?query=H04L27/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L27/10">
+      <TreeNode Title="H04L27/12 ##调制器电路(一般入H03C)；发射机电路" Target="frmContent" Href="../searchservlet?query=H04L27/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L27/12"/>
+      <TreeNode Title="H04L27/14 ##解调器电路(一般入H03D)；接收机电路" Target="frmContent" Href="../searchservlet?query=H04L27/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L27/14">
+        <TreeNode Title="H04L27/144 ###带有接收信号的频谱特性的解调，例如使用频率选择或频率敏感元件[6]" Target="frmContent" Href="../searchservlet?query=H04L27/144&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L27/144">
+          <TreeNode Title="H04L27/148 ####使用滤波器，包括PLL型滤波器[6]" Target="frmContent" Href="../searchservlet?query=H04L27/148&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L27/148"/>
+          <TreeNode Title="H04L27/152 ####使用控制振荡器，例如PLL设备[6]" Target="frmContent" Href="../searchservlet?query=H04L27/152&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L27/152"/>
+        </TreeNode>
+        <TreeNode Title="H04L27/156 ###带有接收信号的瞬时特性的解调，例如检测脉冲宽度[6]" Target="frmContent" Href="../searchservlet?query=H04L27/156&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L27/156"/>
+      </TreeNode>
+      <TreeNode Title="H04L27/16 ##频率调节装置" Target="frmContent" Href="../searchservlet?query=H04L27/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L27/16"/>
+    </TreeNode>
+    <TreeNode Title="H04L27/18 #调相载波系统，即应用相移键控的(H04L 27/32优先)[5]" Target="frmContent" Href="../searchservlet?query=H04L27/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L27/18">
+      <TreeNode Title="H04L27/20 ##调制器电路(一般入H03C)；发射机电路" Target="frmContent" Href="../searchservlet?query=H04L27/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L27/20"/>
+      <TreeNode Title="H04L27/22 ##解调器电路(一般入H03D)；接收机电路" Target="frmContent" Href="../searchservlet?query=H04L27/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L27/22">
+        <TreeNode Title="H04L27/227 ###使用相干解调[6]" Target="frmContent" Href="../searchservlet?query=H04L27/227&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L27/227"/>
+        <TreeNode Title="H04L27/233 ###使用非相干解调[6]" Target="frmContent" Href="../searchservlet?query=H04L27/233&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L27/233"/>
+      </TreeNode>
+      <TreeNode Title="H04L27/24 ##半波信号发生系统" Target="frmContent" Href="../searchservlet?query=H04L27/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L27/24"/>
+    </TreeNode>
+    <TreeNode Title="H04L27/26 #应用多频码的系统(H04L 27/32优先)[5]" Target="frmContent" Href="../searchservlet?query=H04L27/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L27/26">
+      <TreeNode Title="H04L27/28 ##同时传输多个不同频率，每个频率代表一个码元" Target="frmContent" Href="../searchservlet?query=H04L27/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L27/28"/>
+      <TreeNode Title="H04L27/30 ##其中一个频率组合代表一个码元" Target="frmContent" Href="../searchservlet?query=H04L27/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L27/30"/>
+    </TreeNode>
+    <TreeNode Title="H04L27/32 #由H04L 27/02，H04L 27/10，H04L 27/18，或H04L 27/26组包含的两种或多种组合为特征的载波系统[5]" Target="frmContent" Href="../searchservlet?query=H04L27/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L27/32">
+      <TreeNode Title="H04L27/34 ##幅度和相位调制载波系统，例如正交调幅载波系统[5]" Target="frmContent" Href="../searchservlet?query=H04L27/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L27/34">
+        <TreeNode Title="H04L27/36 ###调制器电路；发射机电路[5]" Target="frmContent" Href="../searchservlet?query=H04L27/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L27/36"/>
+        <TreeNode Title="H04L27/38 ###解调器电路，接收机电路[5]" Target="frmContent" Href="../searchservlet?query=H04L27/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L27/38"/>
+      </TreeNode>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="H04L29/00 H04L1/00至H04L 27/00单个组中不包含的装置、设备、电路和系统(存储器输入/输出设备或中央处理单元之间的信息或其他信号的互连或传送入G06F 13/00)[5]" Target="frmContent" Href="../searchservlet?query=H04L29/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L29/00">
+    <TreeNode Title="H04L29/02 #通信控制；通信处理(H04L 29/12，H04L 29/14优先)[5]" Target="frmContent" Href="../searchservlet?query=H04L29/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L29/02">
+      <TreeNode Title="H04L29/04 ##用于多条通信线路的[5]" Target="frmContent" Href="../searchservlet?query=H04L29/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L29/04"/>
+      <TreeNode Title="H04L29/06 ##以协议为特征的[5]" Target="frmContent" Href="../searchservlet?query=H04L29/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L29/06">
+        <TreeNode Title="H04L29/08 ###传输控制规程，例如数据链级控制规程[5]" Target="frmContent" Href="../searchservlet?query=H04L29/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L29/08"/>
+      </TreeNode>
+      <TreeNode Title="H04L29/10 ##以接口为特征的，例如数据链级和物理级之间的接口[5]" Target="frmContent" Href="../searchservlet?query=H04L29/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L29/10"/>
+    </TreeNode>
+    <TreeNode Title="H04L29/12 #以数据终端为特征的[5]" Target="frmContent" Href="../searchservlet?query=H04L29/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L29/12"/>
+    <TreeNode Title="H04L29/14 #故障的应对措施[5]" Target="frmContent" Href="../searchservlet?query=H04L29/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H04L29/14"/>
+  </TreeNode>
+</Root>

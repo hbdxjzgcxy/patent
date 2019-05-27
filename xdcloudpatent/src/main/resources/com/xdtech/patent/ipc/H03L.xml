@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="H03L1/00 克服物理量(例如电源)的变化而使发生器输出稳定(自动控制入H03L 5/00，H03L 7/00)[3]" Target="frmContent" Href="../searchservlet?query=H03L1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03L1/00">
+    <TreeNode Title="H03L1/02 #仅克服温度变化的[3]" Target="frmContent" Href="../searchservlet?query=H03L1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03L1/02">
+      <TreeNode Title="H03L1/04 ##用于保持温度恒定的结构零部件[3]" Target="frmContent" Href="../searchservlet?query=H03L1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03L1/04"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="H03L3/00 发生器的起振[3]" Target="frmContent" Href="../searchservlet?query=H03L3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03L3/00"/>
+  <TreeNode Title="H03L5/00 电压、电流或功率的自动控制[3]" Target="frmContent" Href="../searchservlet?query=H03L5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03L5/00">
+    <TreeNode Title="H03L5/02 #功率的自动控制[3]" Target="frmContent" Href="../searchservlet?query=H03L5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03L5/02"/>
+  </TreeNode>
+  <TreeNode Title="H03L7/00 频率或相位的自动控制；同步(一般谐振电路的调谐入H03J；数字通信系统中的同步见H04类中的有关各组)[3]" Target="frmContent" Href="../searchservlet?query=H03L7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03L7/00">
+    <TreeNode Title="H03L7/02 #应用由无源频率确定元件组成的鉴频器的[3]" Target="frmContent" Href="../searchservlet?query=H03L7/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03L7/02">
+      <TreeNode Title="H03L7/04 ##其中频率确定器元件是由分布电感和分布电容组成的[3]" Target="frmContent" Href="../searchservlet?query=H03L7/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03L7/04"/>
+    </TreeNode>
+    <TreeNode Title="H03L7/06 #应用加到频率或相位锁定环上的基准信号的[3]" Target="frmContent" Href="../searchservlet?query=H03L7/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03L7/06">
+      <TreeNode Title="H03L7/07 ##应用几个环路，例如，用于产生冗余时钟信号(用于间接频率合成入H03L 7/22)[5]" Target="frmContent" Href="../searchservlet?query=H03L7/07&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03L7/07"/>
+      <TreeNode Title="H03L7/08 ##锁相环的零部件[3]" Target="frmContent" Href="../searchservlet?query=H03L7/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03L7/08">
+        <TreeNode Title="H03L7/081 ###具有附加控制移相器的[5]" Target="frmContent" Href="../searchservlet?query=H03L7/081&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03L7/081"/>
+        <TreeNode Title="H03L7/083 ###基准信号是直接附加到发生器上的(没有环路的直接频率同步入H03L 7/24)[5]" Target="frmContent" Href="../searchservlet?query=H03L7/083&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03L7/083"/>
+        <TreeNode Title="H03L7/085 ###主要涉及频率或相位检波装置，包括对该装置输出信号的滤波或放大(H03L 7/10优先；一般频率或相位检波比较入H03D 3/00，H03D 13/00)[5]" Target="frmContent" Href="../searchservlet?query=H03L7/085&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03L7/085">
+          <TreeNode Title="H03L7/087 ####在环路中至少应用两个相位检波器或一个频率和相位检波器的[5]" Target="frmContent" Href="../searchservlet?query=H03L7/087&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03L7/087"/>
+          <TreeNode Title="H03L7/089 ####相位或频率检波器产生上—下脉冲的(H03L 7/087优先)[5]" Target="frmContent" Href="../searchservlet?query=H03L7/089&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03L7/089"/>
+          <TreeNode Title="H03L7/091 ####相位或频率检波器应用了取样装置的(H03L 7/087优先)[5]" Target="frmContent" Href="../searchservlet?query=H03L7/091&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03L7/091"/>
+          <TreeNode Title="H03L7/093 ####在环路中应用特殊的滤波或放大特性的(H03L 7/087至H03L 7/091优先)[5]" Target="frmContent" Href="../searchservlet?query=H03L7/093&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03L7/093"/>
+          <TreeNode Title="H03L7/095 ####应用同步检波器的(H03L 7/087优先)[5]" Target="frmContent" Href="../searchservlet?query=H03L7/095&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03L7/095"/>
+          <TreeNode Title="H03L7/097 ####应用比较器比较从两个频率到电压变换器得到的电压[5]" Target="frmContent" Href="../searchservlet?query=H03L7/097&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03L7/097"/>
+        </TreeNode>
+        <TreeNode Title="H03L7/099 ###主要涉及环路的控制振荡器的[5]" Target="frmContent" Href="../searchservlet?query=H03L7/099&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03L7/099"/>
+        <TreeNode Title="H03L7/10 ###用于确保起始同步的或用于扩展其捕捉范围的[3]" Target="frmContent" Href="../searchservlet?query=H03L7/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03L7/10">
+          <TreeNode Title="H03L7/107 ####将可变传输函数用于环路，例如具有可变带宽的低通滤波器的[5]" Target="frmContent" Href="../searchservlet?query=H03L7/107&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03L7/107"/>
+          <TreeNode Title="H03L7/113 ####应用鉴频器的[5]" Target="frmContent" Href="../searchservlet?query=H03L7/113&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03L7/113"/>
+          <TreeNode Title="H03L7/12 ####应用扫描信号的(在一频段上有自动扫描的调谐电路入H03J 7/18)[3]" Target="frmContent" Href="../searchservlet?query=H03L7/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03L7/12"/>
+        </TreeNode>
+        <TreeNode Title="H03L7/14 ###用于确保当电源或校正电压不足时频率恒定的[3]" Target="frmContent" Href="../searchservlet?query=H03L7/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03L7/14"/>
+      </TreeNode>
+      <TreeNode Title="H03L7/16 ##间接频率合成，即，应用频率或相位锁定环在多个预定频率中产生一个所要求的频率[3]" Target="frmContent" Href="../searchservlet?query=H03L7/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03L7/16">
+        <TreeNode Title="H03L7/18 ###在该环中应用分频器或计数器的(H03L 7/20，H03L 7/22优先)[3]" Target="frmContent" Href="../searchservlet?query=H03L7/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03L7/18">
+          <TreeNode Title="H03L7/181 ####将数字计数结果用于锁定环路，并且计数器在固定时间间隔内进行计数的[5]" Target="frmContent" Href="../searchservlet?query=H03L7/181&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03L7/181"/>
+          <TreeNode Title="H03L7/183 ####将时间差用于锁定环路，并且计数器在固定数之间进行计数或分频器由固定数进行分频的[5]" Target="frmContent" Href="../searchservlet?query=H03L7/183&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03L7/183">
+            <TreeNode Title="H03L7/185 #####在环路中应用混频器的(H03L 7/187至H03L 7/195优先)[5]" Target="frmContent" Href="../searchservlet?query=H03L7/185&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03L7/185"/>
+            <TreeNode Title="H03L7/187 #####应用粗调环路压控振荡器的装置(H03L 7/191至H03L 7/195优先)[5]" Target="frmContent" Href="../searchservlet?query=H03L7/187&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03L7/187">
+              <TreeNode Title="H03L7/189 ######含有用于产生粗调电压的D/A变换器的[5]" Target="frmContent" Href="../searchservlet?query=H03L7/189&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03L7/189"/>
+            </TreeNode>
+            <TreeNode Title="H03L7/191 #####从分频器或从决定时间差的计数器中采用至少两个不同信号的(H03L 7/193，H03L 7/195优先)[5]" Target="frmContent" Href="../searchservlet?query=H03L7/191&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03L7/191"/>
+            <TreeNode Title="H03L7/193 #####分频器/计数器包括可变换的预分频器，例如二模量分频器(脉冲计数器/分频器入H03K 21/00至H03K 29/00)[5]" Target="frmContent" Href="../searchservlet?query=H03L7/193&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03L7/193"/>
+            <TreeNode Title="H03L7/195 #####其中环路计数器在两个不同的非零数之间计数的，例如为了产生偏置频率(H03L 7/193优先；用于预定计数的脉冲计数器入H03K 21/00至H03K 29/00)[5]" Target="frmContent" Href="../searchservlet?query=H03L7/195&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03L7/195"/>
+          </TreeNode>
+          <TreeNode Title="H03L7/197 ####将时间差用于锁定环路，并且计数器在随时间变化的数字之间进行计数或分频器以随时间变化的因数进行分频的，例如用于获得分级分频的[5]" Target="frmContent" Href="../searchservlet?query=H03L7/197&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03L7/197">
+            <TreeNode Title="H03L7/199 #####带有复位分频器或计数器的，例如为了确保起始同步[5]" Target="frmContent" Href="../searchservlet?query=H03L7/199&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03L7/199"/>
+          </TreeNode>
+        </TreeNode>
+        <TreeNode Title="H03L7/20 ###应用谐波锁相环的，即一个环能锁定在加到该环上的多个谐波相关频率中的一个频率(H03L 7/22优先)[3]" Target="frmContent" Href="../searchservlet?query=H03L7/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03L7/20"/>
+        <TreeNode Title="H03L7/22 ###应用多个锁定环的[3]" Target="frmContent" Href="../searchservlet?query=H03L7/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03L7/22">
+          <TreeNode Title="H03L7/23 ####具有脉冲计数器或分频器的[5]" Target="frmContent" Href="../searchservlet?query=H03L7/23&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03L7/23"/>
+        </TreeNode>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="H03L7/24 #应用直接加在发生器上的基准信号的[3]" Target="frmContent" Href="../searchservlet?query=H03L7/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03L7/24"/>
+    <TreeNode Title="H03L7/26 #应用分子、原子或亚原子粒子的能级作为频率基准的[3]" Target="frmContent" Href="../searchservlet?query=H03L7/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03L7/26"/>
+  </TreeNode>
+  <TreeNode Title="H03L9/00 本小类其他组不包含的自动控制[8]" Target="frmContent" Href="../searchservlet?query=H03L9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H03L9/00"/>
+</Root>

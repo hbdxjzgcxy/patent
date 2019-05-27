@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="A01P1/00 消毒剂；抗微生物化合物或其组合物 [8]" Target="frmContent" Href="../searchservlet?query=A01P1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01P1/00"/>
+  <TreeNode Title="A01P3/00 杀菌剂 [8]" Target="frmContent" Href="../searchservlet?query=A01P3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01P3/00"/>
+  <TreeNode Title="A01P5/00 杀线虫剂 [8]" Target="frmContent" Href="../searchservlet?query=A01P5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01P5/00"/>
+  <TreeNode Title="A01P7/00 杀节肢动物剂 [8]" Target="frmContent" Href="../searchservlet?query=A01P7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01P7/00">
+    <TreeNode Title="A01P7/02 #杀螨剂 [8]" Target="frmContent" Href="../searchservlet?query=A01P7/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01P7/02"/>
+    <TreeNode Title="A01P7/04 #杀昆虫剂 [8]" Target="frmContent" Href="../searchservlet?query=A01P7/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01P7/04"/>
+  </TreeNode>
+  <TreeNode Title="A01P9/00 杀软体动物剂 [8]" Target="frmContent" Href="../searchservlet?query=A01P9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01P9/00"/>
+  <TreeNode Title="A01P11/00 杀啮齿类动物剂 [8]" Target="frmContent" Href="../searchservlet?query=A01P11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01P11/00"/>
+  <TreeNode Title="A01P13/00 除草剂；杀藻剂 [8]" Target="frmContent" Href="../searchservlet?query=A01P13/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01P13/00">
+    <TreeNode Title="A01P13/02 #选择性的 [8]" Target="frmContent" Href="../searchservlet?query=A01P13/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01P13/02"/>
+  </TreeNode>
+  <TreeNode Title="A01P15/00 在A01P 1/00至A01P 13/00组不包含的用于特殊目的的杀生剂 [8]" Target="frmContent" Href="../searchservlet?query=A01P15/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01P15/00">
+    <TreeNode Title="A01P17/00 #害虫驱避剂 [8]" Target="frmContent" Href="../searchservlet?query=A01P17/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01P17/00"/>
+    <TreeNode Title="A01P19/00 #害虫引诱剂 [8]" Target="frmContent" Href="../searchservlet?query=A01P19/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01P19/00"/>
+    <TreeNode Title="A01P21/00 #植物生长调节剂 [8]" Target="frmContent" Href="../searchservlet?query=A01P21/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01P21/00"/>
+  </TreeNode>
+  <TreeNode Title="A01P23/00 化学不育剂 [8]" Target="frmContent" Href="../searchservlet?query=A01P23/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01P23/00"/>
+</Root>

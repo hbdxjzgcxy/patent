@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="G05G3/00 被控构件(齿轮拨叉入F16H 63/32)；这类构件的组件或装置(被控构件的联锁入G05G 5/08)[1,7]" Target="frmContent" Href="../searchservlet?query=G05G3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05G3/00"/>
+  <TreeNode Title="G05G5/00 防止、限制或恢复控制机构的零部件运动的装置，例如锁定控制构件(G05G 17/00优先)[5]" Target="frmContent" Href="../searchservlet?query=G05G5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05G5/00">
+    <TreeNode Title="G05G5/02 #防止控制构件发生不希望移动的装置，此构件能以两个或多个单独的步骤或方式移动，例如限制为逐步移动或按特定的顺序移动(G05G 5/28优先)" Target="frmContent" Href="../searchservlet?query=G05G5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05G5/02"/>
+    <TreeNode Title="G05G5/03 #有助于操作者知道控制构件到达目标位置或基准位置的装置；提供感觉，例如，产生反作用力的装置(指示控制构件位置的装置入G05G 1/015)[5，2008.04]" Target="frmContent" Href="../searchservlet?query=G05G5/03&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05G5/03"/>
+    <TreeNode Title="G05G5/04 #限制构件运动的止动器，例如可调整的止动器(G05G 5/03、G05G 5/05、G05G 5/28优先)[5]" Target="frmContent" Href="../searchservlet?query=G05G5/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05G5/04"/>
+    <TreeNode Title="G05G5/05 #使控制构件返回或趋于返回到不工作或空档位置的装置，例如通过提供回复弹簧或有弹性的末端止动装置(G05G 5/28优先)[5]" Target="frmContent" Href="../searchservlet?query=G05G5/05&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05G5/05"/>
+    <TreeNode Title="G05G5/06 #用于仅将构件保持在一个或有限数目的确定位置上(G05G 5/03、G05G 5/05、G05G 5/28优先)[5]" Target="frmContent" Href="../searchservlet?query=G05G5/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05G5/06">
+      <TreeNode Title="G05G5/08 ##构件的联锁，例如在另一构件动作前或动作时将一个构件锁住在特定的位置上" Target="frmContent" Href="../searchservlet?query=G05G5/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05G5/08"/>
+    </TreeNode>
+    <TreeNode Title="G05G5/12 #用于在不确定数目的位置上固定构件，例如通过有齿的扇形体(G05G 5/28优先)[5]" Target="frmContent" Href="../searchservlet?query=G05G5/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05G5/12">
+      <TreeNode Title="G05G5/14 ##通过相对于固定的扇形体、杆或类似物锁定构件的" Target="frmContent" Href="../searchservlet?query=G05G5/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05G5/14">
+        <TreeNode Title="G05G5/16 ###利用摩擦作用" Target="frmContent" Href="../searchservlet?query=G05G5/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05G5/16"/>
+        <TreeNode Title="G05G5/18 ###通过直接的相互接合，例如用止动爪" Target="frmContent" Href="../searchservlet?query=G05G5/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05G5/18"/>
+      </TreeNode>
+      <TreeNode Title="G05G5/20 ##通过锁定构件所带有的扇形体、杆或其他类似物" Target="frmContent" Href="../searchservlet?query=G05G5/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05G5/20">
+        <TreeNode Title="G05G5/22 ###利用了摩擦作用" Target="frmContent" Href="../searchservlet?query=G05G5/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05G5/22"/>
+        <TreeNode Title="G05G5/24 ###通过直接的相互接合，例如用止动爪" Target="frmContent" Href="../searchservlet?query=G05G5/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05G5/24"/>
+      </TreeNode>
+      <TreeNode Title="G05G5/26 ##利用了除扇形体、杆或其类似物以外的其他装置" Target="frmContent" Href="../searchservlet?query=G05G5/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05G5/26"/>
+    </TreeNode>
+    <TreeNode Title="G05G5/28 #用于防止未经许可利用控制构件或使它动作进入到目标位置[5]" Target="frmContent" Href="../searchservlet?query=G05G5/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05G5/28"/>
+  </TreeNode>
+  <TreeNode Title="G05G7/00 备有单个的控制构件与单个的被控制构件配合的手动操纵的控制机构及其零部件(控制构件入G05G 1/00)" Target="frmContent" Href="../searchservlet?query=G05G7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05G7/00">
+    <TreeNode Title="G05G7/02 #按传送或变换运动、或者远距离操作的专门措施为特征的" Target="frmContent" Href="../searchservlet?query=G05G7/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05G7/02">
+      <TreeNode Title="G05G7/04 ##随控制构件位置而改变控制构件与被控构件间的运动比率或作用力的" Target="frmContent" Href="../searchservlet?query=G05G7/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05G7/04"/>
+      <TreeNode Title="G05G7/06 ##其中控制构件的重复运动产生被控构件运动的增量的(G05G 7/08优先)" Target="frmContent" Href="../searchservlet?query=G05G7/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05G7/06"/>
+      <TreeNode Title="G05G7/08 ##其中控制构件的重复运动导致被控构件经过不同位置的循环运动" Target="frmContent" Href="../searchservlet?query=G05G7/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05G7/08"/>
+      <TreeNode Title="G05G7/10 ##专门适用于远距离控制的(G05G 7/04至G05G 7/08优先)" Target="frmContent" Href="../searchservlet?query=G05G7/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05G7/10"/>
+    </TreeNode>
+    <TreeNode Title="G05G7/12 #专门适用于操纵在一个相对于控制构件是运动的系统上的构件，例如在一转轴上" Target="frmContent" Href="../searchservlet?query=G05G7/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05G7/12"/>
+    <TreeNode Title="G05G7/14 #按响应于来自控制构件的给定输入延迟启动被控构件的运动或使整个运动更加平缓的装置为特征，例如通过在指令序列中提供无效运动" Target="frmContent" Href="../searchservlet?query=G05G7/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05G7/14"/>
+    <TreeNode Title="G05G7/16 #减少机构支架间轻微相对运动的专门设施，例如由被控机构的弹性支架引起的" Target="frmContent" Href="../searchservlet?query=G05G7/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05G7/16"/>
+  </TreeNode>
+  <TreeNode Title="G05G9/00 备有单个的控制构件与两个或多个被控构件配合的手动操纵控制机构，例如选择地、同时地配合" Target="frmContent" Href="../searchservlet?query=G05G9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05G9/00">
+    <TreeNode Title="G05G9/02 #控制构件可以以不同的独立方式移动，每一个方式的运动只操纵一个被控构件" Target="frmContent" Href="../searchservlet?query=G05G9/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05G9/02">
+      <TreeNode Title="G05G9/04 ##其中能同时发生两种或多种方式的移动" Target="frmContent" Href="../searchservlet?query=G05G9/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05G9/04">
+        <TreeNode Title="G05G9/047 ###控制构件可用手相对正交轴转动，例如操纵杆[5]" Target="frmContent" Href="../searchservlet?query=G05G9/047&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05G9/047">
+          <TreeNode Title="G05G9/053 ####控制构件具有一个球状物[5]" Target="frmContent" Href="../searchservlet?query=G05G9/053&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05G9/053"/>
+        </TreeNode>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="G05G9/06 #由控制构件的重复运动依次地操纵被控构件" Target="frmContent" Href="../searchservlet?query=G05G9/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05G9/06"/>
+    <TreeNode Title="G05G9/08 #由控制构件的分级运动依次地操纵被控构件" Target="frmContent" Href="../searchservlet?query=G05G9/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05G9/08"/>
+    <TreeNode Title="G05G9/10 #控制构件以两种不同方式运动使每个被控构件作预选择和连接的运动，例如由移位选通装置引导" Target="frmContent" Href="../searchservlet?query=G05G9/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05G9/10"/>
+  </TreeNode>
+  <TreeNode Title="G05G11/00 备有两个或多个控制构件与单个被控构件配合的手动操纵控制机构" Target="frmContent" Href="../searchservlet?query=G05G11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05G11/00"/>
+  <TreeNode Title="G05G13/00 备有两个或多个控制构件以及还有两个或多个被控构件的手动操纵控制机构(联锁的入G05G 5/08)" Target="frmContent" Href="../searchservlet?query=G05G13/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05G13/00">
+    <TreeNode Title="G05G13/02 #具有以被控构件的预选和移动为目的的单个的控制构件" Target="frmContent" Href="../searchservlet?query=G05G13/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05G13/02"/>
+  </TreeNode>
+  <TreeNode Title="G05G15/00 由于特殊原因自动发生动作的机械装置" Target="frmContent" Href="../searchservlet?query=G05G15/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05G15/00">
+    <TreeNode Title="G05G15/02 #由于构件运动方向的改变引起的" Target="frmContent" Href="../searchservlet?query=G05G15/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05G15/02"/>
+    <TreeNode Title="G05G15/04 #由于构件运动的距离或角度引起的" Target="frmContent" Href="../searchservlet?query=G05G15/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05G15/04"/>
+    <TreeNode Title="G05G15/06 #由于构件转速或本身运动速度引起的，例如超过了它的上限或下限(速度计入G01P)" Target="frmContent" Href="../searchservlet?query=G05G15/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05G15/06"/>
+    <TreeNode Title="G05G15/08 #由于作用于构件上的负荷或转矩引起的，例如如果负荷或转矩超过了一个预定值" Target="frmContent" Href="../searchservlet?query=G05G15/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05G15/08"/>
+  </TreeNode>
+  <TreeNode Title="G05G17/00 用于移动释放后构件的机械装置；按其特性区分的脱扣或释放机构" Target="frmContent" Href="../searchservlet?query=G05G17/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05G17/00"/>
+  <TreeNode Title="G05G19/00 有跟随作用的伺服机构，例如逐步发生的" Target="frmContent" Href="../searchservlet?query=G05G19/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05G19/00"/>
+  <TreeNode Title="G05G21/00 控制一系列操作的机械装置，即程序控制，例如包括一组凸轮(G05G 5/02优先)" Target="frmContent" Href="../searchservlet?query=G05G21/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05G21/00"/>
+  <TreeNode Title="G05G23/00 保证控制机构零部件正确定位的装置，例如用于开始动作的" Target="frmContent" Href="../searchservlet?query=G05G23/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05G23/00">
+    <TreeNode Title="G05G23/02 #自调整的" Target="frmContent" Href="../searchservlet?query=G05G23/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05G23/02"/>
+  </TreeNode>
+  <TreeNode Title="G05G25/00 控制机构的其他零件、部件或附件，例如起弹性支撑的中间构件" Target="frmContent" Href="../searchservlet?query=G05G25/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05G25/00">
+    <TreeNode Title="G05G25/02 #抑制噪声的产生或传输[5]" Target="frmContent" Href="../searchservlet?query=G05G25/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05G25/02"/>
+    <TreeNode Title="G05G25/04 #防止尘埃进入、气候或类似的影响的密封[5]" Target="frmContent" Href="../searchservlet?query=G05G25/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05G25/04"/>
+  </TreeNode>
+</Root>

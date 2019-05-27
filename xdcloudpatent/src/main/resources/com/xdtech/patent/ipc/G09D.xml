@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="G09D1/00 铁路用或类似用途的时间表或计费表；其辅助指示或读出装置(实质上结合地图或路线图的入G09B；铁路路线图表入G09B；显示装置，例如铁路指示器板入G09F)" Target="frmContent" Href="../searchservlet?query=G09D1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G09D1/00"/>
+  <TreeNode Title="G09D3/00 长期使用的日历" Target="frmContent" Href="../searchservlet?query=G09D3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G09D3/00">
+    <TreeNode Title="G09D3/02 #带有可互换的有标记构件" Target="frmContent" Href="../searchservlet?query=G09D3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G09D3/02"/>
+    <TreeNode Title="G09D3/04 #在日历中装有可移动标记的构件" Target="frmContent" Href="../searchservlet?query=G09D3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G09D3/04">
+      <TreeNode Title="G09D3/06 ##带有可转动的构件" Target="frmContent" Href="../searchservlet?query=G09D3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G09D3/06">
+        <TreeNode Title="G09D3/08 ###圆盘形的" Target="frmContent" Href="../searchservlet?query=G09D3/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G09D3/08"/>
+      </TreeNode>
+      <TreeNode Title="G09D3/10 ##具有带形的构件" Target="frmContent" Href="../searchservlet?query=G09D3/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G09D3/10"/>
+    </TreeNode>
+    <TreeNode Title="G09D3/12 #电操作的" Target="frmContent" Href="../searchservlet?query=G09D3/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G09D3/12"/>
+  </TreeNode>
+</Root>

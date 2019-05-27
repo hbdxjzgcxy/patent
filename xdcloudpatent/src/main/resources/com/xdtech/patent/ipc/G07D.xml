@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="G07D1/00 找币机" Target="frmContent" Href="../searchservlet?query=G07D1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G07D1/00">
+    <TreeNode Title="G07D1/02 #给出零钱" Target="frmContent" Href="../searchservlet?query=G07D1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G07D1/02">
+      <TreeNode Title="G07D1/04 ##分发等于存入额的零钱的" Target="frmContent" Href="../searchservlet?query=G07D1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G07D1/04"/>
+      <TreeNode Title="G07D1/06 ##分发支付与收入间差额的" Target="frmContent" Href="../searchservlet?query=G07D1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G07D1/06"/>
+      <TreeNode Title="G07D1/08 ##手启动的" Target="frmContent" Href="../searchservlet?query=G07D1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G07D1/08"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="G07D3/00 按其面额分开大量混合货币[1，7]" Target="frmContent" Href="../searchservlet?query=G07D3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G07D3/00">
+    <TreeNode Title="G07D3/02 #用分级孔隙分开硬币" Target="frmContent" Href="../searchservlet?query=G07D3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G07D3/02">
+      <TreeNode Title="G07D3/04 ##在倾斜轨道上排列的" Target="frmContent" Href="../searchservlet?query=G07D3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G07D3/04"/>
+      <TreeNode Title="G07D3/06 ##沿圆形通道排列的" Target="frmContent" Href="../searchservlet?query=G07D3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G07D3/06"/>
+      <TreeNode Title="G07D3/08 ##按螺旋形排列的" Target="frmContent" Href="../searchservlet?query=G07D3/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G07D3/08"/>
+      <TreeNode Title="G07D3/10 ##靠顺序排列的筛子提供的" Target="frmContent" Href="../searchservlet?query=G07D3/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G07D3/10"/>
+    </TreeNode>
+    <TreeNode Title="G07D3/12 #用步进偏转器分开硬币" Target="frmContent" Href="../searchservlet?query=G07D3/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G07D3/12"/>
+    <TreeNode Title="G07D3/14 #在硬币传感元件的控制下驱动的设备" Target="frmContent" Href="../searchservlet?query=G07D3/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G07D3/14"/>
+    <TreeNode Title="G07D3/16 #与硬币计数结合" Target="frmContent" Href="../searchservlet?query=G07D3/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G07D3/16"/>
+  </TreeNode>
+  <TreeNode Title="G07D5/00 专门适用于确定硬币的同一性或真实性的检验，例如用于分离不合格的或不流通的硬币[1，7]" Target="frmContent" Href="../searchservlet?query=G07D5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G07D5/00">
+    <TreeNode Title="G07D5/02 #检验尺寸，例如厚度、直径；检验变形[3]" Target="frmContent" Href="../searchservlet?query=G07D5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G07D5/02"/>
+    <TreeNode Title="G07D5/04 #检验重量[3]" Target="frmContent" Href="../searchservlet?query=G07D5/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G07D5/04"/>
+    <TreeNode Title="G07D5/06 #检验硬度或弹性[3]" Target="frmContent" Href="../searchservlet?query=G07D5/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G07D5/06"/>
+    <TreeNode Title="G07D5/08 #检验磁的或电的性质[3]" Target="frmContent" Href="../searchservlet?query=G07D5/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G07D5/08"/>
+    <TreeNode Title="G07D5/10 #检验边缘，例如边缘的研磨[3]" Target="frmContent" Href="../searchservlet?query=G07D5/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G07D5/10"/>
+  </TreeNode>
+  <TreeNode Title="G07D7/00 专门适用于确定纸币或类似有价纸币的同一性或真实性的检验，例如：用于分离不合格的或不流通的纸币[2]" Target="frmContent" Href="../searchservlet?query=G07D7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G07D7/00">
+    <TreeNode Title="G07D7/02 #采用电装置(G07D 7/04，G07D 7/06优先)[7]" Target="frmContent" Href="../searchservlet?query=G07D7/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G07D7/02"/>
+    <TreeNode Title="G07D7/04 #采用磁装置，例如磁印记的检测[7]" Target="frmContent" Href="../searchservlet?query=G07D7/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G07D7/04"/>
+    <TreeNode Title="G07D7/06 #采用波或粒子辐射[7]" Target="frmContent" Href="../searchservlet?query=G07D7/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G07D7/06">
+      <TreeNode Title="G07D7/08 ##声波[7]" Target="frmContent" Href="../searchservlet?query=G07D7/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G07D7/08"/>
+      <TreeNode Title="G07D7/10 ##微波[7]" Target="frmContent" Href="../searchservlet?query=G07D7/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G07D7/10"/>
+      <TreeNode Title="G07D7/12 ##可见光、红外辐射或紫外辐射[7]" Target="frmContent" Href="../searchservlet?query=G07D7/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G07D7/12"/>
+    </TreeNode>
+    <TreeNode Title="G07D7/14 #采用化学装置[7]" Target="frmContent" Href="../searchservlet?query=G07D7/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G07D7/14"/>
+    <TreeNode Title="G07D7/16 #检验尺寸[7]" Target="frmContent" Href="../searchservlet?query=G07D7/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G07D7/16"/>
+    <TreeNode Title="G07D7/18 #检验硬度[7]" Target="frmContent" Href="../searchservlet?query=G07D7/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G07D7/18"/>
+    <TreeNode Title="G07D7/20 #检验其上的图案[7]" Target="frmContent" Href="../searchservlet?query=G07D7/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G07D7/20"/>
+  </TreeNode>
+  <TreeNode Title="G07D9/00 硬币计数(与硬币分类结合入G07D 3/16)；本小类其他组中不包括的硬币的处理" Target="frmContent" Href="../searchservlet?query=G07D9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G07D9/00">
+    <TreeNode Title="G07D9/02 #零钱盘" Target="frmContent" Href="../searchservlet?query=G07D9/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G07D9/02"/>
+    <TreeNode Title="G07D9/04 #手或马达驱动的用于硬币计数的装置" Target="frmContent" Href="../searchservlet?query=G07D9/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G07D9/04"/>
+    <TreeNode Title="G07D9/06 #用于在一支撑物，如硬币计数用的带孔板上，堆放或以其他方式排列硬币的装置" Target="frmContent" Href="../searchservlet?query=G07D9/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G07D9/06"/>
+  </TreeNode>
+  <TreeNode Title="G07D11/00 接受硬币或纸币的装置，如存款机(投币或电硬币启动的设备或类似设备入G07F；投纸币或电纸币启动的设备入G07F 7/04；完整的银行系统入G07F 19/00)[5]" Target="frmContent" Href="../searchservlet?query=G07D11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G07D11/00"/>
+  <TreeNode Title="G07D13/00 以G07D 1/00至G07D 11/00各组中的每单一小组均不包括的机械装置的组合为特征的硬币、纸币或类似有价纸币的处理[5]" Target="frmContent" Href="../searchservlet?query=G07D13/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G07D13/00"/>
+</Root>

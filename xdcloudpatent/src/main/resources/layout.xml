@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE tiles-definitions PUBLIC
+     "-//Apache Software Foundation//DTD Tiles Configuration 3.0//EN"
+     "http://tiles.apache.org/dtds/tiles-config_3_0.dtd">
+<tiles-definitions>
+	<!-- 主布局 -->
+	<definition name="layout" template="/layout/layout.jsp">
+		<put-attribute name="title" value="线点云专利平台" />
+		<put-attribute name="header" value="/layout/header.jsp" />
+		<put-attribute name="left" value="/layout/left.jsp" />
+		<put-attribute name="right" value="/layout/right.jsp" />
+		<put-attribute name="footer" value="/layout/footer.jsp" />
+	</definition>
+	<!-- 主布局 -->
+	
+	<!-- 用户中心 -->
+	<definition name="layout2" template="/layout/layout2.jsp">
+		<put-attribute name="title" value="线点云专利平台" />
+		<put-attribute name="header" value="/layout/header.jsp" />
+		<put-attribute name="left" value="/layout/left2.jsp" />
+		<put-attribute name="right" value="/layout/right.jsp" />
+		<put-attribute name="footer" value="/layout/footer.jsp" />
+	</definition>
+	<!-- 主布局 -->
+
+	<definition name="index" extends="layout2">
+		<put-attribute name="right" value="/index.jsp" />
+	</definition>
+	
+	<definition name="search/*" extends="layout">
+		<put-attribute name="right" value="/{1}_search.jsp" />
+	</definition>
+	
+	<definition name="search/result/*" extends="layout">
+		<put-attribute name="search_js" value="/js/search.js"/>
+		<put-attribute name="right" value="/result_{1}.jsp" />
+	</definition>
+	
+	<definition name="search/result/favlist" extends="layout2">
+		<put-attribute name="right" value="/fav_result_list.jsp" />
+	</definition>
+	
+	<definition name="analysis/index" extends="layout">
+		<put-attribute name="right" value="/patent_analysis.jsp" />
+	</definition>
+	<definition name="analysis/complete" extends="layout">
+		<put-attribute name="right" value="/patent_complete_analysis.jsp" />
+	</definition>
+	<definition name="analysis/custom" extends="layout">
+		<put-attribute name="right" value="/patent_custom_analysis.jsp" />
+	</definition>
+	
+	<definition name="adminCenter/index" extends="layout2">
+		<put-attribute name="right" value="/admin_center.jsp" />
+	</definition>
+	
+	<definition name="user/modifypass" extends="layout2">
+		<put-attribute name="right" value="/user_modify_pwd.jsp" />
+	</definition>
+	<definition name="user/user_favorites" extends="layout2">
+		<put-attribute name="right" value="/user_favorites.jsp" />
+	</definition>
+	
+	<definition name="content/topic" extends="layout2">
+		<put-attribute name="right" value="/content_topic.jsp" />
+	</definition>
+	<definition name="import/model" extends="layout2">
+		<put-attribute name="right" value="/import_model.jsp" />
+	</definition>
+	<definition name="pdf/handle" extends="layout2">
+		<put-attribute name="right" value="/pdf_handle.jsp" />
+	</definition>
+	<definition name="user/user_setting_info" extends="layout2">
+		<put-attribute name="right" value="/user_setting_info.jsp" />
+	</definition>
+	
+	<definition name="content/topic/create" extends="layout2">
+		<put-attribute name="right" value="/content_topic_create.jsp" />
+	</definition>
+	
+	<definition name="sys/account" extends="layout2">
+		<put-attribute name="right" value="/sys_account_manage.jsp" />
+	</definition>
+	<definition name="sys/account/sub" extends="layout2">
+		<put-attribute name="right" value="/sys_sub_account_manage.jsp" />
+	</definition>
+	<definition name="sys/role" extends="layout2">
+		<put-attribute name="right" value="/sys_role_manage.jsp" />
+	</definition>
+	<definition name="sys/param" extends="layout2">
+		<put-attribute name="right" value="/sys_param_setting.jsp" />
+	</definition>
+	<definition name="search/history" extends="layout2">
+		<put-attribute name="right" value="/history_search.jsp" />
+	</definition>
+	<definition name="search/ipc" extends="layout">
+		<put-attribute name="right" value="/ipc_search.jsp" />
+	</definition>
+	<definition name="user/logs" extends="layout2">
+		<put-attribute name="right" value="/user_logs.jsp" />
+	</definition>
+</tiles-definitions>

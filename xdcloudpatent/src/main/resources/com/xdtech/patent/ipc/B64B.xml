@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="B64B1/00 轻于空气的飞行器" Target="frmContent" Href="../searchservlet?query=B64B1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B64B1/00">
+    <TreeNode Title="B64B1/02 # 非刚性飞船(B64B 1/58优先；气球入B64B 1/40)" Target="frmContent" Href="../searchservlet?query=B64B1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B64B1/02">
+      <TreeNode Title="B64B1/04 ##外形由连接对置表面的连接件或绳索保持的" Target="frmContent" Href="../searchservlet?query=B64B1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B64B1/04"/>
+    </TreeNode>
+    <TreeNode Title="B64B1/06 # 刚性飞船；半刚性飞船(B64B 1/58优先)" Target="frmContent" Href="../searchservlet?query=B64B1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B64B1/06">
+      <TreeNode Title="B64B1/08 ##框架结构" Target="frmContent" Href="../searchservlet?query=B64B1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B64B1/08"/>
+      <TreeNode Title="B64B1/10 ##尾部结构(B64B 1/12优先)" Target="frmContent" Href="../searchservlet?query=B64B1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B64B1/10"/>
+      <TreeNode Title="B64B1/12 ##活动操纵面" Target="frmContent" Href="../searchservlet?query=B64B1/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B64B1/12"/>
+      <TreeNode Title="B64B1/14 ##外壳" Target="frmContent" Href="../searchservlet?query=B64B1/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B64B1/14">
+        <TreeNode Title="B64B1/16 ###刚性的" Target="frmContent" Href="../searchservlet?query=B64B1/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B64B1/16"/>
+        <TreeNode Title="B64B1/18 ###附装于结构上的" Target="frmContent" Href="../searchservlet?query=B64B1/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B64B1/18"/>
+      </TreeNode>
+      <TreeNode Title="B64B1/20 ##装有机翼或稳定面的" Target="frmContent" Href="../searchservlet?query=B64B1/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B64B1/20"/>
+      <TreeNode Title="B64B1/22 ##舱室或吊舱的配置" Target="frmContent" Href="../searchservlet?query=B64B1/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B64B1/22"/>
+      <TreeNode Title="B64B1/24 ##推进装置的配置(B64B 1/34优先)" Target="frmContent" Href="../searchservlet?query=B64B1/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B64B1/24">
+        <TreeNode Title="B64B1/26 ###装在管道内的" Target="frmContent" Href="../searchservlet?query=B64B1/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B64B1/26"/>
+        <TreeNode Title="B64B1/28 ###装在短舱内的" Target="frmContent" Href="../searchservlet?query=B64B1/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B64B1/28"/>
+        <TreeNode Title="B64B1/30 ###螺旋桨的配置" Target="frmContent" Href="../searchservlet?query=B64B1/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B64B1/30">
+          <TreeNode Title="B64B1/32 ####在船身周围的" Target="frmContent" Href="../searchservlet?query=B64B1/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B64B1/32"/>
+          <TreeNode Title="B64B1/34 ####升力螺旋桨的" Target="frmContent" Href="../searchservlet?query=B64B1/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B64B1/34"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="B64B1/36 ##用于推进或方向控制的喷射反作用装置的配置" Target="frmContent" Href="../searchservlet?query=B64B1/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B64B1/36"/>
+      <TreeNode Title="B64B1/38 ##重心位置的控制" Target="frmContent" Href="../searchservlet?query=B64B1/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B64B1/38"/>
+    </TreeNode>
+    <TreeNode Title="B64B1/40 # 气球(B64B 1/58优先；玩具气球入A63H 27/10)" Target="frmContent" Href="../searchservlet?query=B64B1/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B64B1/40">
+      <TreeNode Title="B64B1/42 ##稳定面的结构或附件" Target="frmContent" Href="../searchservlet?query=B64B1/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B64B1/42"/>
+      <TreeNode Title="B64B1/44 ##适用于保持预定高度的" Target="frmContent" Href="../searchservlet?query=B64B1/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B64B1/44"/>
+      <TreeNode Title="B64B1/46 ##与引爆装置有关的" Target="frmContent" Href="../searchservlet?query=B64B1/46&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B64B1/46">
+        <TreeNode Title="B64B1/48 ###能用降落伞投放载荷的" Target="frmContent" Href="../searchservlet?query=B64B1/48&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B64B1/48"/>
+      </TreeNode>
+      <TreeNode Title="B64B1/50 ##系留气球" Target="frmContent" Href="../searchservlet?query=B64B1/50&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B64B1/50">
+        <TreeNode Title="B64B1/52 ###系于拖曳牵连物的" Target="frmContent" Href="../searchservlet?query=B64B1/52&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B64B1/52"/>
+        <TreeNode Title="B64B1/54 ###重叠连接两个或多个气球的" Target="frmContent" Href="../searchservlet?query=B64B1/54&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B64B1/54"/>
+        <TreeNode Title="B64B1/56 ###用旋转运动稳定的" Target="frmContent" Href="../searchservlet?query=B64B1/56&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B64B1/56"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="B64B1/58 # 气囊的配置或结构；充填装置(阀与可膨胀弹性体的连接入B60C 29/00)" Target="frmContent" Href="../searchservlet?query=B64B1/58&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B64B1/58">
+      <TreeNode Title="B64B1/60 ##由分隔开的惰性气体容器包围的气囊" Target="frmContent" Href="../searchservlet?query=B64B1/60&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B64B1/60"/>
+      <TreeNode Title="B64B1/62 ##气体压力，加热，冷却或排气的控制" Target="frmContent" Href="../searchservlet?query=B64B1/62&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B64B1/62"/>
+      <TreeNode Title="B64B1/64 ##气阀操纵机构" Target="frmContent" Href="../searchservlet?query=B64B1/64&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B64B1/64"/>
+    </TreeNode>
+    <TreeNode Title="B64B1/66 # 系留附属设备(系留桩入B64F 1/14)" Target="frmContent" Href="../searchservlet?query=B64B1/66&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B64B1/66"/>
+    <TreeNode Title="B64B1/68 # 水浮装置" Target="frmContent" Href="../searchservlet?query=B64B1/68&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B64B1/68"/>
+    <TreeNode Title="B64B1/70 # 压载装置" Target="frmContent" Href="../searchservlet?query=B64B1/70&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B64B1/70"/>
+  </TreeNode>
+</Root>

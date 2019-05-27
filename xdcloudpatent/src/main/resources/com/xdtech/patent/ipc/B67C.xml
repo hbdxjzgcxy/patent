@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="B67C3/00 液体或半液体注入瓶中；用瓶子或类似器皿将液体或半液体注入罐或罐头内；将液体或半液体注入木桶内或桶内(利用瓶子以外的器皿或类似的器皿将液体或半液体注入容器内入B65B 3/00)" Target="frmContent" Href="../searchservlet?query=B67C3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B67C3/00">
+    <TreeNode Title="B67C3/02 # 液体或半液体注入瓶子内；利用灌注装置或类似装置将液体或半液体注入大口瓶或罐头内" Target="frmContent" Href="../searchservlet?query=B67C3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B67C3/02">
+      <TreeNode Title="B67C3/04 ##不加压" Target="frmContent" Href="../searchservlet?query=B67C3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B67C3/04"/>
+      <TreeNode Title="B67C3/06 ##使用反压力，即当容器处于压力状态下进行灌注" Target="frmContent" Href="../searchservlet?query=B67C3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B67C3/06">
+        <TreeNode Title="B67C3/08 ###随后降低反压力" Target="frmContent" Href="../searchservlet?query=B67C3/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B67C3/08"/>
+        <TreeNode Title="B67C3/10 ###预先注入惰性气体，例如二氧化碳" Target="frmContent" Href="../searchservlet?query=B67C3/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B67C3/10"/>
+        <TreeNode Title="B67C3/12 ###压力控制装置" Target="frmContent" Href="../searchservlet?query=B67C3/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B67C3/12"/>
+        <TreeNode Title="B67C3/14 ###专门用于灌注热液体" Target="frmContent" Href="../searchservlet?query=B67C3/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B67C3/14"/>
+      </TreeNode>
+      <TreeNode Title="B67C3/16 ##利用抽吸" Target="frmContent" Href="../searchservlet?query=B67C3/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B67C3/16"/>
+      <TreeNode Title="B67C3/18 ##使用虹吸装置" Target="frmContent" Href="../searchservlet?query=B67C3/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B67C3/18"/>
+      <TreeNode Title="B67C3/20 ##例如当添加糖汁时，备有计量输入流体的装置(容积或容积流量计量一般入G01F)" Target="frmContent" Href="../searchservlet?query=B67C3/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B67C3/20"/>
+      <TreeNode Title="B67C3/22 ##零件" Target="frmContent" Href="../searchservlet?query=B67C3/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B67C3/22">
+        <TreeNode Title="B67C3/24 ###存放或输送瓶子的装置(运输或存放装置一般入B65G)" Target="frmContent" Href="../searchservlet?query=B67C3/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B67C3/24"/>
+        <TreeNode Title="B67C3/26 ###灌注装置；使灌注装置与瓶颈连接的装置" Target="frmContent" Href="../searchservlet?query=B67C3/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B67C3/26"/>
+        <TreeNode Title="B67C3/28 ###流量控制装置，例如使用阀(阀一般入F16K)" Target="frmContent" Href="../searchservlet?query=B67C3/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B67C3/28"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="B67C3/30 # 桶或木桶的灌注" Target="frmContent" Href="../searchservlet?query=B67C3/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B67C3/30">
+      <TreeNode Title="B67C3/32 ##使用反压力，即当容器处于压力状态下进行灌注" Target="frmContent" Href="../searchservlet?query=B67C3/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B67C3/32"/>
+      <TreeNode Title="B67C3/34 ##使灌注装置与灌注口连接的装置" Target="frmContent" Href="../searchservlet?query=B67C3/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B67C3/34"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="B67C7/00 对瓶子同时进行清洗、灌注和封装；至少包括其中两种工序的工艺或装置" Target="frmContent" Href="../searchservlet?query=B67C7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B67C7/00"/>
+  <TreeNode Title="B67C9/00 不包含在其他类目中的瓶子、罐、罐头、木桶、桶或类似容器的排空(倾倒和排空容器的装置入B65G 65/23)[3]" Target="frmContent" Href="../searchservlet?query=B67C9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B67C9/00"/>
+  <TreeNode Title="B67C11/00 漏斗，例如用于液体(过滤漏斗入B01D 29/085；容积流量计入G01F)" Target="frmContent" Href="../searchservlet?query=B67C11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B67C11/00">
+    <TreeNode Title="B67C11/02 # 无排放阀" Target="frmContent" Href="../searchservlet?query=B67C11/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B67C11/02"/>
+    <TreeNode Title="B67C11/04 # 带有非自动排放阀" Target="frmContent" Href="../searchservlet?query=B67C11/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B67C11/04"/>
+    <TreeNode Title="B67C11/06 # 带有自动排放阀" Target="frmContent" Href="../searchservlet?query=B67C11/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B67C11/06"/>
+  </TreeNode>
+</Root>

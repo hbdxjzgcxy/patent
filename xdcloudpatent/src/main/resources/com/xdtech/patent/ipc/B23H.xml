@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="B23H1/00 放电加工，即在液体电介质中，采用在电极和工件之间一连串迅速重复放电的方法移去金属[4]" Target="frmContent" Href="../searchservlet?query=B23H1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B23H1/00">
+    <TreeNode Title="B23H1/02 #专门适用的电路，例如供电，控制，防止短路或其他异常放电[4]" Target="frmContent" Href="../searchservlet?query=B23H1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B23H1/02"/>
+    <TreeNode Title="B23H1/04 #专用电极或其制造(B23H 9/00优先)[4]" Target="frmContent" Href="../searchservlet?query=B23H1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B23H1/04">
+      <TreeNode Title="B23H1/06 ##电极材料[4]" Target="frmContent" Href="../searchservlet?query=B23H1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B23H1/06"/>
+    </TreeNode>
+    <TreeNode Title="B23H1/08 #工作介质[4]" Target="frmContent" Href="../searchservlet?query=B23H1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B23H1/08"/>
+    <TreeNode Title="B23H1/10 #工作介质的供给或再生[4]" Target="frmContent" Href="../searchservlet?query=B23H1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B23H1/10"/>
+  </TreeNode>
+  <TreeNode Title="B23H3/00 电化加工，即在电解液中，在电极和工件之间通过电流除掉金属[4]" Target="frmContent" Href="../searchservlet?query=B23H3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B23H3/00">
+    <TreeNode Title="B23H3/02 #其专用电路，例如供电，控制，防止短路[4]" Target="frmContent" Href="../searchservlet?query=B23H3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B23H3/02"/>
+    <TreeNode Title="B23H3/04 #其专门适用的电极或其制造(B23H 9/00优先)[4]" Target="frmContent" Href="../searchservlet?query=B23H3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B23H3/04">
+      <TreeNode Title="B23H3/06 ##电极材料[4]" Target="frmContent" Href="../searchservlet?query=B23H3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B23H3/06"/>
+    </TreeNode>
+    <TreeNode Title="B23H3/08 #工作介质[4]" Target="frmContent" Href="../searchservlet?query=B23H3/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B23H3/08"/>
+    <TreeNode Title="B23H3/10 #工作介质的供给或再生[4]" Target="frmContent" Href="../searchservlet?query=B23H3/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B23H3/10"/>
+  </TreeNode>
+  <TreeNode Title="B23H5/00 组合加工[4]" Target="frmContent" Href="../searchservlet?query=B23H5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B23H5/00">
+    <TreeNode Title="B23H5/02 #放电加工与电化加工组合[4]" Target="frmContent" Href="../searchservlet?query=B23H5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B23H5/02"/>
+    <TreeNode Title="B23H5/04 #放电加工与机械加工组合[4]" Target="frmContent" Href="../searchservlet?query=B23H5/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B23H5/04"/>
+    <TreeNode Title="B23H5/06 #电化学加工与机械加工组合，例如磨削或珩磨[4]" Target="frmContent" Href="../searchservlet?query=B23H5/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B23H5/06">
+      <TreeNode Title="B23H5/08 ##电解磨削[4]" Target="frmContent" Href="../searchservlet?query=B23H5/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B23H5/08"/>
+    </TreeNode>
+    <TreeNode Title="B23H5/10 #专门适用的电极或其制造(B23H 1/04，B23H 3/04优先)[4]" Target="frmContent" Href="../searchservlet?query=B23H5/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B23H5/10"/>
+    <TreeNode Title="B23H5/12 #工作介质[4]" Target="frmContent" Href="../searchservlet?query=B23H5/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B23H5/12"/>
+    <TreeNode Title="B23H5/14 #工作介质的供给或再生[4]" Target="frmContent" Href="../searchservlet?query=B23H5/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B23H5/14"/>
+  </TreeNode>
+  <TreeNode Title="B23H7/00 可兼用于放电加工和电化加工的方法或设备[4]" Target="frmContent" Href="../searchservlet?query=B23H7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B23H7/00">
+    <TreeNode Title="B23H7/02 #线切割[4]" Target="frmContent" Href="../searchservlet?query=B23H7/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B23H7/02">
+      <TreeNode Title="B23H7/04 ##将电流供给加工间隙的设备，其专用电路[4]" Target="frmContent" Href="../searchservlet?query=B23H7/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B23H7/04"/>
+      <TreeNode Title="B23H7/06 ##电极和工件之间相对运动行程曲线的控制[4]" Target="frmContent" Href="../searchservlet?query=B23H7/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B23H7/06"/>
+      <TreeNode Title="B23H7/08 ##线电极[4]" Target="frmContent" Href="../searchservlet?query=B23H7/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B23H7/08">
+        <TreeNode Title="B23H7/10 ###线电极的支承，绕组或电气连接[4]" Target="frmContent" Href="../searchservlet?query=B23H7/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B23H7/10"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="B23H7/12 #转盘式电极[4]" Target="frmContent" Href="../searchservlet?query=B23H7/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B23H7/12"/>
+    <TreeNode Title="B23H7/14 #专用电路，例如供电[4]" Target="frmContent" Href="../searchservlet?query=B23H7/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B23H7/14">
+      <TreeNode Title="B23H7/16 ##用于防止短路或其他异常放电[4]" Target="frmContent" Href="../searchservlet?query=B23H7/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B23H7/16"/>
+      <TreeNode Title="B23H7/18 ##用于在电极或工件之间保持或控制要求的距离[4]" Target="frmContent" Href="../searchservlet?query=B23H7/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B23H7/18"/>
+      <TreeNode Title="B23H7/20 ##用于程序控制，例如自适应控制[4]" Target="frmContent" Href="../searchservlet?query=B23H7/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B23H7/20"/>
+    </TreeNode>
+    <TreeNode Title="B23H7/22 #专用电极或其制造(B23H 7/08，B23H 7/12，B23H 9/00优先)[4]" Target="frmContent" Href="../searchservlet?query=B23H7/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B23H7/22">
+      <TreeNode Title="B23H7/24 ##电极材料[4]" Target="frmContent" Href="../searchservlet?query=B23H7/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B23H7/24"/>
+    </TreeNode>
+    <TreeNode Title="B23H7/26 #用于电极相对工件移动或定位的装置；电极的安装[4]" Target="frmContent" Href="../searchservlet?query=B23H7/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B23H7/26">
+      <TreeNode Title="B23H7/28 ##在垂直于进给方向的平面内移动电极，例如作轨道运行[4]" Target="frmContent" Href="../searchservlet?query=B23H7/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B23H7/28"/>
+      <TreeNode Title="B23H7/30 ##在进给方向移动电极(B23H 7/32优先)[4]" Target="frmContent" Href="../searchservlet?query=B23H7/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B23H7/30"/>
+      <TreeNode Title="B23H7/32 ##在电极和工件之间保持要求和距离[4]" Target="frmContent" Href="../searchservlet?query=B23H7/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B23H7/32"/>
+    </TreeNode>
+    <TreeNode Title="B23H7/34 #工作介质[4]" Target="frmContent" Href="../searchservlet?query=B23H7/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B23H7/34"/>
+    <TreeNode Title="B23H7/36 #工作介质的供给或再生[4]" Target="frmContent" Href="../searchservlet?query=B23H7/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B23H7/36"/>
+    <TreeNode Title="B23H7/38 #采用不直接涉及除掉金属的专用方法对金属加工，如超声波，磁场或激光照射[4]" Target="frmContent" Href="../searchservlet?query=B23H7/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B23H7/38"/>
+  </TreeNode>
+  <TreeNode Title="B23H9/00 专门适用于处理特殊金属制品或为在金属制品上获得特殊效果或结果而专用机械加工(用阴极放电热处理入C21D 1/38)[4]" Target="frmContent" Href="../searchservlet?query=B23H9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B23H9/00">
+    <TreeNode Title="B23H9/02 #修正或去毛刺[4]" Target="frmContent" Href="../searchservlet?query=B23H9/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B23H9/02"/>
+    <TreeNode Title="B23H9/04 #处理滚筒表面[4]" Target="frmContent" Href="../searchservlet?query=B23H9/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B23H9/04"/>
+    <TreeNode Title="B23H9/06 #打印或雕刻[4]" Target="frmContent" Href="../searchservlet?query=B23H9/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B23H9/06"/>
+    <TreeNode Title="B23H9/08 #刃磨[4]" Target="frmContent" Href="../searchservlet?query=B23H9/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B23H9/08"/>
+    <TreeNode Title="B23H9/10 #加工蜗轮机叶片或喷嘴[4]" Target="frmContent" Href="../searchservlet?query=B23H9/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B23H9/10"/>
+    <TreeNode Title="B23H9/12 #制成相配形零件，如冲头和冲模[4]" Target="frmContent" Href="../searchservlet?query=B23H9/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B23H9/12"/>
+    <TreeNode Title="B23H9/14 #加工孔[4]" Target="frmContent" Href="../searchservlet?query=B23H9/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B23H9/14">
+      <TreeNode Title="B23H9/16 ##使用电解喷流法[4]" Target="frmContent" Href="../searchservlet?query=B23H9/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B23H9/16"/>
+    </TreeNode>
+    <TreeNode Title="B23H9/18 #生产外锥形表面或大钉(B23H 9/08优先)[4]" Target="frmContent" Href="../searchservlet?query=B23H9/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B23H9/18"/>
+  </TreeNode>
+  <TreeNode Title="B23H11/00 其他类目不包括的附属装置或零件[4]" Target="frmContent" Href="../searchservlet?query=B23H11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B23H11/00"/>
+</Root>

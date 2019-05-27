@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="D04G1/00 长丝原料打结制网" Target="frmContent" Href="../searchservlet?query=D04G1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D04G1/00">
+    <TreeNode Title="D04G1/02 #使用机器" Target="frmContent" Href="../searchservlet?query=D04G1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D04G1/02">
+      <TreeNode Title="D04G1/04 ##用单纱" Target="frmContent" Href="../searchservlet?query=D04G1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D04G1/04"/>
+      <TreeNode Title="D04G1/06 ##用单纱与一组纱" Target="frmContent" Href="../searchservlet?query=D04G1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D04G1/06"/>
+      <TreeNode Title="D04G1/08 ##用两组纱" Target="frmContent" Href="../searchservlet?query=D04G1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D04G1/08"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="D04G3/00 制造多结地毯或挂毯" Target="frmContent" Href="../searchservlet?query=D04G3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D04G3/00">
+    <TreeNode Title="D04G3/02 #手工方法及所用工具" Target="frmContent" Href="../searchservlet?query=D04G3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D04G3/02"/>
+    <TreeNode Title="D04G3/04 #使用机器" Target="frmContent" Href="../searchservlet?query=D04G3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D04G3/04"/>
+  </TreeNode>
+  <TreeNode Title="D04G5/00 其他类不包括的打结" Target="frmContent" Href="../searchservlet?query=D04G5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D04G5/00"/>
+</Root>

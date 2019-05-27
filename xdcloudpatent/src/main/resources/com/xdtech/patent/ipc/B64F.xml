@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="B64F1/00 地面设施或航空母舰甲板设施(专门适用于系留飞机的入B64F 3/00；航空母舰入B63；除雾设施入E01H；风洞入G01M；地面飞行练习设备入G09B)" Target="frmContent" Href="../searchservlet?query=B64F1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B64F1/00">
+    <TreeNode Title="B64F1/02 # 停机装置；液体停机装置" Target="frmContent" Href="../searchservlet?query=B64F1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B64F1/02"/>
+    <TreeNode Title="B64F1/04 # 发射或拖曳装置(铁路方面入B61；拖曳飞机的飞机入B64D 3/00；武器发射装置入F41F)" Target="frmContent" Href="../searchservlet?query=B64F1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B64F1/04">
+      <TreeNode Title="B64F1/06 ##用弹射器的" Target="frmContent" Href="../searchservlet?query=B64F1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B64F1/06"/>
+      <TreeNode Title="B64F1/08 ##用绞车的" Target="frmContent" Href="../searchservlet?query=B64F1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B64F1/08"/>
+      <TreeNode Title="B64F1/10 ##用自动推进车辆的" Target="frmContent" Href="../searchservlet?query=B64F1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B64F1/10"/>
+    </TreeNode>
+    <TreeNode Title="B64F1/12 # 栓定" Target="frmContent" Href="../searchservlet?query=B64F1/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B64F1/12">
+      <TreeNode Title="B64F1/14 ##用于系留飞船或气球的塔或杆(轻于空气的飞行器系留附属设备入B64B 1/66；建筑方面入E04H 6/00，E04H 12/00)" Target="frmContent" Href="../searchservlet?query=B64F1/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B64F1/14"/>
+      <TreeNode Title="B64F1/16 ##尖桩或地面拉桩；楔垫" Target="frmContent" Href="../searchservlet?query=B64F1/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B64F1/16"/>
+    </TreeNode>
+    <TreeNode Title="B64F1/18 # 目测或声学着陆辅助设备(一般光学或有声信号设备入G08)" Target="frmContent" Href="../searchservlet?query=B64F1/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B64F1/18">
+      <TreeNode Title="B64F1/20 ##光学信标的布置" Target="frmContent" Href="../searchservlet?query=B64F1/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B64F1/20"/>
+    </TreeNode>
+    <TreeNode Title="B64F1/22 # 用于搬运飞机的设备" Target="frmContent" Href="../searchservlet?query=B64F1/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B64F1/22">
+      <TreeNode Title="B64F1/24 ##转盘的装置" Target="frmContent" Href="../searchservlet?query=B64F1/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B64F1/24"/>
+    </TreeNode>
+    <TreeNode Title="B64F1/26 # 用于减低发动机或喷气噪音的；防止机场的喷气烧蚀" Target="frmContent" Href="../searchservlet?query=B64F1/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B64F1/26"/>
+    <TreeNode Title="B64F1/28 # 专门适用于静止飞机加油的液体输送设施(一般液体输送入B67)" Target="frmContent" Href="../searchservlet?query=B64F1/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B64F1/28"/>
+    <TreeNode Title="B64F1/30 # 用于乘客上下飞机的" Target="frmContent" Href="../searchservlet?query=B64F1/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B64F1/30">
+      <TreeNode Title="B64F1/305 ##架设在终点站建筑与飞机之间的桥，例如伸缩式的，垂直方向可调的[3]" Target="frmContent" Href="../searchservlet?query=B64F1/305&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B64F1/305"/>
+      <TreeNode Title="B64F1/31 ##专门适用于，例如停机处与飞机或终点站建筑联运的客车[3]" Target="frmContent" Href="../searchservlet?query=B64F1/31&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B64F1/31"/>
+      <TreeNode Title="B64F1/315 ##活动梯(一般活动梯入E04F 11/04)[3]" Target="frmContent" Href="../searchservlet?query=B64F1/315&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B64F1/315"/>
+    </TreeNode>
+    <TreeNode Title="B64F1/32 # 用于运货的" Target="frmContent" Href="../searchservlet?query=B64F1/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B64F1/32"/>
+    <TreeNode Title="B64F1/34 # 用于起动推进装置的" Target="frmContent" Href="../searchservlet?query=B64F1/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B64F1/34"/>
+    <TreeNode Title="B64F1/36 # 其他机场设施(机场构造和铺面入E01C)" Target="frmContent" Href="../searchservlet?query=B64F1/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B64F1/36"/>
+  </TreeNode>
+  <TreeNode Title="B64F3/00 专门适用于系留飞机的地面设施(铁路方面入B61)" Target="frmContent" Href="../searchservlet?query=B64F3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B64F3/00">
+    <TreeNode Title="B64F3/02 # 具有飞行时向飞机供电的装置" Target="frmContent" Href="../searchservlet?query=B64F3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B64F3/02"/>
+  </TreeNode>
+  <TreeNode Title="B64F5/00 其他类目不包含的飞机设计、制造、装配、清洗、维修或修理" Target="frmContent" Href="../searchservlet?query=B64F5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B64F5/00"/>
+</Root>

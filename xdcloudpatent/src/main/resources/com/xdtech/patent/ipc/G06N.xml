@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="G06N3/00 基于生物学模型的计算机系统(仿真生物的功能方面的模拟计算机入G06G 7/60)[7]" Target="frmContent" Href="../searchservlet?query=G06N3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06N3/00">
+    <TreeNode Title="G06N3/02 #采用神经网络模型(用于自适应控制的入G05B 13/00； 用于图像模式匹配的入G06K 9/00； 用于图像数据处理的入G06T 1/40； 用于语音模式匹配的入G10L 15/16)[7]" Target="frmContent" Href="../searchservlet?query=G06N3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06N3/02">
+      <TreeNode Title="G06N3/04 ##体系结构，例如，互连拓扑[7]" Target="frmContent" Href="../searchservlet?query=G06N3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06N3/04"/>
+      <TreeNode Title="G06N3/06 ##物理实现，即神经网络、神经元或神经元部分的硬件实现[7]" Target="frmContent" Href="../searchservlet?query=G06N3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06N3/06">
+        <TreeNode Title="G06N3/063 ###采用电的[7]" Target="frmContent" Href="../searchservlet?query=G06N3/063&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06N3/063"/>
+        <TreeNode Title="G06N3/067 ###采用光的[7]" Target="frmContent" Href="../searchservlet?query=G06N3/067&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06N3/067"/>
+      </TreeNode>
+      <TreeNode Title="G06N3/08 ##学习方法[7]" Target="frmContent" Href="../searchservlet?query=G06N3/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06N3/08"/>
+      <TreeNode Title="G06N3/10 ##在通用计算机上的仿真[7]" Target="frmContent" Href="../searchservlet?query=G06N3/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06N3/10"/>
+    </TreeNode>
+    <TreeNode Title="G06N3/12 #采用遗传模型[7]" Target="frmContent" Href="../searchservlet?query=G06N3/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06N3/12"/>
+  </TreeNode>
+  <TreeNode Title="G06N5/00 利用基于知识的模式的计算机系统[7]" Target="frmContent" Href="../searchservlet?query=G06N5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06N5/00">
+    <TreeNode Title="G06N5/02 #知识表达[7]" Target="frmContent" Href="../searchservlet?query=G06N5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06N5/02"/>
+    <TreeNode Title="G06N5/04 #推理方法或设备[7]" Target="frmContent" Href="../searchservlet?query=G06N5/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06N5/04"/>
+  </TreeNode>
+  <TreeNode Title="G06N7/00 基于特定数学模式的计算机系统[7]" Target="frmContent" Href="../searchservlet?query=G06N7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06N7/00">
+    <TreeNode Title="G06N7/02 #采用模糊逻辑的(G06N 3/00，G06N 5/00优先；用于自适应控制的入G05B 13/00)[7]" Target="frmContent" Href="../searchservlet?query=G06N7/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06N7/02">
+      <TreeNode Title="G06N7/04 ##物理实现[7]" Target="frmContent" Href="../searchservlet?query=G06N7/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06N7/04"/>
+      <TreeNode Title="G06N7/06 ##在通用计算机上的仿真[7]" Target="frmContent" Href="../searchservlet?query=G06N7/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06N7/06"/>
+    </TreeNode>
+    <TreeNode Title="G06N7/08 #采用混沌模型或者非线性系统模型的[7]" Target="frmContent" Href="../searchservlet?query=G06N7/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06N7/08"/>
+  </TreeNode>
+  <TreeNode Title="G06N99/00 本小类其他各组中不包括的技术主题 [2010.01]" Target="frmContent" Href="../searchservlet?query=G06N99/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06N99/00"/>
+</Root>

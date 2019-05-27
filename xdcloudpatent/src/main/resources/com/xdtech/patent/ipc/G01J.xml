@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="G01J1/00 光度测定法，例如照相的曝光表(分光光度测定法入G01J 3/00；专用于辐射高温测定法的入G01J 5/00)" Target="frmContent" Href="../searchservlet?query=G01J1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01J1/00">
+    <TreeNode Title="G01J1/02 #零部件" Target="frmContent" Href="../searchservlet?query=G01J1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01J1/02">
+      <TreeNode Title="G01J1/04 ##光学或机械部件" Target="frmContent" Href="../searchservlet?query=G01J1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01J1/04">
+        <TreeNode Title="G01J1/06 ###限制入射光的角度" Target="frmContent" Href="../searchservlet?query=G01J1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01J1/06"/>
+      </TreeNode>
+      <TreeNode Title="G01J1/08 ##专用于光度测定法的光源装置" Target="frmContent" Href="../searchservlet?query=G01J1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01J1/08"/>
+    </TreeNode>
+    <TreeNode Title="G01J1/10 #采用与基准光或基准电参数相比较的方法" Target="frmContent" Href="../searchservlet?query=G01J1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01J1/10">
+      <TreeNode Title="G01J1/12 ##完全采用视觉的方法(G01J 1/20优先)" Target="frmContent" Href="../searchservlet?query=G01J1/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01J1/12">
+        <TreeNode Title="G01J1/14 ###采用与不同级别亮度的表面作比较的方法" Target="frmContent" Href="../searchservlet?query=G01J1/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01J1/14"/>
+      </TreeNode>
+      <TreeNode Title="G01J1/16 ##采用电辐射检测器(G01J 1/20优先)" Target="frmContent" Href="../searchservlet?query=G01J1/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01J1/16">
+        <TreeNode Title="G01J1/18 ###采用与基准电参数作比较的方法" Target="frmContent" Href="../searchservlet?query=G01J1/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01J1/18"/>
+      </TreeNode>
+      <TreeNode Title="G01J1/20 ##改变被测的或基准值的强度，使它们在检测器产生相等的效应，例如通过改变入射角" Target="frmContent" Href="../searchservlet?query=G01J1/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01J1/20">
+        <TreeNode Title="G01J1/22 ###在光通路中应用可变元件，例如用滤光器、偏振装置(G01J 1/34优先)" Target="frmContent" Href="../searchservlet?query=G01J1/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01J1/22">
+          <TreeNode Title="G01J1/24 ####采用电辐射检测器" Target="frmContent" Href="../searchservlet?query=G01J1/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01J1/24">
+            <TreeNode Title="G01J1/26 #####用于被测值或基准值的自动变化" Target="frmContent" Href="../searchservlet?query=G01J1/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01J1/26"/>
+          </TreeNode>
+        </TreeNode>
+        <TreeNode Title="G01J1/28 ###利用光源的强度或距离的改变(G01J 1/34优先)" Target="frmContent" Href="../searchservlet?query=G01J1/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01J1/28">
+          <TreeNode Title="G01J1/30 ####采用电辐射检测器" Target="frmContent" Href="../searchservlet?query=G01J1/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01J1/30">
+            <TreeNode Title="G01J1/32 #####用于被测值或基准值的自动变化" Target="frmContent" Href="../searchservlet?query=G01J1/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01J1/32"/>
+          </TreeNode>
+        </TreeNode>
+        <TreeNode Title="G01J1/34 ###交替或依次地应用分开的光通路，例如，闪光器" Target="frmContent" Href="../searchservlet?query=G01J1/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01J1/34">
+          <TreeNode Title="G01J1/36 ####采用电辐射检测器" Target="frmContent" Href="../searchservlet?query=G01J1/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01J1/36"/>
+        </TreeNode>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="G01J1/38 #完全用视觉的方法(G01J 1/10优先)" Target="frmContent" Href="../searchservlet?query=G01J1/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01J1/38">
+      <TreeNode Title="G01J1/40 ##采用可见度的极限或消光作用" Target="frmContent" Href="../searchservlet?query=G01J1/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01J1/40"/>
+    </TreeNode>
+    <TreeNode Title="G01J1/42 #采用电辐射检测器(光学或机械部件入G01J 1/04；与基准光或基准电参数作比较的入G01J 1/10)" Target="frmContent" Href="../searchservlet?query=G01J1/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01J1/42">
+      <TreeNode Title="G01J1/44 ##电路" Target="frmContent" Href="../searchservlet?query=G01J1/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01J1/44">
+        <TreeNode Title="G01J1/46 ###采用电容器的" Target="frmContent" Href="../searchservlet?query=G01J1/46&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01J1/46"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="G01J1/48 #利用化学效应" Target="frmContent" Href="../searchservlet?query=G01J1/48&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01J1/48">
+      <TreeNode Title="G01J1/50 ##利用指示器的颜色变化，例如，感光计" Target="frmContent" Href="../searchservlet?query=G01J1/50&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01J1/50"/>
+      <TreeNode Title="G01J1/52 ##利用照相效应" Target="frmContent" Href="../searchservlet?query=G01J1/52&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01J1/52"/>
+      <TreeNode Title="G01J1/54 ##通过观察气体间的光反应" Target="frmContent" Href="../searchservlet?query=G01J1/54&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01J1/54"/>
+    </TreeNode>
+    <TreeNode Title="G01J1/56 #利用辐射压力或辐射计效应" Target="frmContent" Href="../searchservlet?query=G01J1/56&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01J1/56"/>
+    <TreeNode Title="G01J1/58 #利用光致发光" Target="frmContent" Href="../searchservlet?query=G01J1/58&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01J1/58"/>
+    <TreeNode Title="G01J1/60 #通过测量瞳孔的方法" Target="frmContent" Href="../searchservlet?query=G01J1/60&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01J1/60"/>
+  </TreeNode>
+  <TreeNode Title="G01J3/00 光谱测定法；分光光度测定法；单色器；测定颜色[4]" Target="frmContent" Href="../searchservlet?query=G01J3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01J3/00">
+    <TreeNode Title="G01J3/02 #零部件" Target="frmContent" Href="../searchservlet?query=G01J3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01J3/02">
+      <TreeNode Title="G01J3/04 ##狭缝装置" Target="frmContent" Href="../searchservlet?query=G01J3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01J3/04"/>
+      <TreeNode Title="G01J3/06 ##扫描装置" Target="frmContent" Href="../searchservlet?query=G01J3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01J3/06"/>
+      <TreeNode Title="G01J3/08 ##光束开关装置" Target="frmContent" Href="../searchservlet?query=G01J3/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01J3/08"/>
+      <TreeNode Title="G01J3/10 ##专用于光谱学或色度学的光源装置" Target="frmContent" Href="../searchservlet?query=G01J3/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01J3/10"/>
+    </TreeNode>
+    <TreeNode Title="G01J3/12 #光谱的产生；单色器" Target="frmContent" Href="../searchservlet?query=G01J3/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01J3/12">
+      <TreeNode Title="G01J3/14 ##利用折射元件；例如，棱镜(G01J 3/18，G01J 3/26优先)" Target="frmContent" Href="../searchservlet?query=G01J3/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01J3/14">
+        <TreeNode Title="G01J3/16 ###有自准直装置的" Target="frmContent" Href="../searchservlet?query=G01J3/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01J3/16"/>
+      </TreeNode>
+      <TreeNode Title="G01J3/18 ##利用衍射元件，例如光栅" Target="frmContent" Href="../searchservlet?query=G01J3/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01J3/18">
+        <TreeNode Title="G01J3/20 ###罗兰(Rowland)圆光谱仪" Target="frmContent" Href="../searchservlet?query=G01J3/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01J3/20"/>
+        <TreeNode Title="G01J3/22 ###利特罗(Littrow)镜式光谱仪" Target="frmContent" Href="../searchservlet?query=G01J3/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01J3/22"/>
+        <TreeNode Title="G01J3/24 ###采用外形对特定级有利的光栅" Target="frmContent" Href="../searchservlet?query=G01J3/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01J3/24"/>
+      </TreeNode>
+      <TreeNode Title="G01J3/26 ##应用多次反射，例如，法布里—珀罗(Fabry-perot)干涉仪，可变干涉滤光器" Target="frmContent" Href="../searchservlet?query=G01J3/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01J3/26"/>
+    </TreeNode>
+    <TreeNode Title="G01J3/28 #光谱测试(应用滤色器的入G01J 3/51)[4]" Target="frmContent" Href="../searchservlet?query=G01J3/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01J3/28">
+      <TreeNode Title="G01J3/30 ##直接从光谱本身测量谱线强度(G01J 3/42，G01J 3/44优先)" Target="frmContent" Href="../searchservlet?query=G01J3/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01J3/30">
+        <TreeNode Title="G01J3/32 ###利用单个检测器顺序地测试谱带" Target="frmContent" Href="../searchservlet?query=G01J3/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01J3/32"/>
+        <TreeNode Title="G01J3/36 ###利用分开的检测器测试两个或更多的谱带" Target="frmContent" Href="../searchservlet?query=G01J3/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01J3/36"/>
+      </TreeNode>
+      <TreeNode Title="G01J3/40 ##利用测定光谱照片密度的方法测量谱线强度；摄谱仪(G01J 3/42，G01J 3/44优先)[4]" Target="frmContent" Href="../searchservlet?query=G01J3/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01J3/40"/>
+      <TreeNode Title="G01J3/42 ##吸收光谱法；双束光谱法；闪烁光谱法；反射光谱法(光束开关装置入G01J 3/08)[4]" Target="frmContent" Href="../searchservlet?query=G01J3/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01J3/42">
+        <TreeNode Title="G01J3/427 ###双波长光谱法[4]" Target="frmContent" Href="../searchservlet?query=G01J3/427&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01J3/427"/>
+        <TreeNode Title="G01J3/433 ###调制光谱法；微分光谱法[4]" Target="frmContent" Href="../searchservlet?query=G01J3/433&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01J3/433"/>
+      </TreeNode>
+      <TreeNode Title="G01J3/44 ##喇曼光谱法；散射光谱法[4]" Target="frmContent" Href="../searchservlet?query=G01J3/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01J3/44"/>
+      <TreeNode Title="G01J3/443 ##发射光谱法[4]" Target="frmContent" Href="../searchservlet?query=G01J3/443&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01J3/443"/>
+      <TreeNode Title="G01J3/447 ##偏振光谱法[4]" Target="frmContent" Href="../searchservlet?query=G01J3/447&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01J3/447"/>
+      <TreeNode Title="G01J3/45 ##干涉光谱法[4]" Target="frmContent" Href="../searchservlet?query=G01J3/45&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01J3/45">
+        <TreeNode Title="G01J3/453 ###利用振幅的相关性[4]" Target="frmContent" Href="../searchservlet?query=G01J3/453&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01J3/453"/>
+      </TreeNode>
+      <TreeNode Title="G01J3/457 ##相关光谱法，例如强度的(G01J 3/453优先)[4]" Target="frmContent" Href="../searchservlet?query=G01J3/457&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01J3/457"/>
+    </TreeNode>
+    <TreeNode Title="G01J3/46 #颜色的测量；颜色测量装置，例如色度计(测量色温入G01J 5/60)[4]" Target="frmContent" Href="../searchservlet?query=G01J3/46&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01J3/46">
+      <TreeNode Title="G01J3/50 ##用电辐射检测器[4]" Target="frmContent" Href="../searchservlet?query=G01J3/50&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01J3/50">
+        <TreeNode Title="G01J3/51 ###用滤色器的[4]" Target="frmContent" Href="../searchservlet?query=G01J3/51&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01J3/51"/>
+      </TreeNode>
+      <TreeNode Title="G01J3/52 ##用色图表" Target="frmContent" Href="../searchservlet?query=G01J3/52&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01J3/52"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="G01J4/00 测量光的偏振[2]" Target="frmContent" Href="../searchservlet?query=G01J4/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01J4/00">
+    <TreeNode Title="G01J4/02 #分隔视场型的偏振计；半影式偏振计[2]" Target="frmContent" Href="../searchservlet?query=G01J4/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01J4/02"/>
+    <TreeNode Title="G01J4/04 #用电检测方法的偏振计(G01J 4/02优先)[2]" Target="frmContent" Href="../searchservlet?query=G01J4/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01J4/04"/>
+  </TreeNode>
+  <TreeNode Title="G01J5/00 辐射高温测定法" Target="frmContent" Href="../searchservlet?query=G01J5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01J5/00">
+    <TreeNode Title="G01J5/02 #零部件" Target="frmContent" Href="../searchservlet?query=G01J5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01J5/02">
+      <TreeNode Title="G01J5/04 ##壳体" Target="frmContent" Href="../searchservlet?query=G01J5/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01J5/04"/>
+      <TreeNode Title="G01J5/06 ##消除干扰辐射影响的装置" Target="frmContent" Href="../searchservlet?query=G01J5/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01J5/06"/>
+      <TreeNode Title="G01J5/08 ##光学特征" Target="frmContent" Href="../searchservlet?query=G01J5/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01J5/08"/>
+    </TreeNode>
+    <TreeNode Title="G01J5/10 #用电辐射检测器" Target="frmContent" Href="../searchservlet?query=G01J5/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01J5/10">
+      <TreeNode Title="G01J5/12 ##用热电元件，例如热电偶" Target="frmContent" Href="../searchservlet?query=G01J5/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01J5/12">
+        <TreeNode Title="G01J5/14 ###电学特征" Target="frmContent" Href="../searchservlet?query=G01J5/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01J5/14">
+          <TreeNode Title="G01J5/16 ####与冷结有关的装置；环境温度或其他可变因素影响的补偿" Target="frmContent" Href="../searchservlet?query=G01J5/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01J5/16"/>
+          <TreeNode Title="G01J5/18 ####专用于指示或记录的" Target="frmContent" Href="../searchservlet?query=G01J5/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01J5/18"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="G01J5/20 ##用对辐射敏感的电阻器，热敏电阻器或半导体" Target="frmContent" Href="../searchservlet?query=G01J5/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01J5/20">
+        <TreeNode Title="G01J5/22 ###电学特征" Target="frmContent" Href="../searchservlet?query=G01J5/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01J5/22">
+          <TreeNode Title="G01J5/24 ####采用专用电路，例如，桥路" Target="frmContent" Href="../searchservlet?query=G01J5/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01J5/24"/>
+          <TreeNode Title="G01J5/26 ####专用于指示或记录的" Target="frmContent" Href="../searchservlet?query=G01J5/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01J5/26"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="G01J5/28 ##用光发射管、光导管或光伏特电池" Target="frmContent" Href="../searchservlet?query=G01J5/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01J5/28">
+        <TreeNode Title="G01J5/30 ###电学特征" Target="frmContent" Href="../searchservlet?query=G01J5/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01J5/30">
+          <TreeNode Title="G01J5/32 ####专用于指示或记录的" Target="frmContent" Href="../searchservlet?query=G01J5/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01J5/32"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="G01J5/34 ##用电容器" Target="frmContent" Href="../searchservlet?query=G01J5/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01J5/34"/>
+      <TreeNode Title="G01J5/36 ##利用气体的电离" Target="frmContent" Href="../searchservlet?query=G01J5/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01J5/36"/>
+    </TreeNode>
+    <TreeNode Title="G01J5/38 #利用固体或流体的延伸或膨胀" Target="frmContent" Href="../searchservlet?query=G01J5/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01J5/38">
+      <TreeNode Title="G01J5/40 ##用双金属元件" Target="frmContent" Href="../searchservlet?query=G01J5/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01J5/40"/>
+      <TreeNode Title="G01J5/42 ##用高利(Golay)电池" Target="frmContent" Href="../searchservlet?query=G01J5/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01J5/42"/>
+      <TreeNode Title="G01J5/44 ##利用谐振频率的改变，例如，用压电晶体" Target="frmContent" Href="../searchservlet?query=G01J5/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01J5/44"/>
+    </TreeNode>
+    <TreeNode Title="G01J5/46 #利用辐射压力或辐射计效应" Target="frmContent" Href="../searchservlet?query=G01J5/46&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01J5/46"/>
+    <TreeNode Title="G01J5/48 #完全用视觉的方法" Target="frmContent" Href="../searchservlet?query=G01J5/48&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01J5/48"/>
+    <TreeNode Title="G01J5/50 #用下列各组指明的技术" Target="frmContent" Href="../searchservlet?query=G01J5/50&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01J5/50">
+      <TreeNode Title="G01J5/52 ##应用与参考源作比较的方法，例如，隐丝高温计" Target="frmContent" Href="../searchservlet?query=G01J5/52&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01J5/52">
+        <TreeNode Title="G01J5/54 ###光学特征" Target="frmContent" Href="../searchservlet?query=G01J5/54&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01J5/54"/>
+        <TreeNode Title="G01J5/56 ###电学特征" Target="frmContent" Href="../searchservlet?query=G01J5/56&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01J5/56"/>
+      </TreeNode>
+      <TreeNode Title="G01J5/58 ##利用吸收；利用偏振；利用消光效应" Target="frmContent" Href="../searchservlet?query=G01J5/58&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01J5/58"/>
+      <TreeNode Title="G01J5/60 ##利用测定色温度" Target="frmContent" Href="../searchservlet?query=G01J5/60&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01J5/60"/>
+      <TreeNode Title="G01J5/62 ##利用斩光装置" Target="frmContent" Href="../searchservlet?query=G01J5/62&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01J5/62"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="G01J7/00 测量光速" Target="frmContent" Href="../searchservlet?query=G01J7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01J7/00"/>
+  <TreeNode Title="G01J9/00 测量光学相位差；测定相干性的程度；测量光学波长(光谱测定法入G01J 3/00)[3]" Target="frmContent" Href="../searchservlet?query=G01J9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01J9/00">
+    <TreeNode Title="G01J9/02 #采用干涉法[3]" Target="frmContent" Href="../searchservlet?query=G01J9/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01J9/02"/>
+    <TreeNode Title="G01J9/04 #通过差拍同一光源但频率不同的两个波而测量所获得的较低频率的相位偏移[3]" Target="frmContent" Href="../searchservlet?query=G01J9/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01J9/04"/>
+  </TreeNode>
+  <TreeNode Title="G01J11/00 测量单个光脉冲或光脉冲序列的特性[5]" Target="frmContent" Href="../searchservlet?query=G01J11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01J11/00"/>
+</Root>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="A63K1/00 赛马场；跑道" Target="frmContent" Href="../searchservlet?query=A63K1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A63K1/00">
+    <TreeNode Title="A63K1/02 #供灵缇(一种身体细长的跑狗)或其他种狗使用的" Target="frmContent" Href="../searchservlet?query=A63K1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A63K1/02"/>
+  </TreeNode>
+  <TreeNode Title="A63K3/00 赛马或骑马运动用的设备或附件" Target="frmContent" Href="../searchservlet?query=A63K3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A63K3/00">
+    <TreeNode Title="A63K3/02 #赛马起跑用品，例如起跑障碍物" Target="frmContent" Href="../searchservlet?query=A63K3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A63K3/02"/>
+    <TreeNode Title="A63K3/04 #栏或类似设备" Target="frmContent" Href="../searchservlet?query=A63K3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A63K3/04"/>
+  </TreeNode>
+  <TreeNode Title="A63K99/00 本小类其他组中不包含的技术主题 [8]" Target="frmContent" Href="../searchservlet?query=A63K99/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A63K99/00"/>
+</Root>

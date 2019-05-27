@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="G07B1/00 用于印刷和发售票证的机器(印刷机构本身入B41；数字计算机的输出机构入G06C 11/00)" Target="frmContent" Href="../searchservlet?query=G07B1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G07B1/00">
+    <TreeNode Title="G07B1/02 #用可选择的印版的" Target="frmContent" Href="../searchservlet?query=G07B1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G07B1/02">
+      <TreeNode Title="G07B1/04 ##印版为插入式的" Target="frmContent" Href="../searchservlet?query=G07B1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G07B1/04"/>
+    </TreeNode>
+    <TreeNode Title="G07B1/06 #不用可选择的印版的" Target="frmContent" Href="../searchservlet?query=G07B1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G07B1/06"/>
+    <TreeNode Title="G07B1/08 #可携式的" Target="frmContent" Href="../searchservlet?query=G07B1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G07B1/08"/>
+  </TreeNode>
+  <TreeNode Title="G07B3/00 用于发售预先印好的票证的机器" Target="frmContent" Href="../searchservlet?query=G07B3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G07B3/00">
+    <TreeNode Title="G07B3/02 #从卷条状存放的票证中" Target="frmContent" Href="../searchservlet?query=G07B3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G07B3/02"/>
+    <TreeNode Title="G07B3/04 #从堆放的票证中" Target="frmContent" Href="../searchservlet?query=G07B3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G07B3/04"/>
+  </TreeNode>
+  <TreeNode Title="G07B5/00 售票机的零部件或辅助装置(用于使插入的票证有效的入G07B 11/02)" Target="frmContent" Href="../searchservlet?query=G07B5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G07B5/00">
+    <TreeNode Title="G07B5/02 #用于切断或分离票证的" Target="frmContent" Href="../searchservlet?query=G07B5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G07B5/02"/>
+    <TreeNode Title="G07B5/04 #用于记录或登记发售的票证的" Target="frmContent" Href="../searchservlet?query=G07B5/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G07B5/04"/>
+    <TreeNode Title="G07B5/06 #用于防止欺骗性操作的" Target="frmContent" Href="../searchservlet?query=G07B5/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G07B5/06"/>
+    <TreeNode Title="G07B5/08 #用于避免机器的不正确动作的" Target="frmContent" Href="../searchservlet?query=G07B5/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G07B5/08">
+      <TreeNode Title="G07B5/10 ##当票证售完时指示的" Target="frmContent" Href="../searchservlet?query=G07B5/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G07B5/10"/>
+    </TreeNode>
+    <TreeNode Title="G07B5/12 #允许在票证上手写的" Target="frmContent" Href="../searchservlet?query=G07B5/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G07B5/12"/>
+  </TreeNode>
+  <TreeNode Title="G07B7/00 直接手取票证的夹持器" Target="frmContent" Href="../searchservlet?query=G07B7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G07B7/00"/>
+  <TreeNode Title="G07B9/00 票证打孔机(穿孔钳入B26F 1/36；被打孔的数字形式的标记记录载体入G06K 1/02)" Target="frmContent" Href="../searchservlet?query=G07B9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G07B9/00">
+    <TreeNode Title="G07B9/02 #玩具票证打孔机" Target="frmContent" Href="../searchservlet?query=G07B9/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G07B9/02"/>
+  </TreeNode>
+  <TreeNode Title="G07B11/00 用于使发售的票证有效或无效的设备[2]" Target="frmContent" Href="../searchservlet?query=G07B11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G07B11/00">
+    <TreeNode Title="G07B11/02 #用于使插入的票证有效的" Target="frmContent" Href="../searchservlet?query=G07B11/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G07B11/02">
+      <TreeNode Title="G07B11/03 ##靠打印的[2]" Target="frmContent" Href="../searchservlet?query=G07B11/03&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G07B11/03"/>
+      <TreeNode Title="G07B11/05 ##靠穿孔的[2]" Target="frmContent" Href="../searchservlet?query=G07B11/05&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G07B11/05"/>
+      <TreeNode Title="G07B11/07 ##靠分离票证的一部分的[2]" Target="frmContent" Href="../searchservlet?query=G07B11/07&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G07B11/07">
+        <TreeNode Title="G07B11/09 ###与票证分离部分用的贮器组合在一起的(一般废物贮器入B65F 1/00)[2]" Target="frmContent" Href="../searchservlet?query=G07B11/09&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G07B11/09"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="G07B11/11 #用于使票证无效的[2]" Target="frmContent" Href="../searchservlet?query=G07B11/11&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G07B11/11"/>
+  </TreeNode>
+  <TreeNode Title="G07B13/00 车费计(计量行程的入G01C；计量时间的入G04)" Target="frmContent" Href="../searchservlet?query=G07B13/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G07B13/00">
+    <TreeNode Title="G07B13/02 #零部件；附件" Target="frmContent" Href="../searchservlet?query=G07B13/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G07B13/02">
+      <TreeNode Title="G07B13/04 ##用于指示车费或租用状态的" Target="frmContent" Href="../searchservlet?query=G07B13/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G07B13/04"/>
+      <TreeNode Title="G07B13/06 ##驱动装置" Target="frmContent" Href="../searchservlet?query=G07B13/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G07B13/06"/>
+      <TreeNode Title="G07B13/08 ##改变计费率的装置" Target="frmContent" Href="../searchservlet?query=G07B13/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G07B13/08">
+        <TreeNode Title="G07B13/10 ###自动操纵的" Target="frmContent" Href="../searchservlet?query=G07B13/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G07B13/10"/>
+      </TreeNode>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="G07B15/00 用于在一个或多个管理点收车费、通行费或进入费的装置或设备(处理硬币或纸币入G07D；用硬币、信用卡、纸币或类似物售货或出租物品或服务的设备入G07F 7/00，G07F 17/00)[1,2011.01]" Target="frmContent" Href="../searchservlet?query=G07B15/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G07B15/00">
+    <TreeNode Title="G07B15/02 #可计及一变动因素如距离或时间的，例如用于客运、停车系统或汽车租费系统(G07B 15/06优先；车费计入G07B 13/00；停车计时器本身入G07F 17/24)[1,2011.01]" Target="frmContent" Href="../searchservlet?query=G07B15/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G07B15/02">
+      <TreeNode Title="G07B15/04 ##包含有打开一屏障、十字转门或类似物的装置的(一般的投币式十字转门入G07C 9/00)" Target="frmContent" Href="../searchservlet?query=G07B15/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G07B15/04"/>
+    </TreeNode>
+    <TreeNode Title="G07B15/06 #对车辆、车主的道路收费或拥挤收费装置，如自动收费系统[2011.01]" Target="frmContent" Href="../searchservlet?query=G07B15/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G07B15/06"/>
+  </TreeNode>
+  <TreeNode Title="G07B17/00 签发设备(印刷的入B41)" Target="frmContent" Href="../searchservlet?query=G07B17/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G07B17/00">
+    <TreeNode Title="G07B17/02 #有计算或计数装置的" Target="frmContent" Href="../searchservlet?query=G07B17/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G07B17/02"/>
+    <TreeNode Title="G07B17/04 #有避免错用装置的" Target="frmContent" Href="../searchservlet?query=G07B17/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G07B17/04"/>
+  </TreeNode>
+</Root>

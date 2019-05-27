@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="G02F1/00 控制来自独立光源的光的强度、颜色、相位、偏振或方向的器件或装置，例如，转换、选通或调制；非线性光学(利用颜色或半透明度变化的温度计入G01K  11/12；利用改变荧光性的入G01K 11/32；光导装置入G02B 6/00；利用可移动的或可变形的光学元件来控制与光源无关的光的器件或装置入G02B 26/00；一般光的控制入G05D 25/00；可见的信号系统入G08B 5/00；通过单个部件的选取或组合来指示可变信息的装置入G09F 9/00；除阴极射线管以外的视觉指示器的控制装置或电路入G09G 3/00；光源的控制入H01S 3/10，H05B 33/08，H05B 35/00至H05B 43/00)[2，4]" Target="frmContent" Href="../searchservlet?query=G02F1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02F1/00">
+    <TreeNode Title="G02F1/01 #对强度、相位、偏振或颜色的控制(G02F 1/29，G02F 1/35优先；偏振元件本身入G02B 5/30；静态存储器本身入G11C；通过快门操作起光阀作用的显像管屏幕入H01J 29/12；通过褪色起作用的上述屏幕入H01J 29/14)[2，7]" Target="frmContent" Href="../searchservlet?query=G02F1/01&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02F1/01">
+      <TreeNode Title="G02F1/015 ##基于至少有一个跃迁势垒的半导体元件的，例如，PN、PIN结(G02F 1/03优先)[3]" Target="frmContent" Href="../searchservlet?query=G02F1/015&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02F1/015">
+        <TreeNode Title="G02F1/017 ###具有周期性或准周期性电势变化的结构，例如超点阵结构、量子阱[7]" Target="frmContent" Href="../searchservlet?query=G02F1/017&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02F1/017"/>
+        <TreeNode Title="G02F1/025 ###在光导设备中的(G02F 1/017优先)[5，7]" Target="frmContent" Href="../searchservlet?query=G02F1/025&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02F1/025"/>
+      </TreeNode>
+      <TreeNode Title="G02F1/03 ##基于陶瓷或电—光晶体的，例如，显示泡克耳斯(Pockels)或科尔(Kerr)效应的(G02F 1/061优先)[2，4，7]" Target="frmContent" Href="../searchservlet?query=G02F1/03&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02F1/03">
+        <TreeNode Title="G02F1/035 ###在光波导结构中的[5]" Target="frmContent" Href="../searchservlet?query=G02F1/035&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02F1/035"/>
+        <TreeNode Title="G02F1/05 ###具有铁电性的(G02F 1/035，G02F 1/055优先)[2，5]" Target="frmContent" Href="../searchservlet?query=G02F1/05&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02F1/05"/>
+        <TreeNode Title="G02F1/055 ###用陶瓷作活性材料的(G02F 1/035优先)[4，5]" Target="frmContent" Href="../searchservlet?query=G02F1/055&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02F1/055"/>
+      </TreeNode>
+      <TreeNode Title="G02F1/061 ##基于电光有机材料的(G02F 1/07优先)[7]" Target="frmContent" Href="../searchservlet?query=G02F1/061&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02F1/061">
+        <TreeNode Title="G02F1/065 ###在光波导结构中的[7]" Target="frmContent" Href="../searchservlet?query=G02F1/065&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02F1/065"/>
+      </TreeNode>
+      <TreeNode Title="G02F1/07 ##基于呈现科尔效应的电—光液的[2]" Target="frmContent" Href="../searchservlet?query=G02F1/07&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02F1/07"/>
+      <TreeNode Title="G02F1/09 ##基于磁—光元件的，例如，呈现法拉第效应的[2]" Target="frmContent" Href="../searchservlet?query=G02F1/09&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02F1/09">
+        <TreeNode Title="G02F1/095 ###在光导设备中的[5]" Target="frmContent" Href="../searchservlet?query=G02F1/095&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02F1/095"/>
+      </TreeNode>
+      <TreeNode Title="G02F1/11 ##基于声—光元件的，例如，利用声或类似的机械波的可变衍射作用(声光的偏转作用入G02F 1/33)[2]" Target="frmContent" Href="../searchservlet?query=G02F1/11&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02F1/11">
+        <TreeNode Title="G02F1/125 ###在光波导结构中的[5]" Target="frmContent" Href="../searchservlet?query=G02F1/125&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02F1/125"/>
+      </TreeNode>
+      <TreeNode Title="G02F1/13 ##基于液晶的，例如单位液晶显示单元(液晶材料入C09K 19/00)[2]" Target="frmContent" Href="../searchservlet?query=G02F1/13&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02F1/13">
+        <TreeNode Title="G02F1/133 ###构造上的设备；液晶单元的工作；电路装置(用于控制矩阵中液晶元件并且在结构上不与这些元件相连的装置或电路入G09G 3/36)[3，7]" Target="frmContent" Href="../searchservlet?query=G02F1/133&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02F1/133">
+          <TreeNode Title="G02F1/1333 ####构造上的设备(G02F 1/135，G02F 1/136优先)[5]" Target="frmContent" Href="../searchservlet?query=G02F1/1333&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02F1/1333">
+            <TreeNode Title="G02F1/1334 #####基于聚合物分散型液晶，例如微囊密封型液晶的[7]" Target="frmContent" Href="../searchservlet?query=G02F1/1334&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02F1/1334"/>
+            <TreeNode Title="G02F1/1335 #####与液晶单元结构相连的光学装置，例如偏振器、反射器[5]" Target="frmContent" Href="../searchservlet?query=G02F1/1335&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02F1/1335">
+              <TreeNode Title="G02F1/13357 ######照明装置[7]" Target="frmContent" Href="../searchservlet?query=G02F1/13357&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02F1/13357"/>
+              <TreeNode Title="G02F1/13363 ######双折射元件，例如用于光学补偿的[7]" Target="frmContent" Href="../searchservlet?query=G02F1/13363&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02F1/13363"/>
+            </TreeNode>
+            <TreeNode Title="G02F1/1337 #####液晶分子的表面诱导取向，例如借助列向层[5]" Target="frmContent" Href="../searchservlet?query=G02F1/1337&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02F1/1337"/>
+            <TreeNode Title="G02F1/1339 #####垫圈；间隔体；液晶单元的密封[5]" Target="frmContent" Href="../searchservlet?query=G02F1/1339&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02F1/1339"/>
+            <TreeNode Title="G02F1/1341 #####液晶单元的充料或封闭[5]" Target="frmContent" Href="../searchservlet?query=G02F1/1341&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02F1/1341"/>
+            <TreeNode Title="G02F1/1343 #####电极[5]" Target="frmContent" Href="../searchservlet?query=G02F1/1343&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02F1/1343"/>
+            <TreeNode Title="G02F1/1345 #####将电极与液晶单元引线连接的导体[5]" Target="frmContent" Href="../searchservlet?query=G02F1/1345&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02F1/1345"/>
+            <TreeNode Title="G02F1/1347 #####液晶层或液晶单元的排列，其中一个光束的最终状况由二层或多层或单元的效应的叠加来实现[5]" Target="frmContent" Href="../searchservlet?query=G02F1/1347&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02F1/1347"/>
+          </TreeNode>
+          <TreeNode Title="G02F1/135 ####结构上与一光导层或铁电层相结合的液晶单元，可以从光学方面或电学方面改变其性能的[3]" Target="frmContent" Href="../searchservlet?query=G02F1/135&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02F1/135"/>
+          <TreeNode Title="G02F1/136 ####结构上与一半导体层或基片相结合的液晶单元，例如形成集成电路部分的液晶单元(G02F 1/135优先)[5]" Target="frmContent" Href="../searchservlet?query=G02F1/136&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02F1/136">
+            <TreeNode Title="G02F1/1362 #####有源矩阵寻址单元[7]" Target="frmContent" Href="../searchservlet?query=G02F1/1362&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02F1/1362">
+              <TreeNode Title="G02F1/1365 ######其中开关元件为双电极装置[7]" Target="frmContent" Href="../searchservlet?query=G02F1/1365&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02F1/1365"/>
+              <TreeNode Title="G02F1/1368 ######其中开关元件为三电极装置[7]" Target="frmContent" Href="../searchservlet?query=G02F1/1368&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02F1/1368"/>
+            </TreeNode>
+          </TreeNode>
+        </TreeNode>
+        <TreeNode Title="G02F1/137 ###用特殊的电—光或磁—光效应来区分的，例如，场感应相变、取向效应、宾—主相互作用、动态散射[3]" Target="frmContent" Href="../searchservlet?query=G02F1/137&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02F1/137">
+          <TreeNode Title="G02F1/139 ####基于取向效应的，其中液晶保持透明的[6]" Target="frmContent" Href="../searchservlet?query=G02F1/139&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02F1/139">
+            <TreeNode Title="G02F1/141 #####使用铁电液晶的[6]" Target="frmContent" Href="../searchservlet?query=G02F1/141&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02F1/141"/>
+          </TreeNode>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="G02F1/15 ##基于电色器件的[5]" Target="frmContent" Href="../searchservlet?query=G02F1/15&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02F1/15">
+        <TreeNode Title="G02F1/153 ###结构上的布置[5]" Target="frmContent" Href="../searchservlet?query=G02F1/153&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02F1/153">
+          <TreeNode Title="G02F1/155 ####电极[5]" Target="frmContent" Href="../searchservlet?query=G02F1/155&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02F1/155"/>
+          <TreeNode Title="G02F1/157 ####与液晶单元结构相连的光学装置，例如反射器或照明装置[5]" Target="frmContent" Href="../searchservlet?query=G02F1/157&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02F1/157"/>
+          <TreeNode Title="G02F1/161 ####垫圈；间隔体；液晶单元的密封；液晶单元的充料或封闭[5]" Target="frmContent" Href="../searchservlet?query=G02F1/161&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02F1/161"/>
+        </TreeNode>
+        <TreeNode Title="G02F1/163 ###电色单元的运转；电路布置[5]" Target="frmContent" Href="../searchservlet?query=G02F1/163&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02F1/163"/>
+      </TreeNode>
+      <TreeNode Title="G02F1/167 ##基于电泳的[5]" Target="frmContent" Href="../searchservlet?query=G02F1/167&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02F1/167"/>
+      <TreeNode Title="G02F1/17 ##基于可变的吸收元件的(G02F 1/015至G02F 1/167优先)[2，5]" Target="frmContent" Href="../searchservlet?query=G02F1/17&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02F1/17"/>
+      <TreeNode Title="G02F1/19 ##基于可变的反射或折射元件的(G02F 1/015至G02F 1/167优先)[2，5]" Target="frmContent" Href="../searchservlet?query=G02F1/19&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02F1/19"/>
+      <TreeNode Title="G02F1/21 ##应用干涉作用的[2]" Target="frmContent" Href="../searchservlet?query=G02F1/21&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02F1/21">
+        <TreeNode Title="G02F1/225 ###在光波导结构中的[5]" Target="frmContent" Href="../searchservlet?query=G02F1/225&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02F1/225"/>
+      </TreeNode>
+      <TreeNode Title="G02F1/23 ##颜色的控制(G02F 1/03至G02F 1/21优先)[2]" Target="frmContent" Href="../searchservlet?query=G02F1/23&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02F1/23">
+        <TreeNode Title="G02F1/25 ###对于色调或主波长[2]" Target="frmContent" Href="../searchservlet?query=G02F1/25&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02F1/25"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="G02F1/29 #用于光束的位置或方向的控制，即偏转(用电或磁记入和光学读出的静态存储器入G11C；具有改变激光辐射的发射位置和方向的装置的激光器入H01S 3/101)[4]" Target="frmContent" Href="../searchservlet?query=G02F1/29&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02F1/29">
+      <TreeNode Title="G02F1/295 ##在光波导结构中的(G02F 1/313，G02F 1/335优先)[5]" Target="frmContent" Href="../searchservlet?query=G02F1/295&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02F1/295"/>
+      <TreeNode Title="G02F1/31 ##数字偏转器件(G02F 1/33优先)[2]" Target="frmContent" Href="../searchservlet?query=G02F1/31&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02F1/31">
+        <TreeNode Title="G02F1/313 ###在光波导结构中的[5]" Target="frmContent" Href="../searchservlet?query=G02F1/313&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02F1/313"/>
+        <TreeNode Title="G02F1/315 ###基于采用受控全内反射的[3]" Target="frmContent" Href="../searchservlet?query=G02F1/315&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02F1/315"/>
+      </TreeNode>
+      <TreeNode Title="G02F1/33 ##声—光偏转器件[2]" Target="frmContent" Href="../searchservlet?query=G02F1/33&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02F1/33">
+        <TreeNode Title="G02F1/335 ###有一光波导结构的[5]" Target="frmContent" Href="../searchservlet?query=G02F1/335&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02F1/335"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="G02F1/35 #非线性光学(光学双稳态装置入G02F 3/02；使用受激布里渊散射或喇曼效应的激光器入H01S 3/30)[2，5]" Target="frmContent" Href="../searchservlet?query=G02F1/35&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02F1/35">
+      <TreeNode Title="G02F1/355 ##以所用材料为特征的[7]" Target="frmContent" Href="../searchservlet?query=G02F1/355&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02F1/355">
+        <TreeNode Title="G02F1/361 ###有机材料[7]" Target="frmContent" Href="../searchservlet?query=G02F1/361&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02F1/361"/>
+      </TreeNode>
+      <TreeNode Title="G02F1/365 ##在光波导结构中的(G02F 1/377优先)[7]" Target="frmContent" Href="../searchservlet?query=G02F1/365&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02F1/365"/>
+      <TreeNode Title="G02F1/37 ##用于二次谐波产生的[2]" Target="frmContent" Href="../searchservlet?query=G02F1/37&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02F1/37">
+        <TreeNode Title="G02F1/377 ###在光波导结构中[7]" Target="frmContent" Href="../searchservlet?query=G02F1/377&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02F1/377">
+          <TreeNode Title="G02F1/383 ####光纤式的[7]" Target="frmContent" Href="../searchservlet?query=G02F1/383&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02F1/383"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="G02F1/39 ##用于可见光、红外光或紫外光波的参数产生或放大的(电参量放大器入H03F 7/00)[2]" Target="frmContent" Href="../searchservlet?query=G02F1/39&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02F1/39"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="G02F2/00 光的解调；调制光的调制变换；光的变频(G02F 1/35优先；光电探测或测量装置入G01J，H01J 40/00，H01L 31/00，解调激光装置入H01S 3/10；调制电磁波的调制解调或变换一般入H03D 9/00)[2]" Target="frmContent" Href="../searchservlet?query=G02F2/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02F2/00">
+    <TreeNode Title="G02F2/02 #光的变频，例如，应用量子计数器的(发光材料入C09K 11/00)[2]" Target="frmContent" Href="../searchservlet?query=G02F2/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02F2/02"/>
+  </TreeNode>
+  <TreeNode Title="G02F3/00 光学逻辑元件(采用光—电子器件作为活性器件的电脉冲发生器入H03K 3/42；利用光电子器件的逻辑电路入H03K 19/14)；光学双稳态装置[5]" Target="frmContent" Href="../searchservlet?query=G02F3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02F3/00">
+    <TreeNode Title="G02F3/02 #光双稳态装置[5]" Target="frmContent" Href="../searchservlet?query=G02F3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02F3/02"/>
+  </TreeNode>
+  <TreeNode Title="G02F7/00 光学模拟/数字转换器" Target="frmContent" Href="../searchservlet?query=G02F7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G02F7/00"/>
+</Root>

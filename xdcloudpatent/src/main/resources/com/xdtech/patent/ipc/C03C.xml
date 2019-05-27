@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="C03C1/00 制造玻璃、釉或搪瓷釉的普通的组分" Target="frmContent" Href="../searchservlet?query=C03C1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C1/00">
+    <TreeNode Title="C03C1/02 #经预处理的组分" Target="frmContent" Href="../searchservlet?query=C03C1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C1/02"/>
+    <TreeNode Title="C03C1/04 #乳浊剂如氟化物或磷酸盐等；色料" Target="frmContent" Href="../searchservlet?query=C03C1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C1/04">
+      <TreeNode Title="C03C1/06 ##制造不均匀彩色制品，如带斑纹的、大理石纹的或纹理的制品用的" Target="frmContent" Href="../searchservlet?query=C03C1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C1/06"/>
+    </TreeNode>
+    <TreeNode Title="C03C1/08 #产生碎纹效果的" Target="frmContent" Href="../searchservlet?query=C03C1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C1/08"/>
+    <TreeNode Title="C03C1/10 #制造彩色的均匀透明制品的" Target="frmContent" Href="../searchservlet?query=C03C1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C1/10"/>
+  </TreeNode>
+  <TreeNode Title="C03C3/00 玻璃组成(玻璃配合料组成入C03C 6/00)[4]" Target="frmContent" Href="../searchservlet?query=C03C3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C3/00">
+    <TreeNode Title="C03C3/04 #含二氧化硅[4]" Target="frmContent" Href="../searchservlet?query=C03C3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C3/04">
+      <TreeNode Title="C03C3/06 ##用大于90(重量)的二氧化硅，如石英" Target="frmContent" Href="../searchservlet?query=C03C3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C3/06"/>
+      <TreeNode Title="C03C3/062 ##用小于40(重量)的二氧化硅[4]" Target="frmContent" Href="../searchservlet?query=C03C3/062&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C3/062">
+        <TreeNode Title="C03C3/064 ###含硼[4]" Target="frmContent" Href="../searchservlet?query=C03C3/064&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C3/064">
+          <TreeNode Title="C03C3/066 ####含锌[4]" Target="frmContent" Href="../searchservlet?query=C03C3/066&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C3/066"/>
+          <TreeNode Title="C03C3/068 ####含稀土元素[4]" Target="frmContent" Href="../searchservlet?query=C03C3/068&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C3/068"/>
+        </TreeNode>
+        <TreeNode Title="C03C3/07 ###含铅[4]" Target="frmContent" Href="../searchservlet?query=C03C3/07&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C3/07">
+          <TreeNode Title="C03C3/072 ####含硼[4]" Target="frmContent" Href="../searchservlet?query=C03C3/072&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C3/072">
+            <TreeNode Title="C03C3/074 #####含锌[4]" Target="frmContent" Href="../searchservlet?query=C03C3/074&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C3/074"/>
+          </TreeNode>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="C03C3/076 ##用40％至90％(重量)的二氧化硅 [4]" Target="frmContent" Href="../searchservlet?query=C03C3/076&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C3/076">
+        <TreeNode Title="C03C3/078 ###含二价金属氧化物，例如锌的氧化物[4]" Target="frmContent" Href="../searchservlet?query=C03C3/078&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C3/078"/>
+        <TreeNode Title="C03C3/083 ###含氧化铝或铁的化合物[4]" Target="frmContent" Href="../searchservlet?query=C03C3/083&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C3/083">
+          <TreeNode Title="C03C3/085 ####含二价金属氧化物[4]" Target="frmContent" Href="../searchservlet?query=C03C3/085&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C3/085">
+            <TreeNode Title="C03C3/087 #####含氧化钙，例如普通的平板玻璃或器皿玻璃[4]" Target="frmContent" Href="../searchservlet?query=C03C3/087&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C3/087"/>
+          </TreeNode>
+        </TreeNode>
+        <TreeNode Title="C03C3/089 ###含硼[4]" Target="frmContent" Href="../searchservlet?query=C03C3/089&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C3/089">
+          <TreeNode Title="C03C3/091 ####含铝[4]" Target="frmContent" Href="../searchservlet?query=C03C3/091&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C3/091">
+            <TreeNode Title="C03C3/093 #####含锌或锆[4]" Target="frmContent" Href="../searchservlet?query=C03C3/093&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C3/093"/>
+          </TreeNode>
+        </TreeNode>
+        <TreeNode Title="C03C3/095 ###含稀土元素[4]" Target="frmContent" Href="../searchservlet?query=C03C3/095&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C3/095"/>
+        <TreeNode Title="C03C3/097 ###含磷、铌或钽[4]" Target="frmContent" Href="../searchservlet?query=C03C3/097&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C3/097"/>
+        <TreeNode Title="C03C3/102 ###含铅[4]" Target="frmContent" Href="../searchservlet?query=C03C3/102&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C3/102">
+          <TreeNode Title="C03C3/105 ####含铝[4]" Target="frmContent" Href="../searchservlet?query=C03C3/105&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C3/105"/>
+          <TreeNode Title="C03C3/108 ####含硼[4]" Target="frmContent" Href="../searchservlet?query=C03C3/108&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C3/108"/>
+        </TreeNode>
+        <TreeNode Title="C03C3/11 ###含卤素或氮[4]" Target="frmContent" Href="../searchservlet?query=C03C3/11&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C3/11">
+          <TreeNode Title="C03C3/112 ####含氟[4]" Target="frmContent" Href="../searchservlet?query=C03C3/112&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C3/112">
+            <TreeNode Title="C03C3/115 #####含硼[4]" Target="frmContent" Href="../searchservlet?query=C03C3/115&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C3/115">
+              <TreeNode Title="C03C3/118 ######含铝[4]" Target="frmContent" Href="../searchservlet?query=C03C3/118&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C3/118"/>
+            </TreeNode>
+          </TreeNode>
+        </TreeNode>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="C03C3/12 #无二氧化硅的氧化物玻璃组成[4]" Target="frmContent" Href="../searchservlet?query=C03C3/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C3/12">
+      <TreeNode Title="C03C3/14 ##含硼[4]" Target="frmContent" Href="../searchservlet?query=C03C3/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C3/14">
+        <TreeNode Title="C03C3/145 ###含铝或铍[4]" Target="frmContent" Href="../searchservlet?query=C03C3/145&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C3/145"/>
+        <TreeNode Title="C03C3/15 ###含稀土元素[4]" Target="frmContent" Href="../searchservlet?query=C03C3/15&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C3/15">
+          <TreeNode Title="C03C3/155 ####含锆、钛、钽或铌[4]" Target="frmContent" Href="../searchservlet?query=C03C3/155&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C3/155"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="C03C3/16 ##含磷[4]" Target="frmContent" Href="../searchservlet?query=C03C3/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C3/16">
+        <TreeNode Title="C03C3/17 ###含铝或铍[4]" Target="frmContent" Href="../searchservlet?query=C03C3/17&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C3/17"/>
+        <TreeNode Title="C03C3/19 ###含硼[4]" Target="frmContent" Href="../searchservlet?query=C03C3/19&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C3/19"/>
+        <TreeNode Title="C03C3/21 ###含钛、锆、钒、钨或钼[4]" Target="frmContent" Href="../searchservlet?query=C03C3/21&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C3/21"/>
+      </TreeNode>
+      <TreeNode Title="C03C3/23 ##含卤素和至少一种氧化物，如硼的氧化物[4]" Target="frmContent" Href="../searchservlet?query=C03C3/23&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C3/23">
+        <TreeNode Title="C03C3/247 ###含氟和磷[4]" Target="frmContent" Href="../searchservlet?query=C03C3/247&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C3/247"/>
+      </TreeNode>
+      <TreeNode Title="C03C3/253 ##含锗[4]" Target="frmContent" Href="../searchservlet?query=C03C3/253&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C3/253"/>
+    </TreeNode>
+    <TreeNode Title="C03C3/32 #非氧化物玻璃组成，例如锗、硒或碲的二元或三元卤化物、硫化物或氮化物[4]" Target="frmContent" Href="../searchservlet?query=C03C3/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C3/32"/>
+  </TreeNode>
+  <TreeNode Title="C03C4/00 特殊性能玻璃的组成[4]" Target="frmContent" Href="../searchservlet?query=C03C4/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C4/00">
+    <TreeNode Title="C03C4/02 #着色玻璃[4]" Target="frmContent" Href="../searchservlet?query=C03C4/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C4/02"/>
+    <TreeNode Title="C03C4/04 #光敏玻璃[4]" Target="frmContent" Href="../searchservlet?query=C03C4/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C4/04">
+      <TreeNode Title="C03C4/06 ##光变色或光致变色玻璃[4]" Target="frmContent" Href="../searchservlet?query=C03C4/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C4/06"/>
+    </TreeNode>
+    <TreeNode Title="C03C4/08 #选择性吸收指定波长辐射的玻璃[4]" Target="frmContent" Href="../searchservlet?query=C03C4/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C4/08"/>
+    <TreeNode Title="C03C4/10 #透红外线玻璃[4]" Target="frmContent" Href="../searchservlet?query=C03C4/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C4/10"/>
+    <TreeNode Title="C03C4/12 #发光玻璃；荧光玻璃[4]" Target="frmContent" Href="../searchservlet?query=C03C4/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C4/12"/>
+    <TreeNode Title="C03C4/14 #导电玻璃[4]" Target="frmContent" Href="../searchservlet?query=C03C4/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C4/14"/>
+    <TreeNode Title="C03C4/16 #介电玻璃[4]" Target="frmContent" Href="../searchservlet?query=C03C4/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C4/16"/>
+    <TreeNode Title="C03C4/18 #离子感光玻璃[4]" Target="frmContent" Href="../searchservlet?query=C03C4/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C4/18"/>
+    <TreeNode Title="C03C4/20 #耐化学玻璃[4]" Target="frmContent" Href="../searchservlet?query=C03C4/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C4/20"/>
+  </TreeNode>
+  <TreeNode Title="C03C6/00 玻璃配合料组成(配合料的单个成分入C03C 1/00)[4]" Target="frmContent" Href="../searchservlet?query=C03C6/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C6/00">
+    <TreeNode Title="C03C6/02 #含硅酸盐，例如碎玻璃料[4]" Target="frmContent" Href="../searchservlet?query=C03C6/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C6/02"/>
+    <TreeNode Title="C03C6/04 #含未化合的二氧化硅，例如砂[4]" Target="frmContent" Href="../searchservlet?query=C03C6/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C6/04"/>
+    <TreeNode Title="C03C6/06 #含卤素化合物[4]" Target="frmContent" Href="../searchservlet?query=C03C6/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C6/06"/>
+    <TreeNode Title="C03C6/08 #含粒化料或烧结块[4]" Target="frmContent" Href="../searchservlet?query=C03C6/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C6/08"/>
+    <TreeNode Title="C03C6/10 #含矿渣[4]" Target="frmContent" Href="../searchservlet?query=C03C6/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C6/10"/>
+  </TreeNode>
+  <TreeNode Title="C03C8/00 搪瓷；釉(陶瓷用冷釉入C04B 41/86)；含有非熔块添加剂的玻璃料熔封成分[4]" Target="frmContent" Href="../searchservlet?query=C03C8/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C8/00">
+    <TreeNode Title="C03C8/02 #熔块的组成，即粉状或粒状的[4]" Target="frmContent" Href="../searchservlet?query=C03C8/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C8/02">
+      <TreeNode Title="C03C8/04 ##含锌[4]" Target="frmContent" Href="../searchservlet?query=C03C8/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C8/04"/>
+      <TreeNode Title="C03C8/06 ##含卤素[4]" Target="frmContent" Href="../searchservlet?query=C03C8/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C8/06"/>
+      <TreeNode Title="C03C8/08 ##含磷[4]" Target="frmContent" Href="../searchservlet?query=C03C8/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C8/08"/>
+      <TreeNode Title="C03C8/10 ##含铅[4]" Target="frmContent" Href="../searchservlet?query=C03C8/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C8/10">
+        <TreeNode Title="C03C8/12 ###含钛或锆[4]" Target="frmContent" Href="../searchservlet?query=C03C8/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C8/12"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="C03C8/14 #含有非熔块添加剂的玻璃熔块混合物，例如乳浊剂、着色剂、球磨添加物[4]" Target="frmContent" Href="../searchservlet?query=C03C8/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C8/14">
+      <TreeNode Title="C03C8/16 ##含有载体或悬浮剂，例如料浆[4]" Target="frmContent" Href="../searchservlet?query=C03C8/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C8/16"/>
+      <TreeNode Title="C03C8/18 ##含游离金属[4]" Target="frmContent" Href="../searchservlet?query=C03C8/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C8/18"/>
+      <TreeNode Title="C03C8/20 ##含钛化合物；含锆化合物[4]" Target="frmContent" Href="../searchservlet?query=C03C8/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C8/20"/>
+    </TreeNode>
+    <TreeNode Title="C03C8/22 #含两种或两种以上不同成分的熔块[4]" Target="frmContent" Href="../searchservlet?query=C03C8/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C8/22"/>
+    <TreeNode Title="C03C8/24 #含有非熔块添加剂的玻璃料熔封成分，即用作不相同材料之间的封接料，例如玻璃与金属；玻璃焊料[4]" Target="frmContent" Href="../searchservlet?query=C03C8/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C8/24"/>
+  </TreeNode>
+  <TreeNode Title="C03C10/00 微晶玻璃陶瓷，即结晶相分散于玻璃相中，并至少为总组成的50(重量)的微晶玻璃[4]" Target="frmContent" Href="../searchservlet?query=C03C10/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C10/00">
+    <TreeNode Title="C03C10/02 #非二氧化硅及非硅酸盐结晶相，例如尖晶石、钛酸钡[4]" Target="frmContent" Href="../searchservlet?query=C03C10/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C10/02"/>
+    <TreeNode Title="C03C10/04 #硅酸盐或多硅酸盐结晶相，例如莫来石、透辉石、硝石、斜长石[4]" Target="frmContent" Href="../searchservlet?query=C03C10/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C10/04">
+      <TreeNode Title="C03C10/06 ##二价金属氧化物的铝硅酸盐结晶相，例如钙长石、矿渣陶瓷[4]" Target="frmContent" Href="../searchservlet?query=C03C10/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C10/06">
+        <TreeNode Title="C03C10/08 ###铝硅酸镁，例如堇青石[4]" Target="frmContent" Href="../searchservlet?query=C03C10/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C10/08"/>
+      </TreeNode>
+      <TreeNode Title="C03C10/10 ##碱金属铝硅酸盐结晶相[4]" Target="frmContent" Href="../searchservlet?query=C03C10/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C10/10">
+        <TreeNode Title="C03C10/12 ###锂铝硅酸盐，例如锂辉石、锂霞石[4]" Target="frmContent" Href="../searchservlet?query=C03C10/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C10/12"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="C03C10/14 #二氧化硅结晶相，例如填塞石英、方石英[4]" Target="frmContent" Href="../searchservlet?query=C03C10/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C10/14"/>
+    <TreeNode Title="C03C10/16 #含卤素的结晶相[4]" Target="frmContent" Href="../searchservlet?query=C03C10/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C10/16"/>
+  </TreeNode>
+  <TreeNode Title="C03C11/00 泡沫玻璃" Target="frmContent" Href="../searchservlet?query=C03C11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C11/00"/>
+  <TreeNode Title="C03C12/00 玻璃粉(C03C 8/02优先)；玻璃珠的成分[4]" Target="frmContent" Href="../searchservlet?query=C03C12/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C12/00">
+    <TreeNode Title="C03C12/02 #反射玻璃珠[4]" Target="frmContent" Href="../searchservlet?query=C03C12/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C12/02"/>
+  </TreeNode>
+  <TreeNode Title="C03C13/00 玻璃纤维或细丝的成分(纤维或细丝的制造入C03B 37/00)" Target="frmContent" Href="../searchservlet?query=C03C13/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C13/00">
+    <TreeNode Title="C03C13/02 #含钛或锆的化合物[4]" Target="frmContent" Href="../searchservlet?query=C03C13/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C13/02"/>
+    <TreeNode Title="C03C13/04 #光学纤维，例如芯和包层纤维的组成[4]" Target="frmContent" Href="../searchservlet?query=C03C13/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C13/04"/>
+    <TreeNode Title="C03C13/06 #矿物纤维，例如矿渣棉、矿物棉、岩棉[4]" Target="frmContent" Href="../searchservlet?query=C03C13/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C13/06"/>
+  </TreeNode>
+  <TreeNode Title="C03C14/00 含非玻璃组分的玻璃组成，例如含有分布在玻璃基质中的纤维、细丝、晶须、小片状体或其他类似物的成分(玻璃配合料组成入C03C 6/00；微晶玻璃陶瓷入C03C 10/00)[4]" Target="frmContent" Href="../searchservlet?query=C03C14/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C14/00"/>
+  <TreeNode Title="C03C15/00 纤维和丝之外的蚀刻法玻璃表面处理(一般蚀刻或使表面发光的组合物入C09K 13/00) [2]" Target="frmContent" Href="../searchservlet?query=C03C15/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C15/00">
+    <TreeNode Title="C03C15/02 #用于制造光滑表面" Target="frmContent" Href="../searchservlet?query=C03C15/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C15/02"/>
+  </TreeNode>
+  <TreeNode Title="C03C17/00 纤维或丝之外玻璃，例如微晶玻璃的涂覆法表面处理(光学元件的光学涂覆入G02B 1/10)" Target="frmContent" Href="../searchservlet?query=C03C17/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C17/00">
+    <TreeNode Title="C03C17/02 #用玻璃(C03C 17/34、C03C 17/44优先)[3]" Target="frmContent" Href="../searchservlet?query=C03C17/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C17/02">
+      <TreeNode Title="C03C17/04 ##用玻璃粉结法" Target="frmContent" Href="../searchservlet?query=C03C17/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C17/04"/>
+    </TreeNode>
+    <TreeNode Title="C03C17/06 #用金属(C03C 17/34、C03C 17/44优先)[3]" Target="frmContent" Href="../searchservlet?query=C03C17/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C17/06">
+      <TreeNode Title="C03C17/09 ##采用从气相沉积[3]" Target="frmContent" Href="../searchservlet?query=C03C17/09&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C17/09"/>
+      <TreeNode Title="C03C17/10 ##采用从液相沉积" Target="frmContent" Href="../searchservlet?query=C03C17/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C17/10"/>
+    </TreeNode>
+    <TreeNode Title="C03C17/22 #用其他的无机材料(C03C 17/34、C03C 17/44优先)[3]" Target="frmContent" Href="../searchservlet?query=C03C17/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C17/22">
+      <TreeNode Title="C03C17/23 ##氧化物(C03C 17/02优先)[3]" Target="frmContent" Href="../searchservlet?query=C03C17/23&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C17/23">
+        <TreeNode Title="C03C17/245 ###采用从气相沉积[3]" Target="frmContent" Href="../searchservlet?query=C03C17/245&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C17/245"/>
+        <TreeNode Title="C03C17/25 ###采用从液相沉积[3]" Target="frmContent" Href="../searchservlet?query=C03C17/25&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C17/25"/>
+        <TreeNode Title="C03C17/27 ###采用预涂层的氧化法[3]" Target="frmContent" Href="../searchservlet?query=C03C17/27&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C17/27"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="C03C17/28 #用有机材料(C03C 17/34、C03C 17/44优先)[3]" Target="frmContent" Href="../searchservlet?query=C03C17/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C17/28">
+      <TreeNode Title="C03C17/30 ##用含硅化合物" Target="frmContent" Href="../searchservlet?query=C03C17/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C17/30"/>
+      <TreeNode Title="C03C17/32 ##用合成或天然树脂(C03C 17/30优先)" Target="frmContent" Href="../searchservlet?query=C03C17/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C17/32"/>
+    </TreeNode>
+    <TreeNode Title="C03C17/34 #用至少两种不同成分的涂层(C03C 17/44优先)[3]" Target="frmContent" Href="../searchservlet?query=C03C17/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C17/34">
+      <TreeNode Title="C03C17/36 ##至少一种涂层是金属[3]" Target="frmContent" Href="../searchservlet?query=C03C17/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C17/36">
+        <TreeNode Title="C03C17/38 ###至少一种涂层是有机材料[3]" Target="frmContent" Href="../searchservlet?query=C03C17/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C17/38"/>
+        <TreeNode Title="C03C17/40 ###所有涂层均为金属涂层[3]" Target="frmContent" Href="../searchservlet?query=C03C17/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C17/40"/>
+      </TreeNode>
+      <TreeNode Title="C03C17/42 ##至少1个有机材料的涂层和至少1个非金属涂层[3]" Target="frmContent" Href="../searchservlet?query=C03C17/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C17/42"/>
+    </TreeNode>
+    <TreeNode Title="C03C17/44 #上光[3]" Target="frmContent" Href="../searchservlet?query=C03C17/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C17/44"/>
+  </TreeNode>
+  <TreeNode Title="C03C19/00 用机械方法进行纤维或丝之外的玻璃表面处理(玻璃的喷砂、研磨或抛光入B24)" Target="frmContent" Href="../searchservlet?query=C03C19/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C19/00"/>
+  <TreeNode Title="C03C21/00 通过表面离子或金属扩散法处理纤维或丝之外的玻璃" Target="frmContent" Href="../searchservlet?query=C03C21/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C21/00"/>
+  <TreeNode Title="C03C23/00 纤维或丝之外玻璃的其他表面处理" Target="frmContent" Href="../searchservlet?query=C03C23/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C23/00"/>
+  <TreeNode Title="C03C25/00 由玻璃、矿物或矿渣制的纤维或细丝的表面处理" Target="frmContent" Href="../searchservlet?query=C03C25/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C25/00">
+    <TreeNode Title="C03C25/10 #涂层[7]" Target="frmContent" Href="../searchservlet?query=C03C25/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C25/10">
+      <TreeNode Title="C03C25/12 ##涂层的一般方法；其装置[7]" Target="frmContent" Href="../searchservlet?query=C03C25/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C25/12">
+        <TreeNode Title="C03C25/14 ###喷涂法[7]" Target="frmContent" Href="../searchservlet?query=C03C25/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C25/14"/>
+        <TreeNode Title="C03C25/16 ###浸渍法[7]" Target="frmContent" Href="../searchservlet?query=C03C25/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C25/16"/>
+        <TreeNode Title="C03C25/18 ###用挤压装置[7]" Target="frmContent" Href="../searchservlet?query=C03C25/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C25/18"/>
+        <TreeNode Title="C03C25/20 ###使纤维与涂覆器，例如辊接触[7]" Target="frmContent" Href="../searchservlet?query=C03C25/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C25/20"/>
+        <TreeNode Title="C03C25/22 ###采用从气相沉积[7]" Target="frmContent" Href="../searchservlet?query=C03C25/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C25/22"/>
+      </TreeNode>
+      <TreeNode Title="C03C25/24 ##含有机材料的涂层[7]" Target="frmContent" Href="../searchservlet?query=C03C25/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C25/24">
+        <TreeNode Title="C03C25/26 ###高分子化合物或预聚物[7]" Target="frmContent" Href="../searchservlet?query=C03C25/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C25/26">
+          <TreeNode Title="C03C25/28 ####通过仅含碳-碳不饱和键，例如丙烯酸树脂反应获得[7]" Target="frmContent" Href="../searchservlet?query=C03C25/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C25/28">
+            <TreeNode Title="C03C25/30 #####聚烯烃[7]" Target="frmContent" Href="../searchservlet?query=C03C25/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C25/30"/>
+          </TreeNode>
+          <TreeNode Title="C03C25/32 ####除仅含碳-碳不饱和键反应之外的方式获得[7]" Target="frmContent" Href="../searchservlet?query=C03C25/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C25/32">
+            <TreeNode Title="C03C25/34 #####醛的缩聚物，例如与酚、尿素、蜜胺、酰胺或胺[7]" Target="frmContent" Href="../searchservlet?query=C03C25/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C25/34"/>
+            <TreeNode Title="C03C25/36 #####环氧树脂[7]" Target="frmContent" Href="../searchservlet?query=C03C25/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C25/36"/>
+          </TreeNode>
+        </TreeNode>
+        <TreeNode Title="C03C25/38 ###有机金属化合物[7]" Target="frmContent" Href="../searchservlet?query=C03C25/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C25/38"/>
+        <TreeNode Title="C03C25/40 ###有机硅化合物[7]" Target="frmContent" Href="../searchservlet?query=C03C25/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C25/40"/>
+      </TreeNode>
+      <TreeNode Title="C03C25/42 ##含无机材料的涂层[7]" Target="frmContent" Href="../searchservlet?query=C03C25/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C25/42">
+        <TreeNode Title="C03C25/44 ###碳，例如石墨[7]" Target="frmContent" Href="../searchservlet?query=C03C25/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C25/44"/>
+        <TreeNode Title="C03C25/46 ###金属[7]" Target="frmContent" Href="../searchservlet?query=C03C25/46&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C25/46"/>
+      </TreeNode>
+      <TreeNode Title="C03C25/48 ##含至少两种不同成分的涂层[7]" Target="frmContent" Href="../searchservlet?query=C03C25/48&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C25/48">
+        <TreeNode Title="C03C25/50 ###仅含有机材料的涂层[7]" Target="frmContent" Href="../searchservlet?query=C03C25/50&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C25/50"/>
+        <TreeNode Title="C03C25/52 ###仅含无机材料的涂层[7]" Target="frmContent" Href="../searchservlet?query=C03C25/52&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C25/52"/>
+        <TreeNode Title="C03C25/54 ###至少一层有机材料涂层与至少一层无机材料涂层的组合[7]" Target="frmContent" Href="../searchservlet?query=C03C25/54&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C25/54"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="C03C25/60 #通过表面离子或金属的扩散处理[7]" Target="frmContent" Href="../searchservlet?query=C03C25/60&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C25/60"/>
+    <TreeNode Title="C03C25/62 #通过电子能、波能、颗粒辐射或通过离子注入法涂层(干燥或脱水入C03C 25/64)[7]" Target="frmContent" Href="../searchservlet?query=C03C25/62&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C25/62"/>
+    <TreeNode Title="C03C25/64 #干燥；脱水；脱羟基作用[7]" Target="frmContent" Href="../searchservlet?query=C03C25/64&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C25/64"/>
+    <TreeNode Title="C03C25/66 #化学处理，例如沥滤、酸处理或碱处理(脱羟基作用入C03C 25/64)[7]" Target="frmContent" Href="../searchservlet?query=C03C25/66&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C25/66">
+      <TreeNode Title="C03C25/68 ##蚀刻法[7]" Target="frmContent" Href="../searchservlet?query=C03C25/68&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C25/68"/>
+    </TreeNode>
+    <TreeNode Title="C03C25/70 #洗涤净化，例如再利用(C03C 25/62至C03C 25/66优先)[7]" Target="frmContent" Href="../searchservlet?query=C03C25/70&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C25/70"/>
+  </TreeNode>
+  <TreeNode Title="C03C27/00 玻璃制件与其他无机材料制件的接合；玻璃与玻璃的非熔化法接合(C03C 17/00优先；熔封成分入C03C 8/24；夹丝玻璃入C03B；玻璃与陶瓷的接合入C04)" Target="frmContent" Href="../searchservlet?query=C03C27/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C27/00">
+    <TreeNode Title="C03C27/02 #将玻璃直接熔化在金属上" Target="frmContent" Href="../searchservlet?query=C03C27/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C27/02"/>
+    <TreeNode Title="C03C27/04 #通过夹层使玻璃与金属接合" Target="frmContent" Href="../searchservlet?query=C03C27/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C27/04"/>
+    <TreeNode Title="C03C27/06 #玻璃与玻璃的非熔化法接合(熔化法接合入C03B 23/20；用于封闭壁或类似开口，及由永久固定在一起的两块或两块以上平行的玻璃板构成的部件入E06B 3/66)" Target="frmContent" Href="../searchservlet?query=C03C27/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C27/06">
+      <TreeNode Title="C03C27/08 ##借助于中介金属" Target="frmContent" Href="../searchservlet?query=C03C27/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C27/08"/>
+      <TreeNode Title="C03C27/10 ##借助于专用的黏合剂" Target="frmContent" Href="../searchservlet?query=C03C27/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C27/10">
+        <TreeNode Title="C03C27/12 ###夹层玻璃(其夹层制造中部分为塑料的夹层玻璃的机械特征入B32B)" Target="frmContent" Href="../searchservlet?query=C03C27/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C27/12"/>
+      </TreeNode>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="C03C29/00 利用玻璃接合金属" Target="frmContent" Href="../searchservlet?query=C03C29/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03C29/00"/>
+</Root>

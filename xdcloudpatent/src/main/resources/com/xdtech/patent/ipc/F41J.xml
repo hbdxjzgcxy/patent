@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="F41J1/00 靶；靶架；靶托(F41J 2/00至F41J 11/00优先；与弹头收集器结合的靶入F41J13/02)[5]" Target="frmContent" Href="../searchservlet?query=F41J1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41J1/00">
+    <TreeNode Title="F41J1/01 #其特征在于它的材料，结构或表面的靶盘(F41J 5/044优先)[5]" Target="frmContent" Href="../searchservlet?query=F41J1/01&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41J1/01"/>
+    <TreeNode Title="F41J1/08 #用于炮，例如加农炮的；用于由飞行器进攻的；原尺寸模型的模仿靶物体，例如坦克、飞行器[5]" Target="frmContent" Href="../searchservlet?query=F41J1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41J1/08"/>
+    <TreeNode Title="F41J1/10 #靶架；靶托" Target="frmContent" Href="../searchservlet?query=F41J1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41J1/10"/>
+  </TreeNode>
+  <TreeNode Title="F41J2/00 反射靶，例如雷达反射器靶；传送电磁波的活动靶[5]" Target="frmContent" Href="../searchservlet?query=F41J2/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41J2/00">
+    <TreeNode Title="F41J2/02 #传送远红外射线的活动靶[5]" Target="frmContent" Href="../searchservlet?query=F41J2/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41J2/02"/>
+  </TreeNode>
+  <TreeNode Title="F41J3/00 箭靶或标枪靶，例如用于运动或娱乐的" Target="frmContent" Href="../searchservlet?query=F41J3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41J3/00">
+    <TreeNode Title="F41J3/02 #射箭或标枪比赛的指示器或记分牌" Target="frmContent" Href="../searchservlet?query=F41J3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41J3/02"/>
+  </TreeNode>
+  <TreeNode Title="F41J5/00 靶指示系统；靶命中或得分指示系统[5]" Target="frmContent" Href="../searchservlet?query=F41J5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41J5/00">
+    <TreeNode Title="F41J5/02 #光电式命中指示器系统" Target="frmContent" Href="../searchservlet?query=F41J5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41J5/02"/>
+    <TreeNode Title="F41J5/04 #电命中显示系统；由电接触或开关致动的检测命中的装置[5]" Target="frmContent" Href="../searchservlet?query=F41J5/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41J5/04">
+      <TreeNode Title="F41J5/044 ##用于由于贯穿的弹丸而短路的具有两个或多个电传导层的靶[5]" Target="frmContent" Href="../searchservlet?query=F41J5/044&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41J5/044">
+        <TreeNode Title="F41J5/048 ###包含于离散靶截面结构中的一层电传导层[5]" Target="frmContent" Href="../searchservlet?query=F41J5/048&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41J5/048"/>
+      </TreeNode>
+      <TreeNode Title="F41J5/052 ##包含多个电接触的靶，每个与离散靶截面相应并且由一个机构致动(F41J 5/056优先)[5]" Target="frmContent" Href="../searchservlet?query=F41J5/052&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41J5/052"/>
+      <TreeNode Title="F41J5/056 ##由靶体被击中产生机械振动的开关致动，例如使用冲击或振动传感器[5]" Target="frmContent" Href="../searchservlet?query=F41J5/056&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41J5/056"/>
+    </TreeNode>
+    <TreeNode Title="F41J5/06 #声命中指示系统，即冲击波检测(F41J 5/056优先)" Target="frmContent" Href="../searchservlet?query=F41J5/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41J5/06"/>
+    <TreeNode Title="F41J5/08 #红外线命中指示系统" Target="frmContent" Href="../searchservlet?query=F41J5/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41J5/08"/>
+    <TreeNode Title="F41J5/10 #电影拍照命中指示系统(电影拍照命中靶入F41J 9/14)" Target="frmContent" Href="../searchservlet?query=F41J5/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41J5/10"/>
+    <TreeNode Title="F41J5/12 #用于指示子弹脱靶的距离(F41J 5/02至F41J 5/10优先)" Target="frmContent" Href="../searchservlet?query=F41J5/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41J5/12"/>
+    <TreeNode Title="F41J5/14 #向射手发命中信号或得分的装置，例如手动的或适用于靶和射手之间联络的；用于记录命中或得分的装置[5]" Target="frmContent" Href="../searchservlet?query=F41J5/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41J5/14">
+      <TreeNode Title="F41J5/16 ##人工计分，例如使用记分板或计量器；自靶架上移开的靶上检测得分的装置[5]" Target="frmContent" Href="../searchservlet?query=F41J5/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41J5/16"/>
+    </TreeNode>
+    <TreeNode Title="F41J5/18 #当靶被击中时,靶有机械致动或移动的击中指示装置，例如信号发送器(当击中时，作为一个整个消失或移动的靶入F41J 7/04)[5]" Target="frmContent" Href="../searchservlet?query=F41J5/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41J5/18">
+      <TreeNode Title="F41J5/20 ##显示靶的一部分被击中，即显示得分[5]" Target="frmContent" Href="../searchservlet?query=F41J5/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41J5/20"/>
+      <TreeNode Title="F41J5/22 ##指示设备是发送装置[5]" Target="frmContent" Href="../searchservlet?query=F41J5/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41J5/22"/>
+    </TreeNode>
+    <TreeNode Title="F41J5/24 #当命中时,靶产生特殊的效果，例如信号弹装药引爆、铃响、摄影[5]" Target="frmContent" Href="../searchservlet?query=F41J5/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41J5/24">
+      <TreeNode Title="F41J5/26 ##当命中时,靶爆炸或分离(F41J 9/16优先)[5]" Target="frmContent" Href="../searchservlet?query=F41J5/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41J5/26"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="F41J7/00 在射击时固定的活动靶" Target="frmContent" Href="../searchservlet?query=F41J7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41J7/00">
+    <TreeNode Title="F41J7/02 #为进行检查用的活动靶" Target="frmContent" Href="../searchservlet?query=F41J7/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41J7/02"/>
+    <TreeNode Title="F41J7/04 #命中即消失的" Target="frmContent" Href="../searchservlet?query=F41J7/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41J7/04"/>
+    <TreeNode Title="F41J7/06 #摆动靶，即靶间歇地或突然地出现[5]" Target="frmContent" Href="../searchservlet?query=F41J7/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41J7/06"/>
+  </TreeNode>
+  <TreeNode Title="F41J9/00 活动靶，即在射击时移动的(F41J 2/00优先)[5]" Target="frmContent" Href="../searchservlet?query=F41J9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41J9/00">
+    <TreeNode Title="F41J9/02 #地面靶" Target="frmContent" Href="../searchservlet?query=F41J9/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41J9/02"/>
+    <TreeNode Title="F41J9/04 #海上靶" Target="frmContent" Href="../searchservlet?query=F41J9/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41J9/04">
+      <TreeNode Title="F41J9/06 ##牵引的" Target="frmContent" Href="../searchservlet?query=F41J9/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41J9/06"/>
+    </TreeNode>
+    <TreeNode Title="F41J9/08 #空中靶，例如靶机、风筝、气球" Target="frmContent" Href="../searchservlet?query=F41J9/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41J9/08">
+      <TreeNode Title="F41J9/10 ##牵引的" Target="frmContent" Href="../searchservlet?query=F41J9/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41J9/10"/>
+    </TreeNode>
+    <TreeNode Title="F41J9/14 #电影靶，例如活动图片靶" Target="frmContent" Href="../searchservlet?query=F41J9/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41J9/14"/>
+    <TreeNode Title="F41J9/16 #泥塑鸽靶；泥塑圆盘靶" Target="frmContent" Href="../searchservlet?query=F41J9/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41J9/16">
+      <TreeNode Title="F41J9/18 ##所用的收集或投掷设备" Target="frmContent" Href="../searchservlet?query=F41J9/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41J9/18">
+        <TreeNode Title="F41J9/20 ###带有弹簧操作的投掷器[3]" Target="frmContent" Href="../searchservlet?query=F41J9/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41J9/20">
+          <TreeNode Title="F41J9/22 ####靠人工作用使投掷器处于待发状态的[3]" Target="frmContent" Href="../searchservlet?query=F41J9/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41J9/22"/>
+          <TreeNode Title="F41J9/24 ####靠电动装置使投掷器处于待发状态的[3]" Target="frmContent" Href="../searchservlet?query=F41J9/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41J9/24"/>
+        </TreeNode>
+        <TreeNode Title="F41J9/26 ###用流体装置操作的[3]" Target="frmContent" Href="../searchservlet?query=F41J9/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41J9/26"/>
+        <TreeNode Title="F41J9/28 ###靠人工操作的[3]" Target="frmContent" Href="../searchservlet?query=F41J9/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41J9/28"/>
+        <TreeNode Title="F41J9/30 ###以使用靶储存装置为特征的[3]" Target="frmContent" Href="../searchservlet?query=F41J9/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41J9/30"/>
+        <TreeNode Title="F41J9/32 ###以防止超越飞行路线的装置为特点的[3]" Target="frmContent" Href="../searchservlet?query=F41J9/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41J9/32"/>
+      </TreeNode>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="F41J11/00 靶场[2009.01]" Target="frmContent" Href="../searchservlet?query=F41J11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41J11/00">
+    <TreeNode Title="F41J11/02 #所用的安全设备[2009.01]" Target="frmContent" Href="../searchservlet?query=F41J11/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41J11/02"/>
+  </TreeNode>
+  <TreeNode Title="F41J13/00 弹头收集器[2009.01]" Target="frmContent" Href="../searchservlet?query=F41J13/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41J13/00">
+    <TreeNode Title="F41J13/02 #与靶结合的[2009.01]" Target="frmContent" Href="../searchservlet?query=F41J13/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41J13/02"/>
+  </TreeNode>
+</Root>

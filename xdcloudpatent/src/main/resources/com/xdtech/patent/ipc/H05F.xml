@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="H05F1/00 防止形成静电电荷的" Target="frmContent" Href="../searchservlet?query=H05F1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05F1/00">
+    <TreeNode Title="H05F1/02 #通过表面处理" Target="frmContent" Href="../searchservlet?query=H05F1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05F1/02"/>
+  </TreeNode>
+  <TreeNode Title="H05F3/00 引走静电电荷的(从生物上引走的入A61N 1/14)" Target="frmContent" Href="../searchservlet?query=H05F3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05F3/00">
+    <TreeNode Title="H05F3/02 #用接地方法的" Target="frmContent" Href="../searchservlet?query=H05F3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05F3/02"/>
+    <TreeNode Title="H05F3/04 #用火花隙或其他放电装置的(提供电晕放电的装置本身入H01T 19/00)[2]" Target="frmContent" Href="../searchservlet?query=H05F3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05F3/04"/>
+    <TreeNode Title="H05F3/06 #用电离辐射的" Target="frmContent" Href="../searchservlet?query=H05F3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05F3/06"/>
+  </TreeNode>
+  <TreeNode Title="H05F7/00 自然发生的电的应用" Target="frmContent" Href="../searchservlet?query=H05F7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05F7/00"/>
+</Root>

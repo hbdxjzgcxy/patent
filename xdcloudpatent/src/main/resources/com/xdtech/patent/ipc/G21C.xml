@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="G21C1/00 反应堆" Target="frmContent" Href="../searchservlet?query=G21C1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C1/00">
+    <TreeNode Title="G21C1/01 #在G21C 3/00至G21C 19/00各组中未包括的一般零部件[3]" Target="frmContent" Href="../searchservlet?query=G21C1/01&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C1/01"/>
+    <TreeNode Title="G21C1/02 #快裂变反应堆，即不用慢化剂的反应堆" Target="frmContent" Href="../searchservlet?query=G21C1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C1/02">
+      <TreeNode Title="G21C1/03 ##用基本上不加压的冷却剂来冷却，例如，池式反应堆[5]" Target="frmContent" Href="../searchservlet?query=G21C1/03&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C1/03"/>
+    </TreeNode>
+    <TreeNode Title="G21C1/04 #热反应堆" Target="frmContent" Href="../searchservlet?query=G21C1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C1/04">
+      <TreeNode Title="G21C1/06 ##非均匀的反应堆，即其中燃料和慢化剂是隔开的" Target="frmContent" Href="../searchservlet?query=G21C1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C1/06">
+        <TreeNode Title="G21C1/07 ###卵石层式反应堆；装有颗粒燃料的反应堆[5]" Target="frmContent" Href="../searchservlet?query=G21C1/07&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C1/07"/>
+        <TreeNode Title="G21C1/08 ###慢化剂为高增压的，例如，沸水反应堆、总体超热反应堆、加压水反应堆(G21C 1/22优先)" Target="frmContent" Href="../searchservlet?query=G21C1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C1/08">
+          <TreeNode Title="G21C1/09 ####压力调节装置，也就是增压器[5]" Target="frmContent" Href="../searchservlet?query=G21C1/09&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C1/09"/>
+          <TreeNode Title="G21C1/10 ####慢化剂和冷却剂是不同的或隔开的" Target="frmContent" Href="../searchservlet?query=G21C1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C1/10">
+            <TreeNode Title="G21C1/12 #####固体慢化剂，例如，镁诺克斯型(Magnox)反应堆" Target="frmContent" Href="../searchservlet?query=G21C1/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C1/12"/>
+          </TreeNode>
+        </TreeNode>
+        <TreeNode Title="G21C1/14 ###慢化剂基本上是不加压的，例如，游泳池式反应堆(G21C 1/22优先)" Target="frmContent" Href="../searchservlet?query=G21C1/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C1/14">
+          <TreeNode Title="G21C1/16 ####慢化剂和冷却剂是不同的或隔开的，例如，钠—石墨反应堆" Target="frmContent" Href="../searchservlet?query=G21C1/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C1/16">
+            <TreeNode Title="G21C1/18 #####加压的冷却剂" Target="frmContent" Href="../searchservlet?query=G21C1/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C1/18">
+              <TreeNode Title="G21C1/20 ######慢化剂是液体，例如压力管反应堆" Target="frmContent" Href="../searchservlet?query=G21C1/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C1/20"/>
+            </TreeNode>
+          </TreeNode>
+        </TreeNode>
+        <TreeNode Title="G21C1/22 ###使用液体或气体燃料" Target="frmContent" Href="../searchservlet?query=G21C1/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C1/22"/>
+      </TreeNode>
+      <TreeNode Title="G21C1/24 ##均匀的反应堆，即其中燃料和慢化剂对中子为有效的均匀介质" Target="frmContent" Href="../searchservlet?query=G21C1/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C1/24">
+        <TreeNode Title="G21C1/26 ###单区反应堆" Target="frmContent" Href="../searchservlet?query=G21C1/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C1/26"/>
+        <TreeNode Title="G21C1/28 ###双区反应堆" Target="frmContent" Href="../searchservlet?query=G21C1/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C1/28"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="G21C1/30 #亚临界反应堆" Target="frmContent" Href="../searchservlet?query=G21C1/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C1/30"/>
+    <TreeNode Title="G21C1/32 #总体反应堆，即在功能上与反应堆相结合，而对反应来说并非必须的反应堆部件，例如热交换器放置于装有堆芯的封闭物之内(G21C 1/02至G21C 1/30优先)[3]" Target="frmContent" Href="../searchservlet?query=G21C1/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C1/32"/>
+  </TreeNode>
+  <TreeNode Title="G21C3/00 反应堆燃料元件及其组装；用作反应堆燃料元件的材料的选择" Target="frmContent" Href="../searchservlet?query=G21C3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C3/00">
+    <TreeNode Title="G21C3/02 #燃料元件" Target="frmContent" Href="../searchservlet?query=G21C3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C3/02">
+      <TreeNode Title="G21C3/04 ##结构零部件" Target="frmContent" Href="../searchservlet?query=G21C3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C3/04">
+        <TreeNode Title="G21C3/06 ###壳体；外套" Target="frmContent" Href="../searchservlet?query=G21C3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C3/06">
+          <TreeNode Title="G21C3/07 ####以它们的材料为特征，例如合金[5]" Target="frmContent" Href="../searchservlet?query=G21C3/07&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C3/07"/>
+          <TreeNode Title="G21C3/08 ####带有供加速传热的外部装置，例如，散热片、导流片、槽纹" Target="frmContent" Href="../searchservlet?query=G21C3/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C3/08"/>
+          <TreeNode Title="G21C3/10 ####端盖" Target="frmContent" Href="../searchservlet?query=G21C3/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C3/10"/>
+          <TreeNode Title="G21C3/12 ####构成元件的一部分，用于在反应堆芯中定位元件的装置；为此目的的外部隔离物" Target="frmContent" Href="../searchservlet?query=G21C3/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C3/12"/>
+          <TreeNode Title="G21C3/14 ####构成元件的一部分，用于将元件插入反应堆芯或从中取出；联结相邻元件的装置" Target="frmContent" Href="../searchservlet?query=G21C3/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C3/14"/>
+        </TreeNode>
+        <TreeNode Title="G21C3/16 ###壳体内部结构的零部件" Target="frmContent" Href="../searchservlet?query=G21C3/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C3/16">
+          <TreeNode Title="G21C3/17 ####在燃料元件中用于储存或降低气体流动性的装置[5]" Target="frmContent" Href="../searchservlet?query=G21C3/17&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C3/17"/>
+          <TreeNode Title="G21C3/18 ####内部隔离物体或壳体内部其他的非放射性材料，例如，对燃料棒膨胀的补偿或对过量反应性的补偿(夹层入G21C 3/20)" Target="frmContent" Href="../searchservlet?query=G21C3/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C3/18"/>
+          <TreeNode Title="G21C3/20 ####在壳体内部或燃料上加涂层；壳体和放射性材料间非放射性夹层" Target="frmContent" Href="../searchservlet?query=G21C3/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C3/20"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="G21C3/22 ##和冷却剂接触的裂变或增殖材料" Target="frmContent" Href="../searchservlet?query=G21C3/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C3/22"/>
+      <TreeNode Title="G21C3/24 ##在非放射性壳体内部具有流体的裂变或增殖材料" Target="frmContent" Href="../searchservlet?query=G21C3/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C3/24"/>
+      <TreeNode Title="G21C3/26 ##在非放射性壳体内部具有粉末状态的裂变或增殖材料" Target="frmContent" Href="../searchservlet?query=G21C3/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C3/26"/>
+      <TreeNode Title="G21C3/28 ##在非放射性壳体内部具有固体的裂变或增殖材料" Target="frmContent" Href="../searchservlet?query=G21C3/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C3/28"/>
+    </TreeNode>
+    <TreeNode Title="G21C3/30 #刚性结构的许多燃料元件的组装" Target="frmContent" Href="../searchservlet?query=G21C3/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C3/30">
+      <TreeNode Title="G21C3/32 ##并列的细棒、棒、管状燃料元件的捆束" Target="frmContent" Href="../searchservlet?query=G21C3/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C3/32">
+        <TreeNode Title="G21C3/322 ###影响冷却剂通过或绕过捆束流量的装置[5]" Target="frmContent" Href="../searchservlet?query=G21C3/322&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C3/322"/>
+        <TreeNode Title="G21C3/324 ###对于捆束的涂层或包封[5]" Target="frmContent" Href="../searchservlet?query=G21C3/324&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C3/324"/>
+        <TreeNode Title="G21C3/326 ###包括不同合成物的燃料元件；除了燃料元件之外，包括其他的细棒形、棒形、管形元件，例如，控制棒、栅格支承棒、增殖棒、毒物棒或假燃料棒[5]" Target="frmContent" Href="../searchservlet?query=G21C3/326&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C3/326">
+          <TreeNode Title="G21C3/328 ####在捆束栅格中元件的相对配置[5]" Target="frmContent" Href="../searchservlet?query=G21C3/328&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C3/328"/>
+        </TreeNode>
+        <TreeNode Title="G21C3/33 ###在捆束中元件的支承或吊挂(定位格架入G21C 3/34)；构成捆束部分，用于把它插入堆芯，或从堆芯取出的装置；用于联结相邻捆束的装置[5]" Target="frmContent" Href="../searchservlet?query=G21C3/33&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C3/33">
+          <TreeNode Title="G21C3/332 ####对于定位格架的支承[5]" Target="frmContent" Href="../searchservlet?query=G21C3/332&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C3/332"/>
+        </TreeNode>
+        <TreeNode Title="G21C3/334 ###捆束组装[5]" Target="frmContent" Href="../searchservlet?query=G21C3/334&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C3/334"/>
+        <TreeNode Title="G21C3/335 ###在未辐照过的捆束中交换元件[5]" Target="frmContent" Href="../searchservlet?query=G21C3/335&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C3/335"/>
+        <TreeNode Title="G21C3/336 ###在捆束中燃料棒的定位元件(定位格架入G21C 3/34)[5]" Target="frmContent" Href="../searchservlet?query=G21C3/336&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C3/336">
+          <TreeNode Title="G21C3/338 ####螺旋式定位元件[5]" Target="frmContent" Href="../searchservlet?query=G21C3/338&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C3/338"/>
+        </TreeNode>
+        <TreeNode Title="G21C3/34 ###定位栅格" Target="frmContent" Href="../searchservlet?query=G21C3/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C3/34">
+          <TreeNode Title="G21C3/344 ####由已组装的管形元件构成[5]" Target="frmContent" Href="../searchservlet?query=G21C3/344&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C3/344"/>
+          <TreeNode Title="G21C3/348 ####由已组装的非交叉条带构成[5]" Target="frmContent" Href="../searchservlet?query=G21C3/348&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C3/348"/>
+          <TreeNode Title="G21C3/352 ####由已组装的交叉条带构成[5]" Target="frmContent" Href="../searchservlet?query=G21C3/352&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C3/352"/>
+          <TreeNode Title="G21C3/356 ####装有燃料元件的支承部件[5]" Target="frmContent" Href="../searchservlet?query=G21C3/356&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C3/356"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="G21C3/36 ##板状燃料元件或同轴管的组装" Target="frmContent" Href="../searchservlet?query=G21C3/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C3/36"/>
+    </TreeNode>
+    <TreeNode Title="G21C3/38 #在支承套中由单个燃料元件组成的燃料单元" Target="frmContent" Href="../searchservlet?query=G21C3/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C3/38"/>
+    <TreeNode Title="G21C3/40 #用于由裂变热直接产生电能的燃料元件和热电元件的结构上的结合(温度测量入G21C 17/10)" Target="frmContent" Href="../searchservlet?query=G21C3/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C3/40"/>
+    <TreeNode Title="G21C3/42 #用于反应堆燃料的材料选择" Target="frmContent" Href="../searchservlet?query=G21C3/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C3/42">
+      <TreeNode Title="G21C3/44 ##流体或流动的反应堆燃料" Target="frmContent" Href="../searchservlet?query=G21C3/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C3/44">
+        <TreeNode Title="G21C3/46 ###溶液混合物" Target="frmContent" Href="../searchservlet?query=G21C3/46&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C3/46">
+          <TreeNode Title="G21C3/48 ####放射性组分的纯溶液或胶体溶液" Target="frmContent" Href="../searchservlet?query=G21C3/48&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C3/48"/>
+          <TreeNode Title="G21C3/50 ####放射性组分的悬浮；悬浮体" Target="frmContent" Href="../searchservlet?query=G21C3/50&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C3/50"/>
+        </TreeNode>
+        <TreeNode Title="G21C3/52 ###液体金属混合物" Target="frmContent" Href="../searchservlet?query=G21C3/52&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C3/52"/>
+        <TreeNode Title="G21C3/54 ###熔融盐、氧化物或氢氧化物" Target="frmContent" Href="../searchservlet?query=G21C3/54&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C3/54"/>
+        <TreeNode Title="G21C3/56 ###气体混合物；在气体载体中的悬浮" Target="frmContent" Href="../searchservlet?query=G21C3/56&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C3/56"/>
+      </TreeNode>
+      <TreeNode Title="G21C3/58 ##固体反应堆燃料" Target="frmContent" Href="../searchservlet?query=G21C3/58&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C3/58">
+        <TreeNode Title="G21C3/60 ###金属燃料；金属间的弥散" Target="frmContent" Href="../searchservlet?query=G21C3/60&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C3/60"/>
+        <TreeNode Title="G21C3/62 ###陶质燃料" Target="frmContent" Href="../searchservlet?query=G21C3/62&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C3/62">
+          <TreeNode Title="G21C3/64 ####陶质弥散体燃料，例如，金属陶瓷" Target="frmContent" Href="../searchservlet?query=G21C3/64&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C3/64"/>
+        </TreeNode>
+      </TreeNode>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="G21C5/00 慢化剂或堆芯结构；用作慢化剂材料的选择" Target="frmContent" Href="../searchservlet?query=G21C5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C5/00">
+    <TreeNode Title="G21C5/02 #零部件" Target="frmContent" Href="../searchservlet?query=G21C5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C5/02">
+      <TreeNode Title="G21C5/04 ##维格纳(Wigner)生长所用的空间布置" Target="frmContent" Href="../searchservlet?query=G21C5/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C5/04"/>
+      <TreeNode Title="G21C5/06 ##燃料元件的定位或支承装置" Target="frmContent" Href="../searchservlet?query=G21C5/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C5/06"/>
+      <TreeNode Title="G21C5/08 ##防止整个结构产生不希望的非对称膨胀的装置" Target="frmContent" Href="../searchservlet?query=G21C5/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C5/08"/>
+      <TreeNode Title="G21C5/10 ##整个结构的支承装置" Target="frmContent" Href="../searchservlet?query=G21C5/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C5/10"/>
+    </TreeNode>
+    <TreeNode Title="G21C5/12 #以组成为特征，例如含有保证改善慢化剂热阻的添加物质的慢化剂" Target="frmContent" Href="../searchservlet?query=G21C5/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C5/12"/>
+    <TreeNode Title="G21C5/14 #以形状为特征" Target="frmContent" Href="../searchservlet?query=G21C5/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C5/14">
+      <TreeNode Title="G21C5/16 ##其组成部件的形状" Target="frmContent" Href="../searchservlet?query=G21C5/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C5/16"/>
+    </TreeNode>
+    <TreeNode Title="G21C5/18 #以备有多于一放射区为特点的" Target="frmContent" Href="../searchservlet?query=G21C5/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C5/18">
+      <TreeNode Title="G21C5/20 ##其中一放射区包含裂变材料，另一放射区包含增殖材料" Target="frmContent" Href="../searchservlet?query=G21C5/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C5/20"/>
+      <TreeNode Title="G21C5/22 ##其中一放射区为过热区" Target="frmContent" Href="../searchservlet?query=G21C5/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C5/22"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="G21C7/00 核反应的控制" Target="frmContent" Href="../searchservlet?query=G21C7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C7/00">
+    <TreeNode Title="G21C7/02 #利用反应堆材料的自调整性(包括温度的稳定装置入G21C 7/32)" Target="frmContent" Href="../searchservlet?query=G21C7/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C7/02">
+      <TreeNode Title="G21C7/04 ##可燃毒物的(在燃料棒中的可燃毒物入G21C 3/326)[5]" Target="frmContent" Href="../searchservlet?query=G21C7/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C7/04"/>
+    </TreeNode>
+    <TreeNode Title="G21C7/06 #使用中子吸收材料，即吸收截面大大超过反射截面的材料" Target="frmContent" Href="../searchservlet?query=G21C7/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C7/06">
+      <TreeNode Title="G21C7/08 ##利用固体控制元件的位移，例如控制棒的位移" Target="frmContent" Href="../searchservlet?query=G21C7/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C7/08">
+        <TreeNode Title="G21C7/10 ###控制元件的构造" Target="frmContent" Href="../searchservlet?query=G21C7/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C7/10">
+          <TreeNode Title="G21C7/103 ####包含一种或多于一种吸收剂以及其他元件，例如，燃料元件或慢化剂元件的控制组件[5]" Target="frmContent" Href="../searchservlet?query=G21C7/103&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C7/103"/>
+          <TreeNode Title="G21C7/107 ####适于卵石形燃料层反应堆的控制元件[5]" Target="frmContent" Href="../searchservlet?query=G21C7/107&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C7/107"/>
+          <TreeNode Title="G21C7/11 ####可变形的控制元件，例如，软性的、可伸缩的、活接的[5]" Target="frmContent" Href="../searchservlet?query=G21C7/11&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C7/11"/>
+          <TreeNode Title="G21C7/113 ####扁平元件构成的控制元件；具有十字形截面的控制元件[5]" Target="frmContent" Href="../searchservlet?query=G21C7/113&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C7/113"/>
+          <TreeNode Title="G21C7/117 ####控制棒簇束；星形接头结构[5]" Target="frmContent" Href="../searchservlet?query=G21C7/117&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C7/117"/>
+        </TreeNode>
+        <TreeNode Title="G21C7/12 ###移动控制元件到所希望的位置的装置(在紧急事故中的落棒入G21C 9/02)" Target="frmContent" Href="../searchservlet?query=G21C7/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C7/12">
+          <TreeNode Title="G21C7/14 ####机械驱动装置" Target="frmContent" Href="../searchservlet?query=G21C7/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C7/14"/>
+          <TreeNode Title="G21C7/16 ####液压或气动驱动装置" Target="frmContent" Href="../searchservlet?query=G21C7/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C7/16"/>
+        </TreeNode>
+        <TreeNode Title="G21C7/18 ###取得控制元件差动的装置" Target="frmContent" Href="../searchservlet?query=G21C7/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C7/18"/>
+        <TreeNode Title="G21C7/20 ###减震器的配置(一般减震器入F16F)" Target="frmContent" Href="../searchservlet?query=G21C7/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C7/20"/>
+      </TreeNode>
+      <TreeNode Title="G21C7/22 ##利用流体或流质吸收中子的材料的位移" Target="frmContent" Href="../searchservlet?query=G21C7/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C7/22"/>
+      <TreeNode Title="G21C7/24 ##用作吸收中子的材料的选择" Target="frmContent" Href="../searchservlet?query=G21C7/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C7/24"/>
+    </TreeNode>
+    <TreeNode Title="G21C7/26 #依靠慢化剂或其部件的位移" Target="frmContent" Href="../searchservlet?query=G21C7/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C7/26">
+      <TreeNode Title="G21C7/27 ##能谱位移控制[5]" Target="frmContent" Href="../searchservlet?query=G21C7/27&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C7/27"/>
+    </TreeNode>
+    <TreeNode Title="G21C7/28 #依靠反射器或其部件的位移" Target="frmContent" Href="../searchservlet?query=G21C7/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C7/28"/>
+    <TreeNode Title="G21C7/30 #依靠反应堆燃料或燃料元件的位移" Target="frmContent" Href="../searchservlet?query=G21C7/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C7/30"/>
+    <TreeNode Title="G21C7/32 #改变通过堆芯的冷却剂的流量" Target="frmContent" Href="../searchservlet?query=G21C7/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C7/32"/>
+    <TreeNode Title="G21C7/34 #利用初级中子源" Target="frmContent" Href="../searchservlet?query=G21C7/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C7/34"/>
+    <TreeNode Title="G21C7/36 #控制电路" Target="frmContent" Href="../searchservlet?query=G21C7/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C7/36"/>
+  </TreeNode>
+  <TreeNode Title="G21C9/00 结构上和反应堆相结合的紧急保护装置(紧急冷却装置入G21C 15/18)" Target="frmContent" Href="../searchservlet?query=G21C9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C9/00">
+    <TreeNode Title="G21C9/004 #压力抑制[5]" Target="frmContent" Href="../searchservlet?query=G21C9/004&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C9/004">
+      <TreeNode Title="G21C9/008 ##用破裂盘或破裂隔膜[5]" Target="frmContent" Href="../searchservlet?query=G21C9/008&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C9/008"/>
+      <TreeNode Title="G21C9/012 ##用热累积或用蒸汽冷凝，例如，冰冷凝器[5]" Target="frmContent" Href="../searchservlet?query=G21C9/012&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C9/012"/>
+    </TreeNode>
+    <TreeNode Title="G21C9/016 #堆芯捕集器[5]" Target="frmContent" Href="../searchservlet?query=G21C9/016&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C9/016"/>
+    <TreeNode Title="G21C9/02 #故障情况下有效地迅速降低反应性要素的装置，例如反应堆可熔保险器" Target="frmContent" Href="../searchservlet?query=G21C9/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C9/02">
+      <TreeNode Title="G21C9/027 ##用固体，例如卵石状，快速移动[5]" Target="frmContent" Href="../searchservlet?query=G21C9/027&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C9/027"/>
+      <TreeNode Title="G21C9/033 ##用吸收剂流体[5]" Target="frmContent" Href="../searchservlet?query=G21C9/033&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C9/033"/>
+    </TreeNode>
+    <TreeNode Title="G21C9/04 #灭火装置" Target="frmContent" Href="../searchservlet?query=G21C9/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C9/04">
+      <TreeNode Title="G21C9/06 ##用于防止爆炸气体累积的装置，例如，复合器[5]" Target="frmContent" Href="../searchservlet?query=G21C9/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C9/06"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="G21C11/00 结构上和反应堆联合的屏蔽" Target="frmContent" Href="../searchservlet?query=G21C11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C11/00">
+    <TreeNode Title="G21C11/02 #生物屏蔽(一般的入G21F)" Target="frmContent" Href="../searchservlet?query=G21C11/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C11/02">
+      <TreeNode Title="G21C11/04 ##在水中的舱上" Target="frmContent" Href="../searchservlet?query=G21C11/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C11/04"/>
+    </TreeNode>
+    <TreeNode Title="G21C11/06 #反射屏蔽，即用于减少中子的损失" Target="frmContent" Href="../searchservlet?query=G21C11/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C11/06"/>
+    <TreeNode Title="G21C11/08 #热屏蔽；热内衬，即用于消散来自γ辐射的热量，否则就要加热外部的生物屏蔽" Target="frmContent" Href="../searchservlet?query=G21C11/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C11/08"/>
+  </TreeNode>
+  <TreeNode Title="G21C13/00 压力容器；密封容器；一般密封(用于化学或物理处理的入B01J 3/00；一般压力容器入F16J 12/00)" Target="frmContent" Href="../searchservlet?query=G21C13/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C13/00">
+    <TreeNode Title="G21C13/02 #零部件" Target="frmContent" Href="../searchservlet?query=G21C13/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C13/02">
+      <TreeNode Title="G21C13/024 ##对于压力容器或密闭壳的支撑结构[5]" Target="frmContent" Href="../searchservlet?query=G21C13/024&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C13/024"/>
+      <TreeNode Title="G21C13/028 ##密封，例如，对于压力容器或密闭壳[5]" Target="frmContent" Href="../searchservlet?query=G21C13/028&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C13/028"/>
+      <TreeNode Title="G21C13/032 ##管子和容器壁之间的接合，例如考虑热应力[5]" Target="frmContent" Href="../searchservlet?query=G21C13/032&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C13/032">
+        <TreeNode Title="G21C13/036 ###穿过容器壁的管子，即在容器壁两端是连续的[5]" Target="frmContent" Href="../searchservlet?query=G21C13/036&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C13/036"/>
+      </TreeNode>
+      <TreeNode Title="G21C13/04 ##膨胀和收缩装置" Target="frmContent" Href="../searchservlet?query=G21C13/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C13/04"/>
+      <TreeNode Title="G21C13/06 ##密封塞子(一般用于压力容器的入F16J 13/00)" Target="frmContent" Href="../searchservlet?query=G21C13/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C13/06">
+        <TreeNode Title="G21C13/067 ###对于管子，例如竖管；用于塞子的锁定器件[5]" Target="frmContent" Href="../searchservlet?query=G21C13/067&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C13/067"/>
+        <TreeNode Title="G21C13/073 ###用于反应堆容器的封闭物，例如可转动[5]" Target="frmContent" Href="../searchservlet?query=G21C13/073&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C13/073"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="G21C13/08 #以材料特性为特征的容器；用作压力容器材料的选择" Target="frmContent" Href="../searchservlet?query=G21C13/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C13/08">
+      <TreeNode Title="G21C13/087 ##金属容器[5]" Target="frmContent" Href="../searchservlet?query=G21C13/087&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C13/087"/>
+      <TreeNode Title="G21C13/093 ##混凝土容器[5]" Target="frmContent" Href="../searchservlet?query=G21C13/093&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C13/093"/>
+    </TreeNode>
+    <TreeNode Title="G21C13/10 #在漏泄事件中防止污染的装置" Target="frmContent" Href="../searchservlet?query=G21C13/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C13/10"/>
+  </TreeNode>
+  <TreeNode Title="G21C15/00 装有堆芯的压力容器中的冷却装置；特殊冷却剂的选择" Target="frmContent" Href="../searchservlet?query=G21C15/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C15/00">
+    <TreeNode Title="G21C15/02 #传热至冷却剂通道的装置或配置，如通过支撑燃料元件的冷却剂循环" Target="frmContent" Href="../searchservlet?query=G21C15/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C15/02">
+      <TreeNode Title="G21C15/04 ##经裂变或增殖材料的" Target="frmContent" Href="../searchservlet?query=G21C15/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C15/04">
+        <TreeNode Title="G21C15/06 ###在燃料元件中" Target="frmContent" Href="../searchservlet?query=G21C15/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C15/06"/>
+      </TreeNode>
+      <TreeNode Title="G21C15/08 ##经慢化材料的" Target="frmContent" Href="../searchservlet?query=G21C15/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C15/08"/>
+      <TreeNode Title="G21C15/10 ##经反射器或热屏蔽的" Target="frmContent" Href="../searchservlet?query=G21C15/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C15/10"/>
+      <TreeNode Title="G21C15/12 ##经压力容器、经密封容器的" Target="frmContent" Href="../searchservlet?query=G21C15/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C15/12"/>
+      <TreeNode Title="G21C15/14 ##经传导热流体的导管；经包括附加的器件的导管，例如泵，摄像机" Target="frmContent" Href="../searchservlet?query=G21C15/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C15/14"/>
+    </TreeNode>
+    <TreeNode Title="G21C15/16 #包括液体和蒸汽的分离装置(一般分离入B01D；蒸汽收集器入F16T)" Target="frmContent" Href="../searchservlet?query=G21C15/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C15/16"/>
+    <TreeNode Title="G21C15/18 #紧急冷却装置；排除停堆余热" Target="frmContent" Href="../searchservlet?query=G21C15/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C15/18"/>
+    <TreeNode Title="G21C15/20 #燃料管道和慢化剂间的隔板或绝热材料，如在压力管反应堆中" Target="frmContent" Href="../searchservlet?query=G21C15/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C15/20"/>
+    <TreeNode Title="G21C15/22 #冷却剂管和顶盖或其他导管的结构联结，如在压力管反应堆中(一般管道的连接入F16L)[4]" Target="frmContent" Href="../searchservlet?query=G21C15/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C15/22"/>
+    <TreeNode Title="G21C15/24 #加速冷却剂的流动(电动泵入H02K 44/02)" Target="frmContent" Href="../searchservlet?query=G21C15/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C15/24">
+      <TreeNode Title="G21C15/243 ##对于液体[5]" Target="frmContent" Href="../searchservlet?query=G21C15/243&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C15/243">
+        <TreeNode Title="G21C15/247 ###对于液体金属[5]" Target="frmContent" Href="../searchservlet?query=G21C15/247&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C15/247"/>
+        <TreeNode Title="G21C15/25 ###使用喷射泵[5]" Target="frmContent" Href="../searchservlet?query=G21C15/25&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C15/25"/>
+      </TreeNode>
+      <TreeNode Title="G21C15/253 ##对于气体，例如鼓风机[5]" Target="frmContent" Href="../searchservlet?query=G21C15/253&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C15/253"/>
+      <TreeNode Title="G21C15/257 ##使用热管[5]" Target="frmContent" Href="../searchservlet?query=G21C15/257&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C15/257"/>
+      <TreeNode Title="G21C15/26 ##利用对流作用，如应用烟囱、使用扩散形流道" Target="frmContent" Href="../searchservlet?query=G21C15/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C15/26"/>
+    </TreeNode>
+    <TreeNode Title="G21C15/28 #特殊冷却剂的选择(用作慢化剂的入G21C 5/12；热传递或热交换材料入C09K 5/00)" Target="frmContent" Href="../searchservlet?query=G21C15/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C15/28"/>
+  </TreeNode>
+  <TreeNode Title="G21C17/00 监视；测试(一般测量入G01)" Target="frmContent" Href="../searchservlet?query=G21C17/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C17/00">
+    <TreeNode Title="G21C17/003 #容器遥控检测，例如压力容器[5]" Target="frmContent" Href="../searchservlet?query=G21C17/003&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C17/003">
+      <TreeNode Title="G21C17/007 ##容器的外表面的检测[5]" Target="frmContent" Href="../searchservlet?query=G21C17/007&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C17/007"/>
+      <TreeNode Title="G21C17/01 ##容器内表面的检测[5]" Target="frmContent" Href="../searchservlet?query=G21C17/01&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C17/01"/>
+      <TreeNode Title="G21C17/013 ##检修车[5]" Target="frmContent" Href="../searchservlet?query=G21C17/013&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C17/013"/>
+    </TreeNode>
+    <TreeNode Title="G21C17/017 #在核设施中，管道或管子的检测或维护[5]" Target="frmContent" Href="../searchservlet?query=G21C17/017&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C17/017"/>
+    <TreeNode Title="G21C17/02 #用于监视冷却剂或慢化剂的器件或装置" Target="frmContent" Href="../searchservlet?query=G21C17/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C17/02">
+      <TreeNode Title="G21C17/022 ##用于监视液体冷却剂或慢化剂[5]" Target="frmContent" Href="../searchservlet?query=G21C17/022&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C17/022">
+        <TreeNode Title="G21C17/025 ###用于监视液体金属冷却剂[5]" Target="frmContent" Href="../searchservlet?query=G21C17/025&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C17/025"/>
+      </TreeNode>
+      <TreeNode Title="G21C17/028 ##用于监视气体冷却剂[5]" Target="frmContent" Href="../searchservlet?query=G21C17/028&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C17/028"/>
+      <TreeNode Title="G21C17/032 ##测量或监视反应堆冷却的流量[5]" Target="frmContent" Href="../searchservlet?query=G21C17/032&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C17/032"/>
+      <TreeNode Title="G21C17/035 ##探测慢化剂水平或冷却剂水平的器件[5]" Target="frmContent" Href="../searchservlet?query=G21C17/035&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C17/035"/>
+      <TreeNode Title="G21C17/038 ##在慢化剂和冷却剂中发生沸腾的探测[5]" Target="frmContent" Href="../searchservlet?query=G21C17/038&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C17/038"/>
+      <TreeNode Title="G21C17/04 ##探测破损燃料块" Target="frmContent" Href="../searchservlet?query=G21C17/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C17/04"/>
+    </TreeNode>
+    <TreeNode Title="G21C17/06 #用于监视或检测反应堆芯外面的燃料或燃料元件的器件或装置的，例如，对于烧过的，对于污染的，(G21C 17/08，G21C 17/10优先；当反应堆运行期间，探测泄漏的燃料元件入G21C 17/04)" Target="frmContent" Href="../searchservlet?query=G21C17/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C17/06">
+      <TreeNode Title="G21C17/07 ##泄漏的检测[5]" Target="frmContent" Href="../searchservlet?query=G21C17/07&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C17/07"/>
+    </TreeNode>
+    <TreeNode Title="G21C17/08 #反应堆芯或慢化剂结构与观察装置的结构组合，如电视摄像机、潜望镜、窗口" Target="frmContent" Href="../searchservlet?query=G21C17/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C17/08"/>
+    <TreeNode Title="G21C17/10 #燃料元件、控制棒、反应堆芯或慢化剂结合与灵敏仪器的结构组合，例如用于测量放射性、应变" Target="frmContent" Href="../searchservlet?query=G21C17/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C17/10">
+      <TreeNode Title="G21C17/104 ##测量反应性[5]" Target="frmContent" Href="../searchservlet?query=G21C17/104&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C17/104"/>
+      <TreeNode Title="G21C17/108 ##测量反应堆通量[5]" Target="frmContent" Href="../searchservlet?query=G21C17/108&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C17/108"/>
+      <TreeNode Title="G21C17/112 ##测量温度[5]" Target="frmContent" Href="../searchservlet?query=G21C17/112&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C17/112"/>
+      <TreeNode Title="G21C17/116 ##测通路或绝缘物，例如，对于电缆[5]" Target="frmContent" Href="../searchservlet?query=G21C17/116&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C17/116"/>
+      <TreeNode Title="G21C17/12 ##构成控制元件一部分的敏感元件" Target="frmContent" Href="../searchservlet?query=G21C17/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C17/12"/>
+    </TreeNode>
+    <TreeNode Title="G21C17/14 #周期测量仪表" Target="frmContent" Href="../searchservlet?query=G21C17/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C17/14"/>
+  </TreeNode>
+  <TreeNode Title="G21C19/00 用于反应堆，如在其压力容器中处理、装卸或简化装卸燃料或其他材料的设备[2]" Target="frmContent" Href="../searchservlet?query=G21C19/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C19/00">
+    <TreeNode Title="G21C19/02 #装卸设备的零部件" Target="frmContent" Href="../searchservlet?query=G21C19/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C19/02">
+      <TreeNode Title="G21C19/04 ##控制冷却剂流经被处理物体的流量的装置；控制冷却剂流经所用通道的流量的装置" Target="frmContent" Href="../searchservlet?query=G21C19/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C19/04"/>
+      <TreeNode Title="G21C19/06 ##用于支撑或储存燃料原件或控制元件的装置[4]" Target="frmContent" Href="../searchservlet?query=G21C19/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C19/06">
+        <TreeNode Title="G21C19/07 ###储存架；储存池[5]" Target="frmContent" Href="../searchservlet?query=G21C19/07&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C19/07"/>
+      </TreeNode>
+      <TreeNode Title="G21C19/08 ##燃料元件引入堆芯之前的加热装置；燃料元件从堆芯取出后的加热或冷却装置" Target="frmContent" Href="../searchservlet?query=G21C19/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C19/08"/>
+      <TreeNode Title="G21C19/10 ##适用于与燃料元件或控制单元联合使用的升降或牵引器件(操作器入B25J)" Target="frmContent" Href="../searchservlet?query=G21C19/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C19/10">
+        <TreeNode Title="G21C19/105 ###装有抓取或展开的耦合元件[5]" Target="frmContent" Href="../searchservlet?query=G21C19/105&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C19/105"/>
+        <TreeNode Title="G21C19/11 ###装有旋转式的耦合元件，例如，球窝耦合[5]" Target="frmContent" Href="../searchservlet?query=G21C19/11&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C19/11"/>
+        <TreeNode Title="G21C19/115 ###具有闭锁器件和滚珠耦合[5]" Target="frmContent" Href="../searchservlet?query=G21C19/115&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C19/115"/>
+      </TreeNode>
+      <TreeNode Title="G21C19/12 ##对燃料元件或控制元件施加直接的液压或气动力的装置" Target="frmContent" Href="../searchservlet?query=G21C19/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C19/12"/>
+    </TreeNode>
+    <TreeNode Title="G21C19/14 #以适用于反应堆芯的水平孔道为特点的" Target="frmContent" Href="../searchservlet?query=G21C19/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C19/14"/>
+    <TreeNode Title="G21C19/16 #用有活节的或可伸缩的槽或管连接反应堆芯部的通道" Target="frmContent" Href="../searchservlet?query=G21C19/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C19/16"/>
+    <TreeNode Title="G21C19/18 #将燃料元件送到反应堆进料区的装置，如从存储地点" Target="frmContent" Href="../searchservlet?query=G21C19/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C19/18"/>
+    <TreeNode Title="G21C19/19 #专用于简化装卸的反应堆部件，如简化燃料元件的装料或卸料[3]" Target="frmContent" Href="../searchservlet?query=G21C19/19&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C19/19"/>
+    <TreeNode Title="G21C19/20 #用于将物料送进压力容器的装置，用于在压力容器中处理物料的装置，用于从压力容器中移出物料的装置" Target="frmContent" Href="../searchservlet?query=G21C19/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C19/20">
+      <TreeNode Title="G21C19/22 ##当反应堆工作时，获准进入压力容器内部的装置" Target="frmContent" Href="../searchservlet?query=G21C19/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C19/22">
+        <TreeNode Title="G21C19/24 ###应用一辅助容器，该容器对压力容器暂时封闭" Target="frmContent" Href="../searchservlet?query=G21C19/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C19/24"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="G21C19/26 #用于拆除卡住或损坏的燃料元件或控制元件的装置；用于搬动其断裂部分的装置" Target="frmContent" Href="../searchservlet?query=G21C19/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C19/26"/>
+    <TreeNode Title="G21C19/28 #用于将液态材料引入反应堆芯中的装置；用于从反应堆芯中取出液态材料的装置(抽取冷却剂入G21D)" Target="frmContent" Href="../searchservlet?query=G21C19/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C19/28">
+      <TreeNode Title="G21C19/30 ##循环液态材料的连续净化，例如裂变产品的萃取" Target="frmContent" Href="../searchservlet?query=G21C19/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C19/30">
+        <TreeNode Title="G21C19/303 ###特别适用于气体(气体去污入G21F 9/02)[5]" Target="frmContent" Href="../searchservlet?query=G21C19/303&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C19/303"/>
+        <TreeNode Title="G21C19/307 ###特别适用于液体(液体去污入G21F 9/04)[5]" Target="frmContent" Href="../searchservlet?query=G21C19/307&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C19/307">
+          <TreeNode Title="G21C19/31 ####对于熔融金属[5]" Target="frmContent" Href="../searchservlet?query=G21C19/31&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C19/31">
+            <TreeNode Title="G21C19/313 #####使用冷阱[5]" Target="frmContent" Href="../searchservlet?query=G21C19/313&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C19/313"/>
+          </TreeNode>
+        </TreeNode>
+        <TreeNode Title="G21C19/317 ###用于辐射分解的离解产物的复合器件[5]" Target="frmContent" Href="../searchservlet?query=G21C19/317&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C19/317"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="G21C19/32 #用于从反应堆排放区移出放射性物体或材料的器械，例如，置于存放点；用于在存放地点处理放射性物体或材料或从那里移除的装置(处理废料入G21F 9/00)" Target="frmContent" Href="../searchservlet?query=G21C19/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C19/32"/>
+    <TreeNode Title="G21C19/33 #用于拆卸消耗的燃料元件的方法及设备(G21C 19/34优先)[2]" Target="frmContent" Href="../searchservlet?query=G21C19/33&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C19/33"/>
+    <TreeNode Title="G21C19/34 #用于拆卸的核燃料，例如，后处理之前的设备或处理(防护部分入G21F 7/00)[5]" Target="frmContent" Href="../searchservlet?query=G21C19/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C19/34">
+      <TreeNode Title="G21C19/36 ##只用机械方法" Target="frmContent" Href="../searchservlet?query=G21C19/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C19/36">
+        <TreeNode Title="G21C19/365 ###去除燃料封装或外壳[5]" Target="frmContent" Href="../searchservlet?query=G21C19/365&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C19/365">
+          <TreeNode Title="G21C19/37 ####把封装或外壳和燃料元件两者都分成块，例如，用切割或剪切[5]" Target="frmContent" Href="../searchservlet?query=G21C19/37&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C19/37"/>
+        </TreeNode>
+        <TreeNode Title="G21C19/375 ###成型器件，例如，对于燃料组件[5]" Target="frmContent" Href="../searchservlet?query=G21C19/375&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C19/375"/>
+      </TreeNode>
+      <TreeNode Title="G21C19/38 ##只用化学方法" Target="frmContent" Href="../searchservlet?query=G21C19/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C19/38"/>
+    </TreeNode>
+    <TreeNode Title="G21C19/40 #用于防止产生临界条件的装置，如存放时" Target="frmContent" Href="../searchservlet?query=G21C19/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C19/40"/>
+    <TreeNode Title="G21C19/42 #经辐照的燃料的再处理" Target="frmContent" Href="../searchservlet?query=G21C19/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C19/42">
+      <TreeNode Title="G21C19/44 ##经辐照的是固体燃料的" Target="frmContent" Href="../searchservlet?query=G21C19/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C19/44">
+        <TreeNode Title="G21C19/46 ###水溶液的流程" Target="frmContent" Href="../searchservlet?query=G21C19/46&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C19/46"/>
+        <TreeNode Title="G21C19/48 ###非水溶液的流程" Target="frmContent" Href="../searchservlet?query=G21C19/48&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C19/48"/>
+      </TreeNode>
+      <TreeNode Title="G21C19/50 ##辐照的是流体燃料的" Target="frmContent" Href="../searchservlet?query=G21C19/50&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C19/50"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="G21C21/00 专用于制造反应堆或其部件的设备或工序(一般的入B部，如B23)" Target="frmContent" Href="../searchservlet?query=G21C21/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C21/00">
+    <TreeNode Title="G21C21/02 #装在非放射性外壳内的燃料或增殖元件的制造" Target="frmContent" Href="../searchservlet?query=G21C21/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C21/02">
+      <TreeNode Title="G21C21/04 ##用振动的挤压或砸实" Target="frmContent" Href="../searchservlet?query=G21C21/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C21/04"/>
+      <TreeNode Title="G21C21/06 ##用锻造法" Target="frmContent" Href="../searchservlet?query=G21C21/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C21/06"/>
+      <TreeNode Title="G21C21/08 ##用滑配包层法" Target="frmContent" Href="../searchservlet?query=G21C21/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C21/08"/>
+      <TreeNode Title="G21C21/10 ##用挤压、拉引或伸展法" Target="frmContent" Href="../searchservlet?query=G21C21/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C21/10"/>
+      <TreeNode Title="G21C21/12 ##用流体静压力或加热气动装罐法" Target="frmContent" Href="../searchservlet?query=G21C21/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C21/12"/>
+      <TreeNode Title="G21C21/14 ##用流体中镀敷法" Target="frmContent" Href="../searchservlet?query=G21C21/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C21/14"/>
+      <TreeNode Title="G21C21/16 ##用烧铸或浸渍技术" Target="frmContent" Href="../searchservlet?query=G21C21/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C21/16"/>
+    </TreeNode>
+    <TreeNode Title="G21C21/18 #包括在G21C 7/00组中的控制元件的制造" Target="frmContent" Href="../searchservlet?query=G21C21/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C21/18"/>
+  </TreeNode>
+  <TreeNode Title="G21C23/00 适用于简化实验或辐照的反应堆[3]" Target="frmContent" Href="../searchservlet?query=G21C23/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21C23/00"/>
+</Root>

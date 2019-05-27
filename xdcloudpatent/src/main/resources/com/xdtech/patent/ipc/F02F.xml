@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="F02F1/00 汽缸；汽缸盖(一般的入F16J)" Target="frmContent" Href="../searchservlet?query=F02F1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02F1/00">
+    <TreeNode Title="F02F1/02 #具有冷却装置(汽缸盖入F02F 1/26)" Target="frmContent" Href="../searchservlet?query=F02F1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02F1/02">
+      <TreeNode Title="F02F1/04 ##用于气冷" Target="frmContent" Href="../searchservlet?query=F02F1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02F1/04">
+        <TreeNode Title="F02F1/06 ###散热片的形状或配置；散热片式的汽缸" Target="frmContent" Href="../searchservlet?query=F02F1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02F1/06">
+          <TreeNode Title="F02F1/08 ####汽缸的旋转衬筒或冷却部件是不同部件或不同材料的" Target="frmContent" Href="../searchservlet?query=F02F1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02F1/08"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="F02F1/10 ##用于液冷" Target="frmContent" Href="../searchservlet?query=F02F1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02F1/10">
+        <TreeNode Title="F02F1/12 ###流体流经表面腐蚀的预防" Target="frmContent" Href="../searchservlet?query=F02F1/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02F1/12"/>
+        <TreeNode Title="F02F1/14 ###具有引导、导向，或分配液体流的装置的汽缸" Target="frmContent" Href="../searchservlet?query=F02F1/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02F1/14"/>
+        <TreeNode Title="F02F1/16 ###湿式汽缸衬筒" Target="frmContent" Href="../searchservlet?query=F02F1/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02F1/16"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="F02F1/18 #其他汽缸" Target="frmContent" Href="../searchservlet?query=F02F1/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02F1/18">
+      <TreeNode Title="F02F1/20 ##以保证润滑结构特征为特点的" Target="frmContent" Href="../searchservlet?query=F02F1/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02F1/20"/>
+      <TreeNode Title="F02F1/22 ##以在汽缸壁上具有扫气或进气通口为特点的" Target="frmContent" Href="../searchservlet?query=F02F1/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02F1/22"/>
+    </TreeNode>
+    <TreeNode Title="F02F1/24 #汽缸盖" Target="frmContent" Href="../searchservlet?query=F02F1/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02F1/24">
+      <TreeNode Title="F02F1/26 ##具有冷却装置" Target="frmContent" Href="../searchservlet?query=F02F1/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02F1/26">
+        <TreeNode Title="F02F1/28 ###用于气冷" Target="frmContent" Href="../searchservlet?query=F02F1/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02F1/28">
+          <TreeNode Title="F02F1/30 ####散热片式汽缸盖" Target="frmContent" Href="../searchservlet?query=F02F1/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02F1/30">
+            <TreeNode Title="F02F1/32 #####汽缸盖是顶阀式" Target="frmContent" Href="../searchservlet?query=F02F1/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02F1/32"/>
+            <TreeNode Title="F02F1/34 #####带有引导或分配冷却介质用的装置(F02F 1/32优先)" Target="frmContent" Href="../searchservlet?query=F02F1/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02F1/34"/>
+          </TreeNode>
+        </TreeNode>
+        <TreeNode Title="F02F1/36 ###用于液冷" Target="frmContent" Href="../searchservlet?query=F02F1/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02F1/36">
+          <TreeNode Title="F02F1/38 ####汽缸盖是顶阀式" Target="frmContent" Href="../searchservlet?query=F02F1/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02F1/38"/>
+          <TreeNode Title="F02F1/40 ####带有引导、导向，或分配流体流装置的汽缸盖(F02F 1/38优先)" Target="frmContent" Href="../searchservlet?query=F02F1/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02F1/40"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="F02F1/42 ##汽缸盖上进气通路或排气通路的形状或配置" Target="frmContent" Href="../searchservlet?query=F02F1/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02F1/42"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="F02F3/00 活塞(一般的入F16J)" Target="frmContent" Href="../searchservlet?query=F02F3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02F3/00">
+    <TreeNode Title="F02F3/02 #具有调节或控制热膨胀的装置" Target="frmContent" Href="../searchservlet?query=F02F3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02F3/02">
+      <TreeNode Title="F02F3/04 ##具有膨胀控制涨圈" Target="frmContent" Href="../searchservlet?query=F02F3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02F3/04">
+        <TreeNode Title="F02F3/06 ###具有双金属效应的涨圈" Target="frmContent" Href="../searchservlet?query=F02F3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02F3/06"/>
+        <TreeNode Title="F02F3/08 ###涨圈是环形的" Target="frmContent" Href="../searchservlet?query=F02F3/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02F3/08"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="F02F3/10 #具有表面覆盖物(F02F 3/02优先)" Target="frmContent" Href="../searchservlet?query=F02F3/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02F3/10">
+      <TreeNode Title="F02F3/12 ##在活塞顶上" Target="frmContent" Href="../searchservlet?query=F02F3/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02F3/12">
+        <TreeNode Title="F02F3/14 ###在燃烧室内" Target="frmContent" Href="../searchservlet?query=F02F3/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02F3/14"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="F02F3/16 #具有冷却装置" Target="frmContent" Href="../searchservlet?query=F02F3/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02F3/16">
+      <TreeNode Title="F02F3/18 ##该装置是在活塞内的一个密封室中使用液体或固体冷却剂的，如钠" Target="frmContent" Href="../searchservlet?query=F02F3/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02F3/18"/>
+      <TreeNode Title="F02F3/20 ##该装置是流体通过或沿着活塞流动" Target="frmContent" Href="../searchservlet?query=F02F3/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02F3/20">
+        <TreeNode Title="F02F3/22 ###流体是液体" Target="frmContent" Href="../searchservlet?query=F02F3/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02F3/22"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="F02F3/24 #在汽缸内具有气体导向装置，例如在二冲程发动机中用于导向扫气进气" Target="frmContent" Href="../searchservlet?query=F02F3/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02F3/24"/>
+    <TreeNode Title="F02F3/26 #在活塞盖顶具有燃烧室(其表面有覆盖物的入F02F 3/14)" Target="frmContent" Href="../searchservlet?query=F02F3/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02F3/26"/>
+    <TreeNode Title="F02F3/28 #带有特殊形状的盖的其他活塞" Target="frmContent" Href="../searchservlet?query=F02F3/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02F3/28"/>
+  </TreeNode>
+  <TreeNode Title="F02F5/00 活塞环，如与活塞顶连在一起的" Target="frmContent" Href="../searchservlet?query=F02F5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02F5/00"/>
+  <TreeNode Title="F02F7/00 箱，如曲轴箱(一般发动机的曲轴箱入F16M)" Target="frmContent" Href="../searchservlet?query=F02F7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02F7/00"/>
+  <TreeNode Title="F02F11/00 燃烧发动机的密封装置(活塞环入F02F 5/00；密封本身入F16J)" Target="frmContent" Href="../searchservlet?query=F02F11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F02F11/00"/>
+</Root>

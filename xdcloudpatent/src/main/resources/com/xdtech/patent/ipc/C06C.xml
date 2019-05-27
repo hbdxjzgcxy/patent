@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="C06C5/00 引信，例如，导火索" Target="frmContent" Href="../searchservlet?query=C06C5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C06C5/00">
+    <TreeNode Title="C06C5/04 #导爆索" Target="frmContent" Href="../searchservlet?query=C06C5/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C06C5/04"/>
+    <TreeNode Title="C06C5/06 #引信点火装置；引信连接套管" Target="frmContent" Href="../searchservlet?query=C06C5/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C06C5/06"/>
+    <TreeNode Title="C06C5/08 #引信的制造装置" Target="frmContent" Href="../searchservlet?query=C06C5/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C06C5/08"/>
+  </TreeNode>
+  <TreeNode Title="C06C7/00 非电雷管；雷管；底火" Target="frmContent" Href="../searchservlet?query=C06C7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C06C7/00">
+    <TreeNode Title="C06C7/02 #制造；包装" Target="frmContent" Href="../searchservlet?query=C06C7/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C06C7/02"/>
+  </TreeNode>
+  <TreeNode Title="C06C9/00 化学接触点火装置；化学点火具" Target="frmContent" Href="../searchservlet?query=C06C9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C06C9/00"/>
+  <TreeNode Title="C06C15/00 点火剂；打火石(化学点火具入C06C 9/00)" Target="frmContent" Href="../searchservlet?query=C06C15/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C06C15/00"/>
+</Root>

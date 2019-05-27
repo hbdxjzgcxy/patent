@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="F23B10/00 以两个或多个燃烧室的组合为特征的燃烧设备[8,2011,01]" Target="frmContent" Href="../searchservlet?query=F23B10/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23B10/00">
+    <TreeNode Title="F23B10/02 #包括分立的第二燃烧室 [2011.01]" Target="frmContent" Href="../searchservlet?query=F23B10/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23B10/02"/>
+  </TreeNode>
+  <TreeNode Title="F23B20/00 专用于可移动或可运输的燃烧设备[8]" Target="frmContent" Href="../searchservlet?query=F23B20/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23B20/00"/>
+  <TreeNode Title="F23B30/00 带有搅动燃料的驱动装置的燃烧设备；具有推动燃料通过燃烧室的驱动装置的燃烧设备[8]" Target="frmContent" Href="../searchservlet?query=F23B30/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23B30/00">
+    <TreeNode Title="F23B30/02 #带有可移动的燃料支撑面，如可振动的燃料支撑面；具有可移动组件的燃料支撑面[8]" Target="frmContent" Href="../searchservlet?query=F23B30/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23B30/02">
+      <TreeNode Title="F23B30/04 ##带有沿水平或倾斜轴旋转并在内部支持燃料的燃料支撑面，如圆柱形炉箅[8]" Target="frmContent" Href="../searchservlet?query=F23B30/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23B30/04"/>
+      <TreeNode Title="F23B30/06 ##带有专门适用于通过燃烧区推进燃料的燃料支撑面的[8]" Target="frmContent" Href="../searchservlet?query=F23B30/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23B30/06">
+        <TreeNode Title="F23B30/08 ###带有可通过燃烧区的燃料支撑面的，如链式炉箅[8]" Target="frmContent" Href="../searchservlet?query=F23B30/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23B30/08"/>
+        <TreeNode Title="F23B30/10 ###带有可移动且基本保持同样位置的燃料推进元件的燃料支撑面，如带滚柱或往复炉条的[8]" Target="frmContent" Href="../searchservlet?query=F23B30/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23B30/10"/>
+      </TreeNode>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="F23B40/00 带有往燃烧室供给燃料的驱动装置的燃烧设备[8]" Target="frmContent" Href="../searchservlet?query=F23B40/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23B40/00">
+    <TreeNode Title="F23B40/02 #通过在燃料支撑面上散布来供给燃料的[8]" Target="frmContent" Href="../searchservlet?query=F23B40/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23B40/02"/>
+    <TreeNode Title="F23B40/04 #通过燃料支撑面中的孔从下方供给燃料的[8]" Target="frmContent" Href="../searchservlet?query=F23B40/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23B40/04"/>
+    <TreeNode Title="F23B40/06 #沿着燃料支撑面供给燃料的[8]" Target="frmContent" Href="../searchservlet?query=F23B40/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23B40/06">
+      <TreeNode Title="F23B40/08 ##进入罐状或凹槽状炉箅的[8]" Target="frmContent" Href="../searchservlet?query=F23B40/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23B40/08"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="F23B50/00 燃料依靠重力供给或穿过燃烧区的燃烧设备，如来自于燃烧区上方燃料存储区的[8]" Target="frmContent" Href="../searchservlet?query=F23B50/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23B50/00">
+    <TreeNode Title="F23B50/02 #燃料在燃烧区的底部形成柱状、叠层或厚层[8]" Target="frmContent" Href="../searchservlet?query=F23B50/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23B50/02">
+      <TreeNode Title="F23B50/04 ##助燃空气和烟气的运动基本上横置于燃料运动方向的[8]" Target="frmContent" Href="../searchservlet?query=F23B50/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23B50/04"/>
+      <TreeNode Title="F23B50/06 ##通过燃料支撑面中1个或多个孔向下排出烟气的[8]" Target="frmContent" Href="../searchservlet?query=F23B50/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23B50/06"/>
+      <TreeNode Title="F23B50/08 ##带有在燃烧层内形成自由燃烧空间的燃料偏转体[8]" Target="frmContent" Href="../searchservlet?query=F23B50/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23B50/08"/>
+      <TreeNode Title="F23B50/10 ##在止于燃料床表面的充满燃料的通道底部有燃烧区[8]" Target="frmContent" Href="../searchservlet?query=F23B50/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23B50/10"/>
+    </TreeNode>
+    <TreeNode Title="F23B50/12 #燃料通过自由落体或沿斜面滑落供给燃烧区的，如来自燃料床上部传输带的[8]" Target="frmContent" Href="../searchservlet?query=F23B50/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23B50/12"/>
+  </TreeNode>
+  <TreeNode Title="F23B60/00 燃料在燃烧时基本上不动的燃烧设备[8]" Target="frmContent" Href="../searchservlet?query=F23B60/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23B60/00">
+    <TreeNode Title="F23B60/02 #助燃空气通过炉箅供应的[8]" Target="frmContent" Href="../searchservlet?query=F23B60/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23B60/02"/>
+  </TreeNode>
+  <TreeNode Title="F23B70/00 以向燃烧室送回固体燃烧残余物为特征的燃烧设备[8]" Target="frmContent" Href="../searchservlet?query=F23B70/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23B70/00"/>
+  <TreeNode Title="F23B80/00 以为烟气或燃料释放的非燃烧气体设立特殊排放通道为特征的燃烧设备[8]" Target="frmContent" Href="../searchservlet?query=F23B80/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23B80/00">
+    <TreeNode Title="F23B80/02 #通过向燃烧室或燃烧区送回烟气[8]" Target="frmContent" Href="../searchservlet?query=F23B80/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23B80/02"/>
+    <TreeNode Title="F23B80/04 #用引导烟气流动的，如隔板[8]" Target="frmContent" Href="../searchservlet?query=F23B80/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23B80/04"/>
+  </TreeNode>
+  <TreeNode Title="F23B90/00 不与特定类型设备相关的燃烧方法 [8,2011,01]" Target="frmContent" Href="../searchservlet?query=F23B90/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23B90/00">
+    <TreeNode Title="F23B90/02 #启动技术 [2011.01]" Target="frmContent" Href="../searchservlet?query=F23B90/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23B90/02"/>
+    <TreeNode Title="F23B90/04 #包括二次燃烧(在分立的燃烧室内入F23B10/02)" Target="frmContent" Href="../searchservlet?query=F23B90/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23B90/04">
+      <TreeNode Title="F23B90/06 ##一次燃烧是在还原气氛下的气化或热解 [2011.01]" Target="frmContent" Href="../searchservlet?query=F23B90/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23B90/06"/>
+      <TreeNode Title="F23B90/08 ##存在接触反应材料 [2011.01]" Target="frmContent" Href="../searchservlet?query=F23B90/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23B90/08"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="F23B99/00 不包含在本小类其他组中的技术主题[8]" Target="frmContent" Href="../searchservlet?query=F23B99/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23B99/00"/>
+  <TreeNode Title="F23B101/00 适用于锅炉的燃烧设备，其燃烧室位于锅炉内部，如由冷却表面包围的[8]" Target="frmContent" Href="../searchservlet?query=F23B101/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23B101/00"/>
+  <TreeNode Title="F23B103/00 适于布置在锅炉中或正对着开口的燃烧设备，如用于替换油料燃烧器的[8]" Target="frmContent" Href="../searchservlet?query=F23B103/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23B103/00">
+    <TreeNode Title="F23B103/02 #用于产生基本上是水平的火焰[8]" Target="frmContent" Href="../searchservlet?query=F23B103/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23B103/02"/>
+  </TreeNode>
+</Root>

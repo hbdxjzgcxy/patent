@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="F23K1/00 供燃烧设备用的块状或粉末燃料的制备(过滤入B01D；混合入B01F；粉碎入B02C；干燥入F26B)" Target="frmContent" Href="../searchservlet?query=F23K1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23K1/00">
+    <TreeNode Title="F23K1/02 #固体燃料与液体的混合，例如制备水煤浆" Target="frmContent" Href="../searchservlet?query=F23K1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23K1/02"/>
+    <TreeNode Title="F23K1/04 #在送到燃烧设备前加热燃料" Target="frmContent" Href="../searchservlet?query=F23K1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23K1/04"/>
+  </TreeNode>
+  <TreeNode Title="F23K3/00 向燃烧设备供应或分配块状或粉末燃料(一般传送入B65G)" Target="frmContent" Href="../searchservlet?query=F23K3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23K3/00">
+    <TreeNode Title="F23K3/02 #气动进料装置，即用鼓风法" Target="frmContent" Href="../searchservlet?query=F23K3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23K3/02"/>
+    <TreeNode Title="F23K3/04 #机车锅炉的" Target="frmContent" Href="../searchservlet?query=F23K3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23K3/04"/>
+    <TreeNode Title="F23K3/06 #筒式炉的" Target="frmContent" Href="../searchservlet?query=F23K3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23K3/06"/>
+    <TreeNode Title="F23K3/08 #有活动炉条的炉子的" Target="frmContent" Href="../searchservlet?query=F23K3/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23K3/08"/>
+    <TreeNode Title="F23K3/10 #下部进料装置" Target="frmContent" Href="../searchservlet?query=F23K3/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23K3/10">
+      <TreeNode Title="F23K3/12 ##用活塞进料的" Target="frmContent" Href="../searchservlet?query=F23K3/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23K3/12"/>
+      <TreeNode Title="F23K3/14 ##用螺杆进料的" Target="frmContent" Href="../searchservlet?query=F23K3/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23K3/14"/>
+    </TreeNode>
+    <TreeNode Title="F23K3/16 #上部进料装置" Target="frmContent" Href="../searchservlet?query=F23K3/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23K3/16">
+      <TreeNode Title="F23K3/18 ##抛料机" Target="frmContent" Href="../searchservlet?query=F23K3/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23K3/18">
+        <TreeNode Title="F23K3/20 ###有可动料斗的" Target="frmContent" Href="../searchservlet?query=F23K3/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23K3/20"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="F23K3/22 #控制燃料床厚度的" Target="frmContent" Href="../searchservlet?query=F23K3/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23K3/22"/>
+  </TreeNode>
+  <TreeNode Title="F23K5/00 给燃烧装置送入或分布其他燃料" Target="frmContent" Href="../searchservlet?query=F23K5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23K5/00">
+    <TreeNode Title="F23K5/02 #液体燃料[5]" Target="frmContent" Href="../searchservlet?query=F23K5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23K5/02">
+      <TreeNode Title="F23K5/04 ##使用泵的送料或分布系统(F23K 5/06优先)[5]" Target="frmContent" Href="../searchservlet?query=F23K5/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23K5/04"/>
+      <TreeNode Title="F23K5/06 ##从总源到多个燃烧器[5]" Target="frmContent" Href="../searchservlet?query=F23K5/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23K5/06"/>
+      <TreeNode Title="F23K5/08 ##燃料制备[5]" Target="frmContent" Href="../searchservlet?query=F23K5/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23K5/08">
+        <TreeNode Title="F23K5/10 ###与其他流体混合[5]" Target="frmContent" Href="../searchservlet?query=F23K5/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23K5/10">
+          <TreeNode Title="F23K5/12 ####制备乳化液(将水和燃料的乳化液喷入燃烧空间的燃烧器入F23D 11/16)[5]" Target="frmContent" Href="../searchservlet?query=F23K5/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23K5/12"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="F23K5/14 ##零部件[5]" Target="frmContent" Href="../searchservlet?query=F23K5/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23K5/14">
+        <TreeNode Title="F23K5/16 ###安全设备(F23K 5/18优先；燃烧室的安全装置入F23M 11/00)[5]" Target="frmContent" Href="../searchservlet?query=F23K5/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23K5/16"/>
+        <TreeNode Title="F23K5/18 ###清理或清洁设备，例如过滤器[5]" Target="frmContent" Href="../searchservlet?query=F23K5/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23K5/18"/>
+        <TreeNode Title="F23K5/20 ###预热设备(燃烧器中利用直接喷射作用将液滴或汽化液体喷入燃烧空间的入F23D 11/44)[5]" Target="frmContent" Href="../searchservlet?query=F23K5/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23K5/20"/>
+        <TreeNode Title="F23K5/22 ###汽化设备(燃烧器中利用直接喷射作用将液滴或汽化液体喷入燃烧空间的入F23D 11/44)[5]" Target="frmContent" Href="../searchservlet?query=F23K5/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23K5/22"/>
+      </TreeNode>
+    </TreeNode>
+  </TreeNode>
+</Root>

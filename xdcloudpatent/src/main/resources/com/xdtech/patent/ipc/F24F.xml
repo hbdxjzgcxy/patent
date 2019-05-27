@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="F24F1/00 房间空调装置，例如分体式或一体式装置，或接收来自集中式空调站一次空气的装置  [1,2011.01]" Target="frmContent" Href="../searchservlet?query=F24F1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24F1/00">
+    <TreeNode Title="F24F1/01 #二次空气是靠一次空气的引射器作用引入的(F24F 1/02优先)  [3,2011.01]" Target="frmContent" Href="../searchservlet?query=F24F1/01&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24F1/01"/>
+    <TreeNode Title="F24F1/02 #一体式的，即全部处理设备装在共同的外壳里 [1,2011.01]" Target="frmContent" Href="../searchservlet?query=F24F1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24F1/02">
+      <TreeNode Title="F24F1/04 ##便于携带的装置  [1,2011.01]" Target="frmContent" Href="../searchservlet?query=F24F1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24F1/04"/>
+    </TreeNode>
+    <TreeNode Title="F24F1/06 #分体式室外单元，例如连接到分体式房间空调装置的，由压缩机和换热器组成的室外单元  [2011.01]" Target="frmContent" Href="../searchservlet?query=F24F1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24F1/06">
+      <TreeNode Title="F24F1/08 ##专门适用于分体式室外单元的压缩机  [2011.01]" Target="frmContent" Href="../searchservlet?query=F24F1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24F1/08">
+        <TreeNode Title="F24F1/10 ###其配置或安装  [2011.01]" Target="frmContent" Href="../searchservlet?query=F24F1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24F1/10"/>
+        <TreeNode Title="F24F1/12 ###防止震动或噪声  [2011.01]" Target="frmContent" Href="../searchservlet?query=F24F1/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24F1/12"/>
+      </TreeNode>
+      <TreeNode Title="F24F1/14 ##专门适用于分体式室外单元的换热器  [2011.01]" Target="frmContent" Href="../searchservlet?query=F24F1/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24F1/14">
+        <TreeNode Title="F24F1/16 ###其配置或安装  [2011.01]" Target="frmContent" Href="../searchservlet?query=F24F1/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24F1/16"/>
+        <TreeNode Title="F24F1/18 ###以形状为特征的  [2011.01]" Target="frmContent" Href="../searchservlet?query=F24F1/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24F1/18"/>
+      </TreeNode>
+      <TreeNode Title="F24F1/20 ##分体式室外单元的电气元件  [2011.01]" Target="frmContent" Href="../searchservlet?query=F24F1/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24F1/20">
+        <TreeNode Title="F24F1/22 ###其配置或安装  [2011.01]" Target="frmContent" Href="../searchservlet?query=F24F1/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24F1/22"/>
+        <TreeNode Title="F24F1/24 ###电气元件的冷却  [2011.01]" Target="frmContent" Href="../searchservlet?query=F24F1/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24F1/24"/>
+      </TreeNode>
+      <TreeNode Title="F24F1/26 ##制冷剂管  [2011.01]" Target="frmContent" Href="../searchservlet?query=F24F1/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24F1/26">
+        <TreeNode Title="F24F1/28 ###用于连接分体式室外单元  [2011.01]" Target="frmContent" Href="../searchservlet?query=F24F1/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24F1/28"/>
+        <TreeNode Title="F24F1/30 ###为了利用分体式室外单元的内部空间  [2011.01]" Target="frmContent" Href="../searchservlet?query=F24F1/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24F1/30"/>
+        <TreeNode Title="F24F1/32 ###用于连接分体式室外单元和室内单元  [2011.01]" Target="frmContent" Href="../searchservlet?query=F24F1/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24F1/32"/>
+        <TreeNode Title="F24F1/34 ###其保护装置，例如制冷剂管的保护套  [2011.01]" Target="frmContent" Href="../searchservlet?query=F24F1/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24F1/34"/>
+      </TreeNode>
+      <TreeNode Title="F24F1/36 ##室外单元的滴水盘  [2011.01]" Target="frmContent" Href="../searchservlet?query=F24F1/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24F1/36"/>
+      <TreeNode Title="F24F1/38 ##室外单元的风扇部件，例如喇叭口型的进风口或风扇的安装部件  [2011.01]" Target="frmContent" Href="../searchservlet?query=F24F1/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24F1/38"/>
+      <TreeNode Title="F24F1/40 ##防止室外单元的震动或噪声(防止室外单元压缩机的震动或噪声入F24F 1/12)  [2011.01]" Target="frmContent" Href="../searchservlet?query=F24F1/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24F1/40"/>
+      <TreeNode Title="F24F1/42 ##以利用冷凝水为特征的，例如为了加强冷却  [2011.01]" Target="frmContent" Href="../searchservlet?query=F24F1/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24F1/42"/>
+      <TreeNode Title="F24F1/44 ##以利用内燃机为特征的  [2011.01]" Target="frmContent" Href="../searchservlet?query=F24F1/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24F1/44"/>
+      <TreeNode Title="F24F1/46 ##在分体式室外单元中的元件布置  [2011.01]" Target="frmContent" Href="../searchservlet?query=F24F1/46&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24F1/46">
+        <TreeNode Title="F24F1/48 ###以空气流动为特征的，例如进风或出风  [2011.01]" Target="frmContent" Href="../searchservlet?query=F24F1/48&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24F1/48">
+          <TreeNode Title="F24F1/50 ####具有向上的出风  [2011.01]" Target="frmContent" Href="../searchservlet?query=F24F1/50&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24F1/50"/>
+          <TreeNode Title="F24F1/52 ####进风口和出风口配置在同一侧，例如为了装在墙面开口处  [2011.01]" Target="frmContent" Href="../searchservlet?query=F24F1/52&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24F1/52"/>
+          <TreeNode Title="F24F1/54 ####进风口和出风口配置在相反侧  [2011.01]" Target="frmContent" Href="../searchservlet?query=F24F1/54&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24F1/54"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="F24F1/56 ##分体式室外单元的壳或罩(盖)，例如风机保护罩  [2011.01]" Target="frmContent" Href="../searchservlet?query=F24F1/56&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24F1/56">
+        <TreeNode Title="F24F1/58 ###用于室外单元的单独的保护罩(盖)，例如遮阳、防雪罩或隐藏罩  [2011.01]" Target="frmContent" Href="../searchservlet?query=F24F1/58&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24F1/58"/>
+      </TreeNode>
+      <TreeNode Title="F24F1/60 ##室外单元的配置或安装  [2011.01]" Target="frmContent" Href="../searchservlet?query=F24F1/60&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24F1/60">
+        <TreeNode Title="F24F1/62 ###墙式安装  [2011.01]" Target="frmContent" Href="../searchservlet?query=F24F1/62&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24F1/62"/>
+        <TreeNode Title="F24F1/64 ###顶蓬式安装，例如在阳台下面  [2011.01]" Target="frmContent" Href="../searchservlet?query=F24F1/64&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24F1/64"/>
+        <TreeNode Title="F24F1/66 ###装在地板下  [2011.01]" Target="frmContent" Href="../searchservlet?query=F24F1/66&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24F1/66"/>
+        <TreeNode Title="F24F1/68 ###多个分体式室外单元的配置  [2011.01]" Target="frmContent" Href="../searchservlet?query=F24F1/68&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24F1/68"/>
+      </TreeNode>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="F24F3/00 从一个或多个集中式空调站向可以得到二次处理的房间或场所内的分配装置供给经过处理的一次空气的空气调节系统；专门为这种系统设计的设备(室内装置入F24F 1/00；热交换器的结构入F28)" Target="frmContent" Href="../searchservlet?query=F24F3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24F3/00">
+    <TreeNode Title="F24F3/02 #以一次空气压力或速度为特征的(F24F 3/044优先)[3]" Target="frmContent" Href="../searchservlet?query=F24F3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24F3/02">
+      <TreeNode Title="F24F3/04 ##以高压或高速运行的" Target="frmContent" Href="../searchservlet?query=F24F3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24F3/04"/>
+    </TreeNode>
+    <TreeNode Title="F24F3/044 #所有的处理都在集中式空调站进行的系统，即全空气系统[3]" Target="frmContent" Href="../searchservlet?query=F24F3/044&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24F3/044">
+      <TreeNode Title="F24F3/048 ##在气流流量恒定的情况下作温度控制的(F24F 3/056优先)[3]" Target="frmContent" Href="../searchservlet?query=F24F3/048&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24F3/048">
+        <TreeNode Title="F24F3/052 ###多风道系统，例如冷空气和热空气通过分开的管路从集中式空调站送往空调场所混合器的系统[3]" Target="frmContent" Href="../searchservlet?query=F24F3/052&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24F3/052"/>
+      </TreeNode>
+      <TreeNode Title="F24F3/056 ##至少部分空气流过灯具，使其热量被消散或被利用[3]" Target="frmContent" Href="../searchservlet?query=F24F3/056&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24F3/056"/>
+    </TreeNode>
+    <TreeNode Title="F24F3/06 #以用室内装置随后处理一次空气的热交换流体供给装置为特征的(F24F 3/02优先)" Target="frmContent" Href="../searchservlet?query=F24F3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24F3/06">
+      <TreeNode Title="F24F3/08 ##热的和冷的热交换流体有分开的供应管路和返回管路的" Target="frmContent" Href="../searchservlet?query=F24F3/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24F3/08"/>
+      <TreeNode Title="F24F3/10 ##热的和冷的热交换流体有分开的供应管路而有共用的返回管路的" Target="frmContent" Href="../searchservlet?query=F24F3/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24F3/10"/>
+    </TreeNode>
+    <TreeNode Title="F24F3/12 #以加热和冷却除外的其他方式处理空气为特征的(F24F 3/02，F24F 3/06优先；各个处理设备见相应的各个小类)" Target="frmContent" Href="../searchservlet?query=F24F3/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24F3/12">
+      <TreeNode Title="F24F3/14 ##增湿处理；减湿处理" Target="frmContent" Href="../searchservlet?query=F24F3/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24F3/14">
+        <TreeNode Title="F24F3/147 ###在送风和排风之间有热湿传递的[3]" Target="frmContent" Href="../searchservlet?query=F24F3/147&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24F3/147"/>
+        <TreeNode Title="F24F3/153 ###随后加热的，即将集中空调站供给的符合要求湿度的空气，通过加热元件以达到所需要的温度[3]" Target="frmContent" Href="../searchservlet?query=F24F3/153&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24F3/153"/>
+      </TreeNode>
+      <TreeNode Title="F24F3/16 ##净化处理，例如过滤处理；消毒处理；臭氧化处理" Target="frmContent" Href="../searchservlet?query=F24F3/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24F3/16"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="F24F5/00 不包含在F24F 1/00或F24F 3/00组中的空气调节系统或设备" Target="frmContent" Href="../searchservlet?query=F24F5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24F5/00"/>
+  <TreeNode Title="F24F6/00 空气增湿[3]" Target="frmContent" Href="../searchservlet?query=F24F6/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24F6/00">
+    <TreeNode Title="F24F6/02 #借助水在空气中蒸发的[3]" Target="frmContent" Href="../searchservlet?query=F24F6/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24F6/02">
+      <TreeNode Title="F24F6/04 ##利用固定的不加热的加湿元件[3]" Target="frmContent" Href="../searchservlet?query=F24F6/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24F6/04"/>
+      <TreeNode Title="F24F6/06 ##利用活动的不加热的加湿元件[3]" Target="frmContent" Href="../searchservlet?query=F24F6/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24F6/06"/>
+      <TreeNode Title="F24F6/08 ##利用加热的加湿元件[3]" Target="frmContent" Href="../searchservlet?query=F24F6/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24F6/08">
+        <TreeNode Title="F24F6/10 ###电加热的[3]" Target="frmContent" Href="../searchservlet?query=F24F6/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24F6/10"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="F24F6/12 #借助水在空气中形成弥散状而增湿[3]" Target="frmContent" Href="../searchservlet?query=F24F6/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24F6/12">
+      <TreeNode Title="F24F6/14 ##利用喷嘴的(喷嘴本身、一般喷射入B05B)[3]" Target="frmContent" Href="../searchservlet?query=F24F6/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24F6/14"/>
+      <TreeNode Title="F24F6/16 ##利用旋转元件的[3]" Target="frmContent" Href="../searchservlet?query=F24F6/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24F6/16"/>
+    </TreeNode>
+    <TreeNode Title="F24F6/18 #往空气中喷射水蒸气的[3]" Target="frmContent" Href="../searchservlet?query=F24F6/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24F6/18"/>
+  </TreeNode>
+  <TreeNode Title="F24F7/00 通风" Target="frmContent" Href="../searchservlet?query=F24F7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24F7/00">
+    <TreeNode Title="F24F7/007 #强制流动的(利用管道系统的入F24F 7/06)[3]" Target="frmContent" Href="../searchservlet?query=F24F7/007&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24F7/007">
+      <TreeNode Title="F24F7/013 ##利用壁式风扇或窗式风扇通过墙壁或窗户排出空气的[3]" Target="frmContent" Href="../searchservlet?query=F24F7/013&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24F7/013"/>
+    </TreeNode>
+    <TreeNode Title="F24F7/02 #屋顶通风(F24F 7/007优先；通风天窗入E04D)[3，6]" Target="frmContent" Href="../searchservlet?query=F24F7/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24F7/02"/>
+    <TreeNode Title="F24F7/04 #用风道系统的" Target="frmContent" Href="../searchservlet?query=F24F7/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24F7/04">
+      <TreeNode Title="F24F7/06 ##用强制空气循环的，例如用风机" Target="frmContent" Href="../searchservlet?query=F24F7/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24F7/06">
+        <TreeNode Title="F24F7/08 ###送风和排风管道分开的[3]" Target="frmContent" Href="../searchservlet?query=F24F7/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24F7/08"/>
+        <TreeNode Title="F24F7/10 ###通过有孔的墙壁、地板或天花板送风或排风的(引导或分配空气的出口元件入F24F 13/06)[3]" Target="frmContent" Href="../searchservlet?query=F24F7/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24F7/10"/>
+      </TreeNode>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="F24F9/00 用空气流作屏蔽，例如空气幕(用于车辆的空气幕入B60J 9/04)" Target="frmContent" Href="../searchservlet?query=F24F9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24F9/00"/>
+  <TreeNode Title="F24F11/00 控制系统或设备；安全系统或设备(控制阀本身人F16K)[3]" Target="frmContent" Href="../searchservlet?query=F24F11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24F11/00">
+    <TreeNode Title="F24F11/02 #控制或安全装置的配置或安装" Target="frmContent" Href="../searchservlet?query=F24F11/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24F11/02">
+      <TreeNode Title="F24F11/04 ##只控制空气流量的(F24F 11/08优先)" Target="frmContent" Href="../searchservlet?query=F24F11/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24F11/04">
+        <TreeNode Title="F24F11/047 ###为恒定值的[3]" Target="frmContent" Href="../searchservlet?query=F24F11/047&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24F11/047"/>
+        <TreeNode Title="F24F11/053 ###用对温度敏感的装置[3]" Target="frmContent" Href="../searchservlet?query=F24F11/053&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24F11/053"/>
+      </TreeNode>
+      <TreeNode Title="F24F11/06 ##只控制二次处理用的加热或冷却流体的供给(F24F 11/08优先)" Target="frmContent" Href="../searchservlet?query=F24F11/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24F11/06"/>
+      <TreeNode Title="F24F11/08 ##控制空气的一次处理" Target="frmContent" Href="../searchservlet?query=F24F11/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24F11/08"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="F24F12/00 在空气调节、通风或空气屏蔽中能量回收系统的利用(在供气和排气之间有热湿传递的入F24F 3/147；一般热交换入F28)[4]" Target="frmContent" Href="../searchservlet?query=F24F12/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24F12/00"/>
+  <TreeNode Title="F24F13/00 空气调节、空气增湿、通风或空气流作为屏蔽的通用部件" Target="frmContent" Href="../searchservlet?query=F24F13/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24F13/00">
+    <TreeNode Title="F24F13/02 #管道配置" Target="frmContent" Href="../searchservlet?query=F24F13/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24F13/02">
+      <TreeNode Title="F24F13/04 ##空气混合装置(F24F 13/06优先；一般气体混合入B01F 3/02)" Target="frmContent" Href="../searchservlet?query=F24F13/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24F13/04"/>
+      <TreeNode Title="F24F13/06 ##向室内或场所导入或分配空气的出口，例如天花板空气散流器" Target="frmContent" Href="../searchservlet?query=F24F13/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24F13/06">
+        <TreeNode Title="F24F13/062 ###有一个或多个沿流动方向扩张的碗形或锥形出口的(F24F 13/072优先)[3]" Target="frmContent" Href="../searchservlet?query=F24F13/062&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24F13/062"/>
+        <TreeNode Title="F24F13/065 ###由可旋转的圆柱体或球形体构成的(F24F 13/072优先)[3]" Target="frmContent" Href="../searchservlet?query=F24F13/065&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24F13/065"/>
+        <TreeNode Title="F24F13/068 ###由有孔的墙壁、天花板或地板构成的(F24F 13/078优先)[3]" Target="frmContent" Href="../searchservlet?query=F24F13/068&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24F13/068"/>
+        <TreeNode Title="F24F13/072 ###细长形的，例如在顶棚镶板之间的[3]" Target="frmContent" Href="../searchservlet?query=F24F13/072&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24F13/072"/>
+        <TreeNode Title="F24F13/075 ###有平行导流杆或平行导流片的，例如可单独调节的杆或片(F24F 13/072优先)[3]" Target="frmContent" Href="../searchservlet?query=F24F13/075&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24F13/075"/>
+        <TreeNode Title="F24F13/078 ###与照明器材结合在一起的(空气流过照明器材的空气处理系统入F24F 3/056)[3]" Target="frmContent" Href="../searchservlet?query=F24F13/078&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24F13/078"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="F24F13/08 #空气流动控制部件，例如百叶窗、格栅、折板、导向板(F24F 7/013，F24F 13/06优先；屋顶通风入F24F 7/02)[3]" Target="frmContent" Href="../searchservlet?query=F24F13/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24F13/08">
+      <TreeNode Title="F24F13/10 ##可动的，例如风门(F24F 13/18优先；一般阀入F16K)" Target="frmContent" Href="../searchservlet?query=F24F13/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24F13/10">
+        <TreeNode Title="F24F13/12 ###有滑动部件组成的" Target="frmContent" Href="../searchservlet?query=F24F13/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24F13/12"/>
+        <TreeNode Title="F24F13/14 ###有摆动部件驵成的，例如百叶窗" Target="frmContent" Href="../searchservlet?query=F24F13/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24F13/14">
+          <TreeNode Title="F24F13/15 ####有平行的可同时摆动的薄片[3]" Target="frmContent" Href="../searchservlet?query=F24F13/15&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24F13/15"/>
+        </TreeNode>
+        <TreeNode Title="F24F13/16 ###有平行活动板组成的" Target="frmContent" Href="../searchservlet?query=F24F13/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24F13/16"/>
+      </TreeNode>
+      <TreeNode Title="F24F13/18 ##专门适用镶在平板上的，例如在门或窗格子玻璃上" Target="frmContent" Href="../searchservlet?query=F24F13/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24F13/18"/>
+    </TreeNode>
+    <TreeNode Title="F24F13/20 #外壳或盖[5]" Target="frmContent" Href="../searchservlet?query=F24F13/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24F13/20"/>
+    <TreeNode Title="F24F13/22 #用于防止冷凝或排走冷凝液的装置[5]" Target="frmContent" Href="../searchservlet?query=F24F13/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24F13/22"/>
+    <TreeNode Title="F24F13/24 #用于防止或抑制噪声[5]" Target="frmContent" Href="../searchservlet?query=F24F13/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24F13/24"/>
+    <TreeNode Title="F24F13/26 #借助诱导作用的空气循环的配置，例如利用液力耦合或热效应的[6]" Target="frmContent" Href="../searchservlet?query=F24F13/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24F13/26"/>
+    <TreeNode Title="F24F13/28 #过滤器的配置或安装[6]" Target="frmContent" Href="../searchservlet?query=F24F13/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24F13/28"/>
+    <TreeNode Title="F24F13/30 #热交换器的配置或安装[6]" Target="frmContent" Href="../searchservlet?query=F24F13/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24F13/30"/>
+    <TreeNode Title="F24F13/32 #空气调节、空气加湿或通风装置的支承[6]" Target="frmContent" Href="../searchservlet?query=F24F13/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24F13/32"/>
+  </TreeNode>
+</Root>

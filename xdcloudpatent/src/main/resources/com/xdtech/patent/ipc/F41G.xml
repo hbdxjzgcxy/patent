@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="F41G1/00 瞄准装置(射击的间接瞄准入F41G 3/16；轰炸瞄准器入F41G 3/24)" Target="frmContent" Href="../searchservlet?query=F41G1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41G1/00">
+    <TreeNode Title="F41G1/01 #以通过前后瞄准器的各自的几何形状结构的视觉结合效果为特征的(F41G 1/42优先)[5]" Target="frmContent" Href="../searchservlet?query=F41G1/01&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41G1/01"/>
+    <TreeNode Title="F41G1/02 #准星" Target="frmContent" Href="../searchservlet?query=F41G1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41G1/02">
+      <TreeNode Title="F41G1/027 ##带有透镜[5]" Target="frmContent" Href="../searchservlet?query=F41G1/027&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41G1/027"/>
+      <TreeNode Title="F41G1/033 ##能够调整的[5]" Target="frmContent" Href="../searchservlet?query=F41G1/033&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41G1/033"/>
+      <TreeNode Title="F41G1/04 ##所用的保护装置" Target="frmContent" Href="../searchservlet?query=F41G1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41G1/04"/>
+    </TreeNode>
+    <TreeNode Title="F41G1/06 #照准器" Target="frmContent" Href="../searchservlet?query=F41G1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41G1/06">
+      <TreeNode Title="F41G1/08 ##带有照门的" Target="frmContent" Href="../searchservlet?query=F41G1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41G1/08"/>
+      <TreeNode Title="F41G1/10 ##带有凹口的" Target="frmContent" Href="../searchservlet?query=F41G1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41G1/10"/>
+      <TreeNode Title="F41G1/12 ##带有除凹口以外的划线或标记的" Target="frmContent" Href="../searchservlet?query=F41G1/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41G1/12"/>
+      <TreeNode Title="F41G1/14 ##带有瞄准透镜" Target="frmContent" Href="../searchservlet?query=F41G1/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41G1/14"/>
+      <TreeNode Title="F41G1/16 ##所用的调准装置；其安装" Target="frmContent" Href="../searchservlet?query=F41G1/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41G1/16">
+        <TreeNode Title="F41G1/17 ###可变换的瞄准器，即两件或更多件可任意选择的进入瞄准线[5]" Target="frmContent" Href="../searchservlet?query=F41G1/17&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41G1/17"/>
+        <TreeNode Title="F41G1/18 ###用弹簧锁销的棘轮机构指示器" Target="frmContent" Href="../searchservlet?query=F41G1/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41G1/18"/>
+        <TreeNode Title="F41G1/20 ###粗调和微调" Target="frmContent" Href="../searchservlet?query=F41G1/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41G1/20"/>
+        <TreeNode Title="F41G1/22 ###摩擦夹紧装置" Target="frmContent" Href="../searchservlet?query=F41G1/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41G1/22"/>
+        <TreeNode Title="F41G1/24 ###齿条和小齿轮；杠杆；链系" Target="frmContent" Href="../searchservlet?query=F41G1/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41G1/24"/>
+        <TreeNode Title="F41G1/26 ###螺钉" Target="frmContent" Href="../searchservlet?query=F41G1/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41G1/26"/>
+        <TreeNode Title="F41G1/28 ###楔切；凸轮；偏心轮" Target="frmContent" Href="../searchservlet?query=F41G1/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41G1/28"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="F41G1/30 #专门适用于轻武器或火炮的反射式瞄准器(一般的反射式瞄准器入G02B)" Target="frmContent" Href="../searchservlet?query=F41G1/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41G1/30"/>
+    <TreeNode Title="F41G1/32 #夜间瞄准器，例如发光的" Target="frmContent" Href="../searchservlet?query=F41G1/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41G1/32">
+      <TreeNode Title="F41G1/34 ##与光源结合的，例如点光源" Target="frmContent" Href="../searchservlet?query=F41G1/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41G1/34">
+        <TreeNode Title="F41G1/35 ###用于照射靶子的[5]" Target="frmContent" Href="../searchservlet?query=F41G1/35&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41G1/35"/>
+        <TreeNode Title="F41G1/36 ###带有红外线光源" Target="frmContent" Href="../searchservlet?query=F41G1/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41G1/36"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="F41G1/38 #专门适用于轻武器或火炮的望远式瞄准器(一般的望远镜入G02B)；及其支架或支座" Target="frmContent" Href="../searchservlet?query=F41G1/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41G1/38">
+      <TreeNode Title="F41G1/387 ##固定在轻武器上的望远镜式瞄准器[5]" Target="frmContent" Href="../searchservlet?query=F41G1/387&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41G1/387"/>
+      <TreeNode Title="F41G1/393 ##固定在火炮上的望远镜式瞄准器；瞄准器相对于关联的枪的移动的传递[5]" Target="frmContent" Href="../searchservlet?query=F41G1/393&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41G1/393"/>
+    </TreeNode>
+    <TreeNode Title="F41G1/40 #专门适用于轻武器或火炮的潜望镜式的瞄准器(一般的潜望镜入G02B)；及其所用的支架或支座" Target="frmContent" Href="../searchservlet?query=F41G1/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41G1/40">
+      <TreeNode Title="F41G1/41 ##潜望镜在轻武器上的安装[5]" Target="frmContent" Href="../searchservlet?query=F41G1/41&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41G1/41"/>
+    </TreeNode>
+    <TreeNode Title="F41G1/42 #管式瞄准具；杆式瞄准具" Target="frmContent" Href="../searchservlet?query=F41G1/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41G1/42"/>
+    <TreeNode Title="F41G1/44 #酒精水平仪校准装置，例如为了校准仰角" Target="frmContent" Href="../searchservlet?query=F41G1/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41G1/44"/>
+    <TreeNode Title="F41G1/46 #为特殊应用的" Target="frmContent" Href="../searchservlet?query=F41G1/46&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41G1/46">
+      <TreeNode Title="F41G1/467 ##所用的头部[5]" Target="frmContent" Href="../searchservlet?query=F41G1/467&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41G1/467"/>
+      <TreeNode Title="F41G1/473 ##用于指示提前量或测距的，例如为了用在步枪或猎枪上[5]" Target="frmContent" Href="../searchservlet?query=F41G1/473&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41G1/473"/>
+      <TreeNode Title="F41G1/48 ##用于步枪发射枪榴弹的" Target="frmContent" Href="../searchservlet?query=F41G1/48&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41G1/48"/>
+      <TreeNode Title="F41G1/50 ##用于迫击炮的" Target="frmContent" Href="../searchservlet?query=F41G1/50&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41G1/50"/>
+      <TreeNode Title="F41G1/52 ##用于步枪或双管、多管猎枪，或适用于发射不同种类弹药的，例如子弹或霰弹" Target="frmContent" Href="../searchservlet?query=F41G1/52&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41G1/52"/>
+    </TreeNode>
+    <TreeNode Title="F41G1/54 #用于试验或检验的设备" Target="frmContent" Href="../searchservlet?query=F41G1/54&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41G1/54"/>
+  </TreeNode>
+  <TreeNode Title="F41G3/00 制导方式；正位方式(瞄准装置入F41G 1/00；利用无线电或其他波测量方向、距离或速度本身入G01S；计算机入G06；天线装置本身入H01Q)" Target="frmContent" Href="../searchservlet?query=F41G3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41G3/00">
+    <TreeNode Title="F41G3/02 #应用一条独立的瞄准刻线" Target="frmContent" Href="../searchservlet?query=F41G3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41G3/02"/>
+    <TreeNode Title="F41G3/04 #由电池分散发火的" Target="frmContent" Href="../searchservlet?query=F41G3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41G3/04"/>
+    <TreeNode Title="F41G3/06 #带有测距仪(测距仪本身入G01C)" Target="frmContent" Href="../searchservlet?query=F41G3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41G3/06"/>
+    <TreeNode Title="F41G3/08 #带有对大气的速度、方位、温度、压强或湿度补偿的装置(测量入G01)" Target="frmContent" Href="../searchservlet?query=F41G3/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41G3/08"/>
+    <TreeNode Title="F41G3/10 #带有补偿炮耳倾斜的装备" Target="frmContent" Href="../searchservlet?query=F41G3/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41G3/10"/>
+    <TreeNode Title="F41G3/12 #带有对枪口速度或火药温度补偿的装置" Target="frmContent" Href="../searchservlet?query=F41G3/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41G3/12"/>
+    <TreeNode Title="F41G3/14 #间接制导装置" Target="frmContent" Href="../searchservlet?query=F41G3/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41G3/14">
+      <TreeNode Title="F41G3/16 ##适用于间接瞄准射击的瞄准装置" Target="frmContent" Href="../searchservlet?query=F41G3/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41G3/16"/>
+      <TreeNode Title="F41G3/18 ##适用于间接瞄准射击的辅助靶装置" Target="frmContent" Href="../searchservlet?query=F41G3/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41G3/18"/>
+      <TreeNode Title="F41G3/20 ##专门适用于山炮的" Target="frmContent" Href="../searchservlet?query=F41G3/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41G3/20"/>
+    </TreeNode>
+    <TreeNode Title="F41G3/22 #适用于飞行器上的装备，例如在飞机上" Target="frmContent" Href="../searchservlet?query=F41G3/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41G3/22">
+      <TreeNode Title="F41G3/24 ##轰炸瞄准具" Target="frmContent" Href="../searchservlet?query=F41G3/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41G3/24"/>
+    </TreeNode>
+    <TreeNode Title="F41G3/26 #枪炮制导或枪炮瞄准的训练或实习设备" Target="frmContent" Href="../searchservlet?query=F41G3/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41G3/26">
+      <TreeNode Title="F41G3/28 ##小标度设备(立体模型或地图入G09B)" Target="frmContent" Href="../searchservlet?query=F41G3/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41G3/28"/>
+      <TreeNode Title="F41G3/30 ##枪炮瞄准装置" Target="frmContent" Href="../searchservlet?query=F41G3/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41G3/30"/>
+    </TreeNode>
+    <TreeNode Title="F41G3/32 #试验或检验用的设备" Target="frmContent" Href="../searchservlet?query=F41G3/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41G3/32"/>
+  </TreeNode>
+  <TreeNode Title="F41G5/00 枪炮的俯仰或横动的控制系统(允许作横向或俯仰运动的枪固定件，例如枪支架入F41A 27/00；计算机入G06)" Target="frmContent" Href="../searchservlet?query=F41G5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41G5/00">
+    <TreeNode Title="F41G5/02 #只应用机械装置遥控" Target="frmContent" Href="../searchservlet?query=F41G5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41G5/02"/>
+    <TreeNode Title="F41G5/04 #应用液压装置遥控" Target="frmContent" Href="../searchservlet?query=F41G5/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41G5/04"/>
+    <TreeNode Title="F41G5/06 #应用电气装置遥控" Target="frmContent" Href="../searchservlet?query=F41G5/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41G5/06"/>
+    <TreeNode Title="F41G5/08 #用于空中靶的地面跟踪系统" Target="frmContent" Href="../searchservlet?query=F41G5/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41G5/08"/>
+    <TreeNode Title="F41G5/12 #用声效应的" Target="frmContent" Href="../searchservlet?query=F41G5/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41G5/12"/>
+    <TreeNode Title="F41G5/14 #用于运载工具的枪炮的" Target="frmContent" Href="../searchservlet?query=F41G5/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41G5/14">
+      <TreeNode Title="F41G5/16 ##同陀螺仪配合使用的" Target="frmContent" Href="../searchservlet?query=F41G5/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41G5/16"/>
+      <TreeNode Title="F41G5/18 ##飞机上枪炮的跟踪系统" Target="frmContent" Href="../searchservlet?query=F41G5/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41G5/18"/>
+      <TreeNode Title="F41G5/20 ##用于舰艇上枪炮的" Target="frmContent" Href="../searchservlet?query=F41G5/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41G5/20">
+        <TreeNode Title="F41G5/22 ###横摇或纵摇的补偿" Target="frmContent" Href="../searchservlet?query=F41G5/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41G5/22"/>
+      </TreeNode>
+      <TreeNode Title="F41G5/24 ##坦克上的枪炮" Target="frmContent" Href="../searchservlet?query=F41G5/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41G5/24"/>
+    </TreeNode>
+    <TreeNode Title="F41G5/26 #试验或检验设备" Target="frmContent" Href="../searchservlet?query=F41G5/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41G5/26"/>
+  </TreeNode>
+  <TreeNode Title="F41G7/00 用于自身推进导弹的方向控制系统(飞行控制入B64C，G05D 1/00；有仅安装在运载工具上的方向控制系统的自推进的或制导导弹入F42B 15/01；火箭鱼雷入F42B 17/00；海上鱼雷或具有自动推进装置的水雷入F42B 19/00；利用无线电或其他波定位入G01S；计算方面入G06)" Target="frmContent" Href="../searchservlet?query=F41G7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41G7/00">
+    <TreeNode Title="F41G7/20 #基于靶位的连续观察[3]" Target="frmContent" Href="../searchservlet?query=F41G7/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41G7/20">
+      <TreeNode Title="F41G7/22 ##跟踪制导系统[3]" Target="frmContent" Href="../searchservlet?query=F41G7/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41G7/22"/>
+      <TreeNode Title="F41G7/24 ##波速制导系统(所用圆锥扫描波束信标入G01S 1/42)[3]" Target="frmContent" Href="../searchservlet?query=F41G7/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41G7/24">
+        <TreeNode Title="F41G7/26 ###光学制导系统[3]" Target="frmContent" Href="../searchservlet?query=F41G7/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41G7/26"/>
+        <TreeNode Title="F41G7/28 ###无线电制导系统[3]" Target="frmContent" Href="../searchservlet?query=F41G7/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41G7/28"/>
+      </TreeNode>
+      <TreeNode Title="F41G7/30 ##指令联络制导系统[3]" Target="frmContent" Href="../searchservlet?query=F41G7/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41G7/30">
+        <TreeNode Title="F41G7/32 ###有线制导导弹[3]" Target="frmContent" Href="../searchservlet?query=F41G7/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41G7/32"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="F41G7/34 #基于预定的靶子方位诸元的[3]" Target="frmContent" Href="../searchservlet?query=F41G7/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41G7/34">
+      <TreeNode Title="F41G7/36 ##采用惯性基准[3]" Target="frmContent" Href="../searchservlet?query=F41G7/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41G7/36"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="F41G9/00 不包含在其他类目中的控制导弹或射弹的系统" Target="frmContent" Href="../searchservlet?query=F41G9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41G9/00">
+    <TreeNode Title="F41G9/02 #用于轰炸控制的(轰炸瞄准器入F41G 3/24)" Target="frmContent" Href="../searchservlet?query=F41G9/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41G9/02"/>
+  </TreeNode>
+  <TreeNode Title="F41G11/00 瞄准或制导装置的部件；附件" Target="frmContent" Href="../searchservlet?query=F41G11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41G11/00"/>
+</Root>

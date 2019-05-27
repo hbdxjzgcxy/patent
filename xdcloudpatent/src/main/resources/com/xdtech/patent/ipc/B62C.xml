@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="B62C1/00 车的类型" Target="frmContent" Href="../searchservlet?query=B62C1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B62C1/00">
+    <TreeNode Title="B62C1/02 # 客车" Target="frmContent" Href="../searchservlet?query=B62C1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B62C1/02"/>
+    <TreeNode Title="B62C1/04 # 载货车" Target="frmContent" Href="../searchservlet?query=B62C1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B62C1/04">
+      <TreeNode Title="B62C1/06 ##可转换的，例如有可接长部件的，有可变轮距的" Target="frmContent" Href="../searchservlet?query=B62C1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B62C1/06"/>
+    </TreeNode>
+    <TreeNode Title="B62C1/08 # 赛车，例如单座二轮马车" Target="frmContent" Href="../searchservlet?query=B62C1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B62C1/08"/>
+  </TreeNode>
+  <TreeNode Title="B62C3/00 车的底架或行走装置；车轴支架(用于支承农机部件或设备的底架入A01B35/30，A01B39/24，A01B51/00)" Target="frmContent" Href="../searchservlet?query=B62C3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B62C3/00">
+    <TreeNode Title="B62C3/02 # 前轮架；悬挂装置；用于悬挂装置的转向机构" Target="frmContent" Href="../searchservlet?query=B62C3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B62C3/02"/>
+  </TreeNode>
+  <TreeNode Title="B62C5/00 牵引部件(牵引马具入B68B 3/00)" Target="frmContent" Href="../searchservlet?query=B62C5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B62C5/00">
+    <TreeNode Title="B62C5/02 # 轴，支杆或辕杆；及其支架，例如弹性的，可调的" Target="frmContent" Href="../searchservlet?query=B62C5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B62C5/02"/>
+    <TreeNode Title="B62C5/04 # 大车轮木；及其支架；牵引畜跨矩的牵引平衡梁；连动杆支架" Target="frmContent" Href="../searchservlet?query=B62C5/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B62C5/04"/>
+  </TreeNode>
+  <TreeNode Title="B62C7/00 专门适用于畜拉车的制动机构和制动控制装置" Target="frmContent" Href="../searchservlet?query=B62C7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B62C7/00">
+    <TreeNode Title="B62C7/02 # 用于锁定驱动行走轮的机构，例如接合轮辐的" Target="frmContent" Href="../searchservlet?query=B62C7/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B62C7/02"/>
+    <TreeNode Title="B62C7/04 # 自动制动控制装置" Target="frmContent" Href="../searchservlet?query=B62C7/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B62C7/04"/>
+  </TreeNode>
+  <TreeNode Title="B62C9/00 鞭子托架或保持架；构成车辆的一部分或附装在车上的缰绳保持架(缰绳或鞭子本身入B68B)" Target="frmContent" Href="../searchservlet?query=B62C9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B62C9/00"/>
+  <TreeNode Title="B62C11/00 其他类目不包含的保护装置，例如用于立即释放难驾驭的牵引畜的装置" Target="frmContent" Href="../searchservlet?query=B62C11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B62C11/00">
+    <TreeNode Title="B62C11/02 # 用于脱开车辕的装置" Target="frmContent" Href="../searchservlet?query=B62C11/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B62C11/02">
+      <TreeNode Title="B62C11/04 ##与自动制动结合的" Target="frmContent" Href="../searchservlet?query=B62C11/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B62C11/04"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="B62C99/00 本小类其他各组中不包括的技术主题[2009.01]" Target="frmContent" Href="../searchservlet?query=B62C99/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B62C99/00"/>
+</Root>

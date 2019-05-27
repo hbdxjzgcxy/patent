@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="C10K1/00 含一氧化碳可燃气体的提纯(由含氢与一氧化碳混合物中分离出氢入C01B 3/50)" Target="frmContent" Href="../searchservlet?query=C10K1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10K1/00">
+    <TreeNode Title="C10K1/02 #除尘" Target="frmContent" Href="../searchservlet?query=C10K1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10K1/02"/>
+    <TreeNode Title="C10K1/04 #冷却冷凝非气态物料" Target="frmContent" Href="../searchservlet?query=C10K1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10K1/04">
+      <TreeNode Title="C10K1/06 ##与用水喷雾相结合" Target="frmContent" Href="../searchservlet?query=C10K1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10K1/06"/>
+    </TreeNode>
+    <TreeNode Title="C10K1/08 #用液体洗涤；用过洗液的再生" Target="frmContent" Href="../searchservlet?query=C10K1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10K1/08">
+      <TreeNode Title="C10K1/10 ##用含水液体" Target="frmContent" Href="../searchservlet?query=C10K1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10K1/10">
+        <TreeNode Title="C10K1/12 ###碱性反应" Target="frmContent" Href="../searchservlet?query=C10K1/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10K1/12">
+          <TreeNode Title="C10K1/14 ####有机的" Target="frmContent" Href="../searchservlet?query=C10K1/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10K1/14"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="C10K1/16 ##用非水的液体" Target="frmContent" Href="../searchservlet?query=C10K1/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10K1/16">
+        <TreeNode Title="C10K1/18 ###烃油类" Target="frmContent" Href="../searchservlet?query=C10K1/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10K1/18"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="C10K1/20 #用固体处理；用过的净化物的再生" Target="frmContent" Href="../searchservlet?query=C10K1/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10K1/20">
+      <TreeNode Title="C10K1/22 ##设备，如干式箱式净化器" Target="frmContent" Href="../searchservlet?query=C10K1/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10K1/22">
+        <TreeNode Title="C10K1/24 ###净化物料的支撑方法" Target="frmContent" Href="../searchservlet?query=C10K1/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10K1/24"/>
+      </TreeNode>
+      <TreeNode Title="C10K1/26 ##净化物料的再生" Target="frmContent" Href="../searchservlet?query=C10K1/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10K1/26"/>
+      <TreeNode Title="C10K1/28 ##控制流经净化器的气体流量" Target="frmContent" Href="../searchservlet?query=C10K1/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10K1/28"/>
+      <TreeNode Title="C10K1/30 ##用移动的净化物质" Target="frmContent" Href="../searchservlet?query=C10K1/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10K1/30"/>
+    </TreeNode>
+    <TreeNode Title="C10K1/32 #选择有吸收力的固体；如活性碳" Target="frmContent" Href="../searchservlet?query=C10K1/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10K1/32"/>
+    <TreeNode Title="C10K1/34 #杂质的催化转化，成为更易除去的物质" Target="frmContent" Href="../searchservlet?query=C10K1/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10K1/34"/>
+  </TreeNode>
+  <TreeNode Title="C10K3/00 含一氧化碳的可燃气体的化学组合物的改性，以产生改性燃料，如一种不同热值、可不含一氧化碳的燃料" Target="frmContent" Href="../searchservlet?query=C10K3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10K3/00">
+    <TreeNode Title="C10K3/02 #用催化处理" Target="frmContent" Href="../searchservlet?query=C10K3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10K3/02">
+      <TreeNode Title="C10K3/04 ##降低一氧化碳含量" Target="frmContent" Href="../searchservlet?query=C10K3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10K3/04"/>
+    </TreeNode>
+    <TreeNode Title="C10K3/06 #与其他气体混合" Target="frmContent" Href="../searchservlet?query=C10K3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10K3/06"/>
+  </TreeNode>
+</Root>

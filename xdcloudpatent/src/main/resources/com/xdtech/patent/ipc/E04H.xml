@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="E04H1/00 住宅或办公用的建筑或建筑群；总体布置，例如，模数协调，交错楼层(E04H 3/00优先；两种或更多种用途的建筑物，能够驱车入内的建筑物入E04H 14/00；一般建筑结构入E04B 1/00)" Target="frmContent" Href="../searchservlet?query=E04H1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H1/00">
+    <TreeNode Title="E04H1/02 #住宅；临时住房(用于特别业务的小型建筑入E04H 1/12)" Target="frmContent" Href="../searchservlet?query=E04H1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H1/02">
+      <TreeNode Title="E04H1/04 ##两层或更多层的公寓住宅" Target="frmContent" Href="../searchservlet?query=E04H1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H1/04"/>
+    </TreeNode>
+    <TreeNode Title="E04H1/06 #办公建筑物；银行(E04H 1/12优先；商店、仓库或类似物用的家具或设施入A47F)" Target="frmContent" Href="../searchservlet?query=E04H1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H1/06"/>
+    <TreeNode Title="E04H1/12 #在建筑物内或室外修建的用于特别业务的小建筑物或其他建筑，例如，商亭，候车棚或加油站凉篷，火车站月台顶篷，岗亭，更衣室(作为家庭设施的移动式屏风入A47G 5/00)" Target="frmContent" Href="../searchservlet?query=E04H1/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H1/12">
+      <TreeNode Title="E04H1/14 ##电话间" Target="frmContent" Href="../searchservlet?query=E04H1/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H1/14"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="E04H3/00 公共的或类似用途的建筑物或建筑群；公共机构，例如，诊所，监狱(建筑物中供单独使用的一些部分，例如，小室入E04H1/00，覆盖大面积空间的结构入E04B 1/342)" Target="frmContent" Href="../searchservlet?query=E04H3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H3/00">
+    <TreeNode Title="E04H3/02 #旅馆，汽车旅店，咖啡馆，餐厅，商店，百货公司" Target="frmContent" Href="../searchservlet?query=E04H3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H3/02">
+      <TreeNode Title="E04H3/04 ##自助餐厅或商店(收款柜台入A47F 9/02；超级市场专用的家具或设备入A47F 10/00；运输入B65G；投硬币的自动设施入G07F)" Target="frmContent" Href="../searchservlet?query=E04H3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H3/04"/>
+    </TreeNode>
+    <TreeNode Title="E04H3/06 #博物馆，图书馆建筑物" Target="frmContent" Href="../searchservlet?query=E04H3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H3/06"/>
+    <TreeNode Title="E04H3/08 #医院，诊所或类似建筑物；学校；监狱" Target="frmContent" Href="../searchservlet?query=E04H3/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H3/08"/>
+    <TreeNode Title="E04H3/10 #供集会，娱乐或体育用的" Target="frmContent" Href="../searchservlet?query=E04H3/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H3/10">
+      <TreeNode Title="E04H3/12 ##讲台，看台或为观众设的平台(大礼堂入E04H 3/30；椅子，板凳或长凳入A47C)[2]" Target="frmContent" Href="../searchservlet?query=E04H3/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H3/12"/>
+      <TreeNode Title="E04H3/14 ##体育馆；其他体育建筑物(讲台入E04H 3/12)" Target="frmContent" Href="../searchservlet?query=E04H3/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H3/14">
+        <TreeNode Title="E04H3/16 ###游泳用的(游泳或喷水浴槽或池入E04H 4/00)[5]" Target="frmContent" Href="../searchservlet?query=E04H3/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H3/16"/>
+      </TreeNode>
+      <TreeNode Title="E04H3/22 ##剧院，音乐厅；扩音室，电影摄影棚，电视摄影棚或类似建筑(能驱车入内的建筑物入E04H 14/00；剧院或音乐厅的设备入A63J)[２]" Target="frmContent" Href="../searchservlet?query=E04H3/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H3/22">
+        <TreeNode Title="E04H3/24 ###舞台的结构特征" Target="frmContent" Href="../searchservlet?query=E04H3/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H3/24">
+          <TreeNode Title="E04H3/26 ####转台；能下降的舞台(供人员升降用的设备入A63J 5/12)" Target="frmContent" Href="../searchservlet?query=E04H3/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H3/26"/>
+          <TreeNode Title="E04H3/28 ####可移动的平台或轻便平台" Target="frmContent" Href="../searchservlet?query=E04H3/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H3/28"/>
+        </TreeNode>
+        <TreeNode Title="E04H3/30 ###大礼堂的结构特征(椅子、凳子、长凳入A47C；提供音响效果的建筑细部入E04B 1/99)" Target="frmContent" Href="../searchservlet?query=E04H3/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H3/30"/>
+      </TreeNode>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="E04H4/00 游泳或喷水浴槽或池(浴池波浪发生器入A47K 3/10；分离入B01D；水处理入C02F；波浪发生泵入F04D 35/00)[5]" Target="frmContent" Href="../searchservlet?query=E04H4/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H4/00">
+    <TreeNode Title="E04H4/02 #就地形成[5]" Target="frmContent" Href="../searchservlet?query=E04H4/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H4/02"/>
+    <TreeNode Title="E04H4/04 #预制的或预制构件组合成的[5]" Target="frmContent" Href="../searchservlet?query=E04H4/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H4/04"/>
+    <TreeNode Title="E04H4/06 #安全设施；浴槽的遮盖[5]" Target="frmContent" Href="../searchservlet?query=E04H4/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H4/06">
+      <TreeNode Title="E04H4/08 ##由刚性构件组成的遮盖[5]" Target="frmContent" Href="../searchservlet?query=E04H4/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H4/08"/>
+      <TreeNode Title="E04H4/10 ##由柔性构件组成的遮盖[5]" Target="frmContent" Href="../searchservlet?query=E04H4/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H4/10"/>
+    </TreeNode>
+    <TreeNode Title="E04H4/12 #循环水的设施或设备[5]" Target="frmContent" Href="../searchservlet?query=E04H4/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H4/12"/>
+    <TreeNode Title="E04H4/14 #其他位置不包括的部件、零件或附件[5]" Target="frmContent" Href="../searchservlet?query=E04H4/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H4/14">
+      <TreeNode Title="E04H4/16 ##专用于清洗的(专用于船舶的清洗设施入B63B 59/00)[5]" Target="frmContent" Href="../searchservlet?query=E04H4/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H4/16"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="E04H5/00 工农业用的建筑或建筑群(一般建筑结构入E04B 1/00)" Target="frmContent" Href="../searchservlet?query=E04H5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H5/00">
+    <TreeNode Title="E04H5/02 #工业建筑物或建筑群，例如，发电站，工厂(构成冷冻厂一部分的建筑物入E04H 5/10；停车场的建筑结构入E04H 6/00)" Target="frmContent" Href="../searchservlet?query=E04H5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H5/02">
+      <TreeNode Title="E04H5/04 ##变电室、站或配电室[5]" Target="frmContent" Href="../searchservlet?query=E04H5/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H5/04"/>
+      <TreeNode Title="E04H5/06 ##检修坑或者用于进行检查或维护的建筑结构(一般人孔井或其他检查室入E02D 29/12)" Target="frmContent" Href="../searchservlet?query=E04H5/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H5/06"/>
+    </TreeNode>
+    <TreeNode Title="E04H5/08 #农业用建筑物或建筑群(粮仓入E04H 7/22；肥料贮藏场入A01C 3/02；温室入A01G 9/14)" Target="frmContent" Href="../searchservlet?query=E04H5/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H5/08"/>
+    <TreeNode Title="E04H5/10 #构成冷冻厂一部分的建筑物" Target="frmContent" Href="../searchservlet?query=E04H5/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H5/10">
+      <TreeNode Title="E04H5/12 ##冷却塔(一般的塔入E04H 12/00；冷却设备入F28)" Target="frmContent" Href="../searchservlet?query=E04H5/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H5/12"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="E04H6/00 停放汽车、铁路车辆，飞机，船只或类似车辆的建筑物，例如，汽车库(用作车库的帐篷入E04H 15/00；自行车架入B62H；陆上船坞入B63C 15/00；由地层支护面的结构入E01C；地面上停车场的标记入E01F 9/00；一般的建筑物构造入E04B 1/00)" Target="frmContent" Href="../searchservlet?query=E04H6/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H6/00">
+    <TreeNode Title="E04H6/02 #小型车库，例如，存放一两辆汽车用的(由车辆支承的或与车辆相连的入B62D；预制的且内部不分隔的入E04B 1/343)" Target="frmContent" Href="../searchservlet?query=E04H6/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H6/02">
+      <TreeNode Title="E04H6/04 ##轮式，铰接式，折叠式，伸缩式，回转式或其他可以移动的车库(一般的可以运输或可折叠建筑物入E04B 1/343)" Target="frmContent" Href="../searchservlet?query=E04H6/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H6/04"/>
+      <TreeNode Title="E04H6/06 ##具有移动或提升车辆用的设备的" Target="frmContent" Href="../searchservlet?query=E04H6/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H6/06"/>
+    </TreeNode>
+    <TreeNode Title="E04H6/08 #存放多辆车的车库" Target="frmContent" Href="../searchservlet?query=E04H6/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H6/08">
+      <TreeNode Title="E04H6/10 ##没有用来移动或提升车辆的机械设备，例如，具有螺旋形固定坡道的，具有移动式坡道的" Target="frmContent" Href="../searchservlet?query=E04H6/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H6/10"/>
+      <TreeNode Title="E04H6/12 ##具有用于移动或提升车辆的机械设备的" Target="frmContent" Href="../searchservlet?query=E04H6/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H6/12">
+        <TreeNode Title="E04H6/14 ###具有带垂直运动承载部件的环带式运输链，例如，带链式升降机的" Target="frmContent" Href="../searchservlet?query=E04H6/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H6/14"/>
+        <TreeNode Title="E04H6/16 ###可围绕水平轴转动的轮形或鼓形车库" Target="frmContent" Href="../searchservlet?query=E04H6/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H6/16"/>
+        <TreeNode Title="E04H6/18 ###具有只作垂直方向的运送或分别作水平或垂直方向的运送的设备(E04H 6/14优先)" Target="frmContent" Href="../searchservlet?query=E04H6/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H6/18">
+          <TreeNode Title="E04H6/20 ####以采用传送链或旋转式滚轴进行运送为特征的" Target="frmContent" Href="../searchservlet?query=E04H6/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H6/20"/>
+          <TreeNode Title="E04H6/22 ####以采用可移动的平台进行水平运送为特征的" Target="frmContent" Href="../searchservlet?query=E04H6/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H6/22"/>
+          <TreeNode Title="E04H6/24 ####以采用独轮台车进行水平运送为特征的" Target="frmContent" Href="../searchservlet?query=E04H6/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H6/24"/>
+          <TreeNode Title="E04H6/26 ####以采用可倾斜的楼板或楼板部件为特征的；以采用可移动的坡道为特征的" Target="frmContent" Href="../searchservlet?query=E04H6/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H6/26"/>
+          <TreeNode Title="E04H6/28 ####以采用转车台或转盘进行水平运送为特征的" Target="frmContent" Href="../searchservlet?query=E04H6/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H6/28"/>
+        </TreeNode>
+        <TreeNode Title="E04H6/30 ###具有只能进行水平运送的设备" Target="frmContent" Href="../searchservlet?query=E04H6/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H6/30">
+          <TreeNode Title="E04H6/32 ####以采用传送链或旋转式滚轴为特征的" Target="frmContent" Href="../searchservlet?query=E04H6/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H6/32"/>
+          <TreeNode Title="E04H6/34 ####以采用移动式平台为特征的" Target="frmContent" Href="../searchservlet?query=E04H6/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H6/34"/>
+          <TreeNode Title="E04H6/36 ####以采用可自由运动的独轮台车为特征的" Target="frmContent" Href="../searchservlet?query=E04H6/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H6/36"/>
+          <TreeNode Title="E04H6/38 ####以采用可倾斜楼板或楼板部件为特征的" Target="frmContent" Href="../searchservlet?query=E04H6/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H6/38"/>
+          <TreeNode Title="E04H6/40 ####以采用转车台或转盘为特征的" Target="frmContent" Href="../searchservlet?query=E04H6/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H6/40"/>
+        </TreeNode>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="E04H6/42 #其他类所不包括的车库专用设备或用具，例如，稳固装置，安全装置" Target="frmContent" Href="../searchservlet?query=E04H6/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H6/42"/>
+    <TreeNode Title="E04H6/44 #停放飞机的(覆盖大面积空间的结构入E04B 1/342)" Target="frmContent" Href="../searchservlet?query=E04H6/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H6/44"/>
+  </TreeNode>
+  <TreeNode Title="E04H7/00 在现场或非现场采用土木工程技术进行大容量散装材料贮库的施工或安装(塔类入E04H 12/00；贮存库的有关方面，例如，浮式顶盖，密封方法，装卸方法入B65D，B65G，F17B，F17C；基础入E02D 27/38)[2]" Target="frmContent" Href="../searchservlet?query=E04H7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H7/00">
+    <TreeNode Title="E04H7/02 #液体或气体容器，其支撑(供水箱的配置或连接入E03B 11/00)[2]" Target="frmContent" Href="../searchservlet?query=E04H7/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H7/02">
+      <TreeNode Title="E04H7/04 ##主要用金属建造的" Target="frmContent" Href="../searchservlet?query=E04H7/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H7/04">
+        <TreeNode Title="E04H7/06 ###具有立轴的" Target="frmContent" Href="../searchservlet?query=E04H7/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H7/06"/>
+        <TreeNode Title="E04H7/14 ###球形的" Target="frmContent" Href="../searchservlet?query=E04H7/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H7/14"/>
+        <TreeNode Title="E04H7/16 ###具有水平轴的" Target="frmContent" Href="../searchservlet?query=E04H7/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H7/16"/>
+      </TreeNode>
+      <TreeNode Title="E04H7/18 ##主要用混凝土建造的，例如，用钢筋混凝土或其他石类材料" Target="frmContent" Href="../searchservlet?query=E04H7/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H7/18">
+        <TreeNode Title="E04H7/20 ###预应力结构" Target="frmContent" Href="../searchservlet?query=E04H7/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H7/20"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="E04H7/22 #可流动固体颗粒用的容器，例如，筒仓，料斗仓，其支撑[２]" Target="frmContent" Href="../searchservlet?query=E04H7/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H7/22">
+      <TreeNode Title="E04H7/24 ##根据所用特殊材料，带或不带穿孔墙的结构" Target="frmContent" Href="../searchservlet?query=E04H7/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H7/24">
+        <TreeNode Title="E04H7/26 ###主要用混凝土建造的，例如，用钢筋混凝土或其他石类材料建造的" Target="frmContent" Href="../searchservlet?query=E04H7/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H7/26">
+          <TreeNode Title="E04H7/28 ####由特殊建筑构件组合的" Target="frmContent" Href="../searchservlet?query=E04H7/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H7/28"/>
+        </TreeNode>
+        <TreeNode Title="E04H7/30 ###主要用金属建造的" Target="frmContent" Href="../searchservlet?query=E04H7/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H7/30"/>
+        <TreeNode Title="E04H7/32 ###主要用木料建造的" Target="frmContent" Href="../searchservlet?query=E04H7/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H7/32"/>
+      </TreeNode>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="E04H9/00 能经受或保护不受外来异常的影响，例如，战争、地震、异常气候影响的建筑物或建筑群或掩蔽所(浮式建筑物入B63B；基础入E02D；一般建筑构造入E04B；活动支座或类似支撑入E04B 1/36；有关隔绝或其他保护的特殊细部入E04B 1/62；有危险的或受到损坏的现有建筑物或其一部分用的支撑结构入E04G 23/04；门，窗入E06B 5/00；空调，通风入F24F；伪装入F41H 3/00；防止危害性辐射的小房或房间入G21F 7/00)" Target="frmContent" Href="../searchservlet?query=E04H9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H9/00">
+    <TreeNode Title="E04H9/02 #抗地震或防地面下陷的(基础入E02D 27/34)" Target="frmContent" Href="../searchservlet?query=E04H9/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H9/02"/>
+    <TreeNode Title="E04H9/04 #防空袭或其他战争行动的(防毒设备入A62B)" Target="frmContent" Href="../searchservlet?query=E04H9/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H9/04">
+      <TreeNode Title="E04H9/06 ##建在建筑物内或构成建筑物一部分的结构" Target="frmContent" Href="../searchservlet?query=E04H9/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H9/06">
+        <TreeNode Title="E04H9/08 ###建在建筑物下面的地下结构，例如，防空掩蔽所" Target="frmContent" Href="../searchservlet?query=E04H9/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H9/08"/>
+      </TreeNode>
+      <TreeNode Title="E04H9/10 ##单独的掩蔽所；单独防弹片墙的布置" Target="frmContent" Href="../searchservlet?query=E04H9/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H9/10">
+        <TreeNode Title="E04H9/12 ###完全位于地面之下，例如，防空坑道(隧道、坑道入E21D)" Target="frmContent" Href="../searchservlet?query=E04H9/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H9/12"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="E04H9/14 #防其他危险性影响用的，例如，防飓风、洪水用的" Target="frmContent" Href="../searchservlet?query=E04H9/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H9/14"/>
+    <TreeNode Title="E04H9/16 #防其他有害情况用的，例如，防异常气候、传染病用的" Target="frmContent" Href="../searchservlet?query=E04H9/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H9/16"/>
+  </TreeNode>
+  <TreeNode Title="E04H12/00 塔；桅杆，柱；烟囱；水塔；架设这些结构的方法(冷却塔入E04H 5/12；路牌的支撑入E01F 9/011；基础桩入E02D 5/22；桅杆、柱或烟囱的基础入E02D 27/42；一般长条形构件入E04C 3/00；固定的铁爬梯入E06C 9/04；油井钻塔入E21B 15/00)[6]" Target="frmContent" Href="../searchservlet?query=E04H12/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H12/00">
+    <TreeNode Title="E04H12/02 #用特殊材料制作的结构(E04H 12/16，E04H 12/18优先)" Target="frmContent" Href="../searchservlet?query=E04H12/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H12/02">
+      <TreeNode Title="E04H12/04 ##木制的" Target="frmContent" Href="../searchservlet?query=E04H12/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H12/04">
+        <TreeNode Title="E04H12/06 ###桁架式结构的" Target="frmContent" Href="../searchservlet?query=E04H12/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H12/06"/>
+      </TreeNode>
+      <TreeNode Title="E04H12/08 ##用金属制的" Target="frmContent" Href="../searchservlet?query=E04H12/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H12/08">
+        <TreeNode Title="E04H12/10 ###桁架式结构的" Target="frmContent" Href="../searchservlet?query=E04H12/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H12/10"/>
+      </TreeNode>
+      <TreeNode Title="E04H12/12 ##用混凝土或其他石类材料制成，可有或没有内部配筋或外部加强件的，例如，具有金属覆盖物的，具有永久性模壳构件的" Target="frmContent" Href="../searchservlet?query=E04H12/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H12/12">
+        <TreeNode Title="E04H12/14 ###桁架式结构的" Target="frmContent" Href="../searchservlet?query=E04H12/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H12/14"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="E04H12/16 #预应力结构" Target="frmContent" Href="../searchservlet?query=E04H12/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H12/16"/>
+    <TreeNode Title="E04H12/18 #可移动的或带有可移动部件的，例如，转动式、伸缩式的(转动式建筑物入E04B 1/346)" Target="frmContent" Href="../searchservlet?query=E04H12/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H12/18"/>
+    <TreeNode Title="E04H12/20 #所用的侧面支撑方法，例如，用牵索、斜撑(地锚入E02D 5/80；固定钢缆、绳索的方法入F16G 11/00)" Target="frmContent" Href="../searchservlet?query=E04H12/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H12/20"/>
+    <TreeNode Title="E04H12/22 #柱或杆的底座或支持物" Target="frmContent" Href="../searchservlet?query=E04H12/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H12/22"/>
+    <TreeNode Title="E04H12/24 #横撑" Target="frmContent" Href="../searchservlet?query=E04H12/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H12/24"/>
+    <TreeNode Title="E04H12/26 #矿区用的卷扬机塔(升降设备入B66B)" Target="frmContent" Href="../searchservlet?query=E04H12/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H12/26"/>
+    <TreeNode Title="E04H12/28 #烟囱体，例如，独立式或类似的导管(基础入E02D 27/42；作为建筑一部分的烟道入E04F 17/02；炉子和烟道之间的连接，烟囱设备入F23J)" Target="frmContent" Href="../searchservlet?query=E04H12/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H12/28"/>
+    <TreeNode Title="E04H12/30 #水塔(贮水箱本身入B65D 88/00；高位水箱的使用入E03B 11/12)" Target="frmContent" Href="../searchservlet?query=E04H12/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H12/30"/>
+    <TreeNode Title="E04H12/32 #旗杆(旗帜，彩旗及其托座入G09F 17/00)" Target="frmContent" Href="../searchservlet?query=E04H12/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H12/32"/>
+    <TreeNode Title="E04H12/34 #塔，桅杆，柱，烟囱或类似物的竖立或降低装置[6]" Target="frmContent" Href="../searchservlet?query=E04H12/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H12/34"/>
+  </TreeNode>
+  <TreeNode Title="E04H13/00 纪念碑；坟墓；墓室；骨灰安放室(雕塑或其他艺术品入B44)" Target="frmContent" Href="../searchservlet?query=E04H13/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H13/00"/>
+  <TreeNode Title="E04H14/00 不包括在本小类1/00至13/00任何单一大组中的综合用途的建筑物，例如，双重用途的建筑物(E04H3/02，E04H9/06优先)；能驱车入内的建筑物" Target="frmContent" Href="../searchservlet?query=E04H14/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H14/00"/>
+  <TreeNode Title="E04H15/00 一般的帐篷或天篷[4]" Target="frmContent" Href="../searchservlet?query=E04H15/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H15/00">
+    <TreeNode Title="E04H15/02 #与其他装置相结合或以特殊方式相连的帐篷[4]" Target="frmContent" Href="../searchservlet?query=E04H15/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H15/02">
+      <TreeNode Title="E04H15/04 ##悬挂式，例如，从树上，从悬臂支承物上悬挂(支承框架入E04H 15/34)[4]" Target="frmContent" Href="../searchservlet?query=E04H15/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H15/04"/>
+      <TreeNode Title="E04H15/06 ##至少部分由车辆支承的帐篷[4]" Target="frmContent" Href="../searchservlet?query=E04H15/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H15/06">
+        <TreeNode Title="E04H15/08 ###拖车顶篷或类似物" Target="frmContent" Href="../searchservlet?query=E04H15/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H15/08"/>
+      </TreeNode>
+      <TreeNode Title="E04H15/10 ##供暖，照明或通风(供暖，照明或通风设备本身参见有关分类，例如，F21，F24)[4]" Target="frmContent" Href="../searchservlet?query=E04H15/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H15/10">
+        <TreeNode Title="E04H15/12 ###供暖[4]" Target="frmContent" Href="../searchservlet?query=E04H15/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H15/12"/>
+        <TreeNode Title="E04H15/14 ###通风[4]" Target="frmContent" Href="../searchservlet?query=E04H15/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H15/14">
+          <TreeNode Title="E04H15/16 ####帐篷顶的[4]" Target="frmContent" Href="../searchservlet?query=E04H15/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H15/16"/>
+        </TreeNode>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="E04H15/18 #有多个分段的覆盖物的帐篷，例如，四角帐篷、拱顶帐篷、大帐幕、竞技场帐篷(可充气的入E04H 15/20)；复合帐篷，例如，标准型的[4]" Target="frmContent" Href="../searchservlet?query=E04H15/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H15/18"/>
+    <TreeNode Title="E04H15/20 #可充气的，例如，用液压成型、强化或支撑的(可充气的弹性体的阀的连接入B60C 29/00；用以制作墙、楼板、顶棚或屋顶的可充气模壳本身入E04G 11/04)[4]" Target="frmContent" Href="../searchservlet?query=E04H15/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H15/20">
+      <TreeNode Title="E04H15/22 ##由帐篷内的空气压力支承的[4]" Target="frmContent" Href="../searchservlet?query=E04H15/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H15/22"/>
+    </TreeNode>
+    <TreeNode Title="E04H15/24 #圆锥形的，例如，北美印第安人的圆锥形帐篷[4]" Target="frmContent" Href="../searchservlet?query=E04H15/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H15/24"/>
+    <TreeNode Title="E04H15/26 #用中心杆支承的帐篷(伞型的入E04H 15/28)[4]" Target="frmContent" Href="../searchservlet?query=E04H15/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H15/26"/>
+    <TreeNode Title="E04H15/28 #伞型帐篷[4]" Target="frmContent" Href="../searchservlet?query=E04H15/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H15/28"/>
+    <TreeNode Title="E04H15/30 #可转换的，例如，从一种型式的帐篷变成另一种型式的帐篷，由帐篷变成天篷，由帐篷覆盖变成各种物品(可变换成帐篷的袋或包入A45F 4/04；可变成帐篷盖的外套或斗篷入A45F 4/14)[4]" Target="frmContent" Href="../searchservlet?query=E04H15/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H15/30"/>
+    <TreeNode Title="E04H15/32 #专门适用于帐篷的部件，组件，结构零件，附件，内部设备，例如，拉线设备，壁脚，门槛[4]" Target="frmContent" Href="../searchservlet?query=E04H15/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H15/32">
+      <TreeNode Title="E04H15/34 ##支撑设施，例如，框架[4]" Target="frmContent" Href="../searchservlet?query=E04H15/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H15/34">
+        <TreeNode Title="E04H15/36 ###弓形型的(E04H 15/42优先)[4]" Target="frmContent" Href="../searchservlet?query=E04H15/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H15/36">
+          <TreeNode Title="E04H15/38 ####可扩张的，例如，可伸缩的[4]" Target="frmContent" Href="../searchservlet?query=E04H15/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H15/38"/>
+          <TreeNode Title="E04H15/40 ####可弯曲的[4]" Target="frmContent" Href="../searchservlet?query=E04H15/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H15/40"/>
+        </TreeNode>
+        <TreeNode Title="E04H15/42 ###外部型的，例如，框架在帐篷外面的[4]" Target="frmContent" Href="../searchservlet?query=E04H15/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H15/42"/>
+        <TreeNode Title="E04H15/44 ###可折叠的，例如，分解型的(E04H 15/42优先；一般具有可折叠部分的建筑物入E04B 1/343)[4]" Target="frmContent" Href="../searchservlet?query=E04H15/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H15/44">
+          <TreeNode Title="E04H15/46 ####可伸缩并且可折叠的[4]" Target="frmContent" Href="../searchservlet?query=E04H15/46&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H15/46"/>
+          <TreeNode Title="E04H15/48 ####可折叠的，即有枢轴或铰接设施的(E04H 15/46优先)[4]" Target="frmContent" Href="../searchservlet?query=E04H15/48&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H15/48">
+            <TreeNode Title="E04H15/50 #####惰钳型的[4]" Target="frmContent" Href="../searchservlet?query=E04H15/50&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H15/50"/>
+            <TreeNode Title="E04H15/52 #####平行四边形型的[4]" Target="frmContent" Href="../searchservlet?query=E04H15/52&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H15/52"/>
+          </TreeNode>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="E04H15/54 ##帐篷或天篷的盖(可通气的帐篷顶入E04H 15/16)[4]" Target="frmContent" Href="../searchservlet?query=E04H15/54&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H15/54"/>
+      <TreeNode Title="E04H15/56 ##地板[4]" Target="frmContent" Href="../searchservlet?query=E04H15/56&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H15/56"/>
+      <TreeNode Title="E04H15/58 ##封闭物；遮篷；遮阳棚[4]" Target="frmContent" Href="../searchservlet?query=E04H15/58&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H15/58"/>
+      <TreeNode Title="E04H15/60 ##柱[4]" Target="frmContent" Href="../searchservlet?query=E04H15/60&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H15/60"/>
+      <TreeNode Title="E04H15/62 ##木钉，桩柱或类似物[4]" Target="frmContent" Href="../searchservlet?query=E04H15/62&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H15/62"/>
+      <TreeNode Title="E04H15/64 ##帐篷盖或天篷盖的固定[4]" Target="frmContent" Href="../searchservlet?query=E04H15/64&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H15/64"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="E04H17/00 围栏的构筑，例如，围栏、围墙、畜栏(电网的专用设备入A01K 3/00，H05C；便于通过围栏，障碍物或类似物的装置入E06B 11/00)" Target="frmContent" Href="../searchservlet?query=E04H17/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H17/00">
+    <TreeNode Title="E04H17/02 #铁丝栅栏，例如，由铁丝网形成的(E04H 17/14优先；对铁丝的加工或处理入B21F，例如，制作铁丝网入B21F 27/00)" Target="frmContent" Href="../searchservlet?query=E04H17/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H17/02">
+      <TreeNode Title="E04H17/04 ##特征在于采用特制的铁丝，例如，有铁蒺藜的铁丝[1，7]" Target="frmContent" Href="../searchservlet?query=E04H17/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H17/04"/>
+      <TreeNode Title="E04H17/06 ##铁丝栅栏的部件" Target="frmContent" Href="../searchservlet?query=E04H17/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H17/06">
+        <TreeNode Title="E04H17/08 ###其锚固方法，例如，打入地面的特种形状部件；支撑或类似物(塔或桅杆用的入E04H 12/20；柱座入E04H 12/22)" Target="frmContent" Href="../searchservlet?query=E04H17/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H17/08"/>
+      </TreeNode>
+      <TreeNode Title="E04H17/10 ##以铁丝与支柱的联结方式为特征的；挂钩" Target="frmContent" Href="../searchservlet?query=E04H17/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H17/10">
+        <TreeNode Title="E04H17/12 ###铁丝架在槽、切口或类似结构中" Target="frmContent" Href="../searchservlet?query=E04H17/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H17/12"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="E04H17/14 #用刚性构件制作的围栏，例如，具有附加的铁丝填充物或具有支柱" Target="frmContent" Href="../searchservlet?query=E04H17/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H17/14">
+      <TreeNode Title="E04H17/16 ##采用预制板状构件的，例如，采用铁丝框架" Target="frmContent" Href="../searchservlet?query=E04H17/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H17/16">
+        <TreeNode Title="E04H17/18 ###畜栏或车栏，例如，便于迁移或拆除的栏栅" Target="frmContent" Href="../searchservlet?query=E04H17/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H17/18"/>
+      </TreeNode>
+      <TreeNode Title="E04H17/20 ##其支柱" Target="frmContent" Href="../searchservlet?query=E04H17/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H17/20">
+        <TreeNode Title="E04H17/22 ###其锚定器件，例如，打入地面下的特种形状构件；支撑或类似物(塔或桅杆用的入E04H 12/20；柱座入E04H 12/22)" Target="frmContent" Href="../searchservlet?query=E04H17/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H17/22"/>
+      </TreeNode>
+      <TreeNode Title="E04H17/24 ##附加铁丝与框架，支柱或栏杆的连接" Target="frmContent" Href="../searchservlet?query=E04H17/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H17/24"/>
+    </TreeNode>
+    <TreeNode Title="E04H17/26 #装拆围栏的设备" Target="frmContent" Href="../searchservlet?query=E04H17/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04H17/26"/>
+  </TreeNode>
+</Root>

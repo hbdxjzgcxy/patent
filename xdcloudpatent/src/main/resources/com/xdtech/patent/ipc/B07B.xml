@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="B07B1/00 用网，滤筛，格栅或其他类似的工具细筛、粗筛、筛分或分选固体物料" Target="frmContent" Href="../searchservlet?query=B07B1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B07B1/00">
+    <TreeNode Title="B07B1/02 #手工用筛" Target="frmContent" Href="../searchservlet?query=B07B1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B07B1/02"/>
+    <TreeNode Title="B07B1/04 #固定平筛" Target="frmContent" Href="../searchservlet?query=B07B1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B07B1/04"/>
+    <TreeNode Title="B07B1/06 #锥形或圆盘形筛" Target="frmContent" Href="../searchservlet?query=B07B1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B07B1/06"/>
+    <TreeNode Title="B07B1/08 #在本身平面内转动的筛" Target="frmContent" Href="../searchservlet?query=B07B1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B07B1/08"/>
+    <TreeNode Title="B07B1/10 #循环运动的带状筛" Target="frmContent" Href="../searchservlet?query=B07B1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B07B1/10"/>
+    <TreeNode Title="B07B1/12 #只有平行元件的装置" Target="frmContent" Href="../searchservlet?query=B07B1/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B07B1/12">
+      <TreeNode Title="B07B1/14 ##辊式筛" Target="frmContent" Href="../searchservlet?query=B07B1/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B07B1/14">
+        <TreeNode Title="B07B1/15 ###用波状的、开槽的或加肋的辊子[2]" Target="frmContent" Href="../searchservlet?query=B07B1/15&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B07B1/15"/>
+      </TreeNode>
+      <TreeNode Title="B07B1/16 ##元件能运动，但不是辊式的" Target="frmContent" Href="../searchservlet?query=B07B1/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B07B1/16"/>
+    </TreeNode>
+    <TreeNode Title="B07B1/18 #圆筒筛" Target="frmContent" Href="../searchservlet?query=B07B1/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B07B1/18">
+      <TreeNode Title="B07B1/20 ##固定圆筒内有活动内部搅拌器" Target="frmContent" Href="../searchservlet?query=B07B1/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B07B1/20"/>
+      <TreeNode Title="B07B1/22 ##转动圆筒" Target="frmContent" Href="../searchservlet?query=B07B1/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B07B1/22">
+        <TreeNode Title="B07B1/24 ###带有固定的或活动的内部搅拌器" Target="frmContent" Href="../searchservlet?query=B07B1/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B07B1/24"/>
+        <TreeNode Title="B07B1/26 ###圆筒有附加的轴向或径向运动的" Target="frmContent" Href="../searchservlet?query=B07B1/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B07B1/26"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="B07B1/28 #其他类目中不包含的运动式筛子，例如，晃动式、往复式、摇动式、倾斜式或摆动式筛子" Target="frmContent" Href="../searchservlet?query=B07B1/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B07B1/28">
+      <TreeNode Title="B07B1/30 ##沿传送方向或接近于沿传送方向来回晃动或运动" Target="frmContent" Href="../searchservlet?query=B07B1/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B07B1/30"/>
+      <TreeNode Title="B07B1/32 ##在自身的平面内横着传送方向来回晃动或运动" Target="frmContent" Href="../searchservlet?query=B07B1/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B07B1/32"/>
+      <TreeNode Title="B07B1/34 ##垂直于或接近垂直于筛面方向来回晃动或运动" Target="frmContent" Href="../searchservlet?query=B07B1/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B07B1/34"/>
+      <TreeNode Title="B07B1/36 ##沿几个方向来回晃动或运动" Target="frmContent" Href="../searchservlet?query=B07B1/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B07B1/36"/>
+      <TreeNode Title="B07B1/38 ##在其自身平面内沿着圆弧摆动；平面筛" Target="frmContent" Href="../searchservlet?query=B07B1/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B07B1/38"/>
+      <TreeNode Title="B07B1/40 ##共振筛" Target="frmContent" Href="../searchservlet?query=B07B1/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B07B1/40"/>
+    </TreeNode>
+    <TreeNode Title="B07B1/42 #专门适用于筛的传动机构，调节或控制装置，或平衡装置" Target="frmContent" Href="../searchservlet?query=B07B1/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B07B1/42">
+      <TreeNode Title="B07B1/44 ##平衡装置" Target="frmContent" Href="../searchservlet?query=B07B1/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B07B1/44"/>
+    </TreeNode>
+    <TreeNode Title="B07B1/46 #一般筛的结构零件；筛的清理或加热" Target="frmContent" Href="../searchservlet?query=B07B1/46&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B07B1/46">
+      <TreeNode Title="B07B1/48 ##筛的张紧装置" Target="frmContent" Href="../searchservlet?query=B07B1/48&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B07B1/48">
+        <TreeNode Title="B07B1/49 ###用相同的或不相同的张紧方法来张紧几个筛子或筛子的一部分[2]" Target="frmContent" Href="../searchservlet?query=B07B1/49&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B07B1/49"/>
+      </TreeNode>
+      <TreeNode Title="B07B1/50 ##清理" Target="frmContent" Href="../searchservlet?query=B07B1/50&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B07B1/50">
+        <TreeNode Title="B07B1/52 ###用刷子或刮削器" Target="frmContent" Href="../searchservlet?query=B07B1/52&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B07B1/52"/>
+        <TreeNode Title="B07B1/54 ###用敲打装置" Target="frmContent" Href="../searchservlet?query=B07B1/54&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B07B1/54"/>
+        <TreeNode Title="B07B1/55 ###用流体喷射[3]" Target="frmContent" Href="../searchservlet?query=B07B1/55&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B07B1/55"/>
+      </TreeNode>
+      <TreeNode Title="B07B1/56 ##加热筛面" Target="frmContent" Href="../searchservlet?query=B07B1/56&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B07B1/56">
+        <TreeNode Title="B07B1/58 ###用加热液体来加热" Target="frmContent" Href="../searchservlet?query=B07B1/58&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B07B1/58"/>
+        <TreeNode Title="B07B1/60 ###用火焰来加热" Target="frmContent" Href="../searchservlet?query=B07B1/60&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B07B1/60"/>
+        <TreeNode Title="B07B1/62 ###直接用电来加热" Target="frmContent" Href="../searchservlet?query=B07B1/62&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B07B1/62"/>
+      </TreeNode>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="B07B4/00 固体混合物受气流作用而使固体从固体中分离(使用摇床或跳汰机入B03B)" Target="frmContent" Href="../searchservlet?query=B07B4/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B07B4/00">
+    <TreeNode Title="B07B4/02 #当混合物落下时" Target="frmContent" Href="../searchservlet?query=B07B4/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B07B4/02">
+      <TreeNode Title="B07B4/04 ##在栅格内" Target="frmContent" Href="../searchservlet?query=B07B4/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B07B4/04"/>
+      <TreeNode Title="B07B4/06 ##用旋转圆筒" Target="frmContent" Href="../searchservlet?query=B07B4/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B07B4/06"/>
+    </TreeNode>
+    <TreeNode Title="B07B4/08 #当混合物放在细筛、粗筛或类似的机械构件上面时" Target="frmContent" Href="../searchservlet?query=B07B4/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B07B4/08"/>
+  </TreeNode>
+  <TreeNode Title="B07B7/00 用气流传送固体物料，或将固体物料扩散在气流里进行分选(用细筛或滤器分离出气体或蒸气中扩散的微粒入B01D)" Target="frmContent" Href="../searchservlet?query=B07B7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B07B7/00">
+    <TreeNode Title="B07B7/01 #用重力" Target="frmContent" Href="../searchservlet?query=B07B7/01&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B07B7/01"/>
+    <TreeNode Title="B07B7/02 #逆转气流的方向" Target="frmContent" Href="../searchservlet?query=B07B7/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B07B7/02"/>
+    <TreeNode Title="B07B7/04 #向挡板分离器碰撞" Target="frmContent" Href="../searchservlet?query=B07B7/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B07B7/04"/>
+    <TreeNode Title="B07B7/06 #向筛子碰撞" Target="frmContent" Href="../searchservlet?query=B07B7/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B07B7/06"/>
+    <TreeNode Title="B07B7/08 #用离心力" Target="frmContent" Href="../searchservlet?query=B07B7/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B07B7/08">
+      <TreeNode Title="B07B7/083 ##由旋转的叶片，圆盘，圆筒或刷子产生" Target="frmContent" Href="../searchservlet?query=B07B7/083&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B07B7/083"/>
+      <TreeNode Title="B07B7/086 ##在气流环流过程中产生" Target="frmContent" Href="../searchservlet?query=B07B7/086&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B07B7/086"/>
+      <TreeNode Title="B07B7/10 ##在设备中有空气再循环装置" Target="frmContent" Href="../searchservlet?query=B07B7/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B07B7/10"/>
+    </TreeNode>
+    <TreeNode Title="B07B7/12 #有脉动的气流" Target="frmContent" Href="../searchservlet?query=B07B7/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B07B7/12"/>
+  </TreeNode>
+  <TreeNode Title="B07B9/00 用于筛选或筛分，或使用气流将固体从固体中分离装置组合；设备的总布置，例如，流程布置" Target="frmContent" Href="../searchservlet?query=B07B9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B07B9/00">
+    <TreeNode Title="B07B9/02 #使用气流将固体从固体中分离的相似或不同装置的结合" Target="frmContent" Href="../searchservlet?query=B07B9/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B07B9/02"/>
+  </TreeNode>
+  <TreeNode Title="B07B11/00 使用气流将固体从固体中分离的设备的附件装置" Target="frmContent" Href="../searchservlet?query=B07B11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B07B11/00">
+    <TreeNode Title="B07B11/02 #空气或物料调节附件装置" Target="frmContent" Href="../searchservlet?query=B07B11/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B07B11/02"/>
+    <TreeNode Title="B07B11/04 #控制装置" Target="frmContent" Href="../searchservlet?query=B07B11/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B07B11/04"/>
+    <TreeNode Title="B07B11/06 #送料或出料装置" Target="frmContent" Href="../searchservlet?query=B07B11/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B07B11/06"/>
+    <TreeNode Title="B07B11/08 #清理装置" Target="frmContent" Href="../searchservlet?query=B07B11/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B07B11/08"/>
+  </TreeNode>
+  <TreeNode Title="B07B13/00 其他类目中不包括的用干法对固体物料分级或分选；除用间接控制装置以外的物品的分选" Target="frmContent" Href="../searchservlet?query=B07B13/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B07B13/00">
+    <TreeNode Title="B07B13/02 #用贮袋将颗粒从集料中取出来的分级装置" Target="frmContent" Href="../searchservlet?query=B07B13/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B07B13/02"/>
+    <TreeNode Title="B07B13/04 #根据尺寸大小" Target="frmContent" Href="../searchservlet?query=B07B13/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B07B13/04">
+      <TreeNode Title="B07B13/05 ##利用与定位器挡料，转向器或排料装置协同动作的移料装置(B07B 13/065至B07B 13/075优先)[3]" Target="frmContent" Href="../searchservlet?query=B07B13/05&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B07B13/05"/>
+      <TreeNode Title="B07B13/065 ##使用分散式传送带或钢丝绳的分级或分选装置[3]" Target="frmContent" Href="../searchservlet?query=B07B13/065&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B07B13/065"/>
+      <TreeNode Title="B07B13/07 ##装置中集料或物品沿着或通过多个孔道移动，孔道的尺寸沿物体移动方向而增加[3]" Target="frmContent" Href="../searchservlet?query=B07B13/07&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B07B13/07"/>
+      <TreeNode Title="B07B13/075 ##装置中包括可移动的物品接受孔道，孔道的大小随其移动而改变[3]" Target="frmContent" Href="../searchservlet?query=B07B13/075&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B07B13/075"/>
+    </TreeNode>
+    <TreeNode Title="B07B13/08 #根据重量(B07B 13/10 优先)" Target="frmContent" Href="../searchservlet?query=B07B13/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B07B13/08"/>
+    <TreeNode Title="B07B13/10 #利用动量的作用" Target="frmContent" Href="../searchservlet?query=B07B13/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B07B13/10">
+      <TreeNode Title="B07B13/11 ##包括颗粒在表面上的移动，其分离作用是利用离心力或利用颗粒与表面之间的相对摩擦力，如螺旋分选器[2]" Target="frmContent" Href="../searchservlet?query=B07B13/11&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B07B13/11"/>
+    </TreeNode>
+    <TreeNode Title="B07B13/14 #零件或附件" Target="frmContent" Href="../searchservlet?query=B07B13/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B07B13/14">
+      <TreeNode Title="B07B13/16 ##进料或出料装置" Target="frmContent" Href="../searchservlet?query=B07B13/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B07B13/16"/>
+      <TreeNode Title="B07B13/18 ##控制" Target="frmContent" Href="../searchservlet?query=B07B13/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B07B13/18"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="B07B15/00 通过使用散装材料的干法，如适合于如散装材料处理的松散物品，把固体与固体分离的设备的组合(用气流入B07B 9/00)" Target="frmContent" Href="../searchservlet?query=B07B15/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B07B15/00"/>
+</Root>

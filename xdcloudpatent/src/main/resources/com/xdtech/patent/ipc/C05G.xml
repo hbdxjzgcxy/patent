@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="C05G1/00 分属于C05大类下各小类中肥料的混合物" Target="frmContent" Href="../searchservlet?query=C05G1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C05G1/00">
+    <TreeNode Title="C05G1/02 #过磷酸钙与硝酸铵的" Target="frmContent" Href="../searchservlet?query=C05G1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C05G1/02"/>
+    <TreeNode Title="C05G1/04 #托马斯磷肥与钾化合物的" Target="frmContent" Href="../searchservlet?query=C05G1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C05G1/04"/>
+    <TreeNode Title="C05G1/06 #碱金属或铵的正磷酸盐与硝酸铵或硫酸铵或其他硝酸盐或钾化合物的" Target="frmContent" Href="../searchservlet?query=C05G1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C05G1/06"/>
+    <TreeNode Title="C05G1/08 #硝酸铵与石灰石或碳酸钙的" Target="frmContent" Href="../searchservlet?query=C05G1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C05G1/08"/>
+    <TreeNode Title="C05G1/10 #硫酸铵与钾化合物的" Target="frmContent" Href="../searchservlet?query=C05G1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C05G1/10"/>
+  </TreeNode>
+  <TreeNode Title="C05G3/00 一种或多种肥料与无特殊肥效组分的混合物" Target="frmContent" Href="../searchservlet?query=C05G3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C05G3/00">
+    <TreeNode Title="C05G3/02 #含有杀虫剂的" Target="frmContent" Href="../searchservlet?query=C05G3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C05G3/02"/>
+    <TreeNode Title="C05G3/04 #含有土壤调理剂的" Target="frmContent" Href="../searchservlet?query=C05G3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C05G3/04"/>
+    <TreeNode Title="C05G3/06 #含有润湿剂的" Target="frmContent" Href="../searchservlet?query=C05G3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C05G3/06"/>
+    <TreeNode Title="C05G3/08 #含有影响铵化合物或尿素在土壤中硝化作用的物质的" Target="frmContent" Href="../searchservlet?query=C05G3/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C05G3/08"/>
+    <TreeNode Title="C05G3/10 #有防止粉化涂层的[4]" Target="frmContent" Href="../searchservlet?query=C05G3/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C05G3/10"/>
+  </TreeNode>
+  <TreeNode Title="C05G5/00 以形状为特征的肥料(以化学组成为特征的肥料造粒见C05B至C05G中的有关组) [4]" Target="frmContent" Href="../searchservlet?query=C05G5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C05G5/00"/>
+</Root>

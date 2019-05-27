@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="B63J1/00 制淡水设备的配置，例如通过海水汽化和冷凝" Target="frmContent" Href="../searchservlet?query=B63J1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63J1/00"/>
+  <TreeNode Title="B63J2/00 通风、加热、冷却或空气调节设备的配置(一般车用的入B60H；用于清洗液舱的通风设备入B63B 57/04；用于水下船只的，例如用于潜艇的入B63G 8/36)" Target="frmContent" Href="../searchservlet?query=B63J2/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63J2/00">
+    <TreeNode Title="B63J2/02 # 通风；空气调节" Target="frmContent" Href="../searchservlet?query=B63J2/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63J2/02">
+      <TreeNode Title="B63J2/04 ##居住舱室的" Target="frmContent" Href="../searchservlet?query=B63J2/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63J2/04"/>
+      <TreeNode Title="B63J2/06 ##机舱的" Target="frmContent" Href="../searchservlet?query=B63J2/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63J2/06"/>
+      <TreeNode Title="B63J2/08 ##货舱底舱的(装载液体货物的舱加热或冷却入B63J 2/14；船内用于冷藏货物的装置入B63B 25/26)" Target="frmContent" Href="../searchservlet?query=B63J2/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63J2/08"/>
+      <TreeNode Title="B63J2/10 ##通风管道；进气口(用于舷窗的入B63B 19/04)" Target="frmContent" Href="../searchservlet?query=B63J2/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63J2/10"/>
+    </TreeNode>
+    <TreeNode Title="B63J2/12 # 加热；冷却" Target="frmContent" Href="../searchservlet?query=B63J2/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63J2/12">
+      <TreeNode Title="B63J2/14 ##装载液体货物的舱的" Target="frmContent" Href="../searchservlet?query=B63J2/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63J2/14"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="B63J3/00 辅助设备的驱动(传动装置部件本身入F16)" Target="frmContent" Href="../searchservlet?query=B63J3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63J3/00">
+    <TreeNode Title="B63J3/02 # 由推进动力设备驱动的" Target="frmContent" Href="../searchservlet?query=B63J3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63J3/02"/>
+    <TreeNode Title="B63J3/04 # 由除推进动力设备外的其他动力设备驱动的" Target="frmContent" Href="../searchservlet?query=B63J3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63J3/04"/>
+  </TreeNode>
+  <TreeNode Title="B63J4/00 废水或污水处理用的设备的配置(污水排出装置入B63B 29/16)[3]" Target="frmContent" Href="../searchservlet?query=B63J4/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63J4/00"/>
+  <TreeNode Title="B63J99/00 本小类其他各组中不包括的技术主题[2009.01]" Target="frmContent" Href="../searchservlet?query=B63J99/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B63J99/00"/>
+</Root>

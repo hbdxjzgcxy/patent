@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="A01J1/00 用手挤奶的装置或辅助设备(挤奶凳入A47C 9/04)" Target="frmContent" Href="../searchservlet?query=A01J1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01J1/00"/>
+  <TreeNode Title="A01J3/00 用导管挤奶" Target="frmContent" Href="../searchservlet?query=A01J3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01J3/00"/>
+  <TreeNode Title="A01J5/00 挤奶机械或设备(A01J 1/00，A01J 3/00 优先；挤奶站入A01K 1/12)" Target="frmContent" Href="../searchservlet?query=A01J5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01J5/00">
+    <TreeNode Title="A01J5/003 #移动式挤奶机 [6]" Target="frmContent" Href="../searchservlet?query=A01J5/003&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01J5/003"/>
+    <TreeNode Title="A01J5/007 #监控挤奶过程；挤奶机的控制或调节 [6]" Target="frmContent" Href="../searchservlet?query=A01J5/007&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01J5/007">
+      <TreeNode Title="A01J5/01 ##奶量计；奶流量传感装置 [6]" Target="frmContent" Href="../searchservlet?query=A01J5/01&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01J5/01"/>
+    </TreeNode>
+    <TreeNode Title="A01J5/013 #从奶中现场检测乳腺炎 [6]" Target="frmContent" Href="../searchservlet?query=A01J5/013&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01J5/013"/>
+    <TreeNode Title="A01J5/017 #元件组的自动安装或拆卸 [6]" Target="frmContent" Href="../searchservlet?query=A01J5/017&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01J5/017"/>
+    <TreeNode Title="A01J5/02 #机械按摩乳头的" Target="frmContent" Href="../searchservlet?query=A01J5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01J5/02"/>
+    <TreeNode Title="A01J5/04 #气动按摩乳头的" Target="frmContent" Href="../searchservlet?query=A01J5/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01J5/04">
+      <TreeNode Title="A01J5/06 ##单室型挤奶杯" Target="frmContent" Href="../searchservlet?query=A01J5/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01J5/06"/>
+      <TreeNode Title="A01J5/08 ##双室型挤奶杯" Target="frmContent" Href="../searchservlet?query=A01J5/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01J5/08"/>
+      <TreeNode Title="A01J5/10 ##与挤奶杯分装的脉动器" Target="frmContent" Href="../searchservlet?query=A01J5/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01J5/10">
+        <TreeNode Title="A01J5/12 ###带薄膜的" Target="frmContent" Href="../searchservlet?query=A01J5/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01J5/12"/>
+        <TreeNode Title="A01J5/14 ###电磁控制的" Target="frmContent" Href="../searchservlet?query=A01J5/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01J5/14"/>
+      </TreeNode>
+      <TreeNode Title="A01J5/16 ##带脉动装置的挤奶杯" Target="frmContent" Href="../searchservlet?query=A01J5/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01J5/16"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="A01J7/00 挤奶机械或设备的附件(挤奶站入A01K 1/12) [5，6]" Target="frmContent" Href="../searchservlet?query=A01J7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01J7/00">
+    <TreeNode Title="A01J7/02 #用于清洗或消毒挤奶机械或设备(挤奶机械的管道内表面的清洗入B08B 9/027) [6]" Target="frmContent" Href="../searchservlet?query=A01J7/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01J7/02"/>
+    <TreeNode Title="A01J7/04 #用于乳房或乳头的处理，例如，清洗 [6]" Target="frmContent" Href="../searchservlet?query=A01J7/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01J7/04"/>
+  </TreeNode>
+  <TreeNode Title="A01J9/00 盛奶器(容器一般入B65D；容器的倾斜和倒空的装置入B65G 65/23)" Target="frmContent" Href="../searchservlet?query=A01J9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01J9/00">
+    <TreeNode Title="A01J9/02 #带粗滤或滤清装置的" Target="frmContent" Href="../searchservlet?query=A01J9/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01J9/02"/>
+    <TreeNode Title="A01J9/04 #带冷却设备的" Target="frmContent" Href="../searchservlet?query=A01J9/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01J9/04"/>
+    <TreeNode Title="A01J9/06 #带自关式阀门的" Target="frmContent" Href="../searchservlet?query=A01J9/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01J9/06"/>
+    <TreeNode Title="A01J9/08 #盛奶器的保持或支撑装置" Target="frmContent" Href="../searchservlet?query=A01J9/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01J9/08"/>
+    <TreeNode Title="A01J9/10 #与挤奶凳相联结的挤奶桶" Target="frmContent" Href="../searchservlet?query=A01J9/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01J9/10"/>
+  </TreeNode>
+  <TreeNode Title="A01J11/00 处理奶的设备(保藏或消毒入A23C)" Target="frmContent" Href="../searchservlet?query=A01J11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01J11/00">
+    <TreeNode Title="A01J11/02 #防止或消除泡沫的设备(防止奶在厨房熬煮器具里沸溢入A47J 27/56；防止在煮沸装置里起泡沫入B01B 1/02)" Target="frmContent" Href="../searchservlet?query=A01J11/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01J11/02"/>
+    <TreeNode Title="A01J11/04 #奶的充气或脱泡装置(奶用离心机入B04B)" Target="frmContent" Href="../searchservlet?query=A01J11/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01J11/04"/>
+    <TreeNode Title="A01J11/06 #奶粗滤或滤清器(过滤材料入B01D)" Target="frmContent" Href="../searchservlet?query=A01J11/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01J11/06">
+      <TreeNode Title="A01J11/08 ##粗滤器或布滤清器的支架" Target="frmContent" Href="../searchservlet?query=A01J11/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01J11/08"/>
+    </TreeNode>
+    <TreeNode Title="A01J11/10 #分离奶和奶油(奶用离心机入B04B)" Target="frmContent" Href="../searchservlet?query=A01J11/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01J11/10">
+      <TreeNode Title="A01J11/12 ##取出奶油的装置" Target="frmContent" Href="../searchservlet?query=A01J11/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01J11/12">
+        <TreeNode Title="A01J11/14 ###用使奶液面升起的方法" Target="frmContent" Href="../searchservlet?query=A01J11/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01J11/14"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="A01J11/16 #奶的均质(均质一般入B01F)" Target="frmContent" Href="../searchservlet?query=A01J11/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01J11/16"/>
+  </TreeNode>
+  <TreeNode Title="A01J13/00 处理奶油的容器" Target="frmContent" Href="../searchservlet?query=A01J13/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01J13/00"/>
+  <TreeNode Title="A01J15/00 提制黄油" Target="frmContent" Href="../searchservlet?query=A01J15/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01J15/00">
+    <TreeNode Title="A01J15/02 #带搅打装置的固定式搅乳器" Target="frmContent" Href="../searchservlet?query=A01J15/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01J15/02"/>
+    <TreeNode Title="A01J15/04 #旋转式或振荡式搅乳器" Target="frmContent" Href="../searchservlet?query=A01J15/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01J15/04">
+      <TreeNode Title="A01J15/06 ##有可相对于搅乳器壁转动的搅打器的" Target="frmContent" Href="../searchservlet?query=A01J15/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01J15/06"/>
+      <TreeNode Title="A01J15/08 ##没有可相对于搅乳器壁转动的搅打器的" Target="frmContent" Href="../searchservlet?query=A01J15/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01J15/08"/>
+    </TreeNode>
+    <TreeNode Title="A01J15/10 #除用搅乳器以外的其他提制黄油的装置" Target="frmContent" Href="../searchservlet?query=A01J15/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01J15/10">
+      <TreeNode Title="A01J15/12 ##在连续流程中制作黄油的装置" Target="frmContent" Href="../searchservlet?query=A01J15/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01J15/12"/>
+    </TreeNode>
+    <TreeNode Title="A01J15/14 #带吹入空气提制黄油装置的搅乳器" Target="frmContent" Href="../searchservlet?query=A01J15/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01J15/14"/>
+    <TreeNode Title="A01J15/16 #零部件；附件" Target="frmContent" Href="../searchservlet?query=A01J15/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01J15/16">
+      <TreeNode Title="A01J15/18 ##脱泡装置" Target="frmContent" Href="../searchservlet?query=A01J15/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01J15/18"/>
+      <TreeNode Title="A01J15/20 ##结合旋转计数器的；结合报警信号装置的" Target="frmContent" Href="../searchservlet?query=A01J15/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01J15/20"/>
+      <TreeNode Title="A01J15/22 ##搅乳器的盖或罩" Target="frmContent" Href="../searchservlet?query=A01J15/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01J15/22"/>
+      <TreeNode Title="A01J15/24 ##搅乳器的搅打器" Target="frmContent" Href="../searchservlet?query=A01J15/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01J15/24"/>
+      <TreeNode Title="A01J15/25 ##从搅乳器或类似设备中取出黄油的装置(其所用的泵入F04)" Target="frmContent" Href="../searchservlet?query=A01J15/25&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01J15/25"/>
+    </TreeNode>
+    <TreeNode Title="A01J15/26 #分离、搅拌和揉制联合装置" Target="frmContent" Href="../searchservlet?query=A01J15/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01J15/26"/>
+    <TreeNode Title="A01J15/28 #驱动机构" Target="frmContent" Href="../searchservlet?query=A01J15/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01J15/28"/>
+  </TreeNode>
+  <TreeNode Title="A01J17/00 黄油或类似物的揉制机(制备面团的混合或揉合机械入A21C 1/00)" Target="frmContent" Href="../searchservlet?query=A01J17/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01J17/00"/>
+  <TreeNode Title="A01J19/00 黄油块或类似物成型的手动工具" Target="frmContent" Href="../searchservlet?query=A01J19/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01J19/00"/>
+  <TreeNode Title="A01J21/00 黄油块或类似物成型的机械" Target="frmContent" Href="../searchservlet?query=A01J21/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01J21/00">
+    <TreeNode Title="A01J21/02 #带挤压装置和切割装置的，带或不带包装装置的" Target="frmContent" Href="../searchservlet?query=A01J21/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01J21/02"/>
+  </TreeNode>
+  <TreeNode Title="A01J23/00 大块黄油或类似物的分割装置" Target="frmContent" Href="../searchservlet?query=A01J23/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01J23/00"/>
+  <TreeNode Title="A01J25/00 奶酪制作(奶酪涂层入A01J 27/02)" Target="frmContent" Href="../searchservlet?query=A01J25/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01J25/00">
+    <TreeNode Title="A01J25/02 #奶酪盆" Target="frmContent" Href="../searchservlet?query=A01J25/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01J25/02">
+      <TreeNode Title="A01J25/04 ##清洗奶酪盆的装置" Target="frmContent" Href="../searchservlet?query=A01J25/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01J25/04"/>
+    </TreeNode>
+    <TreeNode Title="A01J25/06 #分离凝乳的装置" Target="frmContent" Href="../searchservlet?query=A01J25/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01J25/06"/>
+    <TreeNode Title="A01J25/08 #从盆里取出奶酪的装置" Target="frmContent" Href="../searchservlet?query=A01J25/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01J25/08"/>
+    <TreeNode Title="A01J25/10 #从盆里取出乳清的装置" Target="frmContent" Href="../searchservlet?query=A01J25/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01J25/10"/>
+    <TreeNode Title="A01J25/11 #分离乳清和凝乳；冲洗凝乳" Target="frmContent" Href="../searchservlet?query=A01J25/11&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01J25/11"/>
+    <TreeNode Title="A01J25/12 #奶酪成型" Target="frmContent" Href="../searchservlet?query=A01J25/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01J25/12">
+      <TreeNode Title="A01J25/13 ##所用模具" Target="frmContent" Href="../searchservlet?query=A01J25/13&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01J25/13"/>
+      <TreeNode Title="A01J25/15 ##所用压机" Target="frmContent" Href="../searchservlet?query=A01J25/15&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01J25/15"/>
+    </TreeNode>
+    <TreeNode Title="A01J25/16 #奶酪催熟过程中的处理装置" Target="frmContent" Href="../searchservlet?query=A01J25/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01J25/16"/>
+  </TreeNode>
+  <TreeNode Title="A01J27/00 奶酪的后期处理；奶酪涂层" Target="frmContent" Href="../searchservlet?query=A01J27/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01J27/00">
+    <TreeNode Title="A01J27/02 #奶酪涂层，例如涂以石蜡(表面涂液体或其他流体材料一般入B05)" Target="frmContent" Href="../searchservlet?query=A01J27/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01J27/02"/>
+    <TreeNode Title="A01J27/04 #奶酪的磨粉或重制" Target="frmContent" Href="../searchservlet?query=A01J27/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01J27/04"/>
+  </TreeNode>
+  <TreeNode Title="A01J99/00 本小类的其他组中不包含的技术主题 [8]" Target="frmContent" Href="../searchservlet?query=A01J99/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01J99/00"/>
+</Root>

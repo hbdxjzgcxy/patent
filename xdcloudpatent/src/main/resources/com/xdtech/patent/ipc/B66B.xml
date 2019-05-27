@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="B66B1/00 一般升降机的控制系统(安全装置入B66B 5/00；控制轿厢门或厅门入B66B 13/00；一般应用的系统入G05)" Target="frmContent" Href="../searchservlet?query=B66B1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B66B1/00">
+    <TreeNode Title="B66B1/02 # 无调节的控制系统，即无反馈作用的" Target="frmContent" Href="../searchservlet?query=B66B1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B66B1/02">
+      <TreeNode Title="B66B1/04 ##液压的" Target="frmContent" Href="../searchservlet?query=B66B1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B66B1/04"/>
+      <TreeNode Title="B66B1/06 ##电气的" Target="frmContent" Href="../searchservlet?query=B66B1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B66B1/06">
+        <TreeNode Title="B66B1/08 ###在轿厢或罐笼内具有直接控制运行的装置，如手把或控制杆" Target="frmContent" Href="../searchservlet?query=B66B1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B66B1/08">
+          <TreeNode Title="B66B1/10 ####专门用于矿井卷扬机的" Target="frmContent" Href="../searchservlet?query=B66B1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B66B1/10"/>
+        </TreeNode>
+        <TreeNode Title="B66B1/12 ###具有装在控制站用于直接控制运动的装置，如手把或控制杆，例如矿井卷扬机电控系统" Target="frmContent" Href="../searchservlet?query=B66B1/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B66B1/12"/>
+        <TreeNode Title="B66B1/14 ###有间接控制运行的装置，如按钮" Target="frmContent" Href="../searchservlet?query=B66B1/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B66B1/14">
+          <TreeNode Title="B66B1/16 ####有存贮脉冲的装置，用以控制单个轿厢或罐笼运行" Target="frmContent" Href="../searchservlet?query=B66B1/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B66B1/16"/>
+          <TreeNode Title="B66B1/18 ####有存贮脉冲的装置，用以控制多个轿厢或罐笼运行" Target="frmContent" Href="../searchservlet?query=B66B1/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B66B1/18">
+            <TreeNode Title="B66B1/20 #####并且具有用于改变作业状态以适应特殊的交通条件的装置，如“高峰交通时的单行线”" Target="frmContent" Href="../searchservlet?query=B66B1/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B66B1/20"/>
+          </TreeNode>
+          <TreeNode Title="B66B1/22 ####具有能考虑延时呼叫的装置" Target="frmContent" Href="../searchservlet?query=B66B1/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B66B1/22"/>
+        </TreeNode>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="B66B1/24 # 可以调节的控制系统，即具有影响运行速度，加速或减速的反馈作用" Target="frmContent" Href="../searchservlet?query=B66B1/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B66B1/24">
+      <TreeNode Title="B66B1/26 ##机械的" Target="frmContent" Href="../searchservlet?query=B66B1/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B66B1/26"/>
+      <TreeNode Title="B66B1/28 ##电气的(检测超速入B66B 5/04)" Target="frmContent" Href="../searchservlet?query=B66B1/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B66B1/28">
+        <TreeNode Title="B66B1/30 ###对驱动机构起作用的" Target="frmContent" Href="../searchservlet?query=B66B1/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B66B1/30"/>
+        <TreeNode Title="B66B1/32 ###对制动机构起作用的" Target="frmContent" Href="../searchservlet?query=B66B1/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B66B1/32"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="B66B1/34 # 零件" Target="frmContent" Href="../searchservlet?query=B66B1/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B66B1/34">
+      <TreeNode Title="B66B1/36 ##在预定高度使轿厢、罐笼或箕斗停止的装置" Target="frmContent" Href="../searchservlet?query=B66B1/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B66B1/36">
+        <TreeNode Title="B66B1/38 ###并有将控制手把或控制杆恢复到零位的装置" Target="frmContent" Href="../searchservlet?query=B66B1/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B66B1/38"/>
+        <TreeNode Title="B66B1/40 ###并有校正停靠水平的装置" Target="frmContent" Href="../searchservlet?query=B66B1/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B66B1/40">
+          <TreeNode Title="B66B1/42 ####与主驱动分开的" Target="frmContent" Href="../searchservlet?query=B66B1/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B66B1/42"/>
+        </TreeNode>
+        <TreeNode Title="B66B1/44 ###并考虑到干扰因素的，如载荷重量的变化" Target="frmContent" Href="../searchservlet?query=B66B1/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B66B1/44"/>
+      </TreeNode>
+      <TreeNode Title="B66B1/46 ##开关或开关装置的匹配(一般开关或开关装置，用于停靠层的开关或开关装置入H01H；控制盘或开关布置入H02B 1/015)" Target="frmContent" Href="../searchservlet?query=B66B1/46&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B66B1/46">
+        <TreeNode Title="B66B1/48 ###机械操纵限位开关的匹配(用于起重机的入B66C 13/50；用于卷扬机构的入B66D 1/56)" Target="frmContent" Href="../searchservlet?query=B66B1/48&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B66B1/48"/>
+        <TreeNode Title="B66B1/50 ###具有安装在轿厢或罐笼内的，或在电梯井道或卷扬通道内的操纵或控制机构的" Target="frmContent" Href="../searchservlet?query=B66B1/50&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B66B1/50"/>
+        <TreeNode Title="B66B1/52 ###选层器" Target="frmContent" Href="../searchservlet?query=B66B1/52&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B66B1/52"/>
+      </TreeNode>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="B66B3/00 用于显示或以信号表示升降机运行状况的装置的应用" Target="frmContent" Href="../searchservlet?query=B66B3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B66B3/00">
+    <TreeNode Title="B66B3/02 # 位置或深度指示器" Target="frmContent" Href="../searchservlet?query=B66B3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B66B3/02"/>
+  </TreeNode>
+  <TreeNode Title="B66B5/00 升降机中检测、故障纠正或安全装置的应用(" Target="frmContent" Href="../searchservlet?query=B66B5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B66B5/00">
+    <TreeNode Title="B66B5/02 # 在不正常运行状态时响应的" Target="frmContent" Href="../searchservlet?query=B66B5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B66B5/02">
+      <TreeNode Title="B66B5/04 ##用于检测超速的" Target="frmContent" Href="../searchservlet?query=B66B5/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B66B5/04">
+        <TreeNode Title="B66B5/06 ###电气的" Target="frmContent" Href="../searchservlet?query=B66B5/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B66B5/06"/>
+      </TreeNode>
+      <TreeNode Title="B66B5/08 ##用于防止卷扬过头的" Target="frmContent" Href="../searchservlet?query=B66B5/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B66B5/08">
+        <TreeNode Title="B66B5/10 ###电气的" Target="frmContent" Href="../searchservlet?query=B66B5/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B66B5/10"/>
+      </TreeNode>
+      <TreeNode Title="B66B5/12 ##万一钢绳或钢缆松弛时" Target="frmContent" Href="../searchservlet?query=B66B5/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B66B5/12"/>
+      <TreeNode Title="B66B5/14 ##万一过载时" Target="frmContent" Href="../searchservlet?query=B66B5/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B66B5/14"/>
+      <TreeNode Title="B66B5/16 ##在轿厢、罐笼或箕斗与固定导向元件或卷扬通道或电梯井道内表面之间作用的制动装置或掣爪装置" Target="frmContent" Href="../searchservlet?query=B66B5/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B66B5/16">
+        <TreeNode Title="B66B5/18 ###并且利用摩擦制动力的" Target="frmContent" Href="../searchservlet?query=B66B5/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B66B5/18">
+          <TreeNode Title="B66B5/20 ####利用可回转的偏心安装的元件(B66B 5/24优先)" Target="frmContent" Href="../searchservlet?query=B66B5/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B66B5/20"/>
+          <TreeNode Title="B66B5/22 ####用能直接移动的楔(B66B 5/24优先)" Target="frmContent" Href="../searchservlet?query=B66B5/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B66B5/22"/>
+          <TreeNode Title="B66B5/24 ####摩擦力作用于导绳或导缆上" Target="frmContent" Href="../searchservlet?query=B66B5/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B66B5/24"/>
+        </TreeNode>
+        <TreeNode Title="B66B5/26 ###强制作用装置，如闩、切断器" Target="frmContent" Href="../searchservlet?query=B66B5/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B66B5/26"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="B66B5/28 # 用于轿厢、罐笼或箕斗的缓冲停止器" Target="frmContent" Href="../searchservlet?query=B66B5/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B66B5/28"/>
+  </TreeNode>
+  <TreeNode Title="B66B7/00 升降机的其他一般特性" Target="frmContent" Href="../searchservlet?query=B66B7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B66B7/00">
+    <TreeNode Title="B66B7/02 # 导轨；导向件(在矿井内的布置入E21D 7/02)" Target="frmContent" Href="../searchservlet?query=B66B7/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B66B7/02">
+      <TreeNode Title="B66B7/04 ##导靴；导辊" Target="frmContent" Href="../searchservlet?query=B66B7/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B66B7/04"/>
+    </TreeNode>
+    <TreeNode Title="B66B7/06 # 钢绳或钢缆的布置" Target="frmContent" Href="../searchservlet?query=B66B7/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B66B7/06">
+      <TreeNode Title="B66B7/08 ##用于与轿厢或罐笼的连接，如连接器" Target="frmContent" Href="../searchservlet?query=B66B7/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B66B7/08"/>
+      <TreeNode Title="B66B7/10 ##用于均衡钢绳或钢缆的张力" Target="frmContent" Href="../searchservlet?query=B66B7/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B66B7/10"/>
+    </TreeNode>
+    <TreeNode Title="B66B7/12 # 检查、润滑或清洁钢绳、钢缆或导向件的装置" Target="frmContent" Href="../searchservlet?query=B66B7/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B66B7/12"/>
+  </TreeNode>
+  <TreeNode Title="B66B9/00 在楼房或其他建筑物内的，或与之配合的电梯的种类和形式(以控制系统为特点的入B66B 1/00；在剧场舞台上用来升降人员的装置入A63J 5/12)" Target="frmContent" Href="../searchservlet?query=B66B9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B66B9/00">
+    <TreeNode Title="B66B9/02 # 除了钢绳或钢缆以外的机械操纵的" Target="frmContent" Href="../searchservlet?query=B66B9/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B66B9/02"/>
+    <TreeNode Title="B66B9/04 # 用气动或液压操纵的(短程升降的平台入B66F 7/00)" Target="frmContent" Href="../searchservlet?query=B66B9/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B66B9/04"/>
+    <TreeNode Title="B66B9/06 # 倾斜的，如供高炉用的" Target="frmContent" Href="../searchservlet?query=B66B9/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B66B9/06">
+      <TreeNode Title="B66B9/08 ##与楼梯配合的，如用于输送病残人员" Target="frmContent" Href="../searchservlet?query=B66B9/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B66B9/08"/>
+    </TreeNode>
+    <TreeNode Title="B66B9/10 # 链斗式的(具有向隔室内或从隔室内向外转送货物的装置入B65G 17/00)" Target="frmContent" Href="../searchservlet?query=B66B9/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B66B9/10"/>
+    <TreeNode Title="B66B9/16 # 专门用于从楼房或其他建筑物的一个部位向另一部位或向另一楼房或建筑物位移的移动式的或可搬运的升降机(以装载或卸载为目的的升降散料或重货物的装置入B66F 9/00；如叉车入B66F 9/06)" Target="frmContent" Href="../searchservlet?query=B66B9/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B66B9/16">
+      <TreeNode Title="B66B9/187 ##具有专门适于临时性地与一楼房或其他建筑物相连的井道(B66B 9/193优先)[6]" Target="frmContent" Href="../searchservlet?query=B66B9/187&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B66B9/187"/>
+      <TreeNode Title="B66B9/193 ##具有倾斜的井道[6]" Target="frmContent" Href="../searchservlet?query=B66B9/193&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B66B9/193"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="B66B11/00 在楼房或其他建筑物内，或与之配合的电梯的主要部件" Target="frmContent" Href="../searchservlet?query=B66B11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B66B11/00">
+    <TreeNode Title="B66B11/02 # 轿厢(控制出入轿厢的门、厅门或其他装置入B66B 13/00)" Target="frmContent" Href="../searchservlet?query=B66B11/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B66B11/02"/>
+    <TreeNode Title="B66B11/04 # 驱动机构" Target="frmContent" Href="../searchservlet?query=B66B11/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B66B11/04">
+      <TreeNode Title="B66B11/06 ##卷扬钢绳或钢缆固定地连结在卷筒上的" Target="frmContent" Href="../searchservlet?query=B66B11/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B66B11/06"/>
+      <TreeNode Title="B66B11/08 ##卷扬钢绳或钢缆与卷筒或滑轮之间由摩擦作用驱动的" Target="frmContent" Href="../searchservlet?query=B66B11/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B66B11/08"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="B66B13/00 控制进出轿厢或电梯井道层口的门、厅门或其他装置(门的附件，锁入E05)" Target="frmContent" Href="../searchservlet?query=B66B13/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B66B13/00">
+    <TreeNode Title="B66B13/02 # 轿厢门或厅门的操纵(一般的门入E05F)" Target="frmContent" Href="../searchservlet?query=B66B13/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B66B13/02">
+      <TreeNode Title="B66B13/04 ##翼扇式门" Target="frmContent" Href="../searchservlet?query=B66B13/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B66B13/04"/>
+      <TreeNode Title="B66B13/06 ##滑移式门" Target="frmContent" Href="../searchservlet?query=B66B13/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B66B13/06">
+        <TreeNode Title="B66B13/08 ###水平移动导向的" Target="frmContent" Href="../searchservlet?query=B66B13/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B66B13/08"/>
+        <TreeNode Title="B66B13/10 ###利用轿厢或罐笼的移动" Target="frmContent" Href="../searchservlet?query=B66B13/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B66B13/10"/>
+      </TreeNode>
+      <TreeNode Title="B66B13/12 ##使轿厢门或厅门同时开启或关闭的装置" Target="frmContent" Href="../searchservlet?query=B66B13/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B66B13/12"/>
+      <TreeNode Title="B66B13/14 ##控制系统或装置" Target="frmContent" Href="../searchservlet?query=B66B13/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B66B13/14">
+        <TreeNode Title="B66B13/16 ###由轿厢的状况，如轿厢的移动或位置来控制的，或主要由它来控制的轿厢门或厅门的闭锁装置" Target="frmContent" Href="../searchservlet?query=B66B13/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B66B13/16">
+          <TreeNode Title="B66B13/18 ####无手动操纵的，完成闭锁或开启门的装置" Target="frmContent" Href="../searchservlet?query=B66B13/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B66B13/18">
+            <TreeNode Title="B66B13/20 #####由轿厢上的支座或突出件机械控制的闭锁机构" Target="frmContent" Href="../searchservlet?query=B66B13/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B66B13/20"/>
+          </TreeNode>
+        </TreeNode>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="B66B13/22 # 轿厢门或厅门的接触控制" Target="frmContent" Href="../searchservlet?query=B66B13/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B66B13/22"/>
+    <TreeNode Title="B66B13/24 # 其他类目不包含的防止电梯夹住乘客的安全装置" Target="frmContent" Href="../searchservlet?query=B66B13/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B66B13/24">
+      <TreeNode Title="B66B13/26 ##在要关闭的门之间的" Target="frmContent" Href="../searchservlet?query=B66B13/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B66B13/26"/>
+      <TreeNode Title="B66B13/28 ##在轿厢或罐笼和井道之间的" Target="frmContent" Href="../searchservlet?query=B66B13/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B66B13/28"/>
+    </TreeNode>
+    <TreeNode Title="B66B13/30 # 厢门或厅门的结构特征(本项应用以外的此类特征入E06B)" Target="frmContent" Href="../searchservlet?query=B66B13/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B66B13/30"/>
+  </TreeNode>
+  <TreeNode Title="B66B15/00 矿井提升机卷扬装置的主要部件" Target="frmContent" Href="../searchservlet?query=B66B15/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B66B15/00">
+    <TreeNode Title="B66B15/02 # 钢绳或钢缆承载件" Target="frmContent" Href="../searchservlet?query=B66B15/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B66B15/02">
+      <TreeNode Title="B66B15/04 ##摩擦轮；“戈培”轮" Target="frmContent" Href="../searchservlet?query=B66B15/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B66B15/04"/>
+      <TreeNode Title="B66B15/06 ##卷筒" Target="frmContent" Href="../searchservlet?query=B66B15/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B66B15/06"/>
+    </TreeNode>
+    <TreeNode Title="B66B15/08 # 驱动机构" Target="frmContent" Href="../searchservlet?query=B66B15/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B66B15/08"/>
+  </TreeNode>
+  <TreeNode Title="B66B17/00 井道设备" Target="frmContent" Href="../searchservlet?query=B66B17/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B66B17/00">
+    <TreeNode Title="B66B17/02 # 安装在井架中的(矿山的井架入E04H 12/26)" Target="frmContent" Href="../searchservlet?query=B66B17/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B66B17/02"/>
+    <TreeNode Title="B66B17/04 # 矿井提升机轿厢或罐笼" Target="frmContent" Href="../searchservlet?query=B66B17/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B66B17/04">
+      <TreeNode Title="B66B17/06 ##具有可倾斜平台的" Target="frmContent" Href="../searchservlet?query=B66B17/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B66B17/06"/>
+    </TreeNode>
+    <TreeNode Title="B66B17/08 # 矿井箕斗" Target="frmContent" Href="../searchservlet?query=B66B17/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B66B17/08">
+      <TreeNode Title="B66B17/10 ##适用于运送人员的" Target="frmContent" Href="../searchservlet?query=B66B17/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B66B17/10"/>
+    </TreeNode>
+    <TreeNode Title="B66B17/12 # 配重" Target="frmContent" Href="../searchservlet?query=B66B17/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B66B17/12"/>
+    <TreeNode Title="B66B17/14 # 装载或卸载设备的应用(一般应用入B65G)" Target="frmContent" Href="../searchservlet?query=B66B17/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B66B17/14">
+      <TreeNode Title="B66B17/16 ##用于给矿井提升机轿厢或罐笼装载或卸载的" Target="frmContent" Href="../searchservlet?query=B66B17/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B66B17/16">
+        <TreeNode Title="B66B17/18 ###活动搭板，如用于补偿轿厢或罐笼与停车位置的高低差" Target="frmContent" Href="../searchservlet?query=B66B17/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B66B17/18"/>
+        <TreeNode Title="B66B17/20 ###使车辆直接进出轿厢或罐笼的" Target="frmContent" Href="../searchservlet?query=B66B17/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B66B17/20"/>
+        <TreeNode Title="B66B17/22 ###将车辆固定在轿厢或罐笼里的" Target="frmContent" Href="../searchservlet?query=B66B17/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B66B17/22">
+          <TreeNode Title="B66B17/24 ####安装在轿厢或罐笼上的" Target="frmContent" Href="../searchservlet?query=B66B17/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B66B17/24"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="B66B17/26 ##用于矿井箕斗的装载或卸载的" Target="frmContent" Href="../searchservlet?query=B66B17/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B66B17/26"/>
+      <TreeNode Title="B66B17/28 ##电控制的(一般用于电梯的入B66B 1/06)" Target="frmContent" Href="../searchservlet?query=B66B17/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B66B17/28">
+        <TreeNode Title="B66B17/30 ###用于轿厢或罐笼的" Target="frmContent" Href="../searchservlet?query=B66B17/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B66B17/30"/>
+        <TreeNode Title="B66B17/32 ###用于箕斗的" Target="frmContent" Href="../searchservlet?query=B66B17/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B66B17/32"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="B66B17/34 # 安全提升夹；罐座" Target="frmContent" Href="../searchservlet?query=B66B17/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B66B17/34"/>
+    <TreeNode Title="B66B17/36 # 控制出入轿厢、罐笼或停车层的门或其他装置" Target="frmContent" Href="../searchservlet?query=B66B17/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B66B17/36"/>
+  </TreeNode>
+  <TreeNode Title="B66B19/00 矿井提升机的运行" Target="frmContent" Href="../searchservlet?query=B66B19/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B66B19/00">
+    <TreeNode Title="B66B19/02 # 安装或更换钢绳或钢缆" Target="frmContent" Href="../searchservlet?query=B66B19/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B66B19/02"/>
+    <TreeNode Title="B66B19/04 # 安装或拆下矿井提升机轿厢、罐笼或箕斗" Target="frmContent" Href="../searchservlet?query=B66B19/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B66B19/04"/>
+    <TreeNode Title="B66B19/06 # 信号装置的应用(深度指示器入B66B 3/02；呼叫电讯入G08B)" Target="frmContent" Href="../searchservlet?query=B66B19/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B66B19/06"/>
+  </TreeNode>
+  <TreeNode Title="B66B20/00 不包含在B66B 1/00 至B66B 19/00各组中的升降机[8]自动扶梯或移动人行道[4]" Target="frmContent" Href="../searchservlet?query=B66B20/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B66B20/00"/>
+  <TreeNode Title="B66B21/00 自动扶梯或移动人行道的种类或型式[4]" Target="frmContent" Href="../searchservlet?query=B66B21/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B66B21/00">
+    <TreeNode Title="B66B21/02 # 自动扶梯[4]" Target="frmContent" Href="../searchservlet?query=B66B21/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B66B21/02">
+      <TreeNode Title="B66B21/04 ##直线式[4]" Target="frmContent" Href="../searchservlet?query=B66B21/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B66B21/04"/>
+      <TreeNode Title="B66B21/06 ##螺旋式[4]" Target="frmContent" Href="../searchservlet?query=B66B21/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B66B21/06"/>
+      <TreeNode Title="B66B21/08 ##链斗式升降机，即同时用于爬升与下降的自动扶梯(B66B 21/06优先)[4]" Target="frmContent" Href="../searchservlet?query=B66B21/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B66B21/08"/>
+    </TreeNode>
+    <TreeNode Title="B66B21/10 # 移动人行道[4]" Target="frmContent" Href="../searchservlet?query=B66B21/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B66B21/10">
+      <TreeNode Title="B66B21/12 ##可变速式的[4]" Target="frmContent" Href="../searchservlet?query=B66B21/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B66B21/12"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="B66B23/00 自动扶梯或移动人行道的零部件[4]" Target="frmContent" Href="../searchservlet?query=B66B23/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B66B23/00">
+    <TreeNode Title="B66B23/02 # 驱动装置[4]" Target="frmContent" Href="../searchservlet?query=B66B23/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B66B23/02">
+      <TreeNode Title="B66B23/04 ##用于扶手的[4]" Target="frmContent" Href="../searchservlet?query=B66B23/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B66B23/04">
+        <TreeNode Title="B66B23/06 ###带有使踏板或运输带和扶手同步运行的装置[4]" Target="frmContent" Href="../searchservlet?query=B66B23/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B66B23/06"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="B66B23/08 # 运载表面[4]" Target="frmContent" Href="../searchservlet?query=B66B23/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B66B23/08">
+      <TreeNode Title="B66B23/10 ##运输带[4]" Target="frmContent" Href="../searchservlet?query=B66B23/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B66B23/10"/>
+      <TreeNode Title="B66B23/12 ##踏板[4]" Target="frmContent" Href="../searchservlet?query=B66B23/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B66B23/12"/>
+    </TreeNode>
+    <TreeNode Title="B66B23/14 # 运载表面的导向装置[4]" Target="frmContent" Href="../searchservlet?query=B66B23/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B66B23/14"/>
+    <TreeNode Title="B66B23/16 # 能使环形件张紧的装置[4]" Target="frmContent" Href="../searchservlet?query=B66B23/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B66B23/16">
+      <TreeNode Title="B66B23/18 ##用于运载表面的[4]" Target="frmContent" Href="../searchservlet?query=B66B23/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B66B23/18"/>
+      <TreeNode Title="B66B23/20 ##用于扶手的[4]" Target="frmContent" Href="../searchservlet?query=B66B23/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B66B23/20"/>
+    </TreeNode>
+    <TreeNode Title="B66B23/22 # 扶手栏杆[4]" Target="frmContent" Href="../searchservlet?query=B66B23/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B66B23/22">
+      <TreeNode Title="B66B23/24 ##扶手(其中的驱动装置入B66B 23/02；其张紧装置入B66B 23/16；防止由外来物体堵塞的入B66B 29/04；其附件入B66B 31/02)[4]" Target="frmContent" Href="../searchservlet?query=B66B23/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B66B23/24">
+        <TreeNode Title="B66B23/26 ###可变速式的[4]" Target="frmContent" Href="../searchservlet?query=B66B23/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B66B23/26"/>
+      </TreeNode>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="B66B25/00 自动扶梯或移动人行道的控制(可变速式人行道入B66B 21/12；可变速式扶手入B66B 23/26；一般应用入G05)[4]" Target="frmContent" Href="../searchservlet?query=B66B25/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B66B25/00"/>
+  <TreeNode Title="B66B27/00 自动扶梯或移动人行道运行状态的指示(一般应用入G08)[4]" Target="frmContent" Href="../searchservlet?query=B66B27/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B66B27/00"/>
+  <TreeNode Title="B66B29/00 自动扶梯或移动人行道的安全装置(可变速度式人行道入B66B 21/12；可变速式扶手入B66B 23/26)[4]" Target="frmContent" Href="../searchservlet?query=B66B29/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B66B29/00">
+    <TreeNode Title="B66B29/02 # 对外来物堵塞的响应或防止[4]" Target="frmContent" Href="../searchservlet?query=B66B29/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B66B29/02">
+      <TreeNode Title="B66B29/04 ##用于扶手栏杆或扶手的[4]" Target="frmContent" Href="../searchservlet?query=B66B29/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B66B29/04"/>
+      <TreeNode Title="B66B29/06 ##梳状板[4]" Target="frmContent" Href="../searchservlet?query=B66B29/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B66B29/06"/>
+    </TreeNode>
+    <TreeNode Title="B66B29/08 # 便于乘客出入的装置(移动扶手入B66B 23/24)[4]" Target="frmContent" Href="../searchservlet?query=B66B29/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B66B29/08"/>
+  </TreeNode>
+  <TreeNode Title="B66B31/00 用于自动扶梯或移动人行道的附件，如消毒或清洗(用于安全的入B66B 29/00)[4]" Target="frmContent" Href="../searchservlet?query=B66B31/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B66B31/00">
+    <TreeNode Title="B66B31/02 # 用于扶手的[4]" Target="frmContent" Href="../searchservlet?query=B66B31/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B66B31/02"/>
+  </TreeNode>
+</Root>

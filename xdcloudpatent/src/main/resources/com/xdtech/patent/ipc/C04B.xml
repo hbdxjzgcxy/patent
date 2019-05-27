@@ -1,0 +1,609 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="C04B2/00 石灰、氧化镁或白云石[4]" Target="frmContent" Href="../searchservlet?query=C04B2/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B2/00">
+    <TreeNode Title="C04B2/02 #石灰[4]" Target="frmContent" Href="../searchservlet?query=C04B2/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B2/02">
+      <TreeNode Title="C04B2/04 ##消化[4]" Target="frmContent" Href="../searchservlet?query=C04B2/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B2/04">
+        <TreeNode Title="C04B2/06 ###附加物质，例如疏水剂[4]" Target="frmContent" Href="../searchservlet?query=C04B2/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B2/06"/>
+        <TreeNode Title="C04B2/08 ###消化装置[4]" Target="frmContent" Href="../searchservlet?query=C04B2/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B2/08"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="C04B2/10 #预热，焙烧，煅烧或冷却(水泥原料焙烧时的脱碳入C04B 7/43)[4]" Target="frmContent" Href="../searchservlet?query=C04B2/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B2/10">
+      <TreeNode Title="C04B2/12 ##在竖窑或立式窑中[4]" Target="frmContent" Href="../searchservlet?query=C04B2/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B2/12"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="C04B5/00 熔渣的处理(矿渣棉制造入C03B；与金属生产有关的矿渣的处理入C21B、C22B)；用熔渣制造的人造石(机械部分入B28B 1/54)[4]" Target="frmContent" Href="../searchservlet?query=C04B5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B5/00">
+    <TreeNode Title="C04B5/02 #造粒(造粒设备入B01J 2/00)；脱水；干燥" Target="frmContent" Href="../searchservlet?query=C04B5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B5/02"/>
+    <TreeNode Title="C04B5/06 #加入熔渣中的成分(水除外)；用气体或产生气体的材料处理，例如为制取多孔矿渣[4]" Target="frmContent" Href="../searchservlet?query=C04B5/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B5/06"/>
+  </TreeNode>
+  <TreeNode Title="C04B7/00 水硬性水泥" Target="frmContent" Href="../searchservlet?query=C04B7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B7/00">
+    <TreeNode Title="C04B7/02 #硅酸盐水泥" Target="frmContent" Href="../searchservlet?query=C04B7/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B7/02">
+      <TreeNode Title="C04B7/04 ##使用含石膏的原料" Target="frmContent" Href="../searchservlet?query=C04B7/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B7/04"/>
+      <TreeNode Title="C04B7/06 ##使用碱性原料" Target="frmContent" Href="../searchservlet?query=C04B7/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B7/06"/>
+    </TreeNode>
+    <TreeNode Title="C04B7/12 #天然火山灰；天然火山灰水泥[4]" Target="frmContent" Href="../searchservlet?query=C04B7/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B7/12">
+      <TreeNode Title="C04B7/13 ##与无机黏结材料的混合物，例如硅酸盐水泥[4]" Target="frmContent" Href="../searchservlet?query=C04B7/13&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B7/13"/>
+    </TreeNode>
+    <TreeNode Title="C04B7/14 #含矿渣的水泥" Target="frmContent" Href="../searchservlet?query=C04B7/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B7/14">
+      <TreeNode Title="C04B7/147 ##冶金渣[4]" Target="frmContent" Href="../searchservlet?query=C04B7/147&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B7/147">
+        <TreeNode Title="C04B7/153 ###与其他无机黏结材料或活化剂的混合物[4]" Target="frmContent" Href="../searchservlet?query=C04B7/153&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B7/153">
+          <TreeNode Title="C04B7/17 ####与含有活化剂的氧化钙[4]" Target="frmContent" Href="../searchservlet?query=C04B7/17&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B7/17">
+            <TreeNode Title="C04B7/19 #####硅酸盐水泥[4]" Target="frmContent" Href="../searchservlet?query=C04B7/19&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B7/19"/>
+          </TreeNode>
+          <TreeNode Title="C04B7/21 ####与含有活化剂的硫酸钙[4]" Target="frmContent" Href="../searchservlet?query=C04B7/21&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B7/21"/>
+        </TreeNode>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="C04B7/22 #铁矿石水泥" Target="frmContent" Href="../searchservlet?query=C04B7/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B7/22"/>
+    <TreeNode Title="C04B7/24 #用油页岩、残渣或炉渣之外的废物制造的水泥[4]" Target="frmContent" Href="../searchservlet?query=C04B7/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B7/24">
+      <TreeNode Title="C04B7/26 ##用含烟灰的原料制成的" Target="frmContent" Href="../searchservlet?query=C04B7/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B7/26"/>
+      <TreeNode Title="C04B7/28 ##用燃烧残余物制成的(C04B 7/26优先)[4]" Target="frmContent" Href="../searchservlet?query=C04B7/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B7/28"/>
+      <TreeNode Title="C04B7/30 ##用油页岩制成的；用油页岩残渣制成的[4]" Target="frmContent" Href="../searchservlet?query=C04B7/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B7/30"/>
+    </TreeNode>
+    <TreeNode Title="C04B7/32 #高铝水泥" Target="frmContent" Href="../searchservlet?query=C04B7/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B7/32"/>
+    <TreeNode Title="C04B7/34 #水硬性石灰水泥；罗马水泥" Target="frmContent" Href="../searchservlet?query=C04B7/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B7/34"/>
+    <TreeNode Title="C04B7/345 #不包含在C04B 7/02至C04B 7/34的单独一个小组中的水硬性水泥[4]" Target="frmContent" Href="../searchservlet?query=C04B7/345&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B7/345"/>
+    <TreeNode Title="C04B7/36 #普通水硬性水泥的制造" Target="frmContent" Href="../searchservlet?query=C04B7/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B7/36">
+      <TreeNode Title="C04B7/38 ##单独或作为批料制备或处理原料[4]" Target="frmContent" Href="../searchservlet?query=C04B7/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B7/38">
+        <TreeNode Title="C04B7/40 ###脱水；成型，如造粒(造粒设备入B01J 2/00)" Target="frmContent" Href="../searchservlet?query=C04B7/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B7/40"/>
+        <TreeNode Title="C04B7/42 ###在焙烧过程之前或焙烧过程中加入的有效成分" Target="frmContent" Href="../searchservlet?query=C04B7/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B7/42"/>
+      </TreeNode>
+      <TreeNode Title="C04B7/43 ##热处理，例如预煅烧、焙烧、熔融、冷却[4]" Target="frmContent" Href="../searchservlet?query=C04B7/43&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B7/43">
+        <TreeNode Title="C04B7/44 ###焙烧；熔融[4]" Target="frmContent" Href="../searchservlet?query=C04B7/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B7/44">
+          <TreeNode Title="C04B7/45 ####在流化床中[4]" Target="frmContent" Href="../searchservlet?query=C04B7/45&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B7/45"/>
+          <TreeNode Title="C04B7/46 ####电法[4]" Target="frmContent" Href="../searchservlet?query=C04B7/46&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B7/46"/>
+        </TreeNode>
+        <TreeNode Title="C04B7/47 ###冷却[4]" Target="frmContent" Href="../searchservlet?query=C04B7/47&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B7/47"/>
+      </TreeNode>
+      <TreeNode Title="C04B7/48 ##熟料处理(C04B 7/47优先)[4]" Target="frmContent" Href="../searchservlet?query=C04B7/48&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B7/48">
+        <TreeNode Title="C04B7/51 ###水化[4]" Target="frmContent" Href="../searchservlet?query=C04B7/51&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B7/51"/>
+        <TreeNode Title="C04B7/52 ###粉磨" Target="frmContent" Href="../searchservlet?query=C04B7/52&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B7/52"/>
+      </TreeNode>
+      <TreeNode Title="C04B7/60 ##除去碱金属或其化合物的方法[4]" Target="frmContent" Href="../searchservlet?query=C04B7/60&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B7/60"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="C04B9/00 镁质水泥或类似的水泥" Target="frmContent" Href="../searchservlet?query=C04B9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B9/00">
+    <TreeNode Title="C04B9/02 #含氯化物的镁质水泥，如索勒尔(Sorel)水泥" Target="frmContent" Href="../searchservlet?query=C04B9/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B9/02"/>
+    <TreeNode Title="C04B9/04 #含硫酸盐、硝酸盐、磷酸盐或氟化物的镁质水泥" Target="frmContent" Href="../searchservlet?query=C04B9/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B9/04"/>
+    <TreeNode Title="C04B9/06 #含有除镁化合物之外的金属化合物，例如含锌或铅化合物的水泥" Target="frmContent" Href="../searchservlet?query=C04B9/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B9/06"/>
+    <TreeNode Title="C04B9/11 #与其他无机黏结材料的混合物[4]" Target="frmContent" Href="../searchservlet?query=C04B9/11&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B9/11">
+      <TreeNode Title="C04B9/12 ##与水硬性水泥，例如硅酸盐水泥[4]" Target="frmContent" Href="../searchservlet?query=C04B9/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B9/12"/>
+    </TreeNode>
+    <TreeNode Title="C04B9/20 #制造，例如批料制备(石灰石，菱镁矿或白云石的预热、焙烧、煅烧或冷却入C04B 2/10)" Target="frmContent" Href="../searchservlet?query=C04B9/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B9/20"/>
+  </TreeNode>
+  <TreeNode Title="C04B11/00 硫酸钙水泥" Target="frmContent" Href="../searchservlet?query=C04B11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B11/00">
+    <TreeNode Title="C04B11/02 #石膏的脱水" Target="frmContent" Href="../searchservlet?query=C04B11/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B11/02">
+      <TreeNode Title="C04B11/024 ##在煅烧过程之前或煅烧期间加入的成分，例如煅烧改性剂[4]" Target="frmContent" Href="../searchservlet?query=C04B11/024&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B11/024"/>
+      <TreeNode Title="C04B11/028 ##煅烧设备[4]" Target="frmContent" Href="../searchservlet?query=C04B11/028&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B11/028">
+        <TreeNode Title="C04B11/032 ###用于湿法的，例如在溶液中或在饱和蒸气条件下脱水的[4]" Target="frmContent" Href="../searchservlet?query=C04B11/032&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B11/032"/>
+        <TreeNode Title="C04B11/036 ###用于干法的，例如在流化床中或在回转窑中脱水的[4]" Target="frmContent" Href="../searchservlet?query=C04B11/036&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B11/036"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="C04B11/05 #制取硬石膏(C04B 11/028优先)[4]" Target="frmContent" Href="../searchservlet?query=C04B11/05&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B11/05"/>
+    <TreeNode Title="C04B11/06 #用硬石膏作原料[4]" Target="frmContent" Href="../searchservlet?query=C04B11/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B11/06"/>
+    <TreeNode Title="C04B11/26 #用含磷石膏或废物，例如烟的提纯产物作原料(C04B 11/02优先)[4]" Target="frmContent" Href="../searchservlet?query=C04B11/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B11/26"/>
+    <TreeNode Title="C04B11/28 #与其他无机黏结材料的混合物(C04B 7/04、C04B 7/153优先)[4]" Target="frmContent" Href="../searchservlet?query=C04B11/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B11/28">
+      <TreeNode Title="C04B11/30 ##与水硬性水泥，例如硅酸盐水泥[4]" Target="frmContent" Href="../searchservlet?query=C04B11/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B11/30"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="C04B12/00 不包括在C04B 7/00至C04B 11/00各组中的水泥[4]" Target="frmContent" Href="../searchservlet?query=C04B12/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B12/00">
+    <TreeNode Title="C04B12/02 #磷酸盐水泥[4]" Target="frmContent" Href="../searchservlet?query=C04B12/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B12/02"/>
+    <TreeNode Title="C04B12/04 #碱金属或铵的硅酸盐水泥[4]" Target="frmContent" Href="../searchservlet?query=C04B12/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B12/04"/>
+  </TreeNode>
+  <TreeNode Title="C04B14/00 在砂浆、混凝土或人造石中使用无机材料作为填料，例如颜料；为增强其在砂浆、混凝土或人造石中的填充性能而专门采用的无机材料的处理(建筑物加强件入E04C 5/00)[4]" Target="frmContent" Href="../searchservlet?query=C04B14/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B14/00">
+    <TreeNode Title="C04B14/02 #颗粒材料[4]" Target="frmContent" Href="../searchservlet?query=C04B14/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B14/02">
+      <TreeNode Title="C04B14/04 ##富硅材料；硅酸盐[4]" Target="frmContent" Href="../searchservlet?query=C04B14/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B14/04">
+        <TreeNode Title="C04B14/06 ###石英；砂[4]" Target="frmContent" Href="../searchservlet?query=C04B14/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B14/06"/>
+        <TreeNode Title="C04B14/08 ###硅藻土[4]" Target="frmContent" Href="../searchservlet?query=C04B14/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B14/08"/>
+        <TreeNode Title="C04B14/10 ###黏土[4]" Target="frmContent" Href="../searchservlet?query=C04B14/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B14/10">
+          <TreeNode Title="C04B14/12 ####膨胀黏土[4]" Target="frmContent" Href="../searchservlet?query=C04B14/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B14/12"/>
+        </TreeNode>
+        <TreeNode Title="C04B14/14 ###火成矿物[4]" Target="frmContent" Href="../searchservlet?query=C04B14/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B14/14">
+          <TreeNode Title="C04B14/16 ####多孔的，例如浮石[4]" Target="frmContent" Href="../searchservlet?query=C04B14/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B14/16"/>
+          <TreeNode Title="C04B14/18 ####珍珠岩[4]" Target="frmContent" Href="../searchservlet?query=C04B14/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B14/18"/>
+        </TreeNode>
+        <TreeNode Title="C04B14/20 ###云母；蛭石[4]" Target="frmContent" Href="../searchservlet?query=C04B14/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B14/20"/>
+        <TreeNode Title="C04B14/22 ###玻璃[4]" Target="frmContent" Href="../searchservlet?query=C04B14/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B14/22">
+          <TreeNode Title="C04B14/24 ####多孔的，例如泡沫玻璃[4]" Target="frmContent" Href="../searchservlet?query=C04B14/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B14/24"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="C04B14/26 ##碳酸盐[4]" Target="frmContent" Href="../searchservlet?query=C04B14/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B14/26">
+        <TreeNode Title="C04B14/28 ###钙的[4]" Target="frmContent" Href="../searchservlet?query=C04B14/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B14/28"/>
+      </TreeNode>
+      <TreeNode Title="C04B14/30 ##氧化硅之外的氧化物[4]" Target="frmContent" Href="../searchservlet?query=C04B14/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B14/30"/>
+      <TreeNode Title="C04B14/32 ##碳化物；氮化物；硼化物[4]" Target="frmContent" Href="../searchservlet?query=C04B14/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B14/32"/>
+      <TreeNode Title="C04B14/34 ##金属[4]" Target="frmContent" Href="../searchservlet?query=C04B14/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B14/34"/>
+      <TreeNode Title="C04B14/36 ##不包含在C04B 14/04至C04B 14/34各组的无机材料[4]" Target="frmContent" Href="../searchservlet?query=C04B14/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B14/36"/>
+    </TreeNode>
+    <TreeNode Title="C04B14/38 #纤维材料；晶须[4]" Target="frmContent" Href="../searchservlet?query=C04B14/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B14/38">
+      <TreeNode Title="C04B14/40 ##石棉[4]" Target="frmContent" Href="../searchservlet?query=C04B14/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B14/40"/>
+      <TreeNode Title="C04B14/42 ##玻璃[4]" Target="frmContent" Href="../searchservlet?query=C04B14/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B14/42">
+        <TreeNode Title="C04B14/44 ###提高耐碱性的处理[4]" Target="frmContent" Href="../searchservlet?query=C04B14/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B14/44"/>
+      </TreeNode>
+      <TreeNode Title="C04B14/46 ##矿棉[4]" Target="frmContent" Href="../searchservlet?query=C04B14/46&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B14/46"/>
+      <TreeNode Title="C04B14/48 ##金属[4]" Target="frmContent" Href="../searchservlet?query=C04B14/48&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B14/48"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="C04B16/00 在砂浆、混凝土或人造石中使用有机材料作为填料，例如颜料；为提高其在砂浆、混凝土或人造石中的填充性能而专门采用的有机材料的处理(建筑物加强件入E04C 5/00)[4]" Target="frmContent" Href="../searchservlet?query=C04B16/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B16/00">
+    <TreeNode Title="C04B16/02 #纤维素材料[4]" Target="frmContent" Href="../searchservlet?query=C04B16/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B16/02"/>
+    <TreeNode Title="C04B16/04 #高分子化合物(C04B 16/02优先)[4]" Target="frmContent" Href="../searchservlet?query=C04B16/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B16/04">
+      <TreeNode Title="C04B16/06 ##纤维状[4]" Target="frmContent" Href="../searchservlet?query=C04B16/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B16/06"/>
+      <TreeNode Title="C04B16/08 ##多孔的，例如膨胀聚苯乙烯珠[4]" Target="frmContent" Href="../searchservlet?query=C04B16/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B16/08">
+        <TreeNode Title="C04B16/10 ###提高与砂浆可混性的处理[4]" Target="frmContent" Href="../searchservlet?query=C04B16/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B16/10"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="C04B16/12 #以形状为特征的(纤维状高分子化合物入C04B 16/06；多孔高分子化合物入C04B 16/08)[4]" Target="frmContent" Href="../searchservlet?query=C04B16/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B16/12"/>
+  </TreeNode>
+  <TreeNode Title="C04B18/00 使用烧结料或废料或废物作为砂浆、混凝土或人造石填料；为提高其在砂浆、混凝土或人造石中的填充性能而专门采用的烧结料或废料或废物的处理(建筑物加强件入E04C 5/00)[4]" Target="frmContent" Href="../searchservlet?query=C04B18/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B18/00">
+    <TreeNode Title="C04B18/02 #烧结材料[4]" Target="frmContent" Href="../searchservlet?query=C04B18/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B18/02"/>
+    <TreeNode Title="C04B18/04 #废料；废物[4]" Target="frmContent" Href="../searchservlet?query=C04B18/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B18/04">
+      <TreeNode Title="C04B18/06 ##燃烧残渣，例如烟、烟雾或废气提纯产物[4]" Target="frmContent" Href="../searchservlet?query=C04B18/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B18/06">
+        <TreeNode Title="C04B18/08 ###烟道尘[4]" Target="frmContent" Href="../searchservlet?query=C04B18/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B18/08"/>
+        <TreeNode Title="C04B18/10 ###燃烧废物[4]" Target="frmContent" Href="../searchservlet?query=C04B18/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B18/10"/>
+      </TreeNode>
+      <TreeNode Title="C04B18/12 ##来自采石、采矿或类似的废料[4]" Target="frmContent" Href="../searchservlet?query=C04B18/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B18/12"/>
+      <TreeNode Title="C04B18/14 ##冶金废料(熔渣处理入C04B 5/00)[4]" Target="frmContent" Href="../searchservlet?query=C04B18/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B18/14"/>
+      <TreeNode Title="C04B18/16 ##建筑工业或陶瓷工业中的[4]" Target="frmContent" Href="../searchservlet?query=C04B18/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B18/16"/>
+      <TreeNode Title="C04B18/18 ##有机的(C04B 18/10优先)[4]" Target="frmContent" Href="../searchservlet?query=C04B18/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B18/18">
+        <TreeNode Title="C04B18/20 ###高分子化合物的[4]" Target="frmContent" Href="../searchservlet?query=C04B18/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B18/20">
+          <TreeNode Title="C04B18/22 ####橡胶[4]" Target="frmContent" Href="../searchservlet?query=C04B18/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B18/22"/>
+        </TreeNode>
+        <TreeNode Title="C04B18/24 ###植物废物，例如稻壳、玉米芯废物；纤维素材料，例如纸[4]" Target="frmContent" Href="../searchservlet?query=C04B18/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B18/24">
+          <TreeNode Title="C04B18/26 ####木质的，例如锯末、刨花[4]" Target="frmContent" Href="../searchservlet?query=C04B18/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B18/26"/>
+          <TreeNode Title="C04B18/28 ####矿化；所用的组合物[4]" Target="frmContent" Href="../searchservlet?query=C04B18/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B18/28"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="C04B18/30 ##混合废物；未知组成的废物，例如城市废物(C04B 18/10优先)[4]" Target="frmContent" Href="../searchservlet?query=C04B18/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B18/30"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="C04B20/00 在C04B 14/00至C04B 18/00一个以上的组中作为砂浆、混凝土或人造石或填料使用的，以形状或粒度分布为特点的材料；在C04B 14/00至C04B 18/00一个以上的组中作为增强其在砂浆、混凝土或人造石的填充性能而专门采用的材料的处理；膨胀材料或脱纤维材料(建筑物加强件入E04C 5/00)[4]" Target="frmContent" Href="../searchservlet?query=C04B20/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B20/00">
+    <TreeNode Title="C04B20/02 #处理[4]" Target="frmContent" Href="../searchservlet?query=C04B20/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B20/02">
+      <TreeNode Title="C04B20/04 ##热处理[4]" Target="frmContent" Href="../searchservlet?query=C04B20/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B20/04">
+        <TreeNode Title="C04B20/06 ###膨胀黏土、珍珠岩、蛭石或其他类似的粒状材料[4]" Target="frmContent" Href="../searchservlet?query=C04B20/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B20/06"/>
+      </TreeNode>
+      <TreeNode Title="C04B20/08 ##石棉的脱纤维[4]" Target="frmContent" Href="../searchservlet?query=C04B20/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B20/08"/>
+    </TreeNode>
+    <TreeNode Title="C04B20/10 #涂覆或浸渍[4]" Target="frmContent" Href="../searchservlet?query=C04B20/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B20/10">
+      <TreeNode Title="C04B20/12 ##多层涂覆或浸渍[4]" Target="frmContent" Href="../searchservlet?query=C04B20/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B20/12"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="C04B22/00 使用无机材料作为砂浆、混凝土或人造石的有效成分，例如促凝剂[4]" Target="frmContent" Href="../searchservlet?query=C04B22/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B22/00">
+    <TreeNode Title="C04B22/02 #元素[4]" Target="frmContent" Href="../searchservlet?query=C04B22/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B22/02">
+      <TreeNode Title="C04B22/04 ##金属，例如用作发泡剂的铝[4]" Target="frmContent" Href="../searchservlet?query=C04B22/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B22/04"/>
+    </TreeNode>
+    <TreeNode Title="C04B22/06 #氧化物；氢氧化物[4]" Target="frmContent" Href="../searchservlet?query=C04B22/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B22/06"/>
+    <TreeNode Title="C04B22/08 #酸或其盐类[4]" Target="frmContent" Href="../searchservlet?query=C04B22/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B22/08">
+      <TreeNode Title="C04B22/10 ##阴离子中含碳的，例如碳酸盐[4]" Target="frmContent" Href="../searchservlet?query=C04B22/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B22/10"/>
+      <TreeNode Title="C04B22/12 ##阴离子中含卤素的，例如氯化钙[4]" Target="frmContent" Href="../searchservlet?query=C04B22/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B22/12"/>
+      <TreeNode Title="C04B22/14 ##阴离子中含硫的，例如硫化物[4]" Target="frmContent" Href="../searchservlet?query=C04B22/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B22/14"/>
+      <TreeNode Title="C04B22/16 ##阴离子中含磷的，例如磷酸盐[4]" Target="frmContent" Href="../searchservlet?query=C04B22/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B22/16"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="C04B24/00 使用有机材料作为砂浆、混凝土或人造石的有效成分，例如增塑剂[4]" Target="frmContent" Href="../searchservlet?query=C04B24/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B24/00">
+    <TreeNode Title="C04B24/02 #醇类；酚类；醚类[4]" Target="frmContent" Href="../searchservlet?query=C04B24/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B24/02"/>
+    <TreeNode Title="C04B24/04 #羧酸；它们的盐、酸酐或酯[4]" Target="frmContent" Href="../searchservlet?query=C04B24/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B24/04">
+      <TreeNode Title="C04B24/06 ##含羟基的[4]" Target="frmContent" Href="../searchservlet?query=C04B24/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B24/06"/>
+    </TreeNode>
+    <TreeNode Title="C04B24/08 #脂肪；脂肪油；酯蜡；高级脂肪酸，即在与羧基连接的一个未断链上至少有7个碳原子；经氧化的油或脂肪[4]" Target="frmContent" Href="../searchservlet?query=C04B24/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B24/08"/>
+    <TreeNode Title="C04B24/10 #碳水化合物或其衍生物[4]" Target="frmContent" Href="../searchservlet?query=C04B24/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B24/10"/>
+    <TreeNode Title="C04B24/12 #含氮化合物[4]" Target="frmContent" Href="../searchservlet?query=C04B24/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B24/12">
+      <TreeNode Title="C04B24/14 ##肽；蛋白质；它们的衍生物[4]" Target="frmContent" Href="../searchservlet?query=C04B24/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B24/14"/>
+    </TreeNode>
+    <TreeNode Title="C04B24/16 #含硫化合物[4]" Target="frmContent" Href="../searchservlet?query=C04B24/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B24/16">
+      <TreeNode Title="C04B24/18 ##木质素磺酸或其衍生物，例如亚硫酸盐碱液[4]" Target="frmContent" Href="../searchservlet?query=C04B24/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B24/18"/>
+      <TreeNode Title="C04B24/20 ##磺化的芳族化合物[4]" Target="frmContent" Href="../searchservlet?query=C04B24/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B24/20">
+        <TreeNode Title="C04B24/22 ###它们的缩合物[4]" Target="frmContent" Href="../searchservlet?query=C04B24/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B24/22"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="C04B24/24 #高分子化合物(C04B 24/14优先；包含磺酸盐或硫酸盐的高分子化合物入C04B 24/16)[4，6]" Target="frmContent" Href="../searchservlet?query=C04B24/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B24/24">
+      <TreeNode Title="C04B24/26 ##仅由碳-碳不饱和键反应得到的[4]" Target="frmContent" Href="../searchservlet?query=C04B24/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B24/26"/>
+      <TreeNode Title="C04B24/28 ##不仅由碳-碳不饱和键反应得到的[4]" Target="frmContent" Href="../searchservlet?query=C04B24/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B24/28">
+        <TreeNode Title="C04B24/30 ###醛或酮的缩聚物[4]" Target="frmContent" Href="../searchservlet?query=C04B24/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B24/30"/>
+        <TreeNode Title="C04B24/32 ###聚醚，例如烷基酚聚乙二醇醚[4]" Target="frmContent" Href="../searchservlet?query=C04B24/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B24/32"/>
+      </TreeNode>
+      <TreeNode Title="C04B24/34 ##天然树脂，例如松香[4]" Target="frmContent" Href="../searchservlet?query=C04B24/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B24/34"/>
+      <TreeNode Title="C04B24/36 ##沥青材料，例如焦油、沥青[4]" Target="frmContent" Href="../searchservlet?query=C04B24/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B24/36"/>
+      <TreeNode Title="C04B24/38 ##多糖或其衍生物[4]" Target="frmContent" Href="../searchservlet?query=C04B24/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B24/38"/>
+    </TreeNode>
+    <TreeNode Title="C04B24/40 #含硅、钛或锆的化合物[4]" Target="frmContent" Href="../searchservlet?query=C04B24/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B24/40">
+      <TreeNode Title="C04B24/42 ##含有1个或多个碳-硅键的化合物[4]" Target="frmContent" Href="../searchservlet?query=C04B24/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B24/42"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="C04B26/00 只含有机黏结剂的砂浆、混凝土或人造石的组合物[4]" Target="frmContent" Href="../searchservlet?query=C04B26/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B26/00">
+    <TreeNode Title="C04B26/02 #高分子化合物[4]" Target="frmContent" Href="../searchservlet?query=C04B26/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B26/02">
+      <TreeNode Title="C04B26/04 ##仅由碳-碳不饱和键反应得到的[4]" Target="frmContent" Href="../searchservlet?query=C04B26/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B26/04">
+        <TreeNode Title="C04B26/06 ###丙烯酸盐[4]" Target="frmContent" Href="../searchservlet?query=C04B26/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B26/06"/>
+        <TreeNode Title="C04B26/08 ###含卤素的[4]" Target="frmContent" Href="../searchservlet?query=C04B26/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B26/08"/>
+      </TreeNode>
+      <TreeNode Title="C04B26/10 ##不仅由碳-碳不饱和键反应得到的[4]" Target="frmContent" Href="../searchservlet?query=C04B26/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B26/10">
+        <TreeNode Title="C04B26/12 ###醛或酮的缩聚物[4]" Target="frmContent" Href="../searchservlet?query=C04B26/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B26/12"/>
+        <TreeNode Title="C04B26/14 ###聚环氧化合物[4]" Target="frmContent" Href="../searchservlet?query=C04B26/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B26/14"/>
+        <TreeNode Title="C04B26/16 ###聚氨基甲酸酯[4]" Target="frmContent" Href="../searchservlet?query=C04B26/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B26/16"/>
+        <TreeNode Title="C04B26/18 ###聚酯；聚碳酸酯[4]" Target="frmContent" Href="../searchservlet?query=C04B26/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B26/18"/>
+        <TreeNode Title="C04B26/20 ###聚酰胺[4]" Target="frmContent" Href="../searchservlet?query=C04B26/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B26/20"/>
+      </TreeNode>
+      <TreeNode Title="C04B26/22 ##天然树脂，例如松香[4]" Target="frmContent" Href="../searchservlet?query=C04B26/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B26/22">
+        <TreeNode Title="C04B26/24 ###纤维素废液，例如亚硫酸碱液[4]" Target="frmContent" Href="../searchservlet?query=C04B26/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B26/24"/>
+      </TreeNode>
+      <TreeNode Title="C04B26/26 ##沥青材料，例如焦油、沥青[4]" Target="frmContent" Href="../searchservlet?query=C04B26/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B26/26"/>
+      <TreeNode Title="C04B26/28 ##多糖或其衍生物[4]" Target="frmContent" Href="../searchservlet?query=C04B26/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B26/28"/>
+    </TreeNode>
+    <TreeNode Title="C04B26/30 #具有1个或多个碳-金属键或碳-硅键的化合物[4]" Target="frmContent" Href="../searchservlet?query=C04B26/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B26/30">
+      <TreeNode Title="C04B26/32 ##含硅的[4]" Target="frmContent" Href="../searchservlet?query=C04B26/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B26/32"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="C04B28/00 含有无机黏结剂或含有无机与有机黏结剂反应产物的砂浆、混凝土或人造石的组合物，例如多元羧酸盐水泥[4]" Target="frmContent" Href="../searchservlet?query=C04B28/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B28/00">
+    <TreeNode Title="C04B28/02 #含有除硫酸钙之外的水硬性水泥[4]" Target="frmContent" Href="../searchservlet?query=C04B28/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B28/02">
+      <TreeNode Title="C04B28/04 ##硅酸盐水泥[4]" Target="frmContent" Href="../searchservlet?query=C04B28/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B28/04"/>
+      <TreeNode Title="C04B28/06 ##高铝水泥[4]" Target="frmContent" Href="../searchservlet?query=C04B28/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B28/06"/>
+      <TreeNode Title="C04B28/08 ##矿渣水泥[4]" Target="frmContent" Href="../searchservlet?query=C04B28/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B28/08"/>
+      <TreeNode Title="C04B28/10 ##石灰水泥或氧化镁水泥[4]" Target="frmContent" Href="../searchservlet?query=C04B28/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B28/10">
+        <TreeNode Title="C04B28/12 ###水硬性石灰[4]" Target="frmContent" Href="../searchservlet?query=C04B28/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B28/12"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="C04B28/14 #含硫酸钙水泥的[4]" Target="frmContent" Href="../searchservlet?query=C04B28/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B28/14">
+      <TreeNode Title="C04B28/16 ##含无水石膏的[4]" Target="frmContent" Href="../searchservlet?query=C04B28/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B28/16"/>
+    </TreeNode>
+    <TreeNode Title="C04B28/18 #含氧化硅-石灰型混合物的[4]" Target="frmContent" Href="../searchservlet?query=C04B28/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B28/18">
+      <TreeNode Title="C04B28/20 ##灰砂[4]" Target="frmContent" Href="../searchservlet?query=C04B28/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B28/20"/>
+      <TreeNode Title="C04B28/22 ##石灰和火山灰[4]" Target="frmContent" Href="../searchservlet?query=C04B28/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B28/22"/>
+    </TreeNode>
+    <TreeNode Title="C04B28/24 #含烷基铵或碱金属硅酸盐的；含硅胶的[4]" Target="frmContent" Href="../searchservlet?query=C04B28/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B28/24">
+      <TreeNode Title="C04B28/26 ##碱金属硅酸盐[4]" Target="frmContent" Href="../searchservlet?query=C04B28/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B28/26"/>
+    </TreeNode>
+    <TreeNode Title="C04B28/28 #含有机多元酸的，例如多元羧酸盐水泥[4]" Target="frmContent" Href="../searchservlet?query=C04B28/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B28/28"/>
+    <TreeNode Title="C04B28/30 #含镁质水泥的(氧化镁水泥入C04B 28/10)[4]" Target="frmContent" Href="../searchservlet?query=C04B28/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B28/30">
+      <TreeNode Title="C04B28/32 ##镁氯氧水泥，例如索勒尔(Sorel)水泥[4]" Target="frmContent" Href="../searchservlet?query=C04B28/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B28/32"/>
+    </TreeNode>
+    <TreeNode Title="C04B28/34 #含冷磷酸盐黏结剂的[4]" Target="frmContent" Href="../searchservlet?query=C04B28/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B28/34"/>
+    <TreeNode Title="C04B28/36 #含硫、硫化物或硒的[4]" Target="frmContent" Href="../searchservlet?query=C04B28/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B28/36"/>
+  </TreeNode>
+  <TreeNode Title="C04B30/00 不含黏结剂的人造石组合物(用熔渣制造的人造石入C04B 5/00)[4]" Target="frmContent" Href="../searchservlet?query=C04B30/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B30/00">
+    <TreeNode Title="C04B30/02 #含有纤维状材料的[4]" Target="frmContent" Href="../searchservlet?query=C04B30/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B30/02"/>
+  </TreeNode>
+  <TreeNode Title="C04B32/00 不包含在本小类其他组中的人造石(用熔渣制造的人造石入C04B 5/00)[4]" Target="frmContent" Href="../searchservlet?query=C04B32/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B32/00">
+    <TreeNode Title="C04B32/02 #有钢筋的[4]" Target="frmContent" Href="../searchservlet?query=C04B32/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B32/02"/>
+  </TreeNode>
+  <TreeNode Title="C04B33/00 黏土制品(整块耐火材料或耐火砂浆入C04B 35/66；多孔制品入C04B 38/00)[2]" Target="frmContent" Href="../searchservlet?query=C04B33/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B33/00">
+    <TreeNode Title="C04B33/02 #分别或作为配合料的制备或处理原料" Target="frmContent" Href="../searchservlet?query=C04B33/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B33/02">
+      <TreeNode Title="C04B33/04 ##黏土；高岭土[4]" Target="frmContent" Href="../searchservlet?query=C04B33/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B33/04">
+        <TreeNode Title="C04B33/06 ###消除石灰的有害作用" Target="frmContent" Href="../searchservlet?query=C04B33/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B33/06">
+          <TreeNode Title="C04B33/08 ####防止粉化" Target="frmContent" Href="../searchservlet?query=C04B33/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B33/08"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="C04B33/10 ##除掉铁质或氧化钙" Target="frmContent" Href="../searchservlet?query=C04B33/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B33/10"/>
+      <TreeNode Title="C04B33/13 ##配料成分(C04B 33/36、C04B 35/71优先)[2]" Target="frmContent" Href="../searchservlet?query=C04B33/13&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B33/13">
+        <TreeNode Title="C04B33/132 ###废料；废物(C04B 33/16 优先)[8]" Target="frmContent" Href="../searchservlet?query=C04B33/132&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B33/132">
+          <TreeNode Title="C04B33/135 ####燃烧残渣，例如飞尘、焚烧废料[8]" Target="frmContent" Href="../searchservlet?query=C04B33/135&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B33/135"/>
+          <TreeNode Title="C04B33/138 ####冶金工艺废料，例如炉渣、炉灰、电沉废料[8]" Target="frmContent" Href="../searchservlet?query=C04B33/138&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B33/138"/>
+        </TreeNode>
+        <TreeNode Title="C04B33/14 ###着色料" Target="frmContent" Href="../searchservlet?query=C04B33/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B33/14"/>
+        <TreeNode Title="C04B33/16 ###瘠料，如黏土熟料、石英" Target="frmContent" Href="../searchservlet?query=C04B33/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B33/16"/>
+        <TreeNode Title="C04B33/18 ###用于熔化配合料的" Target="frmContent" Href="../searchservlet?query=C04B33/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B33/18"/>
+      </TreeNode>
+      <TreeNode Title="C04B33/20 ##用于干压工艺的(C04B 33/13优先)" Target="frmContent" Href="../searchservlet?query=C04B33/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B33/20"/>
+    </TreeNode>
+    <TreeNode Title="C04B33/22 #黏土熟料制品" Target="frmContent" Href="../searchservlet?query=C04B33/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B33/22"/>
+    <TreeNode Title="C04B33/24 #瓷器或白色陶瓷器的制造" Target="frmContent" Href="../searchservlet?query=C04B33/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B33/24">
+      <TreeNode Title="C04B33/26 ##电绝缘瓷器的制造" Target="frmContent" Href="../searchservlet?query=C04B33/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B33/26"/>
+    </TreeNode>
+    <TreeNode Title="C04B33/28 #泥浆注浆成型" Target="frmContent" Href="../searchservlet?query=C04B33/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B33/28"/>
+    <TreeNode Title="C04B33/30 #干燥方法" Target="frmContent" Href="../searchservlet?query=C04B33/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B33/30"/>
+    <TreeNode Title="C04B33/32 #焙烧方法" Target="frmContent" Href="../searchservlet?query=C04B33/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B33/32">
+      <TreeNode Title="C04B33/34 ##与施釉结合的" Target="frmContent" Href="../searchservlet?query=C04B33/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B33/34"/>
+    </TreeNode>
+    <TreeNode Title="C04B33/36 #增强的黏土制品[2]" Target="frmContent" Href="../searchservlet?query=C04B33/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B33/36"/>
+  </TreeNode>
+  <TreeNode Title="C04B35/00 以成分为特征的陶瓷成型制品；陶瓷组合物(含有不用作宏观增强剂的，粘接在碳化物、金刚石、氧化物、硼化物、氮化物、硅化物上的游离金属，例如陶瓷或其他金属化合物，例如氧氮化合物或硫化物的入C22C)；准备制造陶瓷制品的无机化合物的加工粉末[4]" Target="frmContent" Href="../searchservlet?query=C04B35/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B35/00">
+    <TreeNode Title="C04B35/01 #以氧化物为基料的[6]" Target="frmContent" Href="../searchservlet?query=C04B35/01&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B35/01">
+      <TreeNode Title="C04B35/03 ##以用白云石生成的氧化镁、氧化钙或氧化物混合物为基料的[6]" Target="frmContent" Href="../searchservlet?query=C04B35/03&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B35/03">
+        <TreeNode Title="C04B35/035 ###用含非氧化物耐火材料，例如碳的粒度混合物制造的耐火材料[6]" Target="frmContent" Href="../searchservlet?query=C04B35/035&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B35/035"/>
+        <TreeNode Title="C04B35/04 ###以氧化镁为基料的[6]" Target="frmContent" Href="../searchservlet?query=C04B35/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B35/04">
+          <TreeNode Title="C04B35/043 ####用粒度混合物制造的耐火材料[6]" Target="frmContent" Href="../searchservlet?query=C04B35/043&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B35/043">
+            <TreeNode Title="C04B35/047 #####含氧化铬或铬矿的[6]" Target="frmContent" Href="../searchservlet?query=C04B35/047&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B35/047"/>
+          </TreeNode>
+          <TreeNode Title="C04B35/05 ####熔铸法耐火材料[6]" Target="frmContent" Href="../searchservlet?query=C04B35/05&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B35/05"/>
+          <TreeNode Title="C04B35/053 ####精细陶瓷[6]" Target="frmContent" Href="../searchservlet?query=C04B35/053&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B35/053"/>
+        </TreeNode>
+        <TreeNode Title="C04B35/057 ###以氧化钙为基料的[6]" Target="frmContent" Href="../searchservlet?query=C04B35/057&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B35/057"/>
+        <TreeNode Title="C04B35/06 ###以用白云石生成的氧化物混合物为基料的" Target="frmContent" Href="../searchservlet?query=C04B35/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B35/06"/>
+      </TreeNode>
+      <TreeNode Title="C04B35/08 ##以氧化铍为基料的[6]" Target="frmContent" Href="../searchservlet?query=C04B35/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B35/08"/>
+      <TreeNode Title="C04B35/10 ##以氧化铝为基料的[6]" Target="frmContent" Href="../searchservlet?query=C04B35/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B35/10">
+        <TreeNode Title="C04B35/101 ###用粒度混合物制造的耐火材料[6]" Target="frmContent" Href="../searchservlet?query=C04B35/101&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B35/101">
+          <TreeNode Title="C04B35/103 ####含非氧化物耐火材料的，例如碳(C04B 35/106优先)[6]" Target="frmContent" Href="../searchservlet?query=C04B35/103&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B35/103"/>
+          <TreeNode Title="C04B35/105 ####含氧化铬或铬矿的[6]" Target="frmContent" Href="../searchservlet?query=C04B35/105&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B35/105"/>
+          <TreeNode Title="C04B35/106 ####含氧化锆或锆英石(ZrSiO4)的[6]" Target="frmContent" Href="../searchservlet?query=C04B35/106&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B35/106"/>
+        </TreeNode>
+        <TreeNode Title="C04B35/107 ###熔铸法耐火材料[6]" Target="frmContent" Href="../searchservlet?query=C04B35/107&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B35/107">
+          <TreeNode Title="C04B35/109 ####含氧化锆或锆英石(ZrSiO4)的[6]" Target="frmContent" Href="../searchservlet?query=C04B35/109&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B35/109"/>
+        </TreeNode>
+        <TreeNode Title="C04B35/111 ###精细陶瓷[6]" Target="frmContent" Href="../searchservlet?query=C04B35/111&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B35/111">
+          <TreeNode Title="C04B35/113 ####以β-氧化铝为基料的[6]" Target="frmContent" Href="../searchservlet?query=C04B35/113&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B35/113"/>
+          <TreeNode Title="C04B35/115 ####半透明制品或透明制品[6]" Target="frmContent" Href="../searchservlet?query=C04B35/115&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B35/115"/>
+          <TreeNode Title="C04B35/117 ####复合材料[6]" Target="frmContent" Href="../searchservlet?query=C04B35/117&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B35/117">
+            <TreeNode Title="C04B35/119 #####用氧化锆[6]" Target="frmContent" Href="../searchservlet?query=C04B35/119&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B35/119"/>
+          </TreeNode>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="C04B35/12 ##以氧化铬为基料的(C04B 35/047、C04B 35/105优先)[6]" Target="frmContent" Href="../searchservlet?query=C04B35/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B35/12"/>
+      <TreeNode Title="C04B35/14 ##以氧化硅为基料的[6]" Target="frmContent" Href="../searchservlet?query=C04B35/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B35/14"/>
+      <TreeNode Title="C04B35/16 ##以黏土之外的硅酸盐为基料的[6]" Target="frmContent" Href="../searchservlet?query=C04B35/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B35/16">
+        <TreeNode Title="C04B35/18 ###高氧化铝的[6]" Target="frmContent" Href="../searchservlet?query=C04B35/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B35/18">
+          <TreeNode Title="C04B35/185 ####莫来石[6]" Target="frmContent" Href="../searchservlet?query=C04B35/185&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B35/185"/>
+          <TreeNode Title="C04B35/19 ####碱金属硅酸铝，例如锂辉石[6]" Target="frmContent" Href="../searchservlet?query=C04B35/19&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B35/19"/>
+          <TreeNode Title="C04B35/195 ####碱土硅酸铝，例如堇青石[6]" Target="frmContent" Href="../searchservlet?query=C04B35/195&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B35/195"/>
+        </TreeNode>
+        <TreeNode Title="C04B35/20 ###高氧化镁的[6]" Target="frmContent" Href="../searchservlet?query=C04B35/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B35/20"/>
+        <TreeNode Title="C04B35/22 ###高氧化钙的[6]" Target="frmContent" Href="../searchservlet?query=C04B35/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B35/22"/>
+      </TreeNode>
+      <TreeNode Title="C04B35/26 ##以铁氧体为基料的[2，6]" Target="frmContent" Href="../searchservlet?query=C04B35/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B35/26">
+        <TreeNode Title="C04B35/28 ###以氧化镍为主要氧化物的[2，6]" Target="frmContent" Href="../searchservlet?query=C04B35/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B35/28">
+          <TreeNode Title="C04B35/30 ####含氧化锌的[2，6]" Target="frmContent" Href="../searchservlet?query=C04B35/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B35/30"/>
+        </TreeNode>
+        <TreeNode Title="C04B35/32 ###以氧化钴为主要氧化物的[2，6]" Target="frmContent" Href="../searchservlet?query=C04B35/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B35/32">
+          <TreeNode Title="C04B35/34 ####含氧化锌的[2，6]" Target="frmContent" Href="../searchservlet?query=C04B35/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B35/34"/>
+        </TreeNode>
+        <TreeNode Title="C04B35/36 ###以氧化锰为主要氧化物[2，6]" Target="frmContent" Href="../searchservlet?query=C04B35/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B35/36">
+          <TreeNode Title="C04B35/38 ####含氧化锌的[2，6]" Target="frmContent" Href="../searchservlet?query=C04B35/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B35/38"/>
+        </TreeNode>
+        <TreeNode Title="C04B35/40 ###含稀土氧化物的[2，6]" Target="frmContent" Href="../searchservlet?query=C04B35/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B35/40"/>
+      </TreeNode>
+      <TreeNode Title="C04B35/42 ##以铬铁矿为基料的(C04B 35/047、C04B 35/105优先)[2，6]" Target="frmContent" Href="../searchservlet?query=C04B35/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B35/42"/>
+      <TreeNode Title="C04B35/44 ##以铝酸盐为基料的[2，6]" Target="frmContent" Href="../searchservlet?query=C04B35/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B35/44">
+        <TreeNode Title="C04B35/443 ###镁铝尖晶石[6]" Target="frmContent" Href="../searchservlet?query=C04B35/443&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B35/443"/>
+      </TreeNode>
+      <TreeNode Title="C04B35/447 ##以磷酸盐为基料的[6]" Target="frmContent" Href="../searchservlet?query=C04B35/447&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B35/447"/>
+      <TreeNode Title="C04B35/45 ##以氧化铜或与其他氧化物的固溶体为基料的[6]" Target="frmContent" Href="../searchservlet?query=C04B35/45&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B35/45"/>
+      <TreeNode Title="C04B35/453 ##以氧化锌、氧化锡或氧化铋或与其他氧化物(例如锌酸盐、锡酸盐或铋酸盐)的固溶体为基料的[6]" Target="frmContent" Href="../searchservlet?query=C04B35/453&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B35/453">
+        <TreeNode Title="C04B35/457 ###以氧化锡或锡酸盐为基料的[6]" Target="frmContent" Href="../searchservlet?query=C04B35/457&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B35/457"/>
+      </TreeNode>
+      <TreeNode Title="C04B35/46 ##以氧化钛或钛酸盐为基料的(也含氧化锆或氧化铪、锆酸盐或铪酸盐入C04B 35/49)[6]" Target="frmContent" Href="../searchservlet?query=C04B35/46&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B35/46">
+        <TreeNode Title="C04B35/462 ###以钛酸盐为基料的[6]" Target="frmContent" Href="../searchservlet?query=C04B35/462&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B35/462">
+          <TreeNode Title="C04B35/465 ####以碱土金属钛酸盐为基料的[6]" Target="frmContent" Href="../searchservlet?query=C04B35/465&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B35/465">
+            <TreeNode Title="C04B35/468 #####以钛酸钡为基料的[6]" Target="frmContent" Href="../searchservlet?query=C04B35/468&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B35/468"/>
+            <TreeNode Title="C04B35/47 #####以钛酸锶为基料的[6]" Target="frmContent" Href="../searchservlet?query=C04B35/47&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B35/47"/>
+          </TreeNode>
+          <TreeNode Title="C04B35/472 ####以钛酸铅为基料的[6]" Target="frmContent" Href="../searchservlet?query=C04B35/472&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B35/472"/>
+          <TreeNode Title="C04B35/475 ####以钛酸铋为基料的[6]" Target="frmContent" Href="../searchservlet?query=C04B35/475&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B35/475"/>
+          <TreeNode Title="C04B35/478 ####以钛酸铝为基料的[6]" Target="frmContent" Href="../searchservlet?query=C04B35/478&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B35/478"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="C04B35/48 ##以氧化锆或氧化铪或锆酸盐或铪酸盐为基料的[6]" Target="frmContent" Href="../searchservlet?query=C04B35/48&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B35/48">
+        <TreeNode Title="C04B35/482 ###用粒度混合物制造的耐火材料[6]" Target="frmContent" Href="../searchservlet?query=C04B35/482&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B35/482"/>
+        <TreeNode Title="C04B35/484 ###熔铸法耐火材料[6]" Target="frmContent" Href="../searchservlet?query=C04B35/484&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B35/484"/>
+        <TreeNode Title="C04B35/486 ###精细陶瓷[6]" Target="frmContent" Href="../searchservlet?query=C04B35/486&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B35/486">
+          <TreeNode Title="C04B35/488 ####复合材料[6]" Target="frmContent" Href="../searchservlet?query=C04B35/488&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B35/488"/>
+        </TreeNode>
+        <TreeNode Title="C04B35/49 ###也含氧化钛或钛酸盐的[3，6]" Target="frmContent" Href="../searchservlet?query=C04B35/49&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B35/49">
+          <TreeNode Title="C04B35/491 ####以锆酸铅和钛酸铅为基料的[6]" Target="frmContent" Href="../searchservlet?query=C04B35/491&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B35/491">
+            <TreeNode Title="C04B35/493 #####也含其他铅化合物的[6]" Target="frmContent" Href="../searchservlet?query=C04B35/493&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B35/493"/>
+          </TreeNode>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="C04B35/495 ##以氧化钒、氧化铌、氧化钽、氧化钼或氧化钨或与其他氧化物(例如钒酸盐、铌酸盐、钽酸盐、钼酸盐或钨酸盐)的固溶体为基料的[6]" Target="frmContent" Href="../searchservlet?query=C04B35/495&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B35/495">
+        <TreeNode Title="C04B35/497 ###以与氧化铅的固溶体为基料的[6]" Target="frmContent" Href="../searchservlet?query=C04B35/497&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B35/497">
+          <TreeNode Title="C04B35/499 ####也含钛酸盐的[6]" Target="frmContent" Href="../searchservlet?query=C04B35/499&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B35/499"/>
+        </TreeNode>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="C04B35/50 #以稀土化合物为基料的" Target="frmContent" Href="../searchservlet?query=C04B35/50&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B35/50">
+      <TreeNode Title="C04B35/505 ##以氧化钇为基料的[6]" Target="frmContent" Href="../searchservlet?query=C04B35/505&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B35/505"/>
+    </TreeNode>
+    <TreeNode Title="C04B35/51 #以锕系化合物为基料的[2]" Target="frmContent" Href="../searchservlet?query=C04B35/51&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B35/51"/>
+    <TreeNode Title="C04B35/515 #以非氧化物为基料的(C04B 35/50、C04B 35/51优先)[6]" Target="frmContent" Href="../searchservlet?query=C04B35/515&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B35/515">
+      <TreeNode Title="C04B35/52 ##以碳为基料的，例如石墨[6]" Target="frmContent" Href="../searchservlet?query=C04B35/52&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B35/52">
+        <TreeNode Title="C04B35/524 ###用聚合产物母体获得的，例如玻璃类碳材料[6]" Target="frmContent" Href="../searchservlet?query=C04B35/524&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B35/524"/>
+        <TreeNode Title="C04B35/528 ###用具有或不具有其他非有机成分的碳质颗粒获得的[6]" Target="frmContent" Href="../searchservlet?query=C04B35/528&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B35/528">
+          <TreeNode Title="C04B35/532 ####含碳化黏结剂的[6]" Target="frmContent" Href="../searchservlet?query=C04B35/532&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B35/532"/>
+        </TreeNode>
+        <TreeNode Title="C04B35/536 ###以膨胀石墨为基料的[6]" Target="frmContent" Href="../searchservlet?query=C04B35/536&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B35/536"/>
+      </TreeNode>
+      <TreeNode Title="C04B35/547 ##以硫化物或硒化物为基料的[6]" Target="frmContent" Href="../searchservlet?query=C04B35/547&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B35/547"/>
+      <TreeNode Title="C04B35/553 ##以氟化物为基料的[6]" Target="frmContent" Href="../searchservlet?query=C04B35/553&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B35/553"/>
+      <TreeNode Title="C04B35/56 ##以碳化物为基料的[4]" Target="frmContent" Href="../searchservlet?query=C04B35/56&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B35/56">
+        <TreeNode Title="C04B35/563 ###以碳化硼为基料的[6]" Target="frmContent" Href="../searchservlet?query=C04B35/563&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B35/563"/>
+        <TreeNode Title="C04B35/565 ###以碳化硅为基料的[6]" Target="frmContent" Href="../searchservlet?query=C04B35/565&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B35/565">
+          <TreeNode Title="C04B35/567 ####用粒度混合物制造的耐火材料[6]" Target="frmContent" Href="../searchservlet?query=C04B35/567&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B35/567"/>
+          <TreeNode Title="C04B35/569 ####精细陶瓷[6]" Target="frmContent" Href="../searchservlet?query=C04B35/569&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B35/569">
+            <TreeNode Title="C04B35/571 #####用聚合物产物母体获得的[6]" Target="frmContent" Href="../searchservlet?query=C04B35/571&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B35/571"/>
+            <TreeNode Title="C04B35/573 #####用反应烧结获得的[6]" Target="frmContent" Href="../searchservlet?query=C04B35/573&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B35/573"/>
+            <TreeNode Title="C04B35/575 #####用热压法获得的[6]" Target="frmContent" Href="../searchservlet?query=C04B35/575&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B35/575"/>
+            <TreeNode Title="C04B35/576 #####用无压烧结获得的[6]" Target="frmContent" Href="../searchservlet?query=C04B35/576&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B35/576"/>
+            <TreeNode Title="C04B35/577 #####复合材料[6]" Target="frmContent" Href="../searchservlet?query=C04B35/577&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B35/577"/>
+          </TreeNode>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="C04B35/58 ##以硼化物、氮化物或硅化物为基料的[4，6]" Target="frmContent" Href="../searchservlet?query=C04B35/58&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B35/58">
+        <TreeNode Title="C04B35/581 ###以氮化铝为基料的[6]" Target="frmContent" Href="../searchservlet?query=C04B35/581&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B35/581">
+          <TreeNode Title="C04B35/582 ####复合材料[6]" Target="frmContent" Href="../searchservlet?query=C04B35/582&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B35/582"/>
+        </TreeNode>
+        <TreeNode Title="C04B35/583 ###以氮化硼为基料的[6]" Target="frmContent" Href="../searchservlet?query=C04B35/583&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B35/583">
+          <TreeNode Title="C04B35/5831 ####以立方氮化硼为基料的[6]" Target="frmContent" Href="../searchservlet?query=C04B35/5831&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B35/5831"/>
+          <TreeNode Title="C04B35/5833 ####以六方氮化硼为基料的[6]" Target="frmContent" Href="../searchservlet?query=C04B35/5833&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B35/5833"/>
+          <TreeNode Title="C04B35/5835 ####复合材料[6]" Target="frmContent" Href="../searchservlet?query=C04B35/5835&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B35/5835"/>
+        </TreeNode>
+        <TreeNode Title="C04B35/584 ###以氮化硅为基料的[6]" Target="frmContent" Href="../searchservlet?query=C04B35/584&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B35/584">
+          <TreeNode Title="C04B35/586 ####用粒度混合物制造的耐火材料[6]" Target="frmContent" Href="../searchservlet?query=C04B35/586&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B35/586"/>
+          <TreeNode Title="C04B35/587 ####精细陶瓷[6]" Target="frmContent" Href="../searchservlet?query=C04B35/587&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B35/587">
+            <TreeNode Title="C04B35/589 #####用聚合物产物母体获得的[6]" Target="frmContent" Href="../searchservlet?query=C04B35/589&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B35/589"/>
+            <TreeNode Title="C04B35/591 #####用反应烧结获得的[6]" Target="frmContent" Href="../searchservlet?query=C04B35/591&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B35/591"/>
+            <TreeNode Title="C04B35/593 #####用热压法获得的(C04B 35/594优先)[6]" Target="frmContent" Href="../searchservlet?query=C04B35/593&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B35/593"/>
+            <TreeNode Title="C04B35/594 #####用有压力或无压力反应烧结产品烧结获得的[6]" Target="frmContent" Href="../searchservlet?query=C04B35/594&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B35/594"/>
+            <TreeNode Title="C04B35/596 #####复合材料[6]" Target="frmContent" Href="../searchservlet?query=C04B35/596&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B35/596"/>
+          </TreeNode>
+        </TreeNode>
+        <TreeNode Title="C04B35/597 ###以氧氮化硅为基料的[6]" Target="frmContent" Href="../searchservlet?query=C04B35/597&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B35/597">
+          <TreeNode Title="C04B35/599 ####以铝氧氮化硅为基料的(SIALONS)[6]" Target="frmContent" Href="../searchservlet?query=C04B35/599&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B35/599"/>
+        </TreeNode>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="C04B35/622 #形成工艺；准备制造陶瓷产品的无机化合物的加工粉末[6]" Target="frmContent" Href="../searchservlet?query=C04B35/622&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B35/622">
+      <TreeNode Title="C04B35/624 ##溶胶-凝胶法[6]" Target="frmContent" Href="../searchservlet?query=C04B35/624&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B35/624"/>
+      <TreeNode Title="C04B35/626 ##分别或作为配合料制备或处理粉末[6]" Target="frmContent" Href="../searchservlet?query=C04B35/626&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B35/626">
+        <TreeNode Title="C04B35/628 ###涂层粉末[6]" Target="frmContent" Href="../searchservlet?query=C04B35/628&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B35/628"/>
+        <TreeNode Title="C04B35/63 ###使用专门用于形成工艺的添加剂[6]" Target="frmContent" Href="../searchservlet?query=C04B35/63&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B35/63">
+          <TreeNode Title="C04B35/632 ####有机添加剂[6]" Target="frmContent" Href="../searchservlet?query=C04B35/632&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B35/632">
+            <TreeNode Title="C04B35/634 #####聚合物(C04B 35/636优先)[6]" Target="frmContent" Href="../searchservlet?query=C04B35/634&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B35/634"/>
+            <TreeNode Title="C04B35/636 #####多糖类或其衍生物[6]" Target="frmContent" Href="../searchservlet?query=C04B35/636&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B35/636"/>
+          </TreeNode>
+          <TreeNode Title="C04B35/638 ####从其中除去[6]" Target="frmContent" Href="../searchservlet?query=C04B35/638&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B35/638"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="C04B35/64 ##焙烧或烧结工艺(C04B 33/32优先)[6]" Target="frmContent" Href="../searchservlet?query=C04B35/64&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B35/64">
+        <TreeNode Title="C04B35/645 ###热压法[6]" Target="frmContent" Href="../searchservlet?query=C04B35/645&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B35/645"/>
+        <TreeNode Title="C04B35/65 ###含有游离金属或游离硅的组合物的反应烧结[3]" Target="frmContent" Href="../searchservlet?query=C04B35/65&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B35/65"/>
+      </TreeNode>
+      <TreeNode Title="C04B35/653 ##包括熔化步骤的工艺[6]" Target="frmContent" Href="../searchservlet?query=C04B35/653&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B35/653">
+        <TreeNode Title="C04B35/657 ###用于制造耐火材料(C04B 35/05、C04B 35/107、C04B 35/484优先)[6]" Target="frmContent" Href="../searchservlet?query=C04B35/657&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B35/657"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="C04B35/66 #含有或不含有黏土的整块耐火材料或耐火砂浆" Target="frmContent" Href="../searchservlet?query=C04B35/66&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B35/66"/>
+    <TreeNode Title="C04B35/71 #含有宏观增强剂的陶瓷制品(C04B 35/66优先)[3，4]" Target="frmContent" Href="../searchservlet?query=C04B35/71&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B35/71">
+      <TreeNode Title="C04B35/74 ##含成型金属材料的[2]" Target="frmContent" Href="../searchservlet?query=C04B35/74&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B35/74">
+        <TreeNode Title="C04B35/76 ###纤维、单丝、晶须、薄片或其他类似材料[2]" Target="frmContent" Href="../searchservlet?query=C04B35/76&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B35/76"/>
+      </TreeNode>
+      <TreeNode Title="C04B35/78 ##含非金属材料的[2]" Target="frmContent" Href="../searchservlet?query=C04B35/78&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B35/78">
+        <TreeNode Title="C04B35/80 ###纤维、单丝、晶须、薄片或其他类似材料[2]" Target="frmContent" Href="../searchservlet?query=C04B35/80&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B35/80">
+          <TreeNode Title="C04B35/81 ####晶须[6]" Target="frmContent" Href="../searchservlet?query=C04B35/81&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B35/81"/>
+          <TreeNode Title="C04B35/82 ####石棉；玻璃；熔融石英[2]" Target="frmContent" Href="../searchservlet?query=C04B35/82&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B35/82"/>
+          <TreeNode Title="C04B35/83 ####碳基质中的碳纤维[6]" Target="frmContent" Href="../searchservlet?query=C04B35/83&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B35/83"/>
+        </TreeNode>
+        <TreeNode Title="C04B35/84 ###浸渍或涂覆材料[2]" Target="frmContent" Href="../searchservlet?query=C04B35/84&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B35/84"/>
+      </TreeNode>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="C04B37/00 陶瓷烧成制品与另外陶瓷烧成制品或其他制品的加热法粘接" Target="frmContent" Href="../searchservlet?query=C04B37/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B37/00">
+    <TreeNode Title="C04B37/02 #与金属制品粘接" Target="frmContent" Href="../searchservlet?query=C04B37/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B37/02"/>
+    <TreeNode Title="C04B37/04 #与玻璃制品粘接" Target="frmContent" Href="../searchservlet?query=C04B37/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B37/04"/>
+  </TreeNode>
+  <TreeNode Title="C04B38/00 多孔的砂浆、混凝土、人造石或陶瓷制品；其制造方法(用气体或气体发生材料处理矿渣入C04B 5/06)[4，6]" Target="frmContent" Href="../searchservlet?query=C04B38/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B38/00">
+    <TreeNode Title="C04B38/02 #加入化学发泡剂(blowing agents)[4]" Target="frmContent" Href="../searchservlet?query=C04B38/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B38/02"/>
+    <TreeNode Title="C04B38/04 #溶解出加入的物质[4]" Target="frmContent" Href="../searchservlet?query=C04B38/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B38/04"/>
+    <TreeNode Title="C04B38/06 #烧除加入的物质[4]" Target="frmContent" Href="../searchservlet?query=C04B38/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B38/06"/>
+    <TreeNode Title="C04B38/08 #加入多孔物质[4]" Target="frmContent" Href="../searchservlet?query=C04B38/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B38/08"/>
+    <TreeNode Title="C04B38/10 #使用起泡剂(foaming agents)(C04B 38/02优先)[4]" Target="frmContent" Href="../searchservlet?query=C04B38/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B38/10"/>
+  </TreeNode>
+  <TreeNode Title="C04B40/00 影响或改变砂浆、混凝土或人造石组合物性质的一般工艺方法，例如其凝结或硬化能力(通过选择有效成分入C04B 22/00至C04B 24/00；特定组合物的硬化入C04B 26/00至C04B 28/00；加工多孔、泡沫、轻质制品入C04B 38/00)[4，6]" Target="frmContent" Href="../searchservlet?query=C04B40/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B40/00">
+    <TreeNode Title="C04B40/02 #硬化环境的选择[4]" Target="frmContent" Href="../searchservlet?query=C04B40/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B40/02"/>
+    <TreeNode Title="C04B40/04 #防止拌合水的蒸发(永久性覆层入C04B 41/00)[4]" Target="frmContent" Href="../searchservlet?query=C04B40/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B40/04"/>
+    <TreeNode Title="C04B40/06 #抑制凝结，例如在易碎容器中含水的缓凝作用型砂浆[4]" Target="frmContent" Href="../searchservlet?query=C04B40/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B40/06"/>
+  </TreeNode>
+  <TreeNode Title="C04B41/00 砂浆、混凝土、人造石或陶瓷的后处理；天然石的处理(冷釉料之外的釉料入C03C 8/00)[3]" Target="frmContent" Href="../searchservlet?query=C04B41/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B41/00">
+    <TreeNode Title="C04B41/45 #涂覆或浸渍[4]" Target="frmContent" Href="../searchservlet?query=C04B41/45&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B41/45">
+      <TreeNode Title="C04B41/46 ##用有机材料[4]" Target="frmContent" Href="../searchservlet?query=C04B41/46&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B41/46">
+        <TreeNode Title="C04B41/47 ###油、脂或蜡[4]" Target="frmContent" Href="../searchservlet?query=C04B41/47&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B41/47"/>
+        <TreeNode Title="C04B41/48 ###高分子化合物[4]" Target="frmContent" Href="../searchservlet?query=C04B41/48&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B41/48"/>
+        <TreeNode Title="C04B41/49 ###含1个或多个碳-金属键或碳-硅键的化合物[4]" Target="frmContent" Href="../searchservlet?query=C04B41/49&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B41/49"/>
+      </TreeNode>
+      <TreeNode Title="C04B41/50 ##用无机材料[4]" Target="frmContent" Href="../searchservlet?query=C04B41/50&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B41/50">
+        <TreeNode Title="C04B41/51 ###金属化[4]" Target="frmContent" Href="../searchservlet?query=C04B41/51&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B41/51"/>
+      </TreeNode>
+      <TreeNode Title="C04B41/52 ##多次涂覆或浸渍[4]" Target="frmContent" Href="../searchservlet?query=C04B41/52&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B41/52"/>
+    </TreeNode>
+    <TreeNode Title="C04B41/53 #包括从被处理的制品上除去部分材料[4]" Target="frmContent" Href="../searchservlet?query=C04B41/53&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B41/53"/>
+    <TreeNode Title="C04B41/60 #仅对人造石的[4]" Target="frmContent" Href="../searchservlet?query=C04B41/60&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B41/60">
+      <TreeNode Title="C04B41/61 ##涂覆或浸渍[4]" Target="frmContent" Href="../searchservlet?query=C04B41/61&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B41/61">
+        <TreeNode Title="C04B41/62 ###用有机材料[4]" Target="frmContent" Href="../searchservlet?query=C04B41/62&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B41/62">
+          <TreeNode Title="C04B41/63 ####高分子化合物[4]" Target="frmContent" Href="../searchservlet?query=C04B41/63&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B41/63"/>
+          <TreeNode Title="C04B41/64 ####含有1个或多个碳-金属键或碳-硅键的化合物[4]" Target="frmContent" Href="../searchservlet?query=C04B41/64&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B41/64"/>
+        </TreeNode>
+        <TreeNode Title="C04B41/65 ###用无机材料[4]" Target="frmContent" Href="../searchservlet?query=C04B41/65&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B41/65">
+          <TreeNode Title="C04B41/66 ####氟化物，例如用四氟化硅处理(ocratation)[4]" Target="frmContent" Href="../searchservlet?query=C04B41/66&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B41/66"/>
+          <TreeNode Title="C04B41/67 ####磷酸盐[4]" Target="frmContent" Href="../searchservlet?query=C04B41/67&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B41/67"/>
+          <TreeNode Title="C04B41/68 ####硅酸；硅酸盐[4]" Target="frmContent" Href="../searchservlet?query=C04B41/68&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B41/68"/>
+          <TreeNode Title="C04B41/69 ####金属[4]" Target="frmContent" Href="../searchservlet?query=C04B41/69&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B41/69"/>
+        </TreeNode>
+        <TreeNode Title="C04B41/70 ###形成至少两层具有不同组成的叠加层[4]" Target="frmContent" Href="../searchservlet?query=C04B41/70&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B41/70">
+          <TreeNode Title="C04B41/71 ####至少有一层是有机材料[4]" Target="frmContent" Href="../searchservlet?query=C04B41/71&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B41/71"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="C04B41/72 ##包括从被处理的制品上除去部分材料的，例如蚀刻[4]" Target="frmContent" Href="../searchservlet?query=C04B41/72&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B41/72"/>
+    </TreeNode>
+    <TreeNode Title="C04B41/80 #仅对陶瓷的[4]" Target="frmContent" Href="../searchservlet?query=C04B41/80&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B41/80">
+      <TreeNode Title="C04B41/81 ##涂覆或浸渍[4]" Target="frmContent" Href="../searchservlet?query=C04B41/81&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B41/81">
+        <TreeNode Title="C04B41/82 ###用有机材料[4]" Target="frmContent" Href="../searchservlet?query=C04B41/82&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B41/82">
+          <TreeNode Title="C04B41/83 ####高分子化合物[4]" Target="frmContent" Href="../searchservlet?query=C04B41/83&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B41/83"/>
+          <TreeNode Title="C04B41/84 ####含有1个或多个碳-金属键或碳-硅键的化合物[4]" Target="frmContent" Href="../searchservlet?query=C04B41/84&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B41/84"/>
+        </TreeNode>
+        <TreeNode Title="C04B41/85 ###用无机材料[4]" Target="frmContent" Href="../searchservlet?query=C04B41/85&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B41/85">
+          <TreeNode Title="C04B41/86 ####釉料；冷釉料[4]" Target="frmContent" Href="../searchservlet?query=C04B41/86&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B41/86"/>
+          <TreeNode Title="C04B41/87 ####陶瓷[4]" Target="frmContent" Href="../searchservlet?query=C04B41/87&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B41/87"/>
+          <TreeNode Title="C04B41/88 ####金属[4]" Target="frmContent" Href="../searchservlet?query=C04B41/88&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B41/88"/>
+        </TreeNode>
+        <TreeNode Title="C04B41/89 ###形成至少两层具有不同组成的叠加层的[4]" Target="frmContent" Href="../searchservlet?query=C04B41/89&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B41/89">
+          <TreeNode Title="C04B41/90 ####至少有一层是金属[4]" Target="frmContent" Href="../searchservlet?query=C04B41/90&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B41/90"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="C04B41/91 ##包括从被处理的制品上除去部分材料的，例如蚀刻[4]" Target="frmContent" Href="../searchservlet?query=C04B41/91&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B41/91"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="C04B103/00 有效组分的作用或特性[6]" Target="frmContent" Href="../searchservlet?query=C04B103/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B103/00">
+    <TreeNode Title="C04B103/10 #加速剂[6]" Target="frmContent" Href="../searchservlet?query=C04B103/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B103/10">
+      <TreeNode Title="C04B103/14 ##速硬剂[6]" Target="frmContent" Href="../searchservlet?query=C04B103/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B103/14"/>
+    </TreeNode>
+    <TreeNode Title="C04B103/20 #阻滞剂[6]" Target="frmContent" Href="../searchservlet?query=C04B103/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B103/20">
+      <TreeNode Title="C04B103/22 ##缓凝剂[6]" Target="frmContent" Href="../searchservlet?query=C04B103/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B103/22"/>
+      <TreeNode Title="C04B103/24 ##缓硬剂[6]" Target="frmContent" Href="../searchservlet?query=C04B103/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B103/24"/>
+    </TreeNode>
+    <TreeNode Title="C04B103/30 #减水剂、塑化剂、引气剂[6]" Target="frmContent" Href="../searchservlet?query=C04B103/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B103/30">
+      <TreeNode Title="C04B103/32 ##超塑化剂[6]" Target="frmContent" Href="../searchservlet?query=C04B103/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B103/32"/>
+    </TreeNode>
+    <TreeNode Title="C04B103/40 #表面活性剂、分散剂[6]" Target="frmContent" Href="../searchservlet?query=C04B103/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B103/40"/>
+    <TreeNode Title="C04B103/42 #成孔剂[6]" Target="frmContent" Href="../searchservlet?query=C04B103/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B103/42"/>
+    <TreeNode Title="C04B103/44 #增加稠度、胶凝或黏度的外加剂[6]" Target="frmContent" Href="../searchservlet?query=C04B103/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B103/44"/>
+    <TreeNode Title="C04B103/46 #保水剂、吸湿剂或亲水剂[6]" Target="frmContent" Href="../searchservlet?query=C04B103/46&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B103/46"/>
+    <TreeNode Title="C04B103/48 #泡沫稳定剂[6]" Target="frmContent" Href="../searchservlet?query=C04B103/48&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B103/48"/>
+    <TreeNode Title="C04B103/50 #消泡剂、消气剂[6]" Target="frmContent" Href="../searchservlet?query=C04B103/50&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B103/50"/>
+    <TreeNode Title="C04B103/52 #助磨剂[6]" Target="frmContent" Href="../searchservlet?query=C04B103/52&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B103/52"/>
+    <TreeNode Title="C04B103/54 #颜料；染料[6]" Target="frmContent" Href="../searchservlet?query=C04B103/54&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B103/54"/>
+    <TreeNode Title="C04B103/56 #遮光剂[6]" Target="frmContent" Href="../searchservlet?query=C04B103/56&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B103/56"/>
+    <TreeNode Title="C04B103/60 #抗化学、物理或生物侵蚀的外加剂[6]" Target="frmContent" Href="../searchservlet?query=C04B103/60&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B103/60">
+      <TreeNode Title="C04B103/61 ##防蚀剂[6]" Target="frmContent" Href="../searchservlet?query=C04B103/61&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B103/61"/>
+      <TreeNode Title="C04B103/63 ##防火剂[6]" Target="frmContent" Href="../searchservlet?query=C04B103/63&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B103/63"/>
+      <TreeNode Title="C04B103/65 ##抗渗外加剂或防水剂[6]" Target="frmContent" Href="../searchservlet?query=C04B103/65&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B103/65"/>
+      <TreeNode Title="C04B103/67 ##杀生剂[6]" Target="frmContent" Href="../searchservlet?query=C04B103/67&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B103/67">
+        <TreeNode Title="C04B103/69 ###杀菌剂[6]" Target="frmContent" Href="../searchservlet?query=C04B103/69&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B103/69"/>
+      </TreeNode>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="C04B111/00 砂浆、混凝土或人造石的作用、特性或应用[6]" Target="frmContent" Href="../searchservlet?query=C04B111/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B111/00">
+    <TreeNode Title="C04B111/10 #没有特定材料的特征的组合物[6]" Target="frmContent" Href="../searchservlet?query=C04B111/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B111/10">
+      <TreeNode Title="C04B111/12 ##没有石棉的，例如石棉水泥代用品[6]" Target="frmContent" Href="../searchservlet?query=C04B111/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B111/12"/>
+    </TreeNode>
+    <TreeNode Title="C04B111/20 #耐化学、物理或生物侵蚀的[6]" Target="frmContent" Href="../searchservlet?query=C04B111/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B111/20">
+      <TreeNode Title="C04B111/21 ##抗风化的[6]" Target="frmContent" Href="../searchservlet?query=C04B111/21&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B111/21"/>
+      <TreeNode Title="C04B111/22 ##抗碳化作用的[6]" Target="frmContent" Href="../searchservlet?query=C04B111/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B111/22"/>
+      <TreeNode Title="C04B111/23 ##耐酸的[6]" Target="frmContent" Href="../searchservlet?query=C04B111/23&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B111/23"/>
+      <TreeNode Title="C04B111/24 ##耐海水的[6]" Target="frmContent" Href="../searchservlet?query=C04B111/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B111/24"/>
+      <TreeNode Title="C04B111/25 ##抗粗刻的[6]" Target="frmContent" Href="../searchservlet?query=C04B111/25&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B111/25"/>
+      <TreeNode Title="C04B111/26 ##耐钢筋腐蚀的[6]" Target="frmContent" Href="../searchservlet?query=C04B111/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B111/26"/>
+      <TreeNode Title="C04B111/27 ##防水的，即抗渗或防水材料[6]" Target="frmContent" Href="../searchservlet?query=C04B111/27&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B111/27"/>
+      <TreeNode Title="C04B111/28 ##耐火的[6]" Target="frmContent" Href="../searchservlet?query=C04B111/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B111/28"/>
+    </TreeNode>
+    <TreeNode Title="C04B111/30 #可钉或可锯材料[6]" Target="frmContent" Href="../searchservlet?query=C04B111/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B111/30"/>
+    <TreeNode Title="C04B111/32 #抑制膨胀的材料[6]" Target="frmContent" Href="../searchservlet?query=C04B111/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B111/32"/>
+    <TreeNode Title="C04B111/34 #不收缩材料[6]" Target="frmContent" Href="../searchservlet?query=C04B111/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B111/34"/>
+    <TreeNode Title="C04B111/40 #多孔的或轻质材料[6]" Target="frmContent" Href="../searchservlet?query=C04B111/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B111/40">
+      <TreeNode Title="C04B111/42 ##漂浮材料[6]" Target="frmContent" Href="../searchservlet?query=C04B111/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B111/42"/>
+    </TreeNode>
+    <TreeNode Title="C04B111/50 #柔性或弹性材料[6]" Target="frmContent" Href="../searchservlet?query=C04B111/50&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B111/50"/>
+    <TreeNode Title="C04B111/52 #隔声材料[6]" Target="frmContent" Href="../searchservlet?query=C04B111/52&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B111/52"/>
+    <TreeNode Title="C04B111/54 #天然石的代用品，例如人造大理石[6]" Target="frmContent" Href="../searchservlet?query=C04B111/54&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B111/54"/>
+    <TreeNode Title="C04B111/56 #适于制造管的组成，例如离心浇注[6]" Target="frmContent" Href="../searchservlet?query=C04B111/56&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B111/56"/>
+    <TreeNode Title="C04B111/60 #地板材料[6]" Target="frmContent" Href="../searchservlet?query=C04B111/60&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B111/60">
+      <TreeNode Title="C04B111/62 ##自均化材料[6]" Target="frmContent" Href="../searchservlet?query=C04B111/62&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B111/62"/>
+    </TreeNode>
+    <TreeNode Title="C04B111/70 #灌浆[6]" Target="frmContent" Href="../searchservlet?query=C04B111/70&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B111/70"/>
+    <TreeNode Title="C04B111/72 #用于修补建筑或建筑材料的组成[6]" Target="frmContent" Href="../searchservlet?query=C04B111/72&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B111/72"/>
+    <TreeNode Title="C04B111/74 #水下应用[6]" Target="frmContent" Href="../searchservlet?query=C04B111/74&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B111/74"/>
+    <TreeNode Title="C04B111/76 #应用于零下温度[6]" Target="frmContent" Href="../searchservlet?query=C04B111/76&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B111/76"/>
+    <TreeNode Title="C04B111/80 #光学性质，例如透明度[6]" Target="frmContent" Href="../searchservlet?query=C04B111/80&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B111/80">
+      <TreeNode Title="C04B111/82 ##着色材料[6]" Target="frmContent" Href="../searchservlet?query=C04B111/82&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B111/82"/>
+    </TreeNode>
+    <TreeNode Title="C04B111/90 #电学性质[6]" Target="frmContent" Href="../searchservlet?query=C04B111/90&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B111/90">
+      <TreeNode Title="C04B111/92 ##电绝缘材料[6]" Target="frmContent" Href="../searchservlet?query=C04B111/92&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B111/92"/>
+      <TreeNode Title="C04B111/94 ##导电材料[6]C05B" Target="frmContent" Href="../searchservlet?query=C04B111/94&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C04B111/94"/>
+    </TreeNode>
+  </TreeNode>
+</Root>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="F42D1/00 爆破方法或设备，例如装填或捣实" Target="frmContent" Href="../searchservlet?query=F42D1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F42D1/00">
+    <TreeNode Title="F42D1/02 #通过将爆破筒装配成组合形(其爆破筒的配接入F42B 3/02)" Target="frmContent" Href="../searchservlet?query=F42D1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F42D1/02"/>
+    <TreeNode Title="F42D1/04 #点火装置" Target="frmContent" Href="../searchservlet?query=F42D1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F42D1/04">
+      <TreeNode Title="F42D1/045 ##电点火装置(电机入H02K)[5]" Target="frmContent" Href="../searchservlet?query=F42D1/045&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F42D1/045">
+        <TreeNode Title="F42D1/05 ###爆破电路[5]" Target="frmContent" Href="../searchservlet?query=F42D1/05&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F42D1/05">
+          <TreeNode Title="F42D1/055 ####专用于有延时引燃多级装药的[5]" Target="frmContent" Href="../searchservlet?query=F42D1/055&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F42D1/055"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="F42D1/06 ##多级装药的相对定时(F42D 1/055优先)" Target="frmContent" Href="../searchservlet?query=F42D1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F42D1/06"/>
+    </TreeNode>
+    <TreeNode Title="F42D1/08 #捣实方法；用炸药装填炮孔的方法；其所用设备[5]" Target="frmContent" Href="../searchservlet?query=F42D1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F42D1/08">
+      <TreeNode Title="F42D1/10 ##粒状或桨状炸药的装填；用气压或液压装填炸药[5]" Target="frmContent" Href="../searchservlet?query=F42D1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F42D1/10"/>
+      <TreeNode Title="F42D1/12 ##用气压或液压装填捣实的材料[5]" Target="frmContent" Href="../searchservlet?query=F42D1/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F42D1/12"/>
+      <TreeNode Title="F42D1/14 ##手工捣实或装填[5]" Target="frmContent" Href="../searchservlet?query=F42D1/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F42D1/14">
+        <TreeNode Title="F42D1/16 ###捣实工具[5]" Target="frmContent" Href="../searchservlet?query=F42D1/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F42D1/16"/>
+      </TreeNode>
+      <TreeNode Title="F42D1/18 ##炮孔塞[5]" Target="frmContent" Href="../searchservlet?query=F42D1/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F42D1/18"/>
+      <TreeNode Title="F42D1/20 ##捣实筒，即有捣实材料的筒(柔性或可变形爆破筒入F42B 3/087)[5]" Target="frmContent" Href="../searchservlet?query=F42D1/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F42D1/20"/>
+      <TreeNode Title="F42D1/22 ##爆破筒或捣实筒在炮孔中的支承或定位[5]" Target="frmContent" Href="../searchservlet?query=F42D1/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F42D1/22"/>
+      <TreeNode Title="F42D1/24 ##以捣实材料为特征[5]" Target="frmContent" Href="../searchservlet?query=F42D1/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F42D1/24">
+        <TreeNode Title="F42D1/26 ###用发泡剂捣实[5]" Target="frmContent" Href="../searchservlet?query=F42D1/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F42D1/26"/>
+        <TreeNode Title="F42D1/28 ###用胶凝剂捣实[5]" Target="frmContent" Href="../searchservlet?query=F42D1/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F42D1/28"/>
+      </TreeNode>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="F42D3/00 爆破技术的特定应用" Target="frmContent" Href="../searchservlet?query=F42D3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F42D3/00">
+    <TreeNode Title="F42D3/02 #用于高大结构的拆毁，例如高烟囱" Target="frmContent" Href="../searchservlet?query=F42D3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F42D3/02"/>
+    <TreeNode Title="F42D3/04 #用于爆炸岩石" Target="frmContent" Href="../searchservlet?query=F42D3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F42D3/04"/>
+    <TreeNode Title="F42D3/06 #用于地震探测的" Target="frmContent" Href="../searchservlet?query=F42D3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F42D3/06"/>
+  </TreeNode>
+  <TreeNode Title="F42D5/00 安全装置" Target="frmContent" Href="../searchservlet?query=F42D5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F42D5/00">
+    <TreeNode Title="F42D5/02 #找出未爆炸装药" Target="frmContent" Href="../searchservlet?query=F42D5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F42D5/02"/>
+    <TreeNode Title="F42D5/04 #使爆炸装药变为无危险，例如销毁弹药(退出底火、拆卸弹药入F42B 33/04，F42B 33/06)；使爆炸装药的爆炸变为无危险的[5]" Target="frmContent" Href="../searchservlet?query=F42D5/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F42D5/04">
+      <TreeNode Title="F42D5/045 ##爆轰波减震或缓冲装置[5]" Target="frmContent" Href="../searchservlet?query=F42D5/045&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F42D5/045">
+        <TreeNode Title="F42D5/05 ###爆炸垫[5]" Target="frmContent" Href="../searchservlet?query=F42D5/05&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F42D5/05"/>
+      </TreeNode>
+      <TreeNode Title="F42D5/055 ##爆破作业用的消音装置(F42D 5/045优先)[5]" Target="frmContent" Href="../searchservlet?query=F42D5/055&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F42D5/055"/>
+    </TreeNode>
+    <TreeNode Title="F42D5/06 #拆除炮眼" Target="frmContent" Href="../searchservlet?query=F42D5/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F42D5/06"/>
+  </TreeNode>
+  <TreeNode Title="F42D99/00 本小类其他各组中不包括的技术主题[2009.01]" Target="frmContent" Href="../searchservlet?query=F42D99/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F42D99/00"/>
+</Root>

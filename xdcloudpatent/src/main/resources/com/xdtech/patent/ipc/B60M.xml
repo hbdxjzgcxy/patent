@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="B60M1/00 与车辆集电器接触的电源线路(其所用集电器入B60L 5/00)" Target="frmContent" Href="../searchservlet?query=B60M1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60M1/00">
+    <TreeNode Title="B60M1/02 # 零部件" Target="frmContent" Href="../searchservlet?query=B60M1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60M1/02">
+      <TreeNode Title="B60M1/04 ##线路的机械保护装置；防止与带电物接触的装置" Target="frmContent" Href="../searchservlet?query=B60M1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60M1/04"/>
+      <TreeNode Title="B60M1/06 ##沿电力线路用于减少附近通信线路干扰的装置(一般入H04B 15/02)" Target="frmContent" Href="../searchservlet?query=B60M1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60M1/06"/>
+      <TreeNode Title="B60M1/08 ##利用过往车辆的机械作用使电力线区段通电或断电的装置" Target="frmContent" Href="../searchservlet?query=B60M1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60M1/08"/>
+      <TreeNode Title="B60M1/10 ##利用过往车辆的磁力作用使电力线区段通电或断电的装置" Target="frmContent" Href="../searchservlet?query=B60M1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60M1/10"/>
+    </TreeNode>
+    <TreeNode Title="B60M1/12 # 架空线；及其所用附件" Target="frmContent" Href="../searchservlet?query=B60M1/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60M1/12">
+      <TreeNode Title="B60M1/13 ##电车架空线" Target="frmContent" Href="../searchservlet?query=B60M1/13&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60M1/13"/>
+      <TreeNode Title="B60M1/14 ##交叉；交点" Target="frmContent" Href="../searchservlet?query=B60M1/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60M1/14"/>
+      <TreeNode Title="B60M1/16 ##悬挂绝缘子(一般入H01B)" Target="frmContent" Href="../searchservlet?query=B60M1/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60M1/16"/>
+      <TreeNode Title="B60M1/18 ##分段绝缘器；分段开关" Target="frmContent" Href="../searchservlet?query=B60M1/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60M1/18"/>
+      <TreeNode Title="B60M1/20 ##用于支承或悬挂电车架空线的装置，例如从建筑物上支承或悬挂" Target="frmContent" Href="../searchservlet?query=B60M1/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60M1/20">
+        <TreeNode Title="B60M1/22 ###悬挂电力线路所用的各个线，例如悬索线，张力支承线" Target="frmContent" Href="../searchservlet?query=B60M1/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60M1/22"/>
+        <TreeNode Title="B60M1/225 ###用于将电车架空线固定在张力支承线上的装置" Target="frmContent" Href="../searchservlet?query=B60M1/225&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60M1/225"/>
+        <TreeNode Title="B60M1/23 ###用于从悬索线上悬挂电车架空线的装置" Target="frmContent" Href="../searchservlet?query=B60M1/23&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60M1/23"/>
+        <TreeNode Title="B60M1/234 ###装有缓冲装置或减震装置的(线的支承入B60M 1/22)" Target="frmContent" Href="../searchservlet?query=B60M1/234&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60M1/234"/>
+        <TreeNode Title="B60M1/24 ###压板；接合器；固定接头" Target="frmContent" Href="../searchservlet?query=B60M1/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60M1/24"/>
+      </TreeNode>
+      <TreeNode Title="B60M1/26 ##长度变化补偿装置" Target="frmContent" Href="../searchservlet?query=B60M1/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60M1/26"/>
+      <TreeNode Title="B60M1/28 ##架空线的制造或修理(脚手架车入B60P，B61D 15/00；其所用平台入B66F 11/04；一般导线制造入H01B 13/00；一般架空线入H02G 1/00)" Target="frmContent" Href="../searchservlet?query=B60M1/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60M1/28"/>
+    </TreeNode>
+    <TreeNode Title="B60M1/30 # 电力轨道" Target="frmContent" Href="../searchservlet?query=B60M1/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60M1/30">
+      <TreeNode Title="B60M1/32 ##交叉；交点(B60M 1/34优先)" Target="frmContent" Href="../searchservlet?query=B60M1/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60M1/32"/>
+      <TreeNode Title="B60M1/34 ##在开槽管道内的" Target="frmContent" Href="../searchservlet?query=B60M1/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60M1/34"/>
+    </TreeNode>
+    <TreeNode Title="B60M1/36 # 沿电源线路使用的单个接触元件" Target="frmContent" Href="../searchservlet?query=B60M1/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60M1/36"/>
+  </TreeNode>
+  <TreeNode Title="B60M3/00 与车上集电器接触的电源线路的供电；消耗回收功率的装置(通过改变车辆的供电电压控制轨道车辆入B60L；一般电力分配入H02J)" Target="frmContent" Href="../searchservlet?query=B60M3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60M3/00">
+    <TreeNode Title="B60M3/02 # 有保持电压在预定范围内的装置(一般入G05F)" Target="frmContent" Href="../searchservlet?query=B60M3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60M3/02"/>
+    <TreeNode Title="B60M3/04 # 用于接通和切断个别轨道区段的装置(用过往车辆的入B60M 1/10)" Target="frmContent" Href="../searchservlet?query=B60M3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60M3/04"/>
+    <TreeNode Title="B60M3/06 # 消耗回收功率的装置" Target="frmContent" Href="../searchservlet?query=B60M3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60M3/06"/>
+  </TreeNode>
+  <TreeNode Title="B60M5/00 沿行车轨道或在其接合处配置导电或绝缘的装置，例如用于减少接地电流的安全装置(轨道接合处的绝缘入E01B 11/54；一般在轨道之间导电连接入H01R 4/00，例如H01R 4/64)" Target="frmContent" Href="../searchservlet?query=B60M5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60M5/00">
+    <TreeNode Title="B60M5/02 # 用于减少轨道与接地之间电位差的装置" Target="frmContent" Href="../searchservlet?query=B60M5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60M5/02"/>
+  </TreeNode>
+  <TreeNode Title="B60M7/00 专门适用于特殊类型电动车辆的电力线路或轨道，例如悬挂缆道，索道，地下铁道" Target="frmContent" Href="../searchservlet?query=B60M7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60M7/00"/>
+</Root>

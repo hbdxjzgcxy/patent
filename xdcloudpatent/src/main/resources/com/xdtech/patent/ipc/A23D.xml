@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="A23D7/00 含有水相的食用油或脂肪组分，例如人造奶油 [5]" Target="frmContent" Href="../searchservlet?query=A23D7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A23D7/00">
+    <TreeNode Title="A23D7/005 #以除脂肪酸甘油三酯外其他成分为特征的 [6]" Target="frmContent" Href="../searchservlet?query=A23D7/005&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A23D7/005">
+      <TreeNode Title="A23D7/01 ##其他脂肪酸酯，例如磷脂 [6]" Target="frmContent" Href="../searchservlet?query=A23D7/01&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A23D7/01"/>
+    </TreeNode>
+    <TreeNode Title="A23D7/015 #减少热含量；减少脂肪含量 [6]" Target="frmContent" Href="../searchservlet?query=A23D7/015&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A23D7/015"/>
+    <TreeNode Title="A23D7/02 #以生产或加工为特征的 [5]" Target="frmContent" Href="../searchservlet?query=A23D7/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A23D7/02">
+      <TreeNode Title="A23D7/04 ##加工 [5]" Target="frmContent" Href="../searchservlet?query=A23D7/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A23D7/04">
+        <TreeNode Title="A23D7/05 ###以必要的冷却为特征的 [6]" Target="frmContent" Href="../searchservlet?query=A23D7/05&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A23D7/05"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="A23D7/06 #成品的保存 [5]" Target="frmContent" Href="../searchservlet?query=A23D7/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A23D7/06"/>
+  </TreeNode>
+  <TreeNode Title="A23D9/00 其他食用油或脂肪，例如松酥油脂、烹饪用油 [5]" Target="frmContent" Href="../searchservlet?query=A23D9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A23D9/00">
+    <TreeNode Title="A23D9/007 #以除脂肪酸甘油三酯外其他成分为特征的 [6]" Target="frmContent" Href="../searchservlet?query=A23D9/007&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A23D9/007">
+      <TreeNode Title="A23D9/013 ##其他脂肪酸酯，例如磷脂 [6]" Target="frmContent" Href="../searchservlet?query=A23D9/013&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A23D9/013"/>
+    </TreeNode>
+    <TreeNode Title="A23D9/02 #以生产或加工为特征的 [5]" Target="frmContent" Href="../searchservlet?query=A23D9/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A23D9/02">
+      <TreeNode Title="A23D9/04 ##加工 [5]" Target="frmContent" Href="../searchservlet?query=A23D9/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A23D9/04">
+        <TreeNode Title="A23D9/05 ###形成自由流动物 [6]" Target="frmContent" Href="../searchservlet?query=A23D9/05&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A23D9/05"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="A23D9/06 #成品的保存 [5]" Target="frmContent" Href="../searchservlet?query=A23D9/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A23D9/06"/>
+  </TreeNode>
+</Root>

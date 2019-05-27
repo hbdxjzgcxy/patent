@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="G01M1/00 机器或结构部件的静态或动态平衡的测试(离心机转筒的平衡入B04B 9/14；以固定车轮或其零部件为特点的设备入B60B 30/00；船舶稳定因数的测定入B63B；飞行器的稳定性入B64C 17/00；运转中的自动平衡控制系统入G05；电机转子的平衡入H02K 15/16)" Target="frmContent" Href="../searchservlet?query=G01M1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01M1/00">
+    <TreeNode Title="G01M1/02 #平衡机械或设备的零部件" Target="frmContent" Href="../searchservlet?query=G01M1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01M1/02">
+      <TreeNode Title="G01M1/04 ##被测试物体所采用的轴承支持装置" Target="frmContent" Href="../searchservlet?query=G01M1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01M1/04"/>
+      <TreeNode Title="G01M1/06 ##被测试物体所采用的驱动装置" Target="frmContent" Href="../searchservlet?query=G01M1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01M1/06"/>
+      <TreeNode Title="G01M1/08 ##直接指示不平衡的大小或相位的仪器(一般电变量的测量入G01R)" Target="frmContent" Href="../searchservlet?query=G01M1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01M1/08"/>
+    </TreeNode>
+    <TreeNode Title="G01M1/10 #测定惯性矩" Target="frmContent" Href="../searchservlet?query=G01M1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01M1/10"/>
+    <TreeNode Title="G01M1/12 #静态平衡；重心位置的测定(测定不平衡的入G01M 1/14)" Target="frmContent" Href="../searchservlet?query=G01M1/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01M1/12"/>
+    <TreeNode Title="G01M1/14 #测定不平衡(G01M 1/30，G01M 1/38优先)" Target="frmContent" Href="../searchservlet?query=G01M1/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01M1/14">
+      <TreeNode Title="G01M1/16 ##通过被测物体的振荡或旋转" Target="frmContent" Href="../searchservlet?query=G01M1/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01M1/16">
+        <TreeNode Title="G01M1/18 ###并且使物体从高于正常的速度下减速" Target="frmContent" Href="../searchservlet?query=G01M1/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01M1/18"/>
+        <TreeNode Title="G01M1/20 ###并且施加外力以补偿由于不平衡所产生的力" Target="frmContent" Href="../searchservlet?query=G01M1/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01M1/20"/>
+        <TreeNode Title="G01M1/22 ###并且将由于不平衡产生的振动变换为电变量(一般振动的测量入G01H；传声器或类似传音的机电传感器入H04R)" Target="frmContent" Href="../searchservlet?query=G01M1/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01M1/22"/>
+        <TreeNode Title="G01M1/24 ###在弹性轴上进行平衡，如用于曲轴的平衡" Target="frmContent" Href="../searchservlet?query=G01M1/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01M1/24"/>
+        <TreeNode Title="G01M1/26 ###专用于作标记的，例如，通过钻孔" Target="frmContent" Href="../searchservlet?query=G01M1/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01M1/26"/>
+        <TreeNode Title="G01M1/28 ###专用于就地测定物体的不平衡，例如测定车轮的不平衡" Target="frmContent" Href="../searchservlet?query=G01M1/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01M1/28"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="G01M1/30 #补偿不平衡(G01M 1/38优先；平衡重量入F16F 15/28)" Target="frmContent" Href="../searchservlet?query=G01M1/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01M1/30">
+      <TreeNode Title="G01M1/32 ##通过在被测物体上添加重量，例如，用校正砝码(校正砝码本身入F16F 15/32)" Target="frmContent" Href="../searchservlet?query=G01M1/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01M1/32"/>
+      <TreeNode Title="G01M1/34 ##通过从被测物体减去重量，例如，从轮胎的外胎减去重量" Target="frmContent" Href="../searchservlet?query=G01M1/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01M1/34"/>
+      <TreeNode Title="G01M1/36 ##通过调整被测物体内装的配重物的位置" Target="frmContent" Href="../searchservlet?query=G01M1/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01M1/36"/>
+    </TreeNode>
+    <TreeNode Title="G01M1/38 #用于测定和校正不平衡的组合的机器或装置" Target="frmContent" Href="../searchservlet?query=G01M1/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01M1/38"/>
+  </TreeNode>
+  <TreeNode Title="G01M3/00 结构部件的流体密封性的测试(测试多孔材料的渗透性，测试一般损伤的出现入G01N)" Target="frmContent" Href="../searchservlet?query=G01M3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01M3/00">
+    <TreeNode Title="G01M3/02 #应用流体或真空" Target="frmContent" Href="../searchservlet?query=G01M3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01M3/02">
+      <TreeNode Title="G01M3/04 ##通过在漏泄点检测流体的出现" Target="frmContent" Href="../searchservlet?query=G01M3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01M3/04">
+        <TreeNode Title="G01M3/06 ###通过在液池中观察气泡" Target="frmContent" Href="../searchservlet?query=G01M3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01M3/06">
+          <TreeNode Title="G01M3/08 ####用于管、缆或管状物；用于管的连接或密封；用于阀门" Target="frmContent" Href="../searchservlet?query=G01M3/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01M3/08"/>
+          <TreeNode Title="G01M3/10 ####用于各种容器，例如，散热器" Target="frmContent" Href="../searchservlet?query=G01M3/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01M3/10"/>
+        </TreeNode>
+        <TreeNode Title="G01M3/12 ###通过观察弹性外盖或覆盖层，例如，应用肥皂水" Target="frmContent" Href="../searchservlet?query=G01M3/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01M3/12">
+          <TreeNode Title="G01M3/14 ####用于管、缆或管状物；用于管的连接或密封；用于阀门" Target="frmContent" Href="../searchservlet?query=G01M3/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01M3/14"/>
+        </TreeNode>
+        <TreeNode Title="G01M3/16 ###应用电检测装置(G01M 3/06，G01M 3/12，G01M 3/20，G01M 3/24，G01M 3/26优先)" Target="frmContent" Href="../searchservlet?query=G01M3/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01M3/16">
+          <TreeNode Title="G01M3/18 ####用于管、缆或管状物；用于管的连接或密封；用于阀门" Target="frmContent" Href="../searchservlet?query=G01M3/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01M3/18"/>
+        </TreeNode>
+        <TreeNode Title="G01M3/20 ###应用特殊示踪物质，例如染料、荧光材料、放射性材料" Target="frmContent" Href="../searchservlet?query=G01M3/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01M3/20">
+          <TreeNode Title="G01M3/22 ####用于管、缆或管状物；用于管的连接或密封；用于阀门" Target="frmContent" Href="../searchservlet?query=G01M3/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01M3/22"/>
+        </TreeNode>
+        <TreeNode Title="G01M3/24 ###应用次声、声或超声振动" Target="frmContent" Href="../searchservlet?query=G01M3/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01M3/24"/>
+      </TreeNode>
+      <TreeNode Title="G01M3/26 ##通过测量流体的增减速率，例如，用压力响应装置，用流量计[2]" Target="frmContent" Href="../searchservlet?query=G01M3/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01M3/26">
+        <TreeNode Title="G01M3/28 ###用于管、缆或管状物；用于管的连接或密封；用于阀门[2]" Target="frmContent" Href="../searchservlet?query=G01M3/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01M3/28">
+          <TreeNode Title="G01M3/30 ####利用一种流体逐渐被另一种流体排出[2]" Target="frmContent" Href="../searchservlet?query=G01M3/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01M3/30"/>
+        </TreeNode>
+        <TreeNode Title="G01M3/32 ###用于容器，例如，散热器[2]" Target="frmContent" Href="../searchservlet?query=G01M3/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01M3/32">
+          <TreeNode Title="G01M3/34 ####通过测试容器保持真空的可能性，例如罐头测试机[2]" Target="frmContent" Href="../searchservlet?query=G01M3/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01M3/34"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="G01M3/36 ##通过检测被测结构部件的尺寸变化" Target="frmContent" Href="../searchservlet?query=G01M3/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01M3/36"/>
+    </TreeNode>
+    <TreeNode Title="G01M3/38 #应用光照(G01M 3/02优先)" Target="frmContent" Href="../searchservlet?query=G01M3/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01M3/38"/>
+    <TreeNode Title="G01M3/40 #应用电装置，例如，观察放电现象" Target="frmContent" Href="../searchservlet?query=G01M3/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01M3/40"/>
+  </TreeNode>
+  <TreeNode Title="G01M5/00 结构部件弹性的测试，例如，桥梁、机翼的挠曲的测试(G01M 9/00优先；应变仪入G01B)" Target="frmContent" Href="../searchservlet?query=G01M5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01M5/00"/>
+  <TreeNode Title="G01M7/00 结构部件的振动测试；结构部件的冲击测试(G01M 9/00优先)" Target="frmContent" Href="../searchservlet?query=G01M7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01M7/00">
+    <TreeNode Title="G01M7/02 #振动测试[5]" Target="frmContent" Href="../searchservlet?query=G01M7/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01M7/02">
+      <TreeNode Title="G01M7/04 ##单向测试台[5]" Target="frmContent" Href="../searchservlet?query=G01M7/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01M7/04"/>
+      <TreeNode Title="G01M7/06 ##多向测试台[5]" Target="frmContent" Href="../searchservlet?query=G01M7/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01M7/06"/>
+    </TreeNode>
+    <TreeNode Title="G01M7/08 #冲击测试[5]" Target="frmContent" Href="../searchservlet?query=G01M7/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01M7/08"/>
+  </TreeNode>
+  <TreeNode Title="G01M9/00 空气动力学试验；风洞内或风洞上的装置(有关建筑物方面的入E部；一般材料性质的测试入G01N)" Target="frmContent" Href="../searchservlet?query=G01M9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01M9/00">
+    <TreeNode Title="G01M9/02 #风洞[5]" Target="frmContent" Href="../searchservlet?query=G01M9/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01M9/02">
+      <TreeNode Title="G01M9/04 ##零部件[5]" Target="frmContent" Href="../searchservlet?query=G01M9/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01M9/04"/>
+    </TreeNode>
+    <TreeNode Title="G01M9/06 #专用于空气动力学试验的测量装置[5]" Target="frmContent" Href="../searchservlet?query=G01M9/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01M9/06"/>
+    <TreeNode Title="G01M9/08 #空气动力学模型[5]" Target="frmContent" Href="../searchservlet?query=G01M9/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01M9/08"/>
+  </TreeNode>
+  <TreeNode Title="G01M10/00 流体动力学试验；船只试验池或水道内或上面的装置(有关建筑物方面的入E部；一般材料性质的测试入G01N)" Target="frmContent" Href="../searchservlet?query=G01M10/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01M10/00"/>
+  <TreeNode Title="G01M11/00 光学设备的测试；其他类目未包括的用光学方法测试结构部件" Target="frmContent" Href="../searchservlet?query=G01M11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01M11/00">
+    <TreeNode Title="G01M11/02 #光学性质的测试" Target="frmContent" Href="../searchservlet?query=G01M11/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01M11/02">
+      <TreeNode Title="G01M11/04 ##光学实验台" Target="frmContent" Href="../searchservlet?query=G01M11/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01M11/04"/>
+      <TreeNode Title="G01M11/06 ##车辆前灯装置的对光测试" Target="frmContent" Href="../searchservlet?query=G01M11/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01M11/06"/>
+    </TreeNode>
+    <TreeNode Title="G01M11/08 #机械性能的测试" Target="frmContent" Href="../searchservlet?query=G01M11/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01M11/08"/>
+  </TreeNode>
+  <TreeNode Title="G01M13/00 机械部件的测试(测试工具的切削能力入G01N，例如，G01N 3/58)" Target="frmContent" Href="../searchservlet?query=G01M13/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01M13/00">
+    <TreeNode Title="G01M13/02 #齿轮或传动机构的测试(测量效率入G01L)" Target="frmContent" Href="../searchservlet?query=G01M13/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01M13/02"/>
+    <TreeNode Title="G01M13/04 #轴承的测试" Target="frmContent" Href="../searchservlet?query=G01M13/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01M13/04"/>
+  </TreeNode>
+  <TreeNode Title="G01M15/00 发动机的测试[4]" Target="frmContent" Href="../searchservlet?query=G01M15/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01M15/00">
+    <TreeNode Title="G01M15/02 #测试仪器的零部件或附件[8]" Target="frmContent" Href="../searchservlet?query=G01M15/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01M15/02"/>
+    <TreeNode Title="G01M15/04 #内燃机测试，例如，活塞发动机诊断测试[8]" Target="frmContent" Href="../searchservlet?query=G01M15/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01M15/04">
+      <TreeNode Title="G01M15/05 ##两个或两个以上不同发动机参数组合监测[8]" Target="frmContent" Href="../searchservlet?query=G01M15/05&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01M15/05"/>
+      <TreeNode Title="G01M15/06 ##通过监测活塞或曲柄的位置[8]" Target="frmContent" Href="../searchservlet?query=G01M15/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01M15/06"/>
+      <TreeNode Title="G01M15/08 ##通过监测汽缸内的压力[8]" Target="frmContent" Href="../searchservlet?query=G01M15/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01M15/08"/>
+      <TreeNode Title="G01M15/09 ##通过监测流动管道内的压力，例如，润滑油或冷却部件[8]" Target="frmContent" Href="../searchservlet?query=G01M15/09&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01M15/09"/>
+      <TreeNode Title="G01M15/10 ##通过监测排气[8]" Target="frmContent" Href="../searchservlet?query=G01M15/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01M15/10"/>
+      <TreeNode Title="G01M15/11 ##通过检测不发火[8]" Target="frmContent" Href="../searchservlet?query=G01M15/11&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01M15/11"/>
+      <TreeNode Title="G01M15/12 ##通过监测振动[8]" Target="frmContent" Href="../searchservlet?query=G01M15/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01M15/12"/>
+    </TreeNode>
+    <TreeNode Title="G01M15/14 #燃气设备或喷气推进设备的测试[8]" Target="frmContent" Href="../searchservlet?query=G01M15/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01M15/14"/>
+  </TreeNode>
+  <TreeNode Title="G01M17/00 车辆的测试(G01M 15/00优先；流体密封性测试入G01M 3/00；车身或底盘弹性的测试，例如，扭矩测试入G01M 5/00；车辆前灯装置的对光测试入G01M 11/06)" Target="frmContent" Href="../searchservlet?query=G01M17/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01M17/00">
+    <TreeNode Title="G01M17/007 #轮式或履带式车辆的(G01M 17/08优先)[6]" Target="frmContent" Href="../searchservlet?query=G01M17/007&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01M17/007">
+      <TreeNode Title="G01M17/013 ##车轮的[6]" Target="frmContent" Href="../searchservlet?query=G01M17/013&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01M17/013"/>
+      <TreeNode Title="G01M17/02 ##轮胎的[6]" Target="frmContent" Href="../searchservlet?query=G01M17/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01M17/02"/>
+      <TreeNode Title="G01M17/03 ##履带的[6]" Target="frmContent" Href="../searchservlet?query=G01M17/03&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01M17/03"/>
+      <TreeNode Title="G01M17/04 ##悬挂机构或减震机构的[6]" Target="frmContent" Href="../searchservlet?query=G01M17/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01M17/04"/>
+      <TreeNode Title="G01M17/06 ##转向性能的；颠簸性能的(测量转向角入G01B；测量转向力入G01L)[6]" Target="frmContent" Href="../searchservlet?query=G01M17/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01M17/06"/>
+    </TreeNode>
+    <TreeNode Title="G01M17/08 #铁路车辆的[6]" Target="frmContent" Href="../searchservlet?query=G01M17/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01M17/08">
+      <TreeNode Title="G01M17/10 ##悬挂机构的；车轴或车轮的[6]" Target="frmContent" Href="../searchservlet?query=G01M17/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01M17/10"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="G01M99/00 本小类其他组中不包括的技术主题[2011.01]" Target="frmContent" Href="../searchservlet?query=G01M99/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01M99/00"/>
+</Root>

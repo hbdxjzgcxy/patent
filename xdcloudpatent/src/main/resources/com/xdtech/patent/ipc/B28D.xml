@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="B28D1/00 不包含在其他类目中的石头或类似石头的材料，例如砖、混凝土的加工；所用的机械、装置、工具(宝石、宝石饰物，水晶的精加工入B28D 5/00；磨削或抛光加工入B24；用于精整或修整研磨面的装置或方法入B24B 53/00)" Target="frmContent" Href="../searchservlet?query=B28D1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B28D1/00">
+    <TreeNode Title="B28D1/02 #通过锯切" Target="frmContent" Href="../searchservlet?query=B28D1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B28D1/02">
+      <TreeNode Title="B28D1/04 ##具有圆锯条或圆锯盘的(B28D 1/10优先)" Target="frmContent" Href="../searchservlet?query=B28D1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B28D1/04"/>
+      <TreeNode Title="B28D1/06 ##具有往复式锯条的(B28D 1/10优先)" Target="frmContent" Href="../searchservlet?query=B28D1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B28D1/06"/>
+      <TreeNode Title="B28D1/08 ##具有环形刀具式锯条的，例如链锯、带锯(B28D 1/10优先)" Target="frmContent" Href="../searchservlet?query=B28D1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B28D1/08"/>
+      <TreeNode Title="B28D1/10 ##具有测量装置的" Target="frmContent" Href="../searchservlet?query=B28D1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B28D1/10"/>
+      <TreeNode Title="B28D1/12 ##专门适用于加工石料的锯条" Target="frmContent" Href="../searchservlet?query=B28D1/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B28D1/12"/>
+    </TreeNode>
+    <TreeNode Title="B28D1/14 #通过钻孔或打眼(旋转钻孔机械入B23B； 冲击工具入B25D；土层或岩石钻进入E21B)[1，7]" Target="frmContent" Href="../searchservlet?query=B28D1/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B28D1/14"/>
+    <TreeNode Title="B28D1/16 #通过车削" Target="frmContent" Href="../searchservlet?query=B28D1/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B28D1/16"/>
+    <TreeNode Title="B28D1/18 #通过铣削，例如用铣刀铣槽的" Target="frmContent" Href="../searchservlet?query=B28D1/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B28D1/18"/>
+    <TreeNode Title="B28D1/20 #通过刨削，例如用刨刀刨槽的" Target="frmContent" Href="../searchservlet?query=B28D1/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B28D1/20"/>
+    <TreeNode Title="B28D1/22 #通过切割，例如切开" Target="frmContent" Href="../searchservlet?query=B28D1/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B28D1/22">
+      <TreeNode Title="B28D1/24 ##用圆盘刀的" Target="frmContent" Href="../searchservlet?query=B28D1/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B28D1/24"/>
+    </TreeNode>
+    <TreeNode Title="B28D1/26 #通过撞击工具，例如用凿子或其他有切削刃的工具(轻便冲击工具入B25D)" Target="frmContent" Href="../searchservlet?query=B28D1/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B28D1/26">
+      <TreeNode Title="B28D1/28 ##无切削刃的" Target="frmContent" Href="../searchservlet?query=B28D1/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B28D1/28"/>
+    </TreeNode>
+    <TreeNode Title="B28D1/30 #形成轮廓，即曲面，不考虑加工使用的方法(用于艺术目的加工入B44B)" Target="frmContent" Href="../searchservlet?query=B28D1/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B28D1/30"/>
+    <TreeNode Title="B28D1/32 #专门适用于加工易裂材料的方法或装置，例如用于加工云母、板石、片岩" Target="frmContent" Href="../searchservlet?query=B28D1/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B28D1/32"/>
+  </TreeNode>
+  <TreeNode Title="B28D3/00 修整碾盘或滚子(修整锯切机械或装置的工具入B23D 63/00；处理切削机械的切削件使之便于切削入B26D 7/08)" Target="frmContent" Href="../searchservlet?query=B28D3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B28D3/00">
+    <TreeNode Title="B28D3/02 #机械" Target="frmContent" Href="../searchservlet?query=B28D3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B28D3/02">
+      <TreeNode Title="B28D3/04 ##用于切槽滚子的" Target="frmContent" Href="../searchservlet?query=B28D3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B28D3/04"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="B28D5/00 宝石、宝石饰物、结晶体的精细加工，例如半导体材料的精加工；所用设备(磨削或抛光加工入B24；用于艺术目的加工入B44B；用非机械方法的入C04B 41/00；单晶的非机械方法后处理入C30B 33/00)[3]" Target="frmContent" Href="../searchservlet?query=B28D5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B28D5/00">
+    <TreeNode Title="B28D5/02 #用旋转工具的，例如钻具" Target="frmContent" Href="../searchservlet?query=B28D5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B28D5/02"/>
+    <TreeNode Title="B28D5/04 #用非旋转式工具的，例如往复式工具" Target="frmContent" Href="../searchservlet?query=B28D5/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B28D5/04"/>
+  </TreeNode>
+  <TreeNode Title="B28D7/00 专门适用于与本小类其他各组的机械或其装置一起使用的附件" Target="frmContent" Href="../searchservlet?query=B28D7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B28D7/00">
+    <TreeNode Title="B28D7/02 #用于清除或消除灰尘的，例如通过喷射液体；用于冷却工件的" Target="frmContent" Href="../searchservlet?query=B28D7/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B28D7/02"/>
+    <TreeNode Title="B28D7/04 #用于支承或夹持工件的" Target="frmContent" Href="../searchservlet?query=B28D7/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B28D7/04"/>
+  </TreeNode>
+</Root>

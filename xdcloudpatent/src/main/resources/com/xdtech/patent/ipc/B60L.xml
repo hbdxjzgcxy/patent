@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="B60L1/00 电动车辆辅助装备的供电(一般车辆的信号或照明装置的布置，其安装或支承或其电路入B60Q) [6]" Target="frmContent" Href="../searchservlet?query=B60L1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60L1/00">
+    <TreeNode Title="B60L1/02 # 向电热电路" Target="frmContent" Href="../searchservlet?query=B60L1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60L1/02">
+      <TreeNode Title="B60L1/04 ##通过电源线路供电的" Target="frmContent" Href="../searchservlet?query=B60L1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60L1/04">
+        <TreeNode Title="B60L1/06 ###仅用一个电源的" Target="frmContent" Href="../searchservlet?query=B60L1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60L1/06">
+          <TreeNode Title="B60L1/08 ####用于控制或调节的方法或装置" Target="frmContent" Href="../searchservlet?query=B60L1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60L1/08"/>
+        </TreeNode>
+        <TreeNode Title="B60L1/10 ###备有使用不同电源的装置" Target="frmContent" Href="../searchservlet?query=B60L1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60L1/10">
+          <TreeNode Title="B60L1/12 ####用于控制或调节的方法或装置" Target="frmContent" Href="../searchservlet?query=B60L1/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60L1/12"/>
+        </TreeNode>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="B60L1/14 # 向电照明电路" Target="frmContent" Href="../searchservlet?query=B60L1/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60L1/14">
+      <TreeNode Title="B60L1/16 ##通过电源线路供电的" Target="frmContent" Href="../searchservlet?query=B60L1/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60L1/16"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="B60L3/00 电动车辆上安全用电装置；运转变量，例如速度、减速、功率消耗的监测" Target="frmContent" Href="../searchservlet?query=B60L3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60L3/00">
+    <TreeNode Title="B60L3/02 # 事故自动刹车装置" Target="frmContent" Href="../searchservlet?query=B60L3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60L3/02"/>
+    <TreeNode Title="B60L3/04 # 发生故障时切断电源" Target="frmContent" Href="../searchservlet?query=B60L3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60L3/04"/>
+    <TreeNode Title="B60L3/06 # 机械超负荷时限制牵引电流" Target="frmContent" Href="../searchservlet?query=B60L3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60L3/06"/>
+    <TreeNode Title="B60L3/08 # 防止车辆超速的装置" Target="frmContent" Href="../searchservlet?query=B60L3/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60L3/08"/>
+    <TreeNode Title="B60L3/10 # 指示车轮打滑的" Target="frmContent" Href="../searchservlet?query=B60L3/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60L3/10"/>
+    <TreeNode Title="B60L3/12 # 记录运转变量" Target="frmContent" Href="../searchservlet?query=B60L3/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60L3/12"/>
+  </TreeNode>
+  <TreeNode Title="B60L5/00 电动车辆电源线路的集电器" Target="frmContent" Href="../searchservlet?query=B60L5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60L5/00">
+    <TreeNode Title="B60L5/02 # 有除冰装置的" Target="frmContent" Href="../searchservlet?query=B60L5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60L5/02"/>
+    <TreeNode Title="B60L5/04 # 使用与电车架空线接触的滚子或滑瓦(B60L 5/40优先)" Target="frmContent" Href="../searchservlet?query=B60L5/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60L5/04">
+      <TreeNode Title="B60L5/06 ##滚子或其支承装置的结构" Target="frmContent" Href="../searchservlet?query=B60L5/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60L5/06"/>
+      <TreeNode Title="B60L5/08 ##滑瓦或其支承装置的结构" Target="frmContent" Href="../searchservlet?query=B60L5/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60L5/08"/>
+      <TreeNode Title="B60L5/10 ##防止集电器脱线的装置" Target="frmContent" Href="../searchservlet?query=B60L5/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60L5/10"/>
+      <TreeNode Title="B60L5/12 ##电极或电极座的结构特征" Target="frmContent" Href="../searchservlet?query=B60L5/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60L5/12">
+        <TreeNode Title="B60L5/14 ###已脱线集电器自动落下的装置" Target="frmContent" Href="../searchservlet?query=B60L5/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60L5/14"/>
+        <TreeNode Title="B60L5/16 ###集电器升起和复位的装置(B60L 5/34优先)" Target="frmContent" Href="../searchservlet?query=B60L5/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60L5/16"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="B60L5/18 # 使用与电车架空线接触的弓形集电器" Target="frmContent" Href="../searchservlet?query=B60L5/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60L5/18">
+      <TreeNode Title="B60L5/19 ##使用使集电器运动横向于车辆运动方向的装置[3]" Target="frmContent" Href="../searchservlet?query=B60L5/19&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60L5/19"/>
+      <TreeNode Title="B60L5/20 ##集电弓的零部件" Target="frmContent" Href="../searchservlet?query=B60L5/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60L5/20"/>
+      <TreeNode Title="B60L5/22 ##集电弓的支承装置" Target="frmContent" Href="../searchservlet?query=B60L5/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60L5/22">
+        <TreeNode Title="B60L5/24 ###缩放式的" Target="frmContent" Href="../searchservlet?query=B60L5/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60L5/24"/>
+        <TreeNode Title="B60L5/26 ###半缩放式的，例如使用反振荡杆的" Target="frmContent" Href="../searchservlet?query=B60L5/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60L5/26"/>
+        <TreeNode Title="B60L5/28 ###集电器升起和复位的装置" Target="frmContent" Href="../searchservlet?query=B60L5/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60L5/28">
+          <TreeNode Title="B60L5/30 ####使用弹簧的" Target="frmContent" Href="../searchservlet?query=B60L5/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60L5/30"/>
+          <TreeNode Title="B60L5/32 ####使用流体压力的" Target="frmContent" Href="../searchservlet?query=B60L5/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60L5/32"/>
+        </TreeNode>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="B60L5/34 # 备有使一辆车可越过另一辆车使用同一电源线路的装置" Target="frmContent" Href="../searchservlet?query=B60L5/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60L5/34"/>
+    <TreeNode Title="B60L5/36 # 备有同时从多根导线，例如从多相线上集电的装置" Target="frmContent" Href="../searchservlet?query=B60L5/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60L5/36"/>
+    <TreeNode Title="B60L5/38 # 用于从导电轨上集电的(B60L 5/40优先)" Target="frmContent" Href="../searchservlet?query=B60L5/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60L5/38">
+      <TreeNode Title="B60L5/39 ##从第三导电轨上[3]" Target="frmContent" Href="../searchservlet?query=B60L5/39&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60L5/39"/>
+    </TreeNode>
+    <TreeNode Title="B60L5/40 # 用于从开槽电缆管道内线上集电的" Target="frmContent" Href="../searchservlet?query=B60L5/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60L5/40"/>
+    <TreeNode Title="B60L5/42 # 用于从连接电源线路的各个接触元件上集电的" Target="frmContent" Href="../searchservlet?query=B60L5/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60L5/42"/>
+  </TreeNode>
+  <TreeNode Title="B60L7/00 一般用于车辆的电力制动系统[4]" Target="frmContent" Href="../searchservlet?query=B60L7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60L7/00">
+    <TreeNode Title="B60L7/02 # 动态电阻制动(B60L 7/22优先)" Target="frmContent" Href="../searchservlet?query=B60L7/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60L7/02">
+      <TreeNode Title="B60L7/04 ##用于直流电动机推进的车辆" Target="frmContent" Href="../searchservlet?query=B60L7/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60L7/04"/>
+      <TreeNode Title="B60L7/06 ##用于交流电动机推进的车辆" Target="frmContent" Href="../searchservlet?query=B60L7/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60L7/06"/>
+      <TreeNode Title="B60L7/08 ##制动效果的控制(B60L 7/04，B60L 7/06优先)" Target="frmContent" Href="../searchservlet?query=B60L7/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60L7/08"/>
+    </TreeNode>
+    <TreeNode Title="B60L7/10 # 动态电能量回收式制动(B60L 7/22优先)" Target="frmContent" Href="../searchservlet?query=B60L7/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60L7/10">
+      <TreeNode Title="B60L7/12 ##用于直流电动机推进的车辆" Target="frmContent" Href="../searchservlet?query=B60L7/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60L7/12"/>
+      <TreeNode Title="B60L7/14 ##用于交流电动机推进的车辆" Target="frmContent" Href="../searchservlet?query=B60L7/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60L7/14"/>
+      <TreeNode Title="B60L7/16 ##用于电源与电动机之间具有变流器的车辆" Target="frmContent" Href="../searchservlet?query=B60L7/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60L7/16"/>
+      <TreeNode Title="B60L7/18 ##制动效果的控制(B60L 7/12，B60L 7/14，B60L 7/16优先)" Target="frmContent" Href="../searchservlet?query=B60L7/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60L7/18"/>
+    </TreeNode>
+    <TreeNode Title="B60L7/20 # 通过向车辆原动机供给回收功率的制动，原动机则包括发动机驱动的发电机" Target="frmContent" Href="../searchservlet?query=B60L7/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60L7/20"/>
+    <TreeNode Title="B60L7/22 # 与动态电能量回收式制动联用的动态电阻制动" Target="frmContent" Href="../searchservlet?query=B60L7/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60L7/22"/>
+    <TreeNode Title="B60L7/24 # 有附加机械或电磁制动的" Target="frmContent" Href="../searchservlet?query=B60L7/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60L7/24">
+      <TreeNode Title="B60L7/26 ##制动效果的控制" Target="frmContent" Href="../searchservlet?query=B60L7/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60L7/26"/>
+    </TreeNode>
+    <TreeNode Title="B60L7/28 # 涡流制动" Target="frmContent" Href="../searchservlet?query=B60L7/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60L7/28"/>
+  </TreeNode>
+  <TreeNode Title="B60L8/00 用自然力所提供的电力的电力牵引，如太阳能、风力[5]" Target="frmContent" Href="../searchservlet?query=B60L8/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60L8/00"/>
+  <TreeNode Title="B60L9/00 用车辆外部电源的电力牵引(B60L 8/00，B60L 13/00优先)[5，6]" Target="frmContent" Href="../searchservlet?query=B60L9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60L9/00">
+    <TreeNode Title="B60L9/02 # 用直流电动机的" Target="frmContent" Href="../searchservlet?query=B60L9/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60L9/02">
+      <TreeNode Title="B60L9/04 ##由直流电源线路供电的" Target="frmContent" Href="../searchservlet?query=B60L9/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60L9/04">
+        <TreeNode Title="B60L9/06 ###用微场扩流发电机变流的" Target="frmContent" Href="../searchservlet?query=B60L9/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60L9/06"/>
+      </TreeNode>
+      <TreeNode Title="B60L9/08 ##由交流电源线路供电的" Target="frmContent" Href="../searchservlet?query=B60L9/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60L9/08">
+        <TreeNode Title="B60L9/10 ###有旋转变流器的" Target="frmContent" Href="../searchservlet?query=B60L9/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60L9/10"/>
+        <TreeNode Title="B60L9/12 ###有静止式变流器的" Target="frmContent" Href="../searchservlet?query=B60L9/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60L9/12"/>
+      </TreeNode>
+      <TreeNode Title="B60L9/14 ##由不同种类电源线路供电的" Target="frmContent" Href="../searchservlet?query=B60L9/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60L9/14"/>
+    </TreeNode>
+    <TreeNode Title="B60L9/16 # 使用交流感应电动机的" Target="frmContent" Href="../searchservlet?query=B60L9/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60L9/16">
+      <TreeNode Title="B60L9/18 ##由直流电源线路供电的" Target="frmContent" Href="../searchservlet?query=B60L9/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60L9/18">
+        <TreeNode Title="B60L9/20 ###单相电动机" Target="frmContent" Href="../searchservlet?query=B60L9/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60L9/20"/>
+        <TreeNode Title="B60L9/22 ###多相电动机" Target="frmContent" Href="../searchservlet?query=B60L9/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60L9/22"/>
+      </TreeNode>
+      <TreeNode Title="B60L9/24 ##由交流电源线路供电的" Target="frmContent" Href="../searchservlet?query=B60L9/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60L9/24">
+        <TreeNode Title="B60L9/26 ###单相电动机" Target="frmContent" Href="../searchservlet?query=B60L9/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60L9/26"/>
+        <TreeNode Title="B60L9/28 ###多相电动机" Target="frmContent" Href="../searchservlet?query=B60L9/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60L9/28"/>
+      </TreeNode>
+      <TreeNode Title="B60L9/30 ##由不同种类电源线路供电的" Target="frmContent" Href="../searchservlet?query=B60L9/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60L9/30"/>
+    </TreeNode>
+    <TreeNode Title="B60L9/32 # 使用交流移刷型电动机的" Target="frmContent" Href="../searchservlet?query=B60L9/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60L9/32"/>
+  </TreeNode>
+  <TreeNode Title="B60L11/00 用车辆内部电源的电力牵引(B60L 8/00、B60L 13/00优先；用于相互或共同牵引的包含电动机和内燃机的原动机的布置或安装入B60K 6/20)[5，6，8]" Target="frmContent" Href="../searchservlet?query=B60L11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60L11/00">
+    <TreeNode Title="B60L11/02 # 使用发动机驱动的发电机" Target="frmContent" Href="../searchservlet?query=B60L11/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60L11/02">
+      <TreeNode Title="B60L11/04 ##使用直流发电机和电动机的" Target="frmContent" Href="../searchservlet?query=B60L11/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60L11/04"/>
+      <TreeNode Title="B60L11/06 ##使用交流发电机和直流电动机的" Target="frmContent" Href="../searchservlet?query=B60L11/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60L11/06"/>
+      <TreeNode Title="B60L11/08 ##使用交流发电机和电动机的" Target="frmContent" Href="../searchservlet?query=B60L11/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60L11/08"/>
+      <TreeNode Title="B60L11/10 ##使用直流发电机和交流电动机的" Target="frmContent" Href="../searchservlet?query=B60L11/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60L11/10"/>
+      <TreeNode Title="B60L11/12 ##有附加电源的，例如有蓄电池的" Target="frmContent" Href="../searchservlet?query=B60L11/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60L11/12"/>
+      <TreeNode Title="B60L11/14 ##有机械直接驱动装置的" Target="frmContent" Href="../searchservlet?query=B60L11/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60L11/14"/>
+    </TreeNode>
+    <TreeNode Title="B60L11/16 # 使用机械储能的，例如储在飞轮内的" Target="frmContent" Href="../searchservlet?query=B60L11/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60L11/16"/>
+    <TreeNode Title="B60L11/18 # 使用初级电池、二次电池或燃料电池供电的" Target="frmContent" Href="../searchservlet?query=B60L11/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60L11/18"/>
+  </TreeNode>
+  <TreeNode Title="B60L13/00 用于单轨车辆的、悬置式车辆或齿轨铁路的电力牵引；车辆磁力悬置或悬浮[4，6]" Target="frmContent" Href="../searchservlet?query=B60L13/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60L13/00">
+    <TreeNode Title="B60L13/03 # 由线性电动机的电力牵引[6]" Target="frmContent" Href="../searchservlet?query=B60L13/03&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60L13/03"/>
+    <TreeNode Title="B60L13/04 # 用于车辆的磁力悬置或悬浮[4]" Target="frmContent" Href="../searchservlet?query=B60L13/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60L13/04">
+      <TreeNode Title="B60L13/06 ##传感或控制车辆相对于铁路位置或姿态的装置[4]" Target="frmContent" Href="../searchservlet?query=B60L13/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60L13/06">
+        <TreeNode Title="B60L13/08 ###用于侧向位置的[4]" Target="frmContent" Href="../searchservlet?query=B60L13/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60L13/08"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="B60L13/10 # 电力牵引和磁力悬置或悬浮的组合[4]" Target="frmContent" Href="../searchservlet?query=B60L13/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60L13/10"/>
+  </TreeNode>
+  <TreeNode Title="B60L15/00 控制电动车辆驱动(如其牵引电动机速度)以达到其预想性能的方法、电路或机构；电动车辆上控制设备的配置，用于从固定地点，或者从车辆的可选部件或从同一车队的可选车辆上进行远程操纵；" Target="frmContent" Href="../searchservlet?query=B60L15/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60L15/00">
+    <TreeNode Title="B60L15/02 # 以控制电路所用电流形式为特点的" Target="frmContent" Href="../searchservlet?query=B60L15/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60L15/02">
+      <TreeNode Title="B60L15/04 ##使用直流电的" Target="frmContent" Href="../searchservlet?query=B60L15/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60L15/04"/>
+      <TreeNode Title="B60L15/06 ##使用基本是正弦交流电的" Target="frmContent" Href="../searchservlet?query=B60L15/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60L15/06"/>
+      <TreeNode Title="B60L15/08 ##使用脉冲的" Target="frmContent" Href="../searchservlet?query=B60L15/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60L15/08"/>
+    </TreeNode>
+    <TreeNode Title="B60L15/10 # 自动控制与人工控制相配合用的，以限制车辆加速度，例如防止电动机产生过大电流(安全用电装置入B60L 3/00)" Target="frmContent" Href="../searchservlet?query=B60L15/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60L15/10">
+      <TreeNode Title="B60L15/12 ##有继电器或接触器控制的电路" Target="frmContent" Href="../searchservlet?query=B60L15/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60L15/12"/>
+      <TreeNode Title="B60L15/14 ##有伺服电动机驱动的主控制器(B60L 15/18优先)" Target="frmContent" Href="../searchservlet?query=B60L15/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60L15/14"/>
+      <TreeNode Title="B60L15/16 ##有通过棘轮机构驱动的主控制器(B60L 15/18优先)" Target="frmContent" Href="../searchservlet?query=B60L15/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60L15/16"/>
+      <TreeNode Title="B60L15/18 ##无须接通和断开的，例如使用传感器的" Target="frmContent" Href="../searchservlet?query=B60L15/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60L15/18"/>
+    </TreeNode>
+    <TreeNode Title="B60L15/20 # 用于控制车辆或其驱动电动机，以达到期望的特性，例如速度、转矩或程序化速度变量" Target="frmContent" Href="../searchservlet?query=B60L15/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60L15/20">
+      <TreeNode Title="B60L15/22 ##用顺序操作联动开关的，例如继电器、接触器、程序鼓" Target="frmContent" Href="../searchservlet?query=B60L15/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60L15/22"/>
+      <TreeNode Title="B60L15/24 ##有伺服电动机驱动的主控制器(B60L 15/28优先)" Target="frmContent" Href="../searchservlet?query=B60L15/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60L15/24"/>
+      <TreeNode Title="B60L15/26 ##有通过棘轮机构驱动的主控制器(B60L 15/28优先)" Target="frmContent" Href="../searchservlet?query=B60L15/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60L15/26"/>
+      <TreeNode Title="B60L15/28 ##无须接通和断开的，例如使用传感器的" Target="frmContent" Href="../searchservlet?query=B60L15/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60L15/28"/>
+      <TreeNode Title="B60L15/30 ##有人工控制转换装置的" Target="frmContent" Href="../searchservlet?query=B60L15/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60L15/30"/>
+    </TreeNode>
+    <TreeNode Title="B60L15/32 # 多动力装置电动车辆的控制或调整" Target="frmContent" Href="../searchservlet?query=B60L15/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60L15/32">
+      <TreeNode Title="B60L15/34 ##用人工控制调整装置的" Target="frmContent" Href="../searchservlet?query=B60L15/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60L15/34">
+        <TreeNode Title="B60L15/36 ###与自动控制装置相配合，例如防止电动机产生过大电流" Target="frmContent" Href="../searchservlet?query=B60L15/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60L15/36"/>
+      </TreeNode>
+      <TreeNode Title="B60L15/38 ##用自动控制的" Target="frmContent" Href="../searchservlet?query=B60L15/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60L15/38"/>
+    </TreeNode>
+    <TreeNode Title="B60L15/40 # 配置可从固定地点远距离操纵的车上控制设备(用于铁路车辆控制机构的沿线装置入B61L 3/00；铁路交通中心控制系统入B61L 27/00)" Target="frmContent" Href="../searchservlet?query=B60L15/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60L15/40"/>
+    <TreeNode Title="B60L15/42 # 配置可从车辆选择部分或从同一车队选择车辆上操纵的车上控制设备(B60L 15/32优先)" Target="frmContent" Href="../searchservlet?query=B60L15/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60L15/42"/>
+  </TreeNode>
+</Root>

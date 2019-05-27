@@ -1,0 +1,132 @@
+/**高级检索*/
+.h_box {
+	width: 1000px;
+	margin: 0 auto;
+}
+
+.titles {
+	margin: 10px 0 6px;
+	font-size: 14px;
+	font-weight: bold;
+	color: #333;
+	line-height: 18px;
+}
+
+.titles .hp {
+	display: inline-block;
+	width: 12px;
+	height: 12px;
+	margin: 5px 0 0 5px;
+	background: url(../images/help.png) left top no-repeat;
+}
+
+.titles .i {
+	float: left;
+	display: inline-block;
+	width: 20px;
+	height: 18px;
+	margin: 0 9px 0 3px;
+	vertical-align: middle;
+}
+
+.titles .i1 {
+	background: url(../images/i1.png) left top no-repeat;
+}
+
+.titles .i2 {
+	background: url(../images/i2.png) left top no-repeat;
+}
+
+.h_js {
+	width: 100%;
+	border: 1px solid #e3e3e3;
+	border-top: 1px solid #e3e3e3;
+}
+
+.h_tj {
+	width: 100%;
+	height: 29px;
+	background: url(../images/t_bg.png) left top repeat-x;
+	border-bottom: 1px solid #e3e3e3;
+}
+
+.h_tj a {
+	float: left;
+	height: 24px;
+	padding: 0 12px;
+	border-left: 1px solid #e3e3e3;
+	margin: 3px 0 0 -1px;
+	line-height: 24px;
+	color: #5f5f5f;
+	text-decoration: none;
+}
+
+.h_tj a:HOVER {
+	float: left;
+	height: 24px;
+	padding: 0 12px;
+	border-left: 1px solid #e3e3e3;
+	margin: 3px 0 0 -1px;
+	line-height: 24px;
+	color: #5f5f5f;
+	background-color:#e3e3e3;
+	text-decoration: none;
+}
+
+
+.h_tj .alt_more {
+	color: #487bc4;
+	font-weight: bold;
+}
+
+.h_tbox {
+	width: 99.5%;
+}
+
+.h_area {
+	border: 0;
+	width: 100%;
+	padding: 3px;
+	height: 130px;
+	vertical-align: top;
+}
+
+.h_ziduan {
+	display: none;
+	width: 100%;
+	margin: 11px 0px;
+	border: 1px solid #F8F8F8;
+}
+
+.h_ziduan_in {
+	border: 1px solid #e1e1e1;
+	padding: 7px;
+}
+
+.h_ziduan_tab td {
+	border: 3px solid #fff;
+	background-color: #FAFAFA;
+}
+
+.h_ziduan_tab span {
+	color: #487bc4;
+	font-weight: bold;
+	margin-left: 12px;
+}
+
+.h_ziduan_tab p {
+	padding: 0 0 0 40px;
+	color: #555;
+	line-height: 24px;
+}
+
+.h_ziduan_tab p:hover {
+	cursor: pointer;
+	color: #487BC4;
+}
+
+.h_ziduan_tab p strong {
+	font-weight: bold;
+}
+
+/*权利要求*/

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="D06L1/00 干洗或水洗纤维、纱、线、织物、羽毛或纤维制品" Target="frmContent" Href="../searchservlet?query=D06L1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06L1/00">
+    <TreeNode Title="D06L1/02 #用有机溶剂" Target="frmContent" Href="../searchservlet?query=D06L1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06L1/02">
+      <TreeNode Title="D06L1/04 ##同时用添加剂(D06L 1/06优先)" Target="frmContent" Href="../searchservlet?query=D06L1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06L1/04"/>
+      <TreeNode Title="D06L1/06 ##退浆" Target="frmContent" Href="../searchservlet?query=D06L1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06L1/06"/>
+      <TreeNode Title="D06L1/08 ##多级法" Target="frmContent" Href="../searchservlet?query=D06L1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06L1/08"/>
+      <TreeNode Title="D06L1/10 ##用过的化学溶液的再生" Target="frmContent" Href="../searchservlet?query=D06L1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06L1/10"/>
+    </TreeNode>
+    <TreeNode Title="D06L1/12 #用水浴法" Target="frmContent" Href="../searchservlet?query=D06L1/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06L1/12">
+      <TreeNode Title="D06L1/14 ##退浆" Target="frmContent" Href="../searchservlet?query=D06L1/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06L1/14"/>
+      <TreeNode Title="D06L1/16 ##多级法" Target="frmContent" Href="../searchservlet?query=D06L1/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06L1/16"/>
+      <TreeNode Title="D06L1/18 ##在压力密封容器内进行" Target="frmContent" Href="../searchservlet?query=D06L1/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06L1/18"/>
+      <TreeNode Title="D06L1/20 ##与机械装置结合" Target="frmContent" Href="../searchservlet?query=D06L1/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06L1/20"/>
+    </TreeNode>
+    <TreeNode Title="D06L1/22 #水和有机材料连续处理工艺" Target="frmContent" Href="../searchservlet?query=D06L1/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06L1/22"/>
+  </TreeNode>
+  <TreeNode Title="D06L3/00 漂白纤维、纱、线、织物、羽毛、或纤维制品、皮革或毛皮" Target="frmContent" Href="../searchservlet?query=D06L3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06L3/00">
+    <TreeNode Title="D06L3/02 #用产生氧的化合物(D06L 3/06优先)" Target="frmContent" Href="../searchservlet?query=D06L3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06L3/02"/>
+    <TreeNode Title="D06L3/04 #用紫外线照射或臭氧处理" Target="frmContent" Href="../searchservlet?query=D06L3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06L3/04"/>
+    <TreeNode Title="D06L3/06 #用含卤化合物" Target="frmContent" Href="../searchservlet?query=D06L3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06L3/06">
+      <TreeNode Title="D06L3/08 ##亚氯酸盐；二氧化氯" Target="frmContent" Href="../searchservlet?query=D06L3/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06L3/08"/>
+    </TreeNode>
+    <TreeNode Title="D06L3/10 #用还原剂" Target="frmContent" Href="../searchservlet?query=D06L3/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06L3/10"/>
+    <TreeNode Title="D06L3/11 #使用酶[7]" Target="frmContent" Href="../searchservlet?query=D06L3/11&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06L3/11"/>
+    <TreeNode Title="D06L3/12 #萤光增白" Target="frmContent" Href="../searchservlet?query=D06L3/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06L3/12"/>
+    <TreeNode Title="D06L3/14 #多级法" Target="frmContent" Href="../searchservlet?query=D06L3/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06L3/14">
+      <TreeNode Title="D06L3/16 ##与洗涤结合" Target="frmContent" Href="../searchservlet?query=D06L3/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06L3/16"/>
+    </TreeNode>
+  </TreeNode>
+</Root>

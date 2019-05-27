@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="C10F5/00 泥煤的干燥或脱水" Target="frmContent" Href="../searchservlet?query=C10F5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10F5/00">
+    <TreeNode Title="C10F5/02 #在现场；所用辅助设备" Target="frmContent" Href="../searchservlet?query=C10F5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10F5/02"/>
+    <TreeNode Title="C10F5/04 #使用压榨机、带式压榨机、轧辊或离心机(模制入C10F 7/04)" Target="frmContent" Href="../searchservlet?query=C10F5/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10F5/04"/>
+    <TreeNode Title="C10F5/06 #与碳化步骤相结合以制造泥碳" Target="frmContent" Href="../searchservlet?query=C10F5/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10F5/06"/>
+  </TreeNode>
+  <TreeNode Title="C10F7/00 泥煤的加工(从泥煤中抽提蜡入C10G)" Target="frmContent" Href="../searchservlet?query=C10F7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10F7/00">
+    <TreeNode Title="C10F7/02 #泥煤的分解(由泥煤中取得纤维入D01B 1/50)" Target="frmContent" Href="../searchservlet?query=C10F7/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10F7/02"/>
+    <TreeNode Title="C10F7/04 #用模制" Target="frmContent" Href="../searchservlet?query=C10F7/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10F7/04">
+      <TreeNode Title="C10F7/06 ##压制成块" Target="frmContent" Href="../searchservlet?query=C10F7/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10F7/06"/>
+    </TreeNode>
+    <TreeNode Title="C10F7/08 #与切割相结合的剂压" Target="frmContent" Href="../searchservlet?query=C10F7/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10F7/08"/>
+  </TreeNode>
+</Root>

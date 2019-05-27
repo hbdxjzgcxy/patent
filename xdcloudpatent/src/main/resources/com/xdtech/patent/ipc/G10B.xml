@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="G10B1/00 一般设计" Target="frmContent" Href="../searchservlet?query=G10B1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G10B1/00">
+    <TreeNode Title="G10B1/02 #管风琴的" Target="frmContent" Href="../searchservlet?query=G10B1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G10B1/02">
+      <TreeNode Title="G10B1/04 ##电操作的" Target="frmContent" Href="../searchservlet?query=G10B1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G10B1/04"/>
+      <TreeNode Title="G10B1/06 ##流体操作的" Target="frmContent" Href="../searchservlet?query=G10B1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G10B1/06"/>
+    </TreeNode>
+    <TreeNode Title="G10B1/08 #簧风琴的" Target="frmContent" Href="../searchservlet?query=G10B1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G10B1/08"/>
+  </TreeNode>
+  <TreeNode Title="G10B3/00 零部件或附件" Target="frmContent" Href="../searchservlet?query=G10B3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G10B3/00">
+    <TreeNode Title="G10B3/02 #吹气器" Target="frmContent" Href="../searchservlet?query=G10B3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G10B3/02"/>
+    <TreeNode Title="G10B3/04 #储气器" Target="frmContent" Href="../searchservlet?query=G10B3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G10B3/04"/>
+    <TreeNode Title="G10B3/06 #活瓣；管套" Target="frmContent" Href="../searchservlet?query=G10B3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G10B3/06"/>
+    <TreeNode Title="G10B3/08 #管乐器，例如口琴或簧管乐器" Target="frmContent" Href="../searchservlet?query=G10B3/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G10B3/08"/>
+    <TreeNode Title="G10B3/10 #机械装置，例如耦合器" Target="frmContent" Href="../searchservlet?query=G10B3/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G10B3/10"/>
+    <TreeNode Title="G10B3/12 #键或键盘；手控的" Target="frmContent" Href="../searchservlet?query=G10B3/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G10B3/12"/>
+    <TreeNode Title="G10B3/14 #脚踏或脚踏板" Target="frmContent" Href="../searchservlet?query=G10B3/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G10B3/14"/>
+    <TreeNode Title="G10B3/16 #膨胀室；加重音的装置" Target="frmContent" Href="../searchservlet?query=G10B3/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G10B3/16"/>
+    <TreeNode Title="G10B3/18 #产生颤音装置" Target="frmContent" Href="../searchservlet?query=G10B3/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G10B3/18"/>
+    <TreeNode Title="G10B3/20 #变调装置" Target="frmContent" Href="../searchservlet?query=G10B3/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G10B3/20"/>
+    <TreeNode Title="G10B3/22 #专门适用于电控管风琴的零部件，例如其中的触点" Target="frmContent" Href="../searchservlet?query=G10B3/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G10B3/22"/>
+  </TreeNode>
+</Root>

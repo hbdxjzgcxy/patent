@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="A23K1/00 动物饲料" Target="frmContent" Href="../searchservlet?query=A23K1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A23K1/00">
+    <TreeNode Title="A23K1/02 #从废糖蜜" Target="frmContent" Href="../searchservlet?query=A23K1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A23K1/02"/>
+    <TreeNode Title="A23K1/04 #从血液" Target="frmContent" Href="../searchservlet?query=A23K1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A23K1/04"/>
+    <TreeNode Title="A23K1/06 #从酒厂或酿造厂废液" Target="frmContent" Href="../searchservlet?query=A23K1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A23K1/06"/>
+    <TreeNode Title="A23K1/08 #从乳品厂的废产品" Target="frmContent" Href="../searchservlet?query=A23K1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A23K1/08"/>
+    <TreeNode Title="A23K1/10 #从肉类、鱼类或骨；从厨房废料" Target="frmContent" Href="../searchservlet?query=A23K1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A23K1/10"/>
+    <TreeNode Title="A23K1/12 #从木材或草的水解产物" Target="frmContent" Href="../searchservlet?query=A23K1/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A23K1/12"/>
+    <TreeNode Title="A23K1/14 #从植物材料，例如薯类或非青贮的块根植物" Target="frmContent" Href="../searchservlet?query=A23K1/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A23K1/14"/>
+    <TreeNode Title="A23K1/16 #补充附加食物要素；盐块" Target="frmContent" Href="../searchservlet?query=A23K1/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A23K1/16">
+      <TreeNode Title="A23K1/165 ##有类固醇，激素或酶" Target="frmContent" Href="../searchservlet?query=A23K1/165&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A23K1/165"/>
+      <TreeNode Title="A23K1/17 ##有抗生素" Target="frmContent" Href="../searchservlet?query=A23K1/17&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A23K1/17"/>
+      <TreeNode Title="A23K1/175 ##有无机物质；盐块" Target="frmContent" Href="../searchservlet?query=A23K1/175&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A23K1/175"/>
+    </TreeNode>
+    <TreeNode Title="A23K1/18 #专门适用于特定动物的" Target="frmContent" Href="../searchservlet?query=A23K1/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A23K1/18"/>
+    <TreeNode Title="A23K1/20 #饼状或块状" Target="frmContent" Href="../searchservlet?query=A23K1/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A23K1/20"/>
+    <TreeNode Title="A23K1/22 #含可由家畜转化为蛋白质的化学成分，例如铵盐、尿素" Target="frmContent" Href="../searchservlet?query=A23K1/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A23K1/22"/>
+    <TreeNode Title="A23K1/24 #家禽用谷物渣 [2]" Target="frmContent" Href="../searchservlet?query=A23K1/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A23K1/24"/>
+  </TreeNode>
+  <TreeNode Title="A23K3/00 专门适用于生产动物饲料原料的保存方法" Target="frmContent" Href="../searchservlet?query=A23K3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A23K3/00">
+    <TreeNode Title="A23K3/02 #青饲料的(专门适用于农业或园艺作物储藏的机械方面的方法入A01F 25/00)" Target="frmContent" Href="../searchservlet?query=A23K3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A23K3/02">
+      <TreeNode Title="A23K3/03 ##使用化学物青贮饲料" Target="frmContent" Href="../searchservlet?query=A23K3/03&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A23K3/03"/>
+    </TreeNode>
+    <TreeNode Title="A23K3/04 #保存薯类；保存块根类" Target="frmContent" Href="../searchservlet?query=A23K3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A23K3/04"/>
+  </TreeNode>
+</Root>

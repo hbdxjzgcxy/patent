@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="F16M1/00 发动机、机器或设备的框架或外壳，作为机器底座的框架[2]" Target="frmContent" Href="../searchservlet?query=F16M1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16M1/00">
+    <TreeNode Title="F16M1/02 #用于往复式发动机或类似机器的" Target="frmContent" Href="../searchservlet?query=F16M1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16M1/02">
+      <TreeNode Title="F16M1/021 ##用于曲轴箱的" Target="frmContent" Href="../searchservlet?query=F16M1/021&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16M1/021">
+        <TreeNode Title="F16M1/022 ###隧道型的，即曲轴仅能沿轴向插入的(用于星形汽缸配置的发动机或机器人F16M 1/023)" Target="frmContent" Href="../searchservlet?query=F16M1/022&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16M1/022"/>
+        <TreeNode Title="F16M1/023 ###专门适用于星形汽缸配置的发动机或机器" Target="frmContent" Href="../searchservlet?query=F16M1/023&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16M1/023"/>
+        <TreeNode Title="F16M1/024 ###便于装配发动机或机器的动力传动部件，如连杆" Target="frmContent" Href="../searchservlet?query=F16M1/024&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16M1/024"/>
+        <TreeNode Title="F16M1/025 ###在外壳上装配轴承，如有地脚螺栓的外壳" Target="frmContent" Href="../searchservlet?query=F16M1/025&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16M1/025"/>
+      </TreeNode>
+      <TreeNode Title="F16M1/026 ##除曲轴外的发动机或机器的运动零件的壳体，如阀动装置壳体" Target="frmContent" Href="../searchservlet?query=F16M1/026&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16M1/026"/>
+    </TreeNode>
+    <TreeNode Title="F16M1/04 #用于旋转发动机或类似机器的" Target="frmContent" Href="../searchservlet?query=F16M1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16M1/04"/>
+    <TreeNode Title="F16M1/08 #以板材或焊接件装配为特征的" Target="frmContent" Href="../searchservlet?query=F16M1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16M1/08"/>
+  </TreeNode>
+  <TreeNode Title="F16M3/00 移动式或轮式框架或底座，如紧急用的电源及压缩机装置(一般车辆结构入B60至B62)" Target="frmContent" Href="../searchservlet?query=F16M3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16M3/00"/>
+  <TreeNode Title="F16M5/00 发动机底座，即在基础上支承发动机或机器的设备" Target="frmContent" Href="../searchservlet?query=F16M5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16M5/00"/>
+  <TreeNode Title="F16M7/00 安装或调整发动机底座，框架或基础上的支脚的零部件；安装发动机的固定部分，如汽缸体(减振用的弹性或类似的装置入F16F，特别是F16F 15/04)" Target="frmContent" Href="../searchservlet?query=F16M7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16M7/00"/>
+  <TreeNode Title="F16M9/00 与支承机器有关的基础的专门布置(机械的基础入E02D 27/44)" Target="frmContent" Href="../searchservlet?query=F16M9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16M9/00"/>
+  <TreeNode Title="F16M11/00 用于器械或其上制品的作为支承的机台或支架(无头的入F16M 13/00；绘图板架或黑板架或类似架入A47B 97/04；展台入A47F 7/00；工作台入E04G 1/32；照明装置的支承，悬挂入F21V 21/00；为特殊的器械或产品而专门改进的见适当的小类)" Target="frmContent" Href="../searchservlet?query=F16M11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16M11/00">
+    <TreeNode Title="F16M11/02 #头部" Target="frmContent" Href="../searchservlet?query=F16M11/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16M11/02">
+      <TreeNode Title="F16M11/04 ##器械的固定方法；器械相对于支架允许调整的方法" Target="frmContent" Href="../searchservlet?query=F16M11/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16M11/04">
+        <TreeNode Title="F16M11/06 ###允许转动的" Target="frmContent" Href="../searchservlet?query=F16M11/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16M11/06">
+          <TreeNode Title="F16M11/08 ####围绕立轴转动的" Target="frmContent" Href="../searchservlet?query=F16M11/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16M11/08"/>
+          <TreeNode Title="F16M11/10 ####围绕横轴转动的" Target="frmContent" Href="../searchservlet?query=F16M11/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16M11/10"/>
+          <TreeNode Title="F16M11/12 ####多方向转动的" Target="frmContent" Href="../searchservlet?query=F16M11/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16M11/12">
+            <TreeNode Title="F16M11/14 #####具有球节(球窝铰链入F16C 11/06)" Target="frmContent" Href="../searchservlet?query=F16M11/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16M11/14"/>
+          </TreeNode>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="F16M11/16 ##固定头部支脚的零部件，有或没有所用锁定件作用的" Target="frmContent" Href="../searchservlet?query=F16M11/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16M11/16"/>
+      <TreeNode Title="F16M11/18 ##带有使器械相对于支架运动的机构" Target="frmContent" Href="../searchservlet?query=F16M11/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16M11/18"/>
+    </TreeNode>
+    <TreeNode Title="F16M11/20 #带有或不带有轮子的底盘" Target="frmContent" Href="../searchservlet?query=F16M11/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16M11/20">
+      <TreeNode Title="F16M11/22 ##带有近乎不变高度的，如具有长度不变的支柱或支脚(F16M 11/42优先)" Target="frmContent" Href="../searchservlet?query=F16M11/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16M11/22"/>
+      <TreeNode Title="F16M11/24 ##支脚的高度或长度是可变的，也包括仅为运输而改变的(F16M 11/42优先)" Target="frmContent" Href="../searchservlet?query=F16M11/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16M11/24">
+        <TreeNode Title="F16M11/26 ###通过伸缩，可折叠或不可折叠(仅与伸缩部分的结构特点有关的细节入F16B 7/10)" Target="frmContent" Href="../searchservlet?query=F16M11/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16M11/26">
+          <TreeNode Title="F16M11/28 ####具有单独伸缩支柱的支承用的底盘" Target="frmContent" Href="../searchservlet?query=F16M11/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16M11/28">
+            <TreeNode Title="F16M11/30 #####带有共同运动的支承边" Target="frmContent" Href="../searchservlet?query=F16M11/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16M11/30"/>
+          </TreeNode>
+          <TreeNode Title="F16M11/32 ####具有3个或多个伸缩支柱的支承用的底盘" Target="frmContent" Href="../searchservlet?query=F16M11/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16M11/32">
+            <TreeNode Title="F16M11/34 #####限制支脚伸展的元件" Target="frmContent" Href="../searchservlet?query=F16M11/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16M11/34"/>
+            <TreeNode Title="F16M11/36 #####预防支脚滑动的元件" Target="frmContent" Href="../searchservlet?query=F16M11/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16M11/36"/>
+          </TreeNode>
+        </TreeNode>
+        <TreeNode Title="F16M11/38 ###利用折叠的" Target="frmContent" Href="../searchservlet?query=F16M11/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16M11/38"/>
+        <TreeNode Title="F16M11/40 ###采用可扭转的或可弯曲的支脚" Target="frmContent" Href="../searchservlet?query=F16M11/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16M11/40"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="F16M11/42 #带有推进支架用的装置" Target="frmContent" Href="../searchservlet?query=F16M11/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16M11/42"/>
+  </TreeNode>
+  <TreeNode Title="F16M13/00 定位用设备或产品的其他支架(其头部入F16M 11/02；用于插入地下的入A45F 3/44)；手持器械或产品的稳定方法" Target="frmContent" Href="../searchservlet?query=F16M13/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16M13/00">
+    <TreeNode Title="F16M13/02 #支撑或连接到一物体上，如树、门、窗架、自行车" Target="frmContent" Href="../searchservlet?query=F16M13/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16M13/02"/>
+    <TreeNode Title="F16M13/04 #支撑于某人上或由某人握持，如用链" Target="frmContent" Href="../searchservlet?query=F16M13/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16M13/04"/>
+    <TreeNode Title="F16M13/06 #也可用于其他目的，如做铲子、椅子、滑雪杖用" Target="frmContent" Href="../searchservlet?query=F16M13/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16M13/06">
+      <TreeNode Title="F16M13/08 ##做手杖用" Target="frmContent" Href="../searchservlet?query=F16M13/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16M13/08"/>
+    </TreeNode>
+  </TreeNode>
+</Root>

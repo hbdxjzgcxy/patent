@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="B25J1/00 用手确定空间位置的机械手(主从型的入B25J 3/00；微型机械手入B25J 7/00)" Target="frmContent" Href="../searchservlet?query=B25J1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B25J1/00">
+    <TreeNode Title="B25J1/02 #铰接的或挠性的" Target="frmContent" Href="../searchservlet?query=B25J1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B25J1/02"/>
+    <TreeNode Title="B25J1/04 #刚性的，如架式延伸臂" Target="frmContent" Href="../searchservlet?query=B25J1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B25J1/04"/>
+    <TreeNode Title="B25J1/06 #惰钳型的" Target="frmContent" Href="../searchservlet?query=B25J1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B25J1/06"/>
+    <TreeNode Title="B25J1/08 #可活动地安装在墙上的" Target="frmContent" Href="../searchservlet?query=B25J1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B25J1/08">
+      <TreeNode Title="B25J1/10 ##所用的套筒和枢轴座架" Target="frmContent" Href="../searchservlet?query=B25J1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B25J1/10"/>
+    </TreeNode>
+    <TreeNode Title="B25J1/12 #具有连接到支座的装置" Target="frmContent" Href="../searchservlet?query=B25J1/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B25J1/12"/>
+  </TreeNode>
+  <TreeNode Title="B25J3/00 主从型机械手，即兼有控制单元和被控制单元共同完成相应的空间运动" Target="frmContent" Href="../searchservlet?query=B25J3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B25J3/00">
+    <TreeNode Title="B25J3/02 #有主单元和从单元的平行四边形偶联器(缩放仪入B43L 13/00)" Target="frmContent" Href="../searchservlet?query=B25J3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B25J3/02"/>
+    <TreeNode Title="B25J3/04 #有伺服机构(伺服机构执行头本身入B25J 15/02)" Target="frmContent" Href="../searchservlet?query=B25J3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B25J3/04"/>
+  </TreeNode>
+  <TreeNode Title="B25J5/00 装在车轮上或车厢上的机械手(B25J 1/00优先；程序控制机械手入B25J 9/00)" Target="frmContent" Href="../searchservlet?query=B25J5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B25J5/00">
+    <TreeNode Title="B25J5/02 #沿导轨移动的" Target="frmContent" Href="../searchservlet?query=B25J5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B25J5/02">
+      <TreeNode Title="B25J5/04 ##导轨也运动，例如移动桥式起重机型的" Target="frmContent" Href="../searchservlet?query=B25J5/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B25J5/04"/>
+    </TreeNode>
+    <TreeNode Title="B25J5/06 #与操作人员控制室连接的机械手" Target="frmContent" Href="../searchservlet?query=B25J5/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B25J5/06"/>
+  </TreeNode>
+  <TreeNode Title="B25J7/00 微型机械手" Target="frmContent" Href="../searchservlet?query=B25J7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B25J7/00"/>
+  <TreeNode Title="B25J9/00 程序控制机械手" Target="frmContent" Href="../searchservlet?query=B25J9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B25J9/00">
+    <TreeNode Title="B25J9/02 #以臂的运动为特征的，例如直角坐标型的(B25J 9/06优先)[4]" Target="frmContent" Href="../searchservlet?query=B25J9/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B25J9/02">
+      <TreeNode Title="B25J9/04 ##除工作头自身运动外，至少有一个爪臂旋转，例如柱面坐标型或极坐标型[4]" Target="frmContent" Href="../searchservlet?query=B25J9/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B25J9/04"/>
+    </TreeNode>
+    <TreeNode Title="B25J9/06 #以多铰接爪臂为特征的[4]" Target="frmContent" Href="../searchservlet?query=B25J9/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B25J9/06"/>
+    <TreeNode Title="B25J9/08 #以部件结构为特征的[4]" Target="frmContent" Href="../searchservlet?query=B25J9/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B25J9/08"/>
+    <TreeNode Title="B25J9/10 #以机械手元件定位装置为特征的[4]" Target="frmContent" Href="../searchservlet?query=B25J9/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B25J9/10">
+      <TreeNode Title="B25J9/12 ##电的[4]" Target="frmContent" Href="../searchservlet?query=B25J9/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B25J9/12"/>
+      <TreeNode Title="B25J9/14 ##流体的[4]" Target="frmContent" Href="../searchservlet?query=B25J9/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B25J9/14"/>
+    </TreeNode>
+    <TreeNode Title="B25J9/16 #程序控制(全面生产控制，即集中控制多台机器入G05B 19/418)[4]" Target="frmContent" Href="../searchservlet?query=B25J9/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B25J9/16">
+      <TreeNode Title="B25J9/18 ##电的[4]" Target="frmContent" Href="../searchservlet?query=B25J9/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B25J9/18"/>
+      <TreeNode Title="B25J9/20 ##流体的[4]" Target="frmContent" Href="../searchservlet?query=B25J9/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B25J9/20"/>
+      <TreeNode Title="B25J9/22 ##记录或重放系统(一般的入G05B 19/42)[4]" Target="frmContent" Href="../searchservlet?query=B25J9/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B25J9/22"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="B25J11/00 不包含在其他组的机械手" Target="frmContent" Href="../searchservlet?query=B25J11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B25J11/00"/>
+  <TreeNode Title="B25J13/00 机械手的控制装置(程序控制入B25J 9/16)[4]" Target="frmContent" Href="../searchservlet?query=B25J13/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B25J13/00">
+    <TreeNode Title="B25J13/02 #手柄控制装置" Target="frmContent" Href="../searchservlet?query=B25J13/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B25J13/02"/>
+    <TreeNode Title="B25J13/04 #脚操纵的控制装置" Target="frmContent" Href="../searchservlet?query=B25J13/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B25J13/04"/>
+    <TreeNode Title="B25J13/06 #控制台，例如仪表板、开关板" Target="frmContent" Href="../searchservlet?query=B25J13/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B25J13/06"/>
+    <TreeNode Title="B25J13/08 #通过读出装置，例如观察或触摸装置[4]" Target="frmContent" Href="../searchservlet?query=B25J13/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B25J13/08"/>
+  </TreeNode>
+  <TreeNode Title="B25J15/00 夹头" Target="frmContent" Href="../searchservlet?query=B25J15/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B25J15/00">
+    <TreeNode Title="B25J15/02 #随动的" Target="frmContent" Href="../searchservlet?query=B25J15/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B25J15/02"/>
+    <TreeNode Title="B25J15/04 #带遥控卸下或更换夹头或其零件的装置" Target="frmContent" Href="../searchservlet?query=B25J15/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B25J15/04"/>
+    <TreeNode Title="B25J15/06 #带真空或磁力夹持装置" Target="frmContent" Href="../searchservlet?query=B25J15/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B25J15/06"/>
+    <TreeNode Title="B25J15/08 #有抓手构件(B25J 15/02，B25J 15/04优先)[4]" Target="frmContent" Href="../searchservlet?query=B25J15/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B25J15/08">
+      <TreeNode Title="B25J15/10 ##带三个或多个抓手构件[4]" Target="frmContent" Href="../searchservlet?query=B25J15/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B25J15/10"/>
+      <TreeNode Title="B25J15/12 ##带挠性的抓手构件[4]" Target="frmContent" Href="../searchservlet?query=B25J15/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B25J15/12"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="B25J17/00 接头" Target="frmContent" Href="../searchservlet?query=B25J17/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B25J17/00">
+    <TreeNode Title="B25J17/02 #肘节" Target="frmContent" Href="../searchservlet?query=B25J17/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B25J17/02"/>
+  </TreeNode>
+  <TreeNode Title="B25J18/00 爪臂[4]" Target="frmContent" Href="../searchservlet?query=B25J18/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B25J18/00">
+    <TreeNode Title="B25J18/02 #可伸长的[4]" Target="frmContent" Href="../searchservlet?query=B25J18/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B25J18/02">
+      <TreeNode Title="B25J18/04 ##可旋转的[4]" Target="frmContent" Href="../searchservlet?query=B25J18/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B25J18/04"/>
+    </TreeNode>
+    <TreeNode Title="B25J18/06 #挠性的[4]" Target="frmContent" Href="../searchservlet?query=B25J18/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B25J18/06"/>
+  </TreeNode>
+  <TreeNode Title="B25J19/00 与机械手配合的附属装置，例如用于监控、用于观察；与机械手组合的安全装置或专门适用于与机械手结合使用的安全装置(一般安全装置入F16P；一般防辐射装置入G21F)" Target="frmContent" Href="../searchservlet?query=B25J19/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B25J19/00">
+    <TreeNode Title="B25J19/02 #读出装置[4]" Target="frmContent" Href="../searchservlet?query=B25J19/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B25J19/02">
+      <TreeNode Title="B25J19/04 ##观察装置[4]" Target="frmContent" Href="../searchservlet?query=B25J19/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B25J19/04"/>
+    </TreeNode>
+    <TreeNode Title="B25J19/06 #安全装置[4]" Target="frmContent" Href="../searchservlet?query=B25J19/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B25J19/06"/>
+  </TreeNode>
+  <TreeNode Title="B25J21/00 带操纵装置的容器(安装在墙上的机械手座架的结构特征入B25J 1/08)" Target="frmContent" Href="../searchservlet?query=B25J21/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B25J21/00">
+    <TreeNode Title="B25J21/02 #手套式操作箱，即用人手放入装在容器壁上的手套中操纵机械手的容器；所用的手套" Target="frmContent" Href="../searchservlet?query=B25J21/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B25J21/02"/>
+  </TreeNode>
+</Root>

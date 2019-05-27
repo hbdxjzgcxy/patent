@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="C12J1/00 醋；制备；纯化" Target="frmContent" Href="../searchservlet?query=C12J1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12J1/00">
+    <TreeNode Title="C12J1/02 #从果汁酒" Target="frmContent" Href="../searchservlet?query=C12J1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12J1/02"/>
+    <TreeNode Title="C12J1/04 #从酒精" Target="frmContent" Href="../searchservlet?query=C12J1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12J1/04"/>
+    <TreeNode Title="C12J1/06 #从牛奶" Target="frmContent" Href="../searchservlet?query=C12J1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12J1/06"/>
+    <TreeNode Title="C12J1/08 #添加调味配料" Target="frmContent" Href="../searchservlet?query=C12J1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12J1/08"/>
+    <TreeNode Title="C12J1/10 #设备" Target="frmContent" Href="../searchservlet?query=C12J1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12J1/10"/>
+  </TreeNode>
+</Root>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="F25C1/00 冰的制造(F25C 3/00优先)" Target="frmContent" Href="../searchservlet?query=F25C1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25C1/00">
+    <TreeNode Title="F25C1/02 #天然冰的生成，即不需冷冻" Target="frmContent" Href="../searchservlet?query=F25C1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25C1/02"/>
+    <TreeNode Title="F25C1/04 #通过应用固定型模" Target="frmContent" Href="../searchservlet?query=F25C1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25C1/04">
+      <TreeNode Title="F25C1/06 ##开式或两头能开的" Target="frmContent" Href="../searchservlet?query=F25C1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25C1/06"/>
+    </TreeNode>
+    <TreeNode Title="F25C1/08 #通过浸入水内的冷冻室或冷冻板" Target="frmContent" Href="../searchservlet?query=F25C1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25C1/08"/>
+    <TreeNode Title="F25C1/10 #通过应用旋转或其他运动方式的型模(F25C 1/08优先)" Target="frmContent" Href="../searchservlet?query=F25C1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25C1/10"/>
+    <TreeNode Title="F25C1/12 #在冷却表面冻结冰，例如形成冰板" Target="frmContent" Href="../searchservlet?query=F25C1/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25C1/12">
+      <TreeNode Title="F25C1/14 ##形成通过铲刮或推挤可取下的冰冻薄板，例如制成片冰形式" Target="frmContent" Href="../searchservlet?query=F25C1/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25C1/14"/>
+    </TreeNode>
+    <TreeNode Title="F25C1/16 #通过在真空中局部蒸发水" Target="frmContent" Href="../searchservlet?query=F25C1/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25C1/16"/>
+    <TreeNode Title="F25C1/18 #制作特别透明或半透明的冰，例如用注入空气法" Target="frmContent" Href="../searchservlet?query=F25C1/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25C1/18">
+      <TreeNode Title="F25C1/20 ##用搅拌法" Target="frmContent" Href="../searchservlet?query=F25C1/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25C1/20"/>
+    </TreeNode>
+    <TreeNode Title="F25C1/22 #型模结构；其所用装填设备(一般以体积来测量入G01F)" Target="frmContent" Href="../searchservlet?query=F25C1/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25C1/22">
+      <TreeNode Title="F25C1/24 ##用于冷冻设备的，例如冻结托盘" Target="frmContent" Href="../searchservlet?query=F25C1/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25C1/24"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="F25C3/00 专门适用于冬季运动或类似娱乐目的的冰或雪的制造，例如用于运动装备的方法或设备；人工造雪(作为雪上或冰上运动的室内或室外练习用人造地面的创建或铺设入E01C13/10；在雪面或冰面上作业以便使其适于交通或体育运动目的入E01H4/00)" Target="frmContent" Href="../searchservlet?query=F25C3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25C3/00">
+    <TreeNode Title="F25C3/02 #作为室内滑冰场用冰" Target="frmContent" Href="../searchservlet?query=F25C3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25C3/02"/>
+    <TreeNode Title="F25C3/04 #作为雪橇跑道或滑雪跑道；人工造雪" Target="frmContent" Href="../searchservlet?query=F25C3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25C3/04"/>
+  </TreeNode>
+  <TreeNode Title="F25C5/00 冰的加工或分配" Target="frmContent" Href="../searchservlet?query=F25C5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25C5/00">
+    <TreeNode Title="F25C5/02 #切分冰块，移送或收存冰的工具或机器" Target="frmContent" Href="../searchservlet?query=F25C5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25C5/02">
+      <TreeNode Title="F25C5/04 ##不用锯的" Target="frmContent" Href="../searchservlet?query=F25C5/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25C5/04">
+        <TreeNode Title="F25C5/06 ###用与冰块接触的变形体，例如用可膨胀元件" Target="frmContent" Href="../searchservlet?query=F25C5/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25C5/06"/>
+        <TreeNode Title="F25C5/08 ###用与冰块接触的加热体" Target="frmContent" Href="../searchservlet?query=F25C5/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25C5/08">
+          <TreeNode Title="F25C5/10 ####应用热冷冻剂，应用由冷冻剂加热的流体" Target="frmContent" Href="../searchservlet?query=F25C5/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25C5/10"/>
+        </TreeNode>
+        <TreeNode Title="F25C5/12 ###冰块削刮机" Target="frmContent" Href="../searchservlet?query=F25C5/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25C5/12"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="F25C5/14 #冰块造形或修整的工具或机器，例如冰压机" Target="frmContent" Href="../searchservlet?query=F25C5/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25C5/14"/>
+    <TreeNode Title="F25C5/16 #未例入任何其他小类用于装卸冰的工具或设备" Target="frmContent" Href="../searchservlet?query=F25C5/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25C5/16"/>
+    <TreeNode Title="F25C5/18 #存贮冰" Target="frmContent" Href="../searchservlet?query=F25C5/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25C5/18"/>
+  </TreeNode>
+</Root>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="G08G1/00 道路车辆的交通控制系统" Target="frmContent" Href="../searchservlet?query=G08G1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08G1/00">
+    <TreeNode Title="G08G1/005 #包括行人导引指示器的[5]" Target="frmContent" Href="../searchservlet?query=G08G1/005&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08G1/005"/>
+    <TreeNode Title="G08G1/01 #检测要统计或要控制的交通运动(G08G 1/07至G08G 1/14优先；道路收费收费或对车辆、车主的收费入G07B 15/06)" Target="frmContent" Href="../searchservlet?query=G08G1/01&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08G1/01">
+      <TreeNode Title="G08G1/015 ##可区别机动车和自行车的" Target="frmContent" Href="../searchservlet?query=G08G1/015&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08G1/015"/>
+      <TreeNode Title="G08G1/017 ##识别车辆的(G08G 1/015，G08G 1/054优先)[5]" Target="frmContent" Href="../searchservlet?query=G08G1/017&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08G1/017"/>
+      <TreeNode Title="G08G1/02 ##用嵌入道路的踏板的(响应车辆通过的垫板或其他传感装置入E01F 11/00)" Target="frmContent" Href="../searchservlet?query=G08G1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08G1/02"/>
+      <TreeNode Title="G08G1/04 ##用光学或超声波检测器的" Target="frmContent" Href="../searchservlet?query=G08G1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08G1/04"/>
+      <TreeNode Title="G08G1/042 ##用感应或磁性检测器的[5]" Target="frmContent" Href="../searchservlet?query=G08G1/042&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08G1/042"/>
+      <TreeNode Title="G08G1/048 ##用对于环境或其他条件，例如在检测器处的积雪、停止的车辆等补偿的装置的[5]" Target="frmContent" Href="../searchservlet?query=G08G1/048&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08G1/048"/>
+      <TreeNode Title="G08G1/052 ##有确定速度或超速的装置的[5]" Target="frmContent" Href="../searchservlet?query=G08G1/052&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08G1/052">
+        <TreeNode Title="G08G1/054 ###对超速车辆照相[5]" Target="frmContent" Href="../searchservlet?query=G08G1/054&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08G1/054"/>
+      </TreeNode>
+      <TreeNode Title="G08G1/056 ##有区分行驶方向的装置的[5]" Target="frmContent" Href="../searchservlet?query=G08G1/056&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08G1/056"/>
+    </TreeNode>
+    <TreeNode Title="G08G1/065 #计算一段道路或停车场上的车辆数的，即比较进出车辆数(对车辆、车主的道路收费拥挤收费入G07B 15/06)" Target="frmContent" Href="../searchservlet?query=G08G1/065&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08G1/065"/>
+    <TreeNode Title="G08G1/07 #交通信号控制" Target="frmContent" Href="../searchservlet?query=G08G1/07&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08G1/07">
+      <TreeNode Title="G08G1/08 ##根据检测的车辆数或速度的" Target="frmContent" Href="../searchservlet?query=G08G1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08G1/08"/>
+      <TreeNode Title="G08G1/081 ##共同控制多个交叉口[5]" Target="frmContent" Href="../searchservlet?query=G08G1/081&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08G1/081">
+        <TreeNode Title="G08G1/082 ###在相邻交叉口上一个周期中相同相位开始的时间的控制[5]" Target="frmContent" Href="../searchservlet?query=G08G1/082&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08G1/082"/>
+        <TreeNode Title="G08G1/083 ###一个周期中各相位之间分配时间的控制[5]" Target="frmContent" Href="../searchservlet?query=G08G1/083&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08G1/083"/>
+      </TreeNode>
+      <TreeNode Title="G08G1/085 ##用自运行周期定时器的" Target="frmContent" Href="../searchservlet?query=G08G1/085&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08G1/085"/>
+      <TreeNode Title="G08G1/087 ##交通控制的超越，例如由紧急车辆发送信号[5]" Target="frmContent" Href="../searchservlet?query=G08G1/087&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08G1/087"/>
+    </TreeNode>
+    <TreeNode Title="G08G1/09 #给出可变交通指令的装置(靠选择或组合各元件的可变信息指示装置入G09F 9/00)" Target="frmContent" Href="../searchservlet?query=G08G1/09&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08G1/09">
+      <TreeNode Title="G08G1/095 ##交通灯" Target="frmContent" Href="../searchservlet?query=G08G1/095&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08G1/095">
+        <TreeNode Title="G08G1/0955 ###可移动的[5]" Target="frmContent" Href="../searchservlet?query=G08G1/0955&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08G1/0955"/>
+      </TreeNode>
+      <TreeNode Title="G08G1/096 ##具有以一标志渐进显示时间消逝的指示器，例如绿灯时间的" Target="frmContent" Href="../searchservlet?query=G08G1/096&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08G1/096"/>
+      <TreeNode Title="G08G1/0962 ##安装在车内的指示器，例如给出语音信息的[5]" Target="frmContent" Href="../searchservlet?query=G08G1/0962&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08G1/0962">
+        <TreeNode Title="G08G1/0965 ###响应另一车辆，例如紧急车辆的信号的[5]" Target="frmContent" Href="../searchservlet?query=G08G1/0965&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08G1/0965"/>
+        <TreeNode Title="G08G1/0967 ###包括传送公路信息的系统，例如天气、速度限制(给车辆传送导航指令入G08G 1/0968)[5]" Target="frmContent" Href="../searchservlet?query=G08G1/0967&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08G1/0967"/>
+        <TreeNode Title="G08G1/0968 ###包括给车辆传送导航指令的系统[5]" Target="frmContent" Href="../searchservlet?query=G08G1/0968&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08G1/0968">
+          <TreeNode Title="G08G1/0969 ####有地图形式的显示的[5]" Target="frmContent" Href="../searchservlet?query=G08G1/0969&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08G1/0969"/>
+        </TreeNode>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="G08G1/097 #交通控制系统的监控，例如若两条交叉街道同时出现绿灯则给出警报" Target="frmContent" Href="../searchservlet?query=G08G1/097&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08G1/097"/>
+    <TreeNode Title="G08G1/123 #指示车辆的位置，例如排定的车辆的位置(给车辆传送导航指令入G08G 1/0968)[5]" Target="frmContent" Href="../searchservlet?query=G08G1/123&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08G1/123">
+      <TreeNode Title="G08G1/127 ##给中心站[5]" Target="frmContent" Href="../searchservlet?query=G08G1/127&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08G1/127">
+        <TreeNode Title="G08G1/13 ###指示器是以地图形式的[5]" Target="frmContent" Href="../searchservlet?query=G08G1/13&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08G1/13"/>
+      </TreeNode>
+      <TreeNode Title="G08G1/133 ##在车辆内的[5]" Target="frmContent" Href="../searchservlet?query=G08G1/133&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08G1/133">
+        <TreeNode Title="G08G1/137 ###指示器是以地图形式的[5]" Target="frmContent" Href="../searchservlet?query=G08G1/137&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08G1/137"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="G08G1/14 #指示停车场各个空地的" Target="frmContent" Href="../searchservlet?query=G08G1/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08G1/14"/>
+    <TreeNode Title="G08G1/16 #防撞系统(通过特定子系统的控制之外的用于预测或避免可能的或迫近的碰撞的道路车辆驾驶控制系统入B60W 30/08)[2,8]" Target="frmContent" Href="../searchservlet?query=G08G1/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08G1/16"/>
+  </TreeNode>
+  <TreeNode Title="G08G3/00 海上航行器的交通控制系统(导航线路的标志入B63B 22/16，B63B 51/00)" Target="frmContent" Href="../searchservlet?query=G08G3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08G3/00">
+    <TreeNode Title="G08G3/02 #防撞系统" Target="frmContent" Href="../searchservlet?query=G08G3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08G3/02"/>
+  </TreeNode>
+  <TreeNode Title="G08G5/00 空中航行器的交通控制系统[2]" Target="frmContent" Href="../searchservlet?query=G08G5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08G5/00">
+    <TreeNode Title="G08G5/02 #自动着陆设备，即处理进场飞机的飞行数据以提供着陆数据的系统(配合或适于飞行器的着陆设备入B64D 45/04；目视或有声的着陆设备入B64F 1/18)" Target="frmContent" Href="../searchservlet?query=G08G5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08G5/02"/>
+    <TreeNode Title="G08G5/04 #防撞系统" Target="frmContent" Href="../searchservlet?query=G08G5/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08G5/04"/>
+    <TreeNode Title="G08G5/06 #用于地面上控制的[2]" Target="frmContent" Href="../searchservlet?query=G08G5/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08G5/06"/>
+  </TreeNode>
+  <TreeNode Title="G08G7/00 同时控制两种或更多不同种类航行器的交通控制的系统[2]" Target="frmContent" Href="../searchservlet?query=G08G7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08G7/00">
+    <TreeNode Title="G08G7/02 #防撞系统[2]" Target="frmContent" Href="../searchservlet?query=G08G7/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08G7/02"/>
+  </TreeNode>
+  <TreeNode Title="G08G9/00 飞行器的交通控制系统，该航行器的种类是无关紧要的或未指定的[2]" Target="frmContent" Href="../searchservlet?query=G08G9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08G9/00">
+    <TreeNode Title="G08G9/02 #防撞系统[2]" Target="frmContent" Href="../searchservlet?query=G08G9/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08G9/02"/>
+  </TreeNode>
+  <TreeNode Title="G08G99/00 本小类其他各组中不包含的技术主题[8]" Target="frmContent" Href="../searchservlet?query=G08G99/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08G99/00"/>
+</Root>

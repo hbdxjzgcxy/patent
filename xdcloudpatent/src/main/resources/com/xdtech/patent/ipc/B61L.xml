@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="B61L1/00 用与车辆或列车的相互作用控制的沿线设备(响墩入B61L 5/20；借车辆的通过来操纵道岔或信号入B61L 11/00，B61L 13/00；由列车控制的中心运务控制系统入B61L 27/04；由驶近的车辆操纵栏木或操纵栏木与信号的入B61L 29/18)" Target="frmContent" Href="../searchservlet?query=B61L1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61L1/00">
+    <TreeNode Title="B61L1/02 # 与轨道相连的电气设备" Target="frmContent" Href="../searchservlet?query=B61L1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61L1/02">
+      <TreeNode Title="B61L1/04 ##靠车辆部件的机械作用致动的" Target="frmContent" Href="../searchservlet?query=B61L1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61L1/04"/>
+      <TreeNode Title="B61L1/06 ##靠轨道的变形制动的；靠轨道的振动致动的" Target="frmContent" Href="../searchservlet?query=B61L1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61L1/06"/>
+      <TreeNode Title="B61L1/08 ##磁力致动的；静电致动的" Target="frmContent" Href="../searchservlet?query=B61L1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61L1/08"/>
+      <TreeNode Title="B61L1/10 ##用电磁辐射致动的；靠粒子辐射致动的" Target="frmContent" Href="../searchservlet?query=B61L1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61L1/10"/>
+    </TreeNode>
+    <TreeNode Title="B61L1/12 # 与架空的滑接电线相连的电气设备" Target="frmContent" Href="../searchservlet?query=B61L1/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61L1/12"/>
+    <TreeNode Title="B61L1/14 # 指示车辆或列车尾部通过的设备" Target="frmContent" Href="../searchservlet?query=B61L1/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61L1/14"/>
+    <TreeNode Title="B61L1/16 # 数轴设备；车辆计数设备(一般运动物体计数入G06M)" Target="frmContent" Href="../searchservlet?query=B61L1/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61L1/16"/>
+    <TreeNode Title="B61L1/18 # 铁路轨道线路(专门适合于为控制交通用的闭锁区间的、自动操作的轨道线路入B61L 23/00；轨道接头入E01B 11/00)" Target="frmContent" Href="../searchservlet?query=B61L1/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61L1/18"/>
+    <TreeNode Title="B61L1/20 # 用于防止或指示设备故障的安全装置，如借助泄漏电流，借助于闪电" Target="frmContent" Href="../searchservlet?query=B61L1/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61L1/20"/>
+  </TreeNode>
+  <TreeNode Title="B61L3/00 用于控制车辆或列车上的设备的沿线设备，如松开制动器，操纵报警信号" Target="frmContent" Href="../searchservlet?query=B61L3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61L3/00">
+    <TreeNode Title="B61L3/02 # 在沿线选定的位置，如间歇控制" Target="frmContent" Href="../searchservlet?query=B61L3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61L3/02">
+      <TreeNode Title="B61L3/04 ##机械控制的" Target="frmContent" Href="../searchservlet?query=B61L3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61L3/04"/>
+      <TreeNode Title="B61L3/06 ##用电磁辐射或粒子辐射控制的，如用光束(用无线电波的入B61L 3/12)" Target="frmContent" Href="../searchservlet?query=B61L3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61L3/06"/>
+      <TreeNode Title="B61L3/08 ##电力控制的" Target="frmContent" Href="../searchservlet?query=B61L3/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61L3/08">
+        <TreeNode Title="B61L3/10 ###利用在沿线设备和列车设备之间通过的电流" Target="frmContent" Href="../searchservlet?query=B61L3/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61L3/10"/>
+        <TreeNode Title="B61L3/12 ###利用磁感应或静电感应；利用无线电波" Target="frmContent" Href="../searchservlet?query=B61L3/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61L3/12"/>
+      </TreeNode>
+      <TreeNode Title="B61L3/14 ##断开电动车辆牵引马达的电源" Target="frmContent" Href="../searchservlet?query=B61L3/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61L3/14"/>
+    </TreeNode>
+    <TreeNode Title="B61L3/16 # 沿线路连续控制" Target="frmContent" Href="../searchservlet?query=B61L3/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61L3/16">
+      <TreeNode Title="B61L3/18 ##利用在沿线设备和车辆或列车的设备之间通过的电流" Target="frmContent" Href="../searchservlet?query=B61L3/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61L3/18">
+        <TreeNode Title="B61L3/20 ###应用不同的频率或编码的脉冲组" Target="frmContent" Href="../searchservlet?query=B61L3/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61L3/20"/>
+      </TreeNode>
+      <TreeNode Title="B61L3/22 ##利用磁感应或静电感应；利用电磁辐射" Target="frmContent" Href="../searchservlet?query=B61L3/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61L3/22">
+        <TreeNode Title="B61L3/24 ###应用不同频率或编码的脉冲组" Target="frmContent" Href="../searchservlet?query=B61L3/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61L3/24"/>
+      </TreeNode>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="B61L5/00 用于道岔或装在轨道上的线路遮断器的就地操纵机构(装在轨道上的线路遮断器本身入B61K)；视觉或听觉信号；用于视觉或听觉信号的就地操纵机构(B61L 11/00优先)" Target="frmContent" Href="../searchservlet?query=B61L5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61L5/00">
+    <TreeNode Title="B61L5/02 # 用于操纵道岔或线路遮断器的机械设备" Target="frmContent" Href="../searchservlet?query=B61L5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61L5/02"/>
+    <TreeNode Title="B61L5/04 # 用于操纵道岔或线路遮断器的液压设备" Target="frmContent" Href="../searchservlet?query=B61L5/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61L5/04"/>
+    <TreeNode Title="B61L5/06 # 用于操纵道岔或线路遮断器的电气设备" Target="frmContent" Href="../searchservlet?query=B61L5/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61L5/06"/>
+    <TreeNode Title="B61L5/08 # 在地下作用的装置，如用于有轨电车道" Target="frmContent" Href="../searchservlet?query=B61L5/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61L5/08"/>
+    <TreeNode Title="B61L5/10 # 用于道岔的闭锁机构；用于指示道岔位置的装置" Target="frmContent" Href="../searchservlet?query=B61L5/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61L5/10"/>
+    <TreeNode Title="B61L5/12 # 视觉信号" Target="frmContent" Href="../searchservlet?query=B61L5/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61L5/12">
+      <TreeNode Title="B61L5/14 ##有形信号装置，如信号臂板" Target="frmContent" Href="../searchservlet?query=B61L5/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61L5/14">
+        <TreeNode Title="B61L5/16 ###用于有形信号装置的就地操纵机构" Target="frmContent" Href="../searchservlet?query=B61L5/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61L5/16"/>
+      </TreeNode>
+      <TreeNode Title="B61L5/18 ##光信号装置；与其连接的机构，如遮板" Target="frmContent" Href="../searchservlet?query=B61L5/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61L5/18"/>
+    </TreeNode>
+    <TreeNode Title="B61L5/20 # 听觉信号装置，如响墩" Target="frmContent" Href="../searchservlet?query=B61L5/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61L5/20">
+      <TreeNode Title="B61L5/22 ##用于在某个位置上触发响墩释放器的设备" Target="frmContent" Href="../searchservlet?query=B61L5/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61L5/22"/>
+      <TreeNode Title="B61L5/24 ##响墩的更换" Target="frmContent" Href="../searchservlet?query=B61L5/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61L5/24"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="B61L7/00 用于道岔、信号或装在轨道上的线路遮断器的就地操纵装置的遥控(B61L 11/00优先；连锁装置入B61L 19/00)" Target="frmContent" Href="../searchservlet?query=B61L7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61L7/00">
+    <TreeNode Title="B61L7/02 # 利用机械传送，如线、杠杆" Target="frmContent" Href="../searchservlet?query=B61L7/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61L7/02"/>
+    <TreeNode Title="B61L7/04 # 利用液压传送" Target="frmContent" Href="../searchservlet?query=B61L7/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61L7/04"/>
+    <TreeNode Title="B61L7/06 # 利用电传送" Target="frmContent" Href="../searchservlet?query=B61L7/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61L7/06">
+      <TreeNode Title="B61L7/08 ##电路的" Target="frmContent" Href="../searchservlet?query=B61L7/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61L7/08">
+        <TreeNode Title="B61L7/10 ###用于光信号装置，如用于监视，回应信号" Target="frmContent" Href="../searchservlet?query=B61L7/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61L7/10"/>
+      </TreeNode>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="B61L9/00 专门适用于道岔、有形信号或道口的照明(一般照明入F21)" Target="frmContent" Href="../searchservlet?query=B61L9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61L9/00">
+    <TreeNode Title="B61L9/02 # 非电的" Target="frmContent" Href="../searchservlet?query=B61L9/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61L9/02"/>
+    <TreeNode Title="B61L9/04 # 电的" Target="frmContent" Href="../searchservlet?query=B61L9/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61L9/04"/>
+  </TreeNode>
+  <TreeNode Title="B61L11/00 从车辆上或借车辆的通过来操纵道岔" Target="frmContent" Href="../searchservlet?query=B61L11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61L11/00">
+    <TreeNode Title="B61L11/02 # 利用车辆与轨道之间的机械相互作用" Target="frmContent" Href="../searchservlet?query=B61L11/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61L11/02">
+      <TreeNode Title="B61L11/04 ##挤脱式道岔闭锁器" Target="frmContent" Href="../searchservlet?query=B61L11/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61L11/04"/>
+      <TreeNode Title="B61L11/06 ##用液压传动的" Target="frmContent" Href="../searchservlet?query=B61L11/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61L11/06"/>
+    </TreeNode>
+    <TreeNode Title="B61L11/08 # 利用车辆和轨道之间的电或磁的相互作用的" Target="frmContent" Href="../searchservlet?query=B61L11/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61L11/08"/>
+  </TreeNode>
+  <TreeNode Title="B61L13/00 从车辆上或借车辆的通过来操纵信号" Target="frmContent" Href="../searchservlet?query=B61L13/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61L13/00">
+    <TreeNode Title="B61L13/02 # 利用车辆与轨道之间的机械相互作用" Target="frmContent" Href="../searchservlet?query=B61L13/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61L13/02"/>
+    <TreeNode Title="B61L13/04 # 利用车辆和轨道之间的电或磁的相互作用的" Target="frmContent" Href="../searchservlet?query=B61L13/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61L13/04"/>
+  </TreeNode>
+  <TreeNode Title="B61L15/00 装在车辆或列车上用于发信号的指示器" Target="frmContent" Href="../searchservlet?query=B61L15/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61L15/00">
+    <TreeNode Title="B61L15/02 # 车头或车尾指示器，如灯" Target="frmContent" Href="../searchservlet?query=B61L15/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61L15/02"/>
+  </TreeNode>
+  <TreeNode Title="B61L17/00 调车场的转辙系统(轨道制动器入B61K)" Target="frmContent" Href="../searchservlet?query=B61L17/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61L17/00">
+    <TreeNode Title="B61L17/02 # 零件，如指示轨道被占用的程度" Target="frmContent" Href="../searchservlet?query=B61L17/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61L17/02"/>
+  </TreeNode>
+  <TreeNode Title="B61L19/00 用单独一个连锁装置使道岔和信号之间连锁的装置(站内闭锁装置入B61L 21/00)" Target="frmContent" Href="../searchservlet?query=B61L19/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61L19/00">
+    <TreeNode Title="B61L19/02 # 具有机械或液压操纵的连锁装置" Target="frmContent" Href="../searchservlet?query=B61L19/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61L19/02">
+      <TreeNode Title="B61L19/04 ##零件，如手拉杆，回应信号装置" Target="frmContent" Href="../searchservlet?query=B61L19/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61L19/04"/>
+    </TreeNode>
+    <TreeNode Title="B61L19/06 # 具有电气操纵的连锁装置" Target="frmContent" Href="../searchservlet?query=B61L19/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61L19/06">
+      <TreeNode Title="B61L19/08 ##为连锁装置供应电力的专门装置" Target="frmContent" Href="../searchservlet?query=B61L19/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61L19/08"/>
+      <TreeNode Title="B61L19/10 ##用机械闭锁的" Target="frmContent" Href="../searchservlet?query=B61L19/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61L19/10">
+        <TreeNode Title="B61L19/12 ###零件" Target="frmContent" Href="../searchservlet?query=B61L19/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61L19/12"/>
+      </TreeNode>
+      <TreeNode Title="B61L19/14 ##用电力闭锁的" Target="frmContent" Href="../searchservlet?query=B61L19/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61L19/14">
+        <TreeNode Title="B61L19/16 ###零件" Target="frmContent" Href="../searchservlet?query=B61L19/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61L19/16"/>
+      </TreeNode>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="B61L21/00 在一个调车场内信号楼之间的站内闭锁装置(用单独一个连锁装置在道岔和信号之间进行连锁入B61L 19/00)" Target="frmContent" Href="../searchservlet?query=B61L21/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61L21/00">
+    <TreeNode Title="B61L21/02 # 进路的机械闭锁和解锁；中继闭锁器；臂板信号机的连接" Target="frmContent" Href="../searchservlet?query=B61L21/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61L21/02"/>
+    <TreeNode Title="B61L21/04 # 进路的电闭锁和解锁；电力中继闭锁器" Target="frmContent" Href="../searchservlet?query=B61L21/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61L21/04"/>
+    <TreeNode Title="B61L21/06 # 车辆在线路上的指示；进路闭锁和解锁监测器" Target="frmContent" Href="../searchservlet?query=B61L21/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61L21/06"/>
+    <TreeNode Title="B61L21/08 # 用于给予或拒绝准允的指令的传送和接收装置" Target="frmContent" Href="../searchservlet?query=B61L21/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61L21/08"/>
+    <TreeNode Title="B61L21/10 # 用于相互紧跟的车辆的装置(自动中心交通控制系统入B61L 27/04)" Target="frmContent" Href="../searchservlet?query=B61L21/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61L21/10"/>
+  </TreeNode>
+  <TreeNode Title="B61L23/00 沿线的或车辆之间的或列车之间的控制，报警或类似的安全装置[4]" Target="frmContent" Href="../searchservlet?query=B61L23/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61L23/00">
+    <TreeNode Title="B61L23/02 # 用于沿线指示制动器失效" Target="frmContent" Href="../searchservlet?query=B61L23/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61L23/02"/>
+    <TreeNode Title="B61L23/04 # 用于监视线路机械状态" Target="frmContent" Href="../searchservlet?query=B61L23/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61L23/04"/>
+    <TreeNode Title="B61L23/06 # 用于警告在线路上工作的人员" Target="frmContent" Href="../searchservlet?query=B61L23/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61L23/06"/>
+    <TreeNode Title="B61L23/08 # 用于只控制单方向的运务(一个调车场内信号楼之间的站内闭锁装置入B61L 21/00)" Target="frmContent" Href="../searchservlet?query=B61L23/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61L23/08">
+      <TreeNode Title="B61L23/10 ##人工操纵的" Target="frmContent" Href="../searchservlet?query=B61L23/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61L23/10"/>
+      <TreeNode Title="B61L23/12 ##部分由列车操纵的" Target="frmContent" Href="../searchservlet?query=B61L23/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61L23/12"/>
+      <TreeNode Title="B61L23/14 ##自动操纵的" Target="frmContent" Href="../searchservlet?query=B61L23/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61L23/14">
+        <TreeNode Title="B61L23/16 ###专门适用于区间闭锁的轨道线路的" Target="frmContent" Href="../searchservlet?query=B61L23/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61L23/16"/>
+        <TreeNode Title="B61L23/18 ###专门适用于根据速度和交通密度保持车辆或车辆列之间的安全距离的 [1，8]" Target="frmContent" Href="../searchservlet?query=B61L23/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61L23/18"/>
+        <TreeNode Title="B61L23/20 ###能输送指令到沿线车站的" Target="frmContent" Href="../searchservlet?query=B61L23/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61L23/20"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="B61L23/22 # 用于在同一对轨道的两个方向上控制运务的(一个调车场的信号楼之间的站内闭锁装置入B61L 21/00)" Target="frmContent" Href="../searchservlet?query=B61L23/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61L23/22">
+      <TreeNode Title="B61L23/24 ##利用凭证制，如铁路路签、路牌" Target="frmContent" Href="../searchservlet?query=B61L23/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61L23/24"/>
+      <TreeNode Title="B61L23/26 ##从车辆上或用车辆的通过操纵信号的装置" Target="frmContent" Href="../searchservlet?query=B61L23/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61L23/26"/>
+      <TreeNode Title="B61L23/28 ##利用由沿线某个地点发出的非自动闭锁" Target="frmContent" Href="../searchservlet?query=B61L23/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61L23/28"/>
+      <TreeNode Title="B61L23/30 ##利用自动区间闭锁" Target="frmContent" Href="../searchservlet?query=B61L23/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61L23/30">
+        <TreeNode Title="B61L23/32 ###考虑到会让线的闭锁的" Target="frmContent" Href="../searchservlet?query=B61L23/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61L23/32"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="B61L23/34 # 借助于在车辆或列车之间传递信号以指示它们之间的距离 [4]" Target="frmContent" Href="../searchservlet?query=B61L23/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61L23/34"/>
+  </TreeNode>
+  <TreeNode Title="B61L25/00 记录或指示车辆或列车的位置或车别，记录或指示轨道设备的布置" Target="frmContent" Href="../searchservlet?query=B61L25/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61L25/00">
+    <TreeNode Title="B61L25/02 # 指示或记录车辆或列车的位置或车别" Target="frmContent" Href="../searchservlet?query=B61L25/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61L25/02">
+      <TreeNode Title="B61L25/04 ##指示或记录列车的车别" Target="frmContent" Href="../searchservlet?query=B61L25/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61L25/04"/>
+    </TreeNode>
+    <TreeNode Title="B61L25/06 # 指示或记录轨道设备的布置，如道岔布置，信号布置" Target="frmContent" Href="../searchservlet?query=B61L25/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61L25/06">
+      <TreeNode Title="B61L25/08 ##图像显示" Target="frmContent" Href="../searchservlet?query=B61L25/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61L25/08"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="B61L27/00 运务中心控制系统" Target="frmContent" Href="../searchservlet?query=B61L27/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61L27/00">
+    <TreeNode Title="B61L27/02 # 人工系统" Target="frmContent" Href="../searchservlet?query=B61L27/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61L27/02"/>
+    <TreeNode Title="B61L27/04 # 自动系统，如由列车控制的；可改装成人工控制的" Target="frmContent" Href="../searchservlet?query=B61L27/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61L27/04"/>
+  </TreeNode>
+  <TreeNode Title="B61L29/00 铁路/公路交叉道口的安全装置" Target="frmContent" Href="../searchservlet?query=B61L29/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61L29/00">
+    <TreeNode Title="B61L29/02 # 防止接近线路的防护板或障碍物(与线路连接在一起的牲畜防护板入E01B 17/00)" Target="frmContent" Href="../searchservlet?query=B61L29/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61L29/02"/>
+    <TreeNode Title="B61L29/04 # 水平交叉道口的栏木" Target="frmContent" Href="../searchservlet?query=B61L29/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61L29/04">
+      <TreeNode Title="B61L29/06 ##一个方向能让车辆通过，而另一个方向上起安全保护作用" Target="frmContent" Href="../searchservlet?query=B61L29/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61L29/06"/>
+    </TreeNode>
+    <TreeNode Title="B61L29/08 # 栏木的操纵；栏木和信号装置的联合操纵" Target="frmContent" Href="../searchservlet?query=B61L29/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61L29/08">
+      <TreeNode Title="B61L29/10 ##把栏木固定在所要求位置上的装置" Target="frmContent" Href="../searchservlet?query=B61L29/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61L29/10"/>
+      <TreeNode Title="B61L29/12 ##人工操纵" Target="frmContent" Href="../searchservlet?query=B61L29/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61L29/12">
+        <TreeNode Title="B61L29/14 ###机械操纵" Target="frmContent" Href="../searchservlet?query=B61L29/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61L29/14"/>
+        <TreeNode Title="B61L29/16 ###电气操纵" Target="frmContent" Href="../searchservlet?query=B61L29/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61L29/16"/>
+      </TreeNode>
+      <TreeNode Title="B61L29/18 ##由驶近的铁路车辆或铁路列车来操纵" Target="frmContent" Href="../searchservlet?query=B61L29/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61L29/18">
+        <TreeNode Title="B61L29/20 ###机械的" Target="frmContent" Href="../searchservlet?query=B61L29/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61L29/20"/>
+        <TreeNode Title="B61L29/22 ###电的" Target="frmContent" Href="../searchservlet?query=B61L29/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61L29/22"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="B61L29/24 # 警告公路上的来往车辆，道口已经关闭或即将关闭，或铁路车辆正在接近的装置，如用视觉或听觉报警" Target="frmContent" Href="../searchservlet?query=B61L29/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61L29/24">
+      <TreeNode Title="B61L29/26 ##机械操纵的" Target="frmContent" Href="../searchservlet?query=B61L29/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61L29/26"/>
+      <TreeNode Title="B61L29/28 ##电气操纵的" Target="frmContent" Href="../searchservlet?query=B61L29/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61L29/28">
+        <TreeNode Title="B61L29/30 ###监督器，如监测装置" Target="frmContent" Href="../searchservlet?query=B61L29/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61L29/30"/>
+        <TreeNode Title="B61L29/32 ###定时器，如列车驶近的预先警告" Target="frmContent" Href="../searchservlet?query=B61L29/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61L29/32"/>
+      </TreeNode>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="B61L99/00 本小类的其他组中不包含的技术主题[8]" Target="frmContent" Href="../searchservlet?query=B61L99/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B61L99/00"/>
+</Root>

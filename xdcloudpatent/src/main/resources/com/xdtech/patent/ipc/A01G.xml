@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="A01G1/00 园艺；蔬菜的栽培(标签或名牌入G09F 3/00，G09F 7/00)" Target="frmContent" Href="../searchservlet?query=A01G1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01G1/00">
+    <TreeNode Title="A01G1/02 #芦笋的栽培" Target="frmContent" Href="../searchservlet?query=A01G1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01G1/02"/>
+    <TreeNode Title="A01G1/04 #蘑菇的栽培(栽培蘑菇的混合肥料或化肥入C05)" Target="frmContent" Href="../searchservlet?query=A01G1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01G1/04"/>
+    <TreeNode Title="A01G1/06 #嫁接(嫁接蜡入A01N 3/04)" Target="frmContent" Href="../searchservlet?query=A01G1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01G1/06"/>
+    <TreeNode Title="A01G1/08 #花坛、草坪等的边饰，例如用瓦砖" Target="frmContent" Href="../searchservlet?query=A01G1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01G1/08"/>
+    <TreeNode Title="A01G1/12 #栽培草皮用的工具；草坪的清理设备；园艺用镇压器 (草地或草坪的作业机械入A01B 45/00；草坪割草机入A01D 34/00)" Target="frmContent" Href="../searchservlet?query=A01G1/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01G1/12"/>
+  </TreeNode>
+  <TreeNode Title="A01G3/00 园艺专用的切割工具；立木打枝(采伐树木入A01G 23/08；带有转动的柔性线切割器的割草机入A01D 34/416；由操作者携带的割草机的专门配置入A01D 34/90；适用于其他用途的手持切割工具入B26B) [5]" Target="frmContent" Href="../searchservlet?query=A01G3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01G3/00">
+    <TreeNode Title="A01G3/02 #修整剪；花卉或果树的修整剪" Target="frmContent" Href="../searchservlet?query=A01G3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01G3/02">
+      <TreeNode Title="A01G3/025 ##具有伸长或延长的手柄 [6]" Target="frmContent" Href="../searchservlet?query=A01G3/025&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01G3/025"/>
+      <TreeNode Title="A01G3/033 ##具有马达驱动的刀片 [6]" Target="frmContent" Href="../searchservlet?query=A01G3/033&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01G3/033">
+        <TreeNode Title="A01G3/037 ###驱动装置是电动马达 [6]" Target="frmContent" Href="../searchservlet?query=A01G3/037&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01G3/037"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="A01G3/04 #修剪绿篱的设备，例如绿篱修整剪 [6]" Target="frmContent" Href="../searchservlet?query=A01G3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01G3/04">
+      <TreeNode Title="A01G3/047 ##便携式的 [6]" Target="frmContent" Href="../searchservlet?query=A01G3/047&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01G3/047">
+        <TreeNode Title="A01G3/053 ###马达驱动的 [6]" Target="frmContent" Href="../searchservlet?query=A01G3/053&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01G3/053"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="A01G3/06 #手持式草坪修整机或修整剪(与草坪修边器联合的割草机入A01D 43/16)" Target="frmContent" Href="../searchservlet?query=A01G3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01G3/06"/>
+    <TreeNode Title="A01G3/08 #其他修剪、整枝或立木打枝工具 [2，5]" Target="frmContent" Href="../searchservlet?query=A01G3/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01G3/08"/>
+  </TreeNode>
+  <TreeNode Title="A01G5/00 花卉处理" Target="frmContent" Href="../searchservlet?query=A01G5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01G5/00">
+    <TreeNode Title="A01G5/02 #花束或花环的捆扎设备" Target="frmContent" Href="../searchservlet?query=A01G5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01G5/02"/>
+    <TreeNode Title="A01G5/04 #制作花环用的座架或类似物；插花用的框架或夹座" Target="frmContent" Href="../searchservlet?query=A01G5/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01G5/04"/>
+    <TreeNode Title="A01G5/06 #保存花卉的装置(化学物质入A01N 3/02； 花瓶入A47G 7/06)" Target="frmContent" Href="../searchservlet?query=A01G5/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01G5/06"/>
+  </TreeNode>
+  <TreeNode Title="A01G7/00 一般植物学(无土栽培入A01G 31/00)" Target="frmContent" Href="../searchservlet?query=A01G7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01G7/00">
+    <TreeNode Title="A01G7/02 #用二氧化碳处理植物(所用温室入A01G 9/18)" Target="frmContent" Href="../searchservlet?query=A01G7/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01G7/02"/>
+    <TreeNode Title="A01G7/04 #用电或磁处理植物促进其生长" Target="frmContent" Href="../searchservlet?query=A01G7/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01G7/04"/>
+    <TreeNode Title="A01G7/06 #对生长中树木或植物的处理，例如防止木材腐烂、花卉或木材的着色、延长植物的生命" Target="frmContent" Href="../searchservlet?query=A01G7/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01G7/06"/>
+  </TreeNode>
+  <TreeNode Title="A01G9/00 在容器、促成温床或温室里栽培花卉、蔬菜或稻(无土栽培入A01G 31/00)" Target="frmContent" Href="../searchservlet?query=A01G9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01G9/00">
+    <TreeNode Title="A01G9/02 #容器，例如花盆或花箱(悬挂花篮、装花盆用的容器入A47G 7/00)；栽培花卉用的玻璃器皿" Target="frmContent" Href="../searchservlet?query=A01G9/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01G9/02"/>
+    <TreeNode Title="A01G9/04 #花盆的垫碟" Target="frmContent" Href="../searchservlet?query=A01G9/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01G9/04"/>
+    <TreeNode Title="A01G9/06 #清理花盆的装置" Target="frmContent" Href="../searchservlet?query=A01G9/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01G9/06"/>
+    <TreeNode Title="A01G9/08 #装填花盆的装置；将花栽入盆中的装置" Target="frmContent" Href="../searchservlet?query=A01G9/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01G9/08"/>
+    <TreeNode Title="A01G9/10 #装幼苗的盆； 装幼苗的土壤营养钵； 营养钵成型工具" Target="frmContent" Href="../searchservlet?query=A01G9/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01G9/10"/>
+    <TreeNode Title="A01G9/12 #植物的支架；草莓类或类似物的棚架物(树木用支柱、葡萄棚架入A01G 17/14)" Target="frmContent" Href="../searchservlet?query=A01G9/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01G9/12"/>
+    <TreeNode Title="A01G9/14 #温室(玻璃罩入A01G 13/04)" Target="frmContent" Href="../searchservlet?query=A01G9/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01G9/14">
+      <TreeNode Title="A01G9/16 ##可拆卸或可移动温室" Target="frmContent" Href="../searchservlet?query=A01G9/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01G9/16"/>
+    </TreeNode>
+    <TreeNode Title="A01G9/18 #用二氧化碳或类似气体处理植物所用的温室" Target="frmContent" Href="../searchservlet?query=A01G9/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01G9/18"/>
+    <TreeNode Title="A01G9/20 #促成温床；灯光" Target="frmContent" Href="../searchservlet?query=A01G9/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01G9/20"/>
+    <TreeNode Title="A01G9/22 #温室等用的遮罩或挡板或类似物" Target="frmContent" Href="../searchservlet?query=A01G9/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01G9/22"/>
+    <TreeNode Title="A01G9/24 #温室、促成温床或类似物等用的加热、通风、调温或浇水装置" Target="frmContent" Href="../searchservlet?query=A01G9/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01G9/24">
+      <TreeNode Title="A01G9/26 ##电力装置" Target="frmContent" Href="../searchservlet?query=A01G9/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01G9/26"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="A01G11/00 土壤蒸汽消毒(土壤改良剂或土壤稳定剂入C09K 17/00)" Target="frmContent" Href="../searchservlet?query=A01G11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01G11/00"/>
+  <TreeNode Title="A01G13/00 植物保护(消灭害虫或有害动物的设施入A01M；为此目的而使用的化学物品，保护性物质的组合物，例如嫁接蜡入A01N)" Target="frmContent" Href="../searchservlet?query=A01G13/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01G13/00">
+    <TreeNode Title="A01G13/02 #植物的保护性覆盖物；铺设覆盖物的装置" Target="frmContent" Href="../searchservlet?query=A01G13/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01G13/02">
+      <TreeNode Title="A01G13/04 ##玻璃罩" Target="frmContent" Href="../searchservlet?query=A01G13/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01G13/04"/>
+    </TreeNode>
+    <TreeNode Title="A01G13/06 #在花园、果园或树林里产生热、烟或雾的装置，例如防止霜害的装置(产生烟或雾的化学方法入C06D 3/00；加热装置一般见相应的类，如F24)" Target="frmContent" Href="../searchservlet?query=A01G13/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01G13/06"/>
+    <TreeNode Title="A01G13/08 #用于空气循环的机械设备" Target="frmContent" Href="../searchservlet?query=A01G13/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01G13/08"/>
+    <TreeNode Title="A01G13/10 #防止动物、鸟类或其他有害动物的装置(A01M 29/00优先；诱捕入A01M 23/00； 农药入A01N) [2]" Target="frmContent" Href="../searchservlet?query=A01G13/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01G13/10"/>
+  </TreeNode>
+  <TreeNode Title="A01G15/00 影响天气条件的装置或方法(散雾一般入E01H 13/00)" Target="frmContent" Href="../searchservlet?query=A01G15/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01G15/00"/>
+  <TreeNode Title="A01G16/00 稻的种植(A01G 9/00优先) [3]" Target="frmContent" Href="../searchservlet?query=A01G16/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01G16/00"/>
+  <TreeNode Title="A01G17/00 啤酒花、葡萄、果树或类似树木的栽培" Target="frmContent" Href="../searchservlet?query=A01G17/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01G17/00">
+    <TreeNode Title="A01G17/02 #啤酒花或葡萄的栽培" Target="frmContent" Href="../searchservlet?query=A01G17/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01G17/02"/>
+    <TreeNode Title="A01G17/04 #啤酒花、葡萄或树木的支架" Target="frmContent" Href="../searchservlet?query=A01G17/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01G17/04">
+      <TreeNode Title="A01G17/06 ##棚架" Target="frmContent" Href="../searchservlet?query=A01G17/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01G17/06">
+        <TreeNode Title="A01G17/08 ###使啤酒花、葡萄藤或枝条攀附在棚架上的工具；捆扎装置" Target="frmContent" Href="../searchservlet?query=A01G17/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01G17/08"/>
+      </TreeNode>
+      <TreeNode Title="A01G17/10 ##枝条的支架" Target="frmContent" Href="../searchservlet?query=A01G17/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01G17/10"/>
+      <TreeNode Title="A01G17/12 ##捆树带" Target="frmContent" Href="../searchservlet?query=A01G17/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01G17/12"/>
+      <TreeNode Title="A01G17/14 ##支柱；支架" Target="frmContent" Href="../searchservlet?query=A01G17/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01G17/14">
+        <TreeNode Title="A01G17/16 ###钉入或拨出支柱的装置" Target="frmContent" Href="../searchservlet?query=A01G17/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01G17/16"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="A01G17/18 #填补树木创伤的工具" Target="frmContent" Href="../searchservlet?query=A01G17/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01G17/18"/>
+  </TreeNode>
+  <TreeNode Title="A01G23/00 林业" Target="frmContent" Href="../searchservlet?query=A01G23/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01G23/00">
+    <TreeNode Title="A01G23/02 #树木的移栽、挖出、采伐或打枝(立木打枝入A01G 3/00) [5]" Target="frmContent" Href="../searchservlet?query=A01G23/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01G23/02">
+      <TreeNode Title="A01G23/04 ##移栽树木；抓住根团的装置，例如树根钳；用于运送树木的卷包或包装" Target="frmContent" Href="../searchservlet?query=A01G23/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01G23/04"/>
+      <TreeNode Title="A01G23/06 ##挖出或拔出树木；拔出或清除树桩 [5]" Target="frmContent" Href="../searchservlet?query=A01G23/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01G23/06"/>
+      <TreeNode Title="A01G23/08 ##采伐树木(斧子入B26B 23/00；锯、锯机入B27B)" Target="frmContent" Href="../searchservlet?query=A01G23/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01G23/08">
+        <TreeNode Title="A01G23/081 ###采伐—打捆机，即由采伐头打捆(A01G 23/083优先) [5]" Target="frmContent" Href="../searchservlet?query=A01G23/081&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01G23/081"/>
+        <TreeNode Title="A01G23/083 ###伐木—打枝机 [5]" Target="frmContent" Href="../searchservlet?query=A01G23/083&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01G23/083">
+          <TreeNode Title="A01G23/085 ####切割头安装在第一吊杆上，打枝头安装在第二吊杆上 [5]" Target="frmContent" Href="../searchservlet?query=A01G23/085&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01G23/085"/>
+        </TreeNode>
+        <TreeNode Title="A01G23/087 ###切割或类似的装置，尤其适用于采伐树木(A01G 23/081，A01G 23/083，　A01G 23/093 优先) [5]" Target="frmContent" Href="../searchservlet?query=A01G23/087&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01G23/087">
+          <TreeNode Title="A01G23/089 ####具有两个或更多的剪刀 [5]" Target="frmContent" Href="../searchservlet?query=A01G23/089&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01G23/089"/>
+          <TreeNode Title="A01G23/09 ####敲打型的 [5]" Target="frmContent" Href="../searchservlet?query=A01G23/09&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01G23/09"/>
+        </TreeNode>
+        <TreeNode Title="A01G23/091 ###锯木装置，尤其适用于采伐树木(A01G 23/081，A01G 23/083，A01G 23/093 优先) [5]" Target="frmContent" Href="../searchservlet?query=A01G23/091&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01G23/091"/>
+        <TreeNode Title="A01G23/093 ###尤其适用于采伐树木的切割，锯或碾磨联合装置 [5]" Target="frmContent" Href="../searchservlet?query=A01G23/093&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01G23/093"/>
+      </TreeNode>
+      <TreeNode Title="A01G23/095 ##打枝机(A01G 23/083优先；木材刨花、木屑、木粉或类似物的制造入B27L 11/00) [5]" Target="frmContent" Href="../searchservlet?query=A01G23/095&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01G23/095">
+        <TreeNode Title="A01G23/097 ###具有1个固定的打枝头 [5]" Target="frmContent" Href="../searchservlet?query=A01G23/097&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01G23/097"/>
+      </TreeNode>
+      <TreeNode Title="A01G23/099 ##辅助装置，例如采伐楔 [5]" Target="frmContent" Href="../searchservlet?query=A01G23/099&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01G23/099"/>
+    </TreeNode>
+    <TreeNode Title="A01G23/10 #树汁的割采，例如生橡胶、树胶的割采" Target="frmContent" Href="../searchservlet?query=A01G23/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01G23/10">
+      <TreeNode Title="A01G23/12 ##割采树汁用的刀或斧" Target="frmContent" Href="../searchservlet?query=A01G23/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01G23/12"/>
+      <TreeNode Title="A01G23/14 ##割采用流槽；盛树汁容器" Target="frmContent" Href="../searchservlet?query=A01G23/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01G23/14"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="A01G25/00 花园、田地、运动场等的浇水(施液肥的专用设备或装置入 A01C 23/00； 喷嘴或排水管、喷洒设备入B05B；自流、明渠灌溉渠道系统入E02B 13/00)" Target="frmContent" Href="../searchservlet?query=A01G25/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01G25/00">
+    <TreeNode Title="A01G25/02 #使用多孔管道或带喷头管道安装在地上的浇水装置，例如用于滴灌的(多孔管本身入B05B 1/20) [4]" Target="frmContent" Href="../searchservlet?query=A01G25/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01G25/02"/>
+    <TreeNode Title="A01G25/06 #使用多孔管道安装在地下的浇水装置(多孔管本身入B05B 1/20；排水用的类似装置入E02B 11/00)" Target="frmContent" Href="../searchservlet?query=A01G25/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01G25/06"/>
+    <TreeNode Title="A01G25/09 #使用装在轮子等活动设备上的浇水装置 [2]" Target="frmContent" Href="../searchservlet?query=A01G25/09&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01G25/09"/>
+    <TreeNode Title="A01G25/14 #手动浇水装置，例如浇水壶" Target="frmContent" Href="../searchservlet?query=A01G25/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01G25/14"/>
+    <TreeNode Title="A01G25/16 #浇水的控制(喷雾装置的控制入B05B) [2]" Target="frmContent" Href="../searchservlet?query=A01G25/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01G25/16"/>
+  </TreeNode>
+  <TreeNode Title="A01G27/00 自动浇水装置，如用于花盆的" Target="frmContent" Href="../searchservlet?query=A01G27/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01G27/00">
+    <TreeNode Title="A01G27/02 #具有1个贮水器，其主要部分完全位于生长基质周围或直接位于生长基质旁边(A01G 27/06优先) [6]" Target="frmContent" Href="../searchservlet?query=A01G27/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01G27/02"/>
+    <TreeNode Title="A01G27/04 #利用油绳或类似物 [6]" Target="frmContent" Href="../searchservlet?query=A01G27/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01G27/04">
+      <TreeNode Title="A01G27/06 ##具有1个贮水器，其主要部分完全位于生长基质周围或直接位于生长基质旁边 [6]" Target="frmContent" Href="../searchservlet?query=A01G27/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01G27/06"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="A01G29/00 根部给水器；将肥料注入根部" Target="frmContent" Href="../searchservlet?query=A01G29/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01G29/00"/>
+  <TreeNode Title="A01G31/00 水培；无土栽培(A01G 33/00优先) [2]" Target="frmContent" Href="../searchservlet?query=A01G31/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01G31/00">
+    <TreeNode Title="A01G31/02 #所用专门设备(在容器或温室栽培的设备一般入A01G 9/00；自动浇水装置入A01G 27/00)" Target="frmContent" Href="../searchservlet?query=A01G31/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01G31/02">
+      <TreeNode Title="A01G31/04 ##在输送带上水培 [6]" Target="frmContent" Href="../searchservlet?query=A01G31/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01G31/04"/>
+      <TreeNode Title="A01G31/06 ##在支架上或在叠放在容器中水培 [6]" Target="frmContent" Href="../searchservlet?query=A01G31/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01G31/06"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="A01G33/00 海菜的栽培 [2]" Target="frmContent" Href="../searchservlet?query=A01G33/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01G33/00">
+    <TreeNode Title="A01G33/02 #紫菜的 [2]" Target="frmContent" Href="../searchservlet?query=A01G33/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A01G33/02"/>
+  </TreeNode>
+</Root>

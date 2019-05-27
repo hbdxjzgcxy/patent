@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="G03H1/00 应用光波、红外波或紫外波取得全息图或由此获得图像的全息摄影工艺过程或设备；及其特殊的零部件[2]" Target="frmContent" Href="../searchservlet?query=G03H1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G03H1/00">
+    <TreeNode Title="G03H1/02 #零部件[2]" Target="frmContent" Href="../searchservlet?query=G03H1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G03H1/02"/>
+    <TreeNode Title="G03H1/04 #产生全息图的工艺过程或设备(G03H 1/26优先)[2]" Target="frmContent" Href="../searchservlet?query=G03H1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G03H1/04">
+      <TreeNode Title="G03H1/06 ##应用非相干光的[2]" Target="frmContent" Href="../searchservlet?query=G03H1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G03H1/06"/>
+      <TreeNode Title="G03H1/08 ##合成全息图的(应用电子数字计算机的入G06F，G06T)[2]" Target="frmContent" Href="../searchservlet?query=G03H1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G03H1/08"/>
+      <TreeNode Title="G03H1/10 ##应用调制的参考光束的[2]" Target="frmContent" Href="../searchservlet?query=G03H1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G03H1/10">
+        <TreeNode Title="G03H1/12 ###空间调制，例如，幻影成像[2]" Target="frmContent" Href="../searchservlet?query=G03H1/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G03H1/12"/>
+        <TreeNode Title="G03H1/14 ###时间调制，例如，扩展景深或运动目标的相位补偿[2]" Target="frmContent" Href="../searchservlet?query=G03H1/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G03H1/14"/>
+      </TreeNode>
+      <TreeNode Title="G03H1/16 ##应用傅立叶变换的(G03H 1/12，G03H 1/14优先；模拟计算机入G06G，例如，G06G 7/19)[2]" Target="frmContent" Href="../searchservlet?query=G03H1/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G03H1/16"/>
+      <TreeNode Title="G03H1/18 ##全息图记录载体的特殊工艺处理，例如，为了取得闪光全息图[2]" Target="frmContent" Href="../searchservlet?query=G03H1/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G03H1/18"/>
+      <TreeNode Title="G03H1/20 ##用全息摄影手段复制全息图[2]" Target="frmContent" Href="../searchservlet?query=G03H1/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G03H1/20"/>
+    </TreeNode>
+    <TreeNode Title="G03H1/22 #从全息图取得光学图像的工艺过程或设备(G03H 1/26至G03H 1/34优先)[2]" Target="frmContent" Href="../searchservlet?query=G03H1/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G03H1/22">
+      <TreeNode Title="G03H1/24 ##应用白光的[2]" Target="frmContent" Href="../searchservlet?query=G03H1/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G03H1/24"/>
+    </TreeNode>
+    <TreeNode Title="G03H1/26 #专用于产生复式全息图或由复式全息图取得图像的工艺过程或设备，例如，彩色技术[2]" Target="frmContent" Href="../searchservlet?query=G03H1/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G03H1/26">
+      <TreeNode Title="G03H1/28 ##仅为重叠的全息图[2]" Target="frmContent" Href="../searchservlet?query=G03H1/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G03H1/28"/>
+      <TreeNode Title="G03H1/30 ##仅为分离的全息图[2]" Target="frmContent" Href="../searchservlet?query=G03H1/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G03H1/30"/>
+    </TreeNode>
+    <TreeNode Title="G03H1/32 #用于消除斑点的系统[2]" Target="frmContent" Href="../searchservlet?query=G03H1/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G03H1/32"/>
+    <TreeNode Title="G03H1/34 #用于减小空间立体带宽的系统[2]" Target="frmContent" Href="../searchservlet?query=G03H1/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G03H1/34"/>
+  </TreeNode>
+  <TreeNode Title="G03H3/00 应用超声波、声波、次声波取得全息图的全息摄影工艺过程或设备；从全息图获得光学图像的工艺过程或设备(G03H 1/22优先)[2]" Target="frmContent" Href="../searchservlet?query=G03H3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G03H3/00"/>
+  <TreeNode Title="G03H5/00 用不包含在G03H 1/00或G03H 3/00的其他电磁波或粒子取得全息图的全息摄影工艺过程和设备；从全息图获得光学图像的工艺过程或设备(G03H 1/22优先；电子显微镜的构造入H01J 37/26)[2]" Target="frmContent" Href="../searchservlet?query=G03H5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G03H5/00"/>
+</Root>

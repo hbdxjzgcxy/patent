@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="C12H1/00 酒精饮料的巴氏灭菌、杀菌、保藏、纯化、澄清或陈酿" Target="frmContent" Href="../searchservlet?query=C12H1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12H1/00">
+    <TreeNode Title="C12H1/02 #与除去沉淀物或添加物质，如吸附物质的方法相结合" Target="frmContent" Href="../searchservlet?query=C12H1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12H1/02">
+      <TreeNode Title="C12H1/04 ##借助于离子交换物质或惰性澄清物质，如吸附物质" Target="frmContent" Href="../searchservlet?query=C12H1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12H1/04">
+        <TreeNode Title="C12H1/044 ###借助于无机物质[6]" Target="frmContent" Href="../searchservlet?query=C12H1/044&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12H1/044">
+          <TreeNode Title="C12H1/048 ####借助于含硅物质[6]" Target="frmContent" Href="../searchservlet?query=C12H1/048&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12H1/048"/>
+        </TreeNode>
+        <TreeNode Title="C12H1/052 ###借助于有机物质[6]" Target="frmContent" Href="../searchservlet?query=C12H1/052&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12H1/052">
+          <TreeNode Title="C12H1/056 ####借助于聚合物[6]" Target="frmContent" Href="../searchservlet?query=C12H1/056&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12H1/056"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="C12H1/06 ##采用物理方法进行沉淀，例如采用照射、振动" Target="frmContent" Href="../searchservlet?query=C12H1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12H1/06">
+        <TreeNode Title="C12H1/065 ###通过离心进行分离[6]" Target="frmContent" Href="../searchservlet?query=C12H1/065&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12H1/065"/>
+        <TreeNode Title="C12H1/07 ###通过过滤进行分离[6]" Target="frmContent" Href="../searchservlet?query=C12H1/07&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12H1/07">
+          <TreeNode Title="C12H1/075 ####通过错流过滤[6]" Target="frmContent" Href="../searchservlet?query=C12H1/075&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12H1/075"/>
+        </TreeNode>
+        <TreeNode Title="C12H1/08 ###通过加热" Target="frmContent" Href="../searchservlet?query=C12H1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12H1/08"/>
+      </TreeNode>
+      <TreeNode Title="C12H1/10 ##采用化学方法进行沉淀" Target="frmContent" Href="../searchservlet?query=C12H1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12H1/10"/>
+    </TreeNode>
+    <TreeNode Title="C12H1/12 #无沉淀" Target="frmContent" Href="../searchservlet?query=C12H1/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12H1/12">
+      <TreeNode Title="C12H1/14 ##用不形成沉淀的化合物，例如亚硫酸化；螯合作用，如用形成螯合物的化合物" Target="frmContent" Href="../searchservlet?query=C12H1/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12H1/14">
+        <TreeNode Title="C12H1/15 ###用酶[6]" Target="frmContent" Href="../searchservlet?query=C12H1/15&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12H1/15"/>
+      </TreeNode>
+      <TreeNode Title="C12H1/16 ##通过物理方法，例如照射" Target="frmContent" Href="../searchservlet?query=C12H1/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12H1/16">
+        <TreeNode Title="C12H1/18 ###通过加热" Target="frmContent" Href="../searchservlet?query=C12H1/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12H1/18">
+          <TreeNode Title="C12H1/20 ####在允许内含物膨胀的容器中" Target="frmContent" Href="../searchservlet?query=C12H1/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12H1/20"/>
+        </TreeNode>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="C12H1/22 #通过贮藏进行陈酿或催熟，如啤酒的贮藏" Target="frmContent" Href="../searchservlet?query=C12H1/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12H1/22"/>
+  </TreeNode>
+  <TreeNode Title="C12H3/00 从酒精饮料中去除酒精以得到无醇或低醇饮料(除低醇饮料外葡萄酒或啤酒的副产品的回收入C12F 3/06；通过改变发酵溶液的组分而制备除葡萄酒或啤酒以外的酒精饮料入C12G 3/08)[6]" Target="frmContent" Href="../searchservlet?query=C12H3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12H3/00">
+    <TreeNode Title="C12H3/02 #通过蒸发作用[6]" Target="frmContent" Href="../searchservlet?query=C12H3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12H3/02"/>
+    <TreeNode Title="C12H3/04 #使用半渗透膜[6]" Target="frmContent" Href="../searchservlet?query=C12H3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12H3/04"/>
+  </TreeNode>
+</Root>

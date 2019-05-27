@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="C23G1/00 用溶液或熔融盐清洗或酸洗金属材料(用有机溶剂入C23G 5/02)" Target="frmContent" Href="../searchservlet?query=C23G1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C23G1/00">
+    <TreeNode Title="C23G1/02 #用酸溶液" Target="frmContent" Href="../searchservlet?query=C23G1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C23G1/02">
+      <TreeNode Title="C23G1/04 ##用缓蚀剂" Target="frmContent" Href="../searchservlet?query=C23G1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C23G1/04">
+        <TreeNode Title="C23G1/06 ###有机缓蚀剂" Target="frmContent" Href="../searchservlet?query=C23G1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C23G1/06"/>
+      </TreeNode>
+      <TreeNode Title="C23G1/08 ##铁或钢" Target="frmContent" Href="../searchservlet?query=C23G1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C23G1/08"/>
+      <TreeNode Title="C23G1/10 ##其他重金属" Target="frmContent" Href="../searchservlet?query=C23G1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C23G1/10"/>
+      <TreeNode Title="C23G1/12 ##轻金属" Target="frmContent" Href="../searchservlet?query=C23G1/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C23G1/12"/>
+    </TreeNode>
+    <TreeNode Title="C23G1/14 #用碱溶液" Target="frmContent" Href="../searchservlet?query=C23G1/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C23G1/14">
+      <TreeNode Title="C23G1/16 ##用缓蚀剂" Target="frmContent" Href="../searchservlet?query=C23G1/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C23G1/16">
+        <TreeNode Title="C23G1/18 ###有机缓蚀剂" Target="frmContent" Href="../searchservlet?query=C23G1/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C23G1/18"/>
+      </TreeNode>
+      <TreeNode Title="C23G1/19 ##铁或钢[4]" Target="frmContent" Href="../searchservlet?query=C23G1/19&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C23G1/19"/>
+      <TreeNode Title="C23G1/20 ##其他重金属[4]" Target="frmContent" Href="../searchservlet?query=C23G1/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C23G1/20"/>
+      <TreeNode Title="C23G1/22 ##轻金属" Target="frmContent" Href="../searchservlet?query=C23G1/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C23G1/22"/>
+    </TreeNode>
+    <TreeNode Title="C23G1/24 #用中性溶液" Target="frmContent" Href="../searchservlet?query=C23G1/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C23G1/24">
+      <TreeNode Title="C23G1/26 ##用缓蚀剂" Target="frmContent" Href="../searchservlet?query=C23G1/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C23G1/26"/>
+    </TreeNode>
+    <TreeNode Title="C23G1/28 #用熔融盐" Target="frmContent" Href="../searchservlet?query=C23G1/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C23G1/28">
+      <TreeNode Title="C23G1/30 ##用缓蚀剂" Target="frmContent" Href="../searchservlet?query=C23G1/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C23G1/30"/>
+      <TreeNode Title="C23G1/32 ##重金属" Target="frmContent" Href="../searchservlet?query=C23G1/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C23G1/32"/>
+      <TreeNode Title="C23G1/34 ##轻金属" Target="frmContent" Href="../searchservlet?query=C23G1/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C23G1/34"/>
+    </TreeNode>
+    <TreeNode Title="C23G1/36 #废酸洗液的再生" Target="frmContent" Href="../searchservlet?query=C23G1/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C23G1/36"/>
+  </TreeNode>
+  <TreeNode Title="C23G3/00 金属材料清洗或酸洗用的设备(用有机溶剂入C23G 5/04)" Target="frmContent" Href="../searchservlet?query=C23G3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C23G3/00">
+    <TreeNode Title="C23G3/02 #连续清洗线材、带材、丝材" Target="frmContent" Href="../searchservlet?query=C23G3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C23G3/02"/>
+    <TreeNode Title="C23G3/04 #清洗管材" Target="frmContent" Href="../searchservlet?query=C23G3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C23G3/04"/>
+  </TreeNode>
+  <TreeNode Title="C23G5/00 金属材料用其他方法清洗或除油；金属材料用有机溶剂清洗或除油的设备" Target="frmContent" Href="../searchservlet?query=C23G5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C23G5/00">
+    <TreeNode Title="C23G5/02 #用有机溶剂" Target="frmContent" Href="../searchservlet?query=C23G5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C23G5/02">
+      <TreeNode Title="C23G5/024 ##含有碳氢化合物的[4]" Target="frmContent" Href="../searchservlet?query=C23G5/024&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C23G5/024"/>
+      <TreeNode Title="C23G5/028 ##含有卤代烃的[4]" Target="frmContent" Href="../searchservlet?query=C23G5/028&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C23G5/028"/>
+      <TreeNode Title="C23G5/032 ##含有含氧化合物的[4]" Target="frmContent" Href="../searchservlet?query=C23G5/032&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C23G5/032">
+        <TreeNode Title="C23G5/036 ###还有氮的[4]" Target="frmContent" Href="../searchservlet?query=C23G5/036&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C23G5/036"/>
+      </TreeNode>
+      <TreeNode Title="C23G5/04 ##设备" Target="frmContent" Href="../searchservlet?query=C23G5/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C23G5/04"/>
+    </TreeNode>
+    <TreeNode Title="C23G5/06 #使用乳化液[4]" Target="frmContent" Href="../searchservlet?query=C23G5/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C23G5/06"/>
+  </TreeNode>
+</Root>

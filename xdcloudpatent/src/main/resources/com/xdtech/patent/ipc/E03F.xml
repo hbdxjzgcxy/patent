@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="E03F1/00 排除污水或暴雨水的方法、系统或装置" Target="frmContent" Href="../searchservlet?query=E03F1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E03F1/00"/>
+  <TreeNode Title="E03F3/00 下水管道系统" Target="frmContent" Href="../searchservlet?query=E03F3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E03F3/00">
+    <TreeNode Title="E03F3/02 #下水管道或管道系统的布置" Target="frmContent" Href="../searchservlet?query=E03F3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E03F3/02"/>
+    <TreeNode Title="E03F3/04 #专门适用于下水道的管子或配件(混凝土管的制作入B28；一般管子或配件入F16L)" Target="frmContent" Href="../searchservlet?query=E03F3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E03F3/04"/>
+    <TreeNode Title="E03F3/06 #敷设下水管道的方法或装置(现场制备管道入F16L 1/038)[6]" Target="frmContent" Href="../searchservlet?query=E03F3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E03F3/06"/>
+  </TreeNode>
+  <TreeNode Title="E03F5/00 排水构筑物" Target="frmContent" Href="../searchservlet?query=E03F5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E03F5/00">
+    <TreeNode Title="E03F5/02 #人孔检查井或其他检查室(一般用途的入E02D 29/12)；积雪坑；附件(人孔检查井的盖、框或类似物入E02D 29/14)" Target="frmContent" Href="../searchservlet?query=E03F5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E03F5/02"/>
+    <TreeNode Title="E03F5/04 #带或不带防止臭气扩散的密封装置或沉淀集水坑的排水井" Target="frmContent" Href="../searchservlet?query=E03F5/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E03F5/04">
+      <TreeNode Title="E03F5/042 ##防止排水溢流或排水倒流的设施" Target="frmContent" Href="../searchservlet?query=E03F5/042&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E03F5/042"/>
+      <TreeNode Title="E03F5/046 ##适用于路边镶边石的(E03F 5/06优先)" Target="frmContent" Href="../searchservlet?query=E03F5/046&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E03F5/046"/>
+      <TreeNode Title="E03F5/06 ##排水井用的格栅" Target="frmContent" Href="../searchservlet?query=E03F5/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E03F5/06"/>
+    </TreeNode>
+    <TreeNode Title="E03F5/08 #下水道的通风" Target="frmContent" Href="../searchservlet?query=E03F5/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E03F5/08"/>
+    <TreeNode Title="E03F5/10 #集水池；调节径流量的平衡池；蓄水池" Target="frmContent" Href="../searchservlet?query=E03F5/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E03F5/10"/>
+    <TreeNode Title="E03F5/12 #紧急排水口" Target="frmContent" Href="../searchservlet?query=E03F5/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E03F5/12"/>
+    <TreeNode Title="E03F5/14 #从污水中分离液体和固体的设备，例如，砂或污泥收集池，耙或格栅(用于污水净化厂，或既可用于污水净化装置，也可以用于下水系统的入B01Ｄ，C02F)" Target="frmContent" Href="../searchservlet?query=E03F5/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E03F5/14">
+      <TreeNode Title="E03F5/16 ##在通至下水干管的排水管的污水中分离油、水或油脂的设备" Target="frmContent" Href="../searchservlet?query=E03F5/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E03F5/16"/>
+    </TreeNode>
+    <TreeNode Title="E03F5/18 #污水的消毒、中和或冷却的水池(池内有关生物或化学方面的装置入C02F)" Target="frmContent" Href="../searchservlet?query=E03F5/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E03F5/18"/>
+    <TreeNode Title="E03F5/20 #虹吸管或倒虹吸管(接在浴盆、洗脸盆或类似设备上的入E03C 1/12)" Target="frmContent" Href="../searchservlet?query=E03F5/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E03F5/20"/>
+    <TreeNode Title="E03F5/22 #提升污水用的抽水泵站设备的应用(抽空下水道或污水井的移动式设备入7/10；一般水泵和抽水泵站本身入F04)" Target="frmContent" Href="../searchservlet?query=E03F5/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E03F5/22"/>
+    <TreeNode Title="E03F5/24 #下水道内抑制爆炸的装置" Target="frmContent" Href="../searchservlet?query=E03F5/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E03F5/24"/>
+    <TreeNode Title="E03F5/26 #搅动污水的装置" Target="frmContent" Href="../searchservlet?query=E03F5/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E03F5/26"/>
+  </TreeNode>
+  <TreeNode Title="E03F7/00 用于下水道系统运行的其他装置或器具，例如，用于防止或指示堵塞的；污水井的抽空" Target="frmContent" Href="../searchservlet?query=E03F7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E03F7/00">
+    <TreeNode Title="E03F7/02 #关闭装置(一般的入F16K)" Target="frmContent" Href="../searchservlet?query=E03F7/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E03F7/02">
+      <TreeNode Title="E03F7/04 ##防止回流的阀门" Target="frmContent" Href="../searchservlet?query=E03F7/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E03F7/04"/>
+    </TreeNode>
+    <TreeNode Title="E03F7/06 #阻挡老鼠或其他动物的装置" Target="frmContent" Href="../searchservlet?query=E03F7/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E03F7/06"/>
+    <TreeNode Title="E03F7/08 #抽空地下水道或污水井用的手动工具" Target="frmContent" Href="../searchservlet?query=E03F7/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E03F7/08"/>
+    <TreeNode Title="E03F7/10 #抽空地下水道或污水井用的移动式装置" Target="frmContent" Href="../searchservlet?query=E03F7/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E03F7/10"/>
+    <TreeNode Title="E03F7/12 #使检查人员能沿下水道行进的装置" Target="frmContent" Href="../searchservlet?query=E03F7/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E03F7/12"/>
+  </TreeNode>
+  <TreeNode Title="E03F9/00 清洗下水管道的装置或固定装置，例如，冲洗装置(装在下水管道的沉淀集水池、耙或格栅或类似物入E03F 5/14；管道的一般清洗，清洗管道的设备入B08B 9/02)" Target="frmContent" Href="../searchservlet?query=E03F9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E03F9/00"/>
+  <TreeNode Title="E03F11/00 污水井(污水井的抽空入E03F 7/00；有关污水处理的设备入C02F)" Target="frmContent" Href="../searchservlet?query=E03F11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E03F11/00"/>
+</Root>

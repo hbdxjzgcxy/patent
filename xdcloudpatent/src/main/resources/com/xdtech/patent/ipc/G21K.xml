@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="G21K1/00 辐射或粒子的处理装置，如聚焦、慢化(辐射滤波器入G21K 3/00)[2]" Target="frmContent" Href="../searchservlet?query=G21K1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21K1/00">
+    <TreeNode Title="G21K1/02 #使用光阑、准直器[2]" Target="frmContent" Href="../searchservlet?query=G21K1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21K1/02">
+      <TreeNode Title="G21K1/04 ##应用可变光阑、活门、斩波器[2]" Target="frmContent" Href="../searchservlet?query=G21K1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21K1/04"/>
+    </TreeNode>
+    <TreeNode Title="G21K1/06 #应用衍射、折射或反射，如单色仪(G21K 1/10，G21K 7/00优先)[2]" Target="frmContent" Href="../searchservlet?query=G21K1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21K1/06"/>
+    <TreeNode Title="G21K1/08 #用电或磁装置使束流偏转、集中或聚焦(放电管的电子光学的装置入H01J 29/46)[2]" Target="frmContent" Href="../searchservlet?query=G21K1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21K1/08">
+      <TreeNode Title="G21K1/087 ##用电的装置[4]" Target="frmContent" Href="../searchservlet?query=G21K1/087&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21K1/087"/>
+      <TreeNode Title="G21K1/093 ##用磁的装置[4]" Target="frmContent" Href="../searchservlet?query=G21K1/093&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21K1/093"/>
+    </TreeNode>
+    <TreeNode Title="G21K1/10 #散射器件；吸收器件[2]" Target="frmContent" Href="../searchservlet?query=G21K1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21K1/10">
+      <TreeNode Title="G21K1/12 ##共振吸收器或其驱动设备，如穆斯堡尔效应装置[3]" Target="frmContent" Href="../searchservlet?query=G21K1/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21K1/12"/>
+    </TreeNode>
+    <TreeNode Title="G21K1/14 #使用电荷交换器件，如用于束流的电荷中性化或改变其符号(中性粒子束的产生或加速入H05H 3/00)[3]" Target="frmContent" Href="../searchservlet?query=G21K1/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21K1/14"/>
+    <TreeNode Title="G21K1/16 #应用极化装置，如用于获得极化的离子束[3]" Target="frmContent" Href="../searchservlet?query=G21K1/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21K1/16"/>
+  </TreeNode>
+  <TreeNode Title="G21K3/00 辐射滤波器，如X射线滤波器[2]" Target="frmContent" Href="../searchservlet?query=G21K3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21K3/00"/>
+  <TreeNode Title="G21K4/00 用于将X射线或粒子辐射的空间分布转换成可见图像的转换屏幕，如荧光屏(应用X射线增强器的照片处理入G03C 5/17；包括发光屏幕的放电管入H01J 1/62；用于具有光学输出的X射线转换的阴极射线管入H01J 31/50)[3]" Target="frmContent" Href="../searchservlet?query=G21K4/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21K4/00"/>
+  <TreeNode Title="G21K5/00 照射装置(适用于简化照射的反应堆入G21C 23/00；照射用的放电管入H01J 33/00，H01J 37/00)[2]" Target="frmContent" Href="../searchservlet?query=G21K5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21K5/00">
+    <TreeNode Title="G21K5/02 #没有束流成形装置[2]" Target="frmContent" Href="../searchservlet?query=G21K5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21K5/02"/>
+    <TreeNode Title="G21K5/04 #有束流成形装置[2]" Target="frmContent" Href="../searchservlet?query=G21K5/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21K5/04"/>
+    <TreeNode Title="G21K5/08 #靶或被照射物体的支架[2]" Target="frmContent" Href="../searchservlet?query=G21K5/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21K5/08"/>
+    <TreeNode Title="G21K5/10 #具有在束流源与被照射物体有相对运动的设备[3]" Target="frmContent" Href="../searchservlet?query=G21K5/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21K5/10"/>
+  </TreeNode>
+  <TreeNode Title="G21K7/00 伽马射线γ射线或X射线显微镜[2]" Target="frmContent" Href="../searchservlet?query=G21K7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G21K7/00"/>
+</Root>

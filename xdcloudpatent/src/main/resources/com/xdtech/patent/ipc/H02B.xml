@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="H02B1/00 框架、盘、板、台、机壳；变电站或开关装置的零部件[5]" Target="frmContent" Href="../searchservlet?query=H02B1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02B1/00">
+    <TreeNode Title="H02B1/01 #框架[5]" Target="frmContent" Href="../searchservlet?query=H02B1/01&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02B1/01"/>
+    <TreeNode Title="H02B1/015 #盘、板、台；它们的部件或相应的配件[5]" Target="frmContent" Href="../searchservlet?query=H02B1/015&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02B1/015">
+      <TreeNode Title="H02B1/03 ##用于功率表的[5]" Target="frmContent" Href="../searchservlet?query=H02B1/03&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02B1/03"/>
+      <TreeNode Title="H02B1/04 ##开关或其他一般装置在其上的安装，该开关或装置有或无外壳" Target="frmContent" Href="../searchservlet?query=H02B1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02B1/04">
+        <TreeNode Title="H02B1/044 ###通过孔安装的[5]" Target="frmContent" Href="../searchservlet?query=H02B1/044&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02B1/044">
+          <TreeNode Title="H02B1/048 ####扣闩安装的[5]" Target="frmContent" Href="../searchservlet?query=H02B1/048&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02B1/048"/>
+        </TreeNode>
+        <TreeNode Title="H02B1/052 ###安装在轨道上的[5]" Target="frmContent" Href="../searchservlet?query=H02B1/052&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02B1/052"/>
+        <TreeNode Title="H02B1/056 ###安装在插接板上的[5]" Target="frmContent" Href="../searchservlet?query=H02B1/056&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02B1/056"/>
+      </TreeNode>
+      <TreeNode Title="H02B1/06 ##有相连外罩，如用于防止接触带电部分(百叶窗或接触件护板入H02B 1/14)" Target="frmContent" Href="../searchservlet?query=H02B1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02B1/06"/>
+    </TreeNode>
+    <TreeNode Title="H02B1/14 #防止触及触点的护板或百叶窗(在可拉开的开关装置中的隔离触点的屏蔽入H02B 11/24)" Target="frmContent" Href="../searchservlet?query=H02B1/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02B1/14"/>
+    <TreeNode Title="H02B1/16 #接地装置(用于变电站的接地装置入H02B 5/01，用于开关装置的入H02B 11/28，H02B 13/075；接地板、棒或其他接触件入H01R 4/66)[5]" Target="frmContent" Href="../searchservlet?query=H02B1/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02B1/16"/>
+    <TreeNode Title="H02B1/18 #熔断器的配置或安排(用于具有可拉出台车的开关装置的入H02B 11/26)[5]" Target="frmContent" Href="../searchservlet?query=H02B1/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02B1/18"/>
+    <TreeNode Title="H02B1/20 #母线或其他线路的布置，例如在管内、在开关站内(母线的安装入H02G 5/00)" Target="frmContent" Href="../searchservlet?query=H02B1/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02B1/20">
+      <TreeNode Title="H02B1/21 ##用于有可拉出机构的机架装配装置的母线安排[5]" Target="frmContent" Href="../searchservlet?query=H02B1/21&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02B1/21"/>
+      <TreeNode Title="H02B1/22 ##用于双重母线选择的布置" Target="frmContent" Href="../searchservlet?query=H02B1/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02B1/22"/>
+    </TreeNode>
+    <TreeNode Title="H02B1/24 #盘或开关站的电路装置(显示图形的装置入H02B 15/00；供电电源入H02J 11/00)" Target="frmContent" Href="../searchservlet?query=H02B1/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02B1/24"/>
+    <TreeNode Title="H02B1/26 #外壳；它们的部件或相应的配件(适用于单个开关的入H01H；电缆、电线或母线的外壳入H02G；配电箱、接线盒或分线盒入H02G 3/08；一般外壳入H05K)[5]" Target="frmContent" Href="../searchservlet?query=H02B1/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02B1/26">
+      <TreeNode Title="H02B1/28 ##防尘、防溅、防滴、防水或防火[5]" Target="frmContent" Href="../searchservlet?query=H02B1/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02B1/28"/>
+      <TreeNode Title="H02B1/30 ##间隔型外壳；它的部件或其配件[5]" Target="frmContent" Href="../searchservlet?query=H02B1/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02B1/30">
+        <TreeNode Title="H02B1/32 ###其上装置的安装[5]" Target="frmContent" Href="../searchservlet?query=H02B1/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02B1/32">
+          <TreeNode Title="H02B1/34 ####机架[5]" Target="frmContent" Href="../searchservlet?query=H02B1/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02B1/34">
+            <TreeNode Title="H02B1/36 #####带有可拉出机构的[5]" Target="frmContent" Href="../searchservlet?query=H02B1/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02B1/36"/>
+          </TreeNode>
+        </TreeNode>
+        <TreeNode Title="H02B1/38 ###绞接的盖或门[5]" Target="frmContent" Href="../searchservlet?query=H02B1/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02B1/38"/>
+      </TreeNode>
+      <TreeNode Title="H02B1/40 ##装在墙上的外壳；它的部件或其配件[5]" Target="frmContent" Href="../searchservlet?query=H02B1/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02B1/40">
+        <TreeNode Title="H02B1/42 ###其上装置的安装[5]" Target="frmContent" Href="../searchservlet?query=H02B1/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02B1/42"/>
+        <TreeNode Title="H02B1/44 ###绞接的盖或门[5]" Target="frmContent" Href="../searchservlet?query=H02B1/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02B1/44"/>
+      </TreeNode>
+      <TreeNode Title="H02B1/46 ##箱；它的部件或其配件[5]" Target="frmContent" Href="../searchservlet?query=H02B1/46&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02B1/46">
+        <TreeNode Title="H02B1/48 ###其上装置的安装[5]" Target="frmContent" Href="../searchservlet?query=H02B1/48&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02B1/48"/>
+      </TreeNode>
+      <TreeNode Title="H02B1/50 ##装在基座或垫物上的外壳；它的零部件或其配件[5]" Target="frmContent" Href="../searchservlet?query=H02B1/50&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02B1/50"/>
+      <TreeNode Title="H02B1/52 ##机动装置，例如用于工作场地的[5]" Target="frmContent" Href="../searchservlet?query=H02B1/52&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02B1/52"/>
+    </TreeNode>
+    <TreeNode Title="H02B1/54 #防震装置或设备(用于建筑的一般入E04B 1/98)[5]" Target="frmContent" Href="../searchservlet?query=H02B1/54&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02B1/54"/>
+    <TreeNode Title="H02B1/56 #冷却；通风[5]" Target="frmContent" Href="../searchservlet?query=H02B1/56&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02B1/56"/>
+  </TreeNode>
+  <TreeNode Title="H02B3/00 制造、装配或维修盘或开关装置的专用设备" Target="frmContent" Href="../searchservlet?query=H02B3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02B3/00"/>
+  <TreeNode Title="H02B5/00 非封闭变电站；有封闭和非封闭设备的变电站" Target="frmContent" Href="../searchservlet?query=H02B5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02B5/00">
+    <TreeNode Title="H02B5/01 #接地装置，例如接地棒[5]" Target="frmContent" Href="../searchservlet?query=H02B5/01&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02B5/01"/>
+    <TreeNode Title="H02B5/02 #装在柱上的，例如柱上变压器变电站" Target="frmContent" Href="../searchservlet?query=H02B5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02B5/02"/>
+    <TreeNode Title="H02B5/06 #气体绝缘的[5]" Target="frmContent" Href="../searchservlet?query=H02B5/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02B5/06"/>
+  </TreeNode>
+  <TreeNode Title="H02B7/00 封闭式变电站，例如紧凑型变电站[5]" Target="frmContent" Href="../searchservlet?query=H02B7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02B7/00">
+    <TreeNode Title="H02B7/01 #气体绝缘的[5]" Target="frmContent" Href="../searchservlet?query=H02B7/01&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02B7/01"/>
+    <TreeNode Title="H02B7/06 #配电变电站，例如用于城市电网的(H02B 7/01优先)[5]" Target="frmContent" Href="../searchservlet?query=H02B7/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02B7/06">
+      <TreeNode Title="H02B7/08 ##地下变电站" Target="frmContent" Href="../searchservlet?query=H02B7/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02B7/08"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="H02B11/00 具有用于隔离的可拉出的台车的开关装置" Target="frmContent" Href="../searchservlet?query=H02B11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02B11/00">
+    <TreeNode Title="H02B11/02 #零部件" Target="frmContent" Href="../searchservlet?query=H02B11/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02B11/02">
+      <TreeNode Title="H02B11/04 ##隔离触点，例如安装、屏蔽(隔离触点的护板或防护装置入H02B 1/14，H02B 11/24；开关触点入H01H；一般线路连接器入H01R)[5]" Target="frmContent" Href="../searchservlet?query=H02B11/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02B11/04"/>
+      <TreeNode Title="H02B11/06 ##用于双重母线选择的装置(用于双重母线选择的布局入H02B 1/22)" Target="frmContent" Href="../searchservlet?query=H02B11/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02B11/06"/>
+      <TreeNode Title="H02B11/08 ##与拉引机构相结合降低油箱的位置" Target="frmContent" Href="../searchservlet?query=H02B11/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02B11/08"/>
+      <TreeNode Title="H02B11/10 ##指示开关装置的电气情况，测试用插座的配置" Target="frmContent" Href="../searchservlet?query=H02B11/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02B11/10"/>
+    </TreeNode>
+    <TreeNode Title="H02B11/12 #水平拉引隔离的" Target="frmContent" Href="../searchservlet?query=H02B11/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02B11/12">
+      <TreeNode Title="H02B11/127 ##拉引机构[5]" Target="frmContent" Href="../searchservlet?query=H02B11/127&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02B11/127">
+        <TreeNode Title="H02B11/133 ###带有互锁的(用于一般开关的互锁入H01H)[5]" Target="frmContent" Href="../searchservlet?query=H02B11/133&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02B11/133"/>
+      </TreeNode>
+      <TreeNode Title="H02B11/167 ##手车型的(H02B 11/127优先)[5]" Target="frmContent" Href="../searchservlet?query=H02B11/167&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02B11/167"/>
+      <TreeNode Title="H02B11/173 ##抽屉型的(H02B 11/127优先)[5]" Target="frmContent" Href="../searchservlet?query=H02B11/173&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02B11/173"/>
+    </TreeNode>
+    <TreeNode Title="H02B11/18 #垂直拉引隔离的" Target="frmContent" Href="../searchservlet?query=H02B11/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02B11/18">
+      <TreeNode Title="H02B11/20 ##有外罩的" Target="frmContent" Href="../searchservlet?query=H02B11/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02B11/20">
+        <TreeNode Title="H02B11/22 ###隔离后水平拉动，外罩的前部与台车一起移动的" Target="frmContent" Href="../searchservlet?query=H02B11/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02B11/22"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="H02B11/24 #护板或防护装置[5]" Target="frmContent" Href="../searchservlet?query=H02B11/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02B11/24"/>
+    <TreeNode Title="H02B11/26 #熔断器、电阻器、过压保护装置或类似装置的设备[5]" Target="frmContent" Href="../searchservlet?query=H02B11/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02B11/26"/>
+    <TreeNode Title="H02B11/28 #接地装置[5]" Target="frmContent" Href="../searchservlet?query=H02B11/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02B11/28"/>
+  </TreeNode>
+  <TreeNode Title="H02B13/00 其中的开关被封闭在外壳内或在结构上开关与外壳相结合的开关装置的设置，如柜(与主变压器相结合的入H02B 5/00，H02B 7/00；用于隔离的有可拉出台车的开关装置入H02B 11/00)[5]" Target="frmContent" Href="../searchservlet?query=H02B13/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02B13/00">
+    <TreeNode Title="H02B13/01 #有树脂外壳的[5]" Target="frmContent" Href="../searchservlet?query=H02B13/01&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02B13/01"/>
+    <TreeNode Title="H02B13/02 #有金属外壳的" Target="frmContent" Href="../searchservlet?query=H02B13/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02B13/02">
+      <TreeNode Title="H02B13/025 ##安全装置，例如在由于电故障导致的过压或失火情况(用于建筑的一般入E04B 1/94；用于打开或关闭安全翼扇的装置入E05F 1/00；用于配电设备，例如母线系统，或用于开关装置的紧急保护电路装置入H02H 7/22)[5]" Target="frmContent" Href="../searchservlet?query=H02B13/025&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02B13/025"/>
+      <TreeNode Title="H02B13/035 ##气体绝缘开关装置[5]" Target="frmContent" Href="../searchservlet?query=H02B13/035&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02B13/035">
+        <TreeNode Title="H02B13/045 ###外壳的零部件，例如气体密封(用于开关的气体储存器入H01H 33/56)[5]" Target="frmContent" Href="../searchservlet?query=H02B13/045&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02B13/045"/>
+        <TreeNode Title="H02B13/055 ###有关气体特征的(开关流体的选择入H01H 33/22)[5]" Target="frmContent" Href="../searchservlet?query=H02B13/055&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02B13/055"/>
+        <TreeNode Title="H02B13/065 ###用于检测或反应机械或电气故障的装置(用于开关的入H01H 9/50，H01H 33/26，H01H 33/53)[5]" Target="frmContent" Href="../searchservlet?query=H02B13/065&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02B13/065"/>
+        <TreeNode Title="H02B13/075 ###接地装置[5]" Target="frmContent" Href="../searchservlet?query=H02B13/075&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02B13/075"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="H02B13/08 #带有石、砖或混凝土外壳的" Target="frmContent" Href="../searchservlet?query=H02B13/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02B13/08"/>
+  </TreeNode>
+  <TreeNode Title="H02B15/00 集中控制或显示用的监视台或面板(一般的台入A47B)" Target="frmContent" Href="../searchservlet?query=H02B15/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02B15/00">
+    <TreeNode Title="H02B15/02 #有模拟图形的" Target="frmContent" Href="../searchservlet?query=H02B15/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02B15/02">
+      <TreeNode Title="H02B15/04 ##由积木式组件组成的" Target="frmContent" Href="../searchservlet?query=H02B15/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02B15/04"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="H02B99/00 本小类其他各组中不包括的技术主题[2009.01]" Target="frmContent" Href="../searchservlet?query=H02B99/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02B99/00"/>
+</Root>

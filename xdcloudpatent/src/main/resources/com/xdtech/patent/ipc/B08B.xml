@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="B08B1/00 利用工具，刷子或类似工具的清洁方法(B08B 3/12，B08B 6/00，B08B 9/00优先)[2]" Target="frmContent" Href="../searchservlet?query=B08B1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B08B1/00">
+    <TreeNode Title="B08B1/02 #运动中工件的清洁，如在传送装置上的成卷织物，物品" Target="frmContent" Href="../searchservlet?query=B08B1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B08B1/02"/>
+    <TreeNode Title="B08B1/04 #利用旋转动作的构件(B08B 1/02优先)" Target="frmContent" Href="../searchservlet?query=B08B1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B08B1/04"/>
+  </TreeNode>
+  <TreeNode Title="B08B3/00 使用液体或蒸气的清洁方法(B08B 9/00优先)" Target="frmContent" Href="../searchservlet?query=B08B3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B08B3/00">
+    <TreeNode Title="B08B3/02 #用喷射力来清洁" Target="frmContent" Href="../searchservlet?query=B08B3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B08B3/02"/>
+    <TreeNode Title="B08B3/04 #与液体接触的清洁" Target="frmContent" Href="../searchservlet?query=B08B3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B08B3/04">
+      <TreeNode Title="B08B3/06 ##利用多孔的滚筒，里面放置物品或材料" Target="frmContent" Href="../searchservlet?query=B08B3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B08B3/06"/>
+      <TreeNode Title="B08B3/08 ##具有化学作用或溶解作用的液体(使用的物质，参见有关的类)" Target="frmContent" Href="../searchservlet?query=B08B3/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B08B3/08"/>
+      <TreeNode Title="B08B3/10 ##对液体或被净化物体进行附加处理的，如用加热，电力，振动" Target="frmContent" Href="../searchservlet?query=B08B3/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B08B3/10">
+        <TreeNode Title="B08B3/12 ###用声波或超声波振动的(声波或超声波陶器或餐具清洗或冲洗机入A47L 15/13；使用超声波技术清洗或冲洗天然牙、假牙或类似于天然牙的入A61C 17/20；超声波振动用于一般化学、物理，或物理化学过程中的入B01J 19/10[2，5]" Target="frmContent" Href="../searchservlet?query=B08B3/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B08B3/12"/>
+        <TreeNode Title="B08B3/14 ###从清洗液里除去废物，如，披水石(一般水处理入C02F)[5]" Target="frmContent" Href="../searchservlet?query=B08B3/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B08B3/14"/>
+      </TreeNode>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="B08B5/00 利用空气流动或气体流动的清洁方法(B08B 6/00，B08B 9/00优先)[2，7]" Target="frmContent" Href="../searchservlet?query=B08B5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B08B5/00">
+    <TreeNode Title="B08B5/02 #用喷气力来清洁，如吹清凹处" Target="frmContent" Href="../searchservlet?query=B08B5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B08B5/02"/>
+    <TreeNode Title="B08B5/04 #用带或不带辅助动作的抽气来清洁(吸尘器入A47L)B08B 6/00用静电法清洁(家用静电清洁器入A47L 13/40；唱片纹路的清洁入G11B 3/58)[2]" Target="frmContent" Href="../searchservlet?query=B08B5/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B08B5/04"/>
+  </TreeNode>
+  <TreeNode Title="B08B7/00 不包含在其他小类或本小类的其他组中的清洁方法" Target="frmContent" Href="../searchservlet?query=B08B7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B08B7/00">
+    <TreeNode Title="B08B7/02 #弯曲、拍打或振动被清洁的表面" Target="frmContent" Href="../searchservlet?query=B08B7/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B08B7/02"/>
+    <TreeNode Title="B08B7/04 #多种操作的结合" Target="frmContent" Href="../searchservlet?query=B08B7/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B08B7/04"/>
+  </TreeNode>
+  <TreeNode Title="B08B9/00 用专门的方法或设备清洁空心物品(B08B 3/12，B08B 6/00优先)[2]" Target="frmContent" Href="../searchservlet?query=B08B9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B08B9/00">
+    <TreeNode Title="B08B9/02 #清洁管道、管子、管子系统或管道系统(用化学方法清洁金属管的装置入C23G 3/04)[5]" Target="frmContent" Href="../searchservlet?query=B08B9/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B08B9/02">
+      <TreeNode Title="B08B9/023 ##清洁外表面[7]" Target="frmContent" Href="../searchservlet?query=B08B9/023&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B08B9/023"/>
+      <TreeNode Title="B08B9/027 ##清洁内表面；去除堵塞物[7]" Target="frmContent" Href="../searchservlet?query=B08B9/027&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B08B9/027">
+        <TreeNode Title="B08B9/032 ###靠运动流体的机械作用，例如，靠冲洗(B08B 9/04优先)[7]" Target="frmContent" Href="../searchservlet?query=B08B9/032&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B08B9/032">
+          <TreeNode Title="B08B9/035 ####靠抽吸[7]" Target="frmContent" Href="../searchservlet?query=B08B9/035&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B08B9/035"/>
+        </TreeNode>
+        <TreeNode Title="B08B9/04 ###靠放入管道内并沿管道移动的清洁装置[1，7]" Target="frmContent" Href="../searchservlet?query=B08B9/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B08B9/04">
+          <TreeNode Title="B08B9/043 ####靠外力机械联动而移动，例如，靠推力或拉力通过管道[7]" Target="frmContent" Href="../searchservlet?query=B08B9/043&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B08B9/043">
+            <TreeNode Title="B08B9/045 #####清洁装置边移动边旋转(B08B 9/047优先)[7]" Target="frmContent" Href="../searchservlet?query=B08B9/045&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B08B9/045"/>
+            <TreeNode Title="B08B9/047 #####清洁装置带有驱动清洁工具的电机[7]" Target="frmContent" Href="../searchservlet?query=B08B9/047&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B08B9/047"/>
+          </TreeNode>
+          <TreeNode Title="B08B9/049 ####带有自身推动装置，使清洁装置沿管道移动[7]" Target="frmContent" Href="../searchservlet?query=B08B9/049&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B08B9/049">
+            <TreeNode Title="B08B9/051 #####清洁装置带有驱动清洁工具的电机[7]" Target="frmContent" Href="../searchservlet?query=B08B9/051&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B08B9/051"/>
+          </TreeNode>
+          <TreeNode Title="B08B9/053 ####靠流体沿管道移动，例如，靠流体压力或靠抽吸[7]" Target="frmContent" Href="../searchservlet?query=B08B9/053&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B08B9/053">
+            <TreeNode Title="B08B9/055 #####清洁装置大致与管道的横截面相一致或相配合，例如，管道除垢器或挖沟犁[7]" Target="frmContent" Href="../searchservlet?query=B08B9/055&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B08B9/055"/>
+            <TreeNode Title="B08B9/057 #####清洁装置夹带着离散的元件，例如，球，研磨元件，刷子[7]" Target="frmContent" Href="../searchservlet?query=B08B9/057&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B08B9/057"/>
+          </TreeNode>
+        </TreeNode>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="B08B9/08 #清洗容器，如槽的清洗" Target="frmContent" Href="../searchservlet?query=B08B9/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B08B9/08">
+      <TreeNode Title="B08B9/087 ##包括使用工具，如刷子、刮刀的方法的(B08B 9/20优先)[5]" Target="frmContent" Href="../searchservlet?query=B08B9/087&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B08B9/087"/>
+      <TreeNode Title="B08B9/093 ##用喷气或喷射力的(B08B 9/20优先)[5]" Target="frmContent" Href="../searchservlet?query=B08B9/093&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B08B9/093"/>
+      <TreeNode Title="B08B9/20 ##使用机器，容器如瓶子、罐被引入机器内或机器上[5]" Target="frmContent" Href="../searchservlet?query=B08B9/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B08B9/20">
+        <TreeNode Title="B08B9/22 ###机器清洁工作仅用以浸渍的[5]" Target="frmContent" Href="../searchservlet?query=B08B9/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B08B9/22">
+          <TreeNode Title="B08B9/24 ####有输送机的[5]" Target="frmContent" Href="../searchservlet?query=B08B9/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B08B9/24">
+            <TreeNode Title="B08B9/26 #####旋转的输送机[5]" Target="frmContent" Href="../searchservlet?query=B08B9/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B08B9/26"/>
+          </TreeNode>
+        </TreeNode>
+        <TreeNode Title="B08B9/28 ###机器清洁工作用喷雾，喷气或喷液，带有浸渍或不带浸渍[5]" Target="frmContent" Href="../searchservlet?query=B08B9/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B08B9/28">
+          <TreeNode Title="B08B9/30 ####有输送机[5]" Target="frmContent" Href="../searchservlet?query=B08B9/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B08B9/30">
+            <TreeNode Title="B08B9/32 #####旋转输送机[5]" Target="frmContent" Href="../searchservlet?query=B08B9/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B08B9/32"/>
+          </TreeNode>
+          <TreeNode Title="B08B9/34 ####配置导管或喷管[5]" Target="frmContent" Href="../searchservlet?query=B08B9/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B08B9/34"/>
+        </TreeNode>
+        <TreeNode Title="B08B9/36 ###机器清洁工作用刷子[5]" Target="frmContent" Href="../searchservlet?query=B08B9/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B08B9/36"/>
+        <TreeNode Title="B08B9/38 ###机器清洁工作用刮刀、链条、钢磨粒、砂磨粒或其他研磨装置(一般喷砂研磨入B24C)[5]" Target="frmContent" Href="../searchservlet?query=B08B9/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B08B9/38"/>
+        <TreeNode Title="B08B9/40 ###机器清洁工作用燃烧法[5]" Target="frmContent" Href="../searchservlet?query=B08B9/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B08B9/40"/>
+        <TreeNode Title="B08B9/42 ###机器的特征是使用一种设备以传送容器通过机器[5]" Target="frmContent" Href="../searchservlet?query=B08B9/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B08B9/42">
+          <TreeNode Title="B08B9/44 ####该设备为机器输入容器和输出容器[5]" Target="frmContent" Href="../searchservlet?query=B08B9/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B08B9/44"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="B08B9/46 ##检查已清洁容器的清洁度[5]" Target="frmContent" Href="../searchservlet?query=B08B9/46&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B08B9/46"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="B08B11/00 专门适用于清洁柔韧的或精致的物品的方法或装置(B08B 3/12，B08B 6/00优先)[2]" Target="frmContent" Href="../searchservlet?query=B08B11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B08B11/00">
+    <TreeNode Title="B08B11/02 #清洁时抓住物品的装置" Target="frmContent" Href="../searchservlet?query=B08B11/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B08B11/02"/>
+    <TreeNode Title="B08B11/04 #专门用于平板玻璃的，如加工挡风玻璃前用的(清洁永久固定的窗格玻璃之间的间隙入E06B 3/677)" Target="frmContent" Href="../searchservlet?query=B08B11/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B08B11/04"/>
+  </TreeNode>
+  <TreeNode Title="B08B13/00 一般用于清洁机器或设备的附件或零件" Target="frmContent" Href="../searchservlet?query=B08B13/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B08B13/00"/>
+  <TreeNode Title="B08B15/00 防止污物或烟尘从产生处逸出；从产生处收集或清除污物或烟尘(用于从烹调器中排出或冷凝蒸气的烹调器的部件、零件或辅助件入A47J 36/38；垃圾排出入B65F；用于引导烟尘或烟雾的装置，如烟筒入F23J 11/00；从家用炉子或其区域内排除烹调烟气入F24C 15/20；空气调节、通风入F24F)[5]" Target="frmContent" Href="../searchservlet?query=B08B15/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B08B15/00">
+    <TreeNode Title="B08B15/02 #用容器或罩覆盖产生处" Target="frmContent" Href="../searchservlet?query=B08B15/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B08B15/02"/>
+    <TreeNode Title="B08B15/04 #从一小范围的，如一设备" Target="frmContent" Href="../searchservlet?query=B08B15/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B08B15/04"/>
+  </TreeNode>
+  <TreeNode Title="B08B17/00 防止污染的方法" Target="frmContent" Href="../searchservlet?query=B08B17/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B08B17/00">
+    <TreeNode Title="B08B17/02 #防止污物或尘埃堆积" Target="frmContent" Href="../searchservlet?query=B08B17/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B08B17/02">
+      <TreeNode Title="B08B17/04 ##用可移动的遮盖物" Target="frmContent" Href="../searchservlet?query=B08B17/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B08B17/04"/>
+      <TreeNode Title="B08B17/06 ##对受污染的物品给以特殊的形状或设置" Target="frmContent" Href="../searchservlet?query=B08B17/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B08B17/06"/>
+    </TreeNode>
+  </TreeNode>
+</Root>

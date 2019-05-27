@@ -1,0 +1,27 @@
+<Root>
+  <TreeNode Title="C13D1/00 糖汁（即蔗糖汁）的生产" Target="frmContent" Href="../searchservlet?query=C13D1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C13D1/00">
+    <TreeNode Title="C13D1/02 从甘蔗或类似的原料（如甜高粱）中榨取汁" Target="frmContent" Href="../searchservlet?query=C13D1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C13D1/02">
+      <TreeNode Title="C13D1/04 与吸液结合" Target="frmContent" Href="../searchservlet?query=C13D1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C13D1/04" />
+      <TreeNode Title="C13D1/06 压蔗机" Target="frmContent" Href="../searchservlet?query=C13D1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C13D1/06" />
+    </TreeNode>
+    <TreeNode Title="C13D1/08 用水从甜菜中浸出糖" Target="frmContent" Href="../searchservlet?query=C13D1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C13D1/08">
+      <TreeNode Title="C13D1/10 连续法" Target="frmContent" Href="../searchservlet?query=C13D1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C13D1/10" />
+      <TreeNode Title="C13D1/12 浸出装置的详细结构，如管子或阀门的装置" Target="frmContent" Href="../searchservlet?query=C13D1/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C13D1/12" />
+    </TreeNode>
+    <TreeNode Title="C13D1/14 使用水以外的浸取剂，如酒精或盐溶液" Target="frmContent" Href="../searchservlet?query=C13D1/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C13D1/14" />
+  </TreeNode>
+  <TreeNode Title="C13D3/00 蔗糖汁的净化（从液体中机械分离固体入B01）" Target="frmContent" Href="../searchservlet?query=C13D3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C13D3/00">
+    <TreeNode Title="C13D3/02 用碱土化合物" Target="frmContent" Href="../searchservlet?query=C13D3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C13D3/02">
+      <TreeNode Title="C13D3/04 接着用饱和法" Target="frmContent" Href="../searchservlet?query=C13D3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C13D3/04">
+        <TreeNode Title="C13D3/06 用二氧化碳或二氧化硫" Target="frmContent" Href="../searchservlet?query=C13D3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C13D3/06" />
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="C13D3/08 用氧化或还原法" Target="frmContent" Href="../searchservlet?query=C13D3/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C13D3/08">
+      <TreeNode Title="C13D3/10 用二氧化硫或亚硫酸盐" Target="frmContent" Href="../searchservlet?query=C13D3/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C13D3/10" />
+    </TreeNode>
+    <TreeNode Title="C13D3/12 用吸附剂，如活性碳" Target="frmContent" Href="../searchservlet?query=C13D3/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C13D3/12" />
+    <TreeNode Title="C13D3/14 用离子交换材料" Target="frmContent" Href="../searchservlet?query=C13D3/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C13D3/14" />
+    <TreeNode Title="C13D3/16 用物理方法，如渗透" Target="frmContent" Href="../searchservlet?query=C13D3/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C13D3/16" />
+    <TreeNode Title="C13D3/18 用电的方法" Target="frmContent" Href="../searchservlet?query=C13D3/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C13D3/18" />
+  </TreeNode>
+</Root>

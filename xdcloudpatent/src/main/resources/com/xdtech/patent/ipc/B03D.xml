@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="B03D1/00 浮选" Target="frmContent" Href="../searchservlet?query=B03D1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B03D1/00">
+    <TreeNode Title="B03D1/001 #浮选药剂[5]" Target="frmContent" Href="../searchservlet?query=B03D1/001&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B03D1/001">
+      <TreeNode Title="B03D1/002 ##无机化合物[5]" Target="frmContent" Href="../searchservlet?query=B03D1/002&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B03D1/002"/>
+      <TreeNode Title="B03D1/004 ##有机化合物[5]" Target="frmContent" Href="../searchservlet?query=B03D1/004&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B03D1/004">
+        <TreeNode Title="B03D1/006 ###烃[5]" Target="frmContent" Href="../searchservlet?query=B03D1/006&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B03D1/006"/>
+        <TreeNode Title="B03D1/008 ###含氧的[5]" Target="frmContent" Href="../searchservlet?query=B03D1/008&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B03D1/008"/>
+        <TreeNode Title="B03D1/01 ###含氮的[5]" Target="frmContent" Href="../searchservlet?query=B03D1/01&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B03D1/01"/>
+        <TreeNode Title="B03D1/012 ###含硫的[5]" Target="frmContent" Href="../searchservlet?query=B03D1/012&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B03D1/012"/>
+        <TreeNode Title="B03D1/014 ###含磷的[5]" Target="frmContent" Href="../searchservlet?query=B03D1/014&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B03D1/014"/>
+        <TreeNode Title="B03D1/016 ###大分子化合物[5]" Target="frmContent" Href="../searchservlet?query=B03D1/016&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B03D1/016"/>
+      </TreeNode>
+      <TreeNode Title="B03D1/018 ##无机化合物与有机化合物的混合物[5]" Target="frmContent" Href="../searchservlet?query=B03D1/018&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B03D1/018"/>
+    </TreeNode>
+    <TreeNode Title="B03D1/02 #泡沫选法" Target="frmContent" Href="../searchservlet?query=B03D1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B03D1/02">
+      <TreeNode Title="B03D1/04 ##用改变环境气压" Target="frmContent" Href="../searchservlet?query=B03D1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B03D1/04"/>
+      <TreeNode Title="B03D1/06 ##分异的" Target="frmContent" Href="../searchservlet?query=B03D1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B03D1/06"/>
+    </TreeNode>
+    <TreeNode Title="B03D1/08 #析出产品的再处理" Target="frmContent" Href="../searchservlet?query=B03D1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B03D1/08">
+      <TreeNode Title="B03D1/10 ##从分离出的物料中除去黏附液体" Target="frmContent" Href="../searchservlet?query=B03D1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B03D1/10"/>
+    </TreeNode>
+    <TreeNode Title="B03D1/12 #试剂回收" Target="frmContent" Href="../searchservlet?query=B03D1/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B03D1/12"/>
+    <TreeNode Title="B03D1/14 #浮选机械(装入已称量的试剂的设备入B01J 4/02)" Target="frmContent" Href="../searchservlet?query=B03D1/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B03D1/14">
+      <TreeNode Title="B03D1/16 ##有叶轮的；底吹机" Target="frmContent" Href="../searchservlet?query=B03D1/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B03D1/16">
+        <TreeNode Title="B03D1/18 ###不供气的" Target="frmContent" Href="../searchservlet?query=B03D1/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B03D1/18"/>
+        <TreeNode Title="B03D1/20 ###有内部气泵的" Target="frmContent" Href="../searchservlet?query=B03D1/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B03D1/20"/>
+        <TreeNode Title="B03D1/22 ###有外部鼓风机的" Target="frmContent" Href="../searchservlet?query=B03D1/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B03D1/22"/>
+      </TreeNode>
+      <TreeNode Title="B03D1/24 ##气动的" Target="frmContent" Href="../searchservlet?query=B03D1/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B03D1/24">
+        <TreeNode Title="B03D1/26 ###空气提升机" Target="frmContent" Href="../searchservlet?query=B03D1/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B03D1/26"/>
+      </TreeNode>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="B03D3/00 选择性沉积法" Target="frmContent" Href="../searchservlet?query=B03D3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B03D3/00">
+    <TreeNode Title="B03D3/02 #凝聚" Target="frmContent" Href="../searchservlet?query=B03D3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B03D3/02">
+      <TreeNode Title="B03D3/04 ##由振动协助的" Target="frmContent" Href="../searchservlet?query=B03D3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B03D3/04"/>
+    </TreeNode>
+    <TreeNode Title="B03D3/06 #絮凝" Target="frmContent" Href="../searchservlet?query=B03D3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B03D3/06"/>
+  </TreeNode>
+  <TreeNode Title="B03D101/00 浮选药剂所起的特定作用[5]" Target="frmContent" Href="../searchservlet?query=B03D101/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B03D101/00">
+    <TreeNode Title="B03D101/02 #捕收剂[5]" Target="frmContent" Href="../searchservlet?query=B03D101/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B03D101/02"/>
+    <TreeNode Title="B03D101/04 #起泡剂[5]" Target="frmContent" Href="../searchservlet?query=B03D101/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B03D101/04"/>
+    <TreeNode Title="B03D101/06 #抑制剂[5]" Target="frmContent" Href="../searchservlet?query=B03D101/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B03D101/06"/>
+  </TreeNode>
+  <TreeNode Title="B03D103/00 浮选药剂所处理的特定物料[5]" Target="frmContent" Href="../searchservlet?query=B03D103/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B03D103/00">
+    <TreeNode Title="B03D103/02 #矿物[5]" Target="frmContent" Href="../searchservlet?query=B03D103/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B03D103/02">
+      <TreeNode Title="B03D103/04 ##非硫化矿物[5]" Target="frmContent" Href="../searchservlet?query=B03D103/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B03D103/04">
+        <TreeNode Title="B03D103/06 ###磷酸盐矿物[5]" Target="frmContent" Href="../searchservlet?query=B03D103/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B03D103/06"/>
+        <TreeNode Title="B03D103/08 ###煤矿[5]" Target="frmContent" Href="../searchservlet?query=B03D103/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B03D103/08"/>
+        <TreeNode Title="B03D103/10 ###钾矿[5]" Target="frmContent" Href="../searchservlet?query=B03D103/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B03D103/10"/>
+      </TreeNode>
+    </TreeNode>
+  </TreeNode>
+</Root>

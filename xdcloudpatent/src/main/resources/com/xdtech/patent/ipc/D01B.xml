@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="D01B1/00 从植物原料如种籽、叶、茎，机械分离出纤维" Target="frmContent" Href="../searchservlet?query=D01B1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01B1/00">
+    <TreeNode Title="D01B1/02 #从种籽如棉籽分离植物纤维" Target="frmContent" Href="../searchservlet?query=D01B1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01B1/02">
+      <TreeNode Title="D01B1/04 ##轧棉" Target="frmContent" Href="../searchservlet?query=D01B1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01B1/04">
+        <TreeNode Title="D01B1/06 ###皮辊轧棉机，如麦卡锡式" Target="frmContent" Href="../searchservlet?query=D01B1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01B1/06"/>
+        <TreeNode Title="D01B1/08 ###锯齿轧棉机" Target="frmContent" Href="../searchservlet?query=D01B1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01B1/08"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="D01B1/10 #从茎或叶分离植物纤维" Target="frmContent" Href="../searchservlet?query=D01B1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01B1/10">
+      <TreeNode Title="D01B1/12 ##亚麻除籽或叶" Target="frmContent" Href="../searchservlet?query=D01B1/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01B1/12"/>
+      <TreeNode Title="D01B1/14 ##碎麻或打麻，如亚麻的；剥制" Target="frmContent" Href="../searchservlet?query=D01B1/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01B1/14">
+        <TreeNode Title="D01B1/16 ###用靠弯曲动作的装置来打开或松散含纤维的原料(压碎辊入D01B 1/22)" Target="frmContent" Href="../searchservlet?query=D01B1/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01B1/16"/>
+        <TreeNode Title="D01B1/18 ###用敲麻机" Target="frmContent" Href="../searchservlet?query=D01B1/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01B1/18"/>
+        <TreeNode Title="D01B1/20 ###用刮麻装置" Target="frmContent" Href="../searchservlet?query=D01B1/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01B1/20"/>
+        <TreeNode Title="D01B1/22 ###用压碎辊或板" Target="frmContent" Href="../searchservlet?query=D01B1/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01B1/22"/>
+        <TreeNode Title="D01B1/24 ###用锯齿状或其他尖形装置" Target="frmContent" Href="../searchservlet?query=D01B1/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01B1/24"/>
+        <TreeNode Title="D01B1/26 ###用沿着与纤维束相平行的轴线旋转的打麻机" Target="frmContent" Href="../searchservlet?query=D01B1/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01B1/26"/>
+        <TreeNode Title="D01B1/28 ###用沿着与纤维束相垂直的轴线旋转的打麻机" Target="frmContent" Href="../searchservlet?query=D01B1/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01B1/28"/>
+        <TreeNode Title="D01B1/30 ###机器零件" Target="frmContent" Href="../searchservlet?query=D01B1/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01B1/30">
+          <TreeNode Title="D01B1/32 ####喂入装置" Target="frmContent" Href="../searchservlet?query=D01B1/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01B1/32"/>
+          <TreeNode Title="D01B1/34 ####在处理过程中容纳纤维或支撑纤维原料的装置" Target="frmContent" Href="../searchservlet?query=D01B1/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01B1/34">
+            <TreeNode Title="D01B1/36 #####传送装置，如运输带或绳" Target="frmContent" Href="../searchservlet?query=D01B1/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01B1/36"/>
+          </TreeNode>
+          <TreeNode Title="D01B1/38 ####输出或卸料装置" Target="frmContent" Href="../searchservlet?query=D01B1/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01B1/38"/>
+          <TreeNode Title="D01B1/40 ####非纤维材料的排除装置" Target="frmContent" Href="../searchservlet?query=D01B1/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01B1/40">
+            <TreeNode Title="D01B1/42 #####使用液体" Target="frmContent" Href="../searchservlet?query=D01B1/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01B1/42"/>
+          </TreeNode>
+          <TreeNode Title="D01B1/44 ####机架、壳、罩、漏底" Target="frmContent" Href="../searchservlet?query=D01B1/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01B1/44"/>
+          <TreeNode Title="D01B1/46 ####传动装置" Target="frmContent" Href="../searchservlet?query=D01B1/46&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01B1/46"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="D01B1/48 ##沤麻的烘干" Target="frmContent" Href="../searchservlet?query=D01B1/48&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01B1/48"/>
+    </TreeNode>
+    <TreeNode Title="D01B1/50 #从其他特殊的植物原料如泥炭、西班牙须草生产纤维" Target="frmContent" Href="../searchservlet?query=D01B1/50&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01B1/50"/>
+  </TreeNode>
+  <TreeNode Title="D01B3/00 动物纤维机械除杂(碎呢碳化回收动物纤维入D01C 5/00)[2]" Target="frmContent" Href="../searchservlet?query=D01B3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01B3/00">
+    <TreeNode Title="D01B3/02 #除杂机或设备(成为梳毛机或并条机的一部分或与其密切关联的除杂设备，如压碎除杂辊，入D01G)" Target="frmContent" Href="../searchservlet?query=D01B3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01B3/02"/>
+    <TreeNode Title="D01B3/04 #散毛洗毛设备" Target="frmContent" Href="../searchservlet?query=D01B3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01B3/04">
+      <TreeNode Title="D01B3/06 ##利用毛或液体环行运动" Target="frmContent" Href="../searchservlet?query=D01B3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01B3/06"/>
+      <TreeNode Title="D01B3/08 ##利用毛或液体纵向运动" Target="frmContent" Href="../searchservlet?query=D01B3/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01B3/08"/>
+      <TreeNode Title="D01B3/10 ##机械或设备零件" Target="frmContent" Href="../searchservlet?query=D01B3/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01B3/10"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="D01B5/00 栉梳或栉梳机(手工栉梳工具入D01G 33/00)" Target="frmContent" Href="../searchservlet?query=D01B5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01B5/00">
+    <TreeNode Title="D01B5/02 #零件" Target="frmContent" Href="../searchservlet?query=D01B5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01B5/02">
+      <TreeNode Title="D01B5/04 ##向机器或在机内喂送、支撑或输送原料的装置" Target="frmContent" Href="../searchservlet?query=D01B5/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01B5/04"/>
+      <TreeNode Title="D01B5/06 ##栉梳机的结构、安装或操作特点" Target="frmContent" Href="../searchservlet?query=D01B5/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01B5/06"/>
+      <TreeNode Title="D01B5/08 ##去除短麻或废料的装置" Target="frmContent" Href="../searchservlet?query=D01B5/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01B5/08"/>
+      <TreeNode Title="D01B5/10 ##手梳钉板或其他收尾装置" Target="frmContent" Href="../searchservlet?query=D01B5/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01B5/10"/>
+      <TreeNode Title="D01B5/12 ##机架；壳；罩" Target="frmContent" Href="../searchservlet?query=D01B5/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01B5/12"/>
+      <TreeNode Title="D01B5/14 ##传动装置" Target="frmContent" Href="../searchservlet?query=D01B5/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01B5/14"/>
+      <TreeNode Title="D01B5/16 ##限制或清除尘埃物的装置" Target="frmContent" Href="../searchservlet?query=D01B5/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01B5/16"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="D01B7/00 丝纤维或长丝的生产" Target="frmContent" Href="../searchservlet?query=D01B7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01B7/00">
+    <TreeNode Title="D01B7/02 #蚕茧的清洁和分类" Target="frmContent" Href="../searchservlet?query=D01B7/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01B7/02"/>
+    <TreeNode Title="D01B7/04 #缫丝" Target="frmContent" Href="../searchservlet?query=D01B7/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01B7/04"/>
+    <TreeNode Title="D01B7/06 #从蚕茧或不适合缫丝的那部分蚕茧中生产丝(脱胶入D01C 3/02)" Target="frmContent" Href="../searchservlet?query=D01B7/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01B7/06"/>
+  </TreeNode>
+  <TreeNode Title="D01B9/00 为生产纤维和长丝而对天然纤维或长丝状原料进行的其他机械处理" Target="frmContent" Href="../searchservlet?query=D01B9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01B9/00"/>
+</Root>

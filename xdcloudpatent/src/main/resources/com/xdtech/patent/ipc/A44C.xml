@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="A44C1/00 装潢或装饰方面的胸针或夹子" Target="frmContent" Href="../searchservlet?query=A44C1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A44C1/00"/>
+  <TreeNode Title="A44C3/00 勋章；徽章(贮存这类物品的框架或盒套入A47G 1/12)" Target="frmContent" Href="../searchservlet?query=A44C3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A44C3/00"/>
+  <TreeNode Title="A44C5/00 手镯；手表带；手镯或手表带的紧固物" Target="frmContent" Href="../searchservlet?query=A44C5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A44C5/00">
+    <TreeNode Title="A44C5/02 #连接结构" Target="frmContent" Href="../searchservlet?query=A44C5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A44C5/02">
+      <TreeNode Title="A44C5/04 ##可伸展的" Target="frmContent" Href="../searchservlet?query=A44C5/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A44C5/04">
+        <TreeNode Title="A44C5/06 ###有惰夹子的" Target="frmContent" Href="../searchservlet?query=A44C5/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A44C5/06"/>
+        <TreeNode Title="A44C5/08 ###有分别连接的" Target="frmContent" Href="../searchservlet?query=A44C5/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A44C5/08"/>
+      </TreeNode>
+      <TreeNode Title="A44C5/10 ##不可伸展的" Target="frmContent" Href="../searchservlet?query=A44C5/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A44C5/10"/>
+    </TreeNode>
+    <TreeNode Title="A44C5/12 #C-弹簧形手镯或手表托" Target="frmContent" Href="../searchservlet?query=A44C5/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A44C5/12"/>
+    <TreeNode Title="A44C5/14 #以固定于手表或类似物的方式为特征的" Target="frmContent" Href="../searchservlet?query=A44C5/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A44C5/14">
+      <TreeNode Title="A44C5/16 ##通过折叠带" Target="frmContent" Href="../searchservlet?query=A44C5/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A44C5/16"/>
+    </TreeNode>
+    <TreeNode Title="A44C5/18 #带的扣紧物(带扣入A44B 11/00)" Target="frmContent" Href="../searchservlet?query=A44C5/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A44C5/18">
+      <TreeNode Title="A44C5/20 ##开口带用的" Target="frmContent" Href="../searchservlet?query=A44C5/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A44C5/20"/>
+      <TreeNode Title="A44C5/22 ##闭口带用的" Target="frmContent" Href="../searchservlet?query=A44C5/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A44C5/22">
+        <TreeNode Title="A44C5/24 ###有折叠装置的" Target="frmContent" Href="../searchservlet?query=A44C5/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A44C5/24"/>
+      </TreeNode>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="A44C7/00 耳环；刺穿耳垂的装置" Target="frmContent" Href="../searchservlet?query=A44C7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A44C7/00"/>
+  <TreeNode Title="A44C9/00 戒指" Target="frmContent" Href="../searchservlet?query=A44C9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A44C9/00">
+    <TreeNode Title="A44C9/02 #可调整的" Target="frmContent" Href="../searchservlet?query=A44C9/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A44C9/02"/>
+  </TreeNode>
+  <TreeNode Title="A44C11/00 表链；装饰链" Target="frmContent" Href="../searchservlet?query=A44C11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A44C11/00">
+    <TreeNode Title="A44C11/02 #扣紧装置" Target="frmContent" Href="../searchservlet?query=A44C11/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A44C11/02"/>
+  </TreeNode>
+  <TreeNode Title="A44C13/00 可连结的珠宝" Target="frmContent" Href="../searchservlet?query=A44C13/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A44C13/00"/>
+  <TreeNode Title="A44C15/00 其他形式的珠宝" Target="frmContent" Href="../searchservlet?query=A44C15/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A44C15/00"/>
+  <TreeNode Title="A44C17/00 宝石或类似物" Target="frmContent" Href="../searchservlet?query=A44C17/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A44C17/00">
+    <TreeNode Title="A44C17/02 #装宝石的底座" Target="frmContent" Href="../searchservlet?query=A44C17/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A44C17/02"/>
+    <TreeNode Title="A44C17/04 #把宝石镶嵌入珠宝内；镶嵌工具" Target="frmContent" Href="../searchservlet?query=A44C17/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A44C17/04"/>
+  </TreeNode>
+  <TreeNode Title="A44C19/00 防止表类或珠宝被盗窃的装置" Target="frmContent" Href="../searchservlet?query=A44C19/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A44C19/00"/>
+  <TreeNode Title="A44C21/00 硬币(专门用于操纵投币机构的硬币入G07F 1/06)；应急钱币；啤酒或赌博用硬币或代币或类似物" Target="frmContent" Href="../searchservlet?query=A44C21/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A44C21/00"/>
+  <TreeNode Title="A44C23/00 念珠" Target="frmContent" Href="../searchservlet?query=A44C23/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A44C23/00"/>
+  <TreeNode Title="A44C25/00 在A44C 1/00至A44C 19/00或A44C 23/00组不包含的个人佩戴的装饰品，例如十字形饰物、十字架、小饰物" Target="frmContent" Href="../searchservlet?query=A44C25/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A44C25/00"/>
+  <TreeNode Title="A44C27/00 珠宝或其他人身饰物的制造(单步骤制作法见有关位置，如用金属线制戒指入B21F 37/00) [2]" Target="frmContent" Href="../searchservlet?query=A44C27/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A44C27/00"/>
+</Root>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="B65C1/00 在平的基本为刚性的表面上贴标签(织物贴标签入B65C 5/00)" Target="frmContent" Href="../searchservlet?query=B65C1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B65C1/00">
+    <TreeNode Title="B65C1/02 # 将标签固定到物件的一个平表面上，如包装件的、或平带的一个平表面上" Target="frmContent" Href="../searchservlet?query=B65C1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B65C1/02"/>
+    <TreeNode Title="B65C1/04 # 将标签，如裹绕的标签，固定到多面体物件的两个或多个平表面上" Target="frmContent" Href="../searchservlet?query=B65C1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B65C1/04"/>
+  </TreeNode>
+  <TreeNode Title="B65C3/00 在非平表面上贴标签(织物贴标签入B65C 5/00)" Target="frmContent" Href="../searchservlet?query=B65C3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B65C3/00">
+    <TreeNode Title="B65C3/02 # 将标签固定到细长物件上，如金属线、缆、杆、管" Target="frmContent" Href="../searchservlet?query=B65C3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B65C3/02">
+      <TreeNode Title="B65C3/04 ##将标签带或标签贴到雪茄烟或纸烟上" Target="frmContent" Href="../searchservlet?query=B65C3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B65C3/04"/>
+    </TreeNode>
+    <TreeNode Title="B65C3/06 # 将标签固定到短的刚性容器上" Target="frmContent" Href="../searchservlet?query=B65C3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B65C3/06">
+      <TreeNode Title="B65C3/08 ##固定到容器体上" Target="frmContent" Href="../searchservlet?query=B65C3/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B65C3/08">
+        <TreeNode Title="B65C3/10 ###为贴标签使容器的中心线处于水平状态" Target="frmContent" Href="../searchservlet?query=B65C3/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B65C3/10">
+          <TreeNode Title="B65C3/12 ####通过滚动使标签固定到圆柱形容器上，如瓶子" Target="frmContent" Href="../searchservlet?query=B65C3/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B65C3/12"/>
+        </TreeNode>
+        <TreeNode Title="B65C3/14 ###为贴标签使容器的中心线处于垂直状态" Target="frmContent" Href="../searchservlet?query=B65C3/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B65C3/14">
+          <TreeNode Title="B65C3/16 ####通过滚动使标签固定到圆柱形容器上，如瓶子" Target="frmContent" Href="../searchservlet?query=B65C3/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B65C3/16"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="B65C3/18 ##固定到容器颈部上" Target="frmContent" Href="../searchservlet?query=B65C3/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B65C3/18"/>
+      <TreeNode Title="B65C3/20 ##固定到瓶子的封口上(给瓶子加封或加盖入B67B)" Target="frmContent" Href="../searchservlet?query=B65C3/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B65C3/20">
+        <TreeNode Title="B65C3/22 ###固定金属箔盖" Target="frmContent" Href="../searchservlet?query=B65C3/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B65C3/22"/>
+        <TreeNode Title="B65C3/24 ###固定能指示瓶扣或螺旋封口原始状态的标签" Target="frmContent" Href="../searchservlet?query=B65C3/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B65C3/24"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="B65C3/26 # 将标签固定到非刚性容器上，例如由聚乙烯制造的瓶子、贴标签前靠内部空气压力膨胀的盒子" Target="frmContent" Href="../searchservlet?query=B65C3/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B65C3/26"/>
+  </TreeNode>
+  <TreeNode Title="B65C5/00 在织物或具有可变形表面的类似物料或物件上，如纸、织物卷、长统袜、鞋上贴标签(将标签固定到非刚性容器上入B65C 3/26；用缝合法入D05B)" Target="frmContent" Href="../searchservlet?query=B65C5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B65C5/00">
+    <TreeNode Title="B65C5/02 # 使用黏合剂" Target="frmContent" Href="../searchservlet?query=B65C5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B65C5/02">
+      <TreeNode Title="B65C5/04 ##热熔黏合剂" Target="frmContent" Href="../searchservlet?query=B65C5/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B65C5/04"/>
+    </TreeNode>
+    <TreeNode Title="B65C5/06 # 使用U形钉" Target="frmContent" Href="../searchservlet?query=B65C5/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B65C5/06"/>
+  </TreeNode>
+  <TreeNode Title="B65C7/00 固定签条(与茶叶袋的装料结合入B65B 29/04)" Target="frmContent" Href="../searchservlet?query=B65C7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B65C7/00"/>
+  <TreeNode Title="B65C9/00 贴标签机械或装置的零部件" Target="frmContent" Href="../searchservlet?query=B65C9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B65C9/00">
+    <TreeNode Title="B65C9/02 # 用于移动物件，如容器通过贴标签工位的装置" Target="frmContent" Href="../searchservlet?query=B65C9/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B65C9/02">
+      <TreeNode Title="B65C9/04 ##有转动物件的装置" Target="frmContent" Href="../searchservlet?query=B65C9/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B65C9/04"/>
+    </TreeNode>
+    <TreeNode Title="B65C9/06 # 在贴标签工位使物件处于预定的体位或位置的装置" Target="frmContent" Href="../searchservlet?query=B65C9/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B65C9/06"/>
+    <TreeNode Title="B65C9/08 # 标签供给" Target="frmContent" Href="../searchservlet?query=B65C9/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B65C9/08">
+      <TreeNode Title="B65C9/10 ##标签储存匣" Target="frmContent" Href="../searchservlet?query=B65C9/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B65C9/10"/>
+      <TreeNode Title="B65C9/12 ##从标签叠中取出单张标签(用于印刷入B41F)" Target="frmContent" Href="../searchservlet?query=B65C9/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B65C9/12">
+        <TreeNode Title="B65C9/14 ###用真空" Target="frmContent" Href="../searchservlet?query=B65C9/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B65C9/14"/>
+        <TreeNode Title="B65C9/16 ###用湿润装置" Target="frmContent" Href="../searchservlet?query=B65C9/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B65C9/16"/>
+      </TreeNode>
+      <TreeNode Title="B65C9/18 ##由条带，如由卷筒，供给标签" Target="frmContent" Href="../searchservlet?query=B65C9/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B65C9/18"/>
+    </TreeNode>
+    <TreeNode Title="B65C9/20 # 给标签或物件涂胶" Target="frmContent" Href="../searchservlet?query=B65C9/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B65C9/20">
+      <TreeNode Title="B65C9/22 ##用湿润法，例如涂液体胶或在干的胶层上涂液体" Target="frmContent" Href="../searchservlet?query=B65C9/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B65C9/22"/>
+      <TreeNode Title="B65C9/24 ##用加热" Target="frmContent" Href="../searchservlet?query=B65C9/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B65C9/24">
+        <TreeNode Title="B65C9/25 ###用热熔胶[2]" Target="frmContent" Href="../searchservlet?query=B65C9/25&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B65C9/25"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="B65C9/26 # 贴标签的装置" Target="frmContent" Href="../searchservlet?query=B65C9/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B65C9/26">
+      <TreeNode Title="B65C9/28 ##吹风装置" Target="frmContent" Href="../searchservlet?query=B65C9/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B65C9/28"/>
+      <TreeNode Title="B65C9/30 ##辊子" Target="frmContent" Href="../searchservlet?query=B65C9/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B65C9/30">
+        <TreeNode Title="B65C9/32 ###两个协同操作的辊子，其间供入物件和标签" Target="frmContent" Href="../searchservlet?query=B65C9/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B65C9/32"/>
+      </TreeNode>
+      <TreeNode Title="B65C9/34 ##挠性带" Target="frmContent" Href="../searchservlet?query=B65C9/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B65C9/34"/>
+      <TreeNode Title="B65C9/36 ##揩抹器；加压器" Target="frmContent" Href="../searchservlet?query=B65C9/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B65C9/36"/>
+    </TreeNode>
+    <TreeNode Title="B65C9/38 # 标签的冷却或干燥" Target="frmContent" Href="../searchservlet?query=B65C9/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B65C9/38"/>
+    <TreeNode Title="B65C9/40 # 控制器；安全装置" Target="frmContent" Href="../searchservlet?query=B65C9/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B65C9/40">
+      <TreeNode Title="B65C9/42 ##标签供给控制" Target="frmContent" Href="../searchservlet?query=B65C9/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B65C9/42">
+        <TreeNode Title="B65C9/44 ###用对标签或物件上的标记响应的特殊装置(在包裹时供给控制入B65B)" Target="frmContent" Href="../searchservlet?query=B65C9/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B65C9/44"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="B65C9/46 # 贴标签时在标签上加注日期、编码、或类似标记(具有印制设备的人工控制的或可操作的装置入B65C 11/02；票证的印刷和发放入G07B 1/00)" Target="frmContent" Href="../searchservlet?query=B65C9/46&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B65C9/46"/>
+  </TreeNode>
+  <TreeNode Title="B65C11/00 人工控制的或可人工操作的标签发放器，例如为给物件贴标签改型的(商店、仓库、酒吧间、或类似地方用的特殊家具、配件、或附件，或类似物入A47F；用于纸餐巾，用于卫生纸入A47K；用于纸牌入A63F；可移动的条带式书号或阅读装置入B42D 19/00；黏合带发放器入B65H 35/07；票证发放器入G07B；投硬币操作的邮票发放器入G07F)" Target="frmContent" Href="../searchservlet?query=B65C11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B65C11/00">
+    <TreeNode Title="B65C11/02 # 具有打印设备" Target="frmContent" Href="../searchservlet?query=B65C11/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B65C11/02"/>
+    <TreeNode Title="B65C11/04 # 具有湿润标签的装置" Target="frmContent" Href="../searchservlet?query=B65C11/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B65C11/04"/>
+    <TreeNode Title="B65C11/06 # 具有加热热熔标签的装置" Target="frmContent" Href="../searchservlet?query=B65C11/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B65C11/06"/>
+  </TreeNode>
+</Root>

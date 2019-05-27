@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="C22F1/00 用热处理法或用热加工或冷加工法改变有色金属或合金的物理结构" Target="frmContent" Href="../searchservlet?query=C22F1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22F1/00">
+    <TreeNode Title="C22F1/02 #在惰性气体或控制气氛或真空中" Target="frmContent" Href="../searchservlet?query=C22F1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22F1/02"/>
+    <TreeNode Title="C22F1/04 #铝或铝基合金" Target="frmContent" Href="../searchservlet?query=C22F1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22F1/04">
+      <TreeNode Title="C22F1/043 ##以硅作次主要成分的合金的[4]" Target="frmContent" Href="../searchservlet?query=C22F1/043&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22F1/043"/>
+      <TreeNode Title="C22F1/047 ##以镁作次主要成分的合金的[4]" Target="frmContent" Href="../searchservlet?query=C22F1/047&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22F1/047"/>
+      <TreeNode Title="C22F1/05 ##硅和镁在比例上近似相等的Al-Si-Mg系合金的[4]" Target="frmContent" Href="../searchservlet?query=C22F1/05&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22F1/05"/>
+      <TreeNode Title="C22F1/053 ##以锌作次主要成分的合金的[4]" Target="frmContent" Href="../searchservlet?query=C22F1/053&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22F1/053"/>
+      <TreeNode Title="C22F1/057 ##以铜作次主要成分的合金的[4]" Target="frmContent" Href="../searchservlet?query=C22F1/057&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22F1/057"/>
+    </TreeNode>
+    <TreeNode Title="C22F1/06 #镁或镁基合金" Target="frmContent" Href="../searchservlet?query=C22F1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22F1/06"/>
+    <TreeNode Title="C22F1/08 #铜或铜基合金" Target="frmContent" Href="../searchservlet?query=C22F1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22F1/08"/>
+    <TreeNode Title="C22F1/10 #镍或钴或它们为基的合金" Target="frmContent" Href="../searchservlet?query=C22F1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22F1/10"/>
+    <TreeNode Title="C22F1/11 #铬或铬基合金" Target="frmContent" Href="../searchservlet?query=C22F1/11&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22F1/11"/>
+    <TreeNode Title="C22F1/12 #铅或铅基合金" Target="frmContent" Href="../searchservlet?query=C22F1/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22F1/12"/>
+    <TreeNode Title="C22F1/14 #贵金属或以它们为基的合金" Target="frmContent" Href="../searchservlet?query=C22F1/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22F1/14"/>
+    <TreeNode Title="C22F1/16 #其他金属或以它们为基的合金" Target="frmContent" Href="../searchservlet?query=C22F1/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22F1/16">
+      <TreeNode Title="C22F1/18 ##高熔点或难熔金属或以它们为基的合金" Target="frmContent" Href="../searchservlet?query=C22F1/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22F1/18"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="C22F3/00 用特殊的物理方法(例如中子处理)改变有色金属或合金的物理结构" Target="frmContent" Href="../searchservlet?query=C22F3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22F3/00">
+    <TreeNode Title="C22F3/02 #用超声波或电场或磁场控制的熔体凝固法" Target="frmContent" Href="../searchservlet?query=C22F3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22F3/02"/>
+  </TreeNode>
+</Root>

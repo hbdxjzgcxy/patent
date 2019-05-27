@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="G04B1/00 驱动机构" Target="frmContent" Href="../searchservlet?query=G04B1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B1/00">
+    <TreeNode Title="G04B1/02 #用驱动重锤的" Target="frmContent" Href="../searchservlet?query=G04B1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B1/02">
+      <TreeNode Title="G04B1/04 ##使时钟相当于驱动重锤的机构" Target="frmContent" Href="../searchservlet?query=G04B1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B1/04"/>
+      <TreeNode Title="G04B1/06 ##有几个重锤的" Target="frmContent" Href="../searchservlet?query=G04B1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B1/06"/>
+      <TreeNode Title="G04B1/08 ##驱动重锤；链条；链轮；链轮轴" Target="frmContent" Href="../searchservlet?query=G04B1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B1/08"/>
+    </TreeNode>
+    <TreeNode Title="G04B1/10 #用主弹簧" Target="frmContent" Href="../searchservlet?query=G04B1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B1/10">
+      <TreeNode Title="G04B1/12 ##有几个主弹簧的" Target="frmContent" Href="../searchservlet?query=G04B1/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B1/12"/>
+      <TreeNode Title="G04B1/14 ##主弹簧；簧夹(带簧夹的主弹簧入G04B 1/18；合金入C22C；一般弹簧入F16F)" Target="frmContent" Href="../searchservlet?query=G04B1/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B1/14"/>
+      <TreeNode Title="G04B1/16 ##条盒；心轴；条盒轴(便于拆除主弹簧的装置入G04B 33/14)" Target="frmContent" Href="../searchservlet?query=G04B1/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B1/16"/>
+      <TreeNode Title="G04B1/18 ##主弹簧端部与条盒或心轴连接的结构" Target="frmContent" Href="../searchservlet?query=G04B1/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B1/18">
+        <TreeNode Title="G04B1/20 ###防止装在或连接于条盒上的主弹簧出现上发条过紧或断裂的保护装置(与钥匙或类似零件连接的入G04B 3/06，G04B 3/10；与自动上发条装置连接的入G04B 5/24)" Target="frmContent" Href="../searchservlet?query=G04B1/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B1/20"/>
+      </TreeNode>
+      <TreeNode Title="G04B1/22 ##主弹簧动力变化的补偿(主弹簧用机械成形的入G04B 1/14)" Target="frmContent" Href="../searchservlet?query=G04B1/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B1/22"/>
+    </TreeNode>
+    <TreeNode Title="G04B1/24 #用主弹簧和驱动重锤两者的" Target="frmContent" Href="../searchservlet?query=G04B1/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B1/24"/>
+    <TreeNode Title="G04B1/26 #用液体或气体驱动的；机械控制子钟的液体或气体驱动装置" Target="frmContent" Href="../searchservlet?query=G04B1/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B1/26"/>
+  </TreeNode>
+  <TreeNode Title="G04B3/00 用手或机械以常规方式给时钟机构上发条；同时给几个主弹簧或驱动重锤上发条" Target="frmContent" Href="../searchservlet?query=G04B3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B3/00">
+    <TreeNode Title="G04B3/02 #可拆卸的钥匙或类似件" Target="frmContent" Href="../searchservlet?query=G04B3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B3/02"/>
+    <TreeNode Title="G04B3/04 #固定安装的钥匙；旋钮，或柄头(分开的上发条柄入G04B 37/06)" Target="frmContent" Href="../searchservlet?query=G04B3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B3/04"/>
+    <TreeNode Title="G04B3/06 #有防止上发条过紧装置的钥匙或类似件(装在或连接于条盒上的保护装置入G04B 1/20；与自动上发条装置连接的入G04B 5/24)" Target="frmContent" Href="../searchservlet?query=G04B3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B3/06"/>
+    <TreeNode Title="G04B3/08 #利用外壳零部件" Target="frmContent" Href="../searchservlet?query=G04B3/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B3/08">
+      <TreeNode Title="G04B3/10 ##防止上发条过紧的保护装置(装在或连接于条盒上的入G04B 1/20；与钥匙连接的入G04B 3/06；与自动上发条装置连接的入G04B 5/24)" Target="frmContent" Href="../searchservlet?query=G04B3/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B3/10"/>
+    </TreeNode>
+    <TreeNode Title="G04B3/12 #用机械装置，例如，气动马达(用电或机电装置上发条的入G04C)" Target="frmContent" Href="../searchservlet?query=G04B3/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B3/12"/>
+  </TreeNode>
+  <TreeNode Title="G04B5/00 自动上发条" Target="frmContent" Href="../searchservlet?query=G04B5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B5/00">
+    <TreeNode Title="G04B5/02 #由表的运动引起的自动上发条" Target="frmContent" Href="../searchservlet?query=G04B5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B5/02">
+      <TreeNode Title="G04B5/04 ##通过运动受限定的摆动重锤" Target="frmContent" Href="../searchservlet?query=G04B5/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B5/04">
+        <TreeNode Title="G04B5/06 ###仅单向作用" Target="frmContent" Href="../searchservlet?query=G04B5/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B5/06"/>
+        <TreeNode Title="G04B5/08 ###双向作用" Target="frmContent" Href="../searchservlet?query=G04B5/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B5/08"/>
+      </TreeNode>
+      <TreeNode Title="G04B5/10 ##通过运动不受限定的摆动重锤" Target="frmContent" Href="../searchservlet?query=G04B5/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B5/10">
+        <TreeNode Title="G04B5/12 ###仅单向作用" Target="frmContent" Href="../searchservlet?query=G04B5/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B5/12"/>
+        <TreeNode Title="G04B5/14 ###双向作用" Target="frmContent" Href="../searchservlet?query=G04B5/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B5/14"/>
+      </TreeNode>
+      <TreeNode Title="G04B5/16 ##重锤的结构" Target="frmContent" Href="../searchservlet?query=G04B5/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B5/16"/>
+      <TreeNode Title="G04B5/18 ##摆动锤的支撑、悬挂或导向装置" Target="frmContent" Href="../searchservlet?query=G04B5/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B5/18">
+        <TreeNode Title="G04B5/19 ###摆动锤在其转动中心的悬挂[3]" Target="frmContent" Href="../searchservlet?query=G04B5/19&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B5/19"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="G04B5/20 #由其他物体的运动，例如，打开手提袋、打开盒子、打开门；由风力上发条" Target="frmContent" Href="../searchservlet?query=G04B5/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B5/20"/>
+    <TreeNode Title="G04B5/22 #依靠温度、气压或其他类似的影响或变化" Target="frmContent" Href="../searchservlet?query=G04B5/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B5/22"/>
+    <TreeNode Title="G04B5/24 #防止上发条过紧的保护装置(装在或连接于条盒上的入G04B 1/20；与钥匙或其他类似件连接的入G04B 3/06；与外壳零部件连接的入G04B 3/10)" Target="frmContent" Href="../searchservlet?query=G04B5/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B5/24"/>
+  </TreeNode>
+  <TreeNode Title="G04B7/00 通常的和自动上发条的组合" Target="frmContent" Href="../searchservlet?query=G04B7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B7/00"/>
+  <TreeNode Title="G04B9/00 上发条情况的监视，例如，上发条圈数的指示" Target="frmContent" Href="../searchservlet?query=G04B9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B9/00">
+    <TreeNode Title="G04B9/02 #由上述情况控制的装置，例如，提供防止上发条过紧的保护装置(装在或连接于条盒上的防止上发条过紧的保护装置入G04B 1/20；与钥匙或类似件连接的保护装置入G04B 3/06；与外壳零部件连接的入G04B 3/10；与自动上发条装置连接的入G04B 5/24)" Target="frmContent" Href="../searchservlet?query=G04B9/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B9/02"/>
+  </TreeNode>
+  <TreeNode Title="G04B11/00 发条的棘轮机构、停止棘轮或离合器" Target="frmContent" Href="../searchservlet?query=G04B11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B11/00">
+    <TreeNode Title="G04B11/02 #只允许转动零件沿一个方向运动的装置[3]" Target="frmContent" Href="../searchservlet?query=G04B11/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B11/02">
+      <TreeNode Title="G04B11/04 ##棘爪结构，例如，将驱动棘轮运动的摆动件卡紧的棘爪[3]" Target="frmContent" Href="../searchservlet?query=G04B11/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B11/04"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="G04B13/00 齿轮机构" Target="frmContent" Href="../searchservlet?query=G04B13/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B13/00">
+    <TreeNode Title="G04B13/02 #齿轮；齿轴；心轴；轴尖(轴承入G04B 31/00)" Target="frmContent" Href="../searchservlet?query=G04B13/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B13/02"/>
+  </TreeNode>
+  <TreeNode Title="G04B15/00 擒纵机构(在电动机械计时器内将摆动变换为转动的电或磁装置入G04C 5/00)" Target="frmContent" Href="../searchservlet?query=G04B15/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B15/00">
+    <TreeNode Title="G04B15/02 #和调节机构固定连接的" Target="frmContent" Href="../searchservlet?query=G04B15/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B15/02">
+      <TreeNode Title="G04B15/04 ##圆柱形擒纵机构" Target="frmContent" Href="../searchservlet?query=G04B15/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B15/04"/>
+    </TreeNode>
+    <TreeNode Title="G04B15/06 #自由式擒纵机构" Target="frmContent" Href="../searchservlet?query=G04B15/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B15/06">
+      <TreeNode Title="G04B15/08 ##杠杆式擒纵机构" Target="frmContent" Href="../searchservlet?query=G04B15/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B15/08"/>
+    </TreeNode>
+    <TreeNode Title="G04B15/10 #有调节机构用的恒定冲力的" Target="frmContent" Href="../searchservlet?query=G04B15/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B15/10"/>
+    <TreeNode Title="G04B15/12 #调节(所用工具入G04D 1/02)；限制擒纵叉或类似件的摆幅" Target="frmContent" Href="../searchservlet?query=G04B15/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B15/12"/>
+    <TreeNode Title="G04B15/14 #组件或结构零件，例如，擒纵叉或擒纵轮的结构" Target="frmContent" Href="../searchservlet?query=G04B15/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B15/14"/>
+  </TreeNode>
+  <TreeNode Title="G04B17/00 稳定频率的机构[3]" Target="frmContent" Href="../searchservlet?query=G04B17/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B17/00">
+    <TreeNode Title="G04B17/02 #由重力作用的摆动器，例如，在一个平面内摆动的摆" Target="frmContent" Href="../searchservlet?query=G04B17/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B17/02"/>
+    <TreeNode Title="G04B17/04 #由弹簧力作用的摆动器" Target="frmContent" Href="../searchservlet?query=G04B17/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B17/04">
+      <TreeNode Title="G04B17/06 ##有游丝的摆动器，例如，摆轮" Target="frmContent" Href="../searchservlet?query=G04B17/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B17/06"/>
+      <TreeNode Title="G04B17/08 ##有轴向伸出和不伸出的螺旋弹簧的摆动器" Target="frmContent" Href="../searchservlet?query=G04B17/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B17/08"/>
+      <TreeNode Title="G04B17/10 ##具有扭簧或类似于扭簧作用的摆动器，例如，在水平面内摆动的重锤" Target="frmContent" Href="../searchservlet?query=G04B17/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B17/10"/>
+    </TreeNode>
+    <TreeNode Title="G04B17/20 #稳定频率机构的补偿" Target="frmContent" Href="../searchservlet?query=G04B17/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B17/20">
+      <TreeNode Title="G04B17/22 ##温度变化影响的补偿(温度变化无影响的合金入C22C)" Target="frmContent" Href="../searchservlet?query=G04B17/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B17/22"/>
+      <TreeNode Title="G04B17/24 ##大气压力变化影响的补偿" Target="frmContent" Href="../searchservlet?query=G04B17/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B17/24"/>
+      <TreeNode Title="G04B17/26 ##冲击力变化影响的补偿" Target="frmContent" Href="../searchservlet?query=G04B17/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B17/26"/>
+      <TreeNode Title="G04B17/28 ##重力不平衡影响的补偿，例如，钻削法" Target="frmContent" Href="../searchservlet?query=G04B17/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B17/28"/>
+    </TreeNode>
+    <TreeNode Title="G04B17/30 #转动调速器，例如，离心调速器、扇形调速器(用于敲打报时机构的入G04B 21/06)" Target="frmContent" Href="../searchservlet?query=G04B17/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B17/30"/>
+    <TreeNode Title="G04B17/32 #组件或结构零件，例如，内桩、外桩" Target="frmContent" Href="../searchservlet?query=G04B17/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B17/32">
+      <TreeNode Title="G04B17/34 ##将游丝固定在摆轮上的零件[3]" Target="frmContent" Href="../searchservlet?query=G04B17/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B17/34"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="G04B18/00 调整频率的机构[3]" Target="frmContent" Href="../searchservlet?query=G04B18/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B18/00">
+    <TreeNode Title="G04B18/02 #调节器装置；快慢针装置[3]" Target="frmContent" Href="../searchservlet?query=G04B18/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B18/02"/>
+    <TreeNode Title="G04B18/04 #调节摆、摆轮或类似件的节拍，例如，形成节拍[3]" Target="frmContent" Href="../searchservlet?query=G04B18/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B18/04">
+      <TreeNode Title="G04B18/06 ##调整游丝的内桩或外桩[3]" Target="frmContent" Href="../searchservlet?query=G04B18/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B18/06"/>
+    </TreeNode>
+    <TreeNode Title="G04B18/08 #组件或结构零件[3]" Target="frmContent" Href="../searchservlet?query=G04B18/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B18/08"/>
+  </TreeNode>
+  <TreeNode Title="G04B19/00 用目视方式指示时间(用电灯的入G04C 17/02；一般显示装置入G09)" Target="frmContent" Href="../searchservlet?query=G04B19/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B19/00">
+    <TreeNode Title="G04B19/02 #齿轮组和指针之间的跨轮装置" Target="frmContent" Href="../searchservlet?query=G04B19/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B19/02"/>
+    <TreeNode Title="G04B19/04 #指针；有单一标记或类似的符号的圆盘" Target="frmContent" Href="../searchservlet?query=G04B19/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B19/04"/>
+    <TreeNode Title="G04B19/06 #表盘(无时钟机构的计时器用的入G04B 49/04)" Target="frmContent" Href="../searchservlet?query=G04B19/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B19/06">
+      <TreeNode Title="G04B19/08 ##刻度的几何排列" Target="frmContent" Href="../searchservlet?query=G04B19/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B19/08"/>
+      <TreeNode Title="G04B19/10 ##表盘的刻度或表面的装饰式样；表盘刻度连接方法" Target="frmContent" Href="../searchservlet?query=G04B19/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B19/10"/>
+      <TreeNode Title="G04B19/12 ##表盘或刻度材料的选用" Target="frmContent" Href="../searchservlet?query=G04B19/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B19/12"/>
+      <TreeNode Title="G04B19/14 ##表盘在钟或表夹板上的固定" Target="frmContent" Href="../searchservlet?query=G04B19/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B19/14"/>
+      <TreeNode Title="G04B19/16 ##可替换的表盘，例如，从1至12及从13至24交替指示" Target="frmContent" Href="../searchservlet?query=G04B19/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B19/16"/>
+      <TreeNode Title="G04B19/18 ##在表玻璃或钟玻璃上、在前盖或衬环上的刻度" Target="frmContent" Href="../searchservlet?query=G04B19/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B19/18"/>
+    </TreeNode>
+    <TreeNode Title="G04B19/20 #用已编号的带、鼓、盘或板作指示" Target="frmContent" Href="../searchservlet?query=G04B19/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B19/20">
+      <TreeNode Title="G04B19/21 ##鼓[3]" Target="frmContent" Href="../searchservlet?query=G04B19/21&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B19/21"/>
+    </TreeNode>
+    <TreeNode Title="G04B19/22 #指示不同地方时间的装置；全球计时器" Target="frmContent" Href="../searchservlet?query=G04B19/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B19/22">
+      <TreeNode Title="G04B19/23 ##使用附加指针或附加多对指针[3]" Target="frmContent" Href="../searchservlet?query=G04B19/23&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B19/23"/>
+    </TreeNode>
+    <TreeNode Title="G04B19/24 #有日期指示的钟或表；时钟机构日历" Target="frmContent" Href="../searchservlet?query=G04B19/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B19/24">
+      <TreeNode Title="G04B19/243 ##以日期指示器的形式区分的[3]" Target="frmContent" Href="../searchservlet?query=G04B19/243&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B19/243">
+        <TreeNode Title="G04B19/247 ###盘状的[3]" Target="frmContent" Href="../searchservlet?query=G04B19/247&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B19/247">
+          <TreeNode Title="G04B19/25 ####手动调整日期指示器的装置[3]" Target="frmContent" Href="../searchservlet?query=G04B19/25&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B19/25"/>
+          <TreeNode Title="G04B19/253 ####驱动或释放机构[3]" Target="frmContent" Href="../searchservlet?query=G04B19/253&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B19/253"/>
+        </TreeNode>
+        <TreeNode Title="G04B19/257 ###鼓状的[3]" Target="frmContent" Href="../searchservlet?query=G04B19/257&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B19/257"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="G04B19/26 #带有指示海潮、月相或类似事物指示器的钟或表" Target="frmContent" Href="../searchservlet?query=G04B19/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B19/26"/>
+    <TreeNode Title="G04B19/28 #指示确定时间的可调的指示标记或指针" Target="frmContent" Href="../searchservlet?query=G04B19/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B19/28"/>
+    <TreeNode Title="G04B19/30 #表盘或指针的照明" Target="frmContent" Href="../searchservlet?query=G04B19/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B19/30">
+      <TreeNode Title="G04B19/32 ##用发光的物质" Target="frmContent" Href="../searchservlet?query=G04B19/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B19/32"/>
+    </TreeNode>
+    <TreeNode Title="G04B19/34 #光投影的指针的位置" Target="frmContent" Href="../searchservlet?query=G04B19/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B19/34"/>
+  </TreeNode>
+  <TreeNode Title="G04B21/00 用音响方式指示时间(在预选的时间报时入G04B 23/00；用电动报时的装置入G04C 21/04；发出声音的仪器本身入G10)" Target="frmContent" Href="../searchservlet?query=G04B21/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B21/00">
+    <TreeNode Title="G04B21/02 #有规律的1小时、半小时或一刻钟的敲打报时机构" Target="frmContent" Href="../searchservlet?query=G04B21/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B21/02">
+      <TreeNode Title="G04B21/04 ##时轮；齿轮或耙形件；蜗形轮或类似的控制机构" Target="frmContent" Href="../searchservlet?query=G04B21/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B21/04"/>
+      <TreeNode Title="G04B21/06 ##敲打报时机构零件，例如，击锤、扇形调节器" Target="frmContent" Href="../searchservlet?query=G04B21/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B21/06"/>
+      <TreeNode Title="G04B21/08 ##发音体；笛；音乐器械(带电声发送器的入G04C 21/00)" Target="frmContent" Href="../searchservlet?query=G04B21/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B21/08"/>
+      <TreeNode Title="G04B21/10 ##有规律地敲击的释放或锁定，例如，当夜间需要安静时" Target="frmContent" Href="../searchservlet?query=G04B21/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B21/10"/>
+      <TreeNode Title="G04B21/12 ##反复报时的钟或表" Target="frmContent" Href="../searchservlet?query=G04B21/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B21/12"/>
+      <TreeNode Title="G04B21/14 ##由时钟机构对敲打报时机构上发条；由敲打报时机构对时钟机构上发条" Target="frmContent" Href="../searchservlet?query=G04B21/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B21/14"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="G04B23/00 在预选时间产生声音信号的装置(电动释放的报时信号入G04C 21/00；节拍器入G04F 5/02；发出声音的仪器本身入G10)" Target="frmContent" Href="../searchservlet?query=G04B23/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B23/00">
+    <TreeNode Title="G04B23/02 #闹钟" Target="frmContent" Href="../searchservlet?query=G04B23/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B23/02">
+      <TreeNode Title="G04B23/03 ##报时信号的制动装置[3]" Target="frmContent" Href="../searchservlet?query=G04B23/03&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B23/03"/>
+      <TreeNode Title="G04B23/04 ##带有对预选时间粗调和精调的" Target="frmContent" Href="../searchservlet?query=G04B23/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B23/04"/>
+      <TreeNode Title="G04B23/06 ##有信号自动停止的可调节几个预选时间的" Target="frmContent" Href="../searchservlet?query=G04B23/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B23/06"/>
+      <TreeNode Title="G04B23/08 ##连续多天动作而不用再调的；每24小时仅动作1次的" Target="frmContent" Href="../searchservlet?query=G04B23/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B23/08"/>
+      <TreeNode Title="G04B23/10 ##用预定信号；用重复信号；用可变的声音强度的" Target="frmContent" Href="../searchservlet?query=G04B23/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B23/10"/>
+      <TreeNode Title="G04B23/12 ##放在口袋内或带在腕上的闹表(由刺激皮肤发出信号的入G04B 25/04)" Target="frmContent" Href="../searchservlet?query=G04B23/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B23/12"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="G04B25/00 用其他方法或用综合方法指示时间(电动或电动机械指示的入G04C)" Target="frmContent" Href="../searchservlet?query=G04B25/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B25/00">
+    <TreeNode Title="G04B25/02 #有感觉；盲人用的钟或表" Target="frmContent" Href="../searchservlet?query=G04B25/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B25/02">
+      <TreeNode Title="G04B25/04 ##有刺激皮肤装置的闹钟或闹表" Target="frmContent" Href="../searchservlet?query=G04B25/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B25/04"/>
+    </TreeNode>
+    <TreeNode Title="G04B25/06 #用移动的图像，例如，布谷鸟钟、小号钟" Target="frmContent" Href="../searchservlet?query=G04B25/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B25/06"/>
+  </TreeNode>
+  <TreeNode Title="G04B27/00 调整时间指示装置的机械装置" Target="frmContent" Href="../searchservlet?query=G04B27/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B27/00">
+    <TreeNode Title="G04B27/02 #利用上发条装置" Target="frmContent" Href="../searchservlet?query=G04B27/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B27/02">
+      <TreeNode Title="G04B27/04 ##用离合轮的" Target="frmContent" Href="../searchservlet?query=G04B27/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B27/04"/>
+      <TreeNode Title="G04B27/06 ##用摇杆的" Target="frmContent" Href="../searchservlet?query=G04B27/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B27/06"/>
+    </TreeNode>
+    <TreeNode Title="G04B27/08 #利用外壳零部件" Target="frmContent" Href="../searchservlet?query=G04B27/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B27/08"/>
+  </TreeNode>
+  <TreeNode Title="G04B29/00 构架" Target="frmContent" Href="../searchservlet?query=G04B29/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B29/00">
+    <TreeNode Title="G04B29/02 #夹板；桥架；小夹板" Target="frmContent" Href="../searchservlet?query=G04B29/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B29/02"/>
+    <TreeNode Title="G04B29/04 #连接件或支撑件" Target="frmContent" Href="../searchservlet?query=G04B29/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B29/04"/>
+  </TreeNode>
+  <TreeNode Title="G04B31/00 轴承；尖端支撑或反尖端支承；轴尖轴承；单个零件(一般轴承入F16C)" Target="frmContent" Href="../searchservlet?query=G04B31/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B31/00">
+    <TreeNode Title="G04B31/004 #以所使用的材料区分的[3]" Target="frmContent" Href="../searchservlet?query=G04B31/004&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B31/004">
+      <TreeNode Title="G04B31/008 ##宝石轴承(G04B 31/04优先)[3]" Target="frmContent" Href="../searchservlet?query=G04B31/008&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B31/008"/>
+      <TreeNode Title="G04B31/012 ##金属轴承[3]" Target="frmContent" Href="../searchservlet?query=G04B31/012&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B31/012"/>
+      <TreeNode Title="G04B31/016 ##塑料轴承[3]" Target="frmContent" Href="../searchservlet?query=G04B31/016&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B31/016"/>
+    </TreeNode>
+    <TreeNode Title="G04B31/02 #减震轴承" Target="frmContent" Href="../searchservlet?query=G04B31/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B31/02">
+      <TreeNode Title="G04B31/04 ##带孔宝石轴承和盖宝石轴承的[3]" Target="frmContent" Href="../searchservlet?query=G04B31/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B31/04"/>
+    </TreeNode>
+    <TreeNode Title="G04B31/06 #制造或安装工艺[3]" Target="frmContent" Href="../searchservlet?query=G04B31/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B31/06"/>
+    <TreeNode Title="G04B31/08 #润滑[3]" Target="frmContent" Href="../searchservlet?query=G04B31/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B31/08"/>
+  </TreeNode>
+  <TreeNode Title="G04B33/00 机芯尺寸" Target="frmContent" Href="../searchservlet?query=G04B33/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B33/00">
+    <TreeNode Title="G04B33/02 #圆形机芯" Target="frmContent" Href="../searchservlet?query=G04B33/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B33/02"/>
+    <TreeNode Title="G04B33/04 #非圆形机芯" Target="frmContent" Href="../searchservlet?query=G04B33/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B33/04"/>
+    <TreeNode Title="G04B33/06 #极平形状的" Target="frmContent" Href="../searchservlet?query=G04B33/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B33/06"/>
+    <TreeNode Title="G04B33/08 #齿轮组装在不同平面内的；例如，互相平行或倾斜的(G04B 33/10优先)" Target="frmContent" Href="../searchservlet?query=G04B33/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B33/08"/>
+    <TreeNode Title="G04B33/10 #在表盘中心装有秒针的" Target="frmContent" Href="../searchservlet?query=G04B33/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B33/10"/>
+    <TreeNode Title="G04B33/12 #用于非常长时间运转的" Target="frmContent" Href="../searchservlet?query=G04B33/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B33/12"/>
+    <TreeNode Title="G04B33/14 #主弹簧或条盒容易拆卸的机芯(主弹簧入G04B 1/14；条盒，心轴入G04B 1/16)" Target="frmContent" Href="../searchservlet?query=G04B33/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B33/14"/>
+    <TreeNode Title="G04B33/16 #具有防止一旦主弹簧断裂引起时钟机构损伤的保护装置" Target="frmContent" Href="../searchservlet?query=G04B33/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B33/16"/>
+  </TreeNode>
+  <TreeNode Title="G04B35/00 齿轮组的调节，例如，心轴的游隙、齿轮的啮合深度" Target="frmContent" Href="../searchservlet?query=G04B35/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B35/00"/>
+  <TreeNode Title="G04B37/00 外壳" Target="frmContent" Href="../searchservlet?query=G04B37/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B37/00">
+    <TreeNode Title="G04B37/02 #真空外壳；充有气体或液体的外壳；含有吸附湿气或灰尘的物质的外壳" Target="frmContent" Href="../searchservlet?query=G04B37/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B37/02"/>
+    <TreeNode Title="G04B37/04 #时钟机构在外壳内的安装；减震安装" Target="frmContent" Href="../searchservlet?query=G04B37/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B37/04">
+      <TreeNode Title="G04B37/05 ##怀表或手表的固定装置[3]" Target="frmContent" Href="../searchservlet?query=G04B37/05&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B37/05"/>
+    </TreeNode>
+    <TreeNode Title="G04B37/06 #上发条杆通过外壳的通道；分开的上发条杆" Target="frmContent" Href="../searchservlet?query=G04B37/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B37/06"/>
+    <TreeNode Title="G04B37/08 #开孔、接缝、通道或狭槽的密封" Target="frmContent" Href="../searchservlet?query=G04B37/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B37/08">
+      <TreeNode Title="G04B37/10 ##上发条杆的密封" Target="frmContent" Href="../searchservlet?query=G04B37/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B37/10"/>
+      <TreeNode Title="G04B37/11 ##怀表或手表后盖的密封[3]" Target="frmContent" Href="../searchservlet?query=G04B37/11&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B37/11"/>
+    </TreeNode>
+    <TreeNode Title="G04B37/12 #特殊用途的外壳，例如，与戒指连接的表，与纽扣连接的表(表的防护装置或防护器入A45C 11/10，A45C 11/12；与化妆粉盒连接的表入A45D 33/30)" Target="frmContent" Href="../searchservlet?query=G04B37/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B37/12"/>
+    <TreeNode Title="G04B37/14 #成为外壳一部分的计时器的悬挂装置、支架或底座(手表带及紧固装置入A44C 5/00)" Target="frmContent" Href="../searchservlet?query=G04B37/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B37/14">
+      <TreeNode Title="G04B37/16 ##将外壳紧固到手表上[3]" Target="frmContent" Href="../searchservlet?query=G04B37/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B37/16"/>
+    </TreeNode>
+    <TreeNode Title="G04B37/18 #怀表或手表的外壳(G04B 37/02至G04B 37/16优先)[3]" Target="frmContent" Href="../searchservlet?query=G04B37/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B37/18">
+      <TreeNode Title="G04B37/20 ##有铰链的盖或后盖[3]" Target="frmContent" Href="../searchservlet?query=G04B37/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B37/20"/>
+    </TreeNode>
+    <TreeNode Title="G04B37/22 #制造怀表或手表外壳的材料或工艺[3]" Target="frmContent" Href="../searchservlet?query=G04B37/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B37/22"/>
+  </TreeNode>
+  <TreeNode Title="G04B39/00 表面玻璃；表玻璃的紧固或密封；钟面玻璃" Target="frmContent" Href="../searchservlet?query=G04B39/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B39/00">
+    <TreeNode Title="G04B39/02 #表玻璃或钟玻璃的密封[3]" Target="frmContent" Href="../searchservlet?query=G04B39/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B39/02"/>
+  </TreeNode>
+  <TreeNode Title="G04B41/00 在运输时使用的钟摆、报时机构或类似装置锁住或夹持的装置" Target="frmContent" Href="../searchservlet?query=G04B41/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B41/00"/>
+  <TreeNode Title="G04B43/00 用屏蔽罩或其他装置防止外界影响的保护时钟机构，例如，磁场的屏蔽" Target="frmContent" Href="../searchservlet?query=G04B43/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B43/00"/>
+  <TreeNode Title="G04B45/00 指示装置或外壳引起特殊效果的计时器，例如，美学的效果(表盘的装饰式样入G04B 19/10)" Target="frmContent" Href="../searchservlet?query=G04B45/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B45/00">
+    <TreeNode Title="G04B45/02 #其时钟机构为部分或全部可见的计时器" Target="frmContent" Href="../searchservlet?query=G04B45/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B45/02"/>
+    <TreeNode Title="G04B45/04 #其驱动机构为不可见的计时器，例如，指针装在旋转的玻璃盘上" Target="frmContent" Href="../searchservlet?query=G04B45/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B45/04"/>
+  </TreeNode>
+  <TreeNode Title="G04B47/00 与其他物件组合后不干扰计时器的正常运转或计时工作的计时器(G04B 37/12优先；与计时装置相组合的书写或绘图器械入B43K 29/087；与车辆反光镜组件组合的入B60R1/12；与照相机、放映机或印相设备组合的入G03B 29/00)" Target="frmContent" Href="../searchservlet?query=G04B47/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B47/00">
+    <TreeNode Title="G04B47/02 #安装在镜子、图画、家具或其他家庭用品内的" Target="frmContent" Href="../searchservlet?query=G04B47/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B47/02"/>
+    <TreeNode Title="G04B47/04 #附带装饰或娱乐品的设备" Target="frmContent" Href="../searchservlet?query=G04B47/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B47/04"/>
+    <TreeNode Title="G04B47/06 #附带测量仪器，例如，计步器、气压表、温度表、指南针" Target="frmContent" Href="../searchservlet?query=G04B47/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B47/06"/>
+  </TreeNode>
+  <TreeNode Title="G04B49/00 利用太阳、月亮或星辰的位置的计时器" Target="frmContent" Href="../searchservlet?query=G04B49/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B49/00">
+    <TreeNode Title="G04B49/02 #日规" Target="frmContent" Href="../searchservlet?query=G04B49/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B49/02">
+      <TreeNode Title="G04B49/04 ##度盘的刻度或式样" Target="frmContent" Href="../searchservlet?query=G04B49/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B49/04"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="G04B99/00 本小类其他各组中不包含的技术主题[8]" Target="frmContent" Href="../searchservlet?query=G04B99/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G04B99/00"/>
+</Root>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="F16G1/00 传动带(V形带入F16G 5/00；输送带入B65G)" Target="frmContent" Href="../searchservlet?query=F16G1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16G1/00">
+    <TreeNode Title="F16G1/02 #由皮革制成(F16G 1/28优先；其制造入C14B 9/00)" Target="frmContent" Href="../searchservlet?query=F16G1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16G1/02"/>
+    <TreeNode Title="F16G1/04 #由纤维材料制成，如织物，涂或不涂橡胶(F16G 1/28优先；其制造入D03D)" Target="frmContent" Href="../searchservlet?query=F16G1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16G1/04"/>
+    <TreeNode Title="F16G1/06 #由橡胶制成(F16G 1/28优先；由塑料或塑料性态的材料制造带入B29D 29/00)" Target="frmContent" Href="../searchservlet?query=F16G1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16G1/06">
+      <TreeNode Title="F16G1/08 ##带有与橡胶结合的加强件" Target="frmContent" Href="../searchservlet?query=F16G1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16G1/08">
+        <TreeNode Title="F16G1/10 ###带有织物加强层" Target="frmContent" Href="../searchservlet?query=F16G1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16G1/10"/>
+        <TreeNode Title="F16G1/12 ###带有金属加强件" Target="frmContent" Href="../searchservlet?query=F16G1/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16G1/12"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="F16G1/14 #由塑料制成(F16G 1/28优先；塑料或塑性状态的材料制造带入B29D 29/00)" Target="frmContent" Href="../searchservlet?query=F16G1/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16G1/14">
+      <TreeNode Title="F16G1/16 ##带有与塑性材料结合的加强件" Target="frmContent" Href="../searchservlet?query=F16G1/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16G1/16"/>
+    </TreeNode>
+    <TreeNode Title="F16G1/18 #由线材制成(其制造入B21F 43/00)" Target="frmContent" Href="../searchservlet?query=F16G1/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16G1/18"/>
+    <TreeNode Title="F16G1/20 #由单金属带制成(其制造入B21D 53/14)" Target="frmContent" Href="../searchservlet?query=F16G1/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16G1/20"/>
+    <TreeNode Title="F16G1/21 #由叠加层组成，如交错折叠" Target="frmContent" Href="../searchservlet?query=F16G1/21&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16G1/21"/>
+    <TreeNode Title="F16G1/22 #由几个零件组成" Target="frmContent" Href="../searchservlet?query=F16G1/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16G1/22">
+      <TreeNode Title="F16G1/24 ##呈环节状(呈链节状的入F16G 13/08)" Target="frmContent" Href="../searchservlet?query=F16G1/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16G1/24"/>
+      <TreeNode Title="F16G1/26 ##呈带或薄片状" Target="frmContent" Href="../searchservlet?query=F16G1/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16G1/26"/>
+    </TreeNode>
+    <TreeNode Title="F16G1/28 #带有特殊形状的接触面，如带齿形的" Target="frmContent" Href="../searchservlet?query=F16G1/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16G1/28"/>
+  </TreeNode>
+  <TreeNode Title="F16G3/00 带的紧固件，如用于输送带的紧固件(用于V形带的入F16G 7/00)" Target="frmContent" Href="../searchservlet?query=F16G3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16G3/00">
+    <TreeNode Title="F16G3/02 #有一连串孔或类似结构，通过销插入和连接，以形成铰链(F16G 3/09优先)" Target="frmContent" Href="../searchservlet?query=F16G3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16G3/02">
+      <TreeNode Title="F16G3/04 ##其中各个U形孔或类似孔的端头通过贯穿到带里的零件与带连接" Target="frmContent" Href="../searchservlet?query=F16G3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16G3/04"/>
+    </TreeNode>
+    <TreeNode Title="F16G3/06 #有向外弯曲，相互连接的带端头" Target="frmContent" Href="../searchservlet?query=F16G3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16G3/06"/>
+    <TreeNode Title="F16G3/07 #摩擦夹，如套管式的" Target="frmContent" Href="../searchservlet?query=F16G3/07&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16G3/07"/>
+    <TreeNode Title="F16G3/08 #由板和螺栓或铆钉组成(F16G 3/06优先)" Target="frmContent" Href="../searchservlet?query=F16G3/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16G3/08">
+      <TreeNode Title="F16G3/09 ##板形成铰链" Target="frmContent" Href="../searchservlet?query=F16G3/09&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16G3/09"/>
+    </TreeNode>
+    <TreeNode Title="F16G3/10 #用缝、黏、硫化或类似的方法连接传动带；为连接用的带端结构配置" Target="frmContent" Href="../searchservlet?query=F16G3/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16G3/10"/>
+    <TreeNode Title="F16G3/12 # 通过结合构件连接带" Target="frmContent" Href="../searchservlet?query=F16G3/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16G3/12"/>
+    <TreeNode Title="F16G3/14 #带有可延伸零件；带弹性零件" Target="frmContent" Href="../searchservlet?query=F16G3/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16G3/14"/>
+    <TreeNode Title="F16G3/16 #用于连接传动带或类似件的装置或机器" Target="frmContent" Href="../searchservlet?query=F16G3/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16G3/16"/>
+  </TreeNode>
+  <TreeNode Title="F16G5/00V 形带，即锥形截面的带" Target="frmContent" Href="../searchservlet?query=F16G5/00V&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16G5/00V">
+    <TreeNode Title="F16G5/02 #由皮革制成(F16G 5/20优先)" Target="frmContent" Href="../searchservlet?query=F16G5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16G5/02"/>
+    <TreeNode Title="F16G5/04 #由橡胶制成(F16G 5/20优先)" Target="frmContent" Href="../searchservlet?query=F16G5/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16G5/04">
+      <TreeNode Title="F16G5/06 ##带有由橡胶结合的加强件" Target="frmContent" Href="../searchservlet?query=F16G5/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16G5/06">
+        <TreeNode Title="F16G5/08 ###带有织物加强层" Target="frmContent" Href="../searchservlet?query=F16G5/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16G5/08"/>
+        <TreeNode Title="F16G5/10 ###带有金属加强件" Target="frmContent" Href="../searchservlet?query=F16G5/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16G5/10"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="F16G5/12 #由塑料制成(F16G 5/20优先)" Target="frmContent" Href="../searchservlet?query=F16G5/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16G5/12">
+      <TreeNode Title="F16G5/14 ##带有由塑性材料结合的加强件" Target="frmContent" Href="../searchservlet?query=F16G5/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16G5/14"/>
+    </TreeNode>
+    <TreeNode Title="F16G5/16 #由几个零件组成" Target="frmContent" Href="../searchservlet?query=F16G5/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16G5/16">
+      <TreeNode Title="F16G5/18 ##呈环节状" Target="frmContent" Href="../searchservlet?query=F16G5/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16G5/18"/>
+    </TreeNode>
+    <TreeNode Title="F16G5/20 #带特殊形状的接触面，如带齿形的" Target="frmContent" Href="../searchservlet?query=F16G5/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16G5/20"/>
+    <TreeNode Title="F16G5/22 #由叠加层组成" Target="frmContent" Href="../searchservlet?query=F16G5/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16G5/22">
+      <TreeNode Title="F16G5/24 ##交错折撑" Target="frmContent" Href="../searchservlet?query=F16G5/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16G5/24"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="F16G7/00V 形带的紧固件" Target="frmContent" Href="../searchservlet?query=F16G7/00V&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16G7/00V">
+    <TreeNode Title="F16G7/02 #锁定，如铆合" Target="frmContent" Href="../searchservlet?query=F16G7/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16G7/02"/>
+    <TreeNode Title="F16G7/04 #可快速拆开的" Target="frmContent" Href="../searchservlet?query=F16G7/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16G7/04"/>
+    <TreeNode Title="F16G7/06 #可调节的，如张力调节" Target="frmContent" Href="../searchservlet?query=F16G7/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16G7/06"/>
+  </TreeNode>
+  <TreeNode Title="F16G9/00 专门适用于驱动滑轮或其他传动元件，或被滑轮或其他传动元件驱动的绳或缆" Target="frmContent" Href="../searchservlet?query=F16G9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16G9/00">
+    <TreeNode Title="F16G9/02 #由皮革制成，具有皮革制成的包皮" Target="frmContent" Href="../searchservlet?query=F16G9/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16G9/02"/>
+    <TreeNode Title="F16G9/04 #由橡胶或塑料制成(F16G 9/02优先)" Target="frmContent" Href="../searchservlet?query=F16G9/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16G9/04"/>
+  </TreeNode>
+  <TreeNode Title="F16G11/00 用于缆或绳相互紧固或与其他物件紧固的装置(用于悬挂桥梁缆索的缆夹入E01D 19/16)；用于固定在缆或绳上的帽或套(绳或缆与升降车或罐笼连接入B66B 7/08，与铰车卷筒连接入B66D 1/34；地上钻井中的绳索紧固装置入E21B 19/12)" Target="frmContent" Href="../searchservlet?query=F16G11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16G11/00">
+    <TreeNode Title="F16G11/02 #带有夹紧缆索或多联缆索的可变形零件；与固定在缆上的套或类似件接合的紧固装置" Target="frmContent" Href="../searchservlet?query=F16G11/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16G11/02"/>
+    <TreeNode Title="F16G11/03 #装有用于连接缆头的弹性安装元件" Target="frmContent" Href="../searchservlet?query=F16G11/03&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16G11/03"/>
+    <TreeNode Title="F16G11/04 #带有楔合作用，如套管式摩擦夹(F16G 11/02优先)" Target="frmContent" Href="../searchservlet?query=F16G11/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16G11/04">
+      <TreeNode Title="F16G11/05 ##通过使用可插入绳股之间的锥形插塞" Target="frmContent" Href="../searchservlet?query=F16G11/05&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16G11/05"/>
+    </TreeNode>
+    <TreeNode Title="F16G11/06 #带有横向配置的螺钉(F16G 11/02，F16G 11/04优先)" Target="frmContent" Href="../searchservlet?query=F16G11/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16G11/06"/>
+    <TreeNode Title="F16G11/08 #用于使传动缆索端头相互固定的紧固件，紧固件与缆索直径大致相等" Target="frmContent" Href="../searchservlet?query=F16G11/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16G11/08">
+      <TreeNode Title="F16G11/09 ##装有用于连接缆端的铰接头或枢轴" Target="frmContent" Href="../searchservlet?query=F16G11/09&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16G11/09"/>
+    </TreeNode>
+    <TreeNode Title="F16G11/10 #快速紧固件；仅在1个方向夹紧的夹" Target="frmContent" Href="../searchservlet?query=F16G11/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16G11/10"/>
+    <TreeNode Title="F16G11/12 #适用于拉紧缆、绳或线的连接或附件，例如松紧螺套" Target="frmContent" Href="../searchservlet?query=F16G11/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16G11/12"/>
+    <TreeNode Title="F16G11/14 #设计为易于形成可调环的装置或连接件，例如夹钳钩；整体部件设计成便于快速连接到缆或绳任一点上的钩或耳环，例如通过形成环" Target="frmContent" Href="../searchservlet?query=F16G11/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16G11/14"/>
+  </TreeNode>
+  <TreeNode Title="F16G13/00 链(其制造入B21L)" Target="frmContent" Href="../searchservlet?query=F16G13/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16G13/00">
+    <TreeNode Title="F16G13/02 #传动链" Target="frmContent" Href="../searchservlet?query=F16G13/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16G13/02">
+      <TreeNode Title="F16G13/04 ##齿链" Target="frmContent" Href="../searchservlet?query=F16G13/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16G13/04"/>
+      <TreeNode Title="F16G13/06 ##链节由平行的传动销连接，带或不带滚柱" Target="frmContent" Href="../searchservlet?query=F16G13/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16G13/06">
+        <TreeNode Title="F16G13/07 ###链节是同一形状的，如曲柄状的" Target="frmContent" Href="../searchservlet?query=F16G13/07&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16G13/07"/>
+      </TreeNode>
+      <TreeNode Title="F16G13/08 ##链节紧紧放在连接销上(F16G 13/04优先)" Target="frmContent" Href="../searchservlet?query=F16G13/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16G13/08"/>
+      <TreeNode Title="F16G13/10 ##带万向节" Target="frmContent" Href="../searchservlet?query=F16G13/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16G13/10"/>
+    </TreeNode>
+    <TreeNode Title="F16G13/12 #牵引链或起重链" Target="frmContent" Href="../searchservlet?query=F16G13/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16G13/12">
+      <TreeNode Title="F16G13/14 ##由易分开的链节构成[3]" Target="frmContent" Href="../searchservlet?query=F16G13/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16G13/14"/>
+      <TreeNode Title="F16G13/16 ##带有夹持电缆，软管或类似件的装置" Target="frmContent" Href="../searchservlet?query=F16G13/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16G13/16"/>
+    </TreeNode>
+    <TreeNode Title="F16G13/18 #具有特殊综合特性的链" Target="frmContent" Href="../searchservlet?query=F16G13/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16G13/18">
+      <TreeNode Title="F16G13/20 ##刚性的；推拉链" Target="frmContent" Href="../searchservlet?query=F16G13/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16G13/20"/>
+      <TreeNode Title="F16G13/22 ##可延伸的" Target="frmContent" Href="../searchservlet?query=F16G13/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16G13/22">
+        <TreeNode Title="F16G13/24 ###弹性的" Target="frmContent" Href="../searchservlet?query=F16G13/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16G13/24"/>
+      </TreeNode>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="F16G15/00 链联轴器；钩链；链接头；链节；链套筒(制造链元件入B21L)" Target="frmContent" Href="../searchservlet?query=F16G15/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16G15/00">
+    <TreeNode Title="F16G15/02 #用于近乎永久性紧固" Target="frmContent" Href="../searchservlet?query=F16G15/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16G15/02"/>
+    <TreeNode Title="F16G15/04 #可迅速拆卸的链式联轴器；钩链" Target="frmContent" Href="../searchservlet?query=F16G15/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16G15/04">
+      <TreeNode Title="F16G15/06 ##用于销与链元件连接的钩链，如D形钩链" Target="frmContent" Href="../searchservlet?query=F16G15/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16G15/06"/>
+    </TreeNode>
+    <TreeNode Title="F16G15/08 #转环" Target="frmContent" Href="../searchservlet?query=F16G15/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16G15/08"/>
+    <TreeNode Title="F16G15/10 #安全接头或链节" Target="frmContent" Href="../searchservlet?query=F16G15/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16G15/10"/>
+    <TreeNode Title="F16G15/12 #链节" Target="frmContent" Href="../searchservlet?query=F16G15/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16G15/12">
+      <TreeNode Title="F16G15/14 ##由金属板制成，如型板" Target="frmContent" Href="../searchservlet?query=F16G15/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16G15/14"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="F16G17/00 作为链的组成部分的钩(起重机用的钩入B66C 1/34)" Target="frmContent" Href="../searchservlet?query=F16G17/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F16G17/00"/>
+</Root>

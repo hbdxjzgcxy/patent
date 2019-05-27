@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="E03B1/00 给水的方法或供水装置的布置(E03B 3/00，E03B 9/00优先)[4]" Target="frmContent" Href="../searchservlet?query=E03B1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E03B1/00">
+    <TreeNode Title="E03B1/02 #公共的或类似用途的总给水" Target="frmContent" Href="../searchservlet?query=E03B1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E03B1/02"/>
+    <TreeNode Title="E03B1/04 #户内或类似用途的局部给水" Target="frmContent" Href="../searchservlet?query=E03B1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E03B1/04"/>
+  </TreeNode>
+  <TreeNode Title="E03B3/00 饮用水或自来水的取水或集水的方法或装置(水的处理入C02F)[4]" Target="frmContent" Href="../searchservlet?query=E03B3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E03B3/00">
+    <TreeNode Title="E03B3/02 #取自雨水" Target="frmContent" Href="../searchservlet?query=E03B3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E03B3/02">
+      <TreeNode Title="E03B3/03 ##家庭用的集存雨水的特殊容器，例如，大水桶" Target="frmContent" Href="../searchservlet?query=E03B3/03&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E03B3/03"/>
+    </TreeNode>
+    <TreeNode Title="E03B3/04 #取自地面水" Target="frmContent" Href="../searchservlet?query=E03B3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E03B3/04"/>
+    <TreeNode Title="E03B3/06 #取自地下水" Target="frmContent" Href="../searchservlet?query=E03B3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E03B3/06">
+      <TreeNode Title="E03B3/08 ##用井取水或存水(用于水和其他液体混合的或只能用于其他液体的入E21B 43/00)" Target="frmContent" Href="../searchservlet?query=E03B3/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E03B3/08">
+        <TreeNode Title="E03B3/10 ###用竖井" Target="frmContent" Href="../searchservlet?query=E03B3/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E03B3/10">
+          <TreeNode Title="E03B3/11 ####与管道组合的，例如，竖井外面的多孔的水平延伸或向上倾斜的管道" Target="frmContent" Href="../searchservlet?query=E03B3/11&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E03B3/11"/>
+        </TreeNode>
+        <TreeNode Title="E03B3/12 ###用垂直管井" Target="frmContent" Href="../searchservlet?query=E03B3/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E03B3/12"/>
+        <TreeNode Title="E03B3/14 ###用水平井或斜井" Target="frmContent" Href="../searchservlet?query=E03B3/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E03B3/14"/>
+        <TreeNode Title="E03B3/15 ###保持井处在良好状态，例如，清理、维修、再生；保持或扩大井或含水层的出水量(用人工补充水入E03B 3/32)" Target="frmContent" Href="../searchservlet?query=E03B3/15&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E03B3/15"/>
+        <TreeNode Title="E03B3/16 ###井的构件" Target="frmContent" Href="../searchservlet?query=E03B3/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E03B3/16">
+          <TreeNode Title="E03B3/18 ####井用过滤器(一般过滤器入B01D 24/00至B01D 35/00)" Target="frmContent" Href="../searchservlet?query=E03B3/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E03B3/18">
+            <TreeNode Title="E03B3/20 #####特殊形状的构件" Target="frmContent" Href="../searchservlet?query=E03B3/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E03B3/20">
+              <TreeNode Title="E03B3/22 ######特定材料的选择" Target="frmContent" Href="../searchservlet?query=E03B3/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E03B3/22"/>
+            </TreeNode>
+            <TreeNode Title="E03B3/24 #####用松散材料构成的，例如，砾石" Target="frmContent" Href="../searchservlet?query=E03B3/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E03B3/24">
+              <TreeNode Title="E03B3/26 ######用填实的过滤材料制的" Target="frmContent" Href="../searchservlet?query=E03B3/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E03B3/26"/>
+            </TreeNode>
+          </TreeNode>
+        </TreeNode>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="E03B3/28 #取自潮湿空气(一般蒸汽冷凝入B01D 5/00；空调用的空气除湿入F24F 3/14)" Target="frmContent" Href="../searchservlet?query=E03B3/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E03B3/28"/>
+    <TreeNode Title="E03B3/30 #取自雪或冰[4]" Target="frmContent" Href="../searchservlet?query=E03B3/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E03B3/30"/>
+    <TreeNode Title="E03B3/32 #用人工补给，例如，从池塘或河流取水补充" Target="frmContent" Href="../searchservlet?query=E03B3/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E03B3/32">
+      <TreeNode Title="E03B3/34 ##用地下水" Target="frmContent" Href="../searchservlet?query=E03B3/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E03B3/34"/>
+      <TreeNode Title="E03B3/36 ##用地面水" Target="frmContent" Href="../searchservlet?query=E03B3/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E03B3/36"/>
+    </TreeNode>
+    <TreeNode Title="E03B3/38 #泉水井栏" Target="frmContent" Href="../searchservlet?query=E03B3/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E03B3/38"/>
+    <TreeNode Title="E03B3/40 #贮水用的其他设施，例如，沟、排水设施E03B 5/00泵站或装置的使用；及布置(泵、泵站或装置本身入F04)" Target="frmContent" Href="../searchservlet?query=E03B3/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E03B3/40"/>
+    <TreeNode Title="E03B5/02 #装在建筑物内的" Target="frmContent" Href="../searchservlet?query=E03B5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E03B5/02"/>
+    <TreeNode Title="E03B5/04 #装在井内的" Target="frmContent" Href="../searchservlet?query=E03B5/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E03B5/04">
+      <TreeNode Title="E03B5/06 ##特殊设备" Target="frmContent" Href="../searchservlet?query=E03B5/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E03B5/06"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="E03B7/00 给水总管道系统或给水管道系统(一般管道系统入F16L)" Target="frmContent" Href="../searchservlet?query=E03B7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E03B7/00">
+    <TreeNode Title="E03B7/02 #公共的或类似用途的总管道系统" Target="frmContent" Href="../searchservlet?query=E03B7/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E03B7/02"/>
+    <TreeNode Title="E03B7/04 #户内或类似用途的局部管道系统(家庭用的卫生管道入E03C 1/02)" Target="frmContent" Href="../searchservlet?query=E03B7/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E03B7/04"/>
+    <TreeNode Title="E03B7/07 #设备的布置，例如，在管道系统中的过滤器、流量控制器、计量器、虹吸管、阀门(这些设备本身参见相应的类目)" Target="frmContent" Href="../searchservlet?query=E03B7/07&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E03B7/07">
+      <TreeNode Title="E03B7/08 ##泄水设备的布置(一般泄水设备入F16K，F16L)" Target="frmContent" Href="../searchservlet?query=E03B7/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E03B7/08"/>
+    </TreeNode>
+    <TreeNode Title="E03B7/09 #零部件或附件(清洗管子的工具入B08B 9/02；防止家庭饮用水管道污染的设备入E03C 1/10；在管破裂时防止损坏的设备入F16L；一般的管道加热入F16L 53/00)" Target="frmContent" Href="../searchservlet?query=E03B7/09&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E03B7/09">
+      <TreeNode Title="E03B7/10 ##防止管道冻裂的设备(一般防止管道破裂的设备入F16L 55/00)" Target="frmContent" Href="../searchservlet?query=E03B7/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E03B7/10">
+        <TreeNode Title="E03B7/12 ###通过防冻" Target="frmContent" Href="../searchservlet?query=E03B7/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E03B7/12"/>
+      </TreeNode>
+      <TreeNode Title="E03B7/14 ##融化冻管的设备" Target="frmContent" Href="../searchservlet?query=E03B7/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E03B7/14"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="E03B9/00 引出水的方法或装置(户内引出水的装置入E03C，水笼头或阀门本身入F16K)E03B [4]" Target="frmContent" Href="../searchservlet?query=E03B9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E03B9/00">
+    <TreeNode Title="E03B9/02 #消火栓；其阀门的设置；消火栓的扳手" Target="frmContent" Href="../searchservlet?query=E03B9/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E03B9/02">
+      <TreeNode Title="E03B9/04 ##消火栓柱" Target="frmContent" Href="../searchservlet?query=E03B9/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E03B9/04">
+        <TreeNode Title="E03B9/06 ###盖子" Target="frmContent" Href="../searchservlet?query=E03B9/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E03B9/06"/>
+      </TreeNode>
+      <TreeNode Title="E03B9/08 ##地下消火栓" Target="frmContent" Href="../searchservlet?query=E03B9/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E03B9/08">
+        <TreeNode Title="E03B9/10 ###护板或盖子" Target="frmContent" Href="../searchservlet?query=E03B9/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E03B9/10"/>
+        <TreeNode Title="E03B9/12 ###立管" Target="frmContent" Href="../searchservlet?query=E03B9/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E03B9/12"/>
+      </TreeNode>
+      <TreeNode Title="E03B9/14 ##消火栓的泄水设备" Target="frmContent" Href="../searchservlet?query=E03B9/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E03B9/14"/>
+      <TreeNode Title="E03B9/16 ##截留杂物，例如砂的设备" Target="frmContent" Href="../searchservlet?query=E03B9/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E03B9/16"/>
+      <TreeNode Title="E03B9/18 ##消火栓的清洗工具" Target="frmContent" Href="../searchservlet?query=E03B9/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E03B9/18"/>
+      <TreeNode Title="E03B9/20 ##提供饮用水的喷水柱筒或类似分配饮用水的设备" Target="frmContent" Href="../searchservlet?query=E03B9/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E03B9/20"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="E03B11/00 给水池的配置(水桶入E03B 3/03；贮水方面入B65D，B65G，F17B，F17C；基础入E02D 27/38；用土木工程技术建设或装配的大容量贮水器入E04H 7/00；水塔入E04H 12/00)" Target="frmContent" Href="../searchservlet?query=E03B11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E03B11/00">
+    <TreeNode Title="E03B11/02 #供户内给水或类似的局部给水" Target="frmContent" Href="../searchservlet?query=E03B11/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E03B11/02">
+      <TreeNode Title="E03B11/04 ##不带空气调节器的" Target="frmContent" Href="../searchservlet?query=E03B11/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E03B11/04"/>
+      <TreeNode Title="E03B11/06 ##带空气调节器的" Target="frmContent" Href="../searchservlet?query=E03B11/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E03B11/06">
+        <TreeNode Title="E03B11/08 ###空气调节器" Target="frmContent" Href="../searchservlet?query=E03B11/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E03B11/08"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="E03B11/10 #用于公共的或类似用途的总给水系统" Target="frmContent" Href="../searchservlet?query=E03B11/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E03B11/10">
+      <TreeNode Title="E03B11/12 ##高位水池的" Target="frmContent" Href="../searchservlet?query=E03B11/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E03B11/12"/>
+      <TreeNode Title="E03B11/14 ##地下水池的" Target="frmContent" Href="../searchservlet?query=E03B11/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E03B11/14"/>
+      <TreeNode Title="E03B11/16 ##采用使泵站启动、停止的装置，例如，自动控制设备" Target="frmContent" Href="../searchservlet?query=E03B11/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E03B11/16"/>
+    </TreeNode>
+  </TreeNode>
+</Root>

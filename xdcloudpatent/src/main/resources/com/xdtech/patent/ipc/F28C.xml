@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="F28C1/00 直接接触水淋冷却器，例如冷却塔(建筑物结构入E04H 5/12；用水淋冷却的封闭空间入F25；水淋冷却器的构件入F28F 25/00)" Target="frmContent" Href="../searchservlet?query=F28C1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F28C1/00">
+    <TreeNode Title="F28C1/02 #只有逆流的" Target="frmContent" Href="../searchservlet?query=F28C1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F28C1/02"/>
+    <TreeNode Title="F28C1/04 #只有交叉流的" Target="frmContent" Href="../searchservlet?query=F28C1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F28C1/04"/>
+    <TreeNode Title="F28C1/06 #逆流和交叉流两种都有的" Target="frmContent" Href="../searchservlet?query=F28C1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F28C1/06"/>
+    <TreeNode Title="F28C1/08 #从废蒸汽中回收热量的装置" Target="frmContent" Href="../searchservlet?query=F28C1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F28C1/08"/>
+    <TreeNode Title="F28C1/10 #抑制噪音的装置[5]" Target="frmContent" Href="../searchservlet?query=F28C1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F28C1/10"/>
+    <TreeNode Title="F28C1/12 #防止结霜堵塞的装置[3]" Target="frmContent" Href="../searchservlet?query=F28C1/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F28C1/12"/>
+    <TreeNode Title="F28C1/14 #还包括有一种不直接接触热交换的[3]" Target="frmContent" Href="../searchservlet?query=F28C1/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F28C1/14"/>
+    <TreeNode Title="F28C1/16 #防止在冷却器外面冷凝、沉积或成雾的装置(F28C 1/14优先)[3]" Target="frmContent" Href="../searchservlet?query=F28C1/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F28C1/16"/>
+  </TreeNode>
+  <TreeNode Title="F28C3/00 其他直接接触热交换设备" Target="frmContent" Href="../searchservlet?query=F28C3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F28C3/00">
+    <TreeNode Title="F28C3/02 #两种热交换介质均为气体或蒸气的" Target="frmContent" Href="../searchservlet?query=F28C3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F28C3/02"/>
+    <TreeNode Title="F28C3/04 #两种热交换介质均为液体的" Target="frmContent" Href="../searchservlet?query=F28C3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F28C3/04"/>
+    <TreeNode Title="F28C3/06 #热交换介质为一种液体和一种气体或蒸气的(冷却水蒸气用的调温器入F22)" Target="frmContent" Href="../searchservlet?query=F28C3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F28C3/06">
+      <TreeNode Title="F28C3/08 ##带有状态变化的，例如吸收作用、蒸发作用、冷凝作用(在压力下发生水蒸汽入F22)" Target="frmContent" Href="../searchservlet?query=F28C3/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F28C3/08"/>
+    </TreeNode>
+    <TreeNode Title="F28C3/10 #至少有一种热交换介质是流动的固体，例如一种颗粒状材料" Target="frmContent" Href="../searchservlet?query=F28C3/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F28C3/10">
+      <TreeNode Title="F28C3/12 ##热交换介质是一种颗粒状材料和一种气体、蒸气或液体的" Target="frmContent" Href="../searchservlet?query=F28C3/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F28C3/12">
+        <TreeNode Title="F28C3/14 ###利用重力而运动的颗粒状材料，例如沿管道下落的" Target="frmContent" Href="../searchservlet?query=F28C3/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F28C3/14"/>
+        <TreeNode Title="F28C3/16 ###形成床的颗粒状材料，例如在振动筛上的流化床" Target="frmContent" Href="../searchservlet?query=F28C3/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F28C3/16"/>
+        <TreeNode Title="F28C3/18 ###装在滚筒内的颗粒状材料" Target="frmContent" Href="../searchservlet?query=F28C3/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F28C3/18"/>
+      </TreeNode>
+    </TreeNode>
+  </TreeNode>
+</Root>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="B43M1/00 在文件上火漆封印(压花模入B44B；封条本身入G09F 3/00)" Target="frmContent" Href="../searchservlet?query=B43M1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B43M1/00">
+    <TreeNode Title="B43M1/02 #火漆夹持装置" Target="frmContent" Href="../searchservlet?query=B43M1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B43M1/02"/>
+  </TreeNode>
+  <TreeNode Title="B43M3/00 文件放入封袋内的装置(文件放入封袋内并封闭封袋的组合装置入B43L 5/00)" Target="frmContent" Href="../searchservlet?query=B43M3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B43M3/00">
+    <TreeNode Title="B43M3/02 #装有文件折叠装置的(B43M 3/04优先)" Target="frmContent" Href="../searchservlet?query=B43M3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B43M3/02"/>
+    <TreeNode Title="B43M3/04 #自动的" Target="frmContent" Href="../searchservlet?query=B43M3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B43M3/04"/>
+  </TreeNode>
+  <TreeNode Title="B43M5/00 封闭封袋的装置" Target="frmContent" Href="../searchservlet?query=B43M5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B43M5/00">
+    <TreeNode Title="B43M5/02 #兼用于湿润封袋涂胶口盖和封闭封袋的手动装置" Target="frmContent" Href="../searchservlet?query=B43M5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B43M5/02"/>
+    <TreeNode Title="B43M5/04 #自动的" Target="frmContent" Href="../searchservlet?query=B43M5/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B43M5/04"/>
+  </TreeNode>
+  <TreeNode Title="B43M7/00 开启封袋的装置(一般切割工具入B26)" Target="frmContent" Href="../searchservlet?query=B43M7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B43M7/00">
+    <TreeNode Title="B43M7/02 #兼用于开启封袋和取出袋内文件的装置" Target="frmContent" Href="../searchservlet?query=B43M7/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B43M7/02"/>
+  </TreeNode>
+  <TreeNode Title="B43M9/00 压纸器" Target="frmContent" Href="../searchservlet?query=B43M9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B43M9/00"/>
+  <TreeNode Title="B43M11/00 通过接触表面涂墨水以外的液体例如涂胶用的办公或个人用的手动或台式装置(与封袋封闭装置结合的入B43L 5/02；贮液刷入A46B 11/00；一般往表面上涂液或涂其他流态材料的装置入B05C；液体容器入B65D)" Target="frmContent" Href="../searchservlet?query=B43M11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B43M11/00">
+    <TreeNode Title="B43M11/02 #带滚子的" Target="frmContent" Href="../searchservlet?query=B43M11/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B43M11/02"/>
+    <TreeNode Title="B43M11/04 #带衬垫的(B43M 11/06优先)" Target="frmContent" Href="../searchservlet?query=B43M11/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B43M11/04"/>
+    <TreeNode Title="B43M11/06 #手提装置" Target="frmContent" Href="../searchservlet?query=B43M11/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B43M11/06">
+      <TreeNode Title="B43M11/08 ##自来水笔型的" Target="frmContent" Href="../searchservlet?query=B43M11/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B43M11/08"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="B43M13/00 不带机构的单标记发放器改成在物品上贴标记使用(手控的或可手动的标签或标记发放器入B65C 11/00)" Target="frmContent" Href="../searchservlet?query=B43M13/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B43M13/00"/>
+  <TreeNode Title="B43M15/00 图钉；揿钉(拔钉器入B25C 11/00)" Target="frmContent" Href="../searchservlet?query=B43M15/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B43M15/00"/>
+  <TreeNode Title="B43M99/00 本小类其他各组中不包括的技术主题 [2010.01]" Target="frmContent" Href="../searchservlet?query=B43M99/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B43M99/00"/>
+</Root>

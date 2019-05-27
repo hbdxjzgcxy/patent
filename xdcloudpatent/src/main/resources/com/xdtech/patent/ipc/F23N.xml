@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="F23N1/00 调节燃料的供给" Target="frmContent" Href="../searchservlet?query=F23N1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23N1/00">
+    <TreeNode Title="F23N1/02 #同时调节送风的" Target="frmContent" Href="../searchservlet?query=F23N1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23N1/02"/>
+    <TreeNode Title="F23N1/04 #同时调节送风和引风的" Target="frmContent" Href="../searchservlet?query=F23N1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23N1/04"/>
+    <TreeNode Title="F23N1/06 #同时调节引风的" Target="frmContent" Href="../searchservlet?query=F23N1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23N1/06"/>
+    <TreeNode Title="F23N1/08 #同时调节其他介质的，例如锅炉水的" Target="frmContent" Href="../searchservlet?query=F23N1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23N1/08">
+      <TreeNode Title="F23N1/10 ##并且还调节送风或引风的" Target="frmContent" Href="../searchservlet?query=F23N1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23N1/10"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="F23N3/00 调节送风或引风(同时调节燃料供给的入F23N 1/00)" Target="frmContent" Href="../searchservlet?query=F23N3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23N3/00">
+    <TreeNode Title="F23N3/02 #直接用压力操纵单个阀门或风门来调节引风的" Target="frmContent" Href="../searchservlet?query=F23N3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23N3/02"/>
+    <TreeNode Title="F23N3/04 #通过热敏元件操纵单个阀门或风门的" Target="frmContent" Href="../searchservlet?query=F23N3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23N3/04"/>
+    <TreeNode Title="F23N3/06 #同时操作两个或多个阀门或风门的(F23N 3/08优先)" Target="frmContent" Href="../searchservlet?query=F23N3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23N3/06"/>
+    <TreeNode Title="F23N3/08 #用助力系统的" Target="frmContent" Href="../searchservlet?query=F23N3/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23N3/08"/>
+  </TreeNode>
+  <TreeNode Title="F23N5/00 控制燃烧的系统(F23N 1/00，F23N 3/00优先)" Target="frmContent" Href="../searchservlet?query=F23N5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23N5/00">
+    <TreeNode Title="F23N5/02 #利用对热变化或介质的热膨胀敏感的装置" Target="frmContent" Href="../searchservlet?query=F23N5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23N5/02">
+      <TreeNode Title="F23N5/04 ##利用双金属元件的" Target="frmContent" Href="../searchservlet?query=F23N5/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23N5/04"/>
+      <TreeNode Title="F23N5/06 ##利用膜盒的；利用膜片的" Target="frmContent" Href="../searchservlet?query=F23N5/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23N5/06"/>
+      <TreeNode Title="F23N5/08 ##利用光敏元件的" Target="frmContent" Href="../searchservlet?query=F23N5/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23N5/08"/>
+      <TreeNode Title="F23N5/10 ##利用热电偶的" Target="frmContent" Href="../searchservlet?query=F23N5/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23N5/10"/>
+      <TreeNode Title="F23N5/12 ##利用对电离敏感的元件的，即火焰棒" Target="frmContent" Href="../searchservlet?query=F23N5/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23N5/12"/>
+      <TreeNode Title="F23N5/14 ##利用热敏电阻的" Target="frmContent" Href="../searchservlet?query=F23N5/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23N5/14"/>
+    </TreeNode>
+    <TreeNode Title="F23N5/16 #利用噪声检测器的" Target="frmContent" Href="../searchservlet?query=F23N5/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23N5/16"/>
+    <TreeNode Title="F23N5/18 #利用对空气或燃料流动速率敏感的探测器" Target="frmContent" Href="../searchservlet?query=F23N5/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23N5/18"/>
+    <TreeNode Title="F23N5/20 #带有一个通过电气装置(例如利用延时继电器)，控制的时间程序" Target="frmContent" Href="../searchservlet?query=F23N5/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23N5/20"/>
+    <TreeNode Title="F23N5/22 #带有一个通过机械装置(例如利用凸轮)，控制的时间程序" Target="frmContent" Href="../searchservlet?query=F23N5/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23N5/22"/>
+    <TreeNode Title="F23N5/24 #防止产生反常和意外情况的，即安全装置(F23N 5/02至F23N 5/18优先)" Target="frmContent" Href="../searchservlet?query=F23N5/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23N5/24"/>
+    <TreeNode Title="F23N5/26 #零部件" Target="frmContent" Href="../searchservlet?query=F23N5/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F23N5/26"/>
+  </TreeNode>
+</Root>

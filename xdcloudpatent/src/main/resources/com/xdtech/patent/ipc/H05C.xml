@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="H05C1/00 产生电击作用的电路或设备" Target="frmContent" Href="../searchservlet?query=H05C1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05C1/00">
+    <TreeNode Title="H05C1/02 #提供连续馈送直流或交流电压的" Target="frmContent" Href="../searchservlet?query=H05C1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05C1/02"/>
+    <TreeNode Title="H05C1/04 #提供脉冲电压的" Target="frmContent" Href="../searchservlet?query=H05C1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05C1/04">
+      <TreeNode Title="H05C1/06 ##仅当触及时才供电的" Target="frmContent" Href="../searchservlet?query=H05C1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05C1/06"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="H05C3/00 其他电路或设备" Target="frmContent" Href="../searchservlet?query=H05C3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H05C3/00"/>
+</Root>

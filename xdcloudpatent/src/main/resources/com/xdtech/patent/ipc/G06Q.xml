@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="G06Q10/00 行政，例如办公自动化或预定；管理，例如资源或项目管理[8]" Target="frmContent" Href="../searchservlet?query=G06Q10/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06Q10/00"/>
+  <TreeNode Title="G06Q20/00 支付方案，体系结构或协议(用于执行或登入支付业务的设备入 G07F 7/08， G07F 19/00；电子现金出纳机入G07G 1/12)[8]" Target="frmContent" Href="../searchservlet?query=G06Q20/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06Q20/00"/>
+  <TreeNode Title="G06Q30/00 商业，例如行销、购物、签单、拍卖或电子商务[8]" Target="frmContent" Href="../searchservlet?query=G06Q30/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06Q30/00"/>
+  <TreeNode Title="G06Q40/00 金融，例如银行业、投资或税务处理；保险，例如，风险分析或养老金[8]" Target="frmContent" Href="../searchservlet?query=G06Q40/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06Q40/00"/>
+  <TreeNode Title="G06Q50/00 专门适用于特定经营部门的系统或方法，例如保健、公用事业、旅游或法律服务[8]" Target="frmContent" Href="../searchservlet?query=G06Q50/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06Q50/00"/>
+  <TreeNode Title="G06Q90/00 不涉及有意义的数据处理的专门适用于行政、 商业、 金融、 管理、 监督或预测用途的系统或方法[8]" Target="frmContent" Href="../searchservlet?query=G06Q90/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06Q90/00"/>
+  <TreeNode Title="G06Q99/00 本小类的其他各组中不包含的技术主题[8]" Target="frmContent" Href="../searchservlet?query=G06Q99/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06Q99/00"/>
+</Root>

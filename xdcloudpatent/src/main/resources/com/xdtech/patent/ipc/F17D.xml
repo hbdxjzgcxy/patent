@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="F17D1/00 管道系统(用流体作为运载工具经管路输送物品或材料入B65G 51/00，B65G 53/00；液体分配、输送或转送入B67D；从大型贮存容器或贮存库将液体输入车辆中或者输入便携式容器内的设备或装置，例如为了零售入B67D 7/00；通过管路输送由挖泥机或推土机挖掘出的物质入E02F 7/10；污水管道系统入E03F 3/00；管道隔热入F16L 59/00；集中供热系统入F24D) [2]" Target="frmContent" Href="../searchservlet?query=F17D1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F17D1/00">
+    <TreeNode Title="F17D1/02 #用于气体或蒸气的" Target="frmContent" Href="../searchservlet?query=F17D1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F17D1/02">
+      <TreeNode Title="F17D1/04 ##用于气体分配的" Target="frmContent" Href="../searchservlet?query=F17D1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F17D1/04">
+        <TreeNode Title="F17D1/05 ###防冻的(通过加热入F16L 53/00)" Target="frmContent" Href="../searchservlet?query=F17D1/05&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F17D1/05"/>
+      </TreeNode>
+      <TreeNode Title="F17D1/06 ##用于蒸汽的" Target="frmContent" Href="../searchservlet?query=F17D1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F17D1/06"/>
+      <TreeNode Title="F17D1/065 ##产生气体或蒸气推进的装置[2]" Target="frmContent" Href="../searchservlet?query=F17D1/065&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F17D1/065">
+        <TreeNode Title="F17D1/07 ###用压缩的方法[2]" Target="frmContent" Href="../searchservlet?query=F17D1/07&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F17D1/07"/>
+        <TreeNode Title="F17D1/075 ###仅用由起始压强膨胀的方法，例如用流量控制阀装置[2]" Target="frmContent" Href="../searchservlet?query=F17D1/075&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F17D1/075"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="F17D1/08 #用于液体或黏性物质的(自来水或供水系统入E03B7/04；民用热水供水系统入F24D17/00)[2]" Target="frmContent" Href="../searchservlet?query=F17D1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F17D1/08">
+      <TreeNode Title="F17D1/12 ##用其他流体的压力输送液体或黏性物质的[2]" Target="frmContent" Href="../searchservlet?query=F17D1/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F17D1/12"/>
+      <TreeNode Title="F17D1/13 ##用重力输送液体或黏性物质的[2]" Target="frmContent" Href="../searchservlet?query=F17D1/13&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F17D1/13"/>
+      <TreeNode Title="F17D1/14 ##用泵输送液体或黏性物质的[2]" Target="frmContent" Href="../searchservlet?query=F17D1/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F17D1/14"/>
+      <TreeNode Title="F17D1/16 ##通过改善黏性物质的黏度使其输送有效或使液体输送容易[2]" Target="frmContent" Href="../searchservlet?query=F17D1/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F17D1/16">
+        <TreeNode Title="F17D1/17 ###通过混合其他液体[2]" Target="frmContent" Href="../searchservlet?query=F17D1/17&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F17D1/17"/>
+        <TreeNode Title="F17D1/18 ###通过加热[2]" Target="frmContent" Href="../searchservlet?query=F17D1/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F17D1/18"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="F17D1/20 #影响或改变系统动态特性的装置或装置系统，例如阻尼由于阀的开或关引起的脉动(流体动力学入F15D；一般管中流体脉动的阻尼入F16L 55/04)[2]" Target="frmContent" Href="../searchservlet?query=F17D1/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F17D1/20"/>
+  </TreeNode>
+  <TreeNode Title="F17D3/00 观测或控制工序的装置" Target="frmContent" Href="../searchservlet?query=F17D3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F17D3/00">
+    <TreeNode Title="F17D3/01 #用于控制、指示或观测产品的输送[2]" Target="frmContent" Href="../searchservlet?query=F17D3/01&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F17D3/01"/>
+    <TreeNode Title="F17D3/03 #用于控制、指示或观测在同一管道中依次输送不同的产品，例如从一个贮槽转移到另一个贮槽[2]" Target="frmContent" Href="../searchservlet?query=F17D3/03&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F17D3/03">
+      <TreeNode Title="F17D3/05 ##不同产品是未分开的(通过蒸馏作用分离杂质入B01D 3/00)[2]" Target="frmContent" Href="../searchservlet?query=F17D3/05&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F17D3/05"/>
+      <TreeNode Title="F17D3/08 ##不同产品是用管道清洁器分开的，例如球形的(用流体沿管路内移动的清洁装置入B08B 9/053) [2]" Target="frmContent" Href="../searchservlet?query=F17D3/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F17D3/08"/>
+    </TreeNode>
+    <TreeNode Title="F17D3/10 #用于从管道内取出产品的(借助于测定材料的物理或化学性质来测试或分析材料的入G01N)[2]" Target="frmContent" Href="../searchservlet?query=F17D3/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F17D3/10"/>
+    <TreeNode Title="F17D3/12 #用于向管道内加入一种成分的[2]" Target="frmContent" Href="../searchservlet?query=F17D3/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F17D3/12"/>
+    <TreeNode Title="F17D3/14 #用于脱水的(液体的分离入B01D，例如B01D 17/00；气体或蒸气的分离入B01D 53/00)[2]" Target="frmContent" Href="../searchservlet?query=F17D3/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F17D3/14"/>
+    <TreeNode Title="F17D3/16 #用于在悬浮液中清除颗粒的(从液体中通过沉淀入B01D 21/00；用过滤或其他方法分离入B01D 24/00至B01D 51/00；离心装置本身入B04)[2]" Target="frmContent" Href="../searchservlet?query=F17D3/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F17D3/16"/>
+    <TreeNode Title="F17D3/18 #用于计量被输送产品数量的(一般容积或容积流量的计量入G01F)[2]" Target="frmContent" Href="../searchservlet?query=F17D3/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F17D3/18"/>
+  </TreeNode>
+  <TreeNode Title="F17D5/00 保护装置或观测装置(保护基础的装置入E02D 31/00；保护管子不受损坏或内外磨损入F16L 57/00；防止腐蚀或锈蚀入F16L 58/00：结构部件的流体密封性试验入G01M 3/00)[2]" Target="frmContent" Href="../searchservlet?query=F17D5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F17D5/00">
+    <TreeNode Title="F17D5/02 #漏失的预防、检查和确定位置[2]" Target="frmContent" Href="../searchservlet?query=F17D5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F17D5/02">
+      <TreeNode Title="F17D5/04 ##用双层壁内贮存的流体传输信号的方法[2]" Target="frmContent" Href="../searchservlet?query=F17D5/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F17D5/04"/>
+      <TreeNode Title="F17D5/06 ##用电或声学的方法[2]" Target="frmContent" Href="../searchservlet?query=F17D5/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F17D5/06"/>
+    </TreeNode>
+    <TreeNode Title="F17D5/08 #保护设备或人员免受管路内感应的高电压影响(紧急保护线路装置本身入H02H)[2]F21H分部：照明；加热" Target="frmContent" Href="../searchservlet?query=F17D5/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F17D5/08"/>
+  </TreeNode>
+</Root>

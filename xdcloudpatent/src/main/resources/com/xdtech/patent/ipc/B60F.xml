@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="B60F1/00 轨道和道路两用车辆；及其变换" Target="frmContent" Href="../searchservlet?query=B60F1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60F1/00">
+    <TreeNode Title="B60F1/02 # 在同一车轴上装有轨道车轮和道路车轮的" Target="frmContent" Href="../searchservlet?query=B60F1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60F1/02"/>
+    <TreeNode Title="B60F1/04 # 在不同车轴上装有轨道车轮和道路车轮的" Target="frmContent" Href="../searchservlet?query=B60F1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60F1/04"/>
+  </TreeNode>
+  <TreeNode Title="B60F3/00 两栖车辆，即能在陆上和水上行驶的车辆；可在水下行驶的地面车辆(浮轮入B60B)" Target="frmContent" Href="../searchservlet?query=B60F3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60F3/00"/>
+  <TreeNode Title="B60F5/00 其他可在不同介质上或介质中行驶的车辆(有替换使用滑板和车轮的车辆入B62B 13/18；飞船或水上飞机入B64C 35/00)" Target="frmContent" Href="../searchservlet?query=B60F5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60F5/00">
+    <TreeNode Title="B60F5/02 # 可转换为飞机的" Target="frmContent" Href="../searchservlet?query=B60F5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60F5/02"/>
+  </TreeNode>
+</Root>

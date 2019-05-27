@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="A21B1/00 食品烤炉" Target="frmContent" Href="../searchservlet?query=A21B1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A21B1/00">
+    <TreeNode Title="A21B1/02 #以加热装置为特征的" Target="frmContent" Href="../searchservlet?query=A21B1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A21B1/02">
+      <TreeNode Title="A21B1/04 ##在焙烤前只用火加热的烤炉" Target="frmContent" Href="../searchservlet?query=A21B1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A21B1/04"/>
+      <TreeNode Title="A21B1/06 ##用辐射器加热的烤炉" Target="frmContent" Href="../searchservlet?query=A21B1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A21B1/06">
+        <TreeNode Title="A21B1/08 ###用蒸汽加热辐射器" Target="frmContent" Href="../searchservlet?query=A21B1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A21B1/08"/>
+        <TreeNode Title="A21B1/10 ###用蒸汽以外流体加热的辐射器" Target="frmContent" Href="../searchservlet?query=A21B1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A21B1/10"/>
+        <TreeNode Title="A21B1/14 ###辐射器的配置" Target="frmContent" Href="../searchservlet?query=A21B1/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A21B1/14"/>
+        <TreeNode Title="A21B1/22 ###用电气辐射器(A21B 2/00优先；电热元件入H05B)" Target="frmContent" Href="../searchservlet?query=A21B1/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A21B1/22"/>
+      </TreeNode>
+      <TreeNode Title="A21B1/24 ##以流经的介质加热的烤炉" Target="frmContent" Href="../searchservlet?query=A21B1/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A21B1/24">
+        <TreeNode Title="A21B1/26 ###用热空气" Target="frmContent" Href="../searchservlet?query=A21B1/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A21B1/26"/>
+        <TreeNode Title="A21B1/28 ###用气态的燃烧物" Target="frmContent" Href="../searchservlet?query=A21B1/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A21B1/28"/>
+      </TreeNode>
+      <TreeNode Title="A21B1/33 ##用燃烧物直接加热的烤炉(A21B 1/04优先)" Target="frmContent" Href="../searchservlet?query=A21B1/33&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A21B1/33"/>
+      <TreeNode Title="A21B1/36 ##用热流体直接加热的烤炉(A21B 1/06，A21B 1/33优先)" Target="frmContent" Href="../searchservlet?query=A21B1/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A21B1/36"/>
+    </TreeNode>
+    <TreeNode Title="A21B1/40 #以调节温度方法为特征的(温度敏感元件本身入G01K)" Target="frmContent" Href="../searchservlet?query=A21B1/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A21B1/40"/>
+    <TreeNode Title="A21B1/42 #以在焙烤过程中移动焙烤表面为特征的(传送一般入B65G)" Target="frmContent" Href="../searchservlet?query=A21B1/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A21B1/42">
+      <TreeNode Title="A21B1/44 ##焙烤表面在水平面上旋转的" Target="frmContent" Href="../searchservlet?query=A21B1/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A21B1/44"/>
+      <TreeNode Title="A21B1/46 ##焙烤表面悬置于循环转动传送带或旋转轮上的" Target="frmContent" Href="../searchservlet?query=A21B1/46&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A21B1/46"/>
+      <TreeNode Title="A21B1/48 ##焙烤表面形成一条环形带" Target="frmContent" Href="../searchservlet?query=A21B1/48&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A21B1/48"/>
+    </TreeNode>
+    <TreeNode Title="A21B1/50 #以有可移动的焙烤表面为特征的" Target="frmContent" Href="../searchservlet?query=A21B1/50&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A21B1/50"/>
+    <TreeNode Title="A21B1/52 #手提式烤炉；折叠式烤炉(旅行或露营炊具入A47J 33/00)" Target="frmContent" Href="../searchservlet?query=A21B1/52&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A21B1/52"/>
+  </TreeNode>
+  <TreeNode Title="A21B2/00 使用高频或红外加热的焙烤设备" Target="frmContent" Href="../searchservlet?query=A21B2/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A21B2/00"/>
+  <TreeNode Title="A21B3/00 烤炉的部件或附件" Target="frmContent" Href="../searchservlet?query=A21B3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A21B3/00">
+    <TreeNode Title="A21B3/02 #炉门；翻板闸门(门的一般特征入E06B)" Target="frmContent" Href="../searchservlet?query=A21B3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A21B3/02"/>
+    <TreeNode Title="A21B3/04 #烤炉用的空气处理装置，例如调节湿度" Target="frmContent" Href="../searchservlet?query=A21B3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A21B3/04"/>
+    <TreeNode Title="A21B3/07 #烤炉的装载或卸载(A21B 3/18优先)" Target="frmContent" Href="../searchservlet?query=A21B3/07&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A21B3/07"/>
+    <TreeNode Title="A21B3/10 #烤炉照明用的装置" Target="frmContent" Href="../searchservlet?query=A21B3/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A21B3/10"/>
+    <TreeNode Title="A21B3/13 #焙烤模；焙烤器" Target="frmContent" Href="../searchservlet?query=A21B3/13&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A21B3/13"/>
+    <TreeNode Title="A21B3/15 #焙烤板；焙烤台" Target="frmContent" Href="../searchservlet?query=A21B3/15&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A21B3/15"/>
+    <TreeNode Title="A21B3/16 #用于清洁或给焙烤表面抹油的机械" Target="frmContent" Href="../searchservlet?query=A21B3/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A21B3/16"/>
+    <TreeNode Title="A21B3/18 #从焙烤模卸下焙烤食品(卸包一般入B65B 69/00)" Target="frmContent" Href="../searchservlet?query=A21B3/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A21B3/18"/>
+  </TreeNode>
+  <TreeNode Title="A21B5/00 特种食品用的焙烤设备；其他焙烤设备" Target="frmContent" Href="../searchservlet?query=A21B5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A21B5/00">
+    <TreeNode Title="A21B5/02 #用于焙烤中空食品、华夫饼干、面制糕点、饼干或类似食品的设备" Target="frmContent" Href="../searchservlet?query=A21B5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A21B5/02">
+      <TreeNode Title="A21B5/03 ##用于焙烤薄煎饼的(煎锅入A47J 37/10) [3]" Target="frmContent" Href="../searchservlet?query=A21B5/03&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A21B5/03"/>
+    </TreeNode>
+    <TreeNode Title="A21B5/04 #用于在铁叉上焙烤圆柱形糕点的设备" Target="frmContent" Href="../searchservlet?query=A21B5/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A21B5/04"/>
+    <TreeNode Title="A21B5/06 #用于焙烤盐溶液中食品的设备，例如制作椒盐卷饼" Target="frmContent" Href="../searchservlet?query=A21B5/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A21B5/06"/>
+    <TreeNode Title="A21B5/08 #用于在焙烤脂肪或油中焙烤食品的设备，例如制作油炸圈饼" Target="frmContent" Href="../searchservlet?query=A21B5/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A21B5/08"/>
+  </TreeNode>
+  <TreeNode Title="A21B7/00 焙烤整套设备" Target="frmContent" Href="../searchservlet?query=A21B7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A21B7/00"/>
+</Root>

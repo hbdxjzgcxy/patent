@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="G09G1/00 仅考虑与阴极射线管指示器连接的控制装置或电路(阴极射线示波器入G01R13/20，电视入H04N)[3]" Target="frmContent" Href="../searchservlet?query=G09G1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G09G1/00">
+    <TreeNode Title="G09G1/02 #存储器电路(G09G 1/06至G09G 1/28优先)[3]" Target="frmContent" Href="../searchservlet?query=G09G1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G09G1/02"/>
+    <TreeNode Title="G09G1/04 #偏转电路[3]" Target="frmContent" Href="../searchservlet?query=G09G1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G09G1/04"/>
+    <TreeNode Title="G09G1/06 #用单束射线管(G09G 1/26、G09G 1/28优先)[3]" Target="frmContent" Href="../searchservlet?query=G09G1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G09G1/06">
+      <TreeNode Title="G09G1/07 ##结合有光栅扫描和书法显示的[5]" Target="frmContent" Href="../searchservlet?query=G09G1/07&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G09G1/07"/>
+      <TreeNode Title="G09G1/08 ##射线束直接跟踪字符，被显示的信息在两个空间坐标内作为时间函数控制偏转的，例如按笛卡尔坐标系[3]" Target="frmContent" Href="../searchservlet?query=G09G1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G09G1/08">
+        <TreeNode Title="G09G1/10 ###偏转信号主要用数字装置产生，例如逐渐增大[3]" Target="frmContent" Href="../searchservlet?query=G09G1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G09G1/10"/>
+        <TreeNode Title="G09G1/12 ###偏转信号主要用模拟装置产生[3]" Target="frmContent" Href="../searchservlet?query=G09G1/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G09G1/12"/>
+      </TreeNode>
+      <TreeNode Title="G09G1/14 ##跟踪图形的射线束与被显示的信息无关，被显示的信息确定图形的相应部分变成可见的或不可见的[3]" Target="frmContent" Href="../searchservlet?query=G09G1/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G09G1/14">
+        <TreeNode Title="G09G1/16 ###直角坐标的图形扩展到屏幕的全部区域，即电视型光栅[3]" Target="frmContent" Href="../searchservlet?query=G09G1/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G09G1/16"/>
+        <TreeNode Title="G09G1/18 ###仅包含单个字符的小的局部图形，步进至下一个字符的位置，例如直角坐标或极坐标，或编成星形的[3]" Target="frmContent" Href="../searchservlet?query=G09G1/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G09G1/18"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="G09G1/20 #应用多射线束管(G09G 1/26、G09G 1/28优先)[3]" Target="frmContent" Href="../searchservlet?query=G09G1/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G09G1/20"/>
+    <TreeNode Title="G09G1/22 #应用能从许多字符中选择完整字符的管子[3]" Target="frmContent" Href="../searchservlet?query=G09G1/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G09G1/22"/>
+    <TreeNode Title="G09G1/24 #应用能够选择单个成分以组合成字符的管子[3]" Target="frmContent" Href="../searchservlet?query=G09G1/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G09G1/24"/>
+    <TreeNode Title="G09G1/26 #应用存储管[3]" Target="frmContent" Href="../searchservlet?query=G09G1/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G09G1/26"/>
+    <TreeNode Title="G09G1/28 #应用彩色管[3]" Target="frmContent" Href="../searchservlet?query=G09G1/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G09G1/28"/>
+  </TreeNode>
+  <TreeNode Title="G09G3/00 仅考虑与除阴极射线管以外的目视指示器连接的控制装置和电路(一般光学扫描入G02B 26/10)[3]" Target="frmContent" Href="../searchservlet?query=G09G3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G09G3/00">
+    <TreeNode Title="G09G3/02 #采用在屏幕上跟踪或扫描光束的[3]" Target="frmContent" Href="../searchservlet?query=G09G3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G09G3/02"/>
+    <TreeNode Title="G09G3/04 #用于从许多字符中选取单个字符或用个别的元件组合构成字符来显示单个字符，例如分段[3]" Target="frmContent" Href="../searchservlet?query=G09G3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G09G3/04">
+      <TreeNode Title="G09G3/06 ##采用受控光源[3]" Target="frmContent" Href="../searchservlet?query=G09G3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G09G3/06">
+        <TreeNode Title="G09G3/08 ###采用白炽灯丝[3]" Target="frmContent" Href="../searchservlet?query=G09G3/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G09G3/08"/>
+        <TreeNode Title="G09G3/10 ###采用气体管[3]" Target="frmContent" Href="../searchservlet?query=G09G3/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G09G3/10"/>
+        <TreeNode Title="G09G3/12 ###采用电发光元件(应用有荧光屏的阴极射线管入G09G 1/00)[3]" Target="frmContent" Href="../searchservlet?query=G09G3/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G09G3/12">
+          <TreeNode Title="G09G3/14 ####半导体器件，例如二极管[3]" Target="frmContent" Href="../searchservlet?query=G09G3/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G09G3/14"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="G09G3/16 ##采用控制独立光源的发光[3]" Target="frmContent" Href="../searchservlet?query=G09G3/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G09G3/16">
+        <TreeNode Title="G09G3/18 ###采用液晶[3]" Target="frmContent" Href="../searchservlet?query=G09G3/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G09G3/18"/>
+        <TreeNode Title="G09G3/19 ###采用电致变色装置[5]" Target="frmContent" Href="../searchservlet?query=G09G3/19&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G09G3/19"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="G09G3/20 #用于显示许多字符的组合，例如用排列成矩阵的单个元件组成系统构成的页面[3]" Target="frmContent" Href="../searchservlet?query=G09G3/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G09G3/20">
+      <TreeNode Title="G09G3/22 ##采用受控制光源[3]" Target="frmContent" Href="../searchservlet?query=G09G3/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G09G3/22">
+        <TreeNode Title="G09G3/24 ###采用白炽灯丝[3]" Target="frmContent" Href="../searchservlet?query=G09G3/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G09G3/24">
+          <TreeNode Title="G09G3/26 ####给出移动标志的状态[3]" Target="frmContent" Href="../searchservlet?query=G09G3/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G09G3/26"/>
+        </TreeNode>
+        <TreeNode Title="G09G3/28 ###采用发光的气体放电面板，例如等离子体[3]" Target="frmContent" Href="../searchservlet?query=G09G3/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G09G3/28">
+          <TreeNode Title="G09G3/282 ####采用直流(DC)面板[7]" Target="frmContent" Href="../searchservlet?query=G09G3/282&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G09G3/282">
+            <TreeNode Title="G09G3/285 #####采用自扫描的[7]" Target="frmContent" Href="../searchservlet?query=G09G3/285&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G09G3/285"/>
+          </TreeNode>
+          <TreeNode Title="G09G3/288 ####采用交流(AC)面板[7]" Target="frmContent" Href="../searchservlet?query=G09G3/288&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G09G3/288">
+            <TreeNode Title="G09G3/29 #####采用自移位板[5]" Target="frmContent" Href="../searchservlet?query=G09G3/29&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G09G3/29"/>
+          </TreeNode>
+        </TreeNode>
+        <TreeNode Title="G09G3/30 ###采用电发光面板[3]" Target="frmContent" Href="../searchservlet?query=G09G3/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G09G3/30">
+          <TreeNode Title="G09G3/32 ####半导体的，例如二极管[3]" Target="frmContent" Href="../searchservlet?query=G09G3/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G09G3/32"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="G09G3/34 ##采用控制从独立光源的发光[3]" Target="frmContent" Href="../searchservlet?query=G09G3/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G09G3/34">
+        <TreeNode Title="G09G3/36 ###采用液晶[3]" Target="frmContent" Href="../searchservlet?query=G09G3/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G09G3/36"/>
+        <TreeNode Title="G09G3/38 ###采用电致变色装置[5]" Target="frmContent" Href="../searchservlet?query=G09G3/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G09G3/38"/>
+      </TreeNode>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="G09G5/00 阴极射线管指示器及其他目标指示器通用的目视指示器的控制装置或电路(一般图像数据的处理或产生入G06T)[5]" Target="frmContent" Href="../searchservlet?query=G09G5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G09G5/00">
+    <TreeNode Title="G09G5/02 #以显示色彩的方式为特征的[5]" Target="frmContent" Href="../searchservlet?query=G09G5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G09G5/02">
+      <TreeNode Title="G09G5/04 ##采用与彩色显示接口的电路[5]" Target="frmContent" Href="../searchservlet?query=G09G5/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G09G5/04"/>
+      <TreeNode Title="G09G5/06 ##采用彩色调色板，例如查阅表[5]" Target="frmContent" Href="../searchservlet?query=G09G5/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G09G5/06"/>
+    </TreeNode>
+    <TreeNode Title="G09G5/08 #光标电路[5]" Target="frmContent" Href="../searchservlet?query=G09G5/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G09G5/08"/>
+    <TreeNode Title="G09G5/10 #亮度电路[5]" Target="frmContent" Href="../searchservlet?query=G09G5/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G09G5/10"/>
+    <TreeNode Title="G09G5/12 #显示器与其他装置，例如其他显示器、影碟播放机的同步[5]" Target="frmContent" Href="../searchservlet?query=G09G5/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G09G5/12"/>
+    <TreeNode Title="G09G5/14 #多视见区的显示[5]" Target="frmContent" Href="../searchservlet?query=G09G5/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G09G5/14"/>
+    <TreeNode Title="G09G5/16 #以右至左语言的显示[5]" Target="frmContent" Href="../searchservlet?query=G09G5/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G09G5/16"/>
+    <TreeNode Title="G09G5/18 #光栅扫描显示的计时电路(专适于电视的入H04N)[5]" Target="frmContent" Href="../searchservlet?query=G09G5/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G09G5/18"/>
+    <TreeNode Title="G09G5/20 #功能发生器电路，例如圆发生器[5]" Target="frmContent" Href="../searchservlet?query=G09G5/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G09G5/20"/>
+    <TreeNode Title="G09G5/22 #以用字符代码存储器从代表字符或标记的编码信号得来的显示控制信号，来显示各字符或标记为特征的 (G09G 5/42优先)[5，7]" Target="frmContent" Href="../searchservlet?query=G09G5/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G09G5/22">
+      <TreeNode Title="G09G5/24 ##单个字符图形的产生[5]" Target="frmContent" Href="../searchservlet?query=G09G5/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G09G5/24">
+        <TreeNode Title="G09G5/26 ###用于改变字符尺寸的，例如倍宽、倍高[5]" Target="frmContent" Href="../searchservlet?query=G09G5/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G09G5/26"/>
+        <TreeNode Title="G09G5/28 ###用于增强字符形状的，例如使变平滑[5]" Target="frmContent" Href="../searchservlet?query=G09G5/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G09G5/28"/>
+      </TreeNode>
+      <TreeNode Title="G09G5/30 ##显示特性的控制[5]" Target="frmContent" Href="../searchservlet?query=G09G5/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G09G5/30"/>
+      <TreeNode Title="G09G5/32 ##有控制显示位置的装置[5]" Target="frmContent" Href="../searchservlet?query=G09G5/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G09G5/32"/>
+    </TreeNode>
+    <TreeNode Title="G09G5/34 #用于滚动或卷动的[5]" Target="frmContent" Href="../searchservlet?query=G09G5/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G09G5/34"/>
+    <TreeNode Title="G09G5/36 #以用位映像存储器显示各图形为特征的 (G09G 5/42优先)[5，7]" Target="frmContent" Href="../searchservlet?query=G09G5/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G09G5/36">
+      <TreeNode Title="G09G5/37 ##控制图形的细节(G09G 5/38优先)[7]" Target="frmContent" Href="../searchservlet?query=G09G5/37&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G09G5/37">
+        <TreeNode Title="G09G5/373 ###用于修改图形尺寸的[7]" Target="frmContent" Href="../searchservlet?query=G09G5/373&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G09G5/373"/>
+        <TreeNode Title="G09G5/377 ###用于混合或叠加两幅或多幅图形的(G09G 5/02，G09G 5/397优先)[7]" Target="frmContent" Href="../searchservlet?query=G09G5/377&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G09G5/377"/>
+      </TreeNode>
+      <TreeNode Title="G09G5/38 ##有控制显示位置的装置[5]" Target="frmContent" Href="../searchservlet?query=G09G5/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G09G5/38"/>
+      <TreeNode Title="G09G5/39 ##位映像存储器的控制[7]" Target="frmContent" Href="../searchservlet?query=G09G5/39&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G09G5/39">
+        <TreeNode Title="G09G5/391 ###分辨率修改电路，例如可变屏幕格式[7]" Target="frmContent" Href="../searchservlet?query=G09G5/391&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G09G5/391"/>
+        <TreeNode Title="G09G5/393 ###用于刷新位映像存储器的内容的装置[7]" Target="frmContent" Href="../searchservlet?query=G09G5/393&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G09G5/393"/>
+        <TreeNode Title="G09G5/395 ###特别适用于将位映像存储器的内容转换到屏幕的装置(G09G 5/399优先)[7]" Target="frmContent" Href="../searchservlet?query=G09G5/395&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G09G5/395">
+          <TreeNode Title="G09G5/397 ####特别适用于同时将两个或多个位映像存储器的内容转换到屏幕的装置，例如混合或叠加(G09G 5/02优先)[7]" Target="frmContent" Href="../searchservlet?query=G09G5/397&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G09G5/397"/>
+        </TreeNode>
+        <TreeNode Title="G09G5/399 ###使用两个或多个位映像存储器，其操作及时转换，例如乒乓缓冲器[7]" Target="frmContent" Href="../searchservlet?query=G09G5/399&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G09G5/399"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="G09G5/40 #以同时显示由字符代码确定的图形和其他图形或者选择显示上述两种图形中任一种图形的方式为特征的，例如用字符代码存储器和位映像存储器[5]" Target="frmContent" Href="../searchservlet?query=G09G5/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G09G5/40"/>
+    <TreeNode Title="G09G5/42 #以使用在显示存储器内容与屏幕上的显示位置之间没有固定位置对应的显示器显示图形为特征的[7]" Target="frmContent" Href="../searchservlet?query=G09G5/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G09G5/42"/>
+  </TreeNode>
+</Root>

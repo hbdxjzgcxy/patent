@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="C03B1/00 配合料的制备" Target="frmContent" Href="../searchservlet?query=C03B1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B1/00">
+    <TreeNode Title="C03B1/02 #压制玻璃配合料，例如粒化[5]" Target="frmContent" Href="../searchservlet?query=C03B1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B1/02"/>
+  </TreeNode>
+  <TreeNode Title="C03B3/00 熔窑的投料" Target="frmContent" Href="../searchservlet?query=C03B3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B3/00">
+    <TreeNode Title="C03B3/02 #和预热、预熔或预处理制造玻璃的组分、粒料或碎玻璃相结合[5]" Target="frmContent" Href="../searchservlet?query=C03B3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B3/02"/>
+  </TreeNode>
+  <TreeNode Title="C03B5/00 炉内熔化；玻璃制造专用的熔窑" Target="frmContent" Href="../searchservlet?query=C03B5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B5/00">
+    <TreeNode Title="C03B5/02 #在电炉" Target="frmContent" Href="../searchservlet?query=C03B5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B5/02">
+      <TreeNode Title="C03B5/027 ##在玻璃液中浸入的电极之间通过电流法，即采用直接电阻加热[3]" Target="frmContent" Href="../searchservlet?query=C03B5/027&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B5/027">
+        <TreeNode Title="C03B5/03 ###池窑[5]" Target="frmContent" Href="../searchservlet?query=C03B5/03&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B5/03"/>
+      </TreeNode>
+      <TreeNode Title="C03B5/033 ##在玻璃液上面或内部使用电阻加热器，即采用间接电阻加热[3]" Target="frmContent" Href="../searchservlet?query=C03B5/033&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B5/033"/>
+    </TreeNode>
+    <TreeNode Title="C03B5/04 #池窑" Target="frmContent" Href="../searchservlet?query=C03B5/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B5/04">
+      <TreeNode Title="C03B5/05 ##非连续工作的池窑，如日池窑[5]" Target="frmContent" Href="../searchservlet?query=C03B5/05&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B5/05"/>
+    </TreeNode>
+    <TreeNode Title="C03B5/06 #坩锅窑" Target="frmContent" Href="../searchservlet?query=C03B5/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B5/06">
+      <TreeNode Title="C03B5/08 ##玻璃熔料坩埚" Target="frmContent" Href="../searchservlet?query=C03B5/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B5/08"/>
+    </TreeNode>
+    <TreeNode Title="C03B5/10 #池窑和坩埚窑相结合的熔化装置" Target="frmContent" Href="../searchservlet?query=C03B5/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B5/10"/>
+    <TreeNode Title="C03B5/12 #竖窑" Target="frmContent" Href="../searchservlet?query=C03B5/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B5/12"/>
+    <TreeNode Title="C03B5/14 #圆筒型旋转炉" Target="frmContent" Href="../searchservlet?query=C03B5/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B5/14"/>
+    <TreeNode Title="C03B5/16 #熔化工艺特点；玻璃熔窑专用的辅助设备" Target="frmContent" Href="../searchservlet?query=C03B5/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B5/16">
+      <TreeNode Title="C03B5/167 ##防止例如熔融玻璃，热气体、配合料侵害设备的装置(C03B 5/20、C03B 5/42优先)[5]" Target="frmContent" Href="../searchservlet?query=C03B5/167&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B5/167"/>
+      <TreeNode Title="C03B5/173 ##用于在玻璃窑炉中改变熔融玻璃组成的设备，例如用于使熔融玻璃着色(化学成分入C03C)[5]" Target="frmContent" Href="../searchservlet?query=C03B5/173&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B5/173"/>
+      <TreeNode Title="C03B5/18 ##搅拌装置；均化" Target="frmContent" Href="../searchservlet?query=C03B5/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B5/18">
+        <TreeNode Title="C03B5/182 ###使熔融玻璃沿固定部件移动，如导向装置、窑坎、挡板[5]" Target="frmContent" Href="../searchservlet?query=C03B5/182&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B5/182"/>
+        <TreeNode Title="C03B5/183 ###利用热装置，如用于产生回流[5]" Target="frmContent" Href="../searchservlet?query=C03B5/183&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B5/183">
+          <TreeNode Title="C03B5/185 ####电装置[5]" Target="frmContent" Href="../searchservlet?query=C03B5/185&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B5/185"/>
+        </TreeNode>
+        <TreeNode Title="C03B5/187 ###用活动元件[3]" Target="frmContent" Href="../searchservlet?query=C03B5/187&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B5/187"/>
+        <TreeNode Title="C03B5/193 ###用气体，如鼓泡器[3]" Target="frmContent" Href="../searchservlet?query=C03B5/193&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B5/193"/>
+      </TreeNode>
+      <TreeNode Title="C03B5/20 ##阻挡残渣、泡沫或配合料的桥砖、马蹄砖、流液洞或其他装置" Target="frmContent" Href="../searchservlet?query=C03B5/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B5/20"/>
+      <TreeNode Title="C03B5/225 ##澄清(C03B 5/18优先)[3]" Target="frmContent" Href="../searchservlet?query=C03B5/225&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B5/225"/>
+      <TreeNode Title="C03B5/23 ##熔融玻璃的冷却(C03B 5/18、C03B 5/225优先)[3]" Target="frmContent" Href="../searchservlet?query=C03B5/23&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B5/23"/>
+      <TreeNode Title="C03B5/235 ##玻璃的加热(C03B 5/02、C03B 5/18、C03B 5/225优先)[3]" Target="frmContent" Href="../searchservlet?query=C03B5/235&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B5/235">
+        <TreeNode Title="C03B5/237 ###专门适用于玻璃熔炉的蓄热室或换热器[5]" Target="frmContent" Href="../searchservlet?query=C03B5/237&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B5/237"/>
+      </TreeNode>
+      <TreeNode Title="C03B5/24 ##熔化过程的自动调节" Target="frmContent" Href="../searchservlet?query=C03B5/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B5/24"/>
+      <TreeNode Title="C03B5/26 ##出口；溢流" Target="frmContent" Href="../searchservlet?query=C03B5/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B5/26"/>
+      <TreeNode Title="C03B5/28 ##虹吸" Target="frmContent" Href="../searchservlet?query=C03B5/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B5/28"/>
+      <TreeNode Title="C03B5/42 ##炉壁的建筑元件，如防腐；炉壁材料的使用[3]" Target="frmContent" Href="../searchservlet?query=C03B5/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B5/42">
+        <TreeNode Title="C03B5/425 ###防止腐蚀或侵蚀(C03B 5/44优先)[5]" Target="frmContent" Href="../searchservlet?query=C03B5/425&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B5/425"/>
+        <TreeNode Title="C03B5/43 ###炉壁材料的使用，例如耐火砖[5]" Target="frmContent" Href="../searchservlet?query=C03B5/43&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B5/43"/>
+        <TreeNode Title="C03B5/435 ###炉壁的加热装置[5]" Target="frmContent" Href="../searchservlet?query=C03B5/435&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B5/435"/>
+        <TreeNode Title="C03B5/44 ###炉壁的冷却装置[3]" Target="frmContent" Href="../searchservlet?query=C03B5/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B5/44"/>
+      </TreeNode>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="C03B7/00 熔融玻璃分配器；负责取出熔融玻璃料的工具；料滴的制造" Target="frmContent" Href="../searchservlet?query=C03B7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B7/00">
+    <TreeNode Title="C03B7/01 #熔融玻璃的出料装置[5]" Target="frmContent" Href="../searchservlet?query=C03B7/01&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B7/01"/>
+    <TreeNode Title="C03B7/02 #供料通路；即供料槽[3]" Target="frmContent" Href="../searchservlet?query=C03B7/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B7/02">
+      <TreeNode Title="C03B7/04 ##旋转供料通路[3]" Target="frmContent" Href="../searchservlet?query=C03B7/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B7/04"/>
+      <TreeNode Title="C03B7/06 ##热调节或控制玻璃温度的装置[3]" Target="frmContent" Href="../searchservlet?query=C03B7/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B7/06">
+        <TreeNode Title="C03B7/07 ###电装置[5]" Target="frmContent" Href="../searchservlet?query=C03B7/07&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B7/07"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="C03B7/08 #供料机嘴，如料滴供料机[3]" Target="frmContent" Href="../searchservlet?query=C03B7/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B7/08">
+      <TreeNode Title="C03B7/082 ##气动进料器[5]" Target="frmContent" Href="../searchservlet?query=C03B7/082&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B7/082"/>
+      <TreeNode Title="C03B7/084 ##旋转管供料机[5]" Target="frmContent" Href="../searchservlet?query=C03B7/084&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B7/084"/>
+      <TreeNode Title="C03B7/086 ##冲头式供料机[5]" Target="frmContent" Href="../searchservlet?query=C03B7/086&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B7/086"/>
+      <TreeNode Title="C03B7/088 ##出口，如料碗[5]" Target="frmContent" Href="../searchservlet?query=C03B7/088&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B7/088"/>
+      <TreeNode Title="C03B7/09 ##料盆[5]" Target="frmContent" Href="../searchservlet?query=C03B7/09&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B7/09"/>
+      <TreeNode Title="C03B7/092 ##搅拌装置；均化(C03B 5/18优先)[5]" Target="frmContent" Href="../searchservlet?query=C03B7/092&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B7/092"/>
+      <TreeNode Title="C03B7/094 ##用于加热、冷却或保温的装置[5]" Target="frmContent" Href="../searchservlet?query=C03B7/094&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B7/094">
+        <TreeNode Title="C03B7/096 ###用于加热的[5]" Target="frmContent" Href="../searchservlet?query=C03B7/096&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B7/096">
+          <TreeNode Title="C03B7/098 ####电的[5]" Target="frmContent" Href="../searchservlet?query=C03B7/098&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B7/098"/>
+        </TreeNode>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="C03B7/10 #借助于刀片或剪刀割断玻璃液流；所用刀片的结构[3]" Target="frmContent" Href="../searchservlet?query=C03B7/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B7/10">
+      <TreeNode Title="C03B7/11 ##刀片的结构[5]" Target="frmContent" Href="../searchservlet?query=C03B7/11&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B7/11"/>
+      <TreeNode Title="C03B7/12 ##割断自由悬挂的玻璃料股[3]" Target="frmContent" Href="../searchservlet?query=C03B7/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B7/12"/>
+    </TreeNode>
+    <TreeNode Title="C03B7/14 #向玻璃吹制机或压制机输送熔融玻璃或料滴(C03B 7/18至C03B 7/22优先)[3]" Target="frmContent" Href="../searchservlet?query=C03B7/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B7/14">
+      <TreeNode Title="C03B7/16 ##利用导料槽[3]" Target="frmContent" Href="../searchservlet?query=C03B7/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B7/16"/>
+    </TreeNode>
+    <TreeNode Title="C03B7/18 #真空吸料机[3]" Target="frmContent" Href="../searchservlet?query=C03B7/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B7/18"/>
+    <TreeNode Title="C03B7/20 #杓式供料机[3]" Target="frmContent" Href="../searchservlet?query=C03B7/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B7/20"/>
+    <TreeNode Title="C03B7/22 #杆式或管式收集装置[3]" Target="frmContent" Href="../searchservlet?query=C03B7/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B7/22"/>
+  </TreeNode>
+  <TreeNode Title="C03B8/00 用熔化工艺以外的其他工艺生产玻璃(C03B 37/014优先；一般细分散硅石制备入C01B 33/18)[4]" Target="frmContent" Href="../searchservlet?query=C03B8/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B8/00">
+    <TreeNode Title="C03B8/02 #用液相反应工艺[4]" Target="frmContent" Href="../searchservlet?query=C03B8/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B8/02"/>
+    <TreeNode Title="C03B8/04 #用气相反应工艺[4]" Target="frmContent" Href="../searchservlet?query=C03B8/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B8/04"/>
+  </TreeNode>
+  <TreeNode Title="C03B9/00 吹制玻璃；空心玻璃制品的生产" Target="frmContent" Href="../searchservlet?query=C03B9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B9/00">
+    <TreeNode Title="C03B9/02 #人工吹制；人工吹制所需的辅助设备" Target="frmContent" Href="../searchservlet?query=C03B9/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B9/02">
+      <TreeNode Title="C03B9/03 ##吹管[3]" Target="frmContent" Href="../searchservlet?query=C03B9/03&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B9/03"/>
+      <TreeNode Title="C03B9/04 ##具有高脚或突出物的空心玻璃制品的吹制" Target="frmContent" Href="../searchservlet?query=C03B9/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B9/04"/>
+      <TreeNode Title="C03B9/06 ##双壁空心玻璃制品的吹制，如真空盛器" Target="frmContent" Href="../searchservlet?query=C03B9/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B9/06"/>
+    </TreeNode>
+    <TreeNode Title="C03B9/08 #用压缩空气对人工吹制后的坯料进行终吹" Target="frmContent" Href="../searchservlet?query=C03B9/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B9/08"/>
+    <TreeNode Title="C03B9/10 #制板用的玻璃圆筒的吹制" Target="frmContent" Href="../searchservlet?query=C03B9/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B9/10"/>
+    <TreeNode Title="C03B9/12 #从玻璃带开始吹制；带式玻璃成型机" Target="frmContent" Href="../searchservlet?query=C03B9/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B9/12"/>
+    <TreeNode Title="C03B9/13 #采用料滴供料机(C03B 9/28、C03B 9/29优先)[3]" Target="frmContent" Href="../searchservlet?query=C03B9/13&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B9/13">
+      <TreeNode Title="C03B9/14 ##采用“吹制”机或“吹-吹”成型机(C03B 9/193、C03B 9/20优先)[3]" Target="frmContent" Href="../searchservlet?query=C03B9/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B9/14">
+        <TreeNode Title="C03B9/16 ###采用带翻转模具的成型机[3]" Target="frmContent" Href="../searchservlet?query=C03B9/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B9/16">
+          <TreeNode Title="C03B9/18 ####转台成型机[3]" Target="frmContent" Href="../searchservlet?query=C03B9/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B9/18">
+            <TreeNode Title="C03B9/19 #####仅有1个转台[3]" Target="frmContent" Href="../searchservlet?query=C03B9/19&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B9/19"/>
+          </TreeNode>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="C03B9/193 ##采用“压-吹”成型机[3]" Target="frmContent" Href="../searchservlet?query=C03B9/193&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B9/193">
+        <TreeNode Title="C03B9/195 ###转台成型机[3]" Target="frmContent" Href="../searchservlet?query=C03B9/195&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B9/195"/>
+        <TreeNode Title="C03B9/197 ###初模的结构[3]" Target="frmContent" Href="../searchservlet?query=C03B9/197&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B9/197"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="C03B9/20 #采用“真空吹制”或“真空吸料-吹制”成型机" Target="frmContent" Href="../searchservlet?query=C03B9/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B9/20">
+      <TreeNode Title="C03B9/22 ##转台成型机" Target="frmContent" Href="../searchservlet?query=C03B9/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B9/22"/>
+      <TreeNode Title="C03B9/24 ##初模的结构" Target="frmContent" Href="../searchservlet?query=C03B9/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B9/24"/>
+    </TreeNode>
+    <TreeNode Title="C03B9/28 #采用环链式成型机(C03B 9/12优先)[3]" Target="frmContent" Href="../searchservlet?query=C03B9/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B9/28"/>
+    <TreeNode Title="C03B9/29 #衬碳模成型机(C03B 9/28优先)[3]" Target="frmContent" Href="../searchservlet?query=C03B9/29&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B9/29">
+      <TreeNode Title="C03B9/295 ##转台成型机[5]" Target="frmContent" Href="../searchservlet?query=C03B9/295&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B9/295"/>
+    </TreeNode>
+    <TreeNode Title="C03B9/30 #吹制玻璃的各种部件(用于人工吹制入C03B 9/02)；模具所用的材料[3]" Target="frmContent" Href="../searchservlet?query=C03B9/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B9/30">
+      <TreeNode Title="C03B9/31 ##吹制夹层玻璃制品或带有封人物；如金属丝、气泡的玻璃[5]" Target="frmContent" Href="../searchservlet?query=C03B9/31&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B9/31"/>
+      <TreeNode Title="C03B9/32 ##使空心玻璃制品产生特殊形状的" Target="frmContent" Href="../searchservlet?query=C03B9/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B9/32">
+        <TreeNode Title="C03B9/325 ###在空心玻璃制品口处形成螺纹或唇口；颈模[3]" Target="frmContent" Href="../searchservlet?query=C03B9/325&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B9/325"/>
+        <TreeNode Title="C03B9/33 ###带脚或突出部分的空心玻璃制品的制造；及其模[3]" Target="frmContent" Href="../searchservlet?query=C03B9/33&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B9/33"/>
+        <TreeNode Title="C03B9/335 ###吹制空心制品底部的成形；底模[3]" Target="frmContent" Href="../searchservlet?query=C03B9/335&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B9/335"/>
+      </TreeNode>
+      <TreeNode Title="C03B9/34 ##其他方面没有提供的玻璃吹制模" Target="frmContent" Href="../searchservlet?query=C03B9/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B9/34">
+        <TreeNode Title="C03B9/347 ###初型模或成型模的结构[3]" Target="frmContent" Href="../searchservlet?query=C03B9/347&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B9/347"/>
+        <TreeNode Title="C03B9/353 ###模支架[3]" Target="frmContent" Href="../searchservlet?query=C03B9/353&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B9/353"/>
+      </TreeNode>
+      <TreeNode Title="C03B9/36 ##吹头；空气的供给、排除或控制" Target="frmContent" Href="../searchservlet?query=C03B9/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B9/36"/>
+      <TreeNode Title="C03B9/38 ##玻璃吹制机的冷却、加热或保温办法" Target="frmContent" Href="../searchservlet?query=C03B9/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B9/38"/>
+      <TreeNode Title="C03B9/40 ##玻璃吹制机专用的传动或控制机械" Target="frmContent" Href="../searchservlet?query=C03B9/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B9/40">
+        <TreeNode Title="C03B9/41 ###电的或电子系统(一般的入G05B 19/00)[5]" Target="frmContent" Href="../searchservlet?query=C03B9/41&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B9/41"/>
+      </TreeNode>
+      <TreeNode Title="C03B9/42 ##与玻璃吹制机相结合的熔化，热爆口或熔边设备(用熔化法结合玻璃块入C03B 23/20)" Target="frmContent" Href="../searchservlet?query=C03B9/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B9/42"/>
+      <TreeNode Title="C03B9/44 ##与玻璃吹制机相结合的制品卸取装置，如钳" Target="frmContent" Href="../searchservlet?query=C03B9/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B9/44">
+        <TreeNode Title="C03B9/447 ###从吹模取走玻璃制品的装置，如钳[5]" Target="frmContent" Href="../searchservlet?query=C03B9/447&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B9/447"/>
+        <TreeNode Title="C03B9/453 ###用于将刚形成的玻璃制品推入输送机的装置，如刮机；固定冷却板机[5]" Target="frmContent" Href="../searchservlet?query=C03B9/453&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B9/453"/>
+      </TreeNode>
+      <TreeNode Title="C03B9/46 ##玻璃吹制机中的热玻璃切割装置(热爆口入C03B 9/42)" Target="frmContent" Href="../searchservlet?query=C03B9/46&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B9/46"/>
+      <TreeNode Title="C03B9/48 ##制模材料的使用[3]" Target="frmContent" Href="../searchservlet?query=C03B9/48&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B9/48"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="C03B11/00 玻璃的压制" Target="frmContent" Href="../searchservlet?query=C03B11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B11/00">
+    <TreeNode Title="C03B11/02 #使用装有转台的玻璃压制机" Target="frmContent" Href="../searchservlet?query=C03B11/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B11/02"/>
+    <TreeNode Title="C03B11/04 #使用带有吸料法装料模的压制机" Target="frmContent" Href="../searchservlet?query=C03B11/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B11/04"/>
+    <TreeNode Title="C03B11/05 #使用带有往复运动模的压制机[3]" Target="frmContent" Href="../searchservlet?query=C03B11/05&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B11/05"/>
+    <TreeNode Title="C03B11/06 #冲头或模的构造" Target="frmContent" Href="../searchservlet?query=C03B11/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B11/06">
+      <TreeNode Title="C03B11/07 ##真空吸料模[3]" Target="frmContent" Href="../searchservlet?query=C03B11/07&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B11/07"/>
+      <TreeNode Title="C03B11/08 ##用于制造实心玻璃制品的，如透镜片" Target="frmContent" Href="../searchservlet?query=C03B11/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B11/08"/>
+      <TreeNode Title="C03B11/10 ##用于制造空心玻璃制品的" Target="frmContent" Href="../searchservlet?query=C03B11/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B11/10"/>
+    </TreeNode>
+    <TreeNode Title="C03B11/12 #冲头、模具或玻璃压制机的冷却、加热或保温(C03B 9/38优先)[3]" Target="frmContent" Href="../searchservlet?query=C03B11/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B11/12"/>
+    <TreeNode Title="C03B11/14 #装有金属嵌入体" Target="frmContent" Href="../searchservlet?query=C03B11/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B11/14"/>
+    <TreeNode Title="C03B11/16 #玻璃压制机专用的传动或控制机械" Target="frmContent" Href="../searchservlet?query=C03B11/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B11/16"/>
+  </TreeNode>
+  <TreeNode Title="C03B13/00 玻璃的压延" Target="frmContent" Href="../searchservlet?query=C03B13/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B13/00">
+    <TreeNode Title="C03B13/01 #滚压成型玻璃制品[5]" Target="frmContent" Href="../searchservlet?query=C03B13/01&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B13/01"/>
+    <TreeNode Title="C03B13/02 #不带花的板玻璃的非连续压延" Target="frmContent" Href="../searchservlet?query=C03B13/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B13/02"/>
+    <TreeNode Title="C03B13/04 #不带花的板玻璃的连续压延" Target="frmContent" Href="../searchservlet?query=C03B13/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B13/04"/>
+    <TreeNode Title="C03B13/06 #波形板玻璃的压延" Target="frmContent" Href="../searchservlet?query=C03B13/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B13/06"/>
+    <TreeNode Title="C03B13/08 #带花板玻璃的压延" Target="frmContent" Href="../searchservlet?query=C03B13/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B13/08"/>
+    <TreeNode Title="C03B13/10 #多层板玻璃的压延" Target="frmContent" Href="../searchservlet?query=C03B13/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B13/10"/>
+    <TreeNode Title="C03B13/12 #带有封入物(如平金属丝或夹石棉)的玻璃的压延" Target="frmContent" Href="../searchservlet?query=C03B13/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B13/12"/>
+    <TreeNode Title="C03B13/14 #其他玻璃制品的压延" Target="frmContent" Href="../searchservlet?query=C03B13/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B13/14"/>
+    <TreeNode Title="C03B13/16 #玻璃压辊的构造" Target="frmContent" Href="../searchservlet?query=C03B13/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B13/16"/>
+    <TreeNode Title="C03B13/18 #压延玻璃用的辅助工具，如支承板、夹具、手工取料勺、玻璃坩埚移动工具" Target="frmContent" Href="../searchservlet?query=C03B13/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B13/18"/>
+  </TreeNode>
+  <TreeNode Title="C03B15/00 玻璃液的垂直拉引" Target="frmContent" Href="../searchservlet?query=C03B15/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B15/00">
+    <TreeNode Title="C03B15/02 #板玻璃的拉引" Target="frmContent" Href="../searchservlet?query=C03B15/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B15/02">
+      <TreeNode Title="C03B15/04 ##由玻璃液自由表面" Target="frmContent" Href="../searchservlet?query=C03B15/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B15/04"/>
+      <TreeNode Title="C03B15/06 ##从槽子砖中" Target="frmContent" Href="../searchservlet?query=C03B15/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B15/06"/>
+      <TreeNode Title="C03B15/08 ##用玻璃液下面的引砖" Target="frmContent" Href="../searchservlet?query=C03B15/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B15/08"/>
+      <TreeNode Title="C03B15/10 ##多层板玻璃或涂覆彩色层的板玻璃" Target="frmContent" Href="../searchservlet?query=C03B15/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B15/10"/>
+      <TreeNode Title="C03B15/12 ##退火机膛的结构" Target="frmContent" Href="../searchservlet?query=C03B15/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B15/12"/>
+    </TreeNode>
+    <TreeNode Title="C03B15/14 #从玻璃液拉引管、圆柱或棒" Target="frmContent" Href="../searchservlet?query=C03B15/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B15/14">
+      <TreeNode Title="C03B15/16 ##涂彩色层的管、圆柱或棒玻璃的拉引" Target="frmContent" Href="../searchservlet?query=C03B15/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B15/16"/>
+    </TreeNode>
+    <TreeNode Title="C03B15/18 #与板、管或棒玻璃拉引相连的置放、运送装置" Target="frmContent" Href="../searchservlet?query=C03B15/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B15/18"/>
+  </TreeNode>
+  <TreeNode Title="C03B17/00 采用流出、推出或从成型狭道下拉或横拉或溢流口溢流法的玻璃成型" Target="frmContent" Href="../searchservlet?query=C03B17/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B17/00">
+    <TreeNode Title="C03B17/02 #涂覆彩色层的玻璃的成型" Target="frmContent" Href="../searchservlet?query=C03B17/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B17/02"/>
+    <TreeNode Title="C03B17/04 #由固定或旋转的工具或成型喷嘴拉引玻璃管或棒" Target="frmContent" Href="../searchservlet?query=C03B17/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B17/04"/>
+    <TreeNode Title="C03B17/06 #玻璃板的成型[3]" Target="frmContent" Href="../searchservlet?query=C03B17/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B17/06"/>
+  </TreeNode>
+  <TreeNode Title="C03B18/00 浮法玻璃的成形" Target="frmContent" Href="../searchservlet?query=C03B18/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B18/00">
+    <TreeNode Title="C03B18/02 #板玻璃的成型" Target="frmContent" Href="../searchservlet?query=C03B18/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B18/02">
+      <TreeNode Title="C03B18/04 ##熔融玻璃带尺寸的改变或调节[3]" Target="frmContent" Href="../searchservlet?query=C03B18/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B18/04">
+        <TreeNode Title="C03B18/06 ###使用机械方法，如闸杆，辊式拉边器[3]" Target="frmContent" Href="../searchservlet?query=C03B18/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B18/06"/>
+        <TreeNode Title="C03B18/08 ###使用气体[3]" Target="frmContent" Href="../searchservlet?query=C03B18/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B18/08"/>
+        <TreeNode Title="C03B18/10 ###使用电装置[3]" Target="frmContent" Href="../searchservlet?query=C03B18/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B18/10"/>
+      </TreeNode>
+      <TreeNode Title="C03B18/12 ##多层的，着色的或装甲玻璃的制造(化学方面入C03C)[3]" Target="frmContent" Href="../searchservlet?query=C03B18/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B18/12"/>
+      <TreeNode Title="C03B18/14 ##改变玻璃带的表面，如粗糙性(用化学方法入C03C)[3]" Target="frmContent" Href="../searchservlet?query=C03B18/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B18/14"/>
+      <TreeNode Title="C03B18/16 ##浮抛窑的结构；浮抛窑使用的材料；池壁的涂层或保护[3]" Target="frmContent" Href="../searchservlet?query=C03B18/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B18/16"/>
+      <TreeNode Title="C03B18/18 ##浮抛槽温度的控制或调节；浮抛槽的构成或净化[3]" Target="frmContent" Href="../searchservlet?query=C03B18/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B18/18"/>
+      <TreeNode Title="C03B18/20 ##浮抛槽上气氛的组成；槽上气氛的处理或提纯[3]" Target="frmContent" Href="../searchservlet?query=C03B18/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B18/20">
+        <TreeNode Title="C03B18/22 ###浮抛窑上气氛温度的控制或调节[3]" Target="frmContent" Href="../searchservlet?query=C03B18/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B18/22"/>
+      </TreeNode>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="C03B19/00 玻璃成型的其他方法(由软化的玻璃、矿物或矿渣制造或处理絮片，纤维或细丝入C03B 37/00)" Target="frmContent" Href="../searchservlet?query=C03B19/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B19/00">
+    <TreeNode Title="C03B19/01 #通过使玻璃粉末逐渐地熔在成型基板上，例如增长法[5]" Target="frmContent" Href="../searchservlet?query=C03B19/01&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B19/01"/>
+    <TreeNode Title="C03B19/02 #浇注法" Target="frmContent" Href="../searchservlet?query=C03B19/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B19/02"/>
+    <TreeNode Title="C03B19/04 #离心法" Target="frmContent" Href="../searchservlet?query=C03B19/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B19/04"/>
+    <TreeNode Title="C03B19/06 #烧结法(石英或熔凝硅石制品的生产入C03B 20/00)[2]" Target="frmContent" Href="../searchservlet?query=C03B19/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B19/06"/>
+    <TreeNode Title="C03B19/08 #发泡法" Target="frmContent" Href="../searchservlet?query=C03B19/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B19/08"/>
+    <TreeNode Title="C03B19/09 #在成型模中熔融粉末状玻璃[3]" Target="frmContent" Href="../searchservlet?query=C03B19/09&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B19/09"/>
+    <TreeNode Title="C03B19/10 #玻璃珠的成形" Target="frmContent" Href="../searchservlet?query=C03B19/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B19/10"/>
+    <TreeNode Title="C03B19/12 #用液相反应法[5]" Target="frmContent" Href="../searchservlet?query=C03B19/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B19/12"/>
+    <TreeNode Title="C03B19/14 #用气相反应法[5]" Target="frmContent" Href="../searchservlet?query=C03B19/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B19/14"/>
+  </TreeNode>
+  <TreeNode Title="C03B20/00 生产石英或熔凝硅石制品的专用方法[3]C03B 21/00塑性状态下的玻璃板、管或棒的切割" Target="frmContent" Href="../searchservlet?query=C03B20/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B20/00">
+    <TreeNode Title="C03B21/02 #切割法(C03B 9/46优先)" Target="frmContent" Href="../searchservlet?query=C03B21/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B21/02"/>
+    <TreeNode Title="C03B21/04 #穿孔法" Target="frmContent" Href="../searchservlet?query=C03B21/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B21/04"/>
+    <TreeNode Title="C03B21/06 #火刺，热爆口或熔化(C03B 9/42优先)[3]" Target="frmContent" Href="../searchservlet?query=C03B21/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B21/06"/>
+  </TreeNode>
+  <TreeNode Title="C03B23/00 初型玻璃的再成型(纤维或细丝的再成形入C03B 37/14)" Target="frmContent" Href="../searchservlet?query=C03B23/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B23/00">
+    <TreeNode Title="C03B23/02 #玻璃板的再成型" Target="frmContent" Href="../searchservlet?query=C03B23/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B23/02">
+      <TreeNode Title="C03B23/023 ##热弯法[3]" Target="frmContent" Href="../searchservlet?query=C03B23/023&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B23/023">
+        <TreeNode Title="C03B23/025 ###重力法[3]" Target="frmContent" Href="../searchservlet?query=C03B23/025&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B23/025">
+          <TreeNode Title="C03B23/027 ####用至少具有两个可绕枢轴转动的竖式半型的模[3]" Target="frmContent" Href="../searchservlet?query=C03B23/027&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B23/027"/>
+        </TreeNode>
+        <TreeNode Title="C03B23/03 ###在成型模之间压弯法[3]" Target="frmContent" Href="../searchservlet?query=C03B23/03&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B23/03">
+          <TreeNode Title="C03B23/031 ####玻璃板在垂直位置(C03B 23/033优先)[5]" Target="frmContent" Href="../searchservlet?query=C03B23/031&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B23/031"/>
+          <TreeNode Title="C03B23/033 ####连续方法，如滚压成型[3]" Target="frmContent" Href="../searchservlet?query=C03B23/033&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B23/033"/>
+        </TreeNode>
+        <TreeNode Title="C03B23/035 ###利用气垫或改变气压法，如真空法[3]" Target="frmContent" Href="../searchservlet?query=C03B23/035&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B23/035"/>
+      </TreeNode>
+      <TreeNode Title="C03B23/037 ##拉制法[3]" Target="frmContent" Href="../searchservlet?query=C03B23/037&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B23/037"/>
+    </TreeNode>
+    <TreeNode Title="C03B23/04 #管或棒的再成型" Target="frmContent" Href="../searchservlet?query=C03B23/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B23/04">
+      <TreeNode Title="C03B23/043 ##专门适用于使一般管或棒再成型的加热装置，例如燃烧器[5]" Target="frmContent" Href="../searchservlet?query=C03B23/043&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B23/043"/>
+      <TreeNode Title="C03B23/045 ##专门适用于使一般管或棒再成型的工具或设备，如玻璃车床、夹具(C03B 23/043优先)[5]" Target="frmContent" Href="../searchservlet?query=C03B23/045&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B23/045"/>
+      <TreeNode Title="C03B23/047 ##拉制法(C03B 37/025优先)[5]" Target="frmContent" Href="../searchservlet?query=C03B23/047&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B23/047"/>
+      <TreeNode Title="C03B23/049 ##压制法(C03B 21/04、C03B 23/26优先)[5]" Target="frmContent" Href="../searchservlet?query=C03B23/049&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B23/049"/>
+      <TreeNode Title="C03B23/051 ##重力法，如下垂[5]" Target="frmContent" Href="../searchservlet?query=C03B23/051&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B23/051"/>
+      <TreeNode Title="C03B23/053 ##离心法(C03B 37/04优先)[5]" Target="frmContent" Href="../searchservlet?query=C03B23/053&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B23/053"/>
+      <TreeNode Title="C03B23/055 ##滚压法[5]" Target="frmContent" Href="../searchservlet?query=C03B23/055&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B23/055"/>
+      <TreeNode Title="C03B23/057 ##熔化法，如用于火焰封接(C03B 9/42、C03B 21/06、C03B 33/08优先)[5]" Target="frmContent" Href="../searchservlet?query=C03B23/057&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B23/057"/>
+      <TreeNode Title="C03B23/06 ##热弯法" Target="frmContent" Href="../searchservlet?query=C03B23/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B23/06"/>
+      <TreeNode Title="C03B23/07 ##吹制法，如电灯泡的制造[3]" Target="frmContent" Href="../searchservlet?query=C03B23/07&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B23/07"/>
+      <TreeNode Title="C03B23/08 ##达到要求的准确尺寸，如校准" Target="frmContent" Href="../searchservlet?query=C03B23/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B23/08"/>
+      <TreeNode Title="C03B23/09 ##末端的再成型，如槽、螺纹或口[3]" Target="frmContent" Href="../searchservlet?query=C03B23/09&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B23/09"/>
+      <TreeNode Title="C03B23/11 ##吹制以外的，和切割相结合的拉制法再成型，如用于安瓿制造的[3]" Target="frmContent" Href="../searchservlet?query=C03B23/11&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B23/11"/>
+      <TreeNode Title="C03B23/13 ##与接合或热封接相结合的再成型，如保温瓶的制造[3]" Target="frmContent" Href="../searchservlet?query=C03B23/13&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B23/13"/>
+    </TreeNode>
+    <TreeNode Title="C03B23/18 #安瓿的再成型和封口" Target="frmContent" Href="../searchservlet?query=C03B23/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B23/18"/>
+    <TreeNode Title="C03B23/20 #实质上无再成型的玻璃件的熔融结合" Target="frmContent" Href="../searchservlet?query=C03B23/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B23/20">
+      <TreeNode Title="C03B23/203 ##玻璃板的接合(C03B 23/24优先)[3]" Target="frmContent" Href="../searchservlet?query=C03B23/203&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B23/203"/>
+      <TreeNode Title="C03B23/207 ##玻璃棒、玻璃管或空心玻璃制品的接合(C03B 23/24优先)[3]" Target="frmContent" Href="../searchservlet?query=C03B23/207&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B23/207">
+        <TreeNode Title="C03B23/213 ###突出部分或脚的接合[3]" Target="frmContent" Href="../searchservlet?query=C03B23/213&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B23/213"/>
+        <TreeNode Title="C03B23/217 ###用于阴极射线管或相似型管的生产[3]" Target="frmContent" Href="../searchservlet?query=C03B23/217&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B23/217"/>
+      </TreeNode>
+      <TreeNode Title="C03B23/22 ##镜片的接合，如形成双焦镜片" Target="frmContent" Href="../searchservlet?query=C03B23/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B23/22"/>
+      <TreeNode Title="C03B23/24 ##空心玻璃板或玻璃砖的制造" Target="frmContent" Href="../searchservlet?query=C03B23/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B23/24"/>
+    </TreeNode>
+    <TreeNode Title="C03B23/26 #再加热玻璃的冲压" Target="frmContent" Href="../searchservlet?query=C03B23/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B23/26"/>
+  </TreeNode>
+  <TreeNode Title="C03B25/00 玻璃制品的退火(纤维的后处理入C03B 37/10)" Target="frmContent" Href="../searchservlet?query=C03B25/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B25/00">
+    <TreeNode Title="C03B25/02 #间歇式退火" Target="frmContent" Href="../searchservlet?query=C03B25/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B25/02"/>
+    <TreeNode Title="C03B25/04 #连续式退火" Target="frmContent" Href="../searchservlet?query=C03B25/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B25/04">
+      <TreeNode Title="C03B25/06 ##用玻璃制品的水平位移[3]" Target="frmContent" Href="../searchservlet?query=C03B25/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B25/06">
+        <TreeNode Title="C03B25/08 ###玻璃板的[3]" Target="frmContent" Href="../searchservlet?query=C03B25/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B25/08">
+          <TreeNode Title="C03B25/087 ####在垂直位置[5]" Target="frmContent" Href="../searchservlet?query=C03B25/087&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B25/087"/>
+          <TreeNode Title="C03B25/093 ####在一流体，如气体或熔融金属支承物上沿水平位置[5]" Target="frmContent" Href="../searchservlet?query=C03B25/093&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B25/093"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="C03B25/10 ##用玻璃制品的竖向位移[3]" Target="frmContent" Href="../searchservlet?query=C03B25/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B25/10">
+        <TreeNode Title="C03B25/12 ###玻璃板的[3]" Target="frmContent" Href="../searchservlet?query=C03B25/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B25/12"/>
+      </TreeNode>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="C03B27/00 玻璃制品的钢化(纤维的后处理入C03B 37/10)" Target="frmContent" Href="../searchservlet?query=C03B27/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B27/00">
+    <TreeNode Title="C03B27/004 #通过使热玻璃制品与固体冷却表面，如砂粒相接触[5]" Target="frmContent" Href="../searchservlet?query=C03B27/004&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B27/004"/>
+    <TreeNode Title="C03B27/008 #通过利用固体颗粒的升华热[5]" Target="frmContent" Href="../searchservlet?query=C03B27/008&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B27/008"/>
+    <TreeNode Title="C03B27/012 #通过热处理，例如使结晶化；在冷却淬火之前玻璃制品的热处理(C03B 27/008、C03B 27/016优先)[5]" Target="frmContent" Href="../searchservlet?query=C03B27/012&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B27/012"/>
+    <TreeNode Title="C03B27/016 #通过吸收由玻璃制品辐射的热[5]" Target="frmContent" Href="../searchservlet?query=C03B27/016&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B27/016"/>
+    <TreeNode Title="C03B27/02 #利用液体[3，5]" Target="frmContent" Href="../searchservlet?query=C03B27/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B27/02">
+      <TreeNode Title="C03B27/03 ##该液体是熔融金属或熔融盐[5]" Target="frmContent" Href="../searchservlet?query=C03B27/03&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B27/03"/>
+    </TreeNode>
+    <TreeNode Title="C03B27/04 #利用气体[3]" Target="frmContent" Href="../searchservlet?query=C03B27/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B27/04">
+      <TreeNode Title="C03B27/044 ##对处于水平位置的平面或弯曲玻璃板[5]" Target="frmContent" Href="../searchservlet?query=C03B27/044&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B27/044">
+        <TreeNode Title="C03B27/048 ###在一气垫上[5]" Target="frmContent" Href="../searchservlet?query=C03B27/048&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B27/048"/>
+      </TreeNode>
+      <TreeNode Title="C03B27/052 ##对处于垂直位置的平面或弯曲玻璃板[5]" Target="frmContent" Href="../searchservlet?query=C03B27/052&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B27/052">
+        <TreeNode Title="C03B27/056 ###支承在低边上[5]" Target="frmContent" Href="../searchservlet?query=C03B27/056&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B27/056"/>
+      </TreeNode>
+      <TreeNode Title="C03B27/06 ##除平面或弯曲的玻璃板之外玻璃制品的钢化，如空心玻璃器皿、透镜[3]" Target="frmContent" Href="../searchservlet?query=C03B27/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B27/06"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="C03B29/00 使玻璃制品表面软化或熔融的再加热；火焰抛光；边熔(纤维的后处理入C03B 37/10)" Target="frmContent" Href="../searchservlet?query=C03B29/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B29/00">
+    <TreeNode Title="C03B29/02 #间歇式的" Target="frmContent" Href="../searchservlet?query=C03B29/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B29/02"/>
+    <TreeNode Title="C03B29/04 #连续式的" Target="frmContent" Href="../searchservlet?query=C03B29/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B29/04">
+      <TreeNode Title="C03B29/06 ##玻璃制品水平位移[5]" Target="frmContent" Href="../searchservlet?query=C03B29/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B29/06">
+        <TreeNode Title="C03B29/08 ###玻璃板[5]" Target="frmContent" Href="../searchservlet?query=C03B29/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B29/08">
+          <TreeNode Title="C03B29/10 ####在垂直位置[5]" Target="frmContent" Href="../searchservlet?query=C03B29/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B29/10"/>
+          <TreeNode Title="C03B29/12 ####沿流体如气体或熔融金属支承物上的水平位置[5]" Target="frmContent" Href="../searchservlet?query=C03B29/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B29/12"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="C03B29/14 ##制品的垂直位移[5]" Target="frmContent" Href="../searchservlet?query=C03B29/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B29/14">
+        <TreeNode Title="C03B29/16 ###玻璃板[5]" Target="frmContent" Href="../searchservlet?query=C03B29/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B29/16"/>
+      </TreeNode>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="C03B31/00 波纹或碎纹玻璃的制造" Target="frmContent" Href="../searchservlet?query=C03B31/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B31/00"/>
+  <TreeNode Title="C03B32/00 不包括在C03B 25/00至C03B 31/00组的玻璃产品热加工后处理，如结晶化、消除所含气体或其他杂质(纤维的后处理入C03B 37/10)[2]" Target="frmContent" Href="../searchservlet?query=C03B32/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B32/00">
+    <TreeNode Title="C03B32/02 #热晶化，如使玻璃体结晶形成微晶玻璃制品[5]" Target="frmContent" Href="../searchservlet?query=C03B32/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B32/02"/>
+  </TreeNode>
+  <TreeNode Title="C03B33/00 冷玻璃的裁割(玻璃纤维的裁割入C03B 37/16)" Target="frmContent" Href="../searchservlet?query=C03B33/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B33/00">
+    <TreeNode Title="C03B33/02 #板玻璃的切割或分割；所用设备或机器(C03B 33/09优先；玻璃切割工具入C03B 33/10)[3]" Target="frmContent" Href="../searchservlet?query=C03B33/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B33/02">
+      <TreeNode Title="C03B33/023 ##板处于水平位置[5]" Target="frmContent" Href="../searchservlet?query=C03B33/023&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B33/023">
+        <TreeNode Title="C03B33/027 ###画线工具的夹具；及其驱动机械[5]" Target="frmContent" Href="../searchservlet?query=C03B33/027&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B33/027"/>
+        <TreeNode Title="C03B33/03 ###玻璃切割台；用来在切割或裁切操作中传送或装卸板的装置[5]" Target="frmContent" Href="../searchservlet?query=C03B33/03&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B33/03"/>
+        <TreeNode Title="C03B33/033 ###用来在玻璃板上扩大画线的设备[5]" Target="frmContent" Href="../searchservlet?query=C03B33/033&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B33/033"/>
+        <TreeNode Title="C03B33/037 ###控制或调节[5]" Target="frmContent" Href="../searchservlet?query=C03B33/037&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B33/037"/>
+      </TreeNode>
+      <TreeNode Title="C03B33/04 ##玻璃的曲线切割或分割，特别用于镜片的制造" Target="frmContent" Href="../searchservlet?query=C03B33/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B33/04"/>
+    </TreeNode>
+    <TreeNode Title="C03B33/06 #玻璃管、棒或空心制品的切割或分割(C03B 33/09优先)[3]" Target="frmContent" Href="../searchservlet?query=C03B33/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B33/06"/>
+    <TreeNode Title="C03B33/07 #装甲玻璃或夹层玻璃制品的切割[3]" Target="frmContent" Href="../searchservlet?query=C03B33/07&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B33/07"/>
+    <TreeNode Title="C03B33/08 #熔化法" Target="frmContent" Href="../searchservlet?query=C03B33/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B33/08">
+      <TreeNode Title="C03B33/085 ##管、棒或空心制品[5]" Target="frmContent" Href="../searchservlet?query=C03B33/085&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B33/085"/>
+    </TreeNode>
+    <TreeNode Title="C03B33/09 #热冲击法[3]" Target="frmContent" Href="../searchservlet?query=C03B33/09&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B33/09">
+      <TreeNode Title="C03B33/095 ##管、棒或空心制品[5]" Target="frmContent" Href="../searchservlet?query=C03B33/095&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B33/095"/>
+    </TreeNode>
+    <TreeNode Title="C03B33/10 #玻璃切割工具，如画线工具" Target="frmContent" Href="../searchservlet?query=C03B33/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B33/10">
+      <TreeNode Title="C03B33/12 ##手工工具[3]" Target="frmContent" Href="../searchservlet?query=C03B33/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B33/12">
+        <TreeNode Title="C03B33/14 ###专门适用于切割管、棒或空心制品[5]" Target="frmContent" Href="../searchservlet?query=C03B33/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B33/14"/>
+      </TreeNode>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="C03B35/00 玻璃制品在制造过程中的运输(易碎板，如玻璃的运输系统入B65G 49/06)[2]" Target="frmContent" Href="../searchservlet?query=C03B35/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B35/00">
+    <TreeNode Title="C03B35/04 #热空心玻璃制品的运输(C03B 35/26优先)[3]" Target="frmContent" Href="../searchservlet?query=C03B35/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B35/04">
+      <TreeNode Title="C03B35/06 ##热空心玻璃制品往退火窑或热窑内的送入[3]" Target="frmContent" Href="../searchservlet?query=C03B35/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B35/06">
+        <TreeNode Title="C03B35/08 ###使用直接作用在制品上的旋转装置[3]" Target="frmContent" Href="../searchservlet?query=C03B35/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B35/08"/>
+        <TreeNode Title="C03B35/10 ###使用直接作用在制品上的往复运动装置，如推动器、送料器[3]" Target="frmContent" Href="../searchservlet?query=C03B35/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B35/10"/>
+        <TreeNode Title="C03B35/12 ###采用托起或沉降法[3]" Target="frmContent" Href="../searchservlet?query=C03B35/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B35/12"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="C03B35/14 #热玻璃板的运输[3]" Target="frmContent" Href="../searchservlet?query=C03B35/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B35/14">
+      <TreeNode Title="C03B35/16 ##使用辊式运输机[3]" Target="frmContent" Href="../searchservlet?query=C03B35/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B35/16">
+        <TreeNode Title="C03B35/18 ###运输机辊的结构[3]" Target="frmContent" Href="../searchservlet?query=C03B35/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B35/18"/>
+      </TreeNode>
+      <TreeNode Title="C03B35/20 ##使用两用钳或支架[3]" Target="frmContent" Href="../searchservlet?query=C03B35/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B35/20"/>
+      <TreeNode Title="C03B35/22 ##在流体支承床上，如金属液上面[3]" Target="frmContent" Href="../searchservlet?query=C03B35/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B35/22">
+        <TreeNode Title="C03B35/24 ###在气体支承床上[3]" Target="frmContent" Href="../searchservlet?query=C03B35/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B35/24"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="C03B35/26 #玻璃管或棒的运输[3]" Target="frmContent" Href="../searchservlet?query=C03B35/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B35/26"/>
+  </TreeNode>
+  <TreeNode Title="C03B37/00 由软化的玻璃、矿物或渣制的絮片、纤维或细丝的制造或处理" Target="frmContent" Href="../searchservlet?query=C03B37/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B37/00">
+    <TreeNode Title="C03B37/005 #絮片的制造[5]" Target="frmContent" Href="../searchservlet?query=C03B37/005&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B37/005"/>
+    <TreeNode Title="C03B37/01 #玻璃纤维或细丝的制造[3]" Target="frmContent" Href="../searchservlet?query=C03B37/01&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B37/01">
+      <TreeNode Title="C03B37/012 ##拉制纤维或细丝用预制棒的制造[4]" Target="frmContent" Href="../searchservlet?query=C03B37/012&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B37/012">
+        <TreeNode Title="C03B37/014 ###完全或部分用化学方法制造[4]" Target="frmContent" Href="../searchservlet?query=C03B37/014&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B37/014">
+          <TreeNode Title="C03B37/016 ####用液相反应工艺，例如通过凝胶相[4]" Target="frmContent" Href="../searchservlet?query=C03B37/016&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B37/016"/>
+          <TreeNode Title="C03B37/018 ####用玻璃基体上沉积玻璃法，例如用化学气相沉积法(C03B 37/016优先；用涂覆玻璃法的玻璃表面处理入C03C 17/02)[4]" Target="frmContent" Href="../searchservlet?query=C03B37/018&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B37/018"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="C03B37/02 ##拉制或挤压法(C03B 37/04优先)[3]" Target="frmContent" Href="../searchservlet?query=C03B37/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B37/02">
+        <TreeNode Title="C03B37/022 ###由熔融玻璃制造，其中产品包括不同种类的玻璃或以形状为特征的玻璃，例如空心纤维[4]" Target="frmContent" Href="../searchservlet?query=C03B37/022&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B37/022">
+          <TreeNode Title="C03B37/023 ####由不同种类玻璃组成的纤维，例如光学纤维[4]" Target="frmContent" Href="../searchservlet?query=C03B37/023&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B37/023"/>
+        </TreeNode>
+        <TreeNode Title="C03B37/025 ###由再加热软化的玻璃管、棒、纤维或细丝的制造[3]" Target="frmContent" Href="../searchservlet?query=C03B37/025&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B37/025">
+          <TreeNode Title="C03B37/026 ####拉制用金属丝增强的纤维[5]" Target="frmContent" Href="../searchservlet?query=C03B37/026&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B37/026"/>
+          <TreeNode Title="C03B37/027 ####不同种类玻璃组成的纤维，例如光学纤维(C03B 37/028优先)[4]" Target="frmContent" Href="../searchservlet?query=C03B37/027&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B37/027"/>
+          <TreeNode Title="C03B37/028 ####拉制纤维束，例如制成多丝纤维束[4]" Target="frmContent" Href="../searchservlet?query=C03B37/028&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B37/028"/>
+          <TreeNode Title="C03B37/029 ####及其窑[5]" Target="frmContent" Href="../searchservlet?query=C03B37/029&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B37/029"/>
+        </TreeNode>
+        <TreeNode Title="C03B37/03 ###拉制工具，例如拉制转鼓[3]" Target="frmContent" Href="../searchservlet?query=C03B37/03&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B37/03">
+          <TreeNode Title="C03B37/035 ####具有挠曲或剥离纤维的工具[3]" Target="frmContent" Href="../searchservlet?query=C03B37/035&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B37/035"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="C03B37/04 ##用离心力法[3]" Target="frmContent" Href="../searchservlet?query=C03B37/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B37/04">
+        <TreeNode Title="C03B37/05 ###用无径向漏孔的旋转体上的投射法[3]" Target="frmContent" Href="../searchservlet?query=C03B37/05&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B37/05"/>
+      </TreeNode>
+      <TreeNode Title="C03B37/06 ##用喷或吹玻璃液法，如用于制造定长纤维[3]" Target="frmContent" Href="../searchservlet?query=C03B37/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B37/06">
+        <TreeNode Title="C03B37/065 ###从管、棒、纤维或细丝开始[3]" Target="frmContent" Href="../searchservlet?query=C03B37/065&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B37/065"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="C03B37/07 #控制或调节(一般的控制或调节入G05)[3]" Target="frmContent" Href="../searchservlet?query=C03B37/07&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B37/07"/>
+    <TreeNode Title="C03B37/075 #制造由不同种类玻璃组成的或特征在于形状的纤维或细丝，例如中空纤维、波浪形纤维 (C03B 37/022、 C03B 37/027、C03B 37/028 优先) [3，4]" Target="frmContent" Href="../searchservlet?query=C03B37/075&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B37/075"/>
+    <TreeNode Title="C03B37/08 #电熔白金坩埚；拉丝机头；漏嘴；漏板(一般喷嘴入B05B)" Target="frmContent" Href="../searchservlet?query=C03B37/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B37/08">
+      <TreeNode Title="C03B37/081 ##间接熔化坩埚[5]" Target="frmContent" Href="../searchservlet?query=C03B37/081&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B37/081"/>
+      <TreeNode Title="C03B37/083 ##喷嘴；坩埚喷嘴板(C03B 37/095优先)[5]" Target="frmContent" Href="../searchservlet?query=C03B37/083&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B37/083"/>
+      <TreeNode Title="C03B37/085 ##其加料装置[3]" Target="frmContent" Href="../searchservlet?query=C03B37/085&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B37/085"/>
+      <TreeNode Title="C03B37/09 ##电加热的[3]" Target="frmContent" Href="../searchservlet?query=C03B37/09&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B37/09">
+        <TreeNode Title="C03B37/092 ###直接电阻加热[5]" Target="frmContent" Href="../searchservlet?query=C03B37/092&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B37/092"/>
+      </TreeNode>
+      <TreeNode Title="C03B37/095 ##及其使用材料[3]" Target="frmContent" Href="../searchservlet?query=C03B37/095&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B37/095"/>
+    </TreeNode>
+    <TreeNode Title="C03B37/10 #非化学处理(C03C 25/00优先；纱或细丝入D02；编织物入D03；非编织物入D04)" Target="frmContent" Href="../searchservlet?query=C03B37/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B37/10">
+      <TreeNode Title="C03B37/12 ##纤维或细丝绕紧时的[3]" Target="frmContent" Href="../searchservlet?query=C03B37/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B37/12"/>
+      <TreeNode Title="C03B37/14 ##纤维或细丝的再成形(C03B 37/025优先)[3]" Target="frmContent" Href="../searchservlet?query=C03B37/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B37/14">
+        <TreeNode Title="C03B37/15 ###利用热，例如用来制造光学纤维(光波导的熔融-粘接入G02B 6/255；加工光波导成光学元件入G02B 6/287)[5]" Target="frmContent" Href="../searchservlet?query=C03B37/15&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B37/15"/>
+      </TreeNode>
+      <TreeNode Title="C03B37/16 ##切割或分割(光波导入G02B 6/25)[5]" Target="frmContent" Href="../searchservlet?query=C03B37/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B37/16"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="C03B40/00 玻璃与玻璃或玻璃与成型工具之间粘接的防止[3]" Target="frmContent" Href="../searchservlet?query=C03B40/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B40/00">
+    <TreeNode Title="C03B40/02 #用润滑法；用释放物或润滑组分的材料[3]" Target="frmContent" Href="../searchservlet?query=C03B40/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B40/02">
+      <TreeNode Title="C03B40/027 ##用来对玻璃成型模或工具施加润滑剂的装置[5]" Target="frmContent" Href="../searchservlet?query=C03B40/027&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B40/027"/>
+      <TreeNode Title="C03B40/033 ##防止玻璃与玻璃之间粘接的装置[5]" Target="frmContent" Href="../searchservlet?query=C03B40/033&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B40/033"/>
+    </TreeNode>
+    <TreeNode Title="C03B40/04 #使用气体[3]" Target="frmContent" Href="../searchservlet?query=C03B40/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C03B40/04"/>
+  </TreeNode>
+</Root>

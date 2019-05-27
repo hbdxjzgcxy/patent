@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="F25D1/00 应用天然冷空气或水的设备" Target="frmContent" Href="../searchservlet?query=F25D1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25D1/00">
+    <TreeNode Title="F25D1/02 #应用天然冷水，例如普通自来水" Target="frmContent" Href="../searchservlet?query=F25D1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25D1/02"/>
+  </TreeNode>
+  <TreeNode Title="F25D3/00 应用其他冷却材料的设备；应用蓄冷物体的设备" Target="frmContent" Href="../searchservlet?query=F25D3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25D3/00">
+    <TreeNode Title="F25D3/02 #应用冰，例如有冰的箱体" Target="frmContent" Href="../searchservlet?query=F25D3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25D3/02">
+      <TreeNode Title="F25D3/04 ##固定柜式" Target="frmContent" Href="../searchservlet?query=F25D3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25D3/04"/>
+      <TreeNode Title="F25D3/06 ##可移动容器式" Target="frmContent" Href="../searchservlet?query=F25D3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25D3/06">
+        <TreeNode Title="F25D3/08 ###轻便的，即适用于个人携带的" Target="frmContent" Href="../searchservlet?query=F25D3/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25D3/08"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="F25D3/10 #应用液化气体，例如液态空气" Target="frmContent" Href="../searchservlet?query=F25D3/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25D3/10">
+      <TreeNode Title="F25D3/11 ##用传送装置携带要冷却的物品通过制冷区[4]" Target="frmContent" Href="../searchservlet?query=F25D3/11&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25D3/11"/>
+    </TreeNode>
+    <TreeNode Title="F25D3/12 #应用固化气体，例如干冰" Target="frmContent" Href="../searchservlet?query=F25D3/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25D3/12">
+      <TreeNode Title="F25D3/14 ##轻便的，即适用于个人携带的" Target="frmContent" Href="../searchservlet?query=F25D3/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25D3/14"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="F25D5/00 应用吸热化学反应的设备，例如使用制冷混合物" Target="frmContent" Href="../searchservlet?query=F25D5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25D5/00">
+    <TreeNode Title="F25D5/02 #轻便的，即适用于个人携带的" Target="frmContent" Href="../searchservlet?query=F25D5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25D5/02"/>
+  </TreeNode>
+  <TreeNode Title="F25D7/00 应用不回收蒸汽的蒸发作用的设备(带冷却设备的奶油或干奶酪盘入A47G 19/26)" Target="frmContent" Href="../searchservlet?query=F25D7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25D7/00"/>
+  <TreeNode Title="F25D9/00 不与冷却机相关且不包含在F25D 1/00至F25D 7/00各组中的设备；包含在组F25D 1/00至F25D 7/00中的两组或多组的组合设备" Target="frmContent" Href="../searchservlet?query=F25D9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25D9/00"/>
+  <TreeNode Title="F25D11/00 与冷却机相关的独立可移动的设备，例如家用电冰箱" Target="frmContent" Href="../searchservlet?query=F25D11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25D11/00">
+    <TreeNode Title="F25D11/02 #带有不同温度冷却间隔的" Target="frmContent" Href="../searchservlet?query=F25D11/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25D11/02"/>
+    <TreeNode Title="F25D11/04 #专门适用于贮存极低温速冻物品的(F25D 11/02优先)" Target="frmContent" Href="../searchservlet?query=F25D11/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25D11/04"/>
+  </TreeNode>
+  <TreeNode Title="F25D13/00 与冷却机相关的固定式设备，例如冷藏间" Target="frmContent" Href="../searchservlet?query=F25D13/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25D13/00">
+    <TreeNode Title="F25D13/02 #带有若干个冷却间隔的，例如冷藏系统" Target="frmContent" Href="../searchservlet?query=F25D13/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25D13/02">
+      <TreeNode Title="F25D13/04 ##各间隔有不同的温度" Target="frmContent" Href="../searchservlet?query=F25D13/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25D13/04"/>
+    </TreeNode>
+    <TreeNode Title="F25D13/06 #用传送装置携带要冷却的物品通过制冷区的" Target="frmContent" Href="../searchservlet?query=F25D13/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25D13/06"/>
+  </TreeNode>
+  <TreeNode Title="F25D15/00 不包含在F25D 11/00至F25D 13/00组内且与冷却机相关的设备，例如非独立可移动的设备" Target="frmContent" Href="../searchservlet?query=F25D15/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25D15/00"/>
+  <TreeNode Title="F25D16/00 用具有与制冷机相连的冷却系统和不与制冷机相连的冷却系统相结合的设备[5]" Target="frmContent" Href="../searchservlet?query=F25D16/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25D16/00"/>
+  <TreeNode Title="F25D17/00 冷却流体循环装置；用于冷冻室内循环气体，例如空气的循环装置[3]" Target="frmContent" Href="../searchservlet?query=F25D17/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25D17/00">
+    <TreeNode Title="F25D17/02 #用于液体循环的，例如盐水" Target="frmContent" Href="../searchservlet?query=F25D17/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25D17/02"/>
+    <TreeNode Title="F25D17/04 #用于气体循环的，例如通过自然对流[3]" Target="frmContent" Href="../searchservlet?query=F25D17/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25D17/04">
+      <TreeNode Title="F25D17/06 ##用强制循环" Target="frmContent" Href="../searchservlet?query=F25D17/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25D17/06">
+        <TreeNode Title="F25D17/08 ###使用导管的" Target="frmContent" Href="../searchservlet?query=F25D17/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25D17/08"/>
+      </TreeNode>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="F25D19/00 制冷机组相对于设备的配置和安装" Target="frmContent" Href="../searchservlet?query=F25D19/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25D19/00">
+    <TreeNode Title="F25D19/02 #插入式" Target="frmContent" Href="../searchservlet?query=F25D19/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25D19/02"/>
+    <TreeNode Title="F25D19/04 #用1个以上制冷机组的" Target="frmContent" Href="../searchservlet?query=F25D19/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25D19/04"/>
+  </TreeNode>
+  <TreeNode Title="F25D21/00 除霜；防止结霜；去除冷凝水或除霜水(一般从热交换装置中除冰或除水入F28F 17/00；专门适用于透明或反射区域的加热装置入H05B 3/84)" Target="frmContent" Href="../searchservlet?query=F25D21/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25D21/00">
+    <TreeNode Title="F25D21/02 #检测霜或冷凝物的出现" Target="frmContent" Href="../searchservlet?query=F25D21/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25D21/02"/>
+    <TreeNode Title="F25D21/04 #防止霜或冷凝物的形成" Target="frmContent" Href="../searchservlet?query=F25D21/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25D21/04"/>
+    <TreeNode Title="F25D21/06 #除霜(除霜循环入F25B 47/02)" Target="frmContent" Href="../searchservlet?query=F25D21/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25D21/06">
+      <TreeNode Title="F25D21/08 ##用电加热法" Target="frmContent" Href="../searchservlet?query=F25D21/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25D21/08"/>
+      <TreeNode Title="F25D21/10 ##用液体喷雾法" Target="frmContent" Href="../searchservlet?query=F25D21/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25D21/10"/>
+      <TreeNode Title="F25D21/12 ##用与制冷系统分开的热流循环系统" Target="frmContent" Href="../searchservlet?query=F25D21/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25D21/12"/>
+    </TreeNode>
+    <TreeNode Title="F25D21/14 #冷凝水和除霜水的收集或清除；滴槽" Target="frmContent" Href="../searchservlet?query=F25D21/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25D21/14"/>
+  </TreeNode>
+  <TreeNode Title="F25D23/00 一般结构特征(F25D 21/00优先)" Target="frmContent" Href="../searchservlet?query=F25D23/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25D23/00">
+    <TreeNode Title="F25D23/02 #门；盖(F25D 23/08优先)" Target="frmContent" Href="../searchservlet?query=F25D23/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25D23/02">
+      <TreeNode Title="F25D23/04 ##具有特殊间隔的，例如黄油配制器" Target="frmContent" Href="../searchservlet?query=F25D23/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25D23/04"/>
+    </TreeNode>
+    <TreeNode Title="F25D23/06 #围壁(F25D 23/08优先；有绝热层的容器入B65D 81/38)[4]" Target="frmContent" Href="../searchservlet?query=F25D23/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25D23/06"/>
+    <TreeNode Title="F25D23/08 #完全或主要由塑料构成的部件" Target="frmContent" Href="../searchservlet?query=F25D23/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25D23/08"/>
+    <TreeNode Title="F25D23/10 #设置在特定位置上的装置，例如内装式、角式" Target="frmContent" Href="../searchservlet?query=F25D23/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25D23/10"/>
+    <TreeNode Title="F25D23/12 #附加冷却室间隔的配置；制冷机与其他装备的组合，例如与炉的组合" Target="frmContent" Href="../searchservlet?query=F25D23/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25D23/12"/>
+  </TreeNode>
+  <TreeNode Title="F25D25/00 冷藏物品的装入、支承或取出" Target="frmContent" Href="../searchservlet?query=F25D25/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25D25/00">
+    <TreeNode Title="F25D25/02 #使用盘架" Target="frmContent" Href="../searchservlet?query=F25D25/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25D25/02"/>
+    <TreeNode Title="F25D25/04 #使用传送装置(一般的入B65G)" Target="frmContent" Href="../searchservlet?query=F25D25/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25D25/04"/>
+  </TreeNode>
+  <TreeNode Title="F25D27/00 照明装置(一般的入F21)" Target="frmContent" Href="../searchservlet?query=F25D27/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25D27/00"/>
+  <TreeNode Title="F25D29/00 控制或安全设备的配置或安装" Target="frmContent" Href="../searchservlet?query=F25D29/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25D29/00"/>
+  <TreeNode Title="F25D31/00 其他冷却或冷冻设备" Target="frmContent" Href="../searchservlet?query=F25D31/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25D31/00"/>
+</Root>

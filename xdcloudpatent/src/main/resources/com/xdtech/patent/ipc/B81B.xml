@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="B81B1/00 不具有活动或柔性元件的装置，例如微毛细管装置[7]" Target="frmContent" Href="../searchservlet?query=B81B1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B81B1/00"/>
+  <TreeNode Title="B81B3/00 由柔性或可变形的元件组成的装置，例如由弹性舌或膜片组成(B81B 5/00优先)[7]" Target="frmContent" Href="../searchservlet?query=B81B3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B81B3/00"/>
+  <TreeNode Title="B81B5/00 由彼此相对移动的元件组成的装置，例如由滑动或转动元件组成[7]" Target="frmContent" Href="../searchservlet?query=B81B5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B81B5/00"/>
+  <TreeNode Title="B81B7/00 微观结构系统[7]" Target="frmContent" Href="../searchservlet?query=B81B7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B81B7/00">
+    <TreeNode Title="B81B7/02 # 包括功能上有特定关系的不同的电或光学装置，例如微—电子—机械系统(MEMS)(B81B 7/04优先)[7]" Target="frmContent" Href="../searchservlet?query=B81B7/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B81B7/02"/>
+    <TreeNode Title="B81B7/04 # 类似的微观结构装置的网络或排列[7]" Target="frmContent" Href="../searchservlet?query=B81B7/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B81B7/04"/>
+  </TreeNode>
+</Root>

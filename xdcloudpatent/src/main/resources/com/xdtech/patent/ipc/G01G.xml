@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="G01G1/00 包括应用砝码或其他平衡块的称量仪器" Target="frmContent" Href="../searchservlet?query=G01G1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G1/00">
+    <TreeNode Title="G01G1/02 #钟摆装置" Target="frmContent" Href="../searchservlet?query=G01G1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G1/02">
+      <TreeNode Title="G01G1/04 ##具有固定支轴的摆" Target="frmContent" Href="../searchservlet?query=G01G1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G1/04">
+        <TreeNode Title="G01G1/06 ###具有多摆的" Target="frmContent" Href="../searchservlet?query=G01G1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G1/06"/>
+      </TreeNode>
+      <TreeNode Title="G01G1/08 ##具有可动支轴的摆，例如浮动摆" Target="frmContent" Href="../searchservlet?query=G01G1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G1/08">
+        <TreeNode Title="G01G1/10 ###具有多摆的" Target="frmContent" Href="../searchservlet?query=G01G1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G1/10"/>
+      </TreeNode>
+      <TreeNode Title="G01G1/12 ##为获得等分度指示的结构装置" Target="frmContent" Href="../searchservlet?query=G01G1/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G1/12"/>
+      <TreeNode Title="G01G1/14 ##温度补偿装置" Target="frmContent" Href="../searchservlet?query=G01G1/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G1/14"/>
+      <TreeNode Title="G01G1/16 ##支架倾斜的校正装置" Target="frmContent" Href="../searchservlet?query=G01G1/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G1/16"/>
+    </TreeNode>
+    <TreeNode Title="G01G1/18 #包括应用具有枢轴横梁的天平，即杠杆天平" Target="frmContent" Href="../searchservlet?query=G01G1/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G1/18">
+      <TreeNode Title="G01G1/20 ##梁下带有称盘且使用不同配重的杠杆天平" Target="frmContent" Href="../searchservlet?query=G01G1/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G1/20">
+        <TreeNode Title="G01G1/22 ###用于精密称量的" Target="frmContent" Href="../searchservlet?query=G01G1/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G1/22"/>
+      </TreeNode>
+      <TreeNode Title="G01G1/24 ##平台式刻度的，即称盘在横梁上面的" Target="frmContent" Href="../searchservlet?query=G01G1/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G1/24"/>
+      <TreeNode Title="G01G1/26 ##带有辅助砝码或一套砝码的" Target="frmContent" Href="../searchservlet?query=G01G1/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G1/26">
+        <TreeNode Title="G01G1/28 ###包括对应所称负荷而自动提升砝码的装置" Target="frmContent" Href="../searchservlet?query=G01G1/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G1/28">
+          <TreeNode Title="G01G1/29 ####带有电的或电动机械的控制装置[3]" Target="frmContent" Href="../searchservlet?query=G01G1/29&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G1/29"/>
+        </TreeNode>
+        <TreeNode Title="G01G1/30 ###其中配重是链条式的" Target="frmContent" Href="../searchservlet?query=G01G1/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G1/30"/>
+        <TreeNode Title="G01G1/32 ###其中配重是游码式的" Target="frmContent" Href="../searchservlet?query=G01G1/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G1/32"/>
+        <TreeNode Title="G01G1/34 ###包括固定的配重和将砝码有选择地加于负载端的" Target="frmContent" Href="../searchservlet?query=G01G1/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G1/34"/>
+        <TreeNode Title="G01G1/36 ###其中配重是可沿横梁滑动的，例如提秤" Target="frmContent" Href="../searchservlet?query=G01G1/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G1/36">
+          <TreeNode Title="G01G1/38 ####具有自动驱动的配重" Target="frmContent" Href="../searchservlet?query=G01G1/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G1/38"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="G01G1/40 ##专用于代用品的称重" Target="frmContent" Href="../searchservlet?query=G01G1/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G1/40"/>
+      <TreeNode Title="G01G1/42 ##温度补偿装置" Target="frmContent" Href="../searchservlet?query=G01G1/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G1/42"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="G01G3/00 以应用可产生弹性形变的元件为特征的称量仪器，例如弹簧秤" Target="frmContent" Href="../searchservlet?query=G01G3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G3/00">
+    <TreeNode Title="G01G3/02 #其中称量部件是螺旋弹簧的" Target="frmContent" Href="../searchservlet?query=G01G3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G3/02">
+      <TreeNode Title="G01G3/04 ##应用多个弹簧的" Target="frmContent" Href="../searchservlet?query=G01G3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G3/04"/>
+    </TreeNode>
+    <TreeNode Title="G01G3/06 #其中称量部件是盘旋弹簧的" Target="frmContent" Href="../searchservlet?query=G01G3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G3/06"/>
+    <TreeNode Title="G01G3/08 #其中称量部件是片簧的" Target="frmContent" Href="../searchservlet?query=G01G3/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G3/08"/>
+    <TreeNode Title="G01G3/10 #其中测量的是称量部件的扭转形变" Target="frmContent" Href="../searchservlet?query=G01G3/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G3/10"/>
+    <TreeNode Title="G01G3/12 #其中称量部件当称量时处于受压力或张力作用的固体形式" Target="frmContent" Href="../searchservlet?query=G01G3/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G3/12">
+      <TreeNode Title="G01G3/13 ##具有压—电或压—阻的性质[3]" Target="frmContent" Href="../searchservlet?query=G01G3/13&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G3/13"/>
+      <TreeNode Title="G01G3/14 ##测量电阻的变化(G01G 3/13优先)[3]" Target="frmContent" Href="../searchservlet?query=G01G3/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G3/14">
+        <TreeNode Title="G01G3/142 ###它所专用的电路[3]" Target="frmContent" Href="../searchservlet?query=G01G3/142&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G3/142">
+          <TreeNode Title="G01G3/145 ####包括与基准值的比较(G01G 3/147优先)[3]" Target="frmContent" Href="../searchservlet?query=G01G3/145&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G3/145"/>
+          <TreeNode Title="G01G3/147 ####包括数字计数[3]" Target="frmContent" Href="../searchservlet?query=G01G3/147&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G3/147"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="G01G3/15 ##测量磁性质的变化" Target="frmContent" Href="../searchservlet?query=G01G3/15&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G3/15"/>
+      <TreeNode Title="G01G3/16 ##测量物体振荡频率的变化" Target="frmContent" Href="../searchservlet?query=G01G3/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G3/16"/>
+    </TreeNode>
+    <TreeNode Title="G01G3/18 #温度补偿装置" Target="frmContent" Href="../searchservlet?query=G01G3/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G3/18"/>
+  </TreeNode>
+  <TreeNode Title="G01G5/00 平衡受流体作用影响的称量仪器" Target="frmContent" Href="../searchservlet?query=G01G5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G5/00">
+    <TreeNode Title="G01G5/02 #带有浸入液体的深度可变的浮标或其他构件" Target="frmContent" Href="../searchservlet?query=G01G5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G5/02"/>
+    <TreeNode Title="G01G5/04 #带有对负载施加于液体上的压力进行测量" Target="frmContent" Href="../searchservlet?query=G01G5/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G5/04">
+      <TreeNode Title="G01G5/06 ##应用电指示装置[3]" Target="frmContent" Href="../searchservlet?query=G01G5/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G5/06"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="G01G7/00 平衡受磁、电磁或静电作用的影响，或者是不包含在G01G 1/00至G01G 5/00组中的其他方法影响的称量仪器" Target="frmContent" Href="../searchservlet?query=G01G7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G7/00">
+    <TreeNode Title="G01G7/02 #通过电磁作用的" Target="frmContent" Href="../searchservlet?query=G01G7/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G7/02">
+      <TreeNode Title="G01G7/04 ##采用调节螺线管电流的方法" Target="frmContent" Href="../searchservlet?query=G01G7/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G7/04"/>
+    </TreeNode>
+    <TreeNode Title="G01G7/06 #通过静电作用的" Target="frmContent" Href="../searchservlet?query=G01G7/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G7/06"/>
+  </TreeNode>
+  <TreeNode Title="G01G9/00 不包含在G01G 1/00至G01G 7/00组中的重量称量的方法或仪器" Target="frmContent" Href="../searchservlet?query=G01G9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G9/00"/>
+  <TreeNode Title="G01G11/00 连续流动材料在流动时称量的仪器；皮带衡" Target="frmContent" Href="../searchservlet?query=G01G11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G11/00">
+    <TreeNode Title="G01G11/02 #具有机械称重传感器的" Target="frmContent" Href="../searchservlet?query=G01G11/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G11/02"/>
+    <TreeNode Title="G01G11/04 #具有电气称重传感器的" Target="frmContent" Href="../searchservlet?query=G01G11/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G11/04"/>
+    <TreeNode Title="G01G11/06 #具有流体称重传感器的" Target="frmContent" Href="../searchservlet?query=G01G11/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G11/06"/>
+    <TreeNode Title="G01G11/08 #具有控制装料或卸料速度装置的" Target="frmContent" Href="../searchservlet?query=G01G11/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G11/08">
+      <TreeNode Title="G01G11/10 ##通过控制传送带上的材料高度" Target="frmContent" Href="../searchservlet?query=G01G11/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G11/10"/>
+      <TreeNode Title="G01G11/12 ##通过控制传送带的速度" Target="frmContent" Href="../searchservlet?query=G01G11/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G11/12"/>
+    </TreeNode>
+    <TreeNode Title="G01G11/14 #应用总和或积累装置的" Target="frmContent" Href="../searchservlet?query=G01G11/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G11/14">
+      <TreeNode Title="G01G11/16 ##是电的或电子装置[3]" Target="frmContent" Href="../searchservlet?query=G01G11/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G11/16">
+        <TreeNode Title="G01G11/18 ###应用数字计数的[3]" Target="frmContent" Href="../searchservlet?query=G01G11/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G11/18"/>
+      </TreeNode>
+      <TreeNode Title="G01G11/20 ##是机械装置[3]" Target="frmContent" Href="../searchservlet?query=G01G11/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G11/20"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="G01G13/00 带有自动供料或卸料以称量成批材料的称量设备(连续流的称量入G01G 11/00；检验称量入G01G 15/00；用于称量流体入G01G 17/04；混合前配料的称量入G01G 19/22；组合称量入G01G 19/387)[5]" Target="frmContent" Href="../searchservlet?query=G01G13/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G13/00">
+    <TreeNode Title="G01G13/02 #在称盘或其他容器中自动加负荷的装置，例如由称量机构控制下的活动容器" Target="frmContent" Href="../searchservlet?query=G01G13/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G13/02">
+      <TreeNode Title="G01G13/04 ##包括由称量机构控制的装满容器到预定重量的滴流式给料装置" Target="frmContent" Href="../searchservlet?query=G01G13/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G13/04">
+        <TreeNode Title="G01G13/06 ###其中主要供料受漏斗形装料槽或斜槽产生的重力影响" Target="frmContent" Href="../searchservlet?query=G01G13/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G13/06"/>
+        <TreeNode Title="G01G13/08 ###其中主要供料是由机械传送装置完成的，例如利用皮带输送机或振动输送机供料" Target="frmContent" Href="../searchservlet?query=G01G13/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G13/08"/>
+        <TreeNode Title="G01G13/10 ###其中主要供料是由气动传送装置完成的，例如颗粒材料的流动供料" Target="frmContent" Href="../searchservlet?query=G01G13/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G13/10"/>
+      </TreeNode>
+      <TreeNode Title="G01G13/12 ##送料中断时的补偿装置，即当称量器关闭其供料器时仍有料从供料器中落下" Target="frmContent" Href="../searchservlet?query=G01G13/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G13/12"/>
+      <TreeNode Title="G01G13/14 ##无负载容器皮重的测定或补偿装置，例如活动容器皮重的测定或补偿装置" Target="frmContent" Href="../searchservlet?query=G01G13/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G13/14"/>
+    </TreeNode>
+    <TreeNode Title="G01G13/16 #称重机构控制的称量容器的自动卸料装置" Target="frmContent" Href="../searchservlet?query=G01G13/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G13/16">
+      <TreeNode Title="G01G13/18 ##由容器底部的阀门或活瓣操纵的" Target="frmContent" Href="../searchservlet?query=G01G13/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G13/18"/>
+      <TreeNode Title="G01G13/20 ##在称量容器中采用螺旋传送机" Target="frmContent" Href="../searchservlet?query=G01G13/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G13/20"/>
+      <TreeNode Title="G01G13/22 ##采用倾斜或转动容器的方法" Target="frmContent" Href="../searchservlet?query=G01G13/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G13/22"/>
+    </TreeNode>
+    <TreeNode Title="G01G13/24 #用于自动送料或卸料的称量机构控制装置" Target="frmContent" Href="../searchservlet?query=G01G13/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G13/24">
+      <TreeNode Title="G01G13/26 ##包含流体压力系统的" Target="frmContent" Href="../searchservlet?query=G01G13/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G13/26"/>
+      <TreeNode Title="G01G13/28 ##包含用未控制容器装料或卸料的电变量变化的" Target="frmContent" Href="../searchservlet?query=G01G13/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G13/28">
+        <TreeNode Title="G01G13/285 ###包含用基准值比较的(G01G 13/29优先)[3]" Target="frmContent" Href="../searchservlet?query=G01G13/285&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G13/285"/>
+        <TreeNode Title="G01G13/29 ###包含数字计数的[3]" Target="frmContent" Href="../searchservlet?query=G01G13/29&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G13/29"/>
+        <TreeNode Title="G01G13/295 ###用于控制容器的自动装料的[3]" Target="frmContent" Href="../searchservlet?query=G01G13/295&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G13/295"/>
+      </TreeNode>
+      <TreeNode Title="G01G13/30 ##包含限位或定位开关的" Target="frmContent" Href="../searchservlet?query=G01G13/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G13/30">
+        <TreeNode Title="G01G13/32 ###包含光电装置的" Target="frmContent" Href="../searchservlet?query=G01G13/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G13/32"/>
+      </TreeNode>
+      <TreeNode Title="G01G13/34 ##包含由称重机构启动的机械联动装置" Target="frmContent" Href="../searchservlet?query=G01G13/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G13/34"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="G01G15/00 分配到可拆卸容器中的材料的称量检验装置" Target="frmContent" Href="../searchservlet?query=G01G15/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G15/00">
+    <TreeNode Title="G01G15/02 #带有为取得所要求的净重而添加或减掉一定量材料的装置(自动的配料秤的滴流式给料装置入G01G 13/04)" Target="frmContent" Href="../searchservlet?query=G01G15/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G15/02"/>
+    <TreeNode Title="G01G15/04 #带有为取得所要求的毛重而添加或减掉一定量材料的装置(自动的配料秤的滴流式给料装置入G01G 13/04)" Target="frmContent" Href="../searchservlet?query=G01G15/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G15/04"/>
+  </TreeNode>
+  <TreeNode Title="G01G17/00 特殊形状或性质的材料的称量设备或方法(通过测量容积以测定重量的入G01F)" Target="frmContent" Href="../searchservlet?query=G01G17/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G17/00">
+    <TreeNode Title="G01G17/02 #用于称量丝状或片状材料的" Target="frmContent" Href="../searchservlet?query=G01G17/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G17/02"/>
+    <TreeNode Title="G01G17/04 #用于称量流体，例如气体、糊状材料" Target="frmContent" Href="../searchservlet?query=G01G17/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G17/04">
+      <TreeNode Title="G01G17/06 ##具有控制供料或卸料的装置" Target="frmContent" Href="../searchservlet?query=G01G17/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G17/06"/>
+    </TreeNode>
+    <TreeNode Title="G01G17/08 #用于称量牲畜的" Target="frmContent" Href="../searchservlet?query=G01G17/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G17/08"/>
+  </TreeNode>
+  <TreeNode Title="G01G19/00 不包含在G01G 11/00至G01G 17/00组中的适用于特定目的的称量仪器或方法" Target="frmContent" Href="../searchservlet?query=G01G19/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G19/00">
+    <TreeNode Title="G01G19/02 #用于称量有轮或滚动的物体，例如车辆" Target="frmContent" Href="../searchservlet?query=G01G19/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G19/02">
+      <TreeNode Title="G01G19/03 ##用于运动过程中的称量(G01G 19/04，G01G 19/07优先)[3]" Target="frmContent" Href="../searchservlet?query=G01G19/03&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G19/03"/>
+      <TreeNode Title="G01G19/04 ##称量铁路车辆的" Target="frmContent" Href="../searchservlet?query=G01G19/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G19/04">
+        <TreeNode Title="G01G19/06 ###在架空轨道上" Target="frmContent" Href="../searchservlet?query=G01G19/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G19/06"/>
+      </TreeNode>
+      <TreeNode Title="G01G19/07 ##称量飞机的" Target="frmContent" Href="../searchservlet?query=G01G19/07&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G19/07"/>
+    </TreeNode>
+    <TreeNode Title="G01G19/08 #与车辆合并一起的" Target="frmContent" Href="../searchservlet?query=G01G19/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G19/08">
+      <TreeNode Title="G01G19/10 ##具有流体称重传感器的" Target="frmContent" Href="../searchservlet?query=G01G19/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G19/10"/>
+      <TreeNode Title="G01G19/12 ##具有电气称重传感器的" Target="frmContent" Href="../searchservlet?query=G01G19/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G19/12"/>
+    </TreeNode>
+    <TreeNode Title="G01G19/14 #悬挂负载的称量(G01G 3/00优先；装在起重机内的称重装置入B66C 1/40，B66C 13/16)" Target="frmContent" Href="../searchservlet?query=G01G19/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G19/14">
+      <TreeNode Title="G01G19/16 ##具有流体称重传感器的" Target="frmContent" Href="../searchservlet?query=G01G19/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G19/16"/>
+      <TreeNode Title="G01G19/18 ##具有电气称重传感器的" Target="frmContent" Href="../searchservlet?query=G01G19/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G19/18"/>
+      <TreeNode Title="G01G19/20 ##用于称重不平衡负载的" Target="frmContent" Href="../searchservlet?query=G01G19/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G19/20"/>
+    </TreeNode>
+    <TreeNode Title="G01G19/22 #在混合前配料的称量" Target="frmContent" Href="../searchservlet?query=G01G19/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G19/22">
+      <TreeNode Title="G01G19/24 ##应用单个称量设备" Target="frmContent" Href="../searchservlet?query=G01G19/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G19/24">
+        <TreeNode Title="G01G19/26 ###与有两个或多个配重砝码的横梁联结的" Target="frmContent" Href="../searchservlet?query=G01G19/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G19/26"/>
+        <TreeNode Title="G01G19/28 ###具有流体称重传感器的" Target="frmContent" Href="../searchservlet?query=G01G19/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G19/28"/>
+        <TreeNode Title="G01G19/30 ###具有电气称重传感器的" Target="frmContent" Href="../searchservlet?query=G01G19/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G19/30"/>
+      </TreeNode>
+      <TreeNode Title="G01G19/32 ##应用两个或多个称量设备" Target="frmContent" Href="../searchservlet?query=G01G19/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G19/32"/>
+      <TreeNode Title="G01G19/34 ##具有电控制装置的" Target="frmContent" Href="../searchservlet?query=G01G19/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G19/34"/>
+      <TreeNode Title="G01G19/36 ##具有机械控制装置的" Target="frmContent" Href="../searchservlet?query=G01G19/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G19/36"/>
+      <TreeNode Title="G01G19/38 ##程序控制的，例如用打孔带" Target="frmContent" Href="../searchservlet?query=G01G19/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G19/38"/>
+    </TreeNode>
+    <TreeNode Title="G01G19/387 #用于组合称量的，即选择物品组合的总称量或数目最接近的期望值[5]" Target="frmContent" Href="../searchservlet?query=G01G19/387&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G19/387">
+      <TreeNode Title="G01G19/393 ##用两个或多个的称量元件[5]" Target="frmContent" Href="../searchservlet?query=G01G19/393&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G19/393"/>
+    </TreeNode>
+    <TreeNode Title="G01G19/40 #具有指示、记录、计算价格或其他与重量有关量的装置的(称量设备的指示装置入G01G 23/18；称量设备的记录装置入G01G 23/18)" Target="frmContent" Href="../searchservlet?query=G01G19/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G19/40">
+      <TreeNode Title="G01G19/41 ##应用机械计算设备的" Target="frmContent" Href="../searchservlet?query=G01G19/41&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G19/41"/>
+      <TreeNode Title="G01G19/413 ##应用电动机械的或电子计算设备的" Target="frmContent" Href="../searchservlet?query=G01G19/413&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G19/413">
+        <TreeNode Title="G01G19/414 ###仅用电子计算装置的[5]" Target="frmContent" Href="../searchservlet?query=G01G19/414&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G19/414">
+          <TreeNode Title="G01G19/415 ####与记录装置结合的[5]" Target="frmContent" Href="../searchservlet?query=G01G19/415&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G19/415"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="G01G19/417 ##备有检验秤的计算部件的装置" Target="frmContent" Href="../searchservlet?query=G01G19/417&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G19/417"/>
+      <TreeNode Title="G01G19/42 ##用于称量的计数(G01G 19/387优先)[5]" Target="frmContent" Href="../searchservlet?query=G01G19/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G19/42"/>
+    </TreeNode>
+    <TreeNode Title="G01G19/44 #用于称量人体的" Target="frmContent" Href="../searchservlet?query=G01G19/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G19/44">
+      <TreeNode Title="G01G19/46 ##专用于人体称量的弹簧秤" Target="frmContent" Href="../searchservlet?query=G01G19/46&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G19/46"/>
+      <TreeNode Title="G01G19/48 ##专用于人体称量的摆秤" Target="frmContent" Href="../searchservlet?query=G01G19/48&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G19/48"/>
+      <TreeNode Title="G01G19/50 ##具有附加的计量装置，例如测身高的" Target="frmContent" Href="../searchservlet?query=G01G19/50&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G19/50"/>
+    </TreeNode>
+    <TreeNode Title="G01G19/52 #与其他物品例如与器具相结合的称量器械(与手杖结合的入A45B 3/08)" Target="frmContent" Href="../searchservlet?query=G01G19/52&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G19/52">
+      <TreeNode Title="G01G19/54 ##与书写工具或裁纸刀相结合的" Target="frmContent" Href="../searchservlet?query=G01G19/54&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G19/54"/>
+      <TreeNode Title="G01G19/56 ##与工具或家庭用具的把手相结合的" Target="frmContent" Href="../searchservlet?query=G01G19/56&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G19/56"/>
+      <TreeNode Title="G01G19/58 ##与手提箱或衣箱的把手相结合的" Target="frmContent" Href="../searchservlet?query=G01G19/58&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G19/58"/>
+      <TreeNode Title="G01G19/60 ##与钓鱼用具相结合的，例如与钓鱼竿相结合的" Target="frmContent" Href="../searchservlet?query=G01G19/60&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G19/60"/>
+    </TreeNode>
+    <TreeNode Title="G01G19/62 #置于上方或下方的称量器械[3]" Target="frmContent" Href="../searchservlet?query=G01G19/62&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G19/62"/>
+    <TreeNode Title="G01G19/64 #指示百分比的称量器械，即用于将某一重量表示为预计的或初始重量的百分数[3]" Target="frmContent" Href="../searchservlet?query=G01G19/64&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G19/64"/>
+  </TreeNode>
+  <TreeNode Title="G01G21/00 称量仪器的零部件" Target="frmContent" Href="../searchservlet?query=G01G21/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G21/00">
+    <TreeNode Title="G01G21/02 #支承装置" Target="frmContent" Href="../searchservlet?query=G01G21/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G21/02">
+      <TreeNode Title="G01G21/04 ##刀口支承的" Target="frmContent" Href="../searchservlet?query=G01G21/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G21/04"/>
+      <TreeNode Title="G01G21/06 ##滚珠或滚柱支承的" Target="frmContent" Href="../searchservlet?query=G01G21/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G21/06"/>
+      <TreeNode Title="G01G21/07 ##挠性片支承的[3]" Target="frmContent" Href="../searchservlet?query=G01G21/07&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G21/07"/>
+      <TreeNode Title="G01G21/08 ##支承座或其调节装置" Target="frmContent" Href="../searchservlet?query=G01G21/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G21/08"/>
+      <TreeNode Title="G01G21/10 ##浮动悬挂；减震器装置" Target="frmContent" Href="../searchservlet?query=G01G21/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G21/10"/>
+      <TreeNode Title="G01G21/12 ##防止误操作的装置" Target="frmContent" Href="../searchservlet?query=G01G21/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G21/12"/>
+    </TreeNode>
+    <TreeNode Title="G01G21/14 #横梁" Target="frmContent" Href="../searchservlet?query=G01G21/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G21/14">
+      <TreeNode Title="G01G21/16 ##组合结构的横梁；不同横梁间的连接" Target="frmContent" Href="../searchservlet?query=G01G21/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G21/16"/>
+    </TreeNode>
+    <TreeNode Title="G01G21/18 #横梁和称盘的连接" Target="frmContent" Href="../searchservlet?query=G01G21/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G21/18">
+      <TreeNode Title="G01G21/20 ##精密称量仪器用的" Target="frmContent" Href="../searchservlet?query=G01G21/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G21/20"/>
+    </TreeNode>
+    <TreeNode Title="G01G21/22 #称盘或其他称量容器；称量平台" Target="frmContent" Href="../searchservlet?query=G01G21/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G21/22"/>
+    <TreeNode Title="G01G21/23 #称量平台的支承或悬置(G01G 21/24优先)[3]" Target="frmContent" Href="../searchservlet?query=G01G21/23&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G21/23"/>
+    <TreeNode Title="G01G21/24 #保证称盘平行动作的导套或杠杆机构" Target="frmContent" Href="../searchservlet?query=G01G21/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G21/24"/>
+    <TreeNode Title="G01G21/26 #配重件；砝码；成套的砝码；砝码的夹持器" Target="frmContent" Href="../searchservlet?query=G01G21/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G21/26"/>
+    <TreeNode Title="G01G21/28 #框架；外罩" Target="frmContent" Href="../searchservlet?query=G01G21/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G21/28"/>
+    <TreeNode Title="G01G21/30 #防止灰尘污染的装置" Target="frmContent" Href="../searchservlet?query=G01G21/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G21/30"/>
+  </TreeNode>
+  <TreeNode Title="G01G23/00 称量仪器的辅助装置" Target="frmContent" Href="../searchservlet?query=G01G23/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G23/00">
+    <TreeNode Title="G01G23/01 #称量仪器的检验或校准[3]" Target="frmContent" Href="../searchservlet?query=G01G23/01&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G23/01"/>
+    <TreeNode Title="G01G23/02 #释放机构；制动机构" Target="frmContent" Href="../searchservlet?query=G01G23/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G23/02">
+      <TreeNode Title="G01G23/04 ##精密称量仪器用的" Target="frmContent" Href="../searchservlet?query=G01G23/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G23/04"/>
+    </TreeNode>
+    <TreeNode Title="G01G23/06 #振荡的阻尼装置，例如秤杆振荡的阻尼装置" Target="frmContent" Href="../searchservlet?query=G01G23/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G23/06">
+      <TreeNode Title="G01G23/08 ##利用流体的方法" Target="frmContent" Href="../searchservlet?query=G01G23/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G23/08"/>
+      <TreeNode Title="G01G23/10 ##利用电或磁的方法" Target="frmContent" Href="../searchservlet?query=G01G23/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G23/10"/>
+      <TreeNode Title="G01G23/12 ##专用于防止负载运动所产生的振荡" Target="frmContent" Href="../searchservlet?query=G01G23/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G23/12"/>
+    </TreeNode>
+    <TreeNode Title="G01G23/14 #用作测定皮重的装置或通过调零抵消皮重的装置，例如机械操作的调零(与自动加载相连的入G01G 13/14)" Target="frmContent" Href="../searchservlet?query=G01G23/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G23/14">
+      <TreeNode Title="G01G23/16 ##电或磁操作的" Target="frmContent" Href="../searchservlet?query=G01G23/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G23/16"/>
+    </TreeNode>
+    <TreeNode Title="G01G23/18 #指示装置，例如用于远距离指示的；记录装置；标尺，例如带刻度的" Target="frmContent" Href="../searchservlet?query=G01G23/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G23/18">
+      <TreeNode Title="G01G23/20 ##利用机械装置指示重量" Target="frmContent" Href="../searchservlet?query=G01G23/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G23/20">
+        <TreeNode Title="G01G23/22 ###与价格指示器相结合的" Target="frmContent" Href="../searchservlet?query=G01G23/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G23/22"/>
+        <TreeNode Title="G01G23/24 ###具有对数刻度的" Target="frmContent" Href="../searchservlet?query=G01G23/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G23/24"/>
+        <TreeNode Title="G01G23/26 ###用于指示元件的驱动，例如机械放大器" Target="frmContent" Href="../searchservlet?query=G01G23/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G23/26"/>
+        <TreeNode Title="G01G23/28 ###有辅助或存储标志的" Target="frmContent" Href="../searchservlet?query=G01G23/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G23/28"/>
+        <TreeNode Title="G01G23/30 ###带有标尺的照明装置的" Target="frmContent" Href="../searchservlet?query=G01G23/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G23/30"/>
+      </TreeNode>
+      <TreeNode Title="G01G23/32 ##利用光学投影装置指示重量" Target="frmContent" Href="../searchservlet?query=G01G23/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G23/32">
+        <TreeNode Title="G01G23/34 ###与价格指示器相结合的" Target="frmContent" Href="../searchservlet?query=G01G23/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G23/34"/>
+      </TreeNode>
+      <TreeNode Title="G01G23/35 ##利用照相记录指示重量" Target="frmContent" Href="../searchservlet?query=G01G23/35&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G23/35"/>
+      <TreeNode Title="G01G23/36 ##利用电装置指示重量，例如应用光电池" Target="frmContent" Href="../searchservlet?query=G01G23/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G23/36">
+        <TreeNode Title="G01G23/365 ###包括与基准值作比较的(G01G 23/37优先)[3]" Target="frmContent" Href="../searchservlet?query=G01G23/365&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G23/365"/>
+        <TreeNode Title="G01G23/37 ###有数字计数的" Target="frmContent" Href="../searchservlet?query=G01G23/37&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G23/37">
+          <TreeNode Title="G01G23/375 ####编码单元处于运动过程中的[3]" Target="frmContent" Href="../searchservlet?query=G01G23/375&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G23/375"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="G01G23/38 ##专用于称量仪器的记录或编码装置" Target="frmContent" Href="../searchservlet?query=G01G23/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G23/38">
+        <TreeNode Title="G01G23/40 ###机械操作的" Target="frmContent" Href="../searchservlet?query=G01G23/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G23/40"/>
+        <TreeNode Title="G01G23/42 ###电操作的" Target="frmContent" Href="../searchservlet?query=G01G23/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G23/42">
+          <TreeNode Title="G01G23/44 ####其编码装置[3]" Target="frmContent" Href="../searchservlet?query=G01G23/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G23/44"/>
+        </TreeNode>
+        <TreeNode Title="G01G23/46 ###防止在称量机构静止以前记录的装置[3]" Target="frmContent" Href="../searchservlet?query=G01G23/46&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G23/46"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="G01G23/48 #温度补偿装置(G01G 1/14，G01G 1/42，G01G 3/18优先)[3]" Target="frmContent" Href="../searchservlet?query=G01G23/48&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01G23/48"/>
+  </TreeNode>
+</Root>

@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="H01F1/00 按所用磁性材料区分的磁体或磁性物体；磁性材料的选择(按其组成区分的磁性薄膜入H01F 10/10)" Target="frmContent" Href="../searchservlet?query=H01F1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F1/00">
+    <TreeNode Title="H01F1/01 #无机材料的(H01F 1/44优先)[6]" Target="frmContent" Href="../searchservlet?query=H01F1/01&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F1/01">
+      <TreeNode Title="H01F1/03 ##按其矫顽力区分的[6]" Target="frmContent" Href="../searchservlet?query=H01F1/03&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F1/03">
+        <TreeNode Title="H01F1/032 ###硬磁材料的[6]" Target="frmContent" Href="../searchservlet?query=H01F1/032&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F1/032">
+          <TreeNode Title="H01F1/04 ####金属或合金[6]" Target="frmContent" Href="../searchservlet?query=H01F1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F1/04">
+            <TreeNode Title="H01F1/047 #####按其成分区分的合金[5，6]" Target="frmContent" Href="../searchservlet?query=H01F1/047&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F1/047">
+              <TreeNode Title="H01F1/053 ######含稀土金属的[5，6]" Target="frmContent" Href="../searchservlet?query=H01F1/053&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F1/053">
+                <TreeNode Title="H01F1/055 #######和磁性过渡金属的，如SmCo5[6]" Target="frmContent" Href="../searchservlet?query=H01F1/055&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F1/055">
+                  <TreeNode Title="H01F1/057 ########和Ⅲa族元素，如Nd2Fe14B[6]" Target="frmContent" Href="../searchservlet?query=H01F1/057&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F1/057"/>
+                  <TreeNode Title="H01F1/058 ########和Ⅳa族元素，如Gd2Fe14C[6]" Target="frmContent" Href="../searchservlet?query=H01F1/058&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F1/058"/>
+                  <TreeNode Title="H01F1/059 ########和Ⅴa族元素，如Sm2Fe17N2[6]" Target="frmContent" Href="../searchservlet?query=H01F1/059&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F1/059"/>
+                </TreeNode>
+              </TreeNode>
+            </TreeNode>
+            <TreeNode Title="H01F1/06 #####颗粒状的，例如粉末(H01F 1/047优先)[5，6]" Target="frmContent" Href="../searchservlet?query=H01F1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F1/06">
+              <TreeNode Title="H01F1/08 ######压制的、烧结的或黏结在一起的[6]" Target="frmContent" Href="../searchservlet?query=H01F1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F1/08"/>
+            </TreeNode>
+          </TreeNode>
+          <TreeNode Title="H01F1/09 ####金属颗粒和非金属颗粒的混合物；带氧化膜的金属颗粒[6]" Target="frmContent" Href="../searchservlet?query=H01F1/09&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F1/09"/>
+          <TreeNode Title="H01F1/10 ####非金属物质，如铁氧体[6]" Target="frmContent" Href="../searchservlet?query=H01F1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F1/10">
+            <TreeNode Title="H01F1/11 #####颗粒状的[6]" Target="frmContent" Href="../searchservlet?query=H01F1/11&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F1/11">
+              <TreeNode Title="H01F1/113 ######在黏结剂中[6]" Target="frmContent" Href="../searchservlet?query=H01F1/113&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F1/113">
+                <TreeNode Title="H01F1/117 #######柔软体[6]" Target="frmContent" Href="../searchservlet?query=H01F1/117&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F1/117"/>
+              </TreeNode>
+            </TreeNode>
+          </TreeNode>
+        </TreeNode>
+        <TreeNode Title="H01F1/12 ###软磁材料的[6]" Target="frmContent" Href="../searchservlet?query=H01F1/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F1/12">
+          <TreeNode Title="H01F1/14 ####金属或合金[6]" Target="frmContent" Href="../searchservlet?query=H01F1/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F1/14">
+            <TreeNode Title="H01F1/147 #####按成分区分的合金[5，6]" Target="frmContent" Href="../searchservlet?query=H01F1/147&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F1/147">
+              <TreeNode Title="H01F1/153 ######非晶态合金，如金属玻璃[5，6]" Target="frmContent" Href="../searchservlet?query=H01F1/153&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F1/153"/>
+            </TreeNode>
+            <TreeNode Title="H01F1/16 #####薄片状的(H01F 1/147优先)[5，6]" Target="frmContent" Href="../searchservlet?query=H01F1/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F1/16">
+              <TreeNode Title="H01F1/18 ######有绝缘涂层的[6]" Target="frmContent" Href="../searchservlet?query=H01F1/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F1/18"/>
+            </TreeNode>
+            <TreeNode Title="H01F1/20 #####颗粒状的，例如粉末(H01F 1/147优先)[5，6]" Target="frmContent" Href="../searchservlet?query=H01F1/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F1/20">
+              <TreeNode Title="H01F1/22 ######压制的、烧结的或黏结在一起的[6]" Target="frmContent" Href="../searchservlet?query=H01F1/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F1/22">
+                <TreeNode Title="H01F1/24 #######颗粒是彼此绝缘的[6]" Target="frmContent" Href="../searchservlet?query=H01F1/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F1/24">
+                  <TreeNode Title="H01F1/26 ########用高分子有机物质[6]" Target="frmContent" Href="../searchservlet?query=H01F1/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F1/26"/>
+                </TreeNode>
+              </TreeNode>
+              <TreeNode Title="H01F1/28 ######分散或悬浮于黏结剂中[6]" Target="frmContent" Href="../searchservlet?query=H01F1/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F1/28"/>
+            </TreeNode>
+          </TreeNode>
+          <TreeNode Title="H01F1/33 ####金属颗粒和非金属颗粒的混合物；有氧化膜的金属颗粒[6]" Target="frmContent" Href="../searchservlet?query=H01F1/33&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F1/33"/>
+          <TreeNode Title="H01F1/34 ####非金属物质，例如铁氧体[6]" Target="frmContent" Href="../searchservlet?query=H01F1/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F1/34">
+            <TreeNode Title="H01F1/36 #####颗粒状的[6]" Target="frmContent" Href="../searchservlet?query=H01F1/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F1/36">
+              <TreeNode Title="H01F1/37 ######在黏结剂中的[6]" Target="frmContent" Href="../searchservlet?query=H01F1/37&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F1/37">
+                <TreeNode Title="H01F1/375 #######柔软体[6]" Target="frmContent" Href="../searchservlet?query=H01F1/375&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F1/375"/>
+              </TreeNode>
+            </TreeNode>
+            <TreeNode Title="H01F1/38 #####非晶态的，如非晶氧化物[6]" Target="frmContent" Href="../searchservlet?query=H01F1/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F1/38"/>
+          </TreeNode>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="H01F1/40 ##磁性半导体材料的，如CdCr2S4(应用电—磁或者类似效应的器件入H01L 43/00)[6]" Target="frmContent" Href="../searchservlet?query=H01F1/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F1/40"/>
+    </TreeNode>
+    <TreeNode Title="H01F1/42 #有机材料的或有机磁性材料的(H01F 1/44优先)[6]" Target="frmContent" Href="../searchservlet?query=H01F1/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F1/42"/>
+    <TreeNode Title="H01F1/44 #磁性液体的，如铁磁流体(黏结剂中的颗粒入H01F 1/28，H01F 1/36)[6]" Target="frmContent" Href="../searchservlet?query=H01F1/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F1/44"/>
+  </TreeNode>
+  <TreeNode Title="H01F3/00 磁芯，磁轭或衔铁(磁性材料入H01F 1/00；永久磁体入H01F 7/02)" Target="frmContent" Href="../searchservlet?query=H01F3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F3/00">
+    <TreeNode Title="H01F3/02 #薄片制成的" Target="frmContent" Href="../searchservlet?query=H01F3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F3/02"/>
+    <TreeNode Title="H01F3/04 #条或带制成的" Target="frmContent" Href="../searchservlet?query=H01F3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F3/04"/>
+    <TreeNode Title="H01F3/06 #线制的" Target="frmContent" Href="../searchservlet?query=H01F3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F3/06"/>
+    <TreeNode Title="H01F3/08 #粉末制成的(在薄片上的粉末涂层入H01F 3/02，在条或带上的粉末涂层入H01F 3/04，在线上的粉末涂层入H01F 3/06)" Target="frmContent" Href="../searchservlet?query=H01F3/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F3/08"/>
+    <TreeNode Title="H01F3/10 #磁路的复合配置" Target="frmContent" Href="../searchservlet?query=H01F3/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F3/10">
+      <TreeNode Title="H01F3/12 ##磁分路" Target="frmContent" Href="../searchservlet?query=H01F3/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F3/12"/>
+      <TreeNode Title="H01F3/14 ##压紧；间隙，例如空气隙(在磁分路中的入H01F 3/12)" Target="frmContent" Href="../searchservlet?query=H01F3/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F3/14"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="H01F5/00 线圈(超导线圈入H01F 6/06；信号类型的固定电感器入H01F 17/00)" Target="frmContent" Href="../searchservlet?query=H01F5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F5/00">
+    <TreeNode Title="H01F5/02 #绕在非磁性支架上的，例如绕在线圈架上H01F 5/04#线圈的电连接装置，例如引线" Target="frmContent" Href="../searchservlet?query=H01F5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F5/02"/>
+    <TreeNode Title="H01F5/06 #绕组的绝缘" Target="frmContent" Href="../searchservlet?query=H01F5/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F5/06"/>
+  </TreeNode>
+  <TreeNode Title="H01F6/00 超导磁体；超导线圈[6]" Target="frmContent" Href="../searchservlet?query=H01F6/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F6/00">
+    <TreeNode Title="H01F6/02 #骤冷；骤冷时的保护装置[6]" Target="frmContent" Href="../searchservlet?query=H01F6/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F6/02"/>
+    <TreeNode Title="H01F6/04 #冷却[6]" Target="frmContent" Href="../searchservlet?query=H01F6/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F6/04"/>
+    <TreeNode Title="H01F6/06 #线圈，如绕组、绝缘、接线柱或外壳[6]" Target="frmContent" Href="../searchservlet?query=H01F6/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F6/06"/>
+  </TreeNode>
+  <TreeNode Title="H01F7/00 磁体(超导磁体入H01F 6/00；用于从固体材料或液体分离固体材料的入B03C 1/00；用于工作台或类似的工件夹具的入B23B 31/28，B23Q 3/00；工件夹持装置入B25B 11/00；提升用磁铁入B66C 1/00；用于电表的入G01R；用于继电器的入H01H；用于电机的入H02K)" Target="frmContent" Href="../searchservlet?query=H01F7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F7/00">
+    <TreeNode Title="H01F7/02 #永久磁体" Target="frmContent" Href="../searchservlet?query=H01F7/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F7/02">
+      <TreeNode Title="H01F7/04 ##解除吸引力的装置" Target="frmContent" Href="../searchservlet?query=H01F7/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F7/04"/>
+    </TreeNode>
+    <TreeNode Title="H01F7/06 #电磁铁；含有电磁铁的致动器[6]" Target="frmContent" Href="../searchservlet?query=H01F7/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F7/06">
+      <TreeNode Title="H01F7/08 ##有衔铁的" Target="frmContent" Href="../searchservlet?query=H01F7/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F7/08">
+        <TreeNode Title="H01F7/10 ###专用于交流电的" Target="frmContent" Href="../searchservlet?query=H01F7/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F7/10">
+          <TreeNode Title="H01F7/11 ####减小或消除涡流效应的[6]" Target="frmContent" Href="../searchservlet?query=H01F7/11&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F7/11"/>
+          <TreeNode Title="H01F7/12 ####有抗震装置的" Target="frmContent" Href="../searchservlet?query=H01F7/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F7/12"/>
+        </TreeNode>
+        <TreeNode Title="H01F7/121 ###衔铁的导向或定位，如将衔铁保持在其端点位置上[6]" Target="frmContent" Href="../searchservlet?query=H01F7/121&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F7/121">
+          <TreeNode Title="H01F7/122 ####用永久磁体的[6]" Target="frmContent" Href="../searchservlet?query=H01F7/122&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F7/122"/>
+          <TreeNode Title="H01F7/123 ####用辅助线圈[6]" Target="frmContent" Href="../searchservlet?query=H01F7/123&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F7/123"/>
+          <TreeNode Title="H01F7/124 ####用机械闭锁，如插销[6]" Target="frmContent" Href="../searchservlet?query=H01F7/124&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F7/124"/>
+        </TreeNode>
+        <TreeNode Title="H01F7/126 ###支承或安装[6]" Target="frmContent" Href="../searchservlet?query=H01F7/126&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F7/126"/>
+        <TreeNode Title="H01F7/127 ###组装[6]" Target="frmContent" Href="../searchservlet?query=H01F7/127&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F7/127"/>
+        <TreeNode Title="H01F7/128 ###封装、包装或密封[6]" Target="frmContent" Href="../searchservlet?query=H01F7/128&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F7/128">
+          <TreeNode Title="H01F7/129 ####衔铁的[6]" Target="frmContent" Href="../searchservlet?query=H01F7/129&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F7/129"/>
+        </TreeNode>
+        <TreeNode Title="H01F7/13 ###按牵引力特性区分的" Target="frmContent" Href="../searchservlet?query=H01F7/13&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F7/13"/>
+        <TreeNode Title="H01F7/14 ###枢轴式衔铁(H01F 7/17优先)[6]" Target="frmContent" Href="../searchservlet?query=H01F7/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F7/14"/>
+        <TreeNode Title="H01F7/16 ###可直线移动的衔铁(H01F 7/17优先)[6]" Target="frmContent" Href="../searchservlet?query=H01F7/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F7/16"/>
+        <TreeNode Title="H01F7/17 ###枢轴式和直线移动式衔铁[6]" Target="frmContent" Href="../searchservlet?query=H01F7/17&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F7/17"/>
+        <TreeNode Title="H01F7/18 ###用于得到所需工作特性的电路装置，例如用于慢操作的、用于顺序激励绕组的、用于高速激励绕组的" Target="frmContent" Href="../searchservlet?query=H01F7/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F7/18"/>
+      </TreeNode>
+      <TreeNode Title="H01F7/20 ##无衔铁的(磁芯入H01F 3/00；线圈入H01F 5/00)" Target="frmContent" Href="../searchservlet?query=H01F7/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F7/20"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="H01F10/00 磁性薄膜，如单畴结构的(磁记录载体入G11B 5/00；薄膜磁存储器入G11C)" Target="frmContent" Href="../searchservlet?query=H01F10/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F10/00">
+    <TreeNode Title="H01F10/06 #按与连接导体或互作用导体的耦合或物理接触特点区分的" Target="frmContent" Href="../searchservlet?query=H01F10/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F10/06"/>
+    <TreeNode Title="H01F10/08 #按磁层的特性区分的(在基底上施加磁性膜入H01F 41/14)[3]" Target="frmContent" Href="../searchservlet?query=H01F10/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F10/08">
+      <TreeNode Title="H01F10/10 ##按成分区分的[3]" Target="frmContent" Href="../searchservlet?query=H01F10/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F10/10">
+        <TreeNode Title="H01F10/12 ###是金属或合金(金属化合物入H01F 10/18)[3]" Target="frmContent" Href="../searchservlet?query=H01F10/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F10/12">
+          <TreeNode Title="H01F10/13 ####非晶磁性合金，例如金属玻璃[7]" Target="frmContent" Href="../searchservlet?query=H01F10/13&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F10/13"/>
+          <TreeNode Title="H01F10/14 ####含有铁或镍的(H01F 10/13，H01F 10/16优先)[3，7]" Target="frmContent" Href="../searchservlet?query=H01F10/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F10/14"/>
+          <TreeNode Title="H01F10/16 ####含有钴的(H01F 10/13优先)[3，7]" Target="frmContent" Href="../searchservlet?query=H01F10/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F10/16"/>
+        </TreeNode>
+        <TreeNode Title="H01F10/18 ###是化合物的[3]" Target="frmContent" Href="../searchservlet?query=H01F10/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F10/18">
+          <TreeNode Title="H01F10/187 ####非晶化合物[7]" Target="frmContent" Href="../searchservlet?query=H01F10/187&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F10/187"/>
+          <TreeNode Title="H01F10/193 ####磁性半导体化合物[7]" Target="frmContent" Href="../searchservlet?query=H01F10/193&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F10/193"/>
+          <TreeNode Title="H01F10/20 ####铁氧体[3]" Target="frmContent" Href="../searchservlet?query=H01F10/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F10/20">
+            <TreeNode Title="H01F10/22 #####正铁氧体[3]" Target="frmContent" Href="../searchservlet?query=H01F10/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F10/22"/>
+            <TreeNode Title="H01F10/24 #####石榴石[3]" Target="frmContent" Href="../searchservlet?query=H01F10/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F10/24"/>
+          </TreeNode>
+        </TreeNode>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="H01F10/26 #按基底或中间层特性区分的(H01F 10/32优先)[3，7]" Target="frmContent" Href="../searchservlet?query=H01F10/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F10/26">
+      <TreeNode Title="H01F10/28 ##按基底的成分区分的[3]" Target="frmContent" Href="../searchservlet?query=H01F10/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F10/28"/>
+      <TreeNode Title="H01F10/30 ##按中间层的成分区分的[3]" Target="frmContent" Href="../searchservlet?query=H01F10/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F10/30"/>
+    </TreeNode>
+    <TreeNode Title="H01F10/32 #自旋交换耦合的多层，例如纳米结构的超晶格[7]" Target="frmContent" Href="../searchservlet?query=H01F10/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F10/32"/>
+  </TreeNode>
+  <TreeNode Title="H01F13/00 磁化或去磁的设备或方法(用于船只消磁的入B63G 9/06；用于钟或表消磁的入G04D 9/00；彩色电视的去磁装置入H04N 9/29)" Target="frmContent" Href="../searchservlet?query=H01F13/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F13/00"/>
+  <TreeNode Title="H01F17/00 信号类型的固定电感器(一般线圈入H01F 5/00)" Target="frmContent" Href="../searchservlet?query=H01F17/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F17/00">
+    <TreeNode Title="H01F17/02 #不带有磁芯的" Target="frmContent" Href="../searchservlet?query=H01F17/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F17/02">
+      <TreeNode Title="H01F17/03 ##带有陶瓷框架的" Target="frmContent" Href="../searchservlet?query=H01F17/03&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F17/03"/>
+    </TreeNode>
+    <TreeNode Title="H01F17/04 #带有磁芯的" Target="frmContent" Href="../searchservlet?query=H01F17/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F17/04">
+      <TreeNode Title="H01F17/06 ##磁芯实质上是自身闭合的，如环形" Target="frmContent" Href="../searchservlet?query=H01F17/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F17/06">
+        <TreeNode Title="H01F17/08 ###通信电路用加感线圈" Target="frmContent" Href="../searchservlet?query=H01F17/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F17/08"/>
+      </TreeNode>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="H01F19/00 信号类型的固定变压器或固定互感器(H01F 36/00优先)[3]" Target="frmContent" Href="../searchservlet?query=H01F19/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F19/00">
+    <TreeNode Title="H01F19/02 #声频变压器或互感器，即不适用于处理远超过声频范围的频率" Target="frmContent" Href="../searchservlet?query=H01F19/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F19/02"/>
+    <TreeNode Title="H01F19/04 #适用于使用频率远超过声频范围的变压器或互感器(谐振电路入H03H)" Target="frmContent" Href="../searchservlet?query=H01F19/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F19/04">
+      <TreeNode Title="H01F19/06 ##宽频带变压器，例如适于处理很低音频范围内的频率的" Target="frmContent" Href="../searchservlet?query=H01F19/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F19/06"/>
+      <TreeNode Title="H01F19/08 ##有偏磁的变压器，例如用于脉冲状态的" Target="frmContent" Href="../searchservlet?query=H01F19/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F19/08"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="H01F21/00 信号类型的可变电感器或变压器(H01F 36/00优先)[3]" Target="frmContent" Href="../searchservlet?query=H01F21/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F21/00">
+    <TreeNode Title="H01F21/02 #连续可变的，例如可变电感器" Target="frmContent" Href="../searchservlet?query=H01F21/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F21/02">
+      <TreeNode Title="H01F21/04 ##通过绕组线匝或部分绕组的相对移动" Target="frmContent" Href="../searchservlet?query=H01F21/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F21/04"/>
+      <TreeNode Title="H01F21/06 ##通过磁芯或部分磁芯相对整个绕组的移动" Target="frmContent" Href="../searchservlet?query=H01F21/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F21/06"/>
+      <TreeNode Title="H01F21/08 ##通过改变磁芯的导磁率，例如改变偏磁" Target="frmContent" Href="../searchservlet?query=H01F21/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F21/08"/>
+      <TreeNode Title="H01F21/10 ##使用可移动的屏蔽" Target="frmContent" Href="../searchservlet?query=H01F21/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F21/10"/>
+    </TreeNode>
+    <TreeNode Title="H01F21/12 #不连续可变的，例如抽头的" Target="frmContent" Href="../searchservlet?query=H01F21/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F21/12"/>
+  </TreeNode>
+  <TreeNode Title="H01F27/00 变压器或电感器的一般零部件[6]" Target="frmContent" Href="../searchservlet?query=H01F27/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F27/00">
+    <TreeNode Title="H01F27/02 #外壳" Target="frmContent" Href="../searchservlet?query=H01F27/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F27/02">
+      <TreeNode Title="H01F27/04 ##把导体或轴引穿过外壳，例如用于抽头切换装置" Target="frmContent" Href="../searchservlet?query=H01F27/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F27/04"/>
+    </TreeNode>
+    <TreeNode Title="H01F27/06 #变压器、电抗器或扼流圈的安装、支持或悬挂" Target="frmContent" Href="../searchservlet?query=H01F27/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F27/06"/>
+    <TreeNode Title="H01F27/08 #冷却(热传导元件入F28F)；通风(外壳的结构零部件入H01F 27/02)" Target="frmContent" Href="../searchservlet?query=H01F27/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F27/08">
+      <TreeNode Title="H01F27/10 ##液体冷却" Target="frmContent" Href="../searchservlet?query=H01F27/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F27/10">
+        <TreeNode Title="H01F27/12 ###油冷却" Target="frmContent" Href="../searchservlet?query=H01F27/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F27/12">
+          <TreeNode Title="H01F27/14 ####膨胀室；储油器；气室；清洁、干燥或填充装置" Target="frmContent" Href="../searchservlet?query=H01F27/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F27/14"/>
+        </TreeNode>
+        <TreeNode Title="H01F27/16 ###水冷" Target="frmContent" Href="../searchservlet?query=H01F27/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F27/16"/>
+        <TreeNode Title="H01F27/18 ###用蒸发液体的方法" Target="frmContent" Href="../searchservlet?query=H01F27/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F27/18"/>
+      </TreeNode>
+      <TreeNode Title="H01F27/20 ##用特殊气体或非环境空气冷却" Target="frmContent" Href="../searchservlet?query=H01F27/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F27/20"/>
+      <TreeNode Title="H01F27/22 ##通过固体或粉状填料热传导冷却" Target="frmContent" Href="../searchservlet?query=H01F27/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F27/22"/>
+    </TreeNode>
+    <TreeNode Title="H01F27/23 #腐蚀防护[6]" Target="frmContent" Href="../searchservlet?query=H01F27/23&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F27/23"/>
+    <TreeNode Title="H01F27/24 #磁芯" Target="frmContent" Href="../searchservlet?query=H01F27/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F27/24">
+      <TreeNode Title="H01F27/245 ##薄片制成的，例如晶粒取向的(H01F 27/26优先)[5]" Target="frmContent" Href="../searchservlet?query=H01F27/245&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F27/245"/>
+      <TreeNode Title="H01F27/25 ##条或带制成的(H01F 27/26优先)[5]" Target="frmContent" Href="../searchservlet?query=H01F27/25&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F27/25"/>
+      <TreeNode Title="H01F27/255 ##颗粒制成的(H01F 27/26优先)[5]" Target="frmContent" Href="../searchservlet?query=H01F27/255&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F27/255"/>
+      <TreeNode Title="H01F27/26 ##把磁芯部件紧固在一起；磁芯在外壳或支架上的固定或安装(在线圈上的安装入H01F 27/30)" Target="frmContent" Href="../searchservlet?query=H01F27/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F27/26"/>
+    </TreeNode>
+    <TreeNode Title="H01F27/28 #线圈；绕组；导电连接" Target="frmContent" Href="../searchservlet?query=H01F27/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F27/28">
+      <TreeNode Title="H01F27/29 ##接线柱；抽头装置[6]" Target="frmContent" Href="../searchservlet?query=H01F27/29&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F27/29"/>
+      <TreeNode Title="H01F27/30 ##把线圈、绕组或其部件固定或夹紧在一起；线圈或绕组在磁芯、外壳或其他支架上的固定或安装" Target="frmContent" Href="../searchservlet?query=H01F27/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F27/30"/>
+      <TreeNode Title="H01F27/32 ##线圈、绕组或其部件的绝缘" Target="frmContent" Href="../searchservlet?query=H01F27/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F27/32"/>
+    </TreeNode>
+    <TreeNode Title="H01F27/33 #阻尼噪声的装置" Target="frmContent" Href="../searchservlet?query=H01F27/33&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F27/33"/>
+    <TreeNode Title="H01F27/34 #防止或减少不需要的电或磁的影响，例如空载损失、电抗性电流、谐波、振荡、漏磁的特殊装置" Target="frmContent" Href="../searchservlet?query=H01F27/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F27/34">
+      <TreeNode Title="H01F27/36 ##电或磁的屏蔽或遮蔽(可动作改变电感的入H01F 21/10)[6]" Target="frmContent" Href="../searchservlet?query=H01F27/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F27/36"/>
+      <TreeNode Title="H01F27/38 ##辅助的磁芯构件；辅助线圈或绕组" Target="frmContent" Href="../searchservlet?query=H01F27/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F27/38"/>
+    </TreeNode>
+    <TreeNode Title="H01F27/40 #与内装电元件，例如熔断器的结构联结" Target="frmContent" Href="../searchservlet?query=H01F27/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F27/40"/>
+    <TreeNode Title="H01F27/42 #改进或补偿变压器、电抗器或扼流圈的电性能的专用电路(为获得期望的输出，控制变压器、电抗器或扼流圈的电路入H02P 13/00；阻抗网络入H03H)[6]" Target="frmContent" Href="../searchservlet?query=H01F27/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F27/42"/>
+  </TreeNode>
+  <TreeNode Title="H01F29/00 未包括在H01F 21/00组内的可变变压器或电感器" Target="frmContent" Href="../searchservlet?query=H01F29/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F29/00">
+    <TreeNode Title="H01F29/02 #在线圈或绕组上带有抽头的；有重排或互连绕组的装置的" Target="frmContent" Href="../searchservlet?query=H01F29/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F29/02">
+      <TreeNode Title="H01F29/04 ##有切换抽头而不中断负载电流的装置的" Target="frmContent" Href="../searchservlet?query=H01F29/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F29/04"/>
+    </TreeNode>
+    <TreeNode Title="H01F29/06 #带有在或沿着绕组滑动或滚动的集电器的" Target="frmContent" Href="../searchservlet?query=H01F29/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F29/06"/>
+    <TreeNode Title="H01F29/08 #带有可移动的铁芯、线圈、绕组或屏蔽以补偿电压或相位移的变化的，例如感应调整器" Target="frmContent" Href="../searchservlet?query=H01F29/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F29/08">
+      <TreeNode Title="H01F29/10 ##有可动的磁路部分" Target="frmContent" Href="../searchservlet?query=H01F29/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F29/10"/>
+      <TreeNode Title="H01F29/12 ##有可动的线圈、绕组或其部件；有可动屏蔽" Target="frmContent" Href="../searchservlet?query=H01F29/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F29/12"/>
+    </TreeNode>
+    <TreeNode Title="H01F29/14 #带有可变磁偏的(磁放大器入H03F)" Target="frmContent" Href="../searchservlet?query=H01F29/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F29/14"/>
+  </TreeNode>
+  <TreeNode Title="H01F30/00 未包含在H01F 19/00组内的固定变压器或电感器[6]" Target="frmContent" Href="../searchservlet?query=H01F30/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F30/00">
+    <TreeNode Title="H01F30/02 #自耦变压器[6]" Target="frmContent" Href="../searchservlet?query=H01F30/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F30/02"/>
+    <TreeNode Title="H01F30/04 #有两个或两个以上次级绕组对各自的负载供电的，例如用于收音机电源装置的[6]" Target="frmContent" Href="../searchservlet?query=H01F30/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F30/04"/>
+    <TreeNode Title="H01F30/06 #按结构区分的[6]" Target="frmContent" Href="../searchservlet?query=H01F30/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F30/06">
+      <TreeNode Title="H01F30/08 ##不带有磁芯的[6]" Target="frmContent" Href="../searchservlet?query=H01F30/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F30/08"/>
+      <TreeNode Title="H01F30/10 ##单相变压器(H01F 30/16优先)[6]" Target="frmContent" Href="../searchservlet?query=H01F30/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F30/10"/>
+      <TreeNode Title="H01F30/12 ##双相、三相或多相变压器[6]" Target="frmContent" Href="../searchservlet?query=H01F30/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F30/12">
+        <TreeNode Title="H01F30/14 ###用于改变相数的[6]" Target="frmContent" Href="../searchservlet?query=H01F30/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F30/14"/>
+      </TreeNode>
+      <TreeNode Title="H01F30/16 ##环形变压器[6]" Target="frmContent" Href="../searchservlet?query=H01F30/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F30/16"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="H01F36/00 带有超导绕组的变压器或带有低温工作绕组的变压器(超导磁体或超导线圈入H01F 6/00)[3]" Target="frmContent" Href="../searchservlet?query=H01F36/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F36/00"/>
+  <TreeNode Title="H01F37/00 未包含在H01F 17/00组内的固定电感器[6]" Target="frmContent" Href="../searchservlet?query=H01F37/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F37/00"/>
+  <TreeNode Title="H01F38/00 适用于特殊用途或功能的变压器或电感器[6]" Target="frmContent" Href="../searchservlet?query=H01F38/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F38/00">
+    <TreeNode Title="H01F38/02 #用于非线性工作的[6]" Target="frmContent" Href="../searchservlet?query=H01F38/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F38/02">
+      <TreeNode Title="H01F38/04 ##用于改变频率的[6]" Target="frmContent" Href="../searchservlet?query=H01F38/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F38/04"/>
+      <TreeNode Title="H01F38/06 ##用于改变波形的[6]" Target="frmContent" Href="../searchservlet?query=H01F38/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F38/06"/>
+    </TreeNode>
+    <TreeNode Title="H01F38/08 #高泄漏变压器或电感器[6]" Target="frmContent" Href="../searchservlet?query=H01F38/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F38/08">
+      <TreeNode Title="H01F38/10 ##镇流器，如用于放电灯的[6]" Target="frmContent" Href="../searchservlet?query=H01F38/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F38/10"/>
+    </TreeNode>
+    <TreeNode Title="H01F38/12 #点火装置，如用于内燃机的[6]" Target="frmContent" Href="../searchservlet?query=H01F38/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F38/12"/>
+    <TreeNode Title="H01F38/14 #电感耦合[6]" Target="frmContent" Href="../searchservlet?query=H01F38/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F38/14"/>
+    <TreeNode Title="H01F38/16 #级联变压器，如用于超高压的[6]" Target="frmContent" Href="../searchservlet?query=H01F38/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F38/16"/>
+    <TreeNode Title="H01F38/18 #族转变压器[6]" Target="frmContent" Href="../searchservlet?query=H01F38/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F38/18"/>
+    <TreeNode Title="H01F38/20 #仪用互感器[6]" Target="frmContent" Href="../searchservlet?query=H01F38/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F38/20">
+      <TreeNode Title="H01F38/22 ##用于单相交流的[6]" Target="frmContent" Href="../searchservlet?query=H01F38/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F38/22">
+        <TreeNode Title="H01F38/24 ###电压互感器[6]" Target="frmContent" Href="../searchservlet?query=H01F38/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F38/24">
+          <TreeNode Title="H01F38/26 ####结构[6]" Target="frmContent" Href="../searchservlet?query=H01F38/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F38/26"/>
+        </TreeNode>
+        <TreeNode Title="H01F38/28 ###电流互感器[6]" Target="frmContent" Href="../searchservlet?query=H01F38/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F38/28">
+          <TreeNode Title="H01F38/30 ####结构[6]" Target="frmContent" Href="../searchservlet?query=H01F38/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F38/30"/>
+          <TreeNode Title="H01F38/32 ####电路装置[6]" Target="frmContent" Href="../searchservlet?query=H01F38/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F38/32"/>
+        </TreeNode>
+        <TreeNode Title="H01F38/34 ###电压和电流互感器的组合[6]" Target="frmContent" Href="../searchservlet?query=H01F38/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F38/34">
+          <TreeNode Title="H01F38/36 ####结构[6]" Target="frmContent" Href="../searchservlet?query=H01F38/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F38/36"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="H01F38/38 ##用于多相交流的[6]" Target="frmContent" Href="../searchservlet?query=H01F38/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F38/38"/>
+      <TreeNode Title="H01F38/40 ##用于直流的[6]" Target="frmContent" Href="../searchservlet?query=H01F38/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F38/40"/>
+    </TreeNode>
+    <TreeNode Title="H01F38/42 #回扫变压器[6]" Target="frmContent" Href="../searchservlet?query=H01F38/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F38/42"/>
+  </TreeNode>
+  <TreeNode Title="H01F41/00 专用于制造或装配包含在本小类的装置的设备或方法" Target="frmContent" Href="../searchservlet?query=H01F41/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F41/00">
+    <TreeNode Title="H01F41/02 #用于制造磁芯、线圈或磁体的(H01F 41/14优先；用于电机的入H02K 15/00)[3]" Target="frmContent" Href="../searchservlet?query=H01F41/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F41/02">
+      <TreeNode Title="H01F41/04 ##用于制造线圈的" Target="frmContent" Href="../searchservlet?query=H01F41/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F41/04">
+        <TreeNode Title="H01F41/06 ###绕线" Target="frmContent" Href="../searchservlet?query=H01F41/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F41/06">
+          <TreeNode Title="H01F41/08 ####在自身闭合的磁芯或线圈架如环上绕导线或穿通导线(用于互连数字式存储元件的入G11C 5/12)" Target="frmContent" Href="../searchservlet?query=H01F41/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F41/08"/>
+        </TreeNode>
+        <TreeNode Title="H01F41/10 ###把引线连到绕组上(进行一般电连接入H01R 43/00)" Target="frmContent" Href="../searchservlet?query=H01F41/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F41/10"/>
+        <TreeNode Title="H01F41/12 ###绕组绝缘(一般导线的绝缘入H01B 13/06)" Target="frmContent" Href="../searchservlet?query=H01F41/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F41/12"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="H01F41/14 #用于在基底上施加磁性膜(一般的覆盖金属或含金属的材料入C23C；制造记录载体入G11B 5/84)[3]" Target="frmContent" Href="../searchservlet?query=H01F41/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F41/14">
+      <TreeNode Title="H01F41/16 ##磁材料呈颗粒状施加的，例如用丝网印刷法(H01F 41/18优先)[3，7]" Target="frmContent" Href="../searchservlet?query=H01F41/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F41/16"/>
+      <TreeNode Title="H01F41/18 ##用阴极溅射方法[3]" Target="frmContent" Href="../searchservlet?query=H01F41/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F41/18"/>
+      <TreeNode Title="H01F41/20 ##用蒸发方法[3]" Target="frmContent" Href="../searchservlet?query=H01F41/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F41/20"/>
+      <TreeNode Title="H01F41/22 ##热处理；热分解；化学气相沉积[3]" Target="frmContent" Href="../searchservlet?query=H01F41/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F41/22"/>
+      <TreeNode Title="H01F41/24 ##从液体[3]" Target="frmContent" Href="../searchservlet?query=H01F41/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F41/24">
+        <TreeNode Title="H01F41/26 ###用电流[3]" Target="frmContent" Href="../searchservlet?query=H01F41/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F41/26"/>
+        <TreeNode Title="H01F41/28 ###用液相外延[3]" Target="frmContent" Href="../searchservlet?query=H01F41/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F41/28"/>
+      </TreeNode>
+      <TreeNode Title="H01F41/30 ##用于施加纳米结构，例如用分子束外延法(MBE)[7]" Target="frmContent" Href="../searchservlet?query=H01F41/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F41/30"/>
+    </TreeNode>
+    <TreeNode Title="H01F41/32 #用于在磁性膜上施加导体材料、绝缘材料或磁性材料[7]" Target="frmContent" Href="../searchservlet?query=H01F41/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F41/32">
+      <TreeNode Title="H01F41/34 ##按照图形，例如用平版印刷法[7]" Target="frmContent" Href="../searchservlet?query=H01F41/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01F41/34"/>
+    </TreeNode>
+  </TreeNode>
+</Root>

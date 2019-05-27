@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="G01C1/00 测量角度" Target="frmContent" Href="../searchservlet?query=G01C1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C1/00">
+    <TreeNode Title="G01C1/02 #经纬仪" Target="frmContent" Href="../searchservlet?query=G01C1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C1/02">
+      <TreeNode Title="G01C1/04 ##与摄影机组合" Target="frmContent" Href="../searchservlet?query=G01C1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C1/04"/>
+      <TreeNode Title="G01C1/06 ##度盘读数机构" Target="frmContent" Href="../searchservlet?query=G01C1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C1/06"/>
+    </TreeNode>
+    <TreeNode Title="G01C1/08 #六分仪" Target="frmContent" Href="../searchservlet?query=G01C1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C1/08">
+      <TreeNode Title="G01C1/10 ##含有人为水平面的(G01C 1/14优先)" Target="frmContent" Href="../searchservlet?query=G01C1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C1/10">
+        <TreeNode Title="G01C1/12 ###有稳定反射镜补偿的" Target="frmContent" Href="../searchservlet?query=G01C1/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C1/12"/>
+      </TreeNode>
+      <TreeNode Title="G01C1/14 ##潜望式六分仪" Target="frmContent" Href="../searchservlet?query=G01C1/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C1/14"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="G01C3/00 视距测量；光学测距仪(测量长度的卷尺、测链或测轮入G01B 3/00；有源三角测量系统，即使用除了无线电波之外的电磁波的发射和反射入G01S 17/48)[1,8]" Target="frmContent" Href="../searchservlet?query=G01C3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C3/00">
+    <TreeNode Title="G01C3/02 #零部件" Target="frmContent" Href="../searchservlet?query=G01C3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C3/02">
+      <TreeNode Title="G01C3/04 ##适用与望远镜或双筒望远镜相组合的测距器" Target="frmContent" Href="../searchservlet?query=G01C3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C3/04"/>
+      <TreeNode Title="G01C3/06 ##应用电气装置以获得最后的指示" Target="frmContent" Href="../searchservlet?query=G01C3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C3/06">
+        <TreeNode Title="G01C3/08 ###应用电辐射检测器" Target="frmContent" Href="../searchservlet?query=G01C3/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C3/08"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="G01C3/10 #利用视差三角形的，该视差三角形系由可变角度和设在观测站，例如仪器上的固定长度基线构成[1,8]" Target="frmContent" Href="../searchservlet?query=G01C3/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C3/10">
+      <TreeNode Title="G01C3/12 ##用单筒望远镜观测单个点，例如符合式(G01C 3/20优先)" Target="frmContent" Href="../searchservlet?query=G01C3/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C3/12"/>
+      <TreeNode Title="G01C3/14 ##用双筒望远镜观测单个点，例如立体镜式(G01C 3/20优先)" Target="frmContent" Href="../searchservlet?query=G01C3/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C3/14">
+        <TreeNode Title="G01C3/16 ###测量标志" Target="frmContent" Href="../searchservlet?query=G01C3/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C3/16"/>
+      </TreeNode>
+      <TreeNode Title="G01C3/18 ##基线的每端有一个观测点(G01C 3/20优先)" Target="frmContent" Href="../searchservlet?query=G01C3/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C3/18"/>
+      <TreeNode Title="G01C3/20 ##适用于目标高度测量的" Target="frmContent" Href="../searchservlet?query=G01C3/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C3/20"/>
+    </TreeNode>
+    <TreeNode Title="G01C3/22 #利用视差三角形的，该视差三角形系由可变角度和设在目标处、目标附近或由目标组成的固定长度基线构成[1,8]" Target="frmContent" Href="../searchservlet?query=G01C3/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C3/22"/>
+    <TreeNode Title="G01C3/24 #利用视差三角形的，该视差三角形系由固定角度和设在观测站，例如仪器上的长度可变的基线构成[1,8]" Target="frmContent" Href="../searchservlet?query=G01C3/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C3/24"/>
+    <TreeNode Title="G01C3/26 #利用视差三角形的，该视差三角形系由固定角度和设在目标处、目标附近或由目标组成的长度可变的基线构成[1,8]" Target="frmContent" Href="../searchservlet?query=G01C3/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C3/26">
+      <TreeNode Title="G01C3/28 ##考虑到归算为水平面距离的" Target="frmContent" Href="../searchservlet?query=G01C3/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C3/28">
+        <TreeNode Title="G01C3/30 ###适用于目标高度的测量的，例如准距仪" Target="frmContent" Href="../searchservlet?query=G01C3/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C3/30"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="G01C3/32 #通过将目标聚焦，例如聚焦在毛玻璃屏上" Target="frmContent" Href="../searchservlet?query=G01C3/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C3/32"/>
+  </TreeNode>
+  <TreeNode Title="G01C5/00 高程测量；横向视距测量；分开点间的水准测量；水准仪(G01C 3/20，G01C 3/30优先)" Target="frmContent" Href="../searchservlet?query=G01C5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C5/00">
+    <TreeNode Title="G01C5/02 #含有视线自动稳定的" Target="frmContent" Href="../searchservlet?query=G01C5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C5/02"/>
+    <TreeNode Title="G01C5/04 #流体静力水准测量，即在分开点上应用柔韧的、互相连通的液体容器" Target="frmContent" Href="../searchservlet?query=G01C5/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C5/04"/>
+    <TreeNode Title="G01C5/06 #通过使用气压计量装置" Target="frmContent" Href="../searchservlet?query=G01C5/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C5/06"/>
+  </TreeNode>
+  <TreeNode Title="G01C7/00 断面描绘(应用摄影测量学或视频测量学方法的入G01C 11/00)" Target="frmContent" Href="../searchservlet?query=G01C7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C7/00">
+    <TreeNode Title="G01C7/02 #大地表面的" Target="frmContent" Href="../searchservlet?query=G01C7/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C7/02">
+      <TreeNode Title="G01C7/04 ##包括沿着被描绘断面移动的运载工具的" Target="frmContent" Href="../searchservlet?query=G01C7/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C7/04"/>
+    </TreeNode>
+    <TreeNode Title="G01C7/06 #空腔的，例如隧道的" Target="frmContent" Href="../searchservlet?query=G01C7/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C7/06"/>
+  </TreeNode>
+  <TreeNode Title="G01C9/00 测量倾斜度，例如应用倾斜仪，应用水准器" Target="frmContent" Href="../searchservlet?query=G01C9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C9/00">
+    <TreeNode Title="G01C9/02 #零部件" Target="frmContent" Href="../searchservlet?query=G01C9/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C9/02">
+      <TreeNode Title="G01C9/04 ##传感元件与给出放大的读数的末级指示器之间的传输装置" Target="frmContent" Href="../searchservlet?query=G01C9/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C9/04"/>
+      <TreeNode Title="G01C9/06 ##电或光电的指示或读数装置" Target="frmContent" Href="../searchservlet?query=G01C9/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C9/06"/>
+      <TreeNode Title="G01C9/08 ##由于仪器运动产生的加速力的补偿装置" Target="frmContent" Href="../searchservlet?query=G01C9/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C9/08"/>
+    </TreeNode>
+    <TreeNode Title="G01C9/10 #应用滚动物体" Target="frmContent" Href="../searchservlet?query=G01C9/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C9/10"/>
+    <TreeNode Title="G01C9/12 #应用单摆(铅垂线入G01C 15/10)" Target="frmContent" Href="../searchservlet?query=G01C9/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C9/12">
+      <TreeNode Title="G01C9/14 ##可在不只一个方向上运动" Target="frmContent" Href="../searchservlet?query=G01C9/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C9/14"/>
+    </TreeNode>
+    <TreeNode Title="G01C9/16 #应用多摆" Target="frmContent" Href="../searchservlet?query=G01C9/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C9/16"/>
+    <TreeNode Title="G01C9/18 #应用液体" Target="frmContent" Href="../searchservlet?query=G01C9/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C9/18">
+      <TreeNode Title="G01C9/20 ##根据液体表面相对于它的容器的倾斜度给出指示" Target="frmContent" Href="../searchservlet?query=G01C9/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C9/20">
+        <TreeNode Title="G01C9/22 ###用彼此以一定方式互相连通的容器" Target="frmContent" Href="../searchservlet?query=G01C9/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C9/22"/>
+      </TreeNode>
+      <TreeNode Title="G01C9/24 ##密闭的容器中部分充注液体，因而留有气泡" Target="frmContent" Href="../searchservlet?query=G01C9/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C9/24">
+        <TreeNode Title="G01C9/26 ###零部件" Target="frmContent" Href="../searchservlet?query=G01C9/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C9/26">
+          <TreeNode Title="G01C9/28 ####安装架" Target="frmContent" Href="../searchservlet?query=G01C9/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C9/28"/>
+          <TreeNode Title="G01C9/30 ####调节气泡大小的装置" Target="frmContent" Href="../searchservlet?query=G01C9/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C9/30"/>
+          <TreeNode Title="G01C9/32 ####便于观测气泡位置用的装置，例如照明装置" Target="frmContent" Href="../searchservlet?query=G01C9/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C9/32"/>
+        </TreeNode>
+        <TreeNode Title="G01C9/34 ###管状的，即仅在一个方向上指示水平位置的" Target="frmContent" Href="../searchservlet?query=G01C9/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C9/34"/>
+        <TreeNode Title="G01C9/36 ###球形的，即在所有方向上指示水平位置的" Target="frmContent" Href="../searchservlet?query=G01C9/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C9/36"/>
+      </TreeNode>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="G01C11/00 摄影测量学或视频测量学，例如，立体摄影测量学；摄影测量术[1,8]" Target="frmContent" Href="../searchservlet?query=G01C11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C11/00">
+    <TreeNode Title="G01C11/02 #专门用于摄影测量学或摄影测量术的照相装置，例如控制照片重叠的装置" Target="frmContent" Href="../searchservlet?query=G01C11/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C11/02"/>
+    <TreeNode Title="G01C11/04 #照片的判读" Target="frmContent" Href="../searchservlet?query=G01C11/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C11/04">
+      <TreeNode Title="G01C11/06 ##通过比较两个或更多个同一地区的照片" Target="frmContent" Href="../searchservlet?query=G01C11/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C11/06">
+        <TreeNode Title="G01C11/08 ###照片是在不同的相对位置上拍摄的" Target="frmContent" Href="../searchservlet?query=G01C11/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C11/08">
+          <TreeNode Title="G01C11/10 ####应用计算机控制拍照位置" Target="frmContent" Href="../searchservlet?query=G01C11/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C11/10"/>
+        </TreeNode>
+        <TreeNode Title="G01C11/12 ###照片是在同一个相对位置上拍摄的" Target="frmContent" Href="../searchservlet?query=G01C11/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C11/12">
+          <TreeNode Title="G01C11/14 ####使用光学投影(G01C 11/26优先)" Target="frmContent" Href="../searchservlet?query=G01C11/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C11/14">
+            <TreeNode Title="G01C11/16 #####在一个公共平面内" Target="frmContent" Href="../searchservlet?query=G01C11/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C11/16">
+              <TreeNode Title="G01C11/18 ######包括扫描装置" Target="frmContent" Href="../searchservlet?query=G01C11/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C11/18"/>
+            </TreeNode>
+            <TreeNode Title="G01C11/20 #####在不同的平面内" Target="frmContent" Href="../searchservlet?query=G01C11/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C11/20"/>
+          </TreeNode>
+          <TreeNode Title="G01C11/22 ####使用机械投影(G01C 11/26优先)" Target="frmContent" Href="../searchservlet?query=G01C11/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C11/22"/>
+          <TreeNode Title="G01C11/24 ####使用光学机械投影(G01C 11/26优先)" Target="frmContent" Href="../searchservlet?query=G01C11/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C11/24"/>
+          <TreeNode Title="G01C11/26 ####应用计算机控制照片的位置" Target="frmContent" Href="../searchservlet?query=G01C11/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C11/26"/>
+        </TreeNode>
+        <TreeNode Title="G01C11/28 ###专用于记录像点数据，例如用于断面描绘" Target="frmContent" Href="../searchservlet?query=G01C11/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C11/28"/>
+      </TreeNode>
+      <TreeNode Title="G01C11/30 ##通过三角测量" Target="frmContent" Href="../searchservlet?query=G01C11/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C11/30">
+        <TreeNode Title="G01C11/32 ###辐射三角测量" Target="frmContent" Href="../searchservlet?query=G01C11/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C11/32"/>
+        <TreeNode Title="G01C11/34 ###空中三角测量" Target="frmContent" Href="../searchservlet?query=G01C11/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C11/34"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="G01C11/36 #视频测量学，即不同来源的视频信号的电子处理以提供视差或量程信息[8]" Target="frmContent" Href="../searchservlet?query=G01C11/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C11/36"/>
+  </TreeNode>
+  <TreeNode Title="G01C13/00 专门用于露天水源勘测,例如海洋、湖泊、江河或运河(液位的测量入G01F)" Target="frmContent" Href="../searchservlet?query=G01C13/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C13/00"/>
+  <TreeNode Title="G01C15/00 不包括在G01C 1/00至G01C 13/00各组的测量器械或部件" Target="frmContent" Href="../searchservlet?query=G01C15/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C15/00">
+    <TreeNode Title="G01C15/02 #标记测点的装置" Target="frmContent" Href="../searchservlet?query=G01C15/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C15/02">
+      <TreeNode Title="G01C15/04 ##永久标石；界标" Target="frmContent" Href="../searchservlet?query=G01C15/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C15/04"/>
+      <TreeNode Title="G01C15/06 ##测量标尺；可动标志" Target="frmContent" Href="../searchservlet?query=G01C15/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C15/06">
+        <TreeNode Title="G01C15/08 ###地面标志的对中或定位用的杆或标志" Target="frmContent" Href="../searchservlet?query=G01C15/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C15/08"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="G01C15/10 #铅垂线" Target="frmContent" Href="../searchservlet?query=G01C15/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C15/10"/>
+    <TreeNode Title="G01C15/12 #测定固定角度(例如直角)的器械" Target="frmContent" Href="../searchservlet?query=G01C15/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C15/12"/>
+    <TreeNode Title="G01C15/14 #人为水平面" Target="frmContent" Href="../searchservlet?query=G01C15/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C15/14"/>
+  </TreeNode>
+  <TreeNode Title="G01C17/00 罗盘；导航或测绘用的确定真北或磁北的装置(应用陀螺效应的入G01C 19/00；)" Target="frmContent" Href="../searchservlet?query=G01C17/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C17/00">
+    <TreeNode Title="G01C17/02 #磁罗盘" Target="frmContent" Href="../searchservlet?query=G01C17/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C17/02">
+      <TreeNode Title="G01C17/04 ##具有指北的磁性元件，例如磁针" Target="frmContent" Href="../searchservlet?query=G01C17/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C17/04">
+        <TreeNode Title="G01C17/06 ###悬置磁性元件" Target="frmContent" Href="../searchservlet?query=G01C17/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C17/06">
+          <TreeNode Title="G01C17/08 ####浮动悬置的" Target="frmContent" Href="../searchservlet?query=G01C17/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C17/08"/>
+        </TreeNode>
+        <TreeNode Title="G01C17/10 ###将所观测的方向与指北方向比较" Target="frmContent" Href="../searchservlet?query=G01C17/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C17/10">
+          <TreeNode Title="G01C17/12 ####应用照准装置，例如对测量罗盘" Target="frmContent" Href="../searchservlet?query=G01C17/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C17/12"/>
+          <TreeNode Title="G01C17/14 ####应用参考标记，例如对船用罗盘" Target="frmContent" Href="../searchservlet?query=G01C17/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C17/14"/>
+          <TreeNode Title="G01C17/16 ####应用磁倾仪，例如对测定磁倾角或地层的走向" Target="frmContent" Href="../searchservlet?query=G01C17/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C17/16"/>
+        </TreeNode>
+        <TreeNode Title="G01C17/18 ###罗盘的支承或悬挂，例如应用常平架，应用浮动装置" Target="frmContent" Href="../searchservlet?query=G01C17/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C17/18"/>
+        <TreeNode Title="G01C17/20 ###对罗盘的方位牌或磁针进行观测" Target="frmContent" Href="../searchservlet?query=G01C17/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C17/20">
+          <TreeNode Title="G01C17/22 ####应用投影法" Target="frmContent" Href="../searchservlet?query=G01C17/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C17/22"/>
+          <TreeNode Title="G01C17/24 ####照明装置" Target="frmContent" Href="../searchservlet?query=G01C17/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C17/24"/>
+          <TreeNode Title="G01C17/26 ####应用电传感器传输至终端指示器，例如光电池" Target="frmContent" Href="../searchservlet?query=G01C17/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C17/26"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="G01C17/28 ##电磁罗盘(具有指北磁性元件和电传感器的入G01C 17/26)" Target="frmContent" Href="../searchservlet?query=G01C17/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C17/28">
+        <TreeNode Title="G01C17/30 ###地磁感应罗盘" Target="frmContent" Href="../searchservlet?query=G01C17/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C17/30"/>
+        <TreeNode Title="G01C17/32 ###电子罗盘" Target="frmContent" Href="../searchservlet?query=G01C17/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C17/32"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="G01C17/34 #太阳和天文罗盘" Target="frmContent" Href="../searchservlet?query=G01C17/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C17/34"/>
+    <TreeNode Title="G01C17/36 #主罗盘读数的远距离指示转发器" Target="frmContent" Href="../searchservlet?query=G01C17/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C17/36"/>
+    <TreeNode Title="G01C17/38 #罗盘的校验、校准或补偿" Target="frmContent" Href="../searchservlet?query=G01C17/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C17/38"/>
+  </TreeNode>
+  <TreeNode Title="G01C19/00 陀螺仪；带有振动部件的转动敏感装置；不带有运动部件的转动敏感装置" Target="frmContent" Href="../searchservlet?query=G01C19/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C19/00">
+    <TreeNode Title="G01C19/02 #旋转式陀螺仪" Target="frmContent" Href="../searchservlet?query=G01C19/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C19/02">
+      <TreeNode Title="G01C19/04 ##零部件" Target="frmContent" Href="../searchservlet?query=G01C19/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C19/04">
+        <TreeNode Title="G01C19/06 ###转子" Target="frmContent" Href="../searchservlet?query=G01C19/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C19/06">
+          <TreeNode Title="G01C19/08 ####电驱动的(G01C 19/14优先)" Target="frmContent" Href="../searchservlet?query=G01C19/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C19/08">
+            <TreeNode Title="G01C19/10 #####电源" Target="frmContent" Href="../searchservlet?query=G01C19/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C19/10"/>
+          </TreeNode>
+          <TreeNode Title="G01C19/12 ####流体驱动的(G01C 19/14优先)" Target="frmContent" Href="../searchservlet?query=G01C19/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C19/12"/>
+          <TreeNode Title="G01C19/14 ####流体转子" Target="frmContent" Href="../searchservlet?query=G01C19/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C19/14"/>
+        </TreeNode>
+        <TreeNode Title="G01C19/16 ###悬挂装置；轴承" Target="frmContent" Href="../searchservlet?query=G01C19/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C19/16">
+          <TreeNode Title="G01C19/18 ####转子相对其转轴的运动(G01C 19/20，G01C 19/24优先)" Target="frmContent" Href="../searchservlet?query=G01C19/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C19/18"/>
+          <TreeNode Title="G01C19/20 ####在流体中的" Target="frmContent" Href="../searchservlet?query=G01C19/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C19/20"/>
+          <TreeNode Title="G01C19/22 ####扭转的" Target="frmContent" Href="../searchservlet?query=G01C19/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C19/22"/>
+          <TreeNode Title="G01C19/24 ####应用磁场或静电场" Target="frmContent" Href="../searchservlet?query=G01C19/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C19/24"/>
+        </TreeNode>
+        <TreeNode Title="G01C19/26 ###锁定，即运动零件的制动，例如为运输时用的" Target="frmContent" Href="../searchservlet?query=G01C19/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C19/26"/>
+        <TreeNode Title="G01C19/28 ###传感发送器，即输出转子转轴位移指示的装置" Target="frmContent" Href="../searchservlet?query=G01C19/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C19/28"/>
+        <TreeNode Title="G01C19/30 ###扶正装置，即使转子轴复原至所需位置的装置(指示垂直的仪器用的入G01C 19/46)" Target="frmContent" Href="../searchservlet?query=G01C19/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C19/30"/>
+        <TreeNode Title="G01C19/32 ###旋转式陀螺仪专用的指示或记录装置" Target="frmContent" Href="../searchservlet?query=G01C19/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C19/32"/>
+        <TreeNode Title="G01C19/34 ###用于指示水平面内的方向，例如航向陀螺仪" Target="frmContent" Href="../searchservlet?query=G01C19/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C19/34"/>
+        <TreeNode Title="G01C19/36 ###应用磁装置的指北作用，例如应用陀螺稳定磁罗盘" Target="frmContent" Href="../searchservlet?query=G01C19/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C19/36"/>
+        <TreeNode Title="G01C19/38 ###应用非磁装置的指北作用，例如应用地球旋转的回转罗盘" Target="frmContent" Href="../searchservlet?query=G01C19/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C19/38"/>
+      </TreeNode>
+      <TreeNode Title="G01C19/40 ##用于由主罗盘发出的信号控制的，即复示器罗盘" Target="frmContent" Href="../searchservlet?query=G01C19/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C19/40"/>
+      <TreeNode Title="G01C19/42 ##用于指示转速；用于积分转速" Target="frmContent" Href="../searchservlet?query=G01C19/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C19/42"/>
+      <TreeNode Title="G01C19/44 ##用于垂直指示" Target="frmContent" Href="../searchservlet?query=G01C19/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C19/44">
+        <TreeNode Title="G01C19/46 ###使转子的轴复原至所需位置的扶正装置" Target="frmContent" Href="../searchservlet?query=G01C19/46&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C19/46">
+          <TreeNode Title="G01C19/48 ####应用电装置操作(G01C 19/54优先)" Target="frmContent" Href="../searchservlet?query=G01C19/48&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C19/48"/>
+          <TreeNode Title="G01C19/50 ####应用机械装置操作(G01C 19/54优先)" Target="frmContent" Href="../searchservlet?query=G01C19/50&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C19/50"/>
+          <TreeNode Title="G01C19/52 ####应用流体装置操作(G01C 19/54优先)" Target="frmContent" Href="../searchservlet?query=G01C19/52&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C19/52"/>
+          <TreeNode Title="G01C19/54 ####具有校正由于仪表运动产生的加速力的" Target="frmContent" Href="../searchservlet?query=G01C19/54&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C19/54"/>
+        </TreeNode>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="G01C19/56 #带有振动部件的转动敏感装置，例如音叉" Target="frmContent" Href="../searchservlet?query=G01C19/56&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C19/56"/>
+    <TreeNode Title="G01C19/58 #不带有运动部件的转动敏感装置[3]" Target="frmContent" Href="../searchservlet?query=G01C19/58&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C19/58">
+      <TreeNode Title="G01C19/60 ##电子磁共振或核磁共振陀螺测量仪[3，4]" Target="frmContent" Href="../searchservlet?query=G01C19/60&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C19/60">
+        <TreeNode Title="G01C19/62 ###采用光学泵的[3]" Target="frmContent" Href="../searchservlet?query=G01C19/62&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C19/62"/>
+      </TreeNode>
+      <TreeNode Title="G01C19/64 ##利用萨格萘克效应，即利用逆向旋转的两电磁束之间旋转产生位移的陀螺测量仪[3]" Target="frmContent" Href="../searchservlet?query=G01C19/64&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C19/64">
+        <TreeNode Title="G01C19/66 ###环形激光陀螺测量仪[5]" Target="frmContent" Href="../searchservlet?query=G01C19/66&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C19/66">
+          <TreeNode Title="G01C19/68 ####锁定防止[5]" Target="frmContent" Href="../searchservlet?query=G01C19/68&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C19/68">
+            <TreeNode Title="G01C19/70 #####应用机械装置[5]" Target="frmContent" Href="../searchservlet?query=G01C19/70&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C19/70"/>
+          </TreeNode>
+        </TreeNode>
+        <TreeNode Title="G01C19/72 ###无源环路中应用逆向旋转光束的陀螺测量仪，例如光纤激光陀螺测量仪[5]" Target="frmContent" Href="../searchservlet?query=G01C19/72&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C19/72"/>
+      </TreeNode>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="G01C21/00 导航；不包含在G01C 1/00至G01C 19/00组中的导航仪器(测量车辆在地面行驶的距离入G01C 22/00；车辆位置、行程、高度或姿态的控制入G05D 1/00；涉及给车辆传输导航指令的用于道路车辆的交通控制系统入G08G 1/0968)" Target="frmContent" Href="../searchservlet?query=G01C21/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C21/00">
+    <TreeNode Title="G01C21/02 #应用天文学的方法(G01C 21/24，G01C 21/26优先)[1，7]" Target="frmContent" Href="../searchservlet?query=G01C21/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C21/02"/>
+    <TreeNode Title="G01C21/04 #应用陆地测量法(G01C 21/24，G01C 21/26优先)[1，7]" Target="frmContent" Href="../searchservlet?query=G01C21/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C21/04">
+      <TreeNode Title="G01C21/06 ##包括偏角的测量；包括偏差的校正" Target="frmContent" Href="../searchservlet?query=G01C21/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C21/06"/>
+      <TreeNode Title="G01C21/08 ##包括地球磁场的利用" Target="frmContent" Href="../searchservlet?query=G01C21/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C21/08"/>
+    </TreeNode>
+    <TreeNode Title="G01C21/10 #通过速度或加速度的测量(G01C 21/24，G01C 21/26优先)[1，7]" Target="frmContent" Href="../searchservlet?query=G01C21/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C21/10">
+      <TreeNode Title="G01C21/12 ##在被导航的物体上进行测量；根据测量推算航位" Target="frmContent" Href="../searchservlet?query=G01C21/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C21/12">
+        <TreeNode Title="G01C21/14 ###采用记录导航目标的航程的方法(G01C 21/16优先)" Target="frmContent" Href="../searchservlet?query=G01C21/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C21/14"/>
+        <TreeNode Title="G01C21/16 ###采用积分加速度或速度的方法，即惯性导航" Target="frmContent" Href="../searchservlet?query=G01C21/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C21/16">
+          <TreeNode Title="G01C21/18 ####稳定的平台，例如应用陀螺仪" Target="frmContent" Href="../searchservlet?query=G01C21/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C21/18"/>
+        </TreeNode>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="G01C21/20 #执行导航计算的仪器(G01C 21/24、G01C 21/26优先)[1，7]" Target="frmContent" Href="../searchservlet?query=G01C21/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C21/20">
+      <TreeNode Title="G01C21/22 ##航线标示板" Target="frmContent" Href="../searchservlet?query=G01C21/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C21/22"/>
+    </TreeNode>
+    <TreeNode Title="G01C21/24 #专用于宇宙航行的导航" Target="frmContent" Href="../searchservlet?query=G01C21/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C21/24"/>
+    <TreeNode Title="G01C21/26 #专用于道路网络的导航[7]" Target="frmContent" Href="../searchservlet?query=G01C21/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C21/26">
+      <TreeNode Title="G01C21/28 ##通过来自数个导航仪器的数据的关联[7]" Target="frmContent" Href="../searchservlet?query=G01C21/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C21/28">
+        <TreeNode Title="G01C21/30 ###地图匹配或轮廓匹配[7]" Target="frmContent" Href="../searchservlet?query=G01C21/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C21/30">
+          <TreeNode Title="G01C21/32 ####地图数据的构造或编排[7]" Target="frmContent" Href="../searchservlet?query=G01C21/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C21/32"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="G01C21/34 ##路径搜索；路径导引[7]" Target="frmContent" Href="../searchservlet?query=G01C21/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C21/34">
+        <TreeNode Title="G01C21/36 ###车载计算机的输入/输出结构[7]" Target="frmContent" Href="../searchservlet?query=G01C21/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C21/36"/>
+      </TreeNode>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="G01C22/00 测量车辆、人员、动物或其他运动的固态物体在地面行驶的距离，例如，应用里程计或应用计步器" Target="frmContent" Href="../searchservlet?query=G01C22/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C22/00">
+    <TreeNode Title="G01C22/02 #采用转换成电的波形和随后积分的方法，例如应用转数表传感器" Target="frmContent" Href="../searchservlet?query=G01C22/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C22/02"/>
+  </TreeNode>
+  <TreeNode Title="G01C23/00 指示多于一个导航数值的组合仪表，例如飞机用的；测量两个或两个以上运动变量的组合测量装置，例如距离、速度、加速度" Target="frmContent" Href="../searchservlet?query=G01C23/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C23/00"/>
+  <TreeNode Title="G01C25/00 有关本小类其他各组中的仪器或装置的制造、校准、清洁或修理(罗盘的检验、校准或补偿入G01C 17/38)" Target="frmContent" Href="../searchservlet?query=G01C25/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01C25/00"/>
+</Root>

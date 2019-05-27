@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="D21B1/00 纤维原料或其机械处理(打浆机入D21D 1/00)" Target="frmContent" Href="../searchservlet?query=D21B1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D21B1/00">
+    <TreeNode Title="D21B1/02 #用物理或化学方法预处理纤维原料(去除树皮入B27L)" Target="frmContent" Href="../searchservlet?query=D21B1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D21B1/02"/>
+    <TreeNode Title="D21B1/04 #分离原料成小片，例如纤维(木材的干法打碎或切末等入B27L；离解泥炭入C10F 7/02；用机械方法从破布、泥炭等获得纤维为纺纱使用入D01B)" Target="frmContent" Href="../searchservlet?query=D21B1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D21B1/04">
+      <TreeNode Title="D21B1/06 ##用干法" Target="frmContent" Href="../searchservlet?query=D21B1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D21B1/06">
+        <TreeNode Title="D21B1/08 ###原料是废纸(化学部分入D21C 5/02)；原料是破布" Target="frmContent" Href="../searchservlet?query=D21B1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D21B1/08">
+          <TreeNode Title="D21B1/10 ####经过切割工序" Target="frmContent" Href="../searchservlet?query=D21B1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D21B1/10"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="D21B1/12 ##用湿法、利用蒸汽的方法" Target="frmContent" Href="../searchservlet?query=D21B1/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D21B1/12">
+        <TreeNode Title="D21B1/14 ###在磨木机中离解(普通的磨碎入B02C)" Target="frmContent" Href="../searchservlet?query=D21B1/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D21B1/14">
+          <TreeNode Title="D21B1/16 ####加入化学药剂的" Target="frmContent" Href="../searchservlet?query=D21B1/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D21B1/16"/>
+          <TreeNode Title="D21B1/18 ####在库式磨木机中离解" Target="frmContent" Href="../searchservlet?query=D21B1/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D21B1/18">
+            <TreeNode Title="D21B1/20 #####用链喂料的" Target="frmContent" Href="../searchservlet?query=D21B1/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D21B1/20"/>
+            <TreeNode Title="D21B1/22 #####用螺旋喂料的" Target="frmContent" Href="../searchservlet?query=D21B1/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D21B1/22"/>
+            <TreeNode Title="D21B1/24 #####袋式的" Target="frmContent" Href="../searchservlet?query=D21B1/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D21B1/24"/>
+          </TreeNode>
+          <TreeNode Title="D21B1/26 ####传动或喂料装置" Target="frmContent" Href="../searchservlet?query=D21B1/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D21B1/26"/>
+          <TreeNode Title="D21B1/28 ####和磨木机联合的磨石刻石器" Target="frmContent" Href="../searchservlet?query=D21B1/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D21B1/28"/>
+        </TreeNode>
+        <TreeNode Title="D21B1/30 ###用其他方法离解纤维" Target="frmContent" Href="../searchservlet?query=D21B1/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D21B1/30">
+          <TreeNode Title="D21B1/32 ####废纸的" Target="frmContent" Href="../searchservlet?query=D21B1/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D21B1/32"/>
+          <TreeNode Title="D21B1/34 ####碾碎和混合；碎浆机" Target="frmContent" Href="../searchservlet?query=D21B1/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D21B1/34"/>
+          <TreeNode Title="D21B1/36 ####用骤然减压的方法扩散离解" Target="frmContent" Href="../searchservlet?query=D21B1/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D21B1/36"/>
+        </TreeNode>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="D21B1/38 #经过精细分离的纤维素原料的贮存" Target="frmContent" Href="../searchservlet?query=D21B1/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D21B1/38"/>
+  </TreeNode>
+</Root>

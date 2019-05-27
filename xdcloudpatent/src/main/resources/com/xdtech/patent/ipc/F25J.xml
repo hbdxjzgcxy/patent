@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="F25J1/00 气体或气体混合物液化或固化的方法或设备" Target="frmContent" Href="../searchservlet?query=F25J1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25J1/00">
+    <TreeNode Title="F25J1/02 #需要使用制冷的，例如氦或氢" Target="frmContent" Href="../searchservlet?query=F25J1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25J1/02"/>
+  </TreeNode>
+  <TreeNode Title="F25J3/00 使用液化或固化作用进行分离气体混合物成分的方法或设备" Target="frmContent" Href="../searchservlet?query=F25J3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25J3/00">
+    <TreeNode Title="F25J3/02 #通过精馏作用，即用蒸气流与液流之间物质和热的连续交换(F25J 3/08优先)" Target="frmContent" Href="../searchservlet?query=F25J3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25J3/02">
+      <TreeNode Title="F25J3/04 ##用于空气的" Target="frmContent" Href="../searchservlet?query=F25J3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25J3/04"/>
+    </TreeNode>
+    <TreeNode Title="F25J3/06 #通过局部冷凝作用(F25J 3/08优先；用精馏作用的入F25J 3/02)" Target="frmContent" Href="../searchservlet?query=F25J3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25J3/06"/>
+    <TreeNode Title="F25J3/08 #从气体或气体混合物中分离出气体杂质(冷凝阱入B01D 8/00)" Target="frmContent" Href="../searchservlet?query=F25J3/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25J3/08"/>
+  </TreeNode>
+  <TreeNode Title="F25J5/00 分离或液化设备里的冷交换器或蓄冷器的配置(热交换器本身入F28C，F28D，F28F)" Target="frmContent" Href="../searchservlet?query=F25J5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25J5/00"/>
+</Root>

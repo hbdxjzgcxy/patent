@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="G08B1/00 只按信号传送形式表征的信号装置" Target="frmContent" Href="../searchservlet?query=G08B1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08B1/00">
+    <TreeNode Title="G08B1/02 #只用机械传送的" Target="frmContent" Href="../searchservlet?query=G08B1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08B1/02"/>
+    <TreeNode Title="G08B1/04 #用液压传送的；用气动传送的" Target="frmContent" Href="../searchservlet?query=G08B1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08B1/04">
+      <TreeNode Title="G08B1/06 ##只用液压的" Target="frmContent" Href="../searchservlet?query=G08B1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08B1/06"/>
+    </TreeNode>
+    <TreeNode Title="G08B1/08 #用电传送的" Target="frmContent" Href="../searchservlet?query=G08B1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08B1/08"/>
+  </TreeNode>
+  <TreeNode Title="G08B3/00 可听的信号装置或器件；可听的个人呼叫装置或器件(时间信号的可听指示入G04B 21/00，G04C 21/00)" Target="frmContent" Href="../searchservlet?query=G08B3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08B3/00">
+    <TreeNode Title="G08B3/02 #只用机械传送的" Target="frmContent" Href="../searchservlet?query=G08B3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08B3/02"/>
+    <TreeNode Title="G08B3/06 #用液压传送的，用气动传送的" Target="frmContent" Href="../searchservlet?query=G08B3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08B3/06"/>
+    <TreeNode Title="G08B3/10 #用电传送的，用电磁传送的" Target="frmContent" Href="../searchservlet?query=G08B3/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08B3/10"/>
+    <TreeNode Title="G08B3/14 #用爆炸物的" Target="frmContent" Href="../searchservlet?query=G08B3/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08B3/14"/>
+  </TreeNode>
+  <TreeNode Title="G08B5/00 可见的信号装置或器件，例如个人呼叫装置或器件，坐位占有状态的远程指示(时间信号显示入G04B 19/00，G04C 17/00，G04C 19/00，G04G 9/00；字母数字式信息的显示入G09F；信号旗，旗帜入G09F)" Target="frmContent" Href="../searchservlet?query=G08B5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08B5/00">
+    <TreeNode Title="G08B5/02 #只用机械传送的" Target="frmContent" Href="../searchservlet?query=G08B5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08B5/02"/>
+    <TreeNode Title="G08B5/06 #用液压传送的；用气动传送的" Target="frmContent" Href="../searchservlet?query=G08B5/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08B5/06">
+      <TreeNode Title="G08B5/14 ##有绕轴转动的指示器部件的，例如铰接片、旋转叶片" Target="frmContent" Href="../searchservlet?query=G08B5/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08B5/14">
+        <TreeNode Title="G08B5/16 ###有需要单独操作回原指示器部件的复位装置的" Target="frmContent" Href="../searchservlet?query=G08B5/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08B5/16"/>
+      </TreeNode>
+      <TreeNode Title="G08B5/18 ##有直线移动的指示器部件的" Target="frmContent" Href="../searchservlet?query=G08B5/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08B5/18">
+        <TreeNode Title="G08B5/20 ###有需要单独操作回原指示器部件的复位装置的" Target="frmContent" Href="../searchservlet?query=G08B5/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08B5/20"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="G08B5/22 #用电传送的；用电磁传送的" Target="frmContent" Href="../searchservlet?query=G08B5/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08B5/22">
+      <TreeNode Title="G08B5/24 ##有绕轴转动的指示器部件的，例如铰接片、旋转叶片" Target="frmContent" Href="../searchservlet?query=G08B5/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08B5/24">
+        <TreeNode Title="G08B5/26 ###有需要单独操作回原指示器部件的复位装置的" Target="frmContent" Href="../searchservlet?query=G08B5/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08B5/26"/>
+        <TreeNode Title="G08B5/28 ###有铰接片或臂杆的" Target="frmContent" Href="../searchservlet?query=G08B5/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08B5/28"/>
+        <TreeNode Title="G08B5/30 ###有转动件或振动件的，例如叶片" Target="frmContent" Href="../searchservlet?query=G08B5/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08B5/30"/>
+      </TreeNode>
+      <TreeNode Title="G08B5/32 ##有直线移动的指示器部件的" Target="frmContent" Href="../searchservlet?query=G08B5/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08B5/32">
+        <TreeNode Title="G08B5/34 ###有需要单独操作回原指示器部件的复位装置的" Target="frmContent" Href="../searchservlet?query=G08B5/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08B5/34"/>
+      </TreeNode>
+      <TreeNode Title="G08B5/36 ##用可见光源的" Target="frmContent" Href="../searchservlet?query=G08B5/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08B5/36">
+        <TreeNode Title="G08B5/38 ###用闪光灯的" Target="frmContent" Href="../searchservlet?query=G08B5/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08B5/38"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="G08B5/40 #用烟、火或颜色气体的(飞机喷烟形成的天空文字入G09F 21/16)" Target="frmContent" Href="../searchservlet?query=G08B5/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08B5/40"/>
+  </TreeNode>
+  <TreeNode Title="G08B6/00 触觉信号系统，例如个人呼叫系统(用感觉指示时间入G04B 25/02；助听装置入H04R 25/00)[6]" Target="frmContent" Href="../searchservlet?query=G08B6/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08B6/00"/>
+  <TreeNode Title="G08B7/00 包括在G08B 3/00至G08B 6/00各组中一组以上的信号装置(有音响广告的组合显示装置入G09F 27/00)；包括在G08B 3/00至G08B 6/00各组中一组以上的个人呼叫装置" Target="frmContent" Href="../searchservlet?query=G08B7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08B7/00">
+    <TreeNode Title="G08B7/02 #用机械传送的" Target="frmContent" Href="../searchservlet?query=G08B7/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08B7/02"/>
+    <TreeNode Title="G08B7/04 #用液压传送的；用气动传送的" Target="frmContent" Href="../searchservlet?query=G08B7/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08B7/04"/>
+    <TreeNode Title="G08B7/06 #用电传送的" Target="frmContent" Href="../searchservlet?query=G08B7/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08B7/06"/>
+    <TreeNode Title="G08B7/08 #用爆炸物的" Target="frmContent" Href="../searchservlet?query=G08B7/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08B7/08"/>
+  </TreeNode>
+  <TreeNode Title="G08B9/00 指令发信号装置，即由使用者任意发送一定数目的不同指令中的一个的装置，例如船上驾驶台对机房的指令(用于矿井的发信号装置入E21F 17/18)" Target="frmContent" Href="../searchservlet?query=G08B9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08B9/00">
+    <TreeNode Title="G08B9/02 #零部件" Target="frmContent" Href="../searchservlet?query=G08B9/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08B9/02">
+      <TreeNode Title="G08B9/04 ##记录设备工作状态的装置" Target="frmContent" Href="../searchservlet?query=G08B9/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08B9/04"/>
+      <TreeNode Title="G08B9/06 ##指示给定指令与执行指令间不一致的装置" Target="frmContent" Href="../searchservlet?query=G08B9/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08B9/06"/>
+    </TreeNode>
+    <TreeNode Title="G08B9/08 #机械的" Target="frmContent" Href="../searchservlet?query=G08B9/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08B9/08">
+      <TreeNode Title="G08B9/10 ##用棘轮的" Target="frmContent" Href="../searchservlet?query=G08B9/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08B9/10"/>
+      <TreeNode Title="G08B9/12 ##用转轴的" Target="frmContent" Href="../searchservlet?query=G08B9/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08B9/12"/>
+    </TreeNode>
+    <TreeNode Title="G08B9/14 #液压的；气动的" Target="frmContent" Href="../searchservlet?query=G08B9/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08B9/14">
+      <TreeNode Title="G08B9/16 ##用棘轮的" Target="frmContent" Href="../searchservlet?query=G08B9/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08B9/16"/>
+      <TreeNode Title="G08B9/18 ##靠改变流体位移的" Target="frmContent" Href="../searchservlet?query=G08B9/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08B9/18"/>
+      <TreeNode Title="G08B9/20 ##靠改变流体压力的" Target="frmContent" Href="../searchservlet?query=G08B9/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08B9/20"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="G08B13/00 夜盗、偷窃或入侵者报警器(车辆偷盗报警器入B60R 25/10；自行车偷盗报警器入B62H 5/00)" Target="frmContent" Href="../searchservlet?query=G08B13/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08B13/00">
+    <TreeNode Title="G08B13/02 #机械作用的" Target="frmContent" Href="../searchservlet?query=G08B13/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08B13/02">
+      <TreeNode Title="G08B13/04 ##靠打破玻璃的" Target="frmContent" Href="../searchservlet?query=G08B13/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08B13/04"/>
+      <TreeNode Title="G08B13/06 ##靠撬砸扣栓物的(报警锁入E05B 45/00；保险箱上的报警器入E05G 1/10)" Target="frmContent" Href="../searchservlet?query=G08B13/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08B13/06"/>
+      <TreeNode Title="G08B13/08 ##靠打开的，例如打开门、窗、抽屉、百叶窗、帘子、遮阳帘" Target="frmContent" Href="../searchservlet?query=G08B13/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08B13/08"/>
+      <TreeNode Title="G08B13/10 ##靠地板、地板覆盖物、楼梯踏板、柜台或钱柜上的压力的" Target="frmContent" Href="../searchservlet?query=G08B13/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08B13/10"/>
+      <TreeNode Title="G08B13/12 ##靠折断或扰动被拉直的绳或金属线的" Target="frmContent" Href="../searchservlet?query=G08B13/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08B13/12"/>
+      <TreeNode Title="G08B13/14 ##靠提起或尝试移动手提物品的" Target="frmContent" Href="../searchservlet?query=G08B13/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08B13/14"/>
+    </TreeNode>
+    <TreeNode Title="G08B13/16 #靠干扰空气或其他流体的机械振动作用的" Target="frmContent" Href="../searchservlet?query=G08B13/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08B13/16"/>
+    <TreeNode Title="G08B13/18 #靠干扰热、光或较短波长辐射作用的；靠热、光或较短波长辐射的入侵源作用的" Target="frmContent" Href="../searchservlet?query=G08B13/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08B13/18">
+      <TreeNode Title="G08B13/181 ##用主动辐射检测系统的[5]" Target="frmContent" Href="../searchservlet?query=G08B13/181&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08B13/181">
+        <TreeNode Title="G08B13/183 ###靠切断辐射射束或辐射屏蔽(光屏蔽入G01V 8/10)[5]" Target="frmContent" Href="../searchservlet?query=G08B13/183&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08B13/183">
+          <TreeNode Title="G08B13/184 ####用辐射反射器的[5]" Target="frmContent" Href="../searchservlet?query=G08B13/184&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08B13/184"/>
+          <TreeNode Title="G08B13/186 ####用光导的，例如光导纤维[5]" Target="frmContent" Href="../searchservlet?query=G08B13/186&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08B13/186"/>
+        </TreeNode>
+        <TreeNode Title="G08B13/187 ###靠干扰辐射场的[5]" Target="frmContent" Href="../searchservlet?query=G08B13/187&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08B13/187"/>
+      </TreeNode>
+      <TreeNode Title="G08B13/189 ##用被动辐射检测系统的[5]" Target="frmContent" Href="../searchservlet?query=G08B13/189&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08B13/189">
+        <TreeNode Title="G08B13/19 ###用红外辐射检测系统的[5]" Target="frmContent" Href="../searchservlet?query=G08B13/19&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08B13/19">
+          <TreeNode Title="G08B13/191 ####用热电敏感装置的[5]" Target="frmContent" Href="../searchservlet?query=G08B13/191&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08B13/191"/>
+          <TreeNode Title="G08B13/193 ####用聚焦装置的[5]" Target="frmContent" Href="../searchservlet?query=G08B13/193&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08B13/193"/>
+        </TreeNode>
+        <TreeNode Title="G08B13/194 ###用图像扫描和比较系统的[5]" Target="frmContent" Href="../searchservlet?query=G08B13/194&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08B13/194">
+          <TreeNode Title="G08B13/196 ####用电视摄像机的[5]" Target="frmContent" Href="../searchservlet?query=G08B13/196&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08B13/196"/>
+        </TreeNode>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="G08B13/20 #靠液体压力的变化作用的" Target="frmContent" Href="../searchservlet?query=G08B13/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08B13/20"/>
+    <TreeNode Title="G08B13/22 #电作用的" Target="frmContent" Href="../searchservlet?query=G08B13/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08B13/22">
+      <TreeNode Title="G08B13/24 ##靠干扰电磁场分布的" Target="frmContent" Href="../searchservlet?query=G08B13/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08B13/24"/>
+      <TreeNode Title="G08B13/26 ##由于入侵者的接近引起电路的电容或电感变化的" Target="frmContent" Href="../searchservlet?query=G08B13/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08B13/26"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="G08B15/00 识别、恐吓夜盗、窃贼或入侵者，或使夜盗、窃贼或入侵者丧失活动能力，如用爆炸物(保险箱上的夜盗夹或类似物入E05G 5/02)" Target="frmContent" Href="../searchservlet?query=G08B15/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08B15/00">
+    <TreeNode Title="G08B15/02 #用烟、气或有色或有味的粉末或液体的" Target="frmContent" Href="../searchservlet?query=G08B15/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08B15/02"/>
+  </TreeNode>
+  <TreeNode Title="G08B17/00 火灾报警器；响应爆炸的报警器(温敏元件入G01K)" Target="frmContent" Href="../searchservlet?query=G08B17/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08B17/00">
+    <TreeNode Title="G08B17/02 #机械作用的报警，例如靠切断金属线" Target="frmContent" Href="../searchservlet?query=G08B17/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08B17/02"/>
+    <TreeNode Title="G08B17/04 #液压或气动作用的报警，例如靠液体压力的变化" Target="frmContent" Href="../searchservlet?query=G08B17/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08B17/04"/>
+    <TreeNode Title="G08B17/06 #电作用的报警，例如用热控开关(热控电开关本身入H01H 37/00)" Target="frmContent" Href="../searchservlet?query=G08B17/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08B17/06"/>
+    <TreeNode Title="G08B17/08 #包含使用爆炸装置作用的" Target="frmContent" Href="../searchservlet?query=G08B17/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08B17/08"/>
+    <TreeNode Title="G08B17/10 #靠出现烟或气作用的" Target="frmContent" Href="../searchservlet?query=G08B17/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08B17/10">
+      <TreeNode Title="G08B17/103 ##使用光发射和接收装置的[5]" Target="frmContent" Href="../searchservlet?query=G08B17/103&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08B17/103">
+        <TreeNode Title="G08B17/107 ###用于检测由于烟造成的光散射的[5]" Target="frmContent" Href="../searchservlet?query=G08B17/107&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08B17/107"/>
+      </TreeNode>
+      <TreeNode Title="G08B17/11 ##用检测烟或气的电离室的(利用电离效应的真空计入G01L 21/30；靠测试电离的气体分析入G01N 27/62)[5]" Target="frmContent" Href="../searchservlet?query=G08B17/11&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08B17/11">
+        <TreeNode Title="G08B17/113 ###结构零部件(用于测量充入气体的压力或用于检测气体的存在的放电管本身入H01J 41/02)[5]" Target="frmContent" Href="../searchservlet?query=G08B17/113&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08B17/113"/>
+      </TreeNode>
+      <TreeNode Title="G08B17/117 ##用对于特殊气体例如由火产生的燃烧产物的检测装置(G08B 17/103、G08B 17/11优先；气体测试或分析一般入G01N，例如用电装置的入G01N 27/00)[5]" Target="frmContent" Href="../searchservlet?query=G08B17/117&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08B17/117"/>
+    </TreeNode>
+    <TreeNode Title="G08B17/12 #靠出现辐射或微粒子作用的，例如红外辐射的、离子的" Target="frmContent" Href="../searchservlet?query=G08B17/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08B17/12"/>
+  </TreeNode>
+  <TreeNode Title="G08B19/00 响应两种或两种以上不同的意外或异常情况的报警器，例如夜盗和火灾，异常温度和异常流速" Target="frmContent" Href="../searchservlet?query=G08B19/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08B19/00">
+    <TreeNode Title="G08B19/02 #响应冰的形成或预期形成的报警(指示天气情况的入G01W 1/00)" Target="frmContent" Href="../searchservlet?query=G08B19/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08B19/02"/>
+  </TreeNode>
+  <TreeNode Title="G08B21/00 未列入其他类目的响应一种指定的意外或异常情况的报警器" Target="frmContent" Href="../searchservlet?query=G08B21/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08B21/00">
+    <TreeNode Title="G08B21/02 #保证人身安全的报警器[7]" Target="frmContent" Href="../searchservlet?query=G08B21/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08B21/02">
+      <TreeNode Title="G08B21/04 ##响应无活动能力的报警器，例如老年人的(G08B 21/06优先)[7]" Target="frmContent" Href="../searchservlet?query=G08B21/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08B21/04"/>
+      <TreeNode Title="G08B21/06 ##指示睡眠状态，例如防打盹的报警器(响应司机丧失能力的车辆推进装置的安全装置入B60K 28/06)[7]" Target="frmContent" Href="../searchservlet?query=G08B21/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08B21/06"/>
+      <TreeNode Title="G08B21/08 ##响应人出现在水域中的报警器，例如游泳池；响应水域的异常情况的报警器[7]" Target="frmContent" Href="../searchservlet?query=G08B21/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08B21/08"/>
+      <TreeNode Title="G08B21/10 ##响应灾难事件的报警器，例如地震、龙卷风(地震入G01V 1/00；指示天气的状态入G01W 1/00)[7]" Target="frmContent" Href="../searchservlet?query=G08B21/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08B21/10"/>
+      <TreeNode Title="G08B21/12 ##响应不受欢迎的物质散发的报警器，例如污染报警器(管道报警器入F17D 3/01)[7]" Target="frmContent" Href="../searchservlet?query=G08B21/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08B21/12">
+        <TreeNode Title="G08B21/14 ###毒气报警器(G08B 21/16优先)[7]" Target="frmContent" Href="../searchservlet?query=G08B21/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08B21/14"/>
+        <TreeNode Title="G08B21/16 ###可燃气体报警器[7]" Target="frmContent" Href="../searchservlet?query=G08B21/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08B21/16"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="G08B21/18 #状态报警器(G08B 21/02优先)[7]" Target="frmContent" Href="../searchservlet?query=G08B21/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08B21/18">
+      <TreeNode Title="G08B21/20 ##响应湿度的报警器[7]" Target="frmContent" Href="../searchservlet?query=G08B21/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08B21/20"/>
+      <TreeNode Title="G08B21/22 ##响应人的出现或不出现的报警器[7]" Target="frmContent" Href="../searchservlet?query=G08B21/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08B21/22"/>
+      <TreeNode Title="G08B21/24 ##提醒报警器，例如防丢失报警器(防止包或类似物丢失的器件入A45C 13/24)[7]" Target="frmContent" Href="../searchservlet?query=G08B21/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08B21/24"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="G08B23/00 响应未指定的意外或异常情况的报警器" Target="frmContent" Href="../searchservlet?query=G08B23/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08B23/00"/>
+  <TreeNode Title="G08B25/00 将报警的位置情况发信号给中心台的报警系统，例如火灾或警察电信系统" Target="frmContent" Href="../searchservlet?query=G08B25/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08B25/00">
+    <TreeNode Title="G08B25/01 #以传输媒介为特征的[5]" Target="frmContent" Href="../searchservlet?query=G08B25/01&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08B25/01">
+      <TreeNode Title="G08B25/04 ##用一个信号线的，例如一个闭环[5]" Target="frmContent" Href="../searchservlet?query=G08B25/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08B25/04"/>
+      <TreeNode Title="G08B25/06 ##用电力传输线的(经由电力配电线传输信息的系统本身入H04B 3/54)[5]" Target="frmContent" Href="../searchservlet?query=G08B25/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08B25/06"/>
+      <TreeNode Title="G08B25/08 ##用通信传输线的(与报警系统相结合的电话通信系统入H04M 11/04)[5]" Target="frmContent" Href="../searchservlet?query=G08B25/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08B25/08"/>
+      <TreeNode Title="G08B25/10 ##用无线传输系统的[5]" Target="frmContent" Href="../searchservlet?query=G08B25/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08B25/10"/>
+    </TreeNode>
+    <TreeNode Title="G08B25/12 #手驱动的灾害报警发送装置[5]" Target="frmContent" Href="../searchservlet?query=G08B25/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08B25/12"/>
+    <TreeNode Title="G08B25/14 #中心报警接收器或信号器装置[5]" Target="frmContent" Href="../searchservlet?query=G08B25/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08B25/14"/>
+  </TreeNode>
+  <TreeNode Title="G08B26/00 中心台顺序询问分台的报警系统" Target="frmContent" Href="../searchservlet?query=G08B26/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08B26/00"/>
+  <TreeNode Title="G08B27/00 把报警情况从中心台发信号给多个分台的报警系统" Target="frmContent" Href="../searchservlet?query=G08B27/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08B27/00"/>
+  <TreeNode Title="G08B29/00 信号系统或报警系统的检验或监控；操作误差的防止或校正，例如防止未授权的操作" Target="frmContent" Href="../searchservlet?query=G08B29/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08B29/00">
+    <TreeNode Title="G08B29/02 #连续监控信号发送系统或报警系统的[5]" Target="frmContent" Href="../searchservlet?query=G08B29/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08B29/02">
+      <TreeNode Title="G08B29/04 ##检测电路的监控[5]" Target="frmContent" Href="../searchservlet?query=G08B29/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08B29/04"/>
+      <TreeNode Title="G08B29/06 ##线路的监控，例如线路故障的信号发送(一般电缆线或线路的故障测试或定位入G01R 31/02，G01R 31/08)[5]" Target="frmContent" Href="../searchservlet?query=G08B29/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08B29/06">
+        <TreeNode Title="G08B29/08 ###线路干扰的信号发送[5]" Target="frmContent" Href="../searchservlet?query=G08B29/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08B29/08"/>
+      </TreeNode>
+      <TreeNode Title="G08B29/10 ##信号器电路的监控[5]" Target="frmContent" Href="../searchservlet?query=G08B29/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08B29/10"/>
+    </TreeNode>
+    <TreeNode Title="G08B29/12 #信号发送系统或报警系统的间断检验[5]" Target="frmContent" Href="../searchservlet?query=G08B29/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08B29/12">
+      <TreeNode Title="G08B29/14 ##检测电路的检验[5]" Target="frmContent" Href="../searchservlet?query=G08B29/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08B29/14"/>
+    </TreeNode>
+    <TreeNode Title="G08B29/16 #安全信号系统或报警系统，例如冗余系统[5]" Target="frmContent" Href="../searchservlet?query=G08B29/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08B29/16"/>
+    <TreeNode Title="G08B29/18 #操作误差的防止或校正(G08B 29/02，G08B 29/12优先)[5]" Target="frmContent" Href="../searchservlet?query=G08B29/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08B29/18">
+      <TreeNode Title="G08B29/20 ##校准，包括自校准装置[5]" Target="frmContent" Href="../searchservlet?query=G08B29/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08B29/20">
+        <TreeNode Title="G08B29/22 ###便于用手校准的装置，例如用于测试的输入或输出装置；间歇值的保持以使能够测量[5]" Target="frmContent" Href="../searchservlet?query=G08B29/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08B29/22"/>
+        <TreeNode Title="G08B29/24 ###自校准，例如对于环境偏差或元件老化的补偿[5]" Target="frmContent" Href="../searchservlet?query=G08B29/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08B29/24">
+          <TreeNode Title="G08B29/26 ####靠修正和存储基准阈值的[5]" Target="frmContent" Href="../searchservlet?query=G08B29/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08B29/26"/>
+          <TreeNode Title="G08B29/28 ####靠改变放大器放大系数的[5]" Target="frmContent" Href="../searchservlet?query=G08B29/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08B29/28"/>
+        </TreeNode>
+      </TreeNode>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="G08B31/00 以外准法或其他采用修正的历史数据的计算为特征的预报警系统[5]" Target="frmContent" Href="../searchservlet?query=G08B31/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G08B31/00"/>
+</Root>

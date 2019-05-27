@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="D06G1/00 地毯、小地毯、麻袋、兽皮或其他皮的或纺织的物品或织物的打、刷或另外的机械清洁或高压清洁(刷子入A46B、吸尘器本身入A47L；家用吸尘器本身入A47L；一般清洁入B08B；清洁褥垫羽毛的装置入B68G 3/00)" Target="frmContent" Href="../searchservlet?query=D06G1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06G1/00"/>
+  <TreeNode Title="D06G3/00 挠性圆筒状的或其他空心状的物品的内侧外翻(与检验结合的入D06H 3/16)" Target="frmContent" Href="../searchservlet?query=D06G3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06G3/00">
+    <TreeNode Title="D06G3/02 #机械方法的" Target="frmContent" Href="../searchservlet?query=D06G3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06G3/02"/>
+    <TreeNode Title="D06G3/04 #气动的" Target="frmContent" Href="../searchservlet?query=D06G3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06G3/04"/>
+  </TreeNode>
+  <TreeNode Title="D06G5/00 与挠性圆筒状的或其他空心状的物品内侧外翻结合在一起的机械的、真空的或高压的清洁" Target="frmContent" Href="../searchservlet?query=D06G5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06G5/00"/>
+</Root>

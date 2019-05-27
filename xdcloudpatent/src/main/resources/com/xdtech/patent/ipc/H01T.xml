@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="H01T1/00 火花隙零部件" Target="frmContent" Href="../searchservlet?query=H01T1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01T1/00">
+    <TreeNode Title="H01T1/02 #灭弧装置" Target="frmContent" Href="../searchservlet?query=H01T1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01T1/02">
+      <TreeNode Title="H01T1/04 ##用磁灭弧" Target="frmContent" Href="../searchservlet?query=H01T1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01T1/04">
+        <TreeNode Title="H01T1/06 ###有永久磁体的" Target="frmContent" Href="../searchservlet?query=H01T1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01T1/06"/>
+      </TreeNode>
+      <TreeNode Title="H01T1/08 ##应用灭弧流体流动的" Target="frmContent" Href="../searchservlet?query=H01T1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01T1/08">
+        <TreeNode Title="H01T1/10 ###由电弧热从固体材料引出灭弧流体的" Target="frmContent" Href="../searchservlet?query=H01T1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01T1/10"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="H01T1/12 #与火花隙结构相联并用于记录火花隙工作的装置" Target="frmContent" Href="../searchservlet?query=H01T1/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01T1/12"/>
+    <TreeNode Title="H01T1/14 #在结构上与火花隙相联，用来对火花隙作过负荷保护或故障时断开火花隙的装置(H01T 1/15，H01T 1/16，H01T 1/18优先)[4]" Target="frmContent" Href="../searchservlet?query=H01T1/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01T1/14"/>
+    <TreeNode Title="H01T1/15 #用于过压保护的[4]" Target="frmContent" Href="../searchservlet?query=H01T1/15&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01T1/15"/>
+    <TreeNode Title="H01T1/16 #在结构上与火花隙相联的串联电阻器" Target="frmContent" Href="../searchservlet?query=H01T1/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01T1/16"/>
+    <TreeNode Title="H01T1/18 #在结构上与火花隙相联的电解式器件" Target="frmContent" Href="../searchservlet?query=H01T1/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01T1/18"/>
+    <TreeNode Title="H01T1/20 #用于使火花隙起弧或使火花隙易点燃的装置[3]" Target="frmContent" Href="../searchservlet?query=H01T1/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01T1/20">
+      <TreeNode Title="H01T1/22 ##按电极的形状或组成区分的[4]" Target="frmContent" Href="../searchservlet?query=H01T1/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01T1/22"/>
+    </TreeNode>
+    <TreeNode Title="H01T1/24 #电极材料的选择(H01T 1/22优先)[4]" Target="frmContent" Href="../searchservlet?query=H01T1/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01T1/24"/>
+  </TreeNode>
+  <TreeNode Title="H01T2/00 包括辅助触发装置的火花隙(触发电路入H01T 15/00)[4]" Target="frmContent" Href="../searchservlet?query=H01T2/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01T2/00">
+    <TreeNode Title="H01T2/02 #包括1个触发电极或1个辅助火花隙的[4]" Target="frmContent" Href="../searchservlet?query=H01T2/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01T2/02"/>
+  </TreeNode>
+  <TreeNode Title="H01T4/00 应用火花隙的过压避雷器(H01T 2/00优先；用火花隙的过压保护电路入H02H 9/06)[4]" Target="frmContent" Href="../searchservlet?query=H01T4/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01T4/00">
+    <TreeNode Title="H01T4/02 #零部件(属于火花隙的入H01T 1/00)[4]" Target="frmContent" Href="../searchservlet?query=H01T4/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01T4/02"/>
+    <TreeNode Title="H01T4/04 #罩(H01T 4/06优先)[4]" Target="frmContent" Href="../searchservlet?query=H01T4/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01T4/04"/>
+    <TreeNode Title="H01T4/06 #用于多个过压避雷器的安装设备[4]" Target="frmContent" Href="../searchservlet?query=H01T4/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01T4/06"/>
+    <TreeNode Title="H01T4/08 #结构上与被保护装置相结合的(与开关结合的入H01H 9/14；与熔断器结合的入H01H 85/44)[4]" Target="frmContent" Href="../searchservlet?query=H01T4/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01T4/08"/>
+    <TreeNode Title="H01T4/10 #有单个间隙或多个并联间隙的(火花塞入H01T 13/00)[4]" Target="frmContent" Href="../searchservlet?query=H01T4/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01T4/10">
+      <TreeNode Title="H01T4/12 ##气密封接的[4]" Target="frmContent" Href="../searchservlet?query=H01T4/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01T4/12"/>
+      <TreeNode Title="H01T4/14 ##角形避雷器(与绝缘体相结合的入H01B 17/46)[4]" Target="frmContent" Href="../searchservlet?query=H01T4/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01T4/14"/>
+    </TreeNode>
+    <TreeNode Title="H01T4/16 #有多个串联排列间隙的[4]" Target="frmContent" Href="../searchservlet?query=H01T4/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01T4/16">
+      <TreeNode Title="H01T4/18 ##减少叠式火花隙高度的装置[4]" Target="frmContent" Href="../searchservlet?query=H01T4/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01T4/18"/>
+      <TreeNode Title="H01T4/20 ##改进电位分布的装置[4]" Target="frmContent" Href="../searchservlet?query=H01T4/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01T4/20"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="H01T7/00 旋转式火花隙，即具有1个或多个旋转电极的装置" Target="frmContent" Href="../searchservlet?query=H01T7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01T7/00"/>
+  <TreeNode Title="H01T9/00 专用于产生振荡的火花隙" Target="frmContent" Href="../searchservlet?query=H01T9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01T9/00"/>
+  <TreeNode Title="H01T11/00 专用作整流器的火花隙" Target="frmContent" Href="../searchservlet?query=H01T11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01T11/00"/>
+  <TreeNode Title="H01T13/00 火花塞" Target="frmContent" Href="../searchservlet?query=H01T13/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01T13/00">
+    <TreeNode Title="H01T13/02 #零部件" Target="frmContent" Href="../searchservlet?query=H01T13/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01T13/02">
+      <TreeNode Title="H01T13/04 ##给火花塞提供电连接的装置 (一般电连接入H01R)" Target="frmContent" Href="../searchservlet?query=H01T13/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01T13/04">
+        <TreeNode Title="H01T13/05 ###与抑制干扰或屏蔽干扰装置相结合的[4]" Target="frmContent" Href="../searchservlet?query=H01T13/05&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01T13/05"/>
+      </TreeNode>
+      <TreeNode Title="H01T13/06 ##构成火花塞一部分并防止受有害环境影响的罩" Target="frmContent" Href="../searchservlet?query=H01T13/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01T13/06"/>
+      <TreeNode Title="H01T13/08 ##火花塞的安装、固定或封接，例如在燃烧室内" Target="frmContent" Href="../searchservlet?query=H01T13/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01T13/08">
+        <TreeNode Title="H01T13/10 ###用卡口式连接的" Target="frmContent" Href="../searchservlet?query=H01T13/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01T13/10"/>
+      </TreeNode>
+      <TreeNode Title="H01T13/12 ##在火花塞上使工具或手易操作的装置" Target="frmContent" Href="../searchservlet?query=H01T13/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01T13/12"/>
+      <TreeNode Title="H01T13/14 ##自清洗装置" Target="frmContent" Href="../searchservlet?query=H01T13/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01T13/14"/>
+      <TreeNode Title="H01T13/16 ##散热装置" Target="frmContent" Href="../searchservlet?query=H01T13/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01T13/16"/>
+      <TreeNode Title="H01T13/18 ##加热装置，例如用于干燥" Target="frmContent" Href="../searchservlet?query=H01T13/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01T13/18"/>
+    </TreeNode>
+    <TreeNode Title="H01T13/20 #按电极或绝缘体的性能区分的" Target="frmContent" Href="../searchservlet?query=H01T13/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01T13/20">
+      <TreeNode Title="H01T13/22 ##有两个或两个以上电极嵌入绝缘体的(用于两个或两个以上火花隙的入H01T 13/46)" Target="frmContent" Href="../searchservlet?query=H01T13/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01T13/22"/>
+      <TreeNode Title="H01T13/24 ##具有可动电极的(H01T 13/28优先)" Target="frmContent" Href="../searchservlet?query=H01T13/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01T13/24">
+        <TreeNode Title="H01T13/26 ###不用弯曲电极进行火花隙调整的" Target="frmContent" Href="../searchservlet?query=H01T13/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01T13/26"/>
+      </TreeNode>
+      <TreeNode Title="H01T13/28 ##具有球形电极的，例如珠形的" Target="frmContent" Href="../searchservlet?query=H01T13/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01T13/28">
+        <TreeNode Title="H01T13/30 ###安装得能自由移动的" Target="frmContent" Href="../searchservlet?query=H01T13/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01T13/30"/>
+      </TreeNode>
+      <TreeNode Title="H01T13/32 ##按接地电极的性能区分的" Target="frmContent" Href="../searchservlet?query=H01T13/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01T13/32"/>
+      <TreeNode Title="H01T13/34 ##按电极在绝缘体中安装的特点区分的，例如嵌入式的" Target="frmContent" Href="../searchservlet?query=H01T13/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01T13/34"/>
+      <TreeNode Title="H01T13/36 ##按绝缘体和本体之间接合的特点区分的，例如应用水泥" Target="frmContent" Href="../searchservlet?query=H01T13/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01T13/36"/>
+      <TreeNode Title="H01T13/38 ##绝缘材料的选择(一般入H01B 3/00)" Target="frmContent" Href="../searchservlet?query=H01T13/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01T13/38"/>
+      <TreeNode Title="H01T13/39 ##电极材料的选择[4]" Target="frmContent" Href="../searchservlet?query=H01T13/39&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01T13/39"/>
+    </TreeNode>
+    <TreeNode Title="H01T13/40 #结构上与其他装置相结合的(与燃料喷射器相组合或结合的入F02M 57/06，结构上与内燃机的其他部件相结合的入F02P 13/00)" Target="frmContent" Href="../searchservlet?query=H01T13/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01T13/40">
+      <TreeNode Title="H01T13/41 ##带有抑制干扰或屏蔽干扰装置的[4]" Target="frmContent" Href="../searchservlet?query=H01T13/41&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01T13/41"/>
+      <TreeNode Title="H01T13/42 ##带有磁火花发生器的" Target="frmContent" Href="../searchservlet?query=H01T13/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01T13/42"/>
+      <TreeNode Title="H01T13/44 ##带有变压器的，例如用于高频点火" Target="frmContent" Href="../searchservlet?query=H01T13/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01T13/44"/>
+    </TreeNode>
+    <TreeNode Title="H01T13/46 #具有两个或两个以上火花隙的" Target="frmContent" Href="../searchservlet?query=H01T13/46&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01T13/46"/>
+    <TreeNode Title="H01T13/48 #具有可观察到火花的装置的" Target="frmContent" Href="../searchservlet?query=H01T13/48&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01T13/48"/>
+    <TreeNode Title="H01T13/50 #具有使间隙电离的装置(H01T 13/52优先)[4]" Target="frmContent" Href="../searchservlet?query=H01T13/50&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01T13/50"/>
+    <TreeNode Title="H01T13/52 #以沿面放电为特点区分的" Target="frmContent" Href="../searchservlet?query=H01T13/52&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01T13/52"/>
+    <TreeNode Title="H01T13/54 #具有装在部分封闭点火室里的电极的" Target="frmContent" Href="../searchservlet?query=H01T13/54&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01T13/54"/>
+    <TreeNode Title="H01T13/56 #以组件易于装或拆为特点区分的H01T 14/00未包含在H01T 2/00至H01T 13/00各组中的火花隙(产生电晕放电的装置入H01T 19/00)[4]" Target="frmContent" Href="../searchservlet?query=H01T13/56&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01T13/56"/>
+    <TreeNode Title="H01T13/58 #测试(测试内燃机点火器的火花特性入F02P 17/12)[2011.01]" Target="frmContent" Href="../searchservlet?query=H01T13/58&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01T13/58"/>
+  </TreeNode>
+  <TreeNode Title="H01T15/00 专用于火花隙的电路，例如点火电路(内燃机的点火电路入F02P；用于燃烧设备的电火花点火装置入F23Q；用火花隙的保护电路入H02H 9/06)[4]" Target="frmContent" Href="../searchservlet?query=H01T15/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01T15/00"/>
+  <TreeNode Title="H01T19/00 电晕放电装置(用于对电刻元件充电的装置入G03G 15/02)[4]" Target="frmContent" Href="../searchservlet?query=H01T19/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01T19/00">
+    <TreeNode Title="H01T19/02 #电晕环" Target="frmContent" Href="../searchservlet?query=H01T19/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01T19/02"/>
+    <TreeNode Title="H01T19/04 #具有尖形电极的" Target="frmContent" Href="../searchservlet?query=H01T19/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01T19/04"/>
+  </TreeNode>
+  <TreeNode Title="H01T21/00 专用于制造或维护火花隙或火花塞的设备或方法" Target="frmContent" Href="../searchservlet?query=H01T21/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01T21/00">
+    <TreeNode Title="H01T21/02 #火花塞的" Target="frmContent" Href="../searchservlet?query=H01T21/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01T21/02">
+      <TreeNode Title="H01T21/04 ##清洁(自清洗装置入H01T 13/14；清洁火花塞用的喷砂法装置入B24C 3/34)" Target="frmContent" Href="../searchservlet?query=H01T21/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01T21/04"/>
+    </TreeNode>
+    <TreeNode Title="H01T21/06 #火花隙的调整(具有可移电极用以调节间隙的火花塞入H01T 13/26)[4]" Target="frmContent" Href="../searchservlet?query=H01T21/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01T21/06"/>
+  </TreeNode>
+  <TreeNode Title="H01T23/00 产生被引入非密封气体中的离子的装置，例如引入大气中(具有从容器中发出离子装置的放电管入H01J 33/00；产生等离子体入H05H)[4]" Target="frmContent" Href="../searchservlet?query=H01T23/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01T23/00"/>
+</Root>

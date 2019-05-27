@@ -1,0 +1,601 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="C08G2/00 醛或它的环状齐聚物的加聚物，或酮的加聚物；它们与含有低于50摩尔的其他物质的加聚共聚物[2]" Target="frmContent" Href="../searchservlet?query=C08G2/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G2/00">
+    <TreeNode Title="C08G2/02 #以波能或粒子辐射引发的聚合作用[2]" Target="frmContent" Href="../searchservlet?query=C08G2/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G2/02"/>
+    <TreeNode Title="C08G2/04 #使用对分子量有影响的化合物(如链转移剂)的聚合作用[2]" Target="frmContent" Href="../searchservlet?query=C08G2/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G2/04"/>
+    <TreeNode Title="C08G2/06 #催化剂(一般催化剂入B01J)[2]" Target="frmContent" Href="../searchservlet?query=C08G2/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G2/06"/>
+    <TreeNode Title="C08G2/08 #甲醛的聚合作用[2]" Target="frmContent" Href="../searchservlet?query=C08G2/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G2/08"/>
+    <TreeNode Title="C08G2/10 #甲醛的环状齐聚物的聚合作用[2]" Target="frmContent" Href="../searchservlet?query=C08G2/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G2/10"/>
+    <TreeNode Title="C08G2/12 #乙醛或它的环状齐聚物的聚合作用[2]" Target="frmContent" Href="../searchservlet?query=C08G2/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G2/12"/>
+    <TreeNode Title="C08G2/14 #不包含在C08G 2/08至C08G 2/12组中的单醛的聚合作用[2]" Target="frmContent" Href="../searchservlet?query=C08G2/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G2/14"/>
+    <TreeNode Title="C08G2/16 #单酮的聚合作用[2]" Target="frmContent" Href="../searchservlet?query=C08G2/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G2/16"/>
+    <TreeNode Title="C08G2/18 #醛或酮的共聚作用[2]" Target="frmContent" Href="../searchservlet?query=C08G2/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G2/18">
+      <TreeNode Title="C08G2/20 ##与其他醛或酮[2]" Target="frmContent" Href="../searchservlet?query=C08G2/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G2/20"/>
+      <TreeNode Title="C08G2/22 ##与环氧化合物[2]" Target="frmContent" Href="../searchservlet?query=C08G2/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G2/22"/>
+      <TreeNode Title="C08G2/24 ##与醛缩醇[2]" Target="frmContent" Href="../searchservlet?query=C08G2/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G2/24"/>
+      <TreeNode Title="C08G2/26 ##与含有碳-碳不饱和键化合物[2]" Target="frmContent" Href="../searchservlet?query=C08G2/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G2/26"/>
+    </TreeNode>
+    <TreeNode Title="C08G2/28 #聚合后处理[2]" Target="frmContent" Href="../searchservlet?query=C08G2/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G2/28"/>
+    <TreeNode Title="C08G2/30 #用后处理的化学改性[2]" Target="frmContent" Href="../searchservlet?query=C08G2/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G2/30">
+      <TreeNode Title="C08G2/32 ##用酯化作用[2]" Target="frmContent" Href="../searchservlet?query=C08G2/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G2/32"/>
+      <TreeNode Title="C08G2/34 ##用醚化作用[2]" Target="frmContent" Href="../searchservlet?query=C08G2/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G2/34"/>
+      <TreeNode Title="C08G2/36 ##用解聚作用[2]" Target="frmContent" Href="../searchservlet?query=C08G2/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G2/36"/>
+    </TreeNode>
+    <TreeNode Title="C08G2/38 #用醛或酮聚合到高分子化合物上制备的嵌段或接枝聚合物[2]" Target="frmContent" Href="../searchservlet?query=C08G2/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G2/38"/>
+  </TreeNode>
+  <TreeNode Title="C08G4/00 醛或酮与多元醇的缩聚物，在环中至少含一次-O-C-O-基的氧杂环化合物的加聚聚合物(关于醛的环状齐聚物入C08G 2/00)[2]" Target="frmContent" Href="../searchservlet?query=C08G4/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G4/00"/>
+  <TreeNode Title="C08G6/00 只有醛或酮的缩聚物[2]" Target="frmContent" Href="../searchservlet?query=C08G6/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G6/00">
+    <TreeNode Title="C08G6/02 #醛与酮的[2]" Target="frmContent" Href="../searchservlet?query=C08G6/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G6/02"/>
+  </TreeNode>
+  <TreeNode Title="C08G8/00 醛或酮只与酚的缩聚物[2]" Target="frmContent" Href="../searchservlet?query=C08G8/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G8/00">
+    <TreeNode Title="C08G8/02 #酮的[2]" Target="frmContent" Href="../searchservlet?query=C08G8/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G8/02"/>
+    <TreeNode Title="C08G8/04 #醛的[2]" Target="frmContent" Href="../searchservlet?query=C08G8/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G8/04">
+      <TreeNode Title="C08G8/06 ##糠醛的[2]" Target="frmContent" Href="../searchservlet?query=C08G8/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G8/06"/>
+      <TreeNode Title="C08G8/08 ##甲醛的，例如在反应中就地生成的甲醛[2]" Target="frmContent" Href="../searchservlet?query=C08G8/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G8/08">
+        <TreeNode Title="C08G8/10 ###与苯酚[2]" Target="frmContent" Href="../searchservlet?query=C08G8/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G8/10"/>
+        <TreeNode Title="C08G8/12 ###与仅在羟基邻位或对位有1个烃取代基的一元酚，如对-叔丁基苯酚[2]" Target="frmContent" Href="../searchservlet?query=C08G8/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G8/12"/>
+        <TreeNode Title="C08G8/14 ###与卤代酚[2]" Target="frmContent" Href="../searchservlet?query=C08G8/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G8/14"/>
+        <TreeNode Title="C08G8/16 ###与氨基或硝基酚[2]" Target="frmContent" Href="../searchservlet?query=C08G8/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G8/16"/>
+        <TreeNode Title="C08G8/18 ###与羧基或磺酸基取代的酚[2]" Target="frmContent" Href="../searchservlet?query=C08G8/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G8/18"/>
+        <TreeNode Title="C08G8/20 ###与多元酚[2]" Target="frmContent" Href="../searchservlet?query=C08G8/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G8/20">
+          <TreeNode Title="C08G8/22 ####间苯二酚[2]" Target="frmContent" Href="../searchservlet?query=C08G8/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G8/22"/>
+        </TreeNode>
+        <TreeNode Title="C08G8/24 ###与C08G 8/10到C08G 8/20中不只一组所包括的两种或更多种酚的混合物[2]" Target="frmContent" Href="../searchservlet?query=C08G8/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G8/24"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="C08G8/26 #由醛与酮的混合物[2]" Target="frmContent" Href="../searchservlet?query=C08G8/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G8/26"/>
+    <TreeNode Title="C08G8/28 #化学改性的缩聚物[2]" Target="frmContent" Href="../searchservlet?query=C08G8/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G8/28">
+      <TreeNode Title="C08G8/30 ##用不饱和化合物，如萜烯[2]" Target="frmContent" Href="../searchservlet?query=C08G8/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G8/30"/>
+      <TreeNode Title="C08G8/32 ##用有机酸或它的衍生物，如脂肪油[2]" Target="frmContent" Href="../searchservlet?query=C08G8/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G8/32"/>
+      <TreeNode Title="C08G8/34 ##用天然树脂或树脂酸，如松香[2]" Target="frmContent" Href="../searchservlet?query=C08G8/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G8/34"/>
+      <TreeNode Title="C08G8/36 ##用醚化[2]" Target="frmContent" Href="../searchservlet?query=C08G8/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G8/36"/>
+    </TreeNode>
+    <TreeNode Title="C08G8/38 #用醛或酮缩聚到高分子化合物上而制备的嵌段或接枝聚合物[2]" Target="frmContent" Href="../searchservlet?query=C08G8/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G8/38"/>
+  </TreeNode>
+  <TreeNode Title="C08G10/00 醛或酮仅与芳烃或卤代芳烃的缩聚物[2]" Target="frmContent" Href="../searchservlet?query=C08G10/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G10/00">
+    <TreeNode Title="C08G10/02 #醛的[2]" Target="frmContent" Href="../searchservlet?query=C08G10/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G10/02">
+      <TreeNode Title="C08G10/04 ##化学改性的缩聚物[2]" Target="frmContent" Href="../searchservlet?query=C08G10/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G10/04"/>
+    </TreeNode>
+    <TreeNode Title="C08G10/06 #用醛或酮缩聚到高分子化合物上而制备的嵌段或接枝聚合物[2]" Target="frmContent" Href="../searchservlet?query=C08G10/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G10/06"/>
+  </TreeNode>
+  <TreeNode Title="C08G12/00 醛或酮仅与含有氢连接到氮上的化合物的缩聚物(氨基酚类入C08G 8/16)[2]" Target="frmContent" Href="../searchservlet?query=C08G12/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G12/00">
+    <TreeNode Title="C08G12/02 #醛的" Target="frmContent" Href="../searchservlet?query=C08G12/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G12/02">
+      <TreeNode Title="C08G12/04 ##与无环或碳环化合物[2]" Target="frmContent" Href="../searchservlet?query=C08G12/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G12/04">
+        <TreeNode Title="C08G12/06 ###胺[2]" Target="frmContent" Href="../searchservlet?query=C08G12/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G12/06">
+          <TreeNode Title="C08G12/08 ####芳族的[2]" Target="frmContent" Href="../searchservlet?query=C08G12/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G12/08"/>
+        </TreeNode>
+        <TreeNode Title="C08G12/10 ###与具有XC(N)2部分的无环化合物，其中X是O、S，或-N[2]" Target="frmContent" Href="../searchservlet?query=C08G12/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G12/10">
+          <TreeNode Title="C08G12/12 ####脲；硫脲[2]" Target="frmContent" Href="../searchservlet?query=C08G12/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G12/12"/>
+          <TreeNode Title="C08G12/14 ####双氰胺；脒基脲；胍；双胍；缩二脲；氨基脲[2]" Target="frmContent" Href="../searchservlet?query=C08G12/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G12/14">
+            <TreeNode Title="C08G12/16 #####双氰胺[2]" Target="frmContent" Href="../searchservlet?query=C08G12/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G12/16"/>
+          </TreeNode>
+        </TreeNode>
+        <TreeNode Title="C08G12/18 ###与氨基氰[2]" Target="frmContent" Href="../searchservlet?query=C08G12/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G12/18"/>
+        <TreeNode Title="C08G12/20 ###与氨基甲酸酯或硫化氨基甲酸酯[2]" Target="frmContent" Href="../searchservlet?query=C08G12/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G12/20"/>
+        <TreeNode Title="C08G12/22 ###与羧酰胺(聚酰胺与醛反应入C08G 69/50)[2]" Target="frmContent" Href="../searchservlet?query=C08G12/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G12/22"/>
+        <TreeNode Title="C08G12/24 ###与磺酰胺[2]" Target="frmContent" Href="../searchservlet?query=C08G12/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G12/24"/>
+      </TreeNode>
+      <TreeNode Title="C08G12/26 ##与杂环化合物[2]" Target="frmContent" Href="../searchservlet?query=C08G12/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G12/26">
+        <TreeNode Title="C08G12/28 ###与取代的二嗪、二唑或三唑[2]" Target="frmContent" Href="../searchservlet?query=C08G12/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G12/28"/>
+        <TreeNode Title="C08G12/30 ###与取代的三嗪[2]" Target="frmContent" Href="../searchservlet?query=C08G12/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G12/30">
+          <TreeNode Title="C08G12/32 ####三聚氰胺[2]" Target="frmContent" Href="../searchservlet?query=C08G12/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G12/32"/>
+        </TreeNode>
+        <TreeNode Title="C08G12/34 ###与无环或碳环化合物[2]" Target="frmContent" Href="../searchservlet?query=C08G12/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G12/34">
+          <TreeNode Title="C08G12/36 ####脲；硫脲[2]" Target="frmContent" Href="../searchservlet?query=C08G12/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G12/36">
+            <TreeNode Title="C08G12/38 #####与三聚氰胺[2]" Target="frmContent" Href="../searchservlet?query=C08G12/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G12/38"/>
+          </TreeNode>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="C08G12/40 ##化学改性的缩聚物[2]" Target="frmContent" Href="../searchservlet?query=C08G12/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G12/40">
+        <TreeNode Title="C08G12/42 ###用醚化[2]" Target="frmContent" Href="../searchservlet?query=C08G12/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G12/42"/>
+        <TreeNode Title="C08G12/44 ###用酯化[2]" Target="frmContent" Href="../searchservlet?query=C08G12/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G12/44"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="C08G12/46 #用醛或酮缩聚到高分子化合物上而制得的嵌段或接枝聚合物[2]" Target="frmContent" Href="../searchservlet?query=C08G12/46&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G12/46"/>
+  </TreeNode>
+  <TreeNode Title="C08G14/00 醛或酮与C08G 8/00到C08G 12/00中至少两个组所包括的两种或更多种其他单体的缩聚物[2]" Target="frmContent" Href="../searchservlet?query=C08G14/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G14/00">
+    <TreeNode Title="C08G14/02 #醛的[2]" Target="frmContent" Href="../searchservlet?query=C08G14/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G14/02">
+      <TreeNode Title="C08G14/04 ##与酚[2]" Target="frmContent" Href="../searchservlet?query=C08G14/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G14/04">
+        <TreeNode Title="C08G14/06 ###与含有连接到氮上氢的单体[2]" Target="frmContent" Href="../searchservlet?query=C08G14/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G14/06">
+          <TreeNode Title="C08G14/067 ####无环或碳环的单体[5]" Target="frmContent" Href="../searchservlet?query=C08G14/067&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G14/067">
+            <TreeNode Title="C08G14/073 #####胺类[5]" Target="frmContent" Href="../searchservlet?query=C08G14/073&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G14/073"/>
+            <TreeNode Title="C08G14/08 #####脲；硫脲[2，5]" Target="frmContent" Href="../searchservlet?query=C08G14/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G14/08"/>
+          </TreeNode>
+          <TreeNode Title="C08G14/09 ####杂环单体[5]" Target="frmContent" Href="../searchservlet?query=C08G14/09&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G14/09">
+            <TreeNode Title="C08G14/10 #####三聚氰胺[2，5]" Target="frmContent" Href="../searchservlet?query=C08G14/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G14/10"/>
+          </TreeNode>
+        </TreeNode>
+        <TreeNode Title="C08G14/12 ###化学改性的缩聚物[2]" Target="frmContent" Href="../searchservlet?query=C08G14/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G14/12"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="C08G14/14 #用醛或酮缩聚到高分子化合物上而制得的嵌段或接枝聚合物[2]" Target="frmContent" Href="../searchservlet?query=C08G14/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G14/14"/>
+  </TreeNode>
+  <TreeNode Title="C08G16/00 醛或酮与不包含在C08G 4/00到C08G 14/00组中的单体的缩聚物(与多腈类入C08G 69/38)[2]" Target="frmContent" Href="../searchservlet?query=C08G16/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G16/00">
+    <TreeNode Title="C08G16/02 #醛的[2]" Target="frmContent" Href="../searchservlet?query=C08G16/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G16/02">
+      <TreeNode Title="C08G16/04 ##化学改性的缩聚物[2]" Target="frmContent" Href="../searchservlet?query=C08G16/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G16/04"/>
+    </TreeNode>
+    <TreeNode Title="C08G16/06 #用醛或酮缩聚到高分子化合物上而制得的嵌段或接枝聚合物[2]" Target="frmContent" Href="../searchservlet?query=C08G16/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G16/06"/>
+  </TreeNode>
+  <TreeNode Title="C08G18/00 异氰酸酯类或异硫氰酸酯类的聚合产物(多孔或蜂窝状材料的制备工艺过程，其中单体或催化剂并不是特定的入C08J)[2]" Target="frmContent" Href="../searchservlet?query=C08G18/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G18/00">
+    <TreeNode Title="C08G18/02 #只是异氰酸或异硫氰酸酯的[2]" Target="frmContent" Href="../searchservlet?query=C08G18/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G18/02"/>
+    <TreeNode Title="C08G18/04 #与乙烯基化合物[2]" Target="frmContent" Href="../searchservlet?query=C08G18/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G18/04"/>
+    <TreeNode Title="C08G18/06 #与具有活性氢的化合物[2]" Target="frmContent" Href="../searchservlet?query=C08G18/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G18/06">
+      <TreeNode Title="C08G18/08 ##工艺过程[2]" Target="frmContent" Href="../searchservlet?query=C08G18/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G18/08">
+        <TreeNode Title="C08G18/09 ###包括涉及反应混合物中一部分异氰酸酯或异硫氰酸酯基相互反应的异氰酸酯或异硫氰酸酯的齐聚(预先形成的齐聚物的使用入C08G 18/79)[7]" Target="frmContent" Href="../searchservlet?query=C08G18/09&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G18/09"/>
+        <TreeNode Title="C08G18/10 ###涉及第一反应步骤中异氰酸酯或异硫氰酸酯与含有活性氢的化合物反应的预聚物工艺过程(封闭的多异氰酸酯入C08G 18/80)[2]" Target="frmContent" Href="../searchservlet?query=C08G18/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G18/10">
+          <TreeNode Title="C08G18/12 ####在第一聚合阶段使用两个或更多个具有活性氢的化合物[2]" Target="frmContent" Href="../searchservlet?query=C08G18/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G18/12"/>
+        </TreeNode>
+        <TreeNode Title="C08G18/16 ###催化剂(一般催化剂入B01J)[2]" Target="frmContent" Href="../searchservlet?query=C08G18/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G18/16">
+          <TreeNode Title="C08G18/18 ####含有仲胺或叔胺或它们的盐[2]" Target="frmContent" Href="../searchservlet?query=C08G18/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G18/18">
+            <TreeNode Title="C08G18/20 #####杂环胺；它的盐[2]" Target="frmContent" Href="../searchservlet?query=C08G18/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G18/20"/>
+          </TreeNode>
+          <TreeNode Title="C08G18/22 ####含金属化合物[2]" Target="frmContent" Href="../searchservlet?query=C08G18/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G18/22">
+            <TreeNode Title="C08G18/24 #####锡的[2]" Target="frmContent" Href="../searchservlet?query=C08G18/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G18/24"/>
+            <TreeNode Title="C08G18/26 #####铅的[2]" Target="frmContent" Href="../searchservlet?query=C08G18/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G18/26"/>
+          </TreeNode>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="C08G18/28 ##以使用含有活性氢的化合物为特征[2]" Target="frmContent" Href="../searchservlet?query=C08G18/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G18/28">
+        <TreeNode Title="C08G18/30 ###低分子量化合物[2]" Target="frmContent" Href="../searchservlet?query=C08G18/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G18/30">
+          <TreeNode Title="C08G18/32 ####多羟基化合物；多胺；羟基胺[2]" Target="frmContent" Href="../searchservlet?query=C08G18/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G18/32"/>
+          <TreeNode Title="C08G18/34 ####羧酸；它与一元羟基化合物的酯[2]" Target="frmContent" Href="../searchservlet?query=C08G18/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G18/34"/>
+          <TreeNode Title="C08G18/36 ####高级脂肪酸羟基化的酯[2]" Target="frmContent" Href="../searchservlet?query=C08G18/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G18/36"/>
+          <TreeNode Title="C08G18/38 ####具有氧以外的其他杂原子(C08G 18/32优先)[2]" Target="frmContent" Href="../searchservlet?query=C08G18/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G18/38"/>
+        </TreeNode>
+        <TreeNode Title="C08G18/40 ###高分子量化合物[2]" Target="frmContent" Href="../searchservlet?query=C08G18/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G18/40">
+          <TreeNode Title="C08G18/42 ####在主链中具有羧基或碳酸酯基的缩聚物[2]" Target="frmContent" Href="../searchservlet?query=C08G18/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G18/42">
+            <TreeNode Title="C08G18/44 #####聚碳酸酯[2]" Target="frmContent" Href="../searchservlet?query=C08G18/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G18/44"/>
+            <TreeNode Title="C08G18/46 #####具有氧以外的其他杂原子[2]" Target="frmContent" Href="../searchservlet?query=C08G18/46&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G18/46"/>
+          </TreeNode>
+          <TreeNode Title="C08G18/48 ####聚醚[2]" Target="frmContent" Href="../searchservlet?query=C08G18/48&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G18/48">
+            <TreeNode Title="C08G18/50 #####具有氧以外的其他杂原子[2]" Target="frmContent" Href="../searchservlet?query=C08G18/50&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G18/50"/>
+          </TreeNode>
+          <TreeNode Title="C08G18/52 ####聚硫醚[2]" Target="frmContent" Href="../searchservlet?query=C08G18/52&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G18/52"/>
+          <TreeNode Title="C08G18/54 ####醛的缩聚物[2]" Target="frmContent" Href="../searchservlet?query=C08G18/54&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G18/54"/>
+          <TreeNode Title="C08G18/56 ####聚醛缩醇[2]" Target="frmContent" Href="../searchservlet?query=C08G18/56&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G18/56"/>
+          <TreeNode Title="C08G18/58 ####环氧树脂[2]" Target="frmContent" Href="../searchservlet?query=C08G18/58&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G18/58"/>
+          <TreeNode Title="C08G18/60 ####聚酰胺或聚酯酰胺[2]" Target="frmContent" Href="../searchservlet?query=C08G18/60&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G18/60"/>
+          <TreeNode Title="C08G18/61 ####聚硅氧烷[2]" Target="frmContent" Href="../searchservlet?query=C08G18/61&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G18/61"/>
+          <TreeNode Title="C08G18/62 ####具有碳-碳双键化合物的聚合物[2]" Target="frmContent" Href="../searchservlet?query=C08G18/62&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G18/62"/>
+          <TreeNode Title="C08G18/63 ####将具有碳-碳双键化合物聚合到聚合物上而得到的嵌段或接枝聚合物[2]" Target="frmContent" Href="../searchservlet?query=C08G18/63&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G18/63"/>
+          <TreeNode Title="C08G18/64 ####C08G 18/42至C08G 18/63组中不包括的高分子化合物[2]" Target="frmContent" Href="../searchservlet?query=C08G18/64&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G18/64"/>
+        </TreeNode>
+        <TreeNode Title="C08G18/65 ###具有活性氢的低分子量化合物与具有活性氢的高分子量化合物[2]" Target="frmContent" Href="../searchservlet?query=C08G18/65&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G18/65">
+          <TreeNode Title="C08G18/66 ####属于C08G 18/42、C08G 18/48或C08G 18/52组的化合物[2]" Target="frmContent" Href="../searchservlet?query=C08G18/66&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G18/66"/>
+        </TreeNode>
+        <TreeNode Title="C08G18/67 ###具有活性氢的不饱和化合物[2]" Target="frmContent" Href="../searchservlet?query=C08G18/67&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G18/67">
+          <TreeNode Title="C08G18/68 ####不饱和聚酯[2]" Target="frmContent" Href="../searchservlet?query=C08G18/68&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G18/68"/>
+          <TreeNode Title="C08G18/69 ####共轭二烯烃聚合物[2]" Target="frmContent" Href="../searchservlet?query=C08G18/69&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G18/69"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="C08G18/70 ##以所用异氰酸酯或异硫氰酸酯为特征[2]" Target="frmContent" Href="../searchservlet?query=C08G18/70&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G18/70">
+        <TreeNode Title="C08G18/71 ###单异氰酸酯或单异硫氰酸酯[2]" Target="frmContent" Href="../searchservlet?query=C08G18/71&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G18/71"/>
+        <TreeNode Title="C08G18/72 ###多异氰酸酯或多异硫氰酸酯[2]" Target="frmContent" Href="../searchservlet?query=C08G18/72&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G18/72">
+          <TreeNode Title="C08G18/73 ####无环的[2]" Target="frmContent" Href="../searchservlet?query=C08G18/73&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G18/73"/>
+          <TreeNode Title="C08G18/74 ####环的[2]" Target="frmContent" Href="../searchservlet?query=C08G18/74&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G18/74">
+            <TreeNode Title="C08G18/75 #####脂环族的[2]" Target="frmContent" Href="../searchservlet?query=C08G18/75&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G18/75"/>
+            <TreeNode Title="C08G18/76 #####芳族的[2]" Target="frmContent" Href="../searchservlet?query=C08G18/76&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G18/76"/>
+          </TreeNode>
+          <TreeNode Title="C08G18/77 ####具有除异氰酸酯或异硫氰酸酯的氮与氧或硫外的杂原子[2]" Target="frmContent" Href="../searchservlet?query=C08G18/77&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G18/77">
+            <TreeNode Title="C08G18/78 #####氮[2]" Target="frmContent" Href="../searchservlet?query=C08G18/78&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G18/78">
+              <TreeNode Title="C08G18/79 ######以使用的多异氰酸酯为特征，这些多异氰酸酯具有由异氰酸酯或异硫氰酸酯齐聚而形成的基团[2]" Target="frmContent" Href="../searchservlet?query=C08G18/79&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G18/79"/>
+            </TreeNode>
+          </TreeNode>
+          <TreeNode Title="C08G18/80 ####掩蔽的多异氰酸酯[2]" Target="frmContent" Href="../searchservlet?query=C08G18/80&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G18/80"/>
+        </TreeNode>
+        <TreeNode Title="C08G18/81 ###不饱和异氰酸酯或异硫氰酸酯[2]" Target="frmContent" Href="../searchservlet?query=C08G18/81&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G18/81"/>
+      </TreeNode>
+      <TreeNode Title="C08G18/82 ##聚合后处理[2]" Target="frmContent" Href="../searchservlet?query=C08G18/82&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G18/82"/>
+      <TreeNode Title="C08G18/83 ##化学改性聚合物[2]" Target="frmContent" Href="../searchservlet?query=C08G18/83&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G18/83">
+        <TreeNode Title="C08G18/84 ###用醛[2]" Target="frmContent" Href="../searchservlet?query=C08G18/84&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G18/84"/>
+        <TreeNode Title="C08G18/85 ###用偶氮化合物[2]" Target="frmContent" Href="../searchservlet?query=C08G18/85&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G18/85"/>
+        <TreeNode Title="C08G18/86 ###用过氧化物[2]" Target="frmContent" Href="../searchservlet?query=C08G18/86&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G18/86"/>
+        <TreeNode Title="C08G18/87 ###用硫[2]" Target="frmContent" Href="../searchservlet?query=C08G18/87&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G18/87"/>
+      </TreeNode>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="C08G59/00 每个分子含有1个以上环氧基的缩聚物(低分子量多环氧化合物入C07)；环氧缩聚物与单官能团低分子量化合物反应得到的高分子；每个分子含有1个以上环氧基的化合物使用与该环氧基反应的固化剂或催化剂聚合得到的高分子[2]" Target="frmContent" Href="../searchservlet?query=C08G59/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G59/00">
+    <TreeNode Title="C08G59/02 #每分子含有1个以上环氧基的缩聚物[2]" Target="frmContent" Href="../searchservlet?query=C08G59/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G59/02">
+      <TreeNode Title="C08G59/04 ##多羟基化合物与表卤醇或它的母体的[2]" Target="frmContent" Href="../searchservlet?query=C08G59/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G59/04">
+        <TreeNode Title="C08G59/06 ###多元酚的[2]" Target="frmContent" Href="../searchservlet?query=C08G59/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G59/06">
+          <TreeNode Title="C08G59/08 ####由酚-醛缩合物[2]" Target="frmContent" Href="../searchservlet?query=C08G59/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G59/08"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="C08G59/10 ##多元胺与表卤醇或它的母体的[2]" Target="frmContent" Href="../searchservlet?query=C08G59/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G59/10"/>
+      <TreeNode Title="C08G59/12 ##多元羧酸与表卤醇或它的母体的[2]" Target="frmContent" Href="../searchservlet?query=C08G59/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G59/12"/>
+    </TreeNode>
+    <TreeNode Title="C08G59/14 #用化学后处理改性的缩聚物[2]" Target="frmContent" Href="../searchservlet?query=C08G59/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G59/14">
+      <TreeNode Title="C08G59/16 ##用单羧酸或它的酐、卤化物或低分子量酯[2]" Target="frmContent" Href="../searchservlet?query=C08G59/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G59/16">
+        <TreeNode Title="C08G59/17 ###用丙烯酸或甲基丙烯酸[4]" Target="frmContent" Href="../searchservlet?query=C08G59/17&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G59/17"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="C08G59/18 #每个分子含有1个以上环氧基的化合物，使用与环氧基反应的固化剂或催化剂聚合得到的高分子[2]" Target="frmContent" Href="../searchservlet?query=C08G59/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G59/18">
+      <TreeNode Title="C08G59/20 ##以使用的环氧化合物为特征[2]" Target="frmContent" Href="../searchservlet?query=C08G59/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G59/20">
+        <TreeNode Title="C08G59/22 ###二环氧化合物[2]" Target="frmContent" Href="../searchservlet?query=C08G59/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G59/22">
+          <TreeNode Title="C08G59/24 ####碳环的[2]" Target="frmContent" Href="../searchservlet?query=C08G59/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G59/24"/>
+          <TreeNode Title="C08G59/26 ####杂环的[2]" Target="frmContent" Href="../searchservlet?query=C08G59/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G59/26"/>
+          <TreeNode Title="C08G59/28 ####含有无环氮原子的[2]" Target="frmContent" Href="../searchservlet?query=C08G59/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G59/28"/>
+          <TreeNode Title="C08G59/30 ####含有碳、氢、氧及氮以外原子的[2]" Target="frmContent" Href="../searchservlet?query=C08G59/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G59/30"/>
+        </TreeNode>
+        <TreeNode Title="C08G59/32 ###含有3个或更多环氧基的环氧化合物[2]" Target="frmContent" Href="../searchservlet?query=C08G59/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G59/32">
+          <TreeNode Title="C08G59/34 ####由不饱和聚合物环氧化作用得到的[2]" Target="frmContent" Href="../searchservlet?query=C08G59/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G59/34"/>
+          <TreeNode Title="C08G59/36 ####与单环氧化合物一起[2]" Target="frmContent" Href="../searchservlet?query=C08G59/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G59/36"/>
+          <TreeNode Title="C08G59/38 ####与二环氧化合物一起[2]" Target="frmContent" Href="../searchservlet?query=C08G59/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G59/38"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="C08G59/40 ##以使用的固化剂为特征[2]" Target="frmContent" Href="../searchservlet?query=C08G59/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G59/40">
+        <TreeNode Title="C08G59/42 ###多元羧酸，它的酐、卤化物或低分子量酯[2]" Target="frmContent" Href="../searchservlet?query=C08G59/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G59/42"/>
+        <TreeNode Title="C08G59/44 ###酰胺[2]" Target="frmContent" Href="../searchservlet?query=C08G59/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G59/44">
+          <TreeNode Title="C08G59/46 ####与其他固化剂一起[2]" Target="frmContent" Href="../searchservlet?query=C08G59/46&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G59/46">
+            <TreeNode Title="C08G59/48 #####与多元羧酸或它的酐、卤化物或低分子量酯[2]" Target="frmContent" Href="../searchservlet?query=C08G59/48&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G59/48"/>
+          </TreeNode>
+        </TreeNode>
+        <TreeNode Title="C08G59/50 ###胺[2]" Target="frmContent" Href="../searchservlet?query=C08G59/50&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G59/50">
+          <TreeNode Title="C08G59/52 ####氨基羧酸[2]" Target="frmContent" Href="../searchservlet?query=C08G59/52&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G59/52"/>
+          <TreeNode Title="C08G59/54 ####氨基酰胺[2]" Target="frmContent" Href="../searchservlet?query=C08G59/54&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G59/54"/>
+          <TreeNode Title="C08G59/56 ####与其他固化剂一起[2]" Target="frmContent" Href="../searchservlet?query=C08G59/56&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G59/56">
+            <TreeNode Title="C08G59/58 #####与多元羧酸或它的酐、卤化物或低分子量酯[2]" Target="frmContent" Href="../searchservlet?query=C08G59/58&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G59/58"/>
+            <TreeNode Title="C08G59/60 #####与酰胺[2]" Target="frmContent" Href="../searchservlet?query=C08G59/60&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G59/60"/>
+          </TreeNode>
+        </TreeNode>
+        <TreeNode Title="C08G59/62 ###醇或酚[2]" Target="frmContent" Href="../searchservlet?query=C08G59/62&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G59/62">
+          <TreeNode Title="C08G59/64 ####氨基醇[2]" Target="frmContent" Href="../searchservlet?query=C08G59/64&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G59/64"/>
+        </TreeNode>
+        <TreeNode Title="C08G59/66 ###硫醇[2]" Target="frmContent" Href="../searchservlet?query=C08G59/66&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G59/66"/>
+      </TreeNode>
+      <TreeNode Title="C08G59/68 ##以使用的催化剂为特征[2]" Target="frmContent" Href="../searchservlet?query=C08G59/68&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G59/68">
+        <TreeNode Title="C08G59/70 ###螯合物[2]" Target="frmContent" Href="../searchservlet?query=C08G59/70&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G59/70"/>
+        <TreeNode Title="C08G59/72 ###卤化硼的配合物[2]" Target="frmContent" Href="../searchservlet?query=C08G59/72&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G59/72"/>
+      </TreeNode>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="C08G61/00 由在高分子主链中形成碳-碳键合的反应得到的高分子化合物(C08G 2/00至C08G 16/00优先)[2]" Target="frmContent" Href="../searchservlet?query=C08G61/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G61/00">
+    <TreeNode Title="C08G61/02 #在高分子主链中只含有碳原子的高分子化合物，如聚苯二亚甲基[2]" Target="frmContent" Href="../searchservlet?query=C08G61/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G61/02">
+      <TreeNode Title="C08G61/04 ##只有脂族碳原子[2]" Target="frmContent" Href="../searchservlet?query=C08G61/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G61/04">
+        <TreeNode Title="C08G61/06 ###由碳环化合物的开环制备的[2]" Target="frmContent" Href="../searchservlet?query=C08G61/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G61/06">
+          <TreeNode Title="C08G61/08 ####在环中含有1个或更多碳-碳双键的碳环化合物[2]" Target="frmContent" Href="../searchservlet?query=C08G61/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G61/08"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="C08G61/10 ##只有芳香族碳原子，如聚亚苯基[2]" Target="frmContent" Href="../searchservlet?query=C08G61/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G61/10"/>
+    </TreeNode>
+    <TreeNode Title="C08G61/12 #在高分子主链上含有碳原子以外原子的高分子化合物[2]" Target="frmContent" Href="../searchservlet?query=C08G61/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G61/12"/>
+  </TreeNode>
+  <TreeNode Title="C08G63/00 由在高分子主链上形成羧酸酯键的反应制得的高分子化合物(聚酯-酰胺类入C08G 69/44；聚酯-酰亚胺类入C08G 73/16)[2，5]" Target="frmContent" Href="../searchservlet?query=C08G63/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G63/00">
+    <TreeNode Title="C08G63/02 #由羟基羧酸或由多羧酸与多羟基化合物衍行的聚酯[2]" Target="frmContent" Href="../searchservlet?query=C08G63/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G63/02">
+      <TreeNode Title="C08G63/06 ##由羟基羧酸衍生的[2]" Target="frmContent" Href="../searchservlet?query=C08G63/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G63/06">
+        <TreeNode Title="C08G63/08 ###内酯或丙交酯[2]" Target="frmContent" Href="../searchservlet?query=C08G63/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G63/08"/>
+      </TreeNode>
+      <TreeNode Title="C08G63/12 ##由多羧酸与多羟基化合物衍生的[2]" Target="frmContent" Href="../searchservlet?query=C08G63/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G63/12">
+        <TreeNode Title="C08G63/123 ###含碳环的酸或羟基化合物[5]" Target="frmContent" Href="../searchservlet?query=C08G63/123&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G63/123">
+          <TreeNode Title="C08G63/127 ####含芳环的酸[5]" Target="frmContent" Href="../searchservlet?query=C08G63/127&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G63/127">
+            <TreeNode Title="C08G63/13 #####含两个或多个芳香环的[5]" Target="frmContent" Href="../searchservlet?query=C08G63/13&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G63/13"/>
+          </TreeNode>
+          <TreeNode Title="C08G63/133 ####含芳香环的羟基化合物[5]" Target="frmContent" Href="../searchservlet?query=C08G63/133&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G63/133"/>
+          <TreeNode Title="C08G63/137 ####含脂肪环的酸或羟基化合物[5]" Target="frmContent" Href="../searchservlet?query=C08G63/137&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G63/137"/>
+        </TreeNode>
+        <TreeNode Title="C08G63/16 ###二羧酸与二羟基化合物[2]" Target="frmContent" Href="../searchservlet?query=C08G63/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G63/16">
+          <TreeNode Title="C08G63/18 ####含有碳环的酸或羟基化合物[2]" Target="frmContent" Href="../searchservlet?query=C08G63/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G63/18">
+            <TreeNode Title="C08G63/181 #####含芳香环的酸[5]" Target="frmContent" Href="../searchservlet?query=C08G63/181&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G63/181">
+              <TreeNode Title="C08G63/183 ######对苯二酸[5]" Target="frmContent" Href="../searchservlet?query=C08G63/183&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G63/183"/>
+              <TreeNode Title="C08G63/185 ######含两个或多个芳香环的[5]" Target="frmContent" Href="../searchservlet?query=C08G63/185&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G63/185">
+                <TreeNode Title="C08G63/187 #######含稠合芳香环的[5]" Target="frmContent" Href="../searchservlet?query=C08G63/187&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G63/187">
+                  <TreeNode Title="C08G63/189 ########含萘环的[5]" Target="frmContent" Href="../searchservlet?query=C08G63/189&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G63/189"/>
+                </TreeNode>
+              </TreeNode>
+            </TreeNode>
+            <TreeNode Title="C08G63/19 #####含芳香环的羟基化合物[5]" Target="frmContent" Href="../searchservlet?query=C08G63/19&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G63/19">
+              <TreeNode Title="C08G63/191 ######对苯二酚[5]" Target="frmContent" Href="../searchservlet?query=C08G63/191&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G63/191"/>
+              <TreeNode Title="C08G63/193 ######含两个或多个芳香环的[5]" Target="frmContent" Href="../searchservlet?query=C08G63/193&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G63/193">
+                <TreeNode Title="C08G63/195 #######双酚A[5]" Target="frmContent" Href="../searchservlet?query=C08G63/195&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G63/195"/>
+                <TreeNode Title="C08G63/197 #######含稠合芳香环的[5]" Target="frmContent" Href="../searchservlet?query=C08G63/197&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G63/197"/>
+              </TreeNode>
+            </TreeNode>
+            <TreeNode Title="C08G63/199 #####含脂肪环的酸或羟基化合物[5]" Target="frmContent" Href="../searchservlet?query=C08G63/199&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G63/199"/>
+          </TreeNode>
+          <TreeNode Title="C08G63/20 ####在含有1个活性基或多于两个活性的化合物存在下制备的聚酯[2]" Target="frmContent" Href="../searchservlet?query=C08G63/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G63/20">
+            <TreeNode Title="C08G63/21 #####在不饱和单羧酸或不饱和单羟基酸或它们的活性衍生物存在下[5]" Target="frmContent" Href="../searchservlet?query=C08G63/21&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G63/21"/>
+          </TreeNode>
+        </TreeNode>
+        <TreeNode Title="C08G63/40 ###除由它们的酯外由多元羧酸或多羟基化合物的能成酯的衍生物得到的聚酯[2]" Target="frmContent" Href="../searchservlet?query=C08G63/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G63/40">
+          <TreeNode Title="C08G63/42 ####环醚(C08G 59/00优先)；环碳酸酯；环亚硫酸酯；环原酸酯[2，7]" Target="frmContent" Href="../searchservlet?query=C08G63/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G63/42"/>
+          <TreeNode Title="C08G63/44 ####聚酰胺；聚腈[2]" Target="frmContent" Href="../searchservlet?query=C08G63/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G63/44"/>
+        </TreeNode>
+        <TreeNode Title="C08G63/46 ###由酯化得到的化学改性的聚酯(C08G 63/20优先；由后处理入C08G 63/91)[2]" Target="frmContent" Href="../searchservlet?query=C08G63/46&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G63/46">
+          <TreeNode Title="C08G63/47 ####由不饱和单羧酸或不饱和一元醇或由它们的活性衍生物[5]" Target="frmContent" Href="../searchservlet?query=C08G63/47&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G63/47"/>
+          <TreeNode Title="C08G63/48 ####由不饱和高级脂肪油或它们的酸；由树脂酸[2]" Target="frmContent" Href="../searchservlet?query=C08G63/48&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G63/48">
+            <TreeNode Title="C08G63/49 #####醇酸树脂[5]" Target="frmContent" Href="../searchservlet?query=C08G63/49&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G63/49"/>
+          </TreeNode>
+          <TreeNode Title="C08G63/50 ####用一元醇[2]" Target="frmContent" Href="../searchservlet?query=C08G63/50&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G63/50"/>
+        </TreeNode>
+        <TreeNode Title="C08G63/52 ###多元羧酸或多羟基化合物两组中至少其中之一含有脂肪族不饱和烃[2]" Target="frmContent" Href="../searchservlet?query=C08G63/52&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G63/52">
+          <TreeNode Title="C08G63/54 ####含碳环的酸或羟基化合物[2]" Target="frmContent" Href="../searchservlet?query=C08G63/54&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G63/54">
+            <TreeNode Title="C08G63/547 #####含芳香环的羟基化合物[5]" Target="frmContent" Href="../searchservlet?query=C08G63/547&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G63/547"/>
+            <TreeNode Title="C08G63/553 #####含脂肪环的酸或羟基化合物，例如狄尔斯-阿德耳(Diels-Alder)加成物[5]" Target="frmContent" Href="../searchservlet?query=C08G63/553&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G63/553"/>
+          </TreeNode>
+          <TreeNode Title="C08G63/56 ####除由它们的酯外，由多元羧酸或多羟基化合物的能成酯的衍生物得到的聚酯[2]" Target="frmContent" Href="../searchservlet?query=C08G63/56&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G63/56">
+            <TreeNode Title="C08G63/58 #####环醚(C08G 59/00优先)；环碳酸酯；环亚硫酸酯[2]" Target="frmContent" Href="../searchservlet?query=C08G63/58&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G63/58"/>
+          </TreeNode>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="C08G63/60 ##由羟基羧酸、多元羧酸和多羟基化合物的混合物的反应得到的[2]" Target="frmContent" Href="../searchservlet?query=C08G63/60&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G63/60"/>
+    </TreeNode>
+    <TreeNode Title="C08G63/64 #含有羧酸酯基与碳酸酯基两者的聚酯[2]" Target="frmContent" Href="../searchservlet?query=C08G63/64&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G63/64"/>
+    <TreeNode Title="C08G63/66 #含有醚基形式氧的聚酯(C08G 63/42、C08G 63/58优先)[2]" Target="frmContent" Href="../searchservlet?query=C08G63/66&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G63/66">
+      <TreeNode Title="C08G63/664 ##由羟基羧酸得到的[5]" Target="frmContent" Href="../searchservlet?query=C08G63/664&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G63/664"/>
+      <TreeNode Title="C08G63/668 ##由多元羧酸和多羟基化合物得到的[5]" Target="frmContent" Href="../searchservlet?query=C08G63/668&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G63/668">
+        <TreeNode Title="C08G63/672 ###二元羧酸和二羟基化合物[5]" Target="frmContent" Href="../searchservlet?query=C08G63/672&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G63/672"/>
+        <TreeNode Title="C08G63/676 ###两个组分中至少其中之一含脂肪族不饱和烃[5]" Target="frmContent" Href="../searchservlet?query=C08G63/676&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G63/676"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="C08G63/68 #含有碳、氢及氧以外其他原子的聚酯(C08G 63/64优先)[4]" Target="frmContent" Href="../searchservlet?query=C08G63/68&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G63/68">
+      <TreeNode Title="C08G63/682 ##含卤素的[5]" Target="frmContent" Href="../searchservlet?query=C08G63/682&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G63/682"/>
+      <TreeNode Title="C08G63/685 ##含氮的[5]" Target="frmContent" Href="../searchservlet?query=C08G63/685&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G63/685"/>
+      <TreeNode Title="C08G63/688 ##含硫的[5]" Target="frmContent" Href="../searchservlet?query=C08G63/688&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G63/688"/>
+      <TreeNode Title="C08G63/692 ##含磷的[5]" Target="frmContent" Href="../searchservlet?query=C08G63/692&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G63/692"/>
+      <TreeNode Title="C08G63/695 ##含硅的[5]" Target="frmContent" Href="../searchservlet?query=C08G63/695&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G63/695"/>
+      <TreeNode Title="C08G63/698 ##含硼的[5]" Target="frmContent" Href="../searchservlet?query=C08G63/698&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G63/698"/>
+    </TreeNode>
+    <TreeNode Title="C08G63/78 #制备方法[5]" Target="frmContent" Href="../searchservlet?query=C08G63/78&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G63/78">
+      <TreeNode Title="C08G63/79 ##界面方法，即包括在两种不相混溶的液体界面上进行反应的方法[5]" Target="frmContent" Href="../searchservlet?query=C08G63/79&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G63/79"/>
+      <TreeNode Title="C08G63/80 ##固体缩聚[5]" Target="frmContent" Href="../searchservlet?query=C08G63/80&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G63/80"/>
+      <TreeNode Title="C08G63/81 ##使用溶剂(C08G 63/79优先)[5]" Target="frmContent" Href="../searchservlet?query=C08G63/81&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G63/81"/>
+      <TreeNode Title="C08G63/82 ##以使用的催化剂为特征的[5]" Target="frmContent" Href="../searchservlet?query=C08G63/82&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G63/82">
+        <TreeNode Title="C08G63/83 ###碱金属、碱土金属、铍、镁、铜、银、金、锌、钙、汞、锰或其化合物[5]" Target="frmContent" Href="../searchservlet?query=C08G63/83&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G63/83"/>
+        <TreeNode Title="C08G63/84 ###硼、铝、镓、铟、铊、稀土金属或其化合物[5]" Target="frmContent" Href="../searchservlet?query=C08G63/84&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G63/84"/>
+        <TreeNode Title="C08G63/85 ###锗、锡、铅、砷、锑、铋、钛、锆、铪、钒、铌、钽或其化合物[5]" Target="frmContent" Href="../searchservlet?query=C08G63/85&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G63/85">
+          <TreeNode Title="C08G63/86 ####锗、锑或其化学物[5]" Target="frmContent" Href="../searchservlet?query=C08G63/86&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G63/86"/>
+        </TreeNode>
+        <TreeNode Title="C08G63/87 ###非金属或其相互形成的化合物(硼入C08G 63/84)[5]" Target="frmContent" Href="../searchservlet?query=C08G63/87&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G63/87"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="C08G63/88 #聚合后处理[5]" Target="frmContent" Href="../searchservlet?query=C08G63/88&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G63/88">
+      <TreeNode Title="C08G63/89 ##聚合物的回收[5]" Target="frmContent" Href="../searchservlet?query=C08G63/89&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G63/89"/>
+      <TreeNode Title="C08G63/90 ##精制；干燥[5]" Target="frmContent" Href="../searchservlet?query=C08G63/90&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G63/90"/>
+    </TreeNode>
+    <TreeNode Title="C08G63/91 #用化学后处理改性的聚合物[5]" Target="frmContent" Href="../searchservlet?query=C08G63/91&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G63/91"/>
+  </TreeNode>
+  <TreeNode Title="C08G64/00 由在高分子主链上形成碳酸酯键的反应制得的高分子化合物(聚碳酸酯-酰胺类入C08G 69/44；聚碳酸酯-酰亚胺类入C08G 73/16)[5]" Target="frmContent" Href="../searchservlet?query=C08G64/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G64/00">
+    <TreeNode Title="C08G64/02 #脂肪族聚碳酸酯[5]" Target="frmContent" Href="../searchservlet?query=C08G64/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G64/02"/>
+    <TreeNode Title="C08G64/04 #芳香族聚碳酸酯[5]" Target="frmContent" Href="../searchservlet?query=C08G64/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G64/04">
+      <TreeNode Title="C08G64/06 ##不含脂肪族不饱和键[5]" Target="frmContent" Href="../searchservlet?query=C08G64/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G64/06">
+        <TreeNode Title="C08G64/08 ###含碳、氢或氧以外原子的[5]" Target="frmContent" Href="../searchservlet?query=C08G64/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G64/08">
+          <TreeNode Title="C08G64/10 ####含卤素的[5]" Target="frmContent" Href="../searchservlet?query=C08G64/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G64/10"/>
+          <TreeNode Title="C08G64/12 ####含氮的[5]" Target="frmContent" Href="../searchservlet?query=C08G64/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G64/12"/>
+        </TreeNode>
+        <TreeNode Title="C08G64/14 ###含链终止剂或交联剂[5]" Target="frmContent" Href="../searchservlet?query=C08G64/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G64/14"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="C08G64/16 #脂肪-芳香的或芳脂的聚碳酸酯[5]" Target="frmContent" Href="../searchservlet?query=C08G64/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G64/16"/>
+    <TreeNode Title="C08G64/18 #嵌段或接枝聚合物[5]" Target="frmContent" Href="../searchservlet?query=C08G64/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G64/18"/>
+    <TreeNode Title="C08G64/20 #一般制备方法[5]" Target="frmContent" Href="../searchservlet?query=C08G64/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G64/20">
+      <TreeNode Title="C08G64/22 ##使用羰基卤化物的[5]" Target="frmContent" Href="../searchservlet?query=C08G64/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G64/22">
+        <TreeNode Title="C08G64/24 ###与酚类的[5]" Target="frmContent" Href="../searchservlet?query=C08G64/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G64/24"/>
+      </TreeNode>
+      <TreeNode Title="C08G64/26 ##使用卤化碳酸酯类[5]" Target="frmContent" Href="../searchservlet?query=C08G64/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G64/26">
+        <TreeNode Title="C08G64/28 ###与酚类的[5]" Target="frmContent" Href="../searchservlet?query=C08G64/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G64/28"/>
+      </TreeNode>
+      <TreeNode Title="C08G64/30 ##使用碳酸酯类[5]" Target="frmContent" Href="../searchservlet?query=C08G64/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G64/30"/>
+      <TreeNode Title="C08G64/32 ##使用二氧化碳的[5]" Target="frmContent" Href="../searchservlet?query=C08G64/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G64/32">
+        <TreeNode Title="C08G64/34 ###与环醚的[5]" Target="frmContent" Href="../searchservlet?query=C08G64/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G64/34"/>
+      </TreeNode>
+      <TreeNode Title="C08G64/36 ##使用一氧化碳的[5]" Target="frmContent" Href="../searchservlet?query=C08G64/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G64/36"/>
+      <TreeNode Title="C08G64/38 ##使用其他单体的[5]" Target="frmContent" Href="../searchservlet?query=C08G64/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G64/38"/>
+    </TreeNode>
+    <TreeNode Title="C08G64/40 #聚合后处理[5]" Target="frmContent" Href="../searchservlet?query=C08G64/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G64/40"/>
+    <TreeNode Title="C08G64/42 #化学后处理[5]" Target="frmContent" Href="../searchservlet?query=C08G64/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G64/42"/>
+  </TreeNode>
+  <TreeNode Title="C08G65/00 由在高分子主链中形成醚键的反应得到的高分子化合物(聚缩醛入C08G 2/00、C08G 4/00；环氧树脂入C08G 59/00；聚硫醚-醚入C08G 75/12；含有少于11个单体单元的聚醚入C07C)[2]" Target="frmContent" Href="../searchservlet?query=C08G65/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G65/00">
+    <TreeNode Title="C08G65/02 #由环醚用杂环开环的反应[2]" Target="frmContent" Href="../searchservlet?query=C08G65/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G65/02">
+      <TreeNode Title="C08G65/04 ##只由环醚[2]" Target="frmContent" Href="../searchservlet?query=C08G65/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G65/04">
+        <TreeNode Title="C08G65/06 ###在环外只有碳及氢原子的环醚[2]" Target="frmContent" Href="../searchservlet?query=C08G65/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G65/06">
+          <TreeNode Title="C08G65/08 ####饱和的环氧乙烷[2]" Target="frmContent" Href="../searchservlet?query=C08G65/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G65/08">
+            <TreeNode Title="C08G65/10 #####以使用的催化剂为特征[2]" Target="frmContent" Href="../searchservlet?query=C08G65/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G65/10">
+              <TreeNode Title="C08G65/12 ######含有有机金属化合物或金属氢化物[2]" Target="frmContent" Href="../searchservlet?query=C08G65/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G65/12"/>
+            </TreeNode>
+          </TreeNode>
+          <TreeNode Title="C08G65/14 ####不饱和的环氧乙烷[2]" Target="frmContent" Href="../searchservlet?query=C08G65/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G65/14"/>
+          <TreeNode Title="C08G65/16 ####具有4个或更多环原子的环醚[2]" Target="frmContent" Href="../searchservlet?query=C08G65/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G65/16">
+            <TreeNode Title="C08G65/18 #####氧杂环丁烷[2]" Target="frmContent" Href="../searchservlet?query=C08G65/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G65/18"/>
+            <TreeNode Title="C08G65/20 #####四氢呋喃[2]" Target="frmContent" Href="../searchservlet?query=C08G65/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G65/20"/>
+          </TreeNode>
+        </TreeNode>
+        <TreeNode Title="C08G65/22 ###在环外至少有1个除碳及氢外的原子的环醚[2]" Target="frmContent" Href="../searchservlet?query=C08G65/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G65/22">
+          <TreeNode Title="C08G65/24 ####表卤代醇[2]" Target="frmContent" Href="../searchservlet?query=C08G65/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G65/24"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="C08G65/26 ##由环醚及其他化合物[2]" Target="frmContent" Href="../searchservlet?query=C08G65/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G65/26">
+        <TreeNode Title="C08G65/28 ###环醚及羟基化合物[2]" Target="frmContent" Href="../searchservlet?query=C08G65/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G65/28"/>
+      </TreeNode>
+      <TreeNode Title="C08G65/30 ##聚合后处理，如回收、精制、干燥[2]" Target="frmContent" Href="../searchservlet?query=C08G65/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G65/30"/>
+      <TreeNode Title="C08G65/32 ##化学后处理改性的聚合物[2]" Target="frmContent" Href="../searchservlet?query=C08G65/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G65/32">
+        <TreeNode Title="C08G65/321 ###用无机化合物[7]" Target="frmContent" Href="../searchservlet?query=C08G65/321&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G65/321">
+          <TreeNode Title="C08G65/322 ####含氢[7]" Target="frmContent" Href="../searchservlet?query=C08G65/322&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G65/322"/>
+          <TreeNode Title="C08G65/323 ####含卤素[7]" Target="frmContent" Href="../searchservlet?query=C08G65/323&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G65/323"/>
+          <TreeNode Title="C08G65/324 ####含氧[7]" Target="frmContent" Href="../searchservlet?query=C08G65/324&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G65/324"/>
+          <TreeNode Title="C08G65/325 ####含氮[7]" Target="frmContent" Href="../searchservlet?query=C08G65/325&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G65/325"/>
+          <TreeNode Title="C08G65/326 ####含硫[7]" Target="frmContent" Href="../searchservlet?query=C08G65/326&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G65/326"/>
+          <TreeNode Title="C08G65/327 ####含磷[7]" Target="frmContent" Href="../searchservlet?query=C08G65/327&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G65/327"/>
+          <TreeNode Title="C08G65/328 ####含其他元素[7]" Target="frmContent" Href="../searchservlet?query=C08G65/328&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G65/328"/>
+        </TreeNode>
+        <TreeNode Title="C08G65/329 ###用有机化合物[7]" Target="frmContent" Href="../searchservlet?query=C08G65/329&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G65/329">
+          <TreeNode Title="C08G65/333 ####含氮[7]" Target="frmContent" Href="../searchservlet?query=C08G65/333&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G65/333"/>
+          <TreeNode Title="C08G65/334 ####含硫[7]" Target="frmContent" Href="../searchservlet?query=C08G65/334&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G65/334"/>
+          <TreeNode Title="C08G65/335 ####含磷[7]" Target="frmContent" Href="../searchservlet?query=C08G65/335&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G65/335"/>
+          <TreeNode Title="C08G65/336 ####含硅[7]" Target="frmContent" Href="../searchservlet?query=C08G65/336&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G65/336"/>
+          <TreeNode Title="C08G65/337 ####含其他元素(含有仅以羧基卤化物形式存在的卤素的有机化合物入C08G 65/332)[7]" Target="frmContent" Href="../searchservlet?query=C08G65/337&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G65/337"/>
+        </TreeNode>
+        <TreeNode Title="C08G65/338 ###用无机和有机化合物[7]" Target="frmContent" Href="../searchservlet?query=C08G65/338&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G65/338"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="C08G65/34 #由羟基化合物或它们的金属衍生物(C08G 65/28优先)[2]" Target="frmContent" Href="../searchservlet?query=C08G65/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G65/34">
+      <TreeNode Title="C08G65/36 ##糖醇[2]" Target="frmContent" Href="../searchservlet?query=C08G65/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G65/36"/>
+      <TreeNode Title="C08G65/38 ##由酚衍生的[2]" Target="frmContent" Href="../searchservlet?query=C08G65/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G65/38">
+        <TreeNode Title="C08G65/40 ###由酚及其他化合物[2]" Target="frmContent" Href="../searchservlet?query=C08G65/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G65/40">
+          <TreeNode Title="C08G65/42 ####酚与多羟基醚[2]" Target="frmContent" Href="../searchservlet?query=C08G65/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G65/42"/>
+        </TreeNode>
+        <TreeNode Title="C08G65/44 ###由酚的氧化[2]" Target="frmContent" Href="../searchservlet?query=C08G65/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G65/44"/>
+      </TreeNode>
+      <TreeNode Title="C08G65/46 ##聚合后处理，如回收、精制、干燥[2]" Target="frmContent" Href="../searchservlet?query=C08G65/46&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G65/46"/>
+      <TreeNode Title="C08G65/48 ##由化学后处理改性的聚合物[2]" Target="frmContent" Href="../searchservlet?query=C08G65/48&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G65/48"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="C08G67/00 不包含在C08G 2/00到C08G 65/00组内的，由在高分子主链中形成含氧或氧与碳键合反应得到的高分子化合物[2]" Target="frmContent" Href="../searchservlet?query=C08G67/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G67/00">
+    <TreeNode Title="C08G67/02 #一氧化碳与脂族不饱和化合物的共聚物[2]" Target="frmContent" Href="../searchservlet?query=C08G67/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G67/02"/>
+    <TreeNode Title="C08G67/04 #聚酐[2]" Target="frmContent" Href="../searchservlet?query=C08G67/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G67/04"/>
+  </TreeNode>
+  <TreeNode Title="C08G69/00 由在高分子主链中形成羧酸酰胺键合反应得到的高分子化合物(由异氰酸酯或异硫氰酸酯得到的产物入C08G 18/00；聚酰肼入C08G 73/08；聚酰胺酸入C08G 73/10；聚酰胺-酰亚胺入C08G 73/14)[2]" Target="frmContent" Href="../searchservlet?query=C08G69/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G69/00">
+    <TreeNode Title="C08G69/02 #由氨基羧酸或由多元胺与多元羧酸衍生的聚酰胺[2]" Target="frmContent" Href="../searchservlet?query=C08G69/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G69/02">
+      <TreeNode Title="C08G69/04 ##制备的工艺过程[2]" Target="frmContent" Href="../searchservlet?query=C08G69/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G69/04">
+        <TreeNode Title="C08G69/06 ###固态缩聚[2]" Target="frmContent" Href="../searchservlet?query=C08G69/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G69/06"/>
+      </TreeNode>
+      <TreeNode Title="C08G69/08 ##由氨基羧酸衍生的[2]" Target="frmContent" Href="../searchservlet?query=C08G69/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G69/08">
+        <TreeNode Title="C08G69/10 ###α-氨基羧酸[2]" Target="frmContent" Href="../searchservlet?query=C08G69/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G69/10"/>
+        <TreeNode Title="C08G69/12 ###氨基与羧基两者都与芳香族结合的[2]" Target="frmContent" Href="../searchservlet?query=C08G69/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G69/12"/>
+        <TreeNode Title="C08G69/14 ###内酰胺[2]" Target="frmContent" Href="../searchservlet?query=C08G69/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G69/14">
+          <TreeNode Title="C08G69/16 ####制备的工艺过程[2]" Target="frmContent" Href="../searchservlet?query=C08G69/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G69/16">
+            <TreeNode Title="C08G69/18 #####阴离子聚合[2]" Target="frmContent" Href="../searchservlet?query=C08G69/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G69/18">
+              <TreeNode Title="C08G69/20 ######以使用的催化剂为特征[2]" Target="frmContent" Href="../searchservlet?query=C08G69/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G69/20"/>
+            </TreeNode>
+          </TreeNode>
+          <TreeNode Title="C08G69/22 ####β-内酰胺[2]" Target="frmContent" Href="../searchservlet?query=C08G69/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G69/22"/>
+          <TreeNode Title="C08G69/24 ####吡喀烷酮或哌啶酮[2]" Target="frmContent" Href="../searchservlet?query=C08G69/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G69/24"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="C08G69/26 ##由多元胺与多元羧酸衍生的[2]" Target="frmContent" Href="../searchservlet?query=C08G69/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G69/26">
+        <TreeNode Title="C08G69/28 ###制备的工艺过程[2]" Target="frmContent" Href="../searchservlet?query=C08G69/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G69/28">
+          <TreeNode Title="C08G69/30 ####固态缩聚[2]" Target="frmContent" Href="../searchservlet?query=C08G69/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G69/30"/>
+        </TreeNode>
+        <TreeNode Title="C08G69/32 ###由芳香族二胺与芳香族二酸得到的，氨基与羧基两者都是与芳香族结合的[2]" Target="frmContent" Href="../searchservlet?query=C08G69/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G69/32"/>
+        <TreeNode Title="C08G69/34 ###使用聚合的不饱和脂肪酸[2]" Target="frmContent" Href="../searchservlet?query=C08G69/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G69/34"/>
+      </TreeNode>
+      <TreeNode Title="C08G69/36 ##由氨基酸、多元胺与多元羧酸衍生的[2]" Target="frmContent" Href="../searchservlet?query=C08G69/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G69/36"/>
+    </TreeNode>
+    <TreeNode Title="C08G69/38 #由醛或多腈制备的聚酰胺[2]" Target="frmContent" Href="../searchservlet?query=C08G69/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G69/38"/>
+    <TreeNode Title="C08G69/40 #含有醚基形式氧的聚酰胺(C08G 69/12，C08G 69/32优先)[2]" Target="frmContent" Href="../searchservlet?query=C08G69/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G69/40"/>
+    <TreeNode Title="C08G69/42 #含有碳、氢、氧、氮以外原子的聚酰胺(C08G 69/12，C08G 69/32优先)[2]" Target="frmContent" Href="../searchservlet?query=C08G69/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G69/42"/>
+    <TreeNode Title="C08G69/44 #聚酯酰胺[2]" Target="frmContent" Href="../searchservlet?query=C08G69/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G69/44"/>
+    <TreeNode Title="C08G69/46 #聚合后处理[2]" Target="frmContent" Href="../searchservlet?query=C08G69/46&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G69/46"/>
+    <TreeNode Title="C08G69/48 #化学后处理改性的聚合物[2]" Target="frmContent" Href="../searchservlet?query=C08G69/48&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G69/48">
+      <TreeNode Title="C08G69/50 ##用醛[2]" Target="frmContent" Href="../searchservlet?query=C08G69/50&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G69/50"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="C08G71/00 由在高分子主链中形成酰脲或氨基甲酸酯键合反应，但不是由异氰酸酯基团所得到的高分子化合物[2]" Target="frmContent" Href="../searchservlet?query=C08G71/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G71/00">
+    <TreeNode Title="C08G71/02 #聚脲[2]" Target="frmContent" Href="../searchservlet?query=C08G71/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G71/02"/>
+    <TreeNode Title="C08G71/04 #聚氨基甲酸酯[2]" Target="frmContent" Href="../searchservlet?query=C08G71/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G71/04"/>
+  </TreeNode>
+  <TreeNode Title="C08G73/00 不包括在C08G 12/00到C08G 71/00组内的，在高分子主链中形成含氮的键合，有或没有氧或碳键合反应得到的高分子化合物[2]" Target="frmContent" Href="../searchservlet?query=C08G73/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G73/00">
+    <TreeNode Title="C08G73/02 #聚胺(含少于11个单体单元入C07C)[2]" Target="frmContent" Href="../searchservlet?query=C08G73/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G73/02">
+      <TreeNode Title="C08G73/04 ##由烯化亚胺衍生的[2]" Target="frmContent" Href="../searchservlet?query=C08G73/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G73/04"/>
+    </TreeNode>
+    <TreeNode Title="C08G73/06 #在高分子主链中有含氮杂环的缩聚物；聚酰肼；聚酰胺酸或类似的聚酰亚胺母体[2]" Target="frmContent" Href="../searchservlet?query=C08G73/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G73/06">
+      <TreeNode Title="C08G73/08 ##聚酰肼；聚三唑；聚氨基三唑；聚二唑[2]" Target="frmContent" Href="../searchservlet?query=C08G73/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G73/08"/>
+      <TreeNode Title="C08G73/10 ##聚酰亚胺；聚酯-酰亚胺；聚酰胺-酰亚胺；聚酰胺酸或类似的聚酰亚胺的母体[2]" Target="frmContent" Href="../searchservlet?query=C08G73/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G73/10">
+        <TreeNode Title="C08G73/12 ###不饱和聚酰亚胺母体[2]" Target="frmContent" Href="../searchservlet?query=C08G73/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G73/12"/>
+        <TreeNode Title="C08G73/14 ###聚酰胺-酰亚胺[2]" Target="frmContent" Href="../searchservlet?query=C08G73/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G73/14"/>
+        <TreeNode Title="C08G73/16 ###聚酯-酰亚胺[2]" Target="frmContent" Href="../searchservlet?query=C08G73/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G73/16"/>
+      </TreeNode>
+      <TreeNode Title="C08G73/18 ##聚苯并咪唑[2]" Target="frmContent" Href="../searchservlet?query=C08G73/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G73/18"/>
+      <TreeNode Title="C08G73/20 ##吡酮类[2]" Target="frmContent" Href="../searchservlet?query=C08G73/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G73/20"/>
+      <TreeNode Title="C08G73/22 ##聚苯并唑[2]" Target="frmContent" Href="../searchservlet?query=C08G73/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G73/22"/>
+    </TreeNode>
+    <TreeNode Title="C08G73/24 #氟代亚硝基有机化合物与另一氟有机化合物的共聚物，如亚硝基橡胶[2]" Target="frmContent" Href="../searchservlet?query=C08G73/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G73/24">
+      <TreeNode Title="C08G73/26 ##三氟亚硝基甲烷与氟-烯烃[2]" Target="frmContent" Href="../searchservlet?query=C08G73/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G73/26"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="C08G75/00 在高分子主链中，由形成含硫的键合，有或没有氮、氧，或碳键合反应得到的高分子化合物[2]" Target="frmContent" Href="../searchservlet?query=C08G75/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G75/00">
+    <TreeNode Title="C08G75/02 #聚硫醚[2]" Target="frmContent" Href="../searchservlet?query=C08G75/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G75/02">
+      <TreeNode Title="C08G75/04 ##由硫醇基化合物或它的金属衍生物[2]" Target="frmContent" Href="../searchservlet?query=C08G75/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G75/04"/>
+      <TreeNode Title="C08G75/06 ##由环硫醚[2]" Target="frmContent" Href="../searchservlet?query=C08G75/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G75/06">
+        <TreeNode Title="C08G75/08 ###由硫杂丙环[2]" Target="frmContent" Href="../searchservlet?query=C08G75/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G75/08"/>
+      </TreeNode>
+      <TreeNode Title="C08G75/10 ##由硫或含硫化合物与醛或酮[2]" Target="frmContent" Href="../searchservlet?query=C08G75/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G75/10"/>
+    </TreeNode>
+    <TreeNode Title="C08G75/12 #聚硫醚-醚[2]" Target="frmContent" Href="../searchservlet?query=C08G75/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G75/12"/>
+    <TreeNode Title="C08G75/14 #聚硫化合物[2]" Target="frmContent" Href="../searchservlet?query=C08G75/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G75/14">
+      <TreeNode Title="C08G75/16 ##由有机化合物与无机多硫化合物的缩聚[2]" Target="frmContent" Href="../searchservlet?query=C08G75/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G75/16"/>
+    </TreeNode>
+    <TreeNode Title="C08G75/18 #聚亚砜[2]" Target="frmContent" Href="../searchservlet?query=C08G75/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G75/18"/>
+    <TreeNode Title="C08G75/20 #聚砜[2]" Target="frmContent" Href="../searchservlet?query=C08G75/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G75/20">
+      <TreeNode Title="C08G75/22 ##二氧化硫与不饱和脂族化合物的共聚物[2]" Target="frmContent" Href="../searchservlet?query=C08G75/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G75/22"/>
+      <TreeNode Title="C08G75/23 ##聚醚砜[2]" Target="frmContent" Href="../searchservlet?query=C08G75/23&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G75/23"/>
+    </TreeNode>
+    <TreeNode Title="C08G75/24 #聚磺酸酯[2]" Target="frmContent" Href="../searchservlet?query=C08G75/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G75/24"/>
+    <TreeNode Title="C08G75/26 #聚硫酯[2]" Target="frmContent" Href="../searchservlet?query=C08G75/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G75/26"/>
+    <TreeNode Title="C08G75/28 #聚硫代碳酸酯[2]" Target="frmContent" Href="../searchservlet?query=C08G75/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G75/28"/>
+    <TreeNode Title="C08G75/30 #聚磺酰胺；聚磺酰亚胺[2]" Target="frmContent" Href="../searchservlet?query=C08G75/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G75/30"/>
+    <TreeNode Title="C08G75/32 #聚噻唑；聚噻二唑[2]" Target="frmContent" Href="../searchservlet?query=C08G75/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G75/32"/>
+  </TreeNode>
+  <TreeNode Title="C08G77/00 在高分子主链中形成含硅键合，有或没有硫、氮、氧，或碳键合反应得到的高分子化合物[2]" Target="frmContent" Href="../searchservlet?query=C08G77/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G77/00">
+    <TreeNode Title="C08G77/02 #聚硅酸酯[2]" Target="frmContent" Href="../searchservlet?query=C08G77/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G77/02"/>
+    <TreeNode Title="C08G77/04 #聚硅氧烷[2]" Target="frmContent" Href="../searchservlet?query=C08G77/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G77/04">
+      <TreeNode Title="C08G77/06 ##制备的工艺过程[2]" Target="frmContent" Href="../searchservlet?query=C08G77/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G77/06">
+        <TreeNode Title="C08G77/08 ###以使用的催化剂为特征[2]" Target="frmContent" Href="../searchservlet?query=C08G77/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G77/08"/>
+        <TreeNode Title="C08G77/10 ###工艺过程的化学平衡[2]" Target="frmContent" Href="../searchservlet?query=C08G77/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G77/10"/>
+      </TreeNode>
+      <TreeNode Title="C08G77/12 ##含有与氢连接的硅[2]" Target="frmContent" Href="../searchservlet?query=C08G77/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G77/12"/>
+      <TreeNode Title="C08G77/14 ##含有与含氧基团连接的硅[2]" Target="frmContent" Href="../searchservlet?query=C08G77/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G77/14">
+        <TreeNode Title="C08G77/16 ###与羟基[2]" Target="frmContent" Href="../searchservlet?query=C08G77/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G77/16"/>
+        <TreeNode Title="C08G77/18 ###与烷氧基或芳氧基[2]" Target="frmContent" Href="../searchservlet?query=C08G77/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G77/18"/>
+      </TreeNode>
+      <TreeNode Title="C08G77/20 ##含有与不饱和脂族基连接的硅[2]" Target="frmContent" Href="../searchservlet?query=C08G77/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G77/20"/>
+      <TreeNode Title="C08G77/22 ##含有与含碳、氢及氧以外原子的有机基团连接的硅[2]" Target="frmContent" Href="../searchservlet?query=C08G77/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G77/22">
+        <TreeNode Title="C08G77/24 ###含卤素基团[2]" Target="frmContent" Href="../searchservlet?query=C08G77/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G77/24"/>
+        <TreeNode Title="C08G77/26 ###含氮基团[2]" Target="frmContent" Href="../searchservlet?query=C08G77/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G77/26"/>
+        <TreeNode Title="C08G77/28 ###含硫基团[2]" Target="frmContent" Href="../searchservlet?query=C08G77/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G77/28"/>
+        <TreeNode Title="C08G77/30 ###含磷基团[2]" Target="frmContent" Href="../searchservlet?query=C08G77/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G77/30"/>
+      </TreeNode>
+      <TreeNode Title="C08G77/32 ##聚合后处理(化学后处理入C08G 77/38)[2]" Target="frmContent" Href="../searchservlet?query=C08G77/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G77/32">
+        <TreeNode Title="C08G77/34 ###精制[2]" Target="frmContent" Href="../searchservlet?query=C08G77/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G77/34"/>
+        <TreeNode Title="C08G77/36 ###分级[2]" Target="frmContent" Href="../searchservlet?query=C08G77/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G77/36"/>
+      </TreeNode>
+      <TreeNode Title="C08G77/38 ##通过化学后处理改性的聚硅氧烷[2]" Target="frmContent" Href="../searchservlet?query=C08G77/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G77/38">
+        <TreeNode Title="C08G77/382 ###含碳、氢、氧或硅之外的原子的[5]" Target="frmContent" Href="../searchservlet?query=C08G77/382&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G77/382">
+          <TreeNode Title="C08G77/385 ####含卤素的[5]" Target="frmContent" Href="../searchservlet?query=C08G77/385&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G77/385"/>
+          <TreeNode Title="C08G77/388 ####含氮的[5]" Target="frmContent" Href="../searchservlet?query=C08G77/388&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G77/388"/>
+          <TreeNode Title="C08G77/392 ####含硫的[5]" Target="frmContent" Href="../searchservlet?query=C08G77/392&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G77/392"/>
+          <TreeNode Title="C08G77/395 ####含磷的[5]" Target="frmContent" Href="../searchservlet?query=C08G77/395&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G77/395"/>
+          <TreeNode Title="C08G77/398 ####含硼或金属原子的[5]" Target="frmContent" Href="../searchservlet?query=C08G77/398&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G77/398"/>
+        </TreeNode>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="C08G77/42 #含有聚硅氧烷链区的嵌段或接枝聚合物(将脂肪族不饱和单体聚合到聚硅氧烷上入C08F 283/12)[2]" Target="frmContent" Href="../searchservlet?query=C08G77/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G77/42">
+      <TreeNode Title="C08G77/44 ##只含有聚硅氧烷链区[2]" Target="frmContent" Href="../searchservlet?query=C08G77/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G77/44"/>
+      <TreeNode Title="C08G77/442 ##含有乙烯基聚合物链区[5]" Target="frmContent" Href="../searchservlet?query=C08G77/442&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G77/442"/>
+      <TreeNode Title="C08G77/445 ##含聚酯链区[5]" Target="frmContent" Href="../searchservlet?query=C08G77/445&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G77/445"/>
+      <TreeNode Title="C08G77/448 ##含聚碳酸酯链区[5]" Target="frmContent" Href="../searchservlet?query=C08G77/448&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G77/448"/>
+      <TreeNode Title="C08G77/452 ##含有含氮的链区[5]" Target="frmContent" Href="../searchservlet?query=C08G77/452&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G77/452">
+        <TreeNode Title="C08G77/455 ###含有聚酰胺、聚酯酰胺或聚亚酰胺链区[5]" Target="frmContent" Href="../searchservlet?query=C08G77/455&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G77/455"/>
+        <TreeNode Title="C08G77/458 ###含聚氨基甲酸乙酯链区[5]" Target="frmContent" Href="../searchservlet?query=C08G77/458&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G77/458"/>
+      </TreeNode>
+      <TreeNode Title="C08G77/46 ##含有聚醚链区[2]" Target="frmContent" Href="../searchservlet?query=C08G77/46&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G77/46"/>
+    </TreeNode>
+    <TreeNode Title="C08G77/48 #其中至少有两个，但不是所有的硅原子是与氧以外的原子键合(C08G 77/42优先)[2]" Target="frmContent" Href="../searchservlet?query=C08G77/48&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G77/48">
+      <TreeNode Title="C08G77/50 ##以碳键合[2]" Target="frmContent" Href="../searchservlet?query=C08G77/50&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G77/50">
+        <TreeNode Title="C08G77/52 ###含有芳香族环[2]" Target="frmContent" Href="../searchservlet?query=C08G77/52&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G77/52"/>
+      </TreeNode>
+      <TreeNode Title="C08G77/54 ##含氮键合[2]" Target="frmContent" Href="../searchservlet?query=C08G77/54&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G77/54"/>
+      <TreeNode Title="C08G77/56 ##含硼键合[2]" Target="frmContent" Href="../searchservlet?query=C08G77/56&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G77/56"/>
+      <TreeNode Title="C08G77/58 ##含金属键合[2]" Target="frmContent" Href="../searchservlet?query=C08G77/58&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G77/58"/>
+    </TreeNode>
+    <TreeNode Title="C08G77/60 #其中所有的硅原子是与氧以外的原子键合[2]" Target="frmContent" Href="../searchservlet?query=C08G77/60&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G77/60">
+      <TreeNode Title="C08G77/62 ##氮原子[2]" Target="frmContent" Href="../searchservlet?query=C08G77/62&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G77/62"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="C08G79/00 在高分子主链中，由形成含除硅、硫、氮、氧及碳以外的原子的键合反应得到的高分子化合物[2]" Target="frmContent" Href="../searchservlet?query=C08G79/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G79/00">
+    <TreeNode Title="C08G79/02 #含磷键合[2]" Target="frmContent" Href="../searchservlet?query=C08G79/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G79/02">
+      <TreeNode Title="C08G79/04 ##与氧相连或与氧及碳相连的磷[2]" Target="frmContent" Href="../searchservlet?query=C08G79/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G79/04"/>
+      <TreeNode Title="C08G79/06 ##只与碳相连的磷[2]" Target="frmContent" Href="../searchservlet?query=C08G79/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G79/06"/>
+    </TreeNode>
+    <TreeNode Title="C08G79/08 #含硼的键合[2]" Target="frmContent" Href="../searchservlet?query=C08G79/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G79/08"/>
+    <TreeNode Title="C08G79/10 #含铝的键合[2]" Target="frmContent" Href="../searchservlet?query=C08G79/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G79/10"/>
+    <TreeNode Title="C08G79/12 #含锡的键合[2]" Target="frmContent" Href="../searchservlet?query=C08G79/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G79/12"/>
+    <TreeNode Title="C08G79/14 #含有除碳、氧、氮、硫及硅之外两种或更多种元素的键合[2]" Target="frmContent" Href="../searchservlet?query=C08G79/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G79/14"/>
+  </TreeNode>
+  <TreeNode Title="C08G81/00 在没有单体存在时，由聚合物相互作用得到的高分子化合物，如嵌段聚合物(只包括有碳-碳不饱和键反应的入C08F 299/00)[2]" Target="frmContent" Href="../searchservlet?query=C08G81/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G81/00">
+    <TreeNode Title="C08G81/02 #至少有1个聚合物是只由碳-碳不饱和键反应得到的[2]" Target="frmContent" Href="../searchservlet?query=C08G81/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G81/02"/>
+  </TreeNode>
+  <TreeNode Title="C08G83/00 在C08G 2/00到C08G 81/00组中不包含的高分子化合物[2]" Target="frmContent" Href="../searchservlet?query=C08G83/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G83/00"/>
+  <TreeNode Title="C08G85/00 本小类中所包括的化合物制备的一般工艺过程[2]" Target="frmContent" Href="../searchservlet?query=C08G85/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G85/00"/>
+  <TreeNode Title="C08G101/00 蜂窝状产品的制造[5]" Target="frmContent" Href="../searchservlet?query=C08G101/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C08G101/00"/>
+</Root>

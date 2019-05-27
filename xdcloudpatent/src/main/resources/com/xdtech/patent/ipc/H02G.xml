@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="H02G1/00 专用于安装、维护、修理或拆卸电缆或电线的方法或设备" Target="frmContent" Href="../searchservlet?query=H02G1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02G1/00">
+    <TreeNode Title="H02G1/02 #用于架空线路或电缆的" Target="frmContent" Href="../searchservlet?query=H02G1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02G1/02">
+      <TreeNode Title="H02G1/04 ##用于安装或拉紧的(一般的紧线器入B25B 25/00)" Target="frmContent" Href="../searchservlet?query=H02G1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02G1/04"/>
+    </TreeNode>
+    <TreeNode Title="H02G1/06 #用于电缆敷设的，例如车辆上的敷设装置(与挖沟机或填土机、挖掘机组合的入E02F 5/00)" Target="frmContent" Href="../searchservlet?query=H02G1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02G1/06">
+      <TreeNode Title="H02G1/08 ##通过管道或导管的，例如推或拉用的杆或拉线" Target="frmContent" Href="../searchservlet?query=H02G1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02G1/08"/>
+      <TreeNode Title="H02G1/10 ##在水中或水下的" Target="frmContent" Href="../searchservlet?query=H02G1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02G1/10"/>
+    </TreeNode>
+    <TreeNode Title="H02G1/12 #用于剥除电缆绝缘或铠装的，例如从其端部(一般钳子入B25B；一般割刀入B26B；带有便于除去绝缘的装置的绝缘导体或电缆入H01B 7/38)[7]" Target="frmContent" Href="../searchservlet?query=H02G1/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02G1/12"/>
+    <TreeNode Title="H02G1/14 #用于电缆的连接或终端处理的(用于导电体的连接入H01R 43/00)" Target="frmContent" Href="../searchservlet?query=H02G1/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02G1/14"/>
+    <TreeNode Title="H02G1/16 #用于修理电缆的绝缘或铠装的" Target="frmContent" Href="../searchservlet?query=H02G1/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02G1/16"/>
+  </TreeNode>
+  <TreeNode Title="H02G3/00 在建筑物、等同结构或车辆上面或里面安装电缆或电线或其所用保护管(母线的安装入H02G 5/00；架空安装入H02G 7/00；在地面或地下安装入H02G 9/00；容纳公用设施线路的通道或垂直管道入E04F 17/08；一般电设备的配线入H05K)" Target="frmContent" Href="../searchservlet?query=H02G3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02G3/00">
+    <TreeNode Title="H02G3/02 #零部件" Target="frmContent" Href="../searchservlet?query=H02G3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02G3/02">
+      <TreeNode Title="H02G3/03 ##冷却[2]" Target="frmContent" Href="../searchservlet?query=H02G3/03&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02G3/03"/>
+      <TreeNode Title="H02G3/04 ##保护用管道或导线管，如电缆梯架、电缆槽(一般导管或管子入F16L)" Target="frmContent" Href="../searchservlet?query=H02G3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02G3/04"/>
+      <TreeNode Title="H02G3/06 ##保护用管道段之间彼此连接的接头或保护用管道段与外壳连接的接头，例如与配电箱连接的接头；保证接头中的电连续性" Target="frmContent" Href="../searchservlet?query=H02G3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02G3/06"/>
+      <TreeNode Title="H02G3/08 ##配电箱；接线盒或分线盒(电缆终端入H02G 15/02)" Target="frmContent" Href="../searchservlet?query=H02G3/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02G3/08">
+        <TreeNode Title="H02G3/10 ###表面安装在墙上" Target="frmContent" Href="../searchservlet?query=H02G3/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02G3/10"/>
+        <TreeNode Title="H02G3/12 ###嵌平安装的" Target="frmContent" Href="../searchservlet?query=H02G3/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02G3/12"/>
+        <TreeNode Title="H02G3/14 ###盖或罩与箱的固定" Target="frmContent" Href="../searchservlet?query=H02G3/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02G3/14"/>
+        <TreeNode Title="H02G3/16 ###与配电箱内接线头的支架结构相连的(端接头入H01R 9/00)" Target="frmContent" Href="../searchservlet?query=H02G3/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02G3/16"/>
+        <TreeNode Title="H02G3/18 ###有出线口的" Target="frmContent" Href="../searchservlet?query=H02G3/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02G3/18">
+          <TreeNode Title="H02G3/20 ####天花板接线盒" Target="frmContent" Href="../searchservlet?query=H02G3/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02G3/20"/>
+        </TreeNode>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="H02G3/22 #电线或电缆穿过墙壁、地板或天花板，安装入例如建筑物中(管或电缆或电线穿过墙壁或隔件的地方使用的装置入F16L 5/00；引入型或贯通型绝缘子入H01B 17/26；绝缘管或套入H01B 17/58)" Target="frmContent" Href="../searchservlet?query=H02G3/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02G3/22"/>
+    <TreeNode Title="H02G3/30 #在墙壁、地板或天花板上安装电缆或电线(导管、电缆或保护管的支承入F16L 3/00；软管夹入F16L 33/02)[7]" Target="frmContent" Href="../searchservlet?query=H02G3/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02G3/30">
+      <TreeNode Title="H02G3/32 ##使用安装夹的[7]" Target="frmContent" Href="../searchservlet?query=H02G3/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02G3/32"/>
+      <TreeNode Title="H02G3/34 ##使用单独保护管的[7]" Target="frmContent" Href="../searchservlet?query=H02G3/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02G3/34"/>
+    </TreeNode>
+    <TreeNode Title="H02G3/36 #在墙壁、地板或天花板内的电缆或电线的安装(H02G 3/22优先)[7]" Target="frmContent" Href="../searchservlet?query=H02G3/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02G3/36">
+      <TreeNode Title="H02G3/38 ##在预置导管或管道内安装的电缆或电线[7]" Target="frmContent" Href="../searchservlet?query=H02G3/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02G3/38">
+        <TreeNode Title="H02G3/40 ###在导管或管道中使用单独保护管的[7]" Target="frmContent" Href="../searchservlet?query=H02G3/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02G3/40"/>
+      </TreeNode>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="H02G5/00 母线的安装" Target="frmContent" Href="../searchservlet?query=H02G5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02G5/00">
+    <TreeNode Title="H02G5/02 #敞开式安装" Target="frmContent" Href="../searchservlet?query=H02G5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02G5/02"/>
+    <TreeNode Title="H02G5/04 #部分封闭式安装，例如在导管内，并适用于滑动或滚动汇流的(非旋转式集电器入H01R 41/00)" Target="frmContent" Href="../searchservlet?query=H02G5/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02G5/04"/>
+    <TreeNode Title="H02G5/06 #全封闭式安装，例如在金属外壳中" Target="frmContent" Href="../searchservlet?query=H02G5/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02G5/06">
+      <TreeNode Title="H02G5/08 ##所用的接线盒" Target="frmContent" Href="../searchservlet?query=H02G5/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02G5/08"/>
+    </TreeNode>
+    <TreeNode Title="H02G5/10 #冷却[2]" Target="frmContent" Href="../searchservlet?query=H02G5/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02G5/10"/>
+  </TreeNode>
+  <TreeNode Title="H02G7/00 电线或电缆的架空安装(母线的安装入H02G 5/00；电气铁道用架空线或接触线路入B60M；把导体固定到绝缘体入H01B 17/00，例如H01B 17/06，H01B 17/16，H01B 17/22；异常电气状态的保护入H01H；与架空线路临时连接的挂钩接触入H01R 11/14)" Target="frmContent" Href="../searchservlet?query=H02G7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02G7/00">
+    <TreeNode Title="H02G7/02 #调节或保持机械张力的装置，例如拉紧装置" Target="frmContent" Href="../searchservlet?query=H02G7/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02G7/02"/>
+    <TreeNode Title="H02G7/04 #减缓机械张力的装置或设备" Target="frmContent" Href="../searchservlet?query=H02G7/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02G7/04"/>
+    <TreeNode Title="H02G7/05 #电缆或电线用悬挂装置或设备[3]" Target="frmContent" Href="../searchservlet?query=H02G7/05&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02G7/05">
+      <TreeNode Title="H02G7/06 ##沿着单独的支持线悬挂电线或电缆，例如S形挂钩[3]" Target="frmContent" Href="../searchservlet?query=H02G7/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02G7/06">
+        <TreeNode Title="H02G7/08 ###夹到支持线或夹到电线或电缆的构件[3]" Target="frmContent" Href="../searchservlet?query=H02G7/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02G7/08"/>
+        <TreeNode Title="H02G7/10 ###同时捆绕在支持线及电线或电缆周围的可弯曲构件或绳套[3]" Target="frmContent" Href="../searchservlet?query=H02G7/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02G7/10"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="H02G7/12 #保持平行导体间距的装置，例如间隔器" Target="frmContent" Href="../searchservlet?query=H02G7/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02G7/12"/>
+    <TreeNode Title="H02G7/14 #阻尼线路机械振荡的装置或设备，例如用于减少噪声的产生" Target="frmContent" Href="../searchservlet?query=H02G7/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02G7/14"/>
+    <TreeNode Title="H02G7/16 #从电线或电缆上除冰或雪的装置(绝缘子上除冰雪的装置入H01B 17/52)" Target="frmContent" Href="../searchservlet?query=H02G7/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02G7/16"/>
+    <TreeNode Title="H02G7/18 #电线或电缆一旦断裂用作机械保护的装置，例如截挡断线的网" Target="frmContent" Href="../searchservlet?query=H02G7/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02G7/18"/>
+    <TreeNode Title="H02G7/20 #电线或电缆在杆、柱或塔上的空间安排或配置(杆、柱或塔的结构入E04H 12/22)" Target="frmContent" Href="../searchservlet?query=H02G7/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02G7/20"/>
+    <TreeNode Title="H02G7/22 #悬挂在杆顶间的接地线的配置" Target="frmContent" Href="../searchservlet?query=H02G7/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02G7/22"/>
+  </TreeNode>
+  <TreeNode Title="H02G9/00 在地面或地下，或水面或水中敷设电线或电缆(阴极保护法入C23F 13/02；埋设电缆的检测入G01V)" Target="frmContent" Href="../searchservlet?query=H02G9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02G9/00">
+    <TreeNode Title="H02G9/02 #在地面或地下，河床或海底上下直接敷设；所用的掩护体，例如瓦管" Target="frmContent" Href="../searchservlet?query=H02G9/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02G9/02"/>
+    <TreeNode Title="H02G9/04 #在地面管道中；所用的管道或覆盖物" Target="frmContent" Href="../searchservlet?query=H02G9/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02G9/04"/>
+    <TreeNode Title="H02G9/06 #在地下管道或导线管中；所用的管道或导线管" Target="frmContent" Href="../searchservlet?query=H02G9/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02G9/06"/>
+    <TreeNode Title="H02G9/08 #在隧道中" Target="frmContent" Href="../searchservlet?query=H02G9/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02G9/08"/>
+    <TreeNode Title="H02G9/10 #在电缆室中，例如在人孔中、在手孔中(电缆室的建筑事项入E部，例如E04H 5/06)" Target="frmContent" Href="../searchservlet?query=H02G9/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02G9/10"/>
+    <TreeNode Title="H02G9/12 #在浮体上或由浮体支持的，例如在水中(浮动电缆入H01B 7/12)" Target="frmContent" Href="../searchservlet?query=H02G9/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02G9/12"/>
+  </TreeNode>
+  <TreeNode Title="H02G11/00 在相对可动部件之间安装电线或电缆(集电器入H01R)" Target="frmContent" Href="../searchservlet?query=H02G11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02G11/00">
+    <TreeNode Title="H02G11/02 #应用卷轴或绕盘" Target="frmContent" Href="../searchservlet?query=H02G11/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02G11/02"/>
+  </TreeNode>
+  <TreeNode Title="H02G13/00 避雷导线的安装；将其固定到支承结构上(雷击的指示、计数及记录入G01；避雷器入H01C 7/12，H01C 8/04，H01G 9/18，H01T；接地板、棒或其他接触件入H01R)" Target="frmContent" Href="../searchservlet?query=H02G13/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02G13/00"/>
+  <TreeNode Title="H02G15/00 电缆配件" Target="frmContent" Href="../searchservlet?query=H02G15/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02G15/00">
+    <TreeNode Title="H02G15/007 #减缓机械应力的装置[3]" Target="frmContent" Href="../searchservlet?query=H02G15/007&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02G15/007"/>
+    <TreeNode Title="H02G15/013 #用于电缆入口的封接装置(充气或充油或包围以气或油的电缆入口入H02G 15/32)[3]" Target="frmContent" Href="../searchservlet?query=H02G15/013&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02G15/013"/>
+    <TreeNode Title="H02G15/02 #电缆终端连接器(用于充气或充油电缆的入H02G 15/22)" Target="frmContent" Href="../searchservlet?query=H02G15/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02G15/02">
+      <TreeNode Title="H02G15/04 ##电缆终端封接" Target="frmContent" Href="../searchservlet?query=H02G15/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02G15/04"/>
+      <TreeNode Title="H02G15/06 ##电缆终端箱、架或其他结构(端接盒入H01R 9/00)" Target="frmContent" Href="../searchservlet?query=H02G15/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02G15/06">
+        <TreeNode Title="H02G15/064 ###带有减缓电应力装置的[3]" Target="frmContent" Href="../searchservlet?query=H02G15/064&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02G15/064">
+          <TreeNode Title="H02G15/068 ####只与电缆屏蔽相连接的(H02G 15/072优先)[3]" Target="frmContent" Href="../searchservlet?query=H02G15/068&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02G15/068"/>
+          <TreeNode Title="H02G15/072 ####电容式的[3]" Target="frmContent" Href="../searchservlet?query=H02G15/072&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02G15/072"/>
+        </TreeNode>
+        <TreeNode Title="H02G15/076 ###用于多导线电缆的[3]" Target="frmContent" Href="../searchservlet?query=H02G15/076&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02G15/076"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="H02G15/08 #电缆连接(用于充气或充油电缆的入H02G 15/24；可断开的连接、电连接入H01R)" Target="frmContent" Href="../searchservlet?query=H02G15/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02G15/08">
+      <TreeNode Title="H02G15/10 ##用箱保护的，例如用配电箱、接线盒、分线盒(端接盒入H01R 9/00)" Target="frmContent" Href="../searchservlet?query=H02G15/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02G15/10">
+        <TreeNode Title="H02G15/103 ###带有减缓电应力装置的[3]" Target="frmContent" Href="../searchservlet?query=H02G15/103&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02G15/103">
+          <TreeNode Title="H02G15/105 ####只与电缆屏蔽相连的(H02G 15/107优先)[3]" Target="frmContent" Href="../searchservlet?query=H02G15/105&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02G15/105"/>
+          <TreeNode Title="H02G15/107 ####电容式的[3]" Target="frmContent" Href="../searchservlet?query=H02G15/107&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02G15/107"/>
+        </TreeNode>
+        <TreeNode Title="H02G15/113 ###平行于主电缆方向分线的盒[3]" Target="frmContent" Href="../searchservlet?query=H02G15/113&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02G15/113"/>
+        <TreeNode Title="H02G15/115 ###垂直于主电缆方向分线的盒[3]" Target="frmContent" Href="../searchservlet?query=H02G15/115&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02G15/115"/>
+        <TreeNode Title="H02G15/117 ###用于多导线电缆的[3]" Target="frmContent" Href="../searchservlet?query=H02G15/117&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02G15/117"/>
+        <TreeNode Title="H02G15/12 ###用于结合变压器、负载线圈或放大器的" Target="frmContent" Href="../searchservlet?query=H02G15/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02G15/12">
+          <TreeNode Title="H02G15/14 ####专用于海底电缆的" Target="frmContent" Href="../searchservlet?query=H02G15/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02G15/14"/>
+        </TreeNode>
+        <TreeNode Title="H02G15/16 ###与配电箱内接线头的支架结构相连的" Target="frmContent" Href="../searchservlet?query=H02G15/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02G15/16"/>
+      </TreeNode>
+      <TreeNode Title="H02G15/18 ##由套管保护的，例如用于通信电缆的(两部分的保护体入H02G 15/10)" Target="frmContent" Href="../searchservlet?query=H02G15/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02G15/18">
+        <TreeNode Title="H02G15/184 ###带有减缓电应力装置的[3]" Target="frmContent" Href="../searchservlet?query=H02G15/184&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02G15/184">
+          <TreeNode Title="H02G15/188 ####只与电缆屏蔽相连的[3]" Target="frmContent" Href="../searchservlet?query=H02G15/188&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02G15/188"/>
+        </TreeNode>
+        <TreeNode Title="H02G15/192 ###带有套管端支承装置的[3]" Target="frmContent" Href="../searchservlet?query=H02G15/192&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02G15/192"/>
+        <TreeNode Title="H02G15/196 ###有重叠绝缘的[3]" Target="frmContent" Href="../searchservlet?query=H02G15/196&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02G15/196"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="H02G15/20 #充气或充油或围以气或油的电缆的配件(H02G 15/34优先)[3]" Target="frmContent" Href="../searchservlet?query=H02G15/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02G15/20">
+      <TreeNode Title="H02G15/22 ##电缆终端" Target="frmContent" Href="../searchservlet?query=H02G15/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02G15/22">
+        <TreeNode Title="H02G15/23 ###电缆终端封接[3]" Target="frmContent" Href="../searchservlet?query=H02G15/23&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02G15/23"/>
+      </TreeNode>
+      <TreeNode Title="H02G15/24 ##电缆连接" Target="frmContent" Href="../searchservlet?query=H02G15/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02G15/24">
+        <TreeNode Title="H02G15/25 ###封隔连接[3]" Target="frmContent" Href="../searchservlet?query=H02G15/25&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02G15/25"/>
+      </TreeNode>
+      <TreeNode Title="H02G15/26 ##扩张容器；闭锁头；辅助管道线路" Target="frmContent" Href="../searchservlet?query=H02G15/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02G15/26"/>
+      <TreeNode Title="H02G15/28 ##与指示非电故障的存在或其位置的装置在结构上相连的(与电保护装置相组合的入H02H)" Target="frmContent" Href="../searchservlet?query=H02G15/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02G15/28"/>
+      <TreeNode Title="H02G15/30 ##带有减缓电应力的装置的[3]" Target="frmContent" Href="../searchservlet?query=H02G15/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02G15/30"/>
+      <TreeNode Title="H02G15/32 ##电缆入口[3]" Target="frmContent" Href="../searchservlet?query=H02G15/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02G15/32"/>
+    </TreeNode>
+    <TreeNode Title="H02G15/34 #用于低温电缆的电缆配件[3]" Target="frmContent" Href="../searchservlet?query=H02G15/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02G15/34"/>
+  </TreeNode>
+</Root>

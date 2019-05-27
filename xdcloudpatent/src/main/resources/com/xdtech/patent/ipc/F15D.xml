@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="F15D1/00 影响流体流动" Target="frmContent" Href="../searchservlet?query=F15D1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F15D1/00">
+    <TreeNode Title="F15D1/02 #在输送管或导管内的" Target="frmContent" Href="../searchservlet?query=F15D1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F15D1/02">
+      <TreeNode Title="F15D1/04 ##弯管和导管弯头内的导向叶片的布置；与流动相关的特别是适用于减少流体损失的弯管或导管的结构" Target="frmContent" Href="../searchservlet?query=F15D1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F15D1/04"/>
+      <TreeNode Title="F15D1/06 ##对边界层的影响" Target="frmContent" Href="../searchservlet?query=F15D1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F15D1/06"/>
+    </TreeNode>
+    <TreeNode Title="F15D1/08 #离开节流孔口的射流(具有机械地使射流断流或转向的装置的喷嘴或出口断流或转向方法的喷嘴或出口入B05B，例如B05B 1/26)" Target="frmContent" Href="../searchservlet?query=F15D1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F15D1/08"/>
+    <TreeNode Title="F15D1/10 #环绕固体材料的物体" Target="frmContent" Href="../searchservlet?query=F15D1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F15D1/10">
+      <TreeNode Title="F15D1/12 ##用影响边界层" Target="frmContent" Href="../searchservlet?query=F15D1/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F15D1/12"/>
+    </TreeNode>
+    <TreeNode Title="F15D1/14 #使流体转向进入另一通道(水力工程入E02B)" Target="frmContent" Href="../searchservlet?query=F15D1/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F15D1/14"/>
+  </TreeNode>
+</Root>

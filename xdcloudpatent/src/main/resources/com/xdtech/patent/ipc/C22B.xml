@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="C22B1/00 矿石或废料的预处理" Target="frmContent" Href="../searchservlet?query=C22B1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B1/00">
+    <TreeNode Title="C22B1/02 #焙烧工艺过程(C22B 1/16优先)" Target="frmContent" Href="../searchservlet?query=C22B1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B1/02">
+      <TreeNode Title="C22B1/04 ##鼓风焙烧" Target="frmContent" Href="../searchservlet?query=C22B1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B1/04"/>
+      <TreeNode Title="C22B1/06 ##硫酸化焙烧" Target="frmContent" Href="../searchservlet?query=C22B1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B1/06"/>
+      <TreeNode Title="C22B1/08 ##氯化焙烧" Target="frmContent" Href="../searchservlet?query=C22B1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B1/08"/>
+      <TreeNode Title="C22B1/10 ##流态化焙烧" Target="frmContent" Href="../searchservlet?query=C22B1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B1/10"/>
+    </TreeNode>
+    <TreeNode Title="C22B1/11 #非焙烧法除硫、磷或砷[2]" Target="frmContent" Href="../searchservlet?query=C22B1/11&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B1/11"/>
+    <TreeNode Title="C22B1/14 #结块；制团；粘合；制粒" Target="frmContent" Href="../searchservlet?query=C22B1/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B1/14">
+      <TreeNode Title="C22B1/16 ##烧结；结块" Target="frmContent" Href="../searchservlet?query=C22B1/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B1/16">
+        <TreeNode Title="C22B1/18 ###在烧结锅内" Target="frmContent" Href="../searchservlet?query=C22B1/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B1/18"/>
+        <TreeNode Title="C22B1/20 ###在活动炉篦烧结机内" Target="frmContent" Href="../searchservlet?query=C22B1/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B1/20"/>
+        <TreeNode Title="C22B1/212 ###在隧道炉内[2]" Target="frmContent" Href="../searchservlet?query=C22B1/212&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B1/212"/>
+        <TreeNode Title="C22B1/214 ###在竖炉内[2]" Target="frmContent" Href="../searchservlet?query=C22B1/214&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B1/214"/>
+        <TreeNode Title="C22B1/216 ###在回转炉内[2]" Target="frmContent" Href="../searchservlet?query=C22B1/216&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B1/216"/>
+        <TreeNode Title="C22B1/22 ###在其他烧结设备内" Target="frmContent" Href="../searchservlet?query=C22B1/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B1/22"/>
+      </TreeNode>
+      <TreeNode Title="C22B1/24 ##黏合；制团" Target="frmContent" Href="../searchservlet?query=C22B1/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B1/24">
+        <TreeNode Title="C22B1/242 ###用粘结剂[2]" Target="frmContent" Href="../searchservlet?query=C22B1/242&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B1/242">
+          <TreeNode Title="C22B1/243 ####无机的[2]" Target="frmContent" Href="../searchservlet?query=C22B1/243&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B1/243"/>
+          <TreeNode Title="C22B1/244 ####有机的[2]" Target="frmContent" Href="../searchservlet?query=C22B1/244&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B1/244">
+            <TreeNode Title="C22B1/245 #####含生产焦结块用碳质材料的[2]" Target="frmContent" Href="../searchservlet?query=C22B1/245&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B1/245"/>
+          </TreeNode>
+        </TreeNode>
+        <TreeNode Title="C22B1/248 ###金属废料或合金的[2]" Target="frmContent" Href="../searchservlet?query=C22B1/248&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B1/248"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="C22B1/26 #焙烧、烧结或结块矿石的冷却" Target="frmContent" Href="../searchservlet?query=C22B1/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B1/26"/>
+  </TreeNode>
+  <TreeNode Title="C22B3/00 用湿法从矿石或精矿中提取金属化合物[5]" Target="frmContent" Href="../searchservlet?query=C22B3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B3/00">
+    <TreeNode Title="C22B3/02 #所用的设备" Target="frmContent" Href="../searchservlet?query=C22B3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B3/02"/>
+    <TreeNode Title="C22B3/04 #通过浸取(C22B 3/18优先)[5]" Target="frmContent" Href="../searchservlet?query=C22B3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B3/04">
+      <TreeNode Title="C22B3/06 ##在无机酸溶液中[5]" Target="frmContent" Href="../searchservlet?query=C22B3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B3/06">
+        <TreeNode Title="C22B3/08 ###硫酸[5]" Target="frmContent" Href="../searchservlet?query=C22B3/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B3/08"/>
+        <TreeNode Title="C22B3/10 ###盐酸[5]" Target="frmContent" Href="../searchservlet?query=C22B3/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B3/10"/>
+      </TreeNode>
+      <TreeNode Title="C22B3/12 ##在无机碱溶液中[5]" Target="frmContent" Href="../searchservlet?query=C22B3/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B3/12">
+        <TreeNode Title="C22B3/14 ###含有氨或铵盐的[5]" Target="frmContent" Href="../searchservlet?query=C22B3/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B3/14"/>
+      </TreeNode>
+      <TreeNode Title="C22B3/16 ##在有机溶液中[5]" Target="frmContent" Href="../searchservlet?query=C22B3/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B3/16"/>
+    </TreeNode>
+    <TreeNode Title="C22B3/18 #借助微生物或酶，例如细菌或藻类[5]" Target="frmContent" Href="../searchservlet?query=C22B3/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B3/18"/>
+    <TreeNode Title="C22B3/20 #溶液(例如通过浸取制得的)的处理或净化(C22B 3/18优先)[5]" Target="frmContent" Href="../searchservlet?query=C22B3/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B3/20">
+      <TreeNode Title="C22B3/22 ##通过物理方法，例如通过过滤、通过磁性方法(C22B 3/26优先)[5]" Target="frmContent" Href="../searchservlet?query=C22B3/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B3/22">
+        <TreeNode Title="C22B3/24 ###通过固体物质上的吸附，例如用固体树脂提取[5]" Target="frmContent" Href="../searchservlet?query=C22B3/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B3/24"/>
+      </TreeNode>
+      <TreeNode Title="C22B3/26 ##通过使用有机化合物的液-液萃取[5]" Target="frmContent" Href="../searchservlet?query=C22B3/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B3/26">
+        <TreeNode Title="C22B3/28 ###胺类[5]" Target="frmContent" Href="../searchservlet?query=C22B3/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B3/28"/>
+        <TreeNode Title="C22B3/30 ###肟类[5]" Target="frmContent" Href="../searchservlet?query=C22B3/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B3/30"/>
+        <TreeNode Title="C22B3/32 ###羧酸类[5]" Target="frmContent" Href="../searchservlet?query=C22B3/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B3/32"/>
+        <TreeNode Title="C22B3/34 ###含硫的[5]" Target="frmContent" Href="../searchservlet?query=C22B3/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B3/34"/>
+        <TreeNode Title="C22B3/36 ###杂环化合物(C22B 3/34优先)[5]" Target="frmContent" Href="../searchservlet?query=C22B3/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B3/36"/>
+        <TreeNode Title="C22B3/38 ###含磷的[5]" Target="frmContent" Href="../searchservlet?query=C22B3/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B3/38"/>
+        <TreeNode Title="C22B3/40 ###混合物[5]" Target="frmContent" Href="../searchservlet?query=C22B3/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B3/40"/>
+      </TreeNode>
+      <TreeNode Title="C22B3/42 ##通过离子交换提取[5]" Target="frmContent" Href="../searchservlet?query=C22B3/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B3/42"/>
+      <TreeNode Title="C22B3/44 ##通过化学方法(C22B 3/26、C22B 3/42优先)[5]" Target="frmContent" Href="../searchservlet?query=C22B3/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B3/44">
+        <TreeNode Title="C22B3/46 ###通过置换，例如通过沉淀置换[5]" Target="frmContent" Href="../searchservlet?query=C22B3/46&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B3/46"/>
+      </TreeNode>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="C22B4/00 用电热法处理矿石或冶金产品以提炼金属或合金(金属精炼或重熔的一般方法入C22B 9/00；铁或钢的冶炼入C21B、C21C)[2]" Target="frmContent" Href="../searchservlet?query=C22B4/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B4/00">
+    <TreeNode Title="C22B4/02 #轻金属[2]" Target="frmContent" Href="../searchservlet?query=C22B4/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B4/02"/>
+    <TreeNode Title="C22B4/04 #重金属[2]" Target="frmContent" Href="../searchservlet?query=C22B4/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B4/04"/>
+    <TreeNode Title="C22B4/06 #合金[2]" Target="frmContent" Href="../searchservlet?query=C22B4/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B4/06"/>
+    <TreeNode Title="C22B4/08 #设备[2]" Target="frmContent" Href="../searchservlet?query=C22B4/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B4/08"/>
+  </TreeNode>
+  <TreeNode Title="C22B5/00 还原成金属的一般方法" Target="frmContent" Href="../searchservlet?query=C22B5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B5/00">
+    <TreeNode Title="C22B5/02 #干法" Target="frmContent" Href="../searchservlet?query=C22B5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B5/02">
+      <TreeNode Title="C22B5/04 ##用铝、其他金属或硅" Target="frmContent" Href="../searchservlet?query=C22B5/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B5/04"/>
+      <TreeNode Title="C22B5/06 ##用碳化物或类似化合物" Target="frmContent" Href="../searchservlet?query=C22B5/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B5/06"/>
+      <TreeNode Title="C22B5/08 ##用硫化物；焙烧反应法" Target="frmContent" Href="../searchservlet?query=C22B5/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B5/08"/>
+      <TreeNode Title="C22B5/10 ##用固体碳质还原剂" Target="frmContent" Href="../searchservlet?query=C22B5/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B5/10"/>
+      <TreeNode Title="C22B5/12 ##用气体" Target="frmContent" Href="../searchservlet?query=C22B5/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B5/12">
+        <TreeNode Title="C22B5/14 ###流态化材料" Target="frmContent" Href="../searchservlet?query=C22B5/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B5/14"/>
+      </TreeNode>
+      <TreeNode Title="C22B5/16 ##利用被生产金属的挥发或冷凝" Target="frmContent" Href="../searchservlet?query=C22B5/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B5/16"/>
+      <TreeNode Title="C22B5/18 ##分步还原" Target="frmContent" Href="../searchservlet?query=C22B5/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B5/18"/>
+      <TreeNode Title="C22B5/20 ##由金属羰基化合物" Target="frmContent" Href="../searchservlet?query=C22B5/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B5/20"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="C22B7/00 处理非矿石原材料(如废料)以生产有色金属或其化合物" Target="frmContent" Href="../searchservlet?query=C22B7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B7/00">
+    <TreeNode Title="C22B7/02 #烟尘的处理" Target="frmContent" Href="../searchservlet?query=C22B7/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B7/02"/>
+    <TreeNode Title="C22B7/04 #炉渣的处理" Target="frmContent" Href="../searchservlet?query=C22B7/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B7/04"/>
+  </TreeNode>
+  <TreeNode Title="C22B9/00 金属精炼或重熔的一般方法；金属电渣或电弧重熔的设备" Target="frmContent" Href="../searchservlet?query=C22B9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B9/00">
+    <TreeNode Title="C22B9/02 #用熔析、过滤、离心分离、蒸馏或超声波作用精炼" Target="frmContent" Href="../searchservlet?query=C22B9/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B9/02"/>
+    <TreeNode Title="C22B9/04 #真空精炼[3]" Target="frmContent" Href="../searchservlet?query=C22B9/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B9/04"/>
+    <TreeNode Title="C22B9/05 #气体处理(如气体冲洗)法精炼[3]" Target="frmContent" Href="../searchservlet?query=C22B9/05&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B9/05"/>
+    <TreeNode Title="C22B9/10 #用精炼剂或助熔剂；为此采用的材料(C22B 9/18优先)[3]" Target="frmContent" Href="../searchservlet?query=C22B9/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B9/10"/>
+    <TreeNode Title="C22B9/14 #以固态精炼" Target="frmContent" Href="../searchservlet?query=C22B9/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B9/14"/>
+    <TreeNode Title="C22B9/16 #金属的重熔(熔析入C22B 9/02)[3]" Target="frmContent" Href="../searchservlet?query=C22B9/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B9/16">
+      <TreeNode Title="C22B9/18 ##电渣重熔[3]" Target="frmContent" Href="../searchservlet?query=C22B9/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B9/18">
+        <TreeNode Title="C22B9/187 ###所用的设备，如炉子[5]" Target="frmContent" Href="../searchservlet?query=C22B9/187&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B9/187">
+          <TreeNode Title="C22B9/193 ####结晶器、底板或起动器板[5]" Target="frmContent" Href="../searchservlet?query=C22B9/193&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B9/193"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="C22B9/20 ##电弧重熔[3]" Target="frmContent" Href="../searchservlet?query=C22B9/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B9/20">
+        <TreeNode Title="C22B9/21 ###所用的设备[5]" Target="frmContent" Href="../searchservlet?query=C22B9/21&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B9/21"/>
+      </TreeNode>
+      <TreeNode Title="C22B9/22 ##用波能或粒子辐射加热[3]" Target="frmContent" Href="../searchservlet?query=C22B9/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B9/22"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="C22B11/00 贵金属的提炼" Target="frmContent" Href="../searchservlet?query=C22B11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B11/00">
+    <TreeNode Title="C22B11/02 #用干法" Target="frmContent" Href="../searchservlet?query=C22B11/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B11/02"/>
+    <TreeNode Title="C22B11/06 #氯化法" Target="frmContent" Href="../searchservlet?query=C22B11/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B11/06"/>
+    <TreeNode Title="C22B11/08 #氰化法" Target="frmContent" Href="../searchservlet?query=C22B11/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B11/08"/>
+    <TreeNode Title="C22B11/10 #混汞法" Target="frmContent" Href="../searchservlet?query=C22B11/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B11/10">
+      <TreeNode Title="C22B11/12 ##所用的设备" Target="frmContent" Href="../searchservlet?query=C22B11/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B11/12"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="C22B13/00 铅的提炼" Target="frmContent" Href="../searchservlet?query=C22B13/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B13/00">
+    <TreeNode Title="C22B13/02 #用干法" Target="frmContent" Href="../searchservlet?query=C22B13/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B13/02"/>
+    <TreeNode Title="C22B13/06 #精炼" Target="frmContent" Href="../searchservlet?query=C22B13/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B13/06">
+      <TreeNode Title="C22B13/08 ##用沉淀法［如帕克斯(Parkes)法］从铅中分离金属" Target="frmContent" Href="../searchservlet?query=C22B13/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B13/08"/>
+      <TreeNode Title="C22B13/10 ##用结晶法［如派梯森(Pattison)法］从铅中分离金属" Target="frmContent" Href="../searchservlet?query=C22B13/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B13/10"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="C22B15/00 铜的提炼" Target="frmContent" Href="../searchservlet?query=C22B15/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B15/00">
+    <TreeNode Title="C22B15/02 #在鼓风炉中" Target="frmContent" Href="../searchservlet?query=C22B15/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B15/02"/>
+    <TreeNode Title="C22B15/04 #在反射炉中" Target="frmContent" Href="../searchservlet?query=C22B15/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B15/04"/>
+    <TreeNode Title="C22B15/06 #在转炉中" Target="frmContent" Href="../searchservlet?query=C22B15/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B15/06"/>
+    <TreeNode Title="C22B15/14 #精炼" Target="frmContent" Href="../searchservlet?query=C22B15/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B15/14"/>
+  </TreeNode>
+  <TreeNode Title="C22B17/00 镉的提炼" Target="frmContent" Href="../searchservlet?query=C22B17/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B17/00">
+    <TreeNode Title="C22B17/02 #用干法" Target="frmContent" Href="../searchservlet?query=C22B17/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B17/02"/>
+    <TreeNode Title="C22B17/06 #精炼" Target="frmContent" Href="../searchservlet?query=C22B17/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B17/06"/>
+  </TreeNode>
+  <TreeNode Title="C22B19/00 锌或氧化锌的提炼" Target="frmContent" Href="../searchservlet?query=C22B19/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B19/00">
+    <TreeNode Title="C22B19/02 #矿石的初步处理；氧化锌的初步提纯" Target="frmContent" Href="../searchservlet?query=C22B19/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B19/02"/>
+    <TreeNode Title="C22B19/04 #蒸馏法提取锌" Target="frmContent" Href="../searchservlet?query=C22B19/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B19/04">
+      <TreeNode Title="C22B19/06 ##在马弗炉中" Target="frmContent" Href="../searchservlet?query=C22B19/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B19/06"/>
+      <TreeNode Title="C22B19/08 ##在鼓风炉中" Target="frmContent" Href="../searchservlet?query=C22B19/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B19/08"/>
+      <TreeNode Title="C22B19/10 ##在反射炉中" Target="frmContent" Href="../searchservlet?query=C22B19/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B19/10"/>
+      <TreeNode Title="C22B19/12 ##在坩埚炉中" Target="frmContent" Href="../searchservlet?query=C22B19/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B19/12"/>
+      <TreeNode Title="C22B19/14 ##在竖式蒸馏罐中" Target="frmContent" Href="../searchservlet?query=C22B19/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B19/14"/>
+      <TreeNode Title="C22B19/16 ##蒸馏器" Target="frmContent" Href="../searchservlet?query=C22B19/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B19/16">
+        <TreeNode Title="C22B19/18 ###冷凝器；接受器" Target="frmContent" Href="../searchservlet?query=C22B19/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B19/18"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="C22B19/20 #用非蒸馏法提取锌" Target="frmContent" Href="../searchservlet?query=C22B19/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B19/20"/>
+    <TreeNode Title="C22B19/28 #从马弗炉残渣中" Target="frmContent" Href="../searchservlet?query=C22B19/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B19/28"/>
+    <TreeNode Title="C22B19/30 #从金属渣或废料中" Target="frmContent" Href="../searchservlet?query=C22B19/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B19/30"/>
+    <TreeNode Title="C22B19/32 #锌的精炼" Target="frmContent" Href="../searchservlet?query=C22B19/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B19/32"/>
+    <TreeNode Title="C22B19/34 #氧化锌的制取(氧化锌的提纯入C01G 9/02)" Target="frmContent" Href="../searchservlet?query=C22B19/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B19/34">
+      <TreeNode Title="C22B19/36 ##在鼓风炉或反射炉中" Target="frmContent" Href="../searchservlet?query=C22B19/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B19/36"/>
+      <TreeNode Title="C22B19/38 ##在回转窑中" Target="frmContent" Href="../searchservlet?query=C22B19/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B19/38"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="C22B21/00 铝的提炼" Target="frmContent" Href="../searchservlet?query=C22B21/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B21/00">
+    <TreeNode Title="C22B21/02 #还原法" Target="frmContent" Href="../searchservlet?query=C22B21/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B21/02"/>
+    <TreeNode Title="C22B21/04 #用碱金属" Target="frmContent" Href="../searchservlet?query=C22B21/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B21/04"/>
+    <TreeNode Title="C22B21/06 #精炼" Target="frmContent" Href="../searchservlet?query=C22B21/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B21/06"/>
+  </TreeNode>
+  <TreeNode Title="C22B23/00 镍或钴的提炼" Target="frmContent" Href="../searchservlet?query=C22B23/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B23/00">
+    <TreeNode Title="C22B23/02 #用干法" Target="frmContent" Href="../searchservlet?query=C22B23/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B23/02"/>
+    <TreeNode Title="C22B23/06 #精炼" Target="frmContent" Href="../searchservlet?query=C22B23/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B23/06"/>
+  </TreeNode>
+  <TreeNode Title="C22B25/00 锡的提炼" Target="frmContent" Href="../searchservlet?query=C22B25/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B25/00">
+    <TreeNode Title="C22B25/02 #用干法" Target="frmContent" Href="../searchservlet?query=C22B25/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B25/02"/>
+    <TreeNode Title="C22B25/06 #从废料中，特别是从锡废料中(电解法入C25C 1/14)" Target="frmContent" Href="../searchservlet?query=C22B25/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B25/06"/>
+    <TreeNode Title="C22B25/08 #精炼" Target="frmContent" Href="../searchservlet?query=C22B25/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B25/08"/>
+  </TreeNode>
+  <TreeNode Title="C22B26/00 碱金属、碱土金属或镁的提取[2]" Target="frmContent" Href="../searchservlet?query=C22B26/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B26/00">
+    <TreeNode Title="C22B26/10 #碱金属的提取[2]" Target="frmContent" Href="../searchservlet?query=C22B26/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B26/10">
+      <TreeNode Title="C22B26/12 ##锂的提取[2]" Target="frmContent" Href="../searchservlet?query=C22B26/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B26/12"/>
+    </TreeNode>
+    <TreeNode Title="C22B26/20 #碱土金属或镁的提取[2]" Target="frmContent" Href="../searchservlet?query=C22B26/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B26/20">
+      <TreeNode Title="C22B26/22 ##镁的提取[2]" Target="frmContent" Href="../searchservlet?query=C22B26/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B26/22"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="C22B30/00 锑、砷或铋的提取" Target="frmContent" Href="../searchservlet?query=C22B30/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B30/00">
+    <TreeNode Title="C22B30/02 #锑的提取[2]" Target="frmContent" Href="../searchservlet?query=C22B30/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B30/02"/>
+    <TreeNode Title="C22B30/04 #砷的提取[2]" Target="frmContent" Href="../searchservlet?query=C22B30/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B30/04"/>
+    <TreeNode Title="C22B30/06 #铋的提取[2]" Target="frmContent" Href="../searchservlet?query=C22B30/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B30/06"/>
+  </TreeNode>
+  <TreeNode Title="C22B34/00 难熔金属的提取[2]" Target="frmContent" Href="../searchservlet?query=C22B34/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B34/00">
+    <TreeNode Title="C22B34/10 #钛、锆或铪的提取[2]" Target="frmContent" Href="../searchservlet?query=C22B34/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B34/10">
+      <TreeNode Title="C22B34/12 ##钛的提取[2]" Target="frmContent" Href="../searchservlet?query=C22B34/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B34/12"/>
+      <TreeNode Title="C22B34/14 ##锆或铪的提取[2]" Target="frmContent" Href="../searchservlet?query=C22B34/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B34/14"/>
+    </TreeNode>
+    <TreeNode Title="C22B34/20 #铌、钽或钒的提取[2]" Target="frmContent" Href="../searchservlet?query=C22B34/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B34/20">
+      <TreeNode Title="C22B34/22 ##钒的提取[2]" Target="frmContent" Href="../searchservlet?query=C22B34/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B34/22"/>
+      <TreeNode Title="C22B34/24 ##铌或钽的提取[2]" Target="frmContent" Href="../searchservlet?query=C22B34/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B34/24"/>
+    </TreeNode>
+    <TreeNode Title="C22B34/30 #铬、钼或钨的提取[2]" Target="frmContent" Href="../searchservlet?query=C22B34/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B34/30">
+      <TreeNode Title="C22B34/32 ##铬的提取[2]" Target="frmContent" Href="../searchservlet?query=C22B34/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B34/32"/>
+      <TreeNode Title="C22B34/34 ##钼的提取[2]" Target="frmContent" Href="../searchservlet?query=C22B34/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B34/34"/>
+      <TreeNode Title="C22B34/36 ##钨的提取[2]" Target="frmContent" Href="../searchservlet?query=C22B34/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B34/36"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="C22B35/00 铍的提取" Target="frmContent" Href="../searchservlet?query=C22B35/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B35/00"/>
+  <TreeNode Title="C22B41/00 锗的提取" Target="frmContent" Href="../searchservlet?query=C22B41/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B41/00"/>
+  <TreeNode Title="C22B43/00 汞的提取" Target="frmContent" Href="../searchservlet?query=C22B43/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B43/00"/>
+  <TreeNode Title="C22B47/00 锰的提取" Target="frmContent" Href="../searchservlet?query=C22B47/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B47/00"/>
+  <TreeNode Title="C22B58/00 镓或铟的提取[2]" Target="frmContent" Href="../searchservlet?query=C22B58/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B58/00"/>
+  <TreeNode Title="C22B59/00 稀土金属的提取" Target="frmContent" Href="../searchservlet?query=C22B59/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B59/00"/>
+  <TreeNode Title="C22B60/00 原子序数为87或高于87的金属(即放射性金属)的提取[2]" Target="frmContent" Href="../searchservlet?query=C22B60/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B60/00">
+    <TreeNode Title="C22B60/02 #钍、铀或其他锕系元素的提取[2]" Target="frmContent" Href="../searchservlet?query=C22B60/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B60/02">
+      <TreeNode Title="C22B60/04 ##钚的提取[2]" Target="frmContent" Href="../searchservlet?query=C22B60/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B60/04"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="C22B61/00 不包含在本小类其他类目中的金属的提取(铁入C21)[2]" Target="frmContent" Href="../searchservlet?query=C22B61/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C22B61/00"/>
+</Root>

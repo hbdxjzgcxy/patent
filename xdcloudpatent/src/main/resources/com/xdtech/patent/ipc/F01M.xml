@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="F01M1/00 压力润滑" Target="frmContent" Href="../searchservlet?query=F01M1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01M1/00">
+    <TreeNode Title="F01M1/02 #采用润滑泵" Target="frmContent" Href="../searchservlet?query=F01M1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01M1/02"/>
+    <TreeNode Title="F01M1/04 #在工作缸或曲轴箱内用压力操作润滑剂送进装置的" Target="frmContent" Href="../searchservlet?query=F01M1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01M1/04"/>
+    <TreeNode Title="F01M1/06 #润滑系统，其特点为在曲轴或连杆中设有润滑剂通道，如内孔" Target="frmContent" Href="../searchservlet?query=F01M1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01M1/06"/>
+    <TreeNode Title="F01M1/08 #润滑系统，其特点为其内装有润滑剂喷射装置" Target="frmContent" Href="../searchservlet?query=F01M1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01M1/08"/>
+    <TreeNode Title="F01M1/10 #润滑系统，其特点为其内装有润滑剂排出或净化装置，如过滤器(润滑剂净化装置的安装，连接或结构部件入F01M 11/03)" Target="frmContent" Href="../searchservlet?query=F01M1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01M1/10"/>
+    <TreeNode Title="F01M1/12 #不包含在F01M 1/02至F01M 1/10各组中的闭路的润滑系统" Target="frmContent" Href="../searchservlet?query=F01M1/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01M1/12"/>
+    <TreeNode Title="F01M1/14 #定时润滑(F01M 1/08优先)" Target="frmContent" Href="../searchservlet?query=F01M1/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01M1/14"/>
+    <TreeNode Title="F01M1/16 #控制润滑剂的压力或流量" Target="frmContent" Href="../searchservlet?query=F01M1/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01M1/16"/>
+    <TreeNode Title="F01M1/18 #指示装置或安全装置(关于润滑剂液位的入F01M 11/06，F01M 11/12)" Target="frmContent" Href="../searchservlet?query=F01M1/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01M1/18">
+      <TreeNode Title="F01M1/20 ##关于润滑剂压力" Target="frmContent" Href="../searchservlet?query=F01M1/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01M1/20">
+        <TreeNode Title="F01M1/22 ###当压力不足时使机器或发动机停机或空转" Target="frmContent" Href="../searchservlet?query=F01M1/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01M1/22">
+          <TreeNode Title="F01M1/24 ####作用于发动机的燃料系统" Target="frmContent" Href="../searchservlet?query=F01M1/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01M1/24"/>
+          <TreeNode Title="F01M1/26 ####作用于发动机的点火系统" Target="frmContent" Href="../searchservlet?query=F01M1/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01M1/26"/>
+          <TreeNode Title="F01M1/28 ####作用于发动机的燃烧用空气的供给" Target="frmContent" Href="../searchservlet?query=F01M1/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01M1/28"/>
+        </TreeNode>
+      </TreeNode>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="F01M3/00 专门适用于有曲轴箱压缩燃料空气混合气的发动机的润滑，或用于将润滑剂加入燃料、燃烧空气或燃料空气混合物中的其他发动机的润滑(在进入汽缸之前将润滑剂从空气或燃料空气的混合物中分离的入F01M 11/08)" Target="frmContent" Href="../searchservlet?query=F01M3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01M3/00">
+    <TreeNode Title="F01M3/02 #润滑剂与燃料、润滑剂与空气或润滑剂与燃料空气的混合物有着可变的比例" Target="frmContent" Href="../searchservlet?query=F01M3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01M3/02"/>
+    <TreeNode Title="F01M3/04 #只用于汽缸上部的润滑" Target="frmContent" Href="../searchservlet?query=F01M3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01M3/04"/>
+  </TreeNode>
+  <TreeNode Title="F01M5/00 润滑剂的加热、冷却或控制温度(在发动机冷却系统中的润滑剂冷却器的配置入F01P 11/08)；使发动机易于起动的润滑装置" Target="frmContent" Href="../searchservlet?query=F01M5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01M5/00">
+    <TreeNode Title="F01M5/02 #调节润滑剂帮助发动机起动，如加热" Target="frmContent" Href="../searchservlet?query=F01M5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01M5/02">
+      <TreeNode Title="F01M5/04 ##稀释，如用燃料稀释" Target="frmContent" Href="../searchservlet?query=F01M5/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01M5/04"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="F01M7/00 专门适用于机器或发动机跑合运转的润滑装置" Target="frmContent" Href="../searchservlet?query=F01M7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01M7/00"/>
+  <TreeNode Title="F01M9/00 不包含在F01M 1/00至F01M 7/00组中的，或与上述各组无关的具有相关特点的润滑装置" Target="frmContent" Href="../searchservlet?query=F01M9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01M9/00">
+    <TreeNode Title="F01M9/02 #具有把添加剂加入润滑剂中的装置" Target="frmContent" Href="../searchservlet?query=F01M9/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01M9/02"/>
+    <TreeNode Title="F01M9/04 #利用燃料作润滑剂" Target="frmContent" Href="../searchservlet?query=F01M9/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01M9/04"/>
+    <TreeNode Title="F01M9/06 #浸渍润滑或飞溅润滑" Target="frmContent" Href="../searchservlet?query=F01M9/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01M9/06"/>
+    <TreeNode Title="F01M9/08 #滴油润滑" Target="frmContent" Href="../searchservlet?query=F01M9/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01M9/08"/>
+    <TreeNode Title="F01M9/10 #阀机构或附件的润滑" Target="frmContent" Href="../searchservlet?query=F01M9/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01M9/10"/>
+    <TreeNode Title="F01M9/12 #不包含在其他各组内的非加压润滑，或非闭合回路润滑" Target="frmContent" Href="../searchservlet?query=F01M9/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01M9/12"/>
+  </TreeNode>
+  <TreeNode Title="F01M11/00 不包含在F01M 1/00至F01M 9/00各组中的，或与上述各组无关的部件、零件或附件" Target="frmContent" Href="../searchservlet?query=F01M11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01M11/00">
+    <TreeNode Title="F01M11/02 #润滑剂导管装置" Target="frmContent" Href="../searchservlet?query=F01M11/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01M11/02"/>
+    <TreeNode Title="F01M11/03 #关于机器或发动机的润滑剂净化装置的安装或连接；润滑剂净化装置的零部件[3]" Target="frmContent" Href="../searchservlet?query=F01M11/03&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01M11/03"/>
+    <TreeNode Title="F01M11/04 #向机器或发动机加入或排出润滑剂" Target="frmContent" Href="../searchservlet?query=F01M11/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01M11/04"/>
+    <TreeNode Title="F01M11/06 #保持润滑剂液位不变的装置，或适应机器或发动机的移动或位置的装置" Target="frmContent" Href="../searchservlet?query=F01M11/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01M11/06"/>
+    <TreeNode Title="F01M11/08 #在进入汽缸之前将润滑剂从空气或燃料空气的混合物中分离" Target="frmContent" Href="../searchservlet?query=F01M11/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01M11/08"/>
+    <TreeNode Title="F01M11/10 #指示装置；其他安全装置" Target="frmContent" Href="../searchservlet?query=F01M11/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01M11/10">
+      <TreeNode Title="F01M11/12 ##关于润滑剂的液位" Target="frmContent" Href="../searchservlet?query=F01M11/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01M11/12"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="F01M13/00 曲轴箱的通风或换气[2]" Target="frmContent" Href="../searchservlet?query=F01M13/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01M13/00">
+    <TreeNode Title="F01M13/02 #用附加的正压力或负压力[2]" Target="frmContent" Href="../searchservlet?query=F01M13/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01M13/02"/>
+    <TreeNode Title="F01M13/04 #具有空气离开曲轴箱以前对空气净化的装置，如除油[2]" Target="frmContent" Href="../searchservlet?query=F01M13/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01M13/04"/>
+    <TreeNode Title="F01M13/06 #专门适用于防水发动机，如用于装甲车的[2]" Target="frmContent" Href="../searchservlet?query=F01M13/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01M13/06"/>
+  </TreeNode>
+</Root>

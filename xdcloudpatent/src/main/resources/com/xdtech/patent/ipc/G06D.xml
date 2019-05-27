@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="G06D1/00 零部件，例如，功能构件(单个逻辑元件入F15C；阀入F16K)" Target="frmContent" Href="../searchservlet?query=G06D1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06D1/00">
+    <TreeNode Title="G06D1/02 #至少有一个活动部件的，例如，滑阀" Target="frmContent" Href="../searchservlet?query=G06D1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06D1/02">
+      <TreeNode Title="G06D1/04 ##加法的；减法的" Target="frmContent" Href="../searchservlet?query=G06D1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06D1/04"/>
+      <TreeNode Title="G06D1/06 ##乘法的；除法的" Target="frmContent" Href="../searchservlet?query=G06D1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06D1/06"/>
+    </TreeNode>
+    <TreeNode Title="G06D1/08 #没有活动部件的" Target="frmContent" Href="../searchservlet?query=G06D1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06D1/08">
+      <TreeNode Title="G06D1/10 ##加法的；减法的" Target="frmContent" Href="../searchservlet?query=G06D1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06D1/10"/>
+      <TreeNode Title="G06D1/12 ##乘法的；除法的" Target="frmContent" Href="../searchservlet?query=G06D1/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06D1/12"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="G06D3/00 按其功能构件相互间联系的特征划分的并且至少有一个活动部件的计算设备" Target="frmContent" Href="../searchservlet?query=G06D3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06D3/00"/>
+  <TreeNode Title="G06D5/00 按其功能构件相互间联系的特征划分的并且没有活动部件的计算设备" Target="frmContent" Href="../searchservlet?query=G06D5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06D5/00"/>
+  <TreeNode Title="G06D7/00 按照液压或气动功能元件至少与一个其他类型的功能元件相组合的特征划分的计算设备" Target="frmContent" Href="../searchservlet?query=G06D7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06D7/00"/>
+</Root>

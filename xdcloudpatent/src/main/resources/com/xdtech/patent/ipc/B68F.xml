@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="B68F1/00 用皮革、帆布或类似材料制作制品(制作马鞍的机器或设备入B68F 3/00；鞋类的制作入A43D；一般皮革的制作和处理，皮革的切开、传动皮带或其他皮带的制作入C14)" Target="frmContent" Href="../searchservlet?query=B68F1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B68F1/00"/>
+  <TreeNode Title="B68F3/00 专门适用于制作马鞍的机器或设备(方法入B68F 1/00)" Target="frmContent" Href="../searchservlet?query=B68F3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B68F3/00">
+    <TreeNode Title="B68F3/02 # 机器" Target="frmContent" Href="../searchservlet?query=B68F3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B68F3/02"/>
+    <TreeNode Title="B68F3/04 # 手工具" Target="frmContent" Href="../searchservlet?query=B68F3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B68F3/04"/>
+  </TreeNode>
+</Root>

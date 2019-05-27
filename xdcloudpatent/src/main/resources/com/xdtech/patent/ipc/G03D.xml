@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="G03D3/00 包括浸渍作用的液体加工设备；包括浸渍作用的水洗设备(G03D 9/00，G03D 11/00优先)" Target="frmContent" Href="../searchservlet?query=G03D3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G03D3/00">
+    <TreeNode Title="G03D3/02 #液体循环用的零部件" Target="frmContent" Href="../searchservlet?query=G03D3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G03D3/02">
+      <TreeNode Title="G03D3/04 ##液体搅拌器(一般的入B01F)" Target="frmContent" Href="../searchservlet?query=G03D3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G03D3/04"/>
+      <TreeNode Title="G03D3/06 ##液体供应；槽外的液体循环" Target="frmContent" Href="../searchservlet?query=G03D3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G03D3/06"/>
+    </TreeNode>
+    <TreeNode Title="G03D3/08 #曝光材料递进的机械传送" Target="frmContent" Href="../searchservlet?query=G03D3/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G03D3/08">
+      <TreeNode Title="G03D3/10 ##用于单个地传送的干版、软片或照片" Target="frmContent" Href="../searchservlet?query=G03D3/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G03D3/10"/>
+      <TreeNode Title="G03D3/12 ##用于散布在传送带上的干版、软片或照片[2]" Target="frmContent" Href="../searchservlet?query=G03D3/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G03D3/12"/>
+      <TreeNode Title="G03D3/13 ##用于长带形的软片或照片，例如，用辊式部件进给[2]" Target="frmContent" Href="../searchservlet?query=G03D3/13&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G03D3/13">
+        <TreeNode Title="G03D3/14 ###具有考虑到软片的伸长或收缩的装置的" Target="frmContent" Href="../searchservlet?query=G03D3/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G03D3/14"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="G03D3/16 #处理在原支架上曝光的材料的" Target="frmContent" Href="../searchservlet?query=G03D3/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G03D3/16"/>
+  </TreeNode>
+  <TreeNode Title="G03D5/00 无浸渍作用的液体加工设备；无浸渍作用的水洗设备(G03D 9/00，G03D 11/00优先；一般液体的应用入B05)" Target="frmContent" Href="../searchservlet?query=G03D5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G03D5/00">
+    <TreeNode Title="G03D5/02 #应用了装液体的可破碎的液管的" Target="frmContent" Href="../searchservlet?query=G03D5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G03D5/02"/>
+    <TreeNode Title="G03D5/04 #应用了液体喷雾的" Target="frmContent" Href="../searchservlet?query=G03D5/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G03D5/04"/>
+    <TreeNode Title="G03D5/06 #涂敷板、辊、带[2]" Target="frmContent" Href="../searchservlet?query=G03D5/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G03D5/06"/>
+  </TreeNode>
+  <TreeNode Title="G03D7/00 气体加工设备" Target="frmContent" Href="../searchservlet?query=G03D7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G03D7/00"/>
+  <TreeNode Title="G03D9/00 扩散显影设备" Target="frmContent" Href="../searchservlet?query=G03D9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G03D9/00">
+    <TreeNode Title="G03D9/02 #应用了装液体的可破碎的液管的" Target="frmContent" Href="../searchservlet?query=G03D9/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G03D9/02"/>
+  </TreeNode>
+  <TreeNode Title="G03D11/00 反转加工设备" Target="frmContent" Href="../searchservlet?query=G03D11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G03D11/00"/>
+  <TreeNode Title="G03D13/00 G03D3/00至G03D 11/00各组未包括的加工设备或其附件" Target="frmContent" Href="../searchservlet?query=G03D13/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G03D13/00">
+    <TreeNode Title="G03D13/02 #容器；夹持装置" Target="frmContent" Href="../searchservlet?query=G03D13/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G03D13/02">
+      <TreeNode Title="G03D13/04 ##盘；碟；槽" Target="frmContent" Href="../searchservlet?query=G03D13/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G03D13/04">
+        <TreeNode Title="G03D13/06 ###供日光下装载的光密封槽" Target="frmContent" Href="../searchservlet?query=G03D13/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G03D13/06"/>
+      </TreeNode>
+      <TreeNode Title="G03D13/08 ##夹持或支撑曝光材料的装置" Target="frmContent" Href="../searchservlet?query=G03D13/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G03D13/08">
+        <TreeNode Title="G03D13/10 ###夹子(G03D 13/14优先)" Target="frmContent" Href="../searchservlet?query=G03D13/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G03D13/10"/>
+        <TreeNode Title="G03D13/12 ###框架(G03D 13/14优先)" Target="frmContent" Href="../searchservlet?query=G03D13/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G03D13/12"/>
+        <TreeNode Title="G03D13/14 ###用于夹持间隔缠绕的软片" Target="frmContent" Href="../searchservlet?query=G03D13/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G03D13/14"/>
+      </TreeNode>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="G03D15/00 处理后材料的加工设备" Target="frmContent" Href="../searchservlet?query=G03D15/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G03D15/00">
+    <TreeNode Title="G03D15/02 #干燥；上光(和处理设备结合的入G03D 3/00至G03D 13/00；一般干燥设备入F26B)" Target="frmContent" Href="../searchservlet?query=G03D15/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G03D15/02"/>
+    <TreeNode Title="G03D15/04 #裁切；拼接" Target="frmContent" Href="../searchservlet?query=G03D15/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G03D15/04"/>
+    <TreeNode Title="G03D15/06 #涂漆或其他涂层" Target="frmContent" Href="../searchservlet?query=G03D15/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G03D15/06"/>
+    <TreeNode Title="G03D15/08 #印制品的整平" Target="frmContent" Href="../searchservlet?query=G03D15/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G03D15/08"/>
+    <TreeNode Title="G03D15/10 #装夹，例如，将已处理的材料夹入框架的(放映专用的夹子入G03B 21/64)" Target="frmContent" Href="../searchservlet?query=G03D15/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G03D15/10"/>
+  </TreeNode>
+  <TreeNode Title="G03D17/00 本小类的其他各组中不包含的暗室设备；轻便暗室" Target="frmContent" Href="../searchservlet?query=G03D17/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G03D17/00"/>
+</Root>

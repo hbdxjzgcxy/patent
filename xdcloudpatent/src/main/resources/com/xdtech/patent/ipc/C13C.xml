@@ -1,0 +1,12 @@
+<Root>
+  <TreeNode Title="C13C1/00 破碎提取糖的原料（淀粉的提取入C08B 30/02）" Target="frmContent" Href="../searchservlet?query=C13C1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C13C1/00">
+    <TreeNode Title="C13C1/02 切蔗" Target="frmContent" Href="../searchservlet?query=C13C1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C13C1/02">
+      <TreeNode Title="C13C1/04 撕裂甘蔗" Target="frmContent" Href="../searchservlet?query=C13C1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C13C1/04" />
+    </TreeNode>
+    <TreeNode Title="C13C1/06 甜菜切丝" Target="frmContent" Href="../searchservlet?query=C13C1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C13C1/06" />
+    <TreeNode Title="C13C1/08 刀；调节或维修" Target="frmContent" Href="../searchservlet?query=C13C1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C13C1/08" />
+  </TreeNode>
+  <TreeNode Title="C13C3/00 从已提取糖的材料中压榨水分（从已提取淀粉的材料中入C08B 30/10）〔4〕" Target="frmContent" Href="../searchservlet?query=C13C3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C13C3/00">
+    <TreeNode Title="C13C3/02 在多孔移动带之间" Target="frmContent" Href="../searchservlet?query=C13C3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C13C3/02" />
+  </TreeNode>
+</Root>

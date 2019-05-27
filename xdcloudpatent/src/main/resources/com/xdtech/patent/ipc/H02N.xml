@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="H02N1/00 应用固体移动静电荷载体的静电发电机或电动机" Target="frmContent" Href="../searchservlet?query=H02N1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02N1/00">
+    <TreeNode Title="H02N1/04 #摩擦发电机" Target="frmContent" Href="../searchservlet?query=H02N1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02N1/04"/>
+    <TreeNode Title="H02N1/06 #感应发电机" Target="frmContent" Href="../searchservlet?query=H02N1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02N1/06">
+      <TreeNode Title="H02N1/08 ##带有导电的电荷载体的，即电容器电机" Target="frmContent" Href="../searchservlet?query=H02N1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02N1/08"/>
+      <TreeNode Title="H02N1/10 ##带有非导电的电荷载体的" Target="frmContent" Href="../searchservlet?query=H02N1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02N1/10">
+        <TreeNode Title="H02N1/12 ###传送带式的，例如凡#弟#格拉夫电机" Target="frmContent" Href="../searchservlet?query=H02N1/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02N1/12"/>
+      </TreeNode>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="H02N2/00 利用压电效应、电致伸缩或磁致伸缩的电动机或发电机(一般产生机械振动的装置入B06B；压电的、电致伸缩的或磁致伸缩的器件一般入H01L 41/00)[4]" Target="frmContent" Href="../searchservlet?query=H02N2/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02N2/00">
+    <TreeNode Title="H02N2/02 #产生直线运动的，例如致动器；直线定位器[6]" Target="frmContent" Href="../searchservlet?query=H02N2/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02N2/02">
+      <TreeNode Title="H02N2/04 ##结构零部件[6]" Target="frmContent" Href="../searchservlet?query=H02N2/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02N2/04"/>
+      <TreeNode Title="H02N2/06 ##驱动电路；控制装置[6]" Target="frmContent" Href="../searchservlet?query=H02N2/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02N2/06"/>
+      <TreeNode Title="H02N2/08 ##利用行波的，例如直线电动机[6]" Target="frmContent" Href="../searchservlet?query=H02N2/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02N2/08"/>
+    </TreeNode>
+    <TreeNode Title="H02N2/10 #产生旋转运动的，例如旋转电动机[6]" Target="frmContent" Href="../searchservlet?query=H02N2/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02N2/10">
+      <TreeNode Title="H02N2/12 ##结构零部件[6]" Target="frmContent" Href="../searchservlet?query=H02N2/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02N2/12"/>
+      <TreeNode Title="H02N2/14 ##驱动电路；控制装置[6]" Target="frmContent" Href="../searchservlet?query=H02N2/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02N2/14"/>
+      <TreeNode Title="H02N2/16 ##利用行波的[6]" Target="frmContent" Href="../searchservlet?query=H02N2/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02N2/16"/>
+    </TreeNode>
+    <TreeNode Title="H02N2/18 #从机械输入产生电输出的，例如发电机(用于测量装置的入G01)[6]" Target="frmContent" Href="../searchservlet?query=H02N2/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02N2/18"/>
+  </TreeNode>
+  <TreeNode Title="H02N3/00 应用流体的离子化和由此而得的电荷的移动，将热能或动能转变为电能的发电机(起热离子发生器功能的电子管入H01J 45/00)[3]" Target="frmContent" Href="../searchservlet?query=H02N3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02N3/00"/>
+  <TreeNode Title="H02N6/00 光辐射直接转变为电能的发电机(太阳能电池或其装配件本身入H01L 25/00，H01L 31/00)[4]" Target="frmContent" Href="../searchservlet?query=H02N6/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02N6/00"/>
+  <TreeNode Title="H02N10/00 应用热效应的电动机[3]" Target="frmContent" Href="../searchservlet?query=H02N10/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02N10/00"/>
+  <TreeNode Title="H02N11/00 其他类不包含的发电机或电动机；用电或磁装置得到的所谓的永动机(用流体静压的入F03B 17/04；用机电装置的入H02K 53/00)" Target="frmContent" Href="../searchservlet?query=H02N11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02N11/00"/>
+  <TreeNode Title="H02N13/00 应用静电吸引力，例如Johnson Rahbek效应的离合器或保持装置" Target="frmContent" Href="../searchservlet?query=H02N13/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02N13/00"/>
+  <TreeNode Title="H02N15/00 其他类不包含的，用磁吸力或推力的保持或悬浮装置(用以把工件固定在机床上的电或磁的装置入B23Q 3/15；铁路系统的滑动或悬浮装置入B61B 13/08；与带静电或磁吸盘装置的传送机相联合的材料处理装置入B65G 47/92；应用磁力从成堆物质中分离出细小的或丝状物体的入B65H 3/16；用吹气或抽气的办法从磁保持器释放出细小的或丝状物体的入B65H 29/24；应用磁或电的支承装置的轴承入F16C 32/04；用磁装置减轻轴承负荷的入F16C 39/06；磁体入H01F 7/00；机电离合器或制动器入H02K 49/00)[3]" Target="frmContent" Href="../searchservlet?query=H02N15/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02N15/00">
+    <TreeNode Title="H02N15/02 #应用傅科电流的[3]" Target="frmContent" Href="../searchservlet?query=H02N15/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02N15/02"/>
+    <TreeNode Title="H02N15/04 #由梅士那效应产生斥力的(超导体或高导体一般入H01L 39/00)[3]" Target="frmContent" Href="../searchservlet?query=H02N15/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02N15/04"/>
+  </TreeNode>
+  <TreeNode Title="H02N99/00 本小类其他组不包含的技术主题[8]" Target="frmContent" Href="../searchservlet?query=H02N99/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H02N99/00"/>
+</Root>

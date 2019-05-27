@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="B60G1/00 车轴与车架之间刚性连接的悬架" Target="frmContent" Href="../searchservlet?query=B60G1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60G1/00">
+    <TreeNode Title="B60G1/02 # 装有连续车轴的" Target="frmContent" Href="../searchservlet?query=B60G1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60G1/02"/>
+    <TreeNode Title="B60G1/04 # 装有对开车轴的" Target="frmContent" Href="../searchservlet?query=B60G1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60G1/04"/>
+  </TreeNode>
+  <TreeNode Title="B60G3/00 用于单个车轮的弹性悬架(可转动的悬臂本身，及其在车辆弹簧悬架上的安装，悬臂运动限位缓冲装置入B60G 7/00；以弹簧布置、定位或类型为特点的入B60G 11/00)" Target="frmContent" Href="../searchservlet?query=B60G3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60G3/00">
+    <TreeNode Title="B60G3/01 # 车轮安装为可滑动的，例如可在一铅垂面内或上滑动的(保持车轮外倾装置入B60G 3/26)[5]" Target="frmContent" Href="../searchservlet?query=B60G3/01&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60G3/01"/>
+    <TreeNode Title="B60G3/02 # 装有单个转臂的" Target="frmContent" Href="../searchservlet?query=B60G3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60G3/02">
+      <TreeNode Title="B60G3/04 ##转臂基本上横置于车辆的纵轴线" Target="frmContent" Href="../searchservlet?query=B60G3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60G3/04">
+        <TreeNode Title="B60G3/06 ###转臂是刚性的" Target="frmContent" Href="../searchservlet?query=B60G3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60G3/06">
+          <TreeNode Title="B60G3/08 ####转臂构成车轴外壳" Target="frmContent" Href="../searchservlet?query=B60G3/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60G3/08"/>
+        </TreeNode>
+        <TreeNode Title="B60G3/10 ###转臂本身是有弹性的，例如板簧" Target="frmContent" Href="../searchservlet?query=B60G3/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60G3/10"/>
+      </TreeNode>
+      <TreeNode Title="B60G3/12 ##转臂基本上平行于车辆的纵轴线" Target="frmContent" Href="../searchservlet?query=B60G3/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60G3/12">
+        <TreeNode Title="B60G3/14 ###转臂是刚性的" Target="frmContent" Href="../searchservlet?query=B60G3/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60G3/14"/>
+        <TreeNode Title="B60G3/16 ###转臂本身是有弹性的，例如板簧" Target="frmContent" Href="../searchservlet?query=B60G3/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60G3/16"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="B60G3/18 # 装有两个或多个转臂的，例如平行四边形的" Target="frmContent" Href="../searchservlet?query=B60G3/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60G3/18">
+      <TreeNode Title="B60G3/20 ##所有转臂是刚性的" Target="frmContent" Href="../searchservlet?query=B60G3/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60G3/20">
+        <TreeNode Title="B60G3/22 ###一个刚性臂构成车轴外壳" Target="frmContent" Href="../searchservlet?query=B60G3/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60G3/22"/>
+        <TreeNode Title="B60G3/24 ###一个刚性臂是由转动轴构成的" Target="frmContent" Href="../searchservlet?query=B60G3/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60G3/24"/>
+        <TreeNode Title="B60G3/26 ###悬架运动时保持车轮外倾角基本不变的装置" Target="frmContent" Href="../searchservlet?query=B60G3/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60G3/26"/>
+      </TreeNode>
+      <TreeNode Title="B60G3/28 ##至少有一个臂本身是有弹性的，例如板簧" Target="frmContent" Href="../searchservlet?query=B60G3/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60G3/28"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="B60G5/00 用于单组串列车轮或有相关运动的车轴的弹性悬架" Target="frmContent" Href="../searchservlet?query=B60G5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60G5/00">
+    <TreeNode Title="B60G5/01 # 以具有多于两个连续轴为特点的车轮组[5]" Target="frmContent" Href="../searchservlet?query=B60G5/01&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60G5/01"/>
+    <TreeNode Title="B60G5/02 # 装在单个转臂上的" Target="frmContent" Href="../searchservlet?query=B60G5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60G5/02">
+      <TreeNode Title="B60G5/03 ##转臂本身为弹性的，例如片簧(B60G 5/053优先)[5]" Target="frmContent" Href="../searchservlet?query=B60G5/03&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60G5/03"/>
+    </TreeNode>
+    <TreeNode Title="B60G5/04 # 有两个或多个转臂的，其运动是弹性相关的" Target="frmContent" Href="../searchservlet?query=B60G5/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60G5/04">
+      <TreeNode Title="B60G5/047 ##至少一个转臂为弹性的，例如片簧(B60G 5/053优先)[5]" Target="frmContent" Href="../searchservlet?query=B60G5/047&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60G5/047"/>
+      <TreeNode Title="B60G5/053 ##叶片弹簧作为两轴支撑件间的平衡装置[5]" Target="frmContent" Href="../searchservlet?query=B60G5/053&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60G5/053"/>
+      <TreeNode Title="B60G5/06 ##各转臂均在共同轴上转动的" Target="frmContent" Href="../searchservlet?query=B60G5/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60G5/06"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="B60G7/00 装在枢轴上的悬臂；及其附件(悬架运动时保持车轮外倾角基本不变的装置入B60G 3/26)" Target="frmContent" Href="../searchservlet?query=B60G7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60G7/00">
+    <TreeNode Title="B60G7/02 # 悬臂装在车辆弹簧悬架部分上的" Target="frmContent" Href="../searchservlet?query=B60G7/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60G7/02"/>
+    <TreeNode Title="B60G7/04 # 限制悬臂运转的缓冲装置" Target="frmContent" Href="../searchservlet?query=B60G7/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60G7/04"/>
+  </TreeNode>
+  <TreeNode Title="B60G9/00 用于两个或多个车轮的刚性车轴或车轴外壳的弹性悬架" Target="frmContent" Href="../searchservlet?query=B60G9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60G9/00">
+    <TreeNode Title="B60G9/02 # 车轴或外壳是转动地装在车辆上的" Target="frmContent" Href="../searchservlet?query=B60G9/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60G9/02"/>
+    <TreeNode Title="B60G9/04 # 车轴或外壳不是转动地装在车辆上的" Target="frmContent" Href="../searchservlet?query=B60G9/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60G9/04"/>
+  </TreeNode>
+  <TreeNode Title="B60G11/00 以弹簧的布置、定位或类别为特点的弹性悬架(通过转臂自身弹性的单个车轮悬架入B60G 3/00；弹簧特性调整入B60G 17/00；弹簧本身入F16F)" Target="frmContent" Href="../searchservlet?query=B60G11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60G11/00">
+    <TreeNode Title="B60G11/02 # 仅有板簧的" Target="frmContent" Href="../searchservlet?query=B60G11/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60G11/02">
+      <TreeNode Title="B60G11/04 ##基本上平行于车辆纵轴布置的" Target="frmContent" Href="../searchservlet?query=B60G11/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60G11/04"/>
+      <TreeNode Title="B60G11/06 ##与车辆纵轴非垂直布置的" Target="frmContent" Href="../searchservlet?query=B60G11/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60G11/06"/>
+      <TreeNode Title="B60G11/08 ##基本上横置于车辆纵轴布置的" Target="frmContent" Href="../searchservlet?query=B60G11/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60G11/08"/>
+      <TreeNode Title="B60G11/10 ##以专门适用于固定弹簧于车轴或车辆悬挂部分上为特点的" Target="frmContent" Href="../searchservlet?query=B60G11/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60G11/10">
+        <TreeNode Title="B60G11/107 ###滑动或滚动安装[5]" Target="frmContent" Href="../searchservlet?query=B60G11/107&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60G11/107"/>
+        <TreeNode Title="B60G11/113 ###在车轴上的安装(B60G 11/107优先)[5]" Target="frmContent" Href="../searchservlet?query=B60G11/113&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60G11/113"/>
+        <TreeNode Title="B60G11/12 ###连杆、销或衬套" Target="frmContent" Href="../searchservlet?query=B60G11/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60G11/12"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="B60G11/14 # 仅有螺簧、卷簧或盘簧的" Target="frmContent" Href="../searchservlet?query=B60G11/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60G11/14">
+      <TreeNode Title="B60G11/15 ##抗扭螺簧[5]" Target="frmContent" Href="../searchservlet?query=B60G11/15&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60G11/15"/>
+      <TreeNode Title="B60G11/16 ##以专门适用于固定弹簧于车轴或车辆悬挂部分上的装置为特点的" Target="frmContent" Href="../searchservlet?query=B60G11/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60G11/16"/>
+    </TreeNode>
+    <TreeNode Title="B60G11/18 # 仅有扭杆弹簧的" Target="frmContent" Href="../searchservlet?query=B60G11/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60G11/18">
+      <TreeNode Title="B60G11/20 ##以专门适用于固定弹簧于车轴或车辆悬挂部分上的装置为特点的" Target="frmContent" Href="../searchservlet?query=B60G11/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60G11/20"/>
+    </TreeNode>
+    <TreeNode Title="B60G11/22 # 仅有橡胶弹簧的" Target="frmContent" Href="../searchservlet?query=B60G11/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60G11/22">
+      <TreeNode Title="B60G11/23 ##具有储存扭转势能特性的[5]" Target="frmContent" Href="../searchservlet?query=B60G11/23&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60G11/23"/>
+      <TreeNode Title="B60G11/24 ##以专门适用于固定弹簧于车轴或车辆悬挂部分上的装置为特点的" Target="frmContent" Href="../searchservlet?query=B60G11/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60G11/24"/>
+    </TreeNode>
+    <TreeNode Title="B60G11/26 # 仅有流体弹簧的，例如液力弹簧(B60G 15/12优先)" Target="frmContent" Href="../searchservlet?query=B60G11/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60G11/26">
+      <TreeNode Title="B60G11/27 ##其中的流体为气体[5]" Target="frmContent" Href="../searchservlet?query=B60G11/27&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60G11/27"/>
+      <TreeNode Title="B60G11/28 ##以专门适用于固定弹簧于车轴或车辆悬挂部分上的装置为特点的" Target="frmContent" Href="../searchservlet?query=B60G11/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60G11/28"/>
+      <TreeNode Title="B60G11/30 ##具有用于流体弹簧的压力流体蓄能器的，例如蓄能器配置在车架上" Target="frmContent" Href="../searchservlet?query=B60G11/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60G11/30"/>
+    </TreeNode>
+    <TreeNode Title="B60G11/32 # 有各种弹簧的" Target="frmContent" Href="../searchservlet?query=B60G11/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60G11/32">
+      <TreeNode Title="B60G11/34 ##包括板簧的" Target="frmContent" Href="../searchservlet?query=B60G11/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60G11/34">
+        <TreeNode Title="B60G11/36 ###还有螺簧、卷簧或盘簧的" Target="frmContent" Href="../searchservlet?query=B60G11/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60G11/36"/>
+        <TreeNode Title="B60G11/38 ###还有橡胶弹簧的" Target="frmContent" Href="../searchservlet?query=B60G11/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60G11/38">
+          <TreeNode Title="B60G11/40 ####橡胶弹簧是装在车轴上的" Target="frmContent" Href="../searchservlet?query=B60G11/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60G11/40"/>
+          <TreeNode Title="B60G11/42 ####橡胶弹簧是装在车辆悬架部分上的" Target="frmContent" Href="../searchservlet?query=B60G11/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60G11/42"/>
+        </TreeNode>
+        <TreeNode Title="B60G11/44 ###还有扭杆簧的" Target="frmContent" Href="../searchservlet?query=B60G11/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60G11/44"/>
+        <TreeNode Title="B60G11/46 ###还有流体弹簧的" Target="frmContent" Href="../searchservlet?query=B60G11/46&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60G11/46"/>
+      </TreeNode>
+      <TreeNode Title="B60G11/48 ##不包括板簧的" Target="frmContent" Href="../searchservlet?query=B60G11/48&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60G11/48">
+        <TreeNode Title="B60G11/50 ###有螺簧、卷簧或盘簧的，还有扭杆簧的" Target="frmContent" Href="../searchservlet?query=B60G11/50&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60G11/50"/>
+        <TreeNode Title="B60G11/52 ###有螺簧、卷簧或盘簧的，还有橡胶弹簧的" Target="frmContent" Href="../searchservlet?query=B60G11/52&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60G11/52">
+          <TreeNode Title="B60G11/54 ####具有装在螺簧、卷簧或盘簧内的橡胶弹簧" Target="frmContent" Href="../searchservlet?query=B60G11/54&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60G11/54"/>
+        </TreeNode>
+        <TreeNode Title="B60G11/56 ###有螺簧、卷簧或盘簧的，还有流体弹簧的" Target="frmContent" Href="../searchservlet?query=B60G11/56&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60G11/56">
+          <TreeNode Title="B60G11/58 ####同轴配置的" Target="frmContent" Href="../searchservlet?query=B60G11/58&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60G11/58"/>
+        </TreeNode>
+        <TreeNode Title="B60G11/60 ###兼有橡胶弹簧和扭杆簧的" Target="frmContent" Href="../searchservlet?query=B60G11/60&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60G11/60"/>
+        <TreeNode Title="B60G11/62 ###兼有橡胶弹簧和流体弹簧的" Target="frmContent" Href="../searchservlet?query=B60G11/62&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60G11/62"/>
+        <TreeNode Title="B60G11/64 ###兼有扭杆簧和流体弹簧的" Target="frmContent" Href="../searchservlet?query=B60G11/64&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60G11/64"/>
+      </TreeNode>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="B60G13/00 以减振器布置、定位或类别为特点的弹性悬架(减振作用的调整入B60G 17/06；减振器本身入F16F)" Target="frmContent" Href="../searchservlet?query=B60G13/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60G13/00">
+    <TreeNode Title="B60G13/02 # 具有耗能减振器的，例如摩擦耗能" Target="frmContent" Href="../searchservlet?query=B60G13/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60G13/02">
+      <TreeNode Title="B60G13/04 ##机械的，例如具有摩擦接合弹簧作为减振元件的" Target="frmContent" Href="../searchservlet?query=B60G13/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60G13/04"/>
+      <TreeNode Title="B60G13/06 ##流体类的" Target="frmContent" Href="../searchservlet?query=B60G13/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60G13/06">
+        <TreeNode Title="B60G13/08 ###液压的" Target="frmContent" Href="../searchservlet?query=B60G13/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60G13/08"/>
+        <TreeNode Title="B60G13/10 ###气动的" Target="frmContent" Href="../searchservlet?query=B60G13/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60G13/10"/>
+        <TreeNode Title="B60G13/12 ###半流体的，即具有粉末状介质的" Target="frmContent" Href="../searchservlet?query=B60G13/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60G13/12"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="B60G13/14 # 具有聚积可用能量减振器的，例如聚积压缩空气" Target="frmContent" Href="../searchservlet?query=B60G13/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60G13/14"/>
+    <TreeNode Title="B60G13/16 # 具有动力减振器作为主要减振装置的，即具有不同相振动的弹簧质量系统" Target="frmContent" Href="../searchservlet?query=B60G13/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60G13/16">
+      <TreeNode Title="B60G13/18 ##与能量吸收装置结合的" Target="frmContent" Href="../searchservlet?query=B60G13/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60G13/18"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="B60G15/00 以弹簧与减振器组合的布置、定位或类别为特点的弹性悬架，例如套筒型的(组合弹簧和减振器本身入F16F)[5]" Target="frmContent" Href="../searchservlet?query=B60G15/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60G15/00">
+    <TreeNode Title="B60G15/02 # 有机械弹簧的" Target="frmContent" Href="../searchservlet?query=B60G15/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60G15/02">
+      <TreeNode Title="B60G15/04 ##还有机械减振器的" Target="frmContent" Href="../searchservlet?query=B60G15/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60G15/04"/>
+      <TreeNode Title="B60G15/06 ##还有流体减振器的" Target="frmContent" Href="../searchservlet?query=B60G15/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60G15/06">
+        <TreeNode Title="B60G15/07 ###连接到主销轴上的减振器及布置在减振器周围的弹簧[5]" Target="frmContent" Href="../searchservlet?query=B60G15/07&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60G15/07"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="B60G15/08 # 有流体弹簧的" Target="frmContent" Href="../searchservlet?query=B60G15/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60G15/08">
+      <TreeNode Title="B60G15/10 ##还有机械减振器的" Target="frmContent" Href="../searchservlet?query=B60G15/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60G15/10"/>
+      <TreeNode Title="B60G15/12 ##还有流体减振器的" Target="frmContent" Href="../searchservlet?query=B60G15/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60G15/12">
+        <TreeNode Title="B60G15/14 ###连接到主销轴上的减振器及布置在减振器周围的弹簧[5]" Target="frmContent" Href="../searchservlet?query=B60G15/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60G15/14"/>
+      </TreeNode>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="B60G17/00 具有调整弹簧或减振器特性、调整车辆支撑面与弹簧悬架部分之间的距离，或锁止悬架以适应各种车辆或路面条件使用的需要，例如根据速度或负载的需要而配置的弹性悬架[5]" Target="frmContent" Href="../searchservlet?query=B60G17/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60G17/00">
+    <TreeNode Title="B60G17/005 # 悬架锁止装置[5]" Target="frmContent" Href="../searchservlet?query=B60G17/005&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60G17/005"/>
+    <TreeNode Title="B60G17/015 # 包括电气或电子元件的控制装置(B60G 17/005优先) [5，8]" Target="frmContent" Href="../searchservlet?query=B60G17/015&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60G17/015">
+      <TreeNode Title="B60G17/016 ##当车辆正在以特别的动作、特别的条件，或驾驶员操作运行时，以它们的响应度为特征的 [8]" Target="frmContent" Href="../searchservlet?query=B60G17/016&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60G17/016">
+        <TreeNode Title="B60G17/0165 ###外界条件，如起伏路面、侧风 [8]" Target="frmContent" Href="../searchservlet?query=B60G17/0165&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60G17/0165"/>
+      </TreeNode>
+      <TreeNode Title="B60G17/017 ##以车辆静止时其应用为特征的，如在装载、发动机启动或切断期间 [8]" Target="frmContent" Href="../searchservlet?query=B60G17/017&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60G17/017"/>
+      <TreeNode Title="B60G17/018 ##以特殊信号处理或控制方法的应用为特征 [8]" Target="frmContent" Href="../searchservlet?query=B60G17/018&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60G17/018">
+        <TreeNode Title="B60G17/0185 ###用于故障检测的 [8]" Target="frmContent" Href="../searchservlet?query=B60G17/0185&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60G17/0185"/>
+      </TreeNode>
+      <TreeNode Title="B60G17/019 ##以其传感器或其装置的类型为特征 [8]" Target="frmContent" Href="../searchservlet?query=B60G17/019&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60G17/019"/>
+      <TreeNode Title="B60G17/0195 ##以与其他车辆控制系统结合的控制为特征的 [8]" Target="frmContent" Href="../searchservlet?query=B60G17/0195&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60G17/0195"/>
+    </TreeNode>
+    <TreeNode Title="B60G17/02 # 弹簧特性(B60G 17/005到B60G 17/015优先)[5]" Target="frmContent" Href="../searchservlet?query=B60G17/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60G17/02">
+      <TreeNode Title="B60G17/027 ##由流体装置控制的机械弹簧(B60G 17/033优先)[5]" Target="frmContent" Href="../searchservlet?query=B60G17/027&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60G17/027"/>
+      <TreeNode Title="B60G17/033 ##以作用于多个弹簧上的控制装置为特点的[5]" Target="frmContent" Href="../searchservlet?query=B60G17/033&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60G17/033"/>
+      <TreeNode Title="B60G17/04 ##流体弹簧特性" Target="frmContent" Href="../searchservlet?query=B60G17/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60G17/04">
+        <TreeNode Title="B60G17/044 ###自泵流体弹簧(液压泵入F04)[5]" Target="frmContent" Href="../searchservlet?query=B60G17/044&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60G17/044"/>
+        <TreeNode Title="B60G17/048 ###具有位于流体弹簧中的控制装置的(B60G 17/044优先)[5]" Target="frmContent" Href="../searchservlet?query=B60G17/048&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60G17/048"/>
+        <TreeNode Title="B60G17/052 ###气体弹簧特性(B60G 17/048优先)[5]" Target="frmContent" Href="../searchservlet?query=B60G17/052&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60G17/052"/>
+        <TreeNode Title="B60G17/056 ###调节分流器或阀门(B60G 17/044到B60G 17/048优先)[5]" Target="frmContent" Href="../searchservlet?query=B60G17/056&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60G17/056"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="B60G17/06 # 减振器的特性(B60G 17/015优先)[5]" Target="frmContent" Href="../searchservlet?query=B60G17/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60G17/06">
+      <TreeNode Title="B60G17/08 ##流体减振器的特性(调节流体减振器本身入F16F 9/44至F16F 9/53)" Target="frmContent" Href="../searchservlet?query=B60G17/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60G17/08"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="B60G21/00 用于两个或多个弹性悬挂车轮的互连系统，例如用于使车身相对于加速、减速或离心力可保证稳定的系统(B60G 17/033优先；与转弯时使车身内倾的装置结合的转向可变形车轮入B62D 9/02)[5]" Target="frmContent" Href="../searchservlet?query=B60G21/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60G21/00">
+    <TreeNode Title="B60G21/02 # 永久性互连的" Target="frmContent" Href="../searchservlet?query=B60G21/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60G21/02">
+      <TreeNode Title="B60G21/04 ##机械的" Target="frmContent" Href="../searchservlet?query=B60G21/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60G21/04">
+        <TreeNode Title="B60G21/045 ###位于车辆同侧，即左侧或右侧且在不同车轴上的车轮之间的[5]" Target="frmContent" Href="../searchservlet?query=B60G21/045&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60G21/045"/>
+        <TreeNode Title="B60G21/05 ###位于车辆异侧且在同一车轴上的车轮之间的，即左右车轮悬架互连的[5]" Target="frmContent" Href="../searchservlet?query=B60G21/05&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60G21/05">
+          <TreeNode Title="B60G21/055 ####稳定杆[5]" Target="frmContent" Href="../searchservlet?query=B60G21/055&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60G21/055"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="B60G21/06 ##流体的" Target="frmContent" Href="../searchservlet?query=B60G21/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60G21/06">
+        <TreeNode Title="B60G21/067 ###位于车辆同侧，即左侧或右侧且在不同车轴上的车轮之间的[5]" Target="frmContent" Href="../searchservlet?query=B60G21/067&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60G21/067"/>
+        <TreeNode Title="B60G21/073 ###位于车辆异侧且在同一车轴上的车轮之间的，即左右车轮悬架互连的[5]" Target="frmContent" Href="../searchservlet?query=B60G21/073&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60G21/073"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="B60G21/08 # 以陀螺仪的使用为特点的(用于稳定无悬架控制装置的车身的陀螺仪入B62D 37/06)[4，5]" Target="frmContent" Href="../searchservlet?query=B60G21/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60G21/08"/>
+    <TreeNode Title="B60G21/10 # 非永久性互连的，例如仅在加速时，仅在减速时或仅在偏离直线行驶位置时起作用的" Target="frmContent" Href="../searchservlet?query=B60G21/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60G21/10"/>
+  </TreeNode>
+  <TreeNode Title="B60G23/00 具有自动检测车轮前方不平度或使车轮与其保持相应上下运动的装置的车轮悬架" Target="frmContent" Href="../searchservlet?query=B60G23/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60G23/00"/>
+  <TreeNode Title="B60G99/00 本小类其他各组中不包括的技术主题  [2010.01]" Target="frmContent" Href="../searchservlet?query=B60G99/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60G99/00"/>
+</Root>

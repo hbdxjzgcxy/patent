@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="C10G1/00 由油页岩、油砂或非熔的固态含碳物料或类似物，如木材、煤，制备液态烃混合物(从油页岩、油砂及类似物用机械方法取得油入B03B)" Target="frmContent" Href="../searchservlet?query=C10G1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G1/00">
+    <TreeNode Title="C10G1/02 #用蒸馏方法" Target="frmContent" Href="../searchservlet?query=C10G1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G1/02"/>
+    <TreeNode Title="C10G1/04 #用抽提法" Target="frmContent" Href="../searchservlet?query=C10G1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G1/04"/>
+    <TreeNode Title="C10G1/06 #用破坏性加氢" Target="frmContent" Href="../searchservlet?query=C10G1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G1/06">
+      <TreeNode Title="C10G1/08 ##用移动催化剂" Target="frmContent" Href="../searchservlet?query=C10G1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G1/08"/>
+    </TreeNode>
+    <TreeNode Title="C10G1/10 #从橡胶或橡胶废料" Target="frmContent" Href="../searchservlet?query=C10G1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G1/10"/>
+  </TreeNode>
+  <TreeNode Title="C10G2/00 由碳的氧化物制备组成不确定的液体烃混合物[5]" Target="frmContent" Href="../searchservlet?query=C10G2/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G2/00"/>
+  <TreeNode Title="C10G3/00 从含氧的有机物制备液态烃混合物，例如：从脂肪油、脂肪酸(从不熔的含氧的含碳固态物料制备入C10G 1/00)" Target="frmContent" Href="../searchservlet?query=C10G3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G3/00"/>
+  <TreeNode Title="C10G5/00 从气体，如从天然气中回收液态烃混合物" Target="frmContent" Href="../searchservlet?query=C10G5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G5/00">
+    <TreeNode Title="C10G5/02 #用固体吸附剂" Target="frmContent" Href="../searchservlet?query=C10G5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G5/02"/>
+    <TreeNode Title="C10G5/04 #用液体吸收剂" Target="frmContent" Href="../searchservlet?query=C10G5/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G5/04"/>
+    <TreeNode Title="C10G5/06 #用冷却或压缩法" Target="frmContent" Href="../searchservlet?query=C10G5/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G5/06"/>
+  </TreeNode>
+  <TreeNode Title="C10G7/00 烃油的蒸馏" Target="frmContent" Href="../searchservlet?query=C10G7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G7/00">
+    <TreeNode Title="C10G7/02 #用分馏去除气体来稳定汽油" Target="frmContent" Href="../searchservlet?query=C10G7/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G7/02"/>
+    <TreeNode Title="C10G7/04 #脱水" Target="frmContent" Href="../searchservlet?query=C10G7/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G7/04"/>
+    <TreeNode Title="C10G7/06 #真空蒸馏[3]" Target="frmContent" Href="../searchservlet?query=C10G7/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G7/06"/>
+    <TreeNode Title="C10G7/08 #共沸蒸馏或萃取蒸馏(在不存在氢的情况下，采用选择性溶剂萃取精制烃油入C10G 21/00)[3]" Target="frmContent" Href="../searchservlet?query=C10G7/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G7/08"/>
+    <TreeNode Title="C10G7/10 #蒸馏时防止腐蚀[3]" Target="frmContent" Href="../searchservlet?query=C10G7/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G7/10"/>
+    <TreeNode Title="C10G7/12 #控制或调节[3]" Target="frmContent" Href="../searchservlet?query=C10G7/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G7/12"/>
+  </TreeNode>
+  <TreeNode Title="C10G9/00 在不存在氢的情况下，烃油的非催化热裂化" Target="frmContent" Href="../searchservlet?query=C10G9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G9/00">
+    <TreeNode Title="C10G9/02 #在干馏釜中" Target="frmContent" Href="../searchservlet?query=C10G9/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G9/02">
+      <TreeNode Title="C10G9/04 ##干馏釜" Target="frmContent" Href="../searchservlet?query=C10G9/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G9/04"/>
+    </TreeNode>
+    <TreeNode Title="C10G9/06 #用加压蒸馏" Target="frmContent" Href="../searchservlet?query=C10G9/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G9/06">
+      <TreeNode Title="C10G9/08 ##所用设备" Target="frmContent" Href="../searchservlet?query=C10G9/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G9/08">
+        <TreeNode Title="C10G9/12 ###去除积垢" Target="frmContent" Href="../searchservlet?query=C10G9/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G9/12"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="C10G9/14 #在带有或不带有辅件的管中或盘管中，例如蒸煮器、裂化反应塔、膨胀器" Target="frmContent" Href="../searchservlet?query=C10G9/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G9/14">
+      <TreeNode Title="C10G9/16 ##防止或去除积垢" Target="frmContent" Href="../searchservlet?query=C10G9/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G9/16"/>
+      <TreeNode Title="C10G9/18 ##设备" Target="frmContent" Href="../searchservlet?query=C10G9/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G9/18">
+        <TreeNode Title="C10G9/20 ###管式炉" Target="frmContent" Href="../searchservlet?query=C10G9/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G9/20"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="C10G9/24 #用电加热法" Target="frmContent" Href="../searchservlet?query=C10G9/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G9/24"/>
+    <TreeNode Title="C10G9/26 #用不连续预热的不移动的固态物料，如喷气和运行" Target="frmContent" Href="../searchservlet?query=C10G9/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G9/26"/>
+    <TreeNode Title="C10G9/28 #用预热的移动的固体物料" Target="frmContent" Href="../searchservlet?query=C10G9/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G9/28">
+      <TreeNode Title="C10G9/30 ##按照“移动床”技术的" Target="frmContent" Href="../searchservlet?query=C10G9/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G9/30"/>
+      <TreeNode Title="C10G9/32 ##按照“流化床”技术的" Target="frmContent" Href="../searchservlet?query=C10G9/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G9/32"/>
+    </TreeNode>
+    <TreeNode Title="C10G9/34 #用与惰性的经预热的流体直接接触，如用熔融金属或熔融盐" Target="frmContent" Href="../searchservlet?query=C10G9/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G9/34">
+      <TreeNode Title="C10G9/36 ##用热的气体或蒸汽" Target="frmContent" Href="../searchservlet?query=C10G9/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G9/36">
+        <TreeNode Title="C10G9/38 ###由待裂化物料的部分燃烧或另一种烃的燃烧产生[2]" Target="frmContent" Href="../searchservlet?query=C10G9/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G9/38"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="C10G9/40 #与除热燃烧气体外的经预热的流体的间接接触" Target="frmContent" Href="../searchservlet?query=C10G9/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G9/40"/>
+    <TreeNode Title="C10G9/42 #将待裂化的物料以细流或喷雾状通到连续加热的表面或表面附近" Target="frmContent" Href="../searchservlet?query=C10G9/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G9/42"/>
+  </TreeNode>
+  <TreeNode Title="C10G11/00 在不存在氢的情况下，烃油的催化裂化(与熔融金属或熔融盐直接接触的裂化入C10G 9/34)" Target="frmContent" Href="../searchservlet?query=C10G11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G11/00">
+    <TreeNode Title="C10G11/02 #以所用的催化剂为特征的" Target="frmContent" Href="../searchservlet?query=C10G11/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G11/02">
+      <TreeNode Title="C10G11/04 ##氧化物" Target="frmContent" Href="../searchservlet?query=C10G11/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G11/04">
+        <TreeNode Title="C10G11/05 ###晶状硅铝酸盐，如分子筛[3]" Target="frmContent" Href="../searchservlet?query=C10G11/05&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G11/05"/>
+      </TreeNode>
+      <TreeNode Title="C10G11/06 ##硫化物" Target="frmContent" Href="../searchservlet?query=C10G11/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G11/06"/>
+      <TreeNode Title="C10G11/08 ##卤化物" Target="frmContent" Href="../searchservlet?query=C10G11/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G11/08"/>
+    </TreeNode>
+    <TreeNode Title="C10G11/10 #用固定催化剂床" Target="frmContent" Href="../searchservlet?query=C10G11/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G11/10"/>
+    <TreeNode Title="C10G11/12 #用不连续预热的不移动的固态催化剂，如送风和运行" Target="frmContent" Href="../searchservlet?query=C10G11/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G11/12"/>
+    <TreeNode Title="C10G11/14 #用经预热的移动的固态催化剂" Target="frmContent" Href="../searchservlet?query=C10G11/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G11/14">
+      <TreeNode Title="C10G11/16 ##按“移动床”技术的" Target="frmContent" Href="../searchservlet?query=C10G11/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G11/16"/>
+      <TreeNode Title="C10G11/18 ##按“流化床”技术的" Target="frmContent" Href="../searchservlet?query=C10G11/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G11/18"/>
+    </TreeNode>
+    <TreeNode Title="C10G11/20 #与惰性加热气体或蒸汽直接接触" Target="frmContent" Href="../searchservlet?query=C10G11/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G11/20">
+      <TreeNode Title="C10G11/22 ##由待裂化的物料的部分燃烧产生" Target="frmContent" Href="../searchservlet?query=C10G11/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G11/22"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="C10G15/00 用电方法、电磁或机械振动、用粒子辐射或用在电弧中过热的气体进行烃油的裂化" Target="frmContent" Href="../searchservlet?query=C10G15/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G15/00">
+    <TreeNode Title="C10G15/08 #用电或电磁或机械振动的方法[3]" Target="frmContent" Href="../searchservlet?query=C10G15/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G15/08"/>
+    <TreeNode Title="C10G15/10 #用粒子辐射[3]" Target="frmContent" Href="../searchservlet?query=C10G15/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G15/10"/>
+    <TreeNode Title="C10G15/12 #用在电弧中过热的气体，如等离子体[3]" Target="frmContent" Href="../searchservlet?query=C10G15/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G15/12"/>
+  </TreeNode>
+  <TreeNode Title="C10G17/00 在不存在氢的情况下，用酸、酸式化合物或含酸液体(如酸渣)精制烃油" Target="frmContent" Href="../searchservlet?query=C10G17/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G17/00">
+    <TreeNode Title="C10G17/02 #用酸或含酸液体，如酸渣" Target="frmContent" Href="../searchservlet?query=C10G17/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G17/02">
+      <TreeNode Title="C10G17/04 ##形成不相混的两相的液-液处理" Target="frmContent" Href="../searchservlet?query=C10G17/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G17/04">
+        <TreeNode Title="C10G17/06 ###使用硫的衍生酸或它的酸渣" Target="frmContent" Href="../searchservlet?query=C10G17/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G17/06"/>
+        <TreeNode Title="C10G17/07 ###使用氢卤酸或卤的含氧酸(生成卤素的酸入C10G 27/02)[3]" Target="frmContent" Href="../searchservlet?query=C10G17/07&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G17/07"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="C10G17/08 #用成酸氧化物(用CO2或SO2作为选择性溶剂的精制入C10G 21/06)" Target="frmContent" Href="../searchservlet?query=C10G17/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G17/08">
+      <TreeNode Title="C10G17/085 ##用发烟硫酸[3]" Target="frmContent" Href="../searchservlet?query=C10G17/085&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G17/085"/>
+    </TreeNode>
+    <TreeNode Title="C10G17/09 #用酸式盐[3]" Target="frmContent" Href="../searchservlet?query=C10G17/09&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G17/09"/>
+    <TreeNode Title="C10G17/095 #用“固体酸”，如沉积迂载体上的磷酸[3]" Target="frmContent" Href="../searchservlet?query=C10G17/095&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G17/095"/>
+    <TreeNode Title="C10G17/10 #回收用过的精制剂" Target="frmContent" Href="../searchservlet?query=C10G17/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G17/10"/>
+  </TreeNode>
+  <TreeNode Title="C10G19/00 在不存在氢的情况下，用碱处理精制烃油" Target="frmContent" Href="../searchservlet?query=C10G19/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G19/00">
+    <TreeNode Title="C10G19/02 #用碱性水熔液" Target="frmContent" Href="../searchservlet?query=C10G19/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G19/02">
+      <TreeNode Title="C10G19/04 ##含增溶剂，如溶解加速剂" Target="frmContent" Href="../searchservlet?query=C10G19/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G19/04"/>
+      <TreeNode Title="C10G19/06 ##用铅酸盐或高铅酸盐" Target="frmContent" Href="../searchservlet?query=C10G19/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G19/06"/>
+    </TreeNode>
+    <TreeNode Title="C10G19/067 #用熔化的碱性物料[3]" Target="frmContent" Href="../searchservlet?query=C10G19/067&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G19/067"/>
+    <TreeNode Title="C10G19/073 #用固态碱性物料[3]" Target="frmContent" Href="../searchservlet?query=C10G19/073&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G19/073"/>
+    <TreeNode Title="C10G19/08 #回收用过的精制剂" Target="frmContent" Href="../searchservlet?query=C10G19/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G19/08"/>
+  </TreeNode>
+  <TreeNode Title="C10G21/00 在不存在氢的情况下，用选择性的溶剂萃取精制烃油(C10G 17/00，C10G 19/00优先)" Target="frmContent" Href="../searchservlet?query=C10G21/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G21/00">
+    <TreeNode Title="C10G21/02 #用两种或两种以上溶剂分别地加入或排出的" Target="frmContent" Href="../searchservlet?query=C10G21/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G21/02">
+      <TreeNode Title="C10G21/04 ##以彼此逆流的方式同时加入至少两种不相溶混的溶剂" Target="frmContent" Href="../searchservlet?query=C10G21/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G21/04"/>
+    </TreeNode>
+    <TreeNode Title="C10G21/06 #以所用的溶剂为特征的" Target="frmContent" Href="../searchservlet?query=C10G21/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G21/06">
+      <TreeNode Title="C10G21/08 ##仅用无机化合物" Target="frmContent" Href="../searchservlet?query=C10G21/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G21/08">
+        <TreeNode Title="C10G21/10 ###二氧化硫" Target="frmContent" Href="../searchservlet?query=C10G21/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G21/10"/>
+      </TreeNode>
+      <TreeNode Title="C10G21/12 ##仅用有机化合物" Target="frmContent" Href="../searchservlet?query=C10G21/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G21/12">
+        <TreeNode Title="C10G21/14 ###烃类" Target="frmContent" Href="../searchservlet?query=C10G21/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G21/14"/>
+        <TreeNode Title="C10G21/16 ###含氧化合物" Target="frmContent" Href="../searchservlet?query=C10G21/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G21/16"/>
+        <TreeNode Title="C10G21/18 ###含卤化合物" Target="frmContent" Href="../searchservlet?query=C10G21/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G21/18"/>
+        <TreeNode Title="C10G21/20 ###含氮化合物" Target="frmContent" Href="../searchservlet?query=C10G21/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G21/20"/>
+        <TreeNode Title="C10G21/22 ###含硫、硒或碲的化合物" Target="frmContent" Href="../searchservlet?query=C10G21/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G21/22"/>
+        <TreeNode Title="C10G21/24 ###含磷化合物" Target="frmContent" Href="../searchservlet?query=C10G21/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G21/24"/>
+        <TreeNode Title="C10G21/26 ###含硅化合物" Target="frmContent" Href="../searchservlet?query=C10G21/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G21/26"/>
+        <TreeNode Title="C10G21/27 ###不包含在C10G 21/14至C10G 21/26中的单一组中的有机化合物[3]" Target="frmContent" Href="../searchservlet?query=C10G21/27&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G21/27"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="C10G21/28 #回收用过的溶剂[3]" Target="frmContent" Href="../searchservlet?query=C10G21/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G21/28"/>
+    <TreeNode Title="C10G21/30 #控制或调节[3]" Target="frmContent" Href="../searchservlet?query=C10G21/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G21/30"/>
+  </TreeNode>
+  <TreeNode Title="C10G25/00 在不存在氢的情况下，用固体吸附剂精制烃油" Target="frmContent" Href="../searchservlet?query=C10G25/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G25/00">
+    <TreeNode Title="C10G25/02 #用离子交换材料" Target="frmContent" Href="../searchservlet?query=C10G25/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G25/02">
+      <TreeNode Title="C10G25/03 ##用晶状硅铝酸盐，如分子筛[3]" Target="frmContent" Href="../searchservlet?query=C10G25/03&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G25/03">
+        <TreeNode Title="C10G25/05 ###去除非烃类化合物，如硫化物[3]" Target="frmContent" Href="../searchservlet?query=C10G25/05&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G25/05"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="C10G25/06 #用移动的吸附剂或分散在油中的吸附剂" Target="frmContent" Href="../searchservlet?query=C10G25/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G25/06">
+      <TreeNode Title="C10G25/08 ##按“移动床”技术的" Target="frmContent" Href="../searchservlet?query=C10G25/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G25/08"/>
+      <TreeNode Title="C10G25/09 ##按“流化床”技术的[3]" Target="frmContent" Href="../searchservlet?query=C10G25/09&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G25/09"/>
+      <TreeNode Title="C10G25/11 ##在有移动的吸附剂情况下的蒸馏[3]" Target="frmContent" Href="../searchservlet?query=C10G25/11&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G25/11"/>
+    </TreeNode>
+    <TreeNode Title="C10G25/12 #回收用过的吸附剂" Target="frmContent" Href="../searchservlet?query=C10G25/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G25/12"/>
+  </TreeNode>
+  <TreeNode Title="C10G27/00 在不存在氢的情况下，用氧化法精制烃油" Target="frmContent" Href="../searchservlet?query=C10G27/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G27/00">
+    <TreeNode Title="C10G27/02 #用卤素或产生卤素的化合物；次氯酸或它的盐" Target="frmContent" Href="../searchservlet?query=C10G27/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G27/02"/>
+    <TreeNode Title="C10G27/04 #用氧或产生氧的化合物" Target="frmContent" Href="../searchservlet?query=C10G27/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G27/04">
+      <TreeNode Title="C10G27/06 ##在碱溶液的存在下" Target="frmContent" Href="../searchservlet?query=C10G27/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G27/06"/>
+      <TreeNode Title="C10G27/08 ##在氯化铜的存在下" Target="frmContent" Href="../searchservlet?query=C10G27/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G27/08"/>
+      <TreeNode Title="C10G27/10 ##在存在金属有机配合物情况下，如螯合物或阳离子交换树脂[3]" Target="frmContent" Href="../searchservlet?query=C10G27/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G27/10"/>
+      <TreeNode Title="C10G27/12 ##用产生氧的化合物，如过化合物、铬酸、铬酸盐(铅酸盐或高铅酸盐入C10G 19/06)[3]" Target="frmContent" Href="../searchservlet?query=C10G27/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G27/12"/>
+      <TreeNode Title="C10G27/14 ##用含臭氧的气体[3]" Target="frmContent" Href="../searchservlet?query=C10G27/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G27/14"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="C10G29/00 在不存在氢的情况下，用其他化学品精制烃油" Target="frmContent" Href="../searchservlet?query=C10G29/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G29/00">
+    <TreeNode Title="C10G29/02 #非金属" Target="frmContent" Href="../searchservlet?query=C10G29/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G29/02"/>
+    <TreeNode Title="C10G29/04 #金属或沉积在载体上的金属" Target="frmContent" Href="../searchservlet?query=C10G29/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G29/04"/>
+    <TreeNode Title="C10G29/06 #金属盐或沉积在载体上的金属盐" Target="frmContent" Href="../searchservlet?query=C10G29/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G29/06">
+      <TreeNode Title="C10G29/08 ##含低价金属的" Target="frmContent" Href="../searchservlet?query=C10G29/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G29/08"/>
+      <TreeNode Title="C10G29/10 ##硫化物" Target="frmContent" Href="../searchservlet?query=C10G29/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G29/10"/>
+      <TreeNode Title="C10G29/12 ##卤化物[3]" Target="frmContent" Href="../searchservlet?query=C10G29/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G29/12"/>
+    </TreeNode>
+    <TreeNode Title="C10G29/16 #金属氧化物" Target="frmContent" Href="../searchservlet?query=C10G29/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G29/16"/>
+    <TreeNode Title="C10G29/20 #不含金属原子的有机化合物" Target="frmContent" Href="../searchservlet?query=C10G29/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G29/20">
+      <TreeNode Title="C10G29/22 ##含有氧作为仅有的杂原子的" Target="frmContent" Href="../searchservlet?query=C10G29/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G29/22">
+        <TreeNode Title="C10G29/24 ###醛或酮" Target="frmContent" Href="../searchservlet?query=C10G29/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G29/24"/>
+      </TreeNode>
+      <TreeNode Title="C10G29/26 ##卤化烃" Target="frmContent" Href="../searchservlet?query=C10G29/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G29/26"/>
+      <TreeNode Title="C10G29/28 ##含有硫作为仅有的杂原子的，如硫醇，或硫和氧作为仅有的杂原子" Target="frmContent" Href="../searchservlet?query=C10G29/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G29/28"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="C10G31/00 在不存在氢的情况下，用其他未提及的方法精制烃油(用蒸馏法入C10G 7/00)[2]" Target="frmContent" Href="../searchservlet?query=C10G31/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G31/00">
+    <TreeNode Title="C10G31/06 #用加热、冷却或加压处理" Target="frmContent" Href="../searchservlet?query=C10G31/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G31/06"/>
+    <TreeNode Title="C10G31/08 #用水处理" Target="frmContent" Href="../searchservlet?query=C10G31/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G31/08"/>
+    <TreeNode Title="C10G31/09 #用过滤法[3]" Target="frmContent" Href="../searchservlet?query=C10G31/09&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G31/09"/>
+    <TreeNode Title="C10G31/10 #借助离心力" Target="frmContent" Href="../searchservlet?query=C10G31/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G31/10"/>
+    <TreeNode Title="C10G31/11 #用渗析法[3]" Target="frmContent" Href="../searchservlet?query=C10G31/11&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G31/11"/>
+  </TreeNode>
+  <TreeNode Title="C10G32/00 用电法或磁法、辐射法或微生物的方法精制烃油[3]" Target="frmContent" Href="../searchservlet?query=C10G32/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G32/00">
+    <TreeNode Title="C10G32/02 #用电或磁的方法[3]" Target="frmContent" Href="../searchservlet?query=C10G32/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G32/02"/>
+    <TreeNode Title="C10G32/04 #用粒子辐射法[3]" Target="frmContent" Href="../searchservlet?query=C10G32/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G32/04"/>
+  </TreeNode>
+  <TreeNode Title="C10G33/00 烃油的脱水或破乳化(蒸馏法入C10G 7/04)" Target="frmContent" Href="../searchservlet?query=C10G33/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G33/00">
+    <TreeNode Title="C10G33/02 #用电或磁的方法" Target="frmContent" Href="../searchservlet?query=C10G33/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G33/02"/>
+    <TreeNode Title="C10G33/04 #用化学方法" Target="frmContent" Href="../searchservlet?query=C10G33/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G33/04"/>
+    <TreeNode Title="C10G33/06 #用机械方法，如过滤" Target="frmContent" Href="../searchservlet?query=C10G33/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G33/06"/>
+    <TreeNode Title="C10G33/08 #控制或调节[3]" Target="frmContent" Href="../searchservlet?query=C10G33/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G33/08"/>
+  </TreeNode>
+  <TreeNode Title="C10G35/00 石脑油的重整" Target="frmContent" Href="../searchservlet?query=C10G35/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G35/00">
+    <TreeNode Title="C10G35/02 #热重整" Target="frmContent" Href="../searchservlet?query=C10G35/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G35/02"/>
+    <TreeNode Title="C10G35/04 #催化重整" Target="frmContent" Href="../searchservlet?query=C10G35/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G35/04">
+      <TreeNode Title="C10G35/06 ##以所用催化剂为特征的" Target="frmContent" Href="../searchservlet?query=C10G35/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G35/06">
+        <TreeNode Title="C10G35/085 ###含有铂族金属或其化合物[3]" Target="frmContent" Href="../searchservlet?query=C10G35/085&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G35/085">
+          <TreeNode Title="C10G35/09 ####至少有一金属为铂族的双金属催化剂[3]" Target="frmContent" Href="../searchservlet?query=C10G35/09&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G35/09"/>
+        </TreeNode>
+        <TreeNode Title="C10G35/095 ###含晶状硅铝酸盐，如分子筛[3]" Target="frmContent" Href="../searchservlet?query=C10G35/095&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G35/095"/>
+      </TreeNode>
+      <TreeNode Title="C10G35/10 ##用移动的催化剂" Target="frmContent" Href="../searchservlet?query=C10G35/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G35/10">
+        <TreeNode Title="C10G35/12 ###按“移动床”技术的" Target="frmContent" Href="../searchservlet?query=C10G35/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G35/12"/>
+        <TreeNode Title="C10G35/14 ###按“流化床”技术的" Target="frmContent" Href="../searchservlet?query=C10G35/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G35/14"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="C10G35/16 #用电、电磁或机械振动；用粒子辐射" Target="frmContent" Href="../searchservlet?query=C10G35/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G35/16"/>
+    <TreeNode Title="C10G35/22 #重整操作的开车[3]" Target="frmContent" Href="../searchservlet?query=C10G35/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G35/22"/>
+    <TreeNode Title="C10G35/24 #重整操作的控制或调节[3]" Target="frmContent" Href="../searchservlet?query=C10G35/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G35/24"/>
+  </TreeNode>
+  <TreeNode Title="C10G45/00 用氢或生成氢的化合物精制烃油[3]" Target="frmContent" Href="../searchservlet?query=C10G45/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G45/00">
+    <TreeNode Title="C10G45/02 #去除杂原子，而无须改变有关烃的骨架和裂解成低沸点的烃；加氢精制[3]" Target="frmContent" Href="../searchservlet?query=C10G45/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G45/02">
+      <TreeNode Title="C10G45/04 ##以所用的催化剂为特征的[3]" Target="frmContent" Href="../searchservlet?query=C10G45/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G45/04">
+        <TreeNode Title="C10G45/06 ###含镍或钴金属，或其化合物的[3]" Target="frmContent" Href="../searchservlet?query=C10G45/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G45/06">
+          <TreeNode Title="C10G45/08 ####与铬、钼或钨金属或其化合物相结合[3]" Target="frmContent" Href="../searchservlet?query=C10G45/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G45/08"/>
+        </TreeNode>
+        <TreeNode Title="C10G45/10 ###含铂族金属或其化合物的[3]" Target="frmContent" Href="../searchservlet?query=C10G45/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G45/10"/>
+        <TreeNode Title="C10G45/12 ###含晶状硅铝酸盐的，如分子筛[3]" Target="frmContent" Href="../searchservlet?query=C10G45/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G45/12"/>
+      </TreeNode>
+      <TreeNode Title="C10G45/14 ##用移动的固体粒子[3]" Target="frmContent" Href="../searchservlet?query=C10G45/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G45/14">
+        <TreeNode Title="C10G45/16 ###悬浮在油中的，如浆液[3]" Target="frmContent" Href="../searchservlet?query=C10G45/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G45/16"/>
+        <TreeNode Title="C10G45/18 ###按“移动床”技术的[3]" Target="frmContent" Href="../searchservlet?query=C10G45/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G45/18"/>
+        <TreeNode Title="C10G45/20 ###按“流化床”技术的[3]" Target="frmContent" Href="../searchservlet?query=C10G45/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G45/20"/>
+      </TreeNode>
+      <TreeNode Title="C10G45/22 ##用溶解或悬浮于油中的氢[3]" Target="frmContent" Href="../searchservlet?query=C10G45/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G45/22"/>
+      <TreeNode Title="C10G45/24 ##用生成氢的化合物[3]" Target="frmContent" Href="../searchservlet?query=C10G45/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G45/24">
+        <TreeNode Title="C10G45/26 ###水蒸气或水[3]" Target="frmContent" Href="../searchservlet?query=C10G45/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G45/26"/>
+        <TreeNode Title="C10G45/28 ###有机化合物；自氢精制[3]" Target="frmContent" Href="../searchservlet?query=C10G45/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G45/28">
+          <TreeNode Title="C10G45/30 ####以所用的催化剂为特征的[3]" Target="frmContent" Href="../searchservlet?query=C10G45/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G45/30"/>
+        </TreeNode>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="C10G45/32 #二烯或炔烃化合物的选择性加氢[3]" Target="frmContent" Href="../searchservlet?query=C10G45/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G45/32">
+      <TreeNode Title="C10G45/34 ##以所用的催化剂为特征的[3]" Target="frmContent" Href="../searchservlet?query=C10G45/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G45/34">
+        <TreeNode Title="C10G45/36 ###含镍或钴金属，或其化合物的[3]" Target="frmContent" Href="../searchservlet?query=C10G45/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G45/36">
+          <TreeNode Title="C10G45/38 ####与铬、钼或钨金属或与其化合物相结合[3]" Target="frmContent" Href="../searchservlet?query=C10G45/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G45/38"/>
+        </TreeNode>
+        <TreeNode Title="C10G45/40 ###含铂族金属或其化合物[3]" Target="frmContent" Href="../searchservlet?query=C10G45/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G45/40"/>
+      </TreeNode>
+      <TreeNode Title="C10G45/42 ##用移动的固体粒子[3]" Target="frmContent" Href="../searchservlet?query=C10G45/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G45/42"/>
+    </TreeNode>
+    <TreeNode Title="C10G45/44 #芳烃的加氢[3]" Target="frmContent" Href="../searchservlet?query=C10G45/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G45/44">
+      <TreeNode Title="C10G45/46 ##以所用的催化剂为特征的[3]" Target="frmContent" Href="../searchservlet?query=C10G45/46&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G45/46">
+        <TreeNode Title="C10G45/48 ###含镍或钴金属或其化合物[3]" Target="frmContent" Href="../searchservlet?query=C10G45/48&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G45/48">
+          <TreeNode Title="C10G45/50 ####与铬、钼或钨金属结合或与其化合物结合[3]" Target="frmContent" Href="../searchservlet?query=C10G45/50&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G45/50"/>
+        </TreeNode>
+        <TreeNode Title="C10G45/52 ###含铂族金属或其化合物的[3]" Target="frmContent" Href="../searchservlet?query=C10G45/52&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G45/52"/>
+        <TreeNode Title="C10G45/54 ###含晶状的硅铝酸盐的，如分子筛[3]" Target="frmContent" Href="../searchservlet?query=C10G45/54&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G45/54"/>
+      </TreeNode>
+      <TreeNode Title="C10G45/56 ##用移动固体粒子[3]" Target="frmContent" Href="../searchservlet?query=C10G45/56&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G45/56"/>
+    </TreeNode>
+    <TreeNode Title="C10G45/58 #改变某些所含烃的结构骨架，而不使另一部分所存的烃裂解，如降低倾点；正构烷烃的选择性加氢裂化(C10G 32/00优先；改进或增加石脑油的辛烷值或芳烃含量入C10G 35/00)[3]" Target="frmContent" Href="../searchservlet?query=C10G45/58&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G45/58">
+      <TreeNode Title="C10G45/60 ##以所用的催化剂为特征的[3]" Target="frmContent" Href="../searchservlet?query=C10G45/60&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G45/60">
+        <TreeNode Title="C10G45/62 ###含铂族金属或其化合物[3]" Target="frmContent" Href="../searchservlet?query=C10G45/62&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G45/62"/>
+        <TreeNode Title="C10G45/64 ###含结晶的硅铝酸的，如分子筛[3]" Target="frmContent" Href="../searchservlet?query=C10G45/64&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G45/64"/>
+      </TreeNode>
+      <TreeNode Title="C10G45/66 ##用移动固体粒子[3]" Target="frmContent" Href="../searchservlet?query=C10G45/66&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G45/66"/>
+      <TreeNode Title="C10G45/68 ##烃油馏分的芳构化[3]" Target="frmContent" Href="../searchservlet?query=C10G45/68&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G45/68">
+        <TreeNode Title="C10G45/70 ###用含铂族金属或其化合物的催化剂[3]" Target="frmContent" Href="../searchservlet?query=C10G45/70&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G45/70"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="C10G45/72 #控制或调节[3]" Target="frmContent" Href="../searchservlet?query=C10G45/72&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G45/72"/>
+  </TreeNode>
+  <TreeNode Title="C10G47/00 在存在氢或存在生成氢的化合物的情况下，为获得低沸点馏分的烃油裂解(C10G 15/00优先；非熔的含碳固态物质或类似物的破坏性氢化入C10G 1/06)[3]" Target="frmContent" Href="../searchservlet?query=C10G47/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G47/00">
+    <TreeNode Title="C10G47/02 #以所用的催化剂为特征[3]" Target="frmContent" Href="../searchservlet?query=C10G47/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G47/02">
+      <TreeNode Title="C10G47/04 ##氧化物[3]" Target="frmContent" Href="../searchservlet?query=C10G47/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G47/04"/>
+      <TreeNode Title="C10G47/06 ##硫化物[3]" Target="frmContent" Href="../searchservlet?query=C10G47/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G47/06"/>
+      <TreeNode Title="C10G47/08 ##卤化物[3]" Target="frmContent" Href="../searchservlet?query=C10G47/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G47/08"/>
+      <TreeNode Title="C10G47/10 ##用沉积在载体上的催化剂[3]" Target="frmContent" Href="../searchservlet?query=C10G47/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G47/10">
+        <TreeNode Title="C10G47/12 ###无机载体[3]" Target="frmContent" Href="../searchservlet?query=C10G47/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G47/12">
+          <TreeNode Title="C10G47/14 ####含铂族金属或其化合物的催化剂[3]" Target="frmContent" Href="../searchservlet?query=C10G47/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G47/14"/>
+          <TreeNode Title="C10G47/16 ####结晶硅铝酸盐载体[3]" Target="frmContent" Href="../searchservlet?query=C10G47/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G47/16">
+            <TreeNode Title="C10G47/18 #####含铂族金属或其化合物的催化剂[3]" Target="frmContent" Href="../searchservlet?query=C10G47/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G47/18"/>
+            <TreeNode Title="C10G47/20 #####含其他金属或其化合物的催化剂[3]" Target="frmContent" Href="../searchservlet?query=C10G47/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G47/20"/>
+          </TreeNode>
+        </TreeNode>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="C10G47/22 #在存在氢的情况下非催化裂解[3]" Target="frmContent" Href="../searchservlet?query=C10G47/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G47/22"/>
+    <TreeNode Title="C10G47/24 #用移动固体粒子[3]" Target="frmContent" Href="../searchservlet?query=C10G47/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G47/24">
+      <TreeNode Title="C10G47/26 ##悬浮在油中的，如浆液[3]" Target="frmContent" Href="../searchservlet?query=C10G47/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G47/26"/>
+      <TreeNode Title="C10G47/28 ##按“移动床”技术的[3]" Target="frmContent" Href="../searchservlet?query=C10G47/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G47/28"/>
+      <TreeNode Title="C10G47/30 ##按“流化床”技术的[3]" Target="frmContent" Href="../searchservlet?query=C10G47/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G47/30"/>
+    </TreeNode>
+    <TreeNode Title="C10G47/32 #在存在产生氢的化合物的情况下[3]" Target="frmContent" Href="../searchservlet?query=C10G47/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G47/32">
+      <TreeNode Title="C10G47/34 ##有机化合物，如经氢化的烃类[3]" Target="frmContent" Href="../searchservlet?query=C10G47/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G47/34"/>
+    </TreeNode>
+    <TreeNode Title="C10G47/36 #控制或调节[3]" Target="frmContent" Href="../searchservlet?query=C10G47/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G47/36"/>
+  </TreeNode>
+  <TreeNode Title="C10G49/00 在存在氢或产生氢的化合物的情况下，在C10G 45/02，C10G 45/32，C10G 45/44，C10G 45/58或C10G 47/00单一组中不包含的烃油的处理[3]" Target="frmContent" Href="../searchservlet?query=C10G49/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G49/00">
+    <TreeNode Title="C10G49/02 #以所用的催化剂为特征的[3]" Target="frmContent" Href="../searchservlet?query=C10G49/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G49/02">
+      <TreeNode Title="C10G49/04 ##含镍、钴、铬、钼或钨金属，或其化合物的[3]" Target="frmContent" Href="../searchservlet?query=C10G49/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G49/04"/>
+      <TreeNode Title="C10G49/06 ##含铂族金属或其化合物[3]" Target="frmContent" Href="../searchservlet?query=C10G49/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G49/06"/>
+      <TreeNode Title="C10G49/08 ##含结晶硅铝酸盐的，如分子筛[3]" Target="frmContent" Href="../searchservlet?query=C10G49/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G49/08"/>
+    </TreeNode>
+    <TreeNode Title="C10G49/10 #用移动固体粒子[3]" Target="frmContent" Href="../searchservlet?query=C10G49/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G49/10">
+      <TreeNode Title="C10G49/12 ##悬浮在油中的，如浆液[3]" Target="frmContent" Href="../searchservlet?query=C10G49/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G49/12"/>
+      <TreeNode Title="C10G49/14 ##按“移动床”技术的[3]" Target="frmContent" Href="../searchservlet?query=C10G49/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G49/14"/>
+      <TreeNode Title="C10G49/16 ##按“流化床”技术的[3]" Target="frmContent" Href="../searchservlet?query=C10G49/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G49/16"/>
+    </TreeNode>
+    <TreeNode Title="C10G49/18 #在产生氢的化合物的存在下，如氨、水、硫化氢[3]" Target="frmContent" Href="../searchservlet?query=C10G49/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G49/18">
+      <TreeNode Title="C10G49/20 ##有机化合物[3]" Target="frmContent" Href="../searchservlet?query=C10G49/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G49/20"/>
+    </TreeNode>
+    <TreeNode Title="C10G49/22 #流出物的分离[3]" Target="frmContent" Href="../searchservlet?query=C10G49/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G49/22"/>
+    <TreeNode Title="C10G49/24 #加氢处理操作的开车[3]" Target="frmContent" Href="../searchservlet?query=C10G49/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G49/24"/>
+    <TreeNode Title="C10G49/26 #控制与调节[3]" Target="frmContent" Href="../searchservlet?query=C10G49/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G49/26"/>
+  </TreeNode>
+  <TreeNode Title="C10G50/00 从低碳烃制备液态烃混合物，如通过低聚反应[6]" Target="frmContent" Href="../searchservlet?query=C10G50/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G50/00">
+    <TreeNode Title="C10G50/02 #用于润滑目的的烃油[6]" Target="frmContent" Href="../searchservlet?query=C10G50/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G50/02"/>
+  </TreeNode>
+  <TreeNode Title="C10G51/00 在不存在氢的情况下，仅用两步或多步裂解工艺过程处理烃油[3]" Target="frmContent" Href="../searchservlet?query=C10G51/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G51/00">
+    <TreeNode Title="C10G51/02 #仅多级串联的[3]" Target="frmContent" Href="../searchservlet?query=C10G51/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G51/02">
+      <TreeNode Title="C10G51/04 ##仅包括热裂解和催化裂化步骤的[3]" Target="frmContent" Href="../searchservlet?query=C10G51/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G51/04"/>
+    </TreeNode>
+    <TreeNode Title="C10G51/06 #仅多级并联的[3]" Target="frmContent" Href="../searchservlet?query=C10G51/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G51/06"/>
+  </TreeNode>
+  <TreeNode Title="C10G53/00 在不存在氢的情况下，用两步或多步精制工艺过程处理烃油[3]" Target="frmContent" Href="../searchservlet?query=C10G53/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G53/00">
+    <TreeNode Title="C10G53/02 #仅多级串联的[3]" Target="frmContent" Href="../searchservlet?query=C10G53/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G53/02">
+      <TreeNode Title="C10G53/04 ##至少包括1个萃取工艺步骤的[3]" Target="frmContent" Href="../searchservlet?query=C10G53/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G53/04">
+        <TreeNode Title="C10G53/06 ###仅包括萃取步骤的，如芳烃抽提后接溶剂脱沥青的处理[3]" Target="frmContent" Href="../searchservlet?query=C10G53/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G53/06"/>
+      </TreeNode>
+      <TreeNode Title="C10G53/08 ##至少包括1个吸附步骤的[3]" Target="frmContent" Href="../searchservlet?query=C10G53/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G53/08"/>
+      <TreeNode Title="C10G53/10 ##至少包括1个酸处理步骤的[3]" Target="frmContent" Href="../searchservlet?query=C10G53/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G53/10"/>
+      <TreeNode Title="C10G53/12 ##至少包括1个碱处理步骤的[3]" Target="frmContent" Href="../searchservlet?query=C10G53/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G53/12"/>
+      <TreeNode Title="C10G53/14 ##至少包括1个氧化步骤的[3]" Target="frmContent" Href="../searchservlet?query=C10G53/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G53/14"/>
+    </TreeNode>
+    <TreeNode Title="C10G53/16 #仅多级并联工艺过程的[3]" Target="frmContent" Href="../searchservlet?query=C10G53/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G53/16"/>
+  </TreeNode>
+  <TreeNode Title="C10G55/00 在不存在氢的情况下，用至少1个精制过程和至少1个裂解过程处理烃油[3]" Target="frmContent" Href="../searchservlet?query=C10G55/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G55/00">
+    <TreeNode Title="C10G55/02 #仅多级串联工艺过程的[3]" Target="frmContent" Href="../searchservlet?query=C10G55/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G55/02">
+      <TreeNode Title="C10G55/04 ##至少包括1个热裂解步骤的[3]" Target="frmContent" Href="../searchservlet?query=C10G55/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G55/04"/>
+      <TreeNode Title="C10G55/06 ##至少包括1个催化裂化步骤的[3]" Target="frmContent" Href="../searchservlet?query=C10G55/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G55/06"/>
+    </TreeNode>
+    <TreeNode Title="C10G55/08 #仅多级并联工艺过程的[3]" Target="frmContent" Href="../searchservlet?query=C10G55/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G55/08"/>
+  </TreeNode>
+  <TreeNode Title="C10G57/00 在不存在氢的情况下，用至少1个裂解工艺过程或精制工艺过程和至少1个其他转化过程处理烃油[3]" Target="frmContent" Href="../searchservlet?query=C10G57/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G57/00">
+    <TreeNode Title="C10G57/02 #用聚合反应[3]" Target="frmContent" Href="../searchservlet?query=C10G57/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G57/02"/>
+  </TreeNode>
+  <TreeNode Title="C10G59/00 仅用两个或多个重整工艺过程或用至少1个重整工艺过程和至少1个实质上不改变石脑油沸程的工艺过程处理石脑油[3]" Target="frmContent" Href="../searchservlet?query=C10G59/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G59/00">
+    <TreeNode Title="C10G59/02 #仅多级串联的[3]" Target="frmContent" Href="../searchservlet?query=C10G59/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G59/02">
+      <TreeNode Title="C10G59/04 ##至少包括1个催化重整和至少1个非催化重整步骤的[3]" Target="frmContent" Href="../searchservlet?query=C10G59/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G59/04"/>
+    </TreeNode>
+    <TreeNode Title="C10G59/06 #仅多级并联的[3]" Target="frmContent" Href="../searchservlet?query=C10G59/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G59/06"/>
+  </TreeNode>
+  <TreeNode Title="C10G61/00 用至少1个重整工艺过程和至少1个在不存在氢的情况下的精制工艺过程处理石脑油[3]" Target="frmContent" Href="../searchservlet?query=C10G61/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G61/00">
+    <TreeNode Title="C10G61/02 #仅多级串联的[3]" Target="frmContent" Href="../searchservlet?query=C10G61/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G61/02">
+      <TreeNode Title="C10G61/04 ##精制步骤为萃取[3]" Target="frmContent" Href="../searchservlet?query=C10G61/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G61/04"/>
+      <TreeNode Title="C10G61/06 ##精制步骤为吸附[3]" Target="frmContent" Href="../searchservlet?query=C10G61/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G61/06"/>
+    </TreeNode>
+    <TreeNode Title="C10G61/08 #仅多级并联的[3]" Target="frmContent" Href="../searchservlet?query=C10G61/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G61/08"/>
+    <TreeNode Title="C10G61/10 #还包括其他转化步骤的工艺过程[3]" Target="frmContent" Href="../searchservlet?query=C10G61/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G61/10"/>
+  </TreeNode>
+  <TreeNode Title="C10G63/00 至少用1个重整工艺过程和至少1个其他转化步骤的工艺过程处理石脑油(C10G 59/00、C10G 61/00优先)[3]" Target="frmContent" Href="../searchservlet?query=C10G63/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G63/00">
+    <TreeNode Title="C10G63/02 #仅多级串联的[3]" Target="frmContent" Href="../searchservlet?query=C10G63/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G63/02">
+      <TreeNode Title="C10G63/04 ##至少包括1个裂解步骤[3]" Target="frmContent" Href="../searchservlet?query=C10G63/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G63/04"/>
+    </TreeNode>
+    <TreeNode Title="C10G63/06 #仅多级并联的[3]" Target="frmContent" Href="../searchservlet?query=C10G63/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G63/06">
+      <TreeNode Title="C10G63/08 ##至少包括1个裂解步骤[3]" Target="frmContent" Href="../searchservlet?query=C10G63/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G63/08"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="C10G65/00 仅用两个或多个加氢处理工艺过程处理烃油[3]" Target="frmContent" Href="../searchservlet?query=C10G65/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G65/00">
+    <TreeNode Title="C10G65/02 #仅多步串联的[3]" Target="frmContent" Href="../searchservlet?query=C10G65/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G65/02">
+      <TreeNode Title="C10G65/04 ##仅包括精制步骤的[3]" Target="frmContent" Href="../searchservlet?query=C10G65/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G65/04">
+        <TreeNode Title="C10G65/06 ###至少有1个步骤是二烯烃选择性加氢[3]" Target="frmContent" Href="../searchservlet?query=C10G65/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G65/06"/>
+        <TreeNode Title="C10G65/08 ###至少有1个步骤是芳烃加氢[3]" Target="frmContent" Href="../searchservlet?query=C10G65/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G65/08"/>
+      </TreeNode>
+      <TreeNode Title="C10G65/10 ##仅包括裂解步骤的[3]" Target="frmContent" Href="../searchservlet?query=C10G65/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G65/10"/>
+      <TreeNode Title="C10G65/12 ##包括裂解步骤和其他加氢处理步骤的[3]" Target="frmContent" Href="../searchservlet?query=C10G65/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G65/12"/>
+    </TreeNode>
+    <TreeNode Title="C10G65/14 #仅多级并联的[3]" Target="frmContent" Href="../searchservlet?query=C10G65/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G65/14">
+      <TreeNode Title="C10G65/16 ##仅包括精制步骤[3]" Target="frmContent" Href="../searchservlet?query=C10G65/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G65/16"/>
+      <TreeNode Title="C10G65/18 ##仅包括裂解步骤[3]" Target="frmContent" Href="../searchservlet?query=C10G65/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G65/18"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="C10G67/00 用至少1个加氢处理工艺过程和至少1个仅在不存在氢的情况下的精制过程处理烃油[3]" Target="frmContent" Href="../searchservlet?query=C10G67/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G67/00">
+    <TreeNode Title="C10G67/02 #仅多级串联的[3]" Target="frmContent" Href="../searchservlet?query=C10G67/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G67/02">
+      <TreeNode Title="C10G67/04 ##在不存在氢的情况下，包括有一溶剂萃取作为精制步骤的[3]" Target="frmContent" Href="../searchservlet?query=C10G67/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G67/04"/>
+      <TreeNode Title="C10G67/06 ##在不存在氢的情况下，包括一吸附工艺过程作为精制步骤的[3]" Target="frmContent" Href="../searchservlet?query=C10G67/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G67/06"/>
+      <TreeNode Title="C10G67/08 ##在不存在氢的情况下，包括一酸处理工艺过程作为精制步骤的[3]" Target="frmContent" Href="../searchservlet?query=C10G67/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G67/08"/>
+      <TreeNode Title="C10G67/10 ##在不存在氢的情况下，包括一碱处理工艺过程作为精制步骤的[3]" Target="frmContent" Href="../searchservlet?query=C10G67/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G67/10"/>
+      <TreeNode Title="C10G67/12 ##在不存在氢的情况下，包括一氧化反应作为精制步骤的[3]" Target="frmContent" Href="../searchservlet?query=C10G67/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G67/12"/>
+      <TreeNode Title="C10G67/14 ##在不存在氢的情况下，包括至少有两个不同的精制步骤的[3]" Target="frmContent" Href="../searchservlet?query=C10G67/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G67/14"/>
+    </TreeNode>
+    <TreeNode Title="C10G67/16 #仅多级并联的[3]" Target="frmContent" Href="../searchservlet?query=C10G67/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G67/16"/>
+  </TreeNode>
+  <TreeNode Title="C10G69/00 用至少1个加氢处理工艺过程和至少1个其他的转化步骤处理烃油(C10G 67/00优先)[3]" Target="frmContent" Href="../searchservlet?query=C10G69/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G69/00">
+    <TreeNode Title="C10G69/02 #凡多级串联的[3]" Target="frmContent" Href="../searchservlet?query=C10G69/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G69/02">
+      <TreeNode Title="C10G69/04 ##不存在氢情况下，至少包括1个催化裂化步骤的[3]" Target="frmContent" Href="../searchservlet?query=C10G69/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G69/04"/>
+      <TreeNode Title="C10G69/06 ##不存在氢情况下，至少包括1个热裂解步骤的[3]" Target="frmContent" Href="../searchservlet?query=C10G69/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G69/06"/>
+      <TreeNode Title="C10G69/08 ##至少包括1个石脑油重整步骤的[3]" Target="frmContent" Href="../searchservlet?query=C10G69/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G69/08">
+        <TreeNode Title="C10G69/10 ###高沸点馏分加氢裂解成石脑油及所得的石脑油重整[3]" Target="frmContent" Href="../searchservlet?query=C10G69/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G69/10"/>
+      </TreeNode>
+      <TreeNode Title="C10G69/12 ##至少包括1个聚合反应或烷基化步骤的[3]" Target="frmContent" Href="../searchservlet?query=C10G69/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G69/12"/>
+    </TreeNode>
+    <TreeNode Title="C10G69/14 #凡多级并联的[3]" Target="frmContent" Href="../searchservlet?query=C10G69/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G69/14"/>
+  </TreeNode>
+  <TreeNode Title="C10G70/00 由包含在C10G 9/00、C10G 11/00、C10G 15/00、C10G 47/00、C10G 51/00组中的方法制得的不确定的正常气体混合物的加工[5]" Target="frmContent" Href="../searchservlet?query=C10G70/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G70/00">
+    <TreeNode Title="C10G70/02 #用氢化[5]" Target="frmContent" Href="../searchservlet?query=C10G70/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G70/02"/>
+    <TreeNode Title="C10G70/04 #用物理方法[5]" Target="frmContent" Href="../searchservlet?query=C10G70/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G70/04">
+      <TreeNode Title="C10G70/06 ##通过气液接触[5]" Target="frmContent" Href="../searchservlet?query=C10G70/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G70/06"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="C10G71/00 用其他未提到的方法处理润滑用的烃油或脂肪油[3]" Target="frmContent" Href="../searchservlet?query=C10G71/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G71/00">
+    <TreeNode Title="C10G71/02 #用无声放电处理法增稠(用无声放电化学改性干性油入C09F 7/04)[3]" Target="frmContent" Href="../searchservlet?query=C10G71/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G71/02"/>
+  </TreeNode>
+  <TreeNode Title="C10G73/00 地蜡的回收或精制，如褐煤蜡(以蜡为主的组合物入C08L 91/00)[3]" Target="frmContent" Href="../searchservlet?query=C10G73/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G73/00">
+    <TreeNode Title="C10G73/02 #烃油中的石油蜡的回收；烃油的脱蜡[3]" Target="frmContent" Href="../searchservlet?query=C10G73/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G73/02">
+      <TreeNode Title="C10G73/04 ##用助滤剂[3]" Target="frmContent" Href="../searchservlet?query=C10G73/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G73/04"/>
+      <TreeNode Title="C10G73/06 ##用溶剂[3]" Target="frmContent" Href="../searchservlet?query=C10G73/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G73/06">
+        <TreeNode Title="C10G73/08 ###有机化合物[3]" Target="frmContent" Href="../searchservlet?query=C10G73/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G73/08">
+          <TreeNode Title="C10G73/10 ####烃[3]" Target="frmContent" Href="../searchservlet?query=C10G73/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G73/10"/>
+          <TreeNode Title="C10G73/12 ####含氧化合物[3]" Target="frmContent" Href="../searchservlet?query=C10G73/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G73/12"/>
+          <TreeNode Title="C10G73/14 ####含卤素化合物[3]" Target="frmContent" Href="../searchservlet?query=C10G73/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G73/14"/>
+          <TreeNode Title="C10G73/16 ####含氮化合物[3]" Target="frmContent" Href="../searchservlet?query=C10G73/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G73/16"/>
+          <TreeNode Title="C10G73/18 ####含硫、硒、碲的[3]" Target="frmContent" Href="../searchservlet?query=C10G73/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G73/18"/>
+          <TreeNode Title="C10G73/20 ####含磷的[3]" Target="frmContent" Href="../searchservlet?query=C10G73/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G73/20"/>
+          <TreeNode Title="C10G73/22 ####有机化合物的混合物[3]" Target="frmContent" Href="../searchservlet?query=C10G73/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G73/22"/>
+        </TreeNode>
+        <TreeNode Title="C10G73/23 ###回收用过的溶剂[6]" Target="frmContent" Href="../searchservlet?query=C10G73/23&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G73/23"/>
+      </TreeNode>
+      <TreeNode Title="C10G73/24 ##用形成加合物的方法[3]" Target="frmContent" Href="../searchservlet?query=C10G73/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G73/24"/>
+      <TreeNode Title="C10G73/26 ##用浮选法[3]" Target="frmContent" Href="../searchservlet?query=C10G73/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G73/26"/>
+      <TreeNode Title="C10G73/28 ##用离心力[3]" Target="frmContent" Href="../searchservlet?query=C10G73/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G73/28"/>
+      <TreeNode Title="C10G73/30 ##用电的方法[3]" Target="frmContent" Href="../searchservlet?query=C10G73/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G73/30"/>
+      <TreeNode Title="C10G73/32 ##脱蜡时的冷却方法[3]" Target="frmContent" Href="../searchservlet?query=C10G73/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G73/32"/>
+      <TreeNode Title="C10G73/34 ##控制或调节[3]" Target="frmContent" Href="../searchservlet?query=C10G73/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G73/34"/>
+    </TreeNode>
+    <TreeNode Title="C10G73/36 #从其他含少量油的组合物中、从浓缩物或从残油中回收石油蜡；脱油；发汗[3]" Target="frmContent" Href="../searchservlet?query=C10G73/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G73/36"/>
+    <TreeNode Title="C10G73/38 #石油蜡的化学改性[3]" Target="frmContent" Href="../searchservlet?query=C10G73/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G73/38"/>
+    <TreeNode Title="C10G73/40 #蜡或改性蜡的物理处理，如粒化，分散、乳化、光辐照[3]" Target="frmContent" Href="../searchservlet?query=C10G73/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G73/40"/>
+    <TreeNode Title="C10G73/42 #石油蜡的精制[3]" Target="frmContent" Href="../searchservlet?query=C10G73/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G73/42">
+      <TreeNode Title="C10G73/44 ##在存在氢或存在产生氢的化合物的情况下[3]" Target="frmContent" Href="../searchservlet?query=C10G73/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G73/44"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="C10G75/00 在处理或转化烃油的设备中，一般的抑制腐蚀或抑制污垢(C10G 7/10，C10G 9/16优先)[6]" Target="frmContent" Href="../searchservlet?query=C10G75/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G75/00">
+    <TreeNode Title="C10G75/02 #加入腐蚀抑制剂[6]" Target="frmContent" Href="../searchservlet?query=C10G75/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G75/02"/>
+    <TreeNode Title="C10G75/04 #加入防污剂[6]" Target="frmContent" Href="../searchservlet?query=C10G75/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G75/04"/>
+  </TreeNode>
+  <TreeNode Title="C10G99/00 本小类其他组中不包含的技术主题[8]" Target="frmContent" Href="../searchservlet?query=C10G99/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10G99/00"/>
+</Root>

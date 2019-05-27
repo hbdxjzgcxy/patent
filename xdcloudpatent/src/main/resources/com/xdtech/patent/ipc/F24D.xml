@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="F24D1/00 蒸汽集中供热系统(F24D 10/00，F24D 11/00优先)" Target="frmContent" Href="../searchservlet?query=F24D1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24D1/00">
+    <TreeNode Title="F24D1/02 #用新鲜蒸汽来运行的" Target="frmContent" Href="../searchservlet?query=F24D1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24D1/02"/>
+    <TreeNode Title="F24D1/04 #用废蒸汽来运行的" Target="frmContent" Href="../searchservlet?query=F24D1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24D1/04"/>
+    <TreeNode Title="F24D1/06 #用过热蒸汽来运行的" Target="frmContent" Href="../searchservlet?query=F24D1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24D1/06"/>
+    <TreeNode Title="F24D1/08 #输送管线的配置，例如单管道系统的" Target="frmContent" Href="../searchservlet?query=F24D1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24D1/08"/>
+  </TreeNode>
+  <TreeNode Title="F24D3/00 热水集中供暖系统(F24D 10/00，F24D 11/00优先)" Target="frmContent" Href="../searchservlet?query=F24D3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24D3/00">
+    <TreeNode Title="F24D3/02 #用强制循环的，例如用泵循环的" Target="frmContent" Href="../searchservlet?query=F24D3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24D3/02"/>
+    <TreeNode Title="F24D3/04 #用高压水的" Target="frmContent" Href="../searchservlet?query=F24D3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24D3/04">
+      <TreeNode Title="F24D3/06 ##维持高压的装置或配置" Target="frmContent" Href="../searchservlet?query=F24D3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24D3/06"/>
+    </TreeNode>
+    <TreeNode Title="F24D3/08 #与住宅热水供应系统相结合的" Target="frmContent" Href="../searchservlet?query=F24D3/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24D3/08"/>
+    <TreeNode Title="F24D3/10 #输送管线的配置，例如蓄热罐的、膨胀箱的" Target="frmContent" Href="../searchservlet?query=F24D3/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24D3/10"/>
+    <TreeNode Title="F24D3/12 #天花板、墙或楼板下面的供暖用管子和平板装置(楼板下面的电力加热入F24D 13/02；专门适用于敷设管道，例如供暖或通风管道的楼板入E04B 5/48；建筑构件结构中块状或其他形状建筑构件，以其专门用途为特征的，例如敷设管道入E04C 1/39；建筑构件结构中较薄型建筑构件，专门适于用作辅助用途的，例如敷设管道用的入E04C 2/52)[4]" Target="frmContent" Href="../searchservlet?query=F24D3/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24D3/12">
+      <TreeNode Title="F24D3/14 ##铺设在天花板、墙或楼板中的[4]" Target="frmContent" Href="../searchservlet?query=F24D3/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24D3/14"/>
+      <TreeNode Title="F24D3/16 ##安装在天花板、墙或楼板上的，或邻近天花板、墙或楼板上的[4]" Target="frmContent" Href="../searchservlet?query=F24D3/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24D3/16"/>
+    </TreeNode>
+    <TreeNode Title="F24D3/18 #采用热泵的[5]" Target="frmContent" Href="../searchservlet?query=F24D3/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24D3/18"/>
+  </TreeNode>
+  <TreeNode Title="F24D5/00 热空气集中供暖系统(F24D 10/00，F24D 11/00优先；空气调节入F24F)；废气集中供暖系统" Target="frmContent" Href="../searchservlet?query=F24D5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24D5/00">
+    <TreeNode Title="F24D5/02 #向需要供暖的地点或区域释放热空气的" Target="frmContent" Href="../searchservlet?query=F24D5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24D5/02">
+      <TreeNode Title="F24D5/04 ##使空气返回到空气加热器的" Target="frmContent" Href="../searchservlet?query=F24D5/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24D5/04"/>
+    </TreeNode>
+    <TreeNode Title="F24D5/06 #不向要供暖的地点或区域释放热空气的" Target="frmContent" Href="../searchservlet?query=F24D5/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24D5/06">
+      <TreeNode Title="F24D5/08 ##使热空气经过散热器的" Target="frmContent" Href="../searchservlet?query=F24D5/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24D5/08"/>
+      <TreeNode Title="F24D5/10 ##使热空气经过墙壁、地板或天花板里的热交换管道的" Target="frmContent" Href="../searchservlet?query=F24D5/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24D5/10"/>
+    </TreeNode>
+    <TreeNode Title="F24D5/12 #使用热泵的[5]" Target="frmContent" Href="../searchservlet?query=F24D5/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24D5/12"/>
+  </TreeNode>
+  <TreeNode Title="F24D7/00 采用不包含在F24D 1/00至F24D 5/00各组中的传热流体，例如油、盐、气体的集中供热系统(F24D 10/00，F24D 11/00优先)" Target="frmContent" Href="../searchservlet?query=F24D7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24D7/00"/>
+  <TreeNode Title="F24D9/00 采用包含在F24D 1/00至F24D 7/00各组中的两组或多组系统中的传热流体的组合的集中供热系统(F24D 10/00，F24D 11/00优先)" Target="frmContent" Href="../searchservlet?query=F24D9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24D9/00">
+    <TreeNode Title="F24D9/02 #热水和蒸汽系统F24D 10/00地区供暖系统[5]" Target="frmContent" Href="../searchservlet?query=F24D9/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24D9/02"/>
+  </TreeNode>
+  <TreeNode Title="F24D11/00 利用在贮热物质中积累热量的集中供暖系统(独立的贮热单元入F24D 15/02；贮热物质见有关小类)" Target="frmContent" Href="../searchservlet?query=F24D11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24D11/00">
+    <TreeNode Title="F24D11/02 #采用热泵的" Target="frmContent" Href="../searchservlet?query=F24D11/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24D11/02"/>
+  </TreeNode>
+  <TreeNode Title="F24D12/00 其他集中供热系统" Target="frmContent" Href="../searchservlet?query=F24D12/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24D12/00">
+    <TreeNode Title="F24D12/02 #具有多于一个热源的(F24D 3/18，F24D 5/12，F24D 11/02优先)[5]" Target="frmContent" Href="../searchservlet?query=F24D12/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24D12/02"/>
+  </TreeNode>
+  <TreeNode Title="F24D13/00 电热系统(电热水器或电空气加热器入F24H)" Target="frmContent" Href="../searchservlet?query=F24D13/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24D13/00">
+    <TreeNode Title="F24D13/02 #只采用电阻加热的，例如在楼板下面加热的" Target="frmContent" Href="../searchservlet?query=F24D13/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24D13/02"/>
+    <TreeNode Title="F24D13/04 #在系统的单独设备中对传热流体进行电加热的" Target="frmContent" Href="../searchservlet?query=F24D13/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24D13/04"/>
+  </TreeNode>
+  <TreeNode Title="F24D15/00 其他住宅或区域供热系统" Target="frmContent" Href="../searchservlet?query=F24D15/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24D15/00">
+    <TreeNode Title="F24D15/02 #由独立的加热单元组成的，例如由蓄热器组成的[3]" Target="frmContent" Href="../searchservlet?query=F24D15/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24D15/02"/>
+    <TreeNode Title="F24D15/04 #使用热泵的[5]" Target="frmContent" Href="../searchservlet?query=F24D15/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24D15/04"/>
+  </TreeNode>
+  <TreeNode Title="F24D17/00 住宅热水供应系统(与住宅或区域供热系统结合在一起的入F24D 1/00至F24D 15/00)" Target="frmContent" Href="../searchservlet?query=F24D17/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24D17/00">
+    <TreeNode Title="F24D17/02 #采用热泵的[5]" Target="frmContent" Href="../searchservlet?query=F24D17/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24D17/02"/>
+  </TreeNode>
+  <TreeNode Title="F24D19/00 零部件(水加热器或空气加热器零部件入F24H 9/00；一般用途的热交换或热传递装置的零部件入F28F)[3]" Target="frmContent" Href="../searchservlet?query=F24D19/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24D19/00">
+    <TreeNode Title="F24D19/02 #散热器安装或支撑的配置[3]" Target="frmContent" Href="../searchservlet?query=F24D19/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24D19/02">
+      <TreeNode Title="F24D19/04 ##在护墙板内的[3]" Target="frmContent" Href="../searchservlet?query=F24D19/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24D19/04"/>
+    </TreeNode>
+    <TreeNode Title="F24D19/06 #散热器的套箱、罩盖或装饰板[3]" Target="frmContent" Href="../searchservlet?query=F24D19/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24D19/06"/>
+    <TreeNode Title="F24D19/08 #排水、通风或充气的装置(排水阀入F16K，例如F16K 21/00；通风阀或充气阀入F16K 24/00)[3]" Target="frmContent" Href="../searchservlet?query=F24D19/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24D19/08"/>
+    <TreeNode Title="F24D19/10 #控制装置或安全装置的配置或安装(控制阀入F16K；只控制加热器的入F24H 9/20)[3]" Target="frmContent" Href="../searchservlet?query=F24D19/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24D19/10"/>
+  </TreeNode>
+</Root>

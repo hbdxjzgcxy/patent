@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="F03D1/00 具有基本上与风向一致的旋转轴线的风力发动机(控制入F03D 7/00)" Target="frmContent" Href="../searchservlet?query=F03D1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F03D1/00">
+    <TreeNode Title="F03D1/02 #具有多个转子的" Target="frmContent" Href="../searchservlet?query=F03D1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F03D1/02"/>
+    <TreeNode Title="F03D1/04 #具有固定式导风装置，例如带有风筒或风道(F03D 1/02优先)" Target="frmContent" Href="../searchservlet?query=F03D1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F03D1/04"/>
+    <TreeNode Title="F03D1/06 #转子" Target="frmContent" Href="../searchservlet?query=F03D1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F03D1/06"/>
+  </TreeNode>
+  <TreeNode Title="F03D3/00 具有基本上与风向成直角的旋转轴线的风力发动机(控制入F03D 7/00)" Target="frmContent" Href="../searchservlet?query=F03D3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F03D3/00">
+    <TreeNode Title="F03D3/02 #具有多个转子的" Target="frmContent" Href="../searchservlet?query=F03D3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F03D3/02"/>
+    <TreeNode Title="F03D3/04 #具有固定式导风装置，例如具有风筒或风道(F03D 3/02优先)" Target="frmContent" Href="../searchservlet?query=F03D3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F03D3/04"/>
+    <TreeNode Title="F03D3/06 #转子" Target="frmContent" Href="../searchservlet?query=F03D3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F03D3/06"/>
+  </TreeNode>
+  <TreeNode Title="F03D5/00 其他风力发动机(控制入F03D 7/00)" Target="frmContent" Href="../searchservlet?query=F03D5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F03D5/00">
+    <TreeNode Title="F03D5/02 #受风部件是附着于循环链或类似物上的" Target="frmContent" Href="../searchservlet?query=F03D5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F03D5/02"/>
+    <TreeNode Title="F03D5/04 #受风部件是附着于在导轨或类似机构上运转的输送机构的" Target="frmContent" Href="../searchservlet?query=F03D5/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F03D5/04"/>
+    <TreeNode Title="F03D5/06 #受风部件往复摆动而不旋转" Target="frmContent" Href="../searchservlet?query=F03D5/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F03D5/06"/>
+  </TreeNode>
+  <TreeNode Title="F03D7/00 风力发动机的控制" Target="frmContent" Href="../searchservlet?query=F03D7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F03D7/00">
+    <TreeNode Title="F03D7/02 #具有基本上与风向一致的旋转轴线的风力发动机" Target="frmContent" Href="../searchservlet?query=F03D7/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F03D7/02">
+      <TreeNode Title="F03D7/04 ##调节，即自动控制" Target="frmContent" Href="../searchservlet?query=F03D7/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F03D7/04"/>
+    </TreeNode>
+    <TreeNode Title="F03D7/06 #具有基本上与风向成直角的旋转轴线的风力发动机" Target="frmContent" Href="../searchservlet?query=F03D7/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F03D7/06"/>
+  </TreeNode>
+  <TreeNode Title="F03D9/00 特殊用途的风力发动机；风力发动机与受它驱动的装置的组合(主要有关被驱动装置方面，参见该装置的有关类)" Target="frmContent" Href="../searchservlet?query=F03D9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F03D9/00">
+    <TreeNode Title="F03D9/02 #贮存动力的装置" Target="frmContent" Href="../searchservlet?query=F03D9/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F03D9/02"/>
+  </TreeNode>
+  <TreeNode Title="F03D11/00 不包含在本小类其他组中或与本小类其他组无关的零件、部件或附件" Target="frmContent" Href="../searchservlet?query=F03D11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F03D11/00">
+    <TreeNode Title="F03D11/02 #动力的传送，例如使用空心排气叶片" Target="frmContent" Href="../searchservlet?query=F03D11/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F03D11/02"/>
+    <TreeNode Title="F03D11/04 #安装结构" Target="frmContent" Href="../searchservlet?query=F03D11/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F03D11/04"/>
+  </TreeNode>
+</Root>

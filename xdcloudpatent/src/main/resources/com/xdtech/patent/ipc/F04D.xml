@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="F04D1/00 径向流动泵，例如离心泵；螺旋离心泵(适用于泵送特定流体入F04D 7/00；起动或增压入F04D 9/00；同时泵送液体和弹性流体的入F04D 31/00)" Target="frmContent" Href="../searchservlet?query=F04D1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F04D1/00">
+    <TreeNode Title="F04D1/02 #具有非离心级，例如向心的" Target="frmContent" Href="../searchservlet?query=F04D1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F04D1/02"/>
+    <TreeNode Title="F04D1/04 #螺旋离心泵" Target="frmContent" Href="../searchservlet?query=F04D1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F04D1/04"/>
+    <TreeNode Title="F04D1/06 #多级泵(F04D 1/02优先)" Target="frmContent" Href="../searchservlet?query=F04D1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F04D1/06">
+      <TreeNode Title="F04D1/08 ##各级处于同心位置" Target="frmContent" Href="../searchservlet?query=F04D1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F04D1/08"/>
+      <TreeNode Title="F04D1/10 ##带有改变通过各级的流动通路的装置，例如串联/并联" Target="frmContent" Href="../searchservlet?query=F04D1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F04D1/10"/>
+    </TreeNode>
+    <TreeNode Title="F04D1/12 #带有深入筒内的循环流体中的戽斗或类似的舀取构件的泵" Target="frmContent" Href="../searchservlet?query=F04D1/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F04D1/12"/>
+    <TreeNode Title="F04D1/14 #在具有垂直轴线的圆锥形转筒内通过离心力提升流体的泵" Target="frmContent" Href="../searchservlet?query=F04D1/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F04D1/14"/>
+  </TreeNode>
+  <TreeNode Title="F04D3/00 轴流泵(起动或增压入F04D 9/00；同时泵送液体和弹性流体的入F04D 31/00)" Target="frmContent" Href="../searchservlet?query=F04D3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F04D3/00">
+    <TreeNode Title="F04D3/02 #螺杆式" Target="frmContent" Href="../searchservlet?query=F04D3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F04D3/02"/>
+  </TreeNode>
+  <TreeNode Title="F04D5/00 环流或横流泵(同时泵送液体和弹性流体的入F04D31/00)" Target="frmContent" Href="../searchservlet?query=F04D5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F04D5/00"/>
+  <TreeNode Title="F04D7/00 适用于输送特殊流体的泵，例如为泵或泵部件选择特定的材料(同时泵送液体和弹性流体的入F04D 31/00)" Target="frmContent" Href="../searchservlet?query=F04D7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F04D7/00">
+    <TreeNode Title="F04D7/02 #离心式的" Target="frmContent" Href="../searchservlet?query=F04D7/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F04D7/02">
+      <TreeNode Title="F04D7/04 ##流体是黏性的或不均匀的" Target="frmContent" Href="../searchservlet?query=F04D7/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F04D7/04"/>
+      <TreeNode Title="F04D7/06 ##流体是热的或腐蚀性的，例如液态金属" Target="frmContent" Href="../searchservlet?query=F04D7/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F04D7/06"/>
+      <TreeNode Title="F04D7/08 ##流体是放射性的" Target="frmContent" Href="../searchservlet?query=F04D7/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F04D7/08"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="F04D9/00 起动；防止气阻" Target="frmContent" Href="../searchservlet?query=F04D9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F04D9/00">
+    <TreeNode Title="F04D9/02 #自起动泵" Target="frmContent" Href="../searchservlet?query=F04D9/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F04D9/02"/>
+    <TreeNode Title="F04D9/04 #使用起动泵；使用增压泵防止气阻" Target="frmContent" Href="../searchservlet?query=F04D9/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F04D9/04">
+      <TreeNode Title="F04D9/06 ##喷射式的" Target="frmContent" Href="../searchservlet?query=F04D9/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F04D9/06"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="F04D11/00 其他旋转非变容式泵(泵送装置或系统入F04D 13/00；同时泵送液体和弹性流体的入F04D 31/00)" Target="frmContent" Href="../searchservlet?query=F04D11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F04D11/00"/>
+  <TreeNode Title="F04D13/00 泵送装置或系统(控制入F04D 15/00；同时泵送液体和弹性流体的入F04D 31/00)" Target="frmContent" Href="../searchservlet?query=F04D13/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F04D13/00">
+    <TreeNode Title="F04D13/02 #包括泵及其驱动装置的机组(驱动装置的主要方面，参见这些装置的有关类)" Target="frmContent" Href="../searchservlet?query=F04D13/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F04D13/02">
+      <TreeNode Title="F04D13/04 ##泵是流体驱动的" Target="frmContent" Href="../searchservlet?query=F04D13/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F04D13/04"/>
+      <TreeNode Title="F04D13/06 ##泵是电驱动的" Target="frmContent" Href="../searchservlet?query=F04D13/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F04D13/06">
+        <TreeNode Title="F04D13/08 ###用于潜入的" Target="frmContent" Href="../searchservlet?query=F04D13/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F04D13/08">
+          <TreeNode Title="F04D13/10 ####适用于在开采深井中使用" Target="frmContent" Href="../searchservlet?query=F04D13/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F04D13/10"/>
+        </TreeNode>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="F04D13/12 #两个或多个泵的组合(与抵抗气阻的起动泵或增压泵的组合入F04D 9/04)" Target="frmContent" Href="../searchservlet?query=F04D13/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F04D13/12">
+      <TreeNode Title="F04D13/14 ##泵全为离心式的" Target="frmContent" Href="../searchservlet?query=F04D13/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F04D13/14"/>
+    </TreeNode>
+    <TreeNode Title="F04D13/16 #具有储存容器的" Target="frmContent" Href="../searchservlet?query=F04D13/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F04D13/16"/>
+  </TreeNode>
+  <TreeNode Title="F04D15/00 泵、泵送装置或系统的控制，例如调节" Target="frmContent" Href="../searchservlet?query=F04D15/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F04D15/00">
+    <TreeNode Title="F04D15/02 #在出现恶劣状况时停泵或操作阀门" Target="frmContent" Href="../searchservlet?query=F04D15/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F04D15/02"/>
+  </TreeNode>
+  <TreeNode Title="F04D17/00 专门适用于弹性流体的径向流体泵，例如离心泵；专门适用于弹性流体的螺旋离心泵(F04D 21/00优先)" Target="frmContent" Href="../searchservlet?query=F04D17/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F04D17/00">
+    <TreeNode Title="F04D17/02 #具有非离心级，例如向心的" Target="frmContent" Href="../searchservlet?query=F04D17/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F04D17/02">
+      <TreeNode Title="F04D17/04 ##横流式的" Target="frmContent" Href="../searchservlet?query=F04D17/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F04D17/04"/>
+    </TreeNode>
+    <TreeNode Title="F04D17/06 #螺旋离心泵" Target="frmContent" Href="../searchservlet?query=F04D17/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F04D17/06"/>
+    <TreeNode Title="F04D17/08 #离心泵" Target="frmContent" Href="../searchservlet?query=F04D17/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F04D17/08">
+      <TreeNode Title="F04D17/10 ##用于压缩或抽空" Target="frmContent" Href="../searchservlet?query=F04D17/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F04D17/10">
+        <TreeNode Title="F04D17/12 ###多级泵" Target="frmContent" Href="../searchservlet?query=F04D17/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F04D17/12">
+          <TreeNode Title="F04D17/14 ####带有改变通过各级的流动通路的装置，例如串联/并联波动(控制入F04D 27/02)" Target="frmContent" Href="../searchservlet?query=F04D17/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F04D17/14"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="F04D17/16 ##排出时不会出现明显压缩" Target="frmContent" Href="../searchservlet?query=F04D17/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F04D17/16"/>
+      <TreeNode Title="F04D17/18 ##以利用泵中被输送液体的离心力为特点的" Target="frmContent" Href="../searchservlet?query=F04D17/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F04D17/18"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="F04D19/00 专门适用于弹性流体的轴流泵(F04D 21/00优先)" Target="frmContent" Href="../searchservlet?query=F04D19/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F04D19/00">
+    <TreeNode Title="F04D19/02 #多级泵" Target="frmContent" Href="../searchservlet?query=F04D19/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F04D19/02">
+      <TreeNode Title="F04D19/04 ##专门适用于产生高真空，例如分子泵" Target="frmContent" Href="../searchservlet?query=F04D19/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F04D19/04"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="F04D21/00 涉及超音速泵送流体的专门适用于弹性流体的泵" Target="frmContent" Href="../searchservlet?query=F04D21/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F04D21/00"/>
+  <TreeNode Title="F04D23/00 专门适用于弹性流体的其他旋转非变容式泵(泵送装置或系统入F04D 25/00)" Target="frmContent" Href="../searchservlet?query=F04D23/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F04D23/00"/>
+  <TreeNode Title="F04D25/00 专门适用于弹性流体的泵送装置或系统(控制入F04D 27/00)" Target="frmContent" Href="../searchservlet?query=F04D25/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F04D25/00">
+    <TreeNode Title="F04D25/02 #包括泵及其驱动装置的机组(驱动装置的主要方面，参见这些装置的有关类)" Target="frmContent" Href="../searchservlet?query=F04D25/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F04D25/02">
+      <TreeNode Title="F04D25/04 ##泵是流体驱动的" Target="frmContent" Href="../searchservlet?query=F04D25/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F04D25/04"/>
+      <TreeNode Title="F04D25/06 ##泵是电驱动的(F04D 25/08优先)" Target="frmContent" Href="../searchservlet?query=F04D25/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F04D25/06"/>
+      <TreeNode Title="F04D25/08 ##工作流体是空气，例如用于通风" Target="frmContent" Href="../searchservlet?query=F04D25/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F04D25/08">
+        <TreeNode Title="F04D25/10 ###具有自动改变输出空气方向的装置的机组" Target="frmContent" Href="../searchservlet?query=F04D25/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F04D25/10"/>
+        <TreeNode Title="F04D25/12 ###机组适用于安装在开口中" Target="frmContent" Href="../searchservlet?query=F04D25/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F04D25/12">
+          <TreeNode Title="F04D25/14 ####并有盖板，例如不用时自动关闭" Target="frmContent" Href="../searchservlet?query=F04D25/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F04D25/14"/>
+        </TreeNode>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="F04D25/16 #两个或多个泵的组合" Target="frmContent" Href="../searchservlet?query=F04D25/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F04D25/16"/>
+  </TreeNode>
+  <TreeNode Title="F04D27/00 专门适用于弹性流体的泵、泵送装置或系统的控制，例如调节" Target="frmContent" Href="../searchservlet?query=F04D27/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F04D27/00">
+    <TreeNode Title="F04D27/02 #波动控制" Target="frmContent" Href="../searchservlet?query=F04D27/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F04D27/02"/>
+  </TreeNode>
+  <TreeNode Title="F04D29/00 零件、部件或附件(一般机械零件入F16)" Target="frmContent" Href="../searchservlet?query=F04D29/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F04D29/00">
+    <TreeNode Title="F04D29/02 #特殊材料的选择(用于输送特殊液体入F04D 7/00)" Target="frmContent" Href="../searchservlet?query=F04D29/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F04D29/02"/>
+    <TreeNode Title="F04D29/04 #轴或轴承，或其组件(专门适用于弹性流体泵的入F04D 29/05)[1，8]" Target="frmContent" Href="../searchservlet?query=F04D29/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F04D29/04">
+      <TreeNode Title="F04D29/041 ##轴向推力平衡[8]" Target="frmContent" Href="../searchservlet?query=F04D29/041&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F04D29/041"/>
+      <TreeNode Title="F04D29/042 ##可轴向移动的转子(F04D 29/041优先) [8]" Target="frmContent" Href="../searchservlet?query=F04D29/042&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F04D29/042"/>
+      <TreeNode Title="F04D29/043 ## 轴[8]" Target="frmContent" Href="../searchservlet?query=F04D29/043&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F04D29/043">
+        <TreeNode Title="F04D29/044 ###用于连接或组装轴的装置[8]" Target="frmContent" Href="../searchservlet?query=F04D29/044&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F04D29/044"/>
+      </TreeNode>
+      <TreeNode Title="F04D29/046 ##轴承[8]" Target="frmContent" Href="../searchservlet?query=F04D29/046&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F04D29/046">
+        <TreeNode Title="F04D29/047 ###流体静力的；流体动力的[8]" Target="frmContent" Href="../searchservlet?query=F04D29/047&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F04D29/047"/>
+        <TreeNode Title="F04D29/048 ###磁的；电磁的[8]" Target="frmContent" Href="../searchservlet?query=F04D29/048&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F04D29/048"/>
+        <TreeNode Title="F04D29/049 ###滚珠轴承[8]" Target="frmContent" Href="../searchservlet?query=F04D29/049&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F04D29/049"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="F04D29/05 #专门适用于弹性流体泵的轴或轴承，或其组件[8]" Target="frmContent" Href="../searchservlet?query=F04D29/05&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F04D29/05">
+      <TreeNode Title="F04D29/051 ## 轴向推力平衡[8]" Target="frmContent" Href="../searchservlet?query=F04D29/051&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F04D29/051"/>
+      <TreeNode Title="F04D29/052 ## 可轴向移动的转子( F04D 29/051 优先)[8]" Target="frmContent" Href="../searchservlet?query=F04D29/052&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F04D29/052"/>
+      <TreeNode Title="F04D29/053 ##轴[8]" Target="frmContent" Href="../searchservlet?query=F04D29/053&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F04D29/053">
+        <TreeNode Title="F04D29/054 ###用于连接或组装轴的装置[8]" Target="frmContent" Href="../searchservlet?query=F04D29/054&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F04D29/054"/>
+      </TreeNode>
+      <TreeNode Title="F04D29/056 ##轴承[8]" Target="frmContent" Href="../searchservlet?query=F04D29/056&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F04D29/056">
+        <TreeNode Title="F04D29/057 ###流体静力的；流体动力的[8]" Target="frmContent" Href="../searchservlet?query=F04D29/057&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F04D29/057"/>
+        <TreeNode Title="F04D29/058 ### 磁的；电磁的[8]" Target="frmContent" Href="../searchservlet?query=F04D29/058&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F04D29/058"/>
+        <TreeNode Title="F04D29/059 ###滚珠轴承[8]" Target="frmContent" Href="../searchservlet?query=F04D29/059&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F04D29/059"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="F04D29/06 #润滑[1，8]" Target="frmContent" Href="../searchservlet?query=F04D29/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F04D29/06">
+      <TreeNode Title="F04D29/063 ##专门适用于弹性流体泵的[8]" Target="frmContent" Href="../searchservlet?query=F04D29/063&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F04D29/063"/>
+    </TreeNode>
+    <TreeNode Title="F04D29/08 #密封" Target="frmContent" Href="../searchservlet?query=F04D29/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F04D29/08">
+      <TreeNode Title="F04D29/10 ##轴密封" Target="frmContent" Href="../searchservlet?query=F04D29/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F04D29/10">
+        <TreeNode Title="F04D29/12 ###利用密封环" Target="frmContent" Href="../searchservlet?query=F04D29/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F04D29/12"/>
+        <TreeNode Title="F04D29/14 ###仅当泵不起作用时运行" Target="frmContent" Href="../searchservlet?query=F04D29/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F04D29/14"/>
+      </TreeNode>
+      <TreeNode Title="F04D29/16 ##在压力端和吸入端之间" Target="frmContent" Href="../searchservlet?query=F04D29/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F04D29/16"/>
+    </TreeNode>
+    <TreeNode Title="F04D29/18 # 转子(专门适用于弹性流体的入F04D 29/26)" Target="frmContent" Href="../searchservlet?query=F04D29/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F04D29/18">
+      <TreeNode Title="F04D29/20 ##在轴上安装转子" Target="frmContent" Href="../searchservlet?query=F04D29/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F04D29/20"/>
+      <TreeNode Title="F04D29/22 ##专用于离心泵" Target="frmContent" Href="../searchservlet?query=F04D29/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F04D29/22">
+        <TreeNode Title="F04D29/24 ###叶片" Target="frmContent" Href="../searchservlet?query=F04D29/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F04D29/24"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="F04D29/26 #专门适用于弹性流体的转子" Target="frmContent" Href="../searchservlet?query=F04D29/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F04D29/26">
+      <TreeNode Title="F04D29/28 ##用于离心或螺旋离心泵" Target="frmContent" Href="../searchservlet?query=F04D29/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F04D29/28">
+        <TreeNode Title="F04D29/30 ###叶片" Target="frmContent" Href="../searchservlet?query=F04D29/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F04D29/30"/>
+      </TreeNode>
+      <TreeNode Title="F04D29/32 ##用于轴流泵" Target="frmContent" Href="../searchservlet?query=F04D29/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F04D29/32">
+        <TreeNode Title="F04D29/34 ###叶片安装" Target="frmContent" Href="../searchservlet?query=F04D29/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F04D29/34">
+          <TreeNode Title="F04D29/36 ####可调节的" Target="frmContent" Href="../searchservlet?query=F04D29/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F04D29/36"/>
+        </TreeNode>
+        <TreeNode Title="F04D29/38 ###叶片" Target="frmContent" Href="../searchservlet?query=F04D29/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F04D29/38"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="F04D29/40 #壳体；工作流体用接头" Target="frmContent" Href="../searchservlet?query=F04D29/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F04D29/40">
+      <TreeNode Title="F04D29/42 ##用于径向或螺旋离心泵" Target="frmContent" Href="../searchservlet?query=F04D29/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F04D29/42">
+        <TreeNode Title="F04D29/44 ###流体导向装置，例如扩压器" Target="frmContent" Href="../searchservlet?query=F04D29/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F04D29/44">
+          <TreeNode Title="F04D29/46 ####可调节的" Target="frmContent" Href="../searchservlet?query=F04D29/46&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F04D29/46">
+            <TreeNode Title="F04D29/48 #####用于可逆泵中单向流体流动" Target="frmContent" Href="../searchservlet?query=F04D29/48&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F04D29/48"/>
+            <TreeNode Title="F04D29/50 #####用于使流体倒流" Target="frmContent" Href="../searchservlet?query=F04D29/50&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F04D29/50"/>
+          </TreeNode>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="F04D29/52 ##用于轴流泵" Target="frmContent" Href="../searchservlet?query=F04D29/52&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F04D29/52">
+        <TreeNode Title="F04D29/54 ###流体导向装置，例如扩压器" Target="frmContent" Href="../searchservlet?query=F04D29/54&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F04D29/54">
+          <TreeNode Title="F04D29/56 ####可调节的" Target="frmContent" Href="../searchservlet?query=F04D29/56&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F04D29/56"/>
+        </TreeNode>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="F04D29/58 #冷却(一般机械或发动机的入F01P)；加热；减少热传递" Target="frmContent" Href="../searchservlet?query=F04D29/58&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F04D29/58"/>
+    <TreeNode Title="F04D29/60 #安装；装配；拆卸" Target="frmContent" Href="../searchservlet?query=F04D29/60&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F04D29/60">
+      <TreeNode Title="F04D29/62 ##径向泵或螺旋离心泵的" Target="frmContent" Href="../searchservlet?query=F04D29/62&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F04D29/62"/>
+      <TreeNode Title="F04D29/64 ##轴流泵的" Target="frmContent" Href="../searchservlet?query=F04D29/64&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F04D29/64"/>
+    </TreeNode>
+    <TreeNode Title="F04D29/66 #防止气蚀、旋流、噪声、振动或类似情况(用于一般机械或发动机的气流消音器入F01N)；平衡(波动控制入F04D 27/02))" Target="frmContent" Href="../searchservlet?query=F04D29/66&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F04D29/66">
+      <TreeNode Title="F04D29/68 ##通过影响边界层" Target="frmContent" Href="../searchservlet?query=F04D29/68&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F04D29/68"/>
+    </TreeNode>
+    <TreeNode Title="F04D29/70 #吸入栅；过滤器；灰尘分离；清洗" Target="frmContent" Href="../searchservlet?query=F04D29/70&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F04D29/70"/>
+  </TreeNode>
+  <TreeNode Title="F04D31/00 同时泵送液体和弹性流体" Target="frmContent" Href="../searchservlet?query=F04D31/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F04D31/00"/>
+  <TreeNode Title="F04D33/00 除纯旋转之外的非变容式泵，例如摆动式的(F04D 35/00优先；手持风扇入A45B)[2]" Target="frmContent" Href="../searchservlet?query=F04D33/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F04D33/00"/>
+  <TreeNode Title="F04D35/00 在液体中产生波的泵，即波发生器(用于浴槽入A47K 3/10)[2]" Target="frmContent" Href="../searchservlet?query=F04D35/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F04D35/00"/>
+</Root>

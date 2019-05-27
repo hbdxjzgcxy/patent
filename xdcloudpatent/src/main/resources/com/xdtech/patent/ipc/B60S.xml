@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="B60S1/00 车辆的清洗(用不与车辆构成整体的设备入B60S 3/00；一般清洗入B08B；飞机的除冰入B64D；专门适用于透明或反射表面的加热装置入H05B 3/84)" Target="frmContent" Href="../searchservlet?query=B60S1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60S1/00">
+    <TreeNode Title="B60S1/02 # 风挡玻璃、窗或光学装置的清洗" Target="frmContent" Href="../searchservlet?query=B60S1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60S1/02">
+      <TreeNode Title="B60S1/04 ##刮水器或类似装置，例如刮板装置" Target="frmContent" Href="../searchservlet?query=B60S1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60S1/04">
+        <TreeNode Title="B60S1/06 ###以传动为特点的(产生非摆动运动的入B60S 1/44)" Target="frmContent" Href="../searchservlet?query=B60S1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60S1/06">
+          <TreeNode Title="B60S1/08 ####电动的" Target="frmContent" Href="../searchservlet?query=B60S1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60S1/08"/>
+          <TreeNode Title="B60S1/10 ####气动的" Target="frmContent" Href="../searchservlet?query=B60S1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60S1/10"/>
+          <TreeNode Title="B60S1/12 ####液压的" Target="frmContent" Href="../searchservlet?query=B60S1/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60S1/12"/>
+          <TreeNode Title="B60S1/14 ####人力的" Target="frmContent" Href="../searchservlet?query=B60S1/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60S1/14"/>
+          <TreeNode Title="B60S1/16 ####传动装置" Target="frmContent" Href="../searchservlet?query=B60S1/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60S1/16">
+            <TreeNode Title="B60S1/18 #####机械的" Target="frmContent" Href="../searchservlet?query=B60S1/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60S1/18">
+              <TreeNode Title="B60S1/20 ######用钢索牵引的；用挠性轴的" Target="frmContent" Href="../searchservlet?query=B60S1/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60S1/20"/>
+              <TreeNode Title="B60S1/22 ######用旋转凸轮的" Target="frmContent" Href="../searchservlet?query=B60S1/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60S1/22"/>
+              <TreeNode Title="B60S1/24 ######用旋转曲柄的" Target="frmContent" Href="../searchservlet?query=B60S1/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60S1/24"/>
+              <TreeNode Title="B60S1/26 ######用齿轮传动装置的" Target="frmContent" Href="../searchservlet?query=B60S1/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60S1/26"/>
+            </TreeNode>
+          </TreeNode>
+        </TreeNode>
+        <TreeNode Title="B60S1/28 ###以多个刮水器为特点的(B60S 1/06优先)" Target="frmContent" Href="../searchservlet?query=B60S1/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60S1/28">
+          <TreeNode Title="B60S1/30 ####车内车外均配置的" Target="frmContent" Href="../searchservlet?query=B60S1/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60S1/30"/>
+        </TreeNode>
+        <TreeNode Title="B60S1/32 ###以刮水器片或刮水器臂的结构特征为特点的" Target="frmContent" Href="../searchservlet?query=B60S1/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60S1/32">
+          <TreeNode Title="B60S1/34 ####刮水器臂；其所用支架" Target="frmContent" Href="../searchservlet?query=B60S1/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60S1/34">
+            <TreeNode Title="B60S1/36 #####臂长可变的" Target="frmContent" Href="../searchservlet?query=B60S1/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60S1/36"/>
+          </TreeNode>
+          <TreeNode Title="B60S1/38 ####刮水器刮片" Target="frmContent" Href="../searchservlet?query=B60S1/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60S1/38"/>
+          <TreeNode Title="B60S1/40 ####刮片与臂之间的连接" Target="frmContent" Href="../searchservlet?query=B60S1/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60S1/40">
+            <TreeNode Title="B60S1/42 #####弹性的" Target="frmContent" Href="../searchservlet?query=B60S1/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60S1/42"/>
+          </TreeNode>
+        </TreeNode>
+        <TreeNode Title="B60S1/44 ###刮水器刮片具有非摆动的运动，例如转动" Target="frmContent" Href="../searchservlet?query=B60S1/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60S1/44"/>
+      </TreeNode>
+      <TreeNode Title="B60S1/46 ##使用液体的；风挡玻璃清洗装置" Target="frmContent" Href="../searchservlet?query=B60S1/46&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60S1/46">
+        <TreeNode Title="B60S1/48 ###所用供液装置" Target="frmContent" Href="../searchservlet?query=B60S1/48&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60S1/48">
+          <TreeNode Title="B60S1/50 ####容器的布置" Target="frmContent" Href="../searchservlet?query=B60S1/50&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60S1/50"/>
+          <TreeNode Title="B60S1/52 ####喷嘴的布置(喷嘴本身入B05B)" Target="frmContent" Href="../searchservlet?query=B60S1/52&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60S1/52"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="B60S1/54 ##使用气体的，例如使用热空气的" Target="frmContent" Href="../searchservlet?query=B60S1/54&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60S1/54"/>
+      <TreeNode Title="B60S1/56 ##专门适用于清洗除前窗或风挡外的其他部件或装置的" Target="frmContent" Href="../searchservlet?query=B60S1/56&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60S1/56">
+        <TreeNode Title="B60S1/58 ###用于后窗的" Target="frmContent" Href="../searchservlet?query=B60S1/58&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60S1/58"/>
+        <TreeNode Title="B60S1/60 ###用于信号装置的，例如反射镜" Target="frmContent" Href="../searchservlet?query=B60S1/60&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60S1/60"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="B60S1/62 # 其他用于清洗车辆的装置" Target="frmContent" Href="../searchservlet?query=B60S1/62&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60S1/62">
+      <TreeNode Title="B60S1/64 ##用于清洗车内的，例如内置的真空吸尘器" Target="frmContent" Href="../searchservlet?query=B60S1/64&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60S1/64"/>
+      <TreeNode Title="B60S1/66 ##用于清洗车外的" Target="frmContent" Href="../searchservlet?query=B60S1/66&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60S1/66">
+        <TreeNode Title="B60S1/68 ###用于去除车轮或轮胎上杂物的，例如车轮刮板" Target="frmContent" Href="../searchservlet?query=B60S1/68&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60S1/68"/>
+      </TreeNode>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="B60S3/00 不与车辆构成整体的车辆清洗设备(一般清洗入B08B；专门适合水上船只清洗的入B63B 57/00，B63B 59/00；清洗飞机的地面设备入B64F 5/00)" Target="frmContent" Href="../searchservlet?query=B60S3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60S3/00">
+    <TreeNode Title="B60S3/04 # 用于陆地车辆外部的" Target="frmContent" Href="../searchservlet?query=B60S3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60S3/04">
+      <TreeNode Title="B60S3/06 ##用旋转体接触车辆的" Target="frmContent" Href="../searchservlet?query=B60S3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60S3/06"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="B60S5/00 车辆的保养、维修、修理或重装(适合于运载保养或维修车间的车辆入B60P 3/14；铁路机车的保养入B61K)" Target="frmContent" Href="../searchservlet?query=B60S5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60S5/00">
+    <TreeNode Title="B60S5/02 # 向车辆供给燃料；加油站成套设备的总体布置(将定量的汽油，润滑油或类似料由贮藏室输送到车辆上的设备入B67D)" Target="frmContent" Href="../searchservlet?query=B60S5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60S5/02"/>
+    <TreeNode Title="B60S5/04 # 轮胎充气的空气供给(轮胎充气装置在车上的配置入B60C 23/00；轮胎压力计入G01L 17/00)[3]" Target="frmContent" Href="../searchservlet?query=B60S5/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60S5/04"/>
+    <TreeNode Title="B60S5/06 # 将蓄电池安装到车辆上，或由其上拆卸下来的(用于对蓄电池充电的电路配置入H02J 7/00)[6]" Target="frmContent" Href="../searchservlet?query=B60S5/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60S5/06"/>
+  </TreeNode>
+  <TreeNode Title="B60S9/00 用于全部或部分支承、举升或调试车辆的地面接车装置，例如内装千斤顶的(举升装置本身入B66F；支承本身入F16M)" Target="frmContent" Href="../searchservlet?query=B60S9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60S9/00">
+    <TreeNode Title="B60S9/02 # 仅用于举升或支承的" Target="frmContent" Href="../searchservlet?query=B60S9/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60S9/02">
+      <TreeNode Title="B60S9/04 ##机械的" Target="frmContent" Href="../searchservlet?query=B60S9/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60S9/04">
+        <TreeNode Title="B60S9/06 ###螺杆—螺母型的" Target="frmContent" Href="../searchservlet?query=B60S9/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60S9/06">
+          <TreeNode Title="B60S9/08 ####螺杆轴是大体垂直的" Target="frmContent" Href="../searchservlet?query=B60S9/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60S9/08"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="B60S9/10 ##用液压的" Target="frmContent" Href="../searchservlet?query=B60S9/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60S9/10">
+        <TreeNode Title="B60S9/12 ###套筒型的" Target="frmContent" Href="../searchservlet?query=B60S9/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60S9/12"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="B60S9/14 # 兼用于举升和调试的" Target="frmContent" Href="../searchservlet?query=B60S9/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60S9/14">
+      <TreeNode Title="B60S9/16 ##仅在车辆一端操作的(B60S 9/205优先)[4]" Target="frmContent" Href="../searchservlet?query=B60S9/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60S9/16">
+        <TreeNode Title="B60S9/18 ###机械的" Target="frmContent" Href="../searchservlet?query=B60S9/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60S9/18"/>
+        <TreeNode Title="B60S9/20 ###用液压举升的" Target="frmContent" Href="../searchservlet?query=B60S9/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60S9/20"/>
+      </TreeNode>
+      <TreeNode Title="B60S9/205 ##机动调试装置，例如往复从动步进器或旋转从动凸轮(装有驱动行走推进装置，例如行走部件的车辆入B62D 57/02)[4]" Target="frmContent" Href="../searchservlet?query=B60S9/205&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60S9/205">
+        <TreeNode Title="B60S9/21 ###包含旋转从动辅助轮或履带的，例如由支地轮驱动的(有附加或替换支地轮的履带车辆入B62D 55/02，B62D 55/04；由支地轮辅助驱动的入B60K 25/08)[4]" Target="frmContent" Href="../searchservlet?query=B60S9/21&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60S9/21">
+          <TreeNode Title="B60S9/215 ####由辅助电动机驱动的[4]" Target="frmContent" Href="../searchservlet?query=B60S9/215&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60S9/215"/>
+        </TreeNode>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="B60S9/22 # 使举升、支承或调试装置附装在车上的装置(用于单独设备入B60S 11/00)" Target="frmContent" Href="../searchservlet?query=B60S9/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60S9/22"/>
+  </TreeNode>
+  <TreeNode Title="B60S11/00 用于安置单独举升、支承或调试设备的车辆改装" Target="frmContent" Href="../searchservlet?query=B60S11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60S11/00"/>
+  <TreeNode Title="B60S13/00 与车辆分开的调车设备(举车或推车设备入B66F)" Target="frmContent" Href="../searchservlet?query=B60S13/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60S13/00">
+    <TreeNode Title="B60S13/02 # 转台；活动平台(装在存车的车库内入E04H)" Target="frmContent" Href="../searchservlet?query=B60S13/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B60S13/02"/>
+  </TreeNode>
+</Root>

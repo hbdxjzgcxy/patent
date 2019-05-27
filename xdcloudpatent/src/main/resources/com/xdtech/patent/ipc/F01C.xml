@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="F01C1/00 旋转活塞式机器或发动机(有配合元件非平行的轴入F01C 3/00；工作室壁至少有局部弹性变形的入F01C 5/00；有流体环或类似物的入F01C 7/00；旋转活塞式机器或发动机，在其中工作流体全部被1个或几个往复式活塞移动，或工作流体只用来推动一个或多个往复式活塞的入F01B 13/00)" Target="frmContent" Href="../searchservlet?query=F01C1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01C1/00">
+    <TreeNode Title="F01C1/02 #弧形啮合式，即各配合元件具有圆弧形传送运动，每个元件具有相同数量的齿或齿的等同物" Target="frmContent" Href="../searchservlet?query=F01C1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01C1/02">
+      <TreeNode Title="F01C1/04 ##内轴式" Target="frmContent" Href="../searchservlet?query=F01C1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01C1/04"/>
+      <TreeNode Title="F01C1/06 ##不属于内轴式(F01C 1/063优先)" Target="frmContent" Href="../searchservlet?query=F01C1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01C1/06"/>
+      <TreeNode Title="F01C1/063 ##带有同轴安装的构件，在它们之间具有连续变化的圆周空间[3]" Target="frmContent" Href="../searchservlet?query=F01C1/063&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01C1/063">
+        <TreeNode Title="F01C1/067 ###具有凸轮和从动轮式传动装置[3]" Target="frmContent" Href="../searchservlet?query=F01C1/067&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01C1/067"/>
+        <TreeNode Title="F01C1/07 ###具有曲轴和连杆式传动装置[3]" Target="frmContent" Href="../searchservlet?query=F01C1/07&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01C1/07"/>
+        <TreeNode Title="F01C1/073 ###具有棘爪和棘轮式传动装置[3]" Target="frmContent" Href="../searchservlet?query=F01C1/073&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01C1/073"/>
+        <TreeNode Title="F01C1/077 ###具有齿轮式传动装置[3]" Target="frmContent" Href="../searchservlet?query=F01C1/077&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01C1/077"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="F01C1/08 #相互啮合式，即具有与齿轮传运动相似的配合元件的啮合" Target="frmContent" Href="../searchservlet?query=F01C1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01C1/08">
+      <TreeNode Title="F01C1/10 ##内轴式，其外部元件比内部元件有更多齿或齿的等同物，如滚柱" Target="frmContent" Href="../searchservlet?query=F01C1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01C1/10">
+        <TreeNode Title="F01C1/107 ###带螺旋齿[3]" Target="frmContent" Href="../searchservlet?query=F01C1/107&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01C1/107"/>
+        <TreeNode Title="F01C1/113 ###装有滚柱的内部元件与外部元件相啮合[3]" Target="frmContent" Href="../searchservlet?query=F01C1/113&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01C1/113"/>
+      </TreeNode>
+      <TreeNode Title="F01C1/12 ##不同于内轴式的" Target="frmContent" Href="../searchservlet?query=F01C1/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01C1/12">
+        <TreeNode Title="F01C1/14 ###带有带齿的旋转活塞" Target="frmContent" Href="../searchservlet?query=F01C1/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01C1/14">
+          <TreeNode Title="F01C1/16 ####带有斜齿，如人字齿、螺杆式的" Target="frmContent" Href="../searchservlet?query=F01C1/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01C1/16"/>
+          <TreeNode Title="F01C1/18 ####带有相似的齿形(F01C 1/16优先)" Target="frmContent" Href="../searchservlet?query=F01C1/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01C1/18"/>
+          <TreeNode Title="F01C1/20 ####带有不同的齿形(F01C 1/16优先)" Target="frmContent" Href="../searchservlet?query=F01C1/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01C1/20"/>
+        </TreeNode>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="F01C1/22 #内轴式，与其配合元件在相互啮合处具有同方向的运动，或其1个配合元件是固定的，内部元件比外部元件有更多的齿或齿的等同物" Target="frmContent" Href="../searchservlet?query=F01C1/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01C1/22"/>
+    <TreeNode Title="F01C1/24 #反向啮合式，即与配合元件在相互啮合处的运动方向相反" Target="frmContent" Href="../searchservlet?query=F01C1/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01C1/24">
+      <TreeNode Title="F01C1/26 ##内轴式的" Target="frmContent" Href="../searchservlet?query=F01C1/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01C1/26"/>
+      <TreeNode Title="F01C1/28 ##不同于内轴式的" Target="frmContent" Href="../searchservlet?query=F01C1/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01C1/28"/>
+    </TreeNode>
+    <TreeNode Title="F01C1/30 #具有F01C 1/02，F01C 1/08，F01C 1/22，F01C 1/24各组中的两组或多组所包含的特点，或具有在这些组中的一个组所包含的特点且配合元件间具有一些其他形式的运动" Target="frmContent" Href="../searchservlet?query=F01C1/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01C1/30">
+      <TreeNode Title="F01C1/32 ##具有两种运动，即F01C 1/02组规定的运动和配合元件之间的相对往复运动" Target="frmContent" Href="../searchservlet?query=F01C1/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01C1/32">
+        <TreeNode Title="F01C1/324 ###带有铰接到内部元件上的叶片并相对于外部元件作往复运动[3]" Target="frmContent" Href="../searchservlet?query=F01C1/324&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01C1/324">
+          <TreeNode Title="F01C1/328 ####并铰接于外部元件[3]" Target="frmContent" Href="../searchservlet?query=F01C1/328&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01C1/328"/>
+        </TreeNode>
+        <TreeNode Title="F01C1/332 ###带有铰接到外部元件上的叶片并相对于内部元件作往复运动[3]" Target="frmContent" Href="../searchservlet?query=F01C1/332&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01C1/332">
+          <TreeNode Title="F01C1/336 ####并铰接于内部元件[3]" Target="frmContent" Href="../searchservlet?query=F01C1/336&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01C1/336"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="F01C1/34 ##具有F01C 1/08或F01C 1/22组规定的运动和与配合元件之间的相对往复运动" Target="frmContent" Href="../searchservlet?query=F01C1/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01C1/34">
+        <TreeNode Title="F01C1/344 ###带有相对于内部元件作往复运动的叶片[3]" Target="frmContent" Href="../searchservlet?query=F01C1/344&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01C1/344">
+          <TreeNode Title="F01C1/348 ####叶片带有圆周空间，与一个外部可旋转元件相啮合[3]" Target="frmContent" Href="../searchservlet?query=F01C1/348&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01C1/348"/>
+          <TreeNode Title="F01C1/352 ####叶片是用枢接在外部元件轴线上的[3]" Target="frmContent" Href="../searchservlet?query=F01C1/352&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01C1/352"/>
+        </TreeNode>
+        <TreeNode Title="F01C1/356 ###带有相对于外部元件作往复运动的叶片[3]" Target="frmContent" Href="../searchservlet?query=F01C1/356&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01C1/356"/>
+      </TreeNode>
+      <TreeNode Title="F01C1/36 ##具有F01C 1/22和F01C 1/24组所规定的两种运动" Target="frmContent" Href="../searchservlet?query=F01C1/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01C1/36"/>
+      <TreeNode Title="F01C1/38 ##具有F01C 1/02组规定的运动并具有铰接元件(F01C 1/32优先)[3]" Target="frmContent" Href="../searchservlet?query=F01C1/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01C1/38">
+        <TreeNode Title="F01C1/39 ###带有铰接到内部元件和外部元件上的叶片[3]" Target="frmContent" Href="../searchservlet?query=F01C1/39&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01C1/39"/>
+      </TreeNode>
+      <TreeNode Title="F01C1/40 ##具有F01C 1/08或F01C 1/22组规定的运动并具有铰接元件" Target="frmContent" Href="../searchservlet?query=F01C1/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01C1/40">
+        <TreeNode Title="F01C1/44 ###带有铰接于内部元件的叶片[3]" Target="frmContent" Href="../searchservlet?query=F01C1/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01C1/44"/>
+        <TreeNode Title="F01C1/46 ###带有铰接于外部元件的叶片[3]" Target="frmContent" Href="../searchservlet?query=F01C1/46&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01C1/46"/>
+      </TreeNode>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="F01C3/00 旋转活塞式机器或发动机，其配合元件的运动为非平行轴式(其工作室壁至少可局部弹性变形的入F01C 5/00)" Target="frmContent" Href="../searchservlet?query=F01C3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01C3/00">
+    <TreeNode Title="F01C3/02 #相互排列成90°角的轴" Target="frmContent" Href="../searchservlet?query=F01C3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01C3/02">
+      <TreeNode Title="F01C3/04 ##有轴向滑动叶片" Target="frmContent" Href="../searchservlet?query=F01C3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01C3/04"/>
+    </TreeNode>
+    <TreeNode Title="F01C3/06 #相互排列不成90°角的轴" Target="frmContent" Href="../searchservlet?query=F01C3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01C3/06">
+      <TreeNode Title="F01C3/08 ##相互啮合式，即配合元件的啮合和齿轮传动相似" Target="frmContent" Href="../searchservlet?query=F01C3/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01C3/08"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="F01C5/00 旋转活塞式机器或发动机，其工作室壁至少可局部弹性变形" Target="frmContent" Href="../searchservlet?query=F01C5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01C5/00">
+    <TreeNode Title="F01C5/02 #可弹性变形壁是内部元件的一部分，如旋转活塞的一部分" Target="frmContent" Href="../searchservlet?query=F01C5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01C5/02"/>
+    <TreeNode Title="F01C5/04 #可弹性变形壁是外部元件的一部分，如壳体的一部分" Target="frmContent" Href="../searchservlet?query=F01C5/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01C5/04"/>
+    <TreeNode Title="F01C5/06 #可弹性变形壁是独立元件" Target="frmContent" Href="../searchservlet?query=F01C5/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01C5/06">
+      <TreeNode Title="F01C5/08 ##管形，如软管" Target="frmContent" Href="../searchservlet?query=F01C5/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01C5/08"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="F01C7/00 旋转活塞式机器或发动机，带有流体环或类似元件" Target="frmContent" Href="../searchservlet?query=F01C7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01C7/00"/>
+  <TreeNode Title="F01C9/00 摆动活塞式机器或发动机" Target="frmContent" Href="../searchservlet?query=F01C9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01C9/00"/>
+  <TreeNode Title="F01C11/00 两个或多个机器或发动机的组合装置，其各自为旋转活塞式或摆动活塞式(F01C 13/00优先；两台或更多台泵的组合入F04；流体传动装置入F16H)" Target="frmContent" Href="../searchservlet?query=F01C11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01C11/00"/>
+  <TreeNode Title="F01C13/00 适用于特殊应用的机器或发动机；发动机与其从动装置的组合(主要是涉及从动装置方面的，见这些装置的有关类)" Target="frmContent" Href="../searchservlet?query=F01C13/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01C13/00">
+    <TreeNode Title="F01C13/02 #用于驱动手提工具或类似工具" Target="frmContent" Href="../searchservlet?query=F01C13/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01C13/02"/>
+    <TreeNode Title="F01C13/04 #用于驱动泵或压缩机" Target="frmContent" Href="../searchservlet?query=F01C13/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01C13/04"/>
+  </TreeNode>
+  <TreeNode Title="F01C17/00 配合元件的传动装置，如传动旋转活塞和外壳的" Target="frmContent" Href="../searchservlet?query=F01C17/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01C17/00">
+    <TreeNode Title="F01C17/02 #齿轮传动式(F01C 1/077优先)[3]" Target="frmContent" Href="../searchservlet?query=F01C17/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01C17/02"/>
+    <TreeNode Title="F01C17/04 #凸轮和随动机构式(F01C 1/067优先)[3]" Target="frmContent" Href="../searchservlet?query=F01C17/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01C17/04"/>
+    <TreeNode Title="F01C17/06 #采用曲柄、万向接头或类似元件(F01C 1/07优先)[3]" Target="frmContent" Href="../searchservlet?query=F01C17/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01C17/06"/>
+  </TreeNode>
+  <TreeNode Title="F01C19/00 旋转活塞式机器或发动机的密封装置(一般密封装置入F16J)" Target="frmContent" Href="../searchservlet?query=F01C19/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01C19/00">
+    <TreeNode Title="F01C19/02 #工作流体径向运动的密封" Target="frmContent" Href="../searchservlet?query=F01C19/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01C19/02">
+      <TreeNode Title="F01C19/04 ##用刚性材料的" Target="frmContent" Href="../searchservlet?query=F01C19/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01C19/04"/>
+      <TreeNode Title="F01C19/06 ##用弹性材料的" Target="frmContent" Href="../searchservlet?query=F01C19/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01C19/06"/>
+    </TreeNode>
+    <TreeNode Title="F01C19/08 #工作流体轴向运动的密封" Target="frmContent" Href="../searchservlet?query=F01C19/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01C19/08"/>
+    <TreeNode Title="F01C19/10 #径向运动和轴向运动零件之间的工作流体密封" Target="frmContent" Href="../searchservlet?query=F01C19/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01C19/10"/>
+    <TreeNode Title="F01C19/12 #不是用于工作流体的密封" Target="frmContent" Href="../searchservlet?query=F01C19/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01C19/12"/>
+  </TreeNode>
+  <TreeNode Title="F01C20/00 机器或发动机的控制、监测或安全装置 [8]" Target="frmContent" Href="../searchservlet?query=F01C20/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01C20/00">
+    <TreeNode Title="F01C20/02 #专门适用于多台串联或并联连接的机器或发动机的[8]" Target="frmContent" Href="../searchservlet?query=F01C20/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01C20/02"/>
+    <TreeNode Title="F01C20/04 #专门适用于可逆式机器或发动机的[8]" Target="frmContent" Href="../searchservlet?query=F01C20/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01C20/04"/>
+    <TreeNode Title="F01C20/06 #专门适用于停止、起动、怠速或空载操作的[8]" Target="frmContent" Href="../searchservlet?query=F01C20/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01C20/06"/>
+    <TreeNode Title="F01C20/08 #以改变转速为特征的[8]" Target="frmContent" Href="../searchservlet?query=F01C20/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01C20/08"/>
+    <TreeNode Title="F01C20/10 #以改变进口孔或出口孔相对于工作室的位置为特征的[8]" Target="frmContent" Href="../searchservlet?query=F01C20/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01C20/10">
+      <TreeNode Title="F01C20/12 ##使用滑阀的[8]" Target="frmContent" Href="../searchservlet?query=F01C20/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01C20/12"/>
+      <TreeNode Title="F01C20/14 ##使用转阀的[8]" Target="frmContent" Href="../searchservlet?query=F01C20/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01C20/14"/>
+      <TreeNode Title="F01C20/16 ##使用升阀的[8]" Target="frmContent" Href="../searchservlet?query=F01C20/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01C20/16"/>
+    </TreeNode>
+    <TreeNode Title="F01C20/18 #以改变工作室的容积为特征的(通过改变进口孔或出口孔位置的入F01C 20/10)[8]" Target="frmContent" Href="../searchservlet?query=F01C20/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01C20/18">
+      <TreeNode Title="F01C20/20 ##通过改变工作室的内部或外部轮廓形状的[8]" Target="frmContent" Href="../searchservlet?query=F01C20/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01C20/20"/>
+      <TreeNode Title="F01C20/22 ##通过改变配合元件之间偏心度的[8]" Target="frmContent" Href="../searchservlet?query=F01C20/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01C20/22"/>
+    </TreeNode>
+    <TreeNode Title="F01C20/24 #以使用调节压力或流量阀为特征的，如排放阀 (F01C 20/10优先) [8]" Target="frmContent" Href="../searchservlet?query=F01C20/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01C20/24">
+      <TreeNode Title="F01C20/26 ##使用旁路通道的[8]" Target="frmContent" Href="../searchservlet?query=F01C20/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01C20/26"/>
+    </TreeNode>
+    <TreeNode Title="F01C20/28 #安全装置；监测[8]" Target="frmContent" Href="../searchservlet?query=F01C20/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01C20/28"/>
+  </TreeNode>
+  <TreeNode Title="F01C21/00 不包含在大组F01C 1/00至F01C 20/00中的部件、零件或附件" Target="frmContent" Href="../searchservlet?query=F01C21/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01C21/00">
+    <TreeNode Title="F01C21/02 #轴承装置(轴承结构入F16C)" Target="frmContent" Href="../searchservlet?query=F01C21/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01C21/02"/>
+    <TreeNode Title="F01C21/04 #润滑(一般机器或发动机的润滑入F01M)" Target="frmContent" Href="../searchservlet?query=F01C21/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01C21/04"/>
+    <TreeNode Title="F01C21/06 #加热；冷却(一般机器和发动机的加热、冷却入F01P)；隔热(一般的隔热入F16L)" Target="frmContent" Href="../searchservlet?query=F01C21/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01C21/06"/>
+    <TreeNode Title="F01C21/08 #旋转活塞(一般往复式活塞入F16J)" Target="frmContent" Href="../searchservlet?query=F01C21/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01C21/08"/>
+    <TreeNode Title="F01C21/10 #与旋转活塞配合的外部元件；外壳(一般旋转式发动机或机器的外壳入F16M)" Target="frmContent" Href="../searchservlet?query=F01C21/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01C21/10"/>
+    <TreeNode Title="F01C21/18 #用于吸入或排出工作流体的装置，如进口或出口的结构特征[8]" Target="frmContent" Href="../searchservlet?query=F01C21/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F01C21/18"/>
+  </TreeNode>
+</Root>

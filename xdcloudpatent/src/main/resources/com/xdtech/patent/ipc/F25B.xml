@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="F25B1/00 不可逆循环的压缩机器、装置或系统(F25B 3/00，F25B 5/00，F25B 6/00，F25B 7/00，F25B 9/00优先)[5]" Target="frmContent" Href="../searchservlet?query=F25B1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25B1/00">
+    <TreeNode Title="F25B1/02 #用往复活塞式压缩机的(F25B 1/10优先)" Target="frmContent" Href="../searchservlet?query=F25B1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25B1/02"/>
+    <TreeNode Title="F25B1/04 #用旋转式压缩机的(F25B 1/10优先)" Target="frmContent" Href="../searchservlet?query=F25B1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25B1/04">
+      <TreeNode Title="F25B1/047 ##螺杆式的[5]" Target="frmContent" Href="../searchservlet?query=F25B1/047&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25B1/047"/>
+      <TreeNode Title="F25B1/053 ##透平式的[5]" Target="frmContent" Href="../searchservlet?query=F25B1/053&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25B1/053"/>
+    </TreeNode>
+    <TreeNode Title="F25B1/06 #用喷气式压缩机的，例如应用压力液体(F25B 1/10优先)" Target="frmContent" Href="../searchservlet?query=F25B1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25B1/06">
+      <TreeNode Title="F25B1/08 ##应用压力蒸气的" Target="frmContent" Href="../searchservlet?query=F25B1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25B1/08"/>
+    </TreeNode>
+    <TreeNode Title="F25B1/10 #用多级压缩的(级联工作的入F25B 7/00)" Target="frmContent" Href="../searchservlet?query=F25B1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25B1/10"/>
+  </TreeNode>
+  <TreeNode Title="F25B3/00 整体式旋转压缩机器，即压缩机、冷凝器和蒸发器作为一个部件旋转" Target="frmContent" Href="../searchservlet?query=F25B3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25B3/00"/>
+  <TreeNode Title="F25B5/00 具有几个蒸发回路的压缩机、压缩装置或压缩系统，例如可改变制冷能力的(带级联工作的入F25B 7/00)" Target="frmContent" Href="../searchservlet?query=F25B5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25B5/00">
+    <TreeNode Title="F25B5/02 #并行配置的[5]" Target="frmContent" Href="../searchservlet?query=F25B5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25B5/02"/>
+    <TreeNode Title="F25B5/04 #串联配置的[5]" Target="frmContent" Href="../searchservlet?query=F25B5/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25B5/04"/>
+  </TreeNode>
+  <TreeNode Title="F25B6/00 带有若干冷凝器回路的压缩机器、装置或系统[5]" Target="frmContent" Href="../searchservlet?query=F25B6/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25B6/00">
+    <TreeNode Title="F25B6/02 #并行配置的[5]" Target="frmContent" Href="../searchservlet?query=F25B6/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25B6/02"/>
+    <TreeNode Title="F25B6/04 #串联配置的[5]" Target="frmContent" Href="../searchservlet?query=F25B6/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25B6/04"/>
+  </TreeNode>
+  <TreeNode Title="F25B7/00 带有级联工作的压缩机、装置或系统，即用两个或多个环路，从一个环路中的冷凝器得到的热量由另一个环路的蒸发器吸收(F25B 9/00优先)" Target="frmContent" Href="../searchservlet?query=F25B7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25B7/00"/>
+  <TreeNode Title="F25B9/00 采用空气或其他低沸点气体为制冷剂的压缩机器、装置或系统" Target="frmContent" Href="../searchservlet?query=F25B9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25B9/00">
+    <TreeNode Title="F25B9/02 #应用焦耳—汤普森效应；应用涡流效应" Target="frmContent" Href="../searchservlet?query=F25B9/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25B9/02">
+      <TreeNode Title="F25B9/04 ##应用涡流效应[5]" Target="frmContent" Href="../searchservlet?query=F25B9/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25B9/04"/>
+    </TreeNode>
+    <TreeNode Title="F25B9/06 #采用膨胀器(F25B 9/10优先)[5]" Target="frmContent" Href="../searchservlet?query=F25B9/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25B9/06"/>
+    <TreeNode Title="F25B9/08 #采用喷射器(F25B 9/10优先)[5]" Target="frmContent" Href="../searchservlet?query=F25B9/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25B9/08"/>
+    <TreeNode Title="F25B9/10 #采用多级冷却[5]" Target="frmContent" Href="../searchservlet?query=F25B9/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25B9/10"/>
+    <TreeNode Title="F25B9/12 #采用3He-4He稀释[5]" Target="frmContent" Href="../searchservlet?query=F25B9/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25B9/12"/>
+    <TreeNode Title="F25B9/14 #以循环为特征的，例如斯特林循环[5]" Target="frmContent" Href="../searchservlet?query=F25B9/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25B9/14"/>
+  </TreeNode>
+  <TreeNode Title="F25B11/00 用涡轮机的压缩机器、装置或系统，例如燃气涡轮机" Target="frmContent" Href="../searchservlet?query=F25B11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25B11/00">
+    <TreeNode Title="F25B11/02 #用作膨胀器的(F25B 9/06优先)[5]" Target="frmContent" Href="../searchservlet?query=F25B11/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25B11/02">
+      <TreeNode Title="F25B11/04 ##离心式的[5]" Target="frmContent" Href="../searchservlet?query=F25B11/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25B11/04"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="F25B13/00 具有可逆循环的压缩机器、装置或系统(除霜循环入F25B 47/02)" Target="frmContent" Href="../searchservlet?query=F25B13/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25B13/00"/>
+  <TreeNode Title="F25B15/00 能连续运转的吸着式机器、装置或系统，如吸收式" Target="frmContent" Href="../searchservlet?query=F25B15/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25B15/00">
+    <TreeNode Title="F25B15/02 #不用惰性气体(F25B 15/12，F25B 15/14，F25B 15/16优先)" Target="frmContent" Href="../searchservlet?query=F25B15/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25B15/02">
+      <TreeNode Title="F25B15/04 ##从水溶液中气化氨作制冷剂的" Target="frmContent" Href="../searchservlet?query=F25B15/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25B15/04"/>
+      <TreeNode Title="F25B15/06 ##从盐溶液，例如溴化锂中气化水蒸气作制冷剂" Target="frmContent" Href="../searchservlet?query=F25B15/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25B15/06"/>
+      <TreeNode Title="F25B15/08 ##用硫酸作制冷剂的" Target="frmContent" Href="../searchservlet?query=F25B15/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25B15/08"/>
+      <TreeNode Title="F25B15/09 ##从氢化物中解吸出氢作为制冷剂[5]" Target="frmContent" Href="../searchservlet?query=F25B15/09&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25B15/09"/>
+    </TreeNode>
+    <TreeNode Title="F25B15/10 #用惰性气体的(F25B 15/12，F25B 15/14，F25B 15/16优先)" Target="frmContent" Href="../searchservlet?query=F25B15/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25B15/10"/>
+    <TreeNode Title="F25B15/12 #用再吸收器的(F25B 15/14优先)" Target="frmContent" Href="../searchservlet?query=F25B15/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25B15/12"/>
+    <TreeNode Title="F25B15/14 #利用渗透作用的" Target="frmContent" Href="../searchservlet?query=F25B15/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25B15/14"/>
+    <TreeNode Title="F25B15/16 #利用解吸循环的" Target="frmContent" Href="../searchservlet?query=F25B15/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25B15/16"/>
+  </TreeNode>
+  <TreeNode Title="F25B17/00 间歇运转的吸着式机器、装置或系统，例如吸收式或吸附式" Target="frmContent" Href="../searchservlet?query=F25B17/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25B17/00">
+    <TreeNode Title="F25B17/02 #吸收剂或吸附剂是液体的，例如盐水(F25B 17/10优先)" Target="frmContent" Href="../searchservlet?query=F25B17/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25B17/02">
+      <TreeNode Title="F25B17/04 ##用两个或多个发生器交替运转的" Target="frmContent" Href="../searchservlet?query=F25B17/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25B17/04"/>
+      <TreeNode Title="F25B17/06 ##以发生器和蒸发器组成一个可倾斜的或旋转的装置" Target="frmContent" Href="../searchservlet?query=F25B17/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25B17/06"/>
+    </TreeNode>
+    <TreeNode Title="F25B17/08 #吸收剂或吸附剂是固体的，例如盐(F25B 17/12优先)[5]" Target="frmContent" Href="../searchservlet?query=F25B17/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25B17/08"/>
+    <TreeNode Title="F25B17/10 #使用吸热盐溶液" Target="frmContent" Href="../searchservlet?query=F25B17/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25B17/10"/>
+    <TreeNode Title="F25B17/12 #从氢化物中解吸氢[5]" Target="frmContent" Href="../searchservlet?query=F25B17/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25B17/12"/>
+  </TreeNode>
+  <TreeNode Title="F25B19/00 利用制冷剂蒸发但不回收蒸气的制冷机器、装置或系统" Target="frmContent" Href="../searchservlet?query=F25B19/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25B19/00">
+    <TreeNode Title="F25B19/02 #应用流体喷射，例如蒸汽" Target="frmContent" Href="../searchservlet?query=F25B19/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25B19/02">
+      <TreeNode Title="F25B19/04 ##应用液体喷射，例如水" Target="frmContent" Href="../searchservlet?query=F25B19/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25B19/04"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="F25B21/00 应用电或磁效应的制冷机器、装置或系统" Target="frmContent" Href="../searchservlet?query=F25B21/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25B21/00">
+    <TreeNode Title="F25B21/02 #应用珀耳贴效应；应用能斯特—厄廷豪森效应(热电元件入H01L 35/00，H01L 37/00)" Target="frmContent" Href="../searchservlet?query=F25B21/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25B21/02">
+      <TreeNode Title="F25B21/04 ##可逆的[5]" Target="frmContent" Href="../searchservlet?query=F25B21/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25B21/04"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="F25B23/00 用F25B 1/00至F25B 21/00各组不包含的单一运转方式的制冷机器、装置或系统，例如应用选择性的辐射作用" Target="frmContent" Href="../searchservlet?query=F25B23/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25B23/00"/>
+  <TreeNode Title="F25B25/00 应用F25B 1/00至F25B 23/00各组中两个组或多组包含的运转方式组合的制冷机器、装置或系统(由单一大组包含的两种或多种运转方式的组合，见相应的组)" Target="frmContent" Href="../searchservlet?query=F25B25/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25B25/00">
+    <TreeNode Title="F25B25/02 #压缩—吸着式制冷机器、装置或系统" Target="frmContent" Href="../searchservlet?query=F25B25/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25B25/02"/>
+  </TreeNode>
+  <TreeNode Title="F25B27/00 应用特定能源的制冷机器、装置或系统(F25B 30/06优先)" Target="frmContent" Href="../searchservlet?query=F25B27/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25B27/00">
+    <TreeNode Title="F25B27/02 #使用废热，如从内燃机的" Target="frmContent" Href="../searchservlet?query=F25B27/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25B27/02"/>
+  </TreeNode>
+  <TreeNode Title="F25B29/00 加热和制冷组合系统，例如交替或同时运转的[5]" Target="frmContent" Href="../searchservlet?query=F25B29/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25B29/00"/>
+  <TreeNode Title="F25B30/00 热泵[5]" Target="frmContent" Href="../searchservlet?query=F25B30/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25B30/00">
+    <TreeNode Title="F25B30/02 #压缩式[5]" Target="frmContent" Href="../searchservlet?query=F25B30/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25B30/02"/>
+    <TreeNode Title="F25B30/04 #吸着式[5]" Target="frmContent" Href="../searchservlet?query=F25B30/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25B30/04"/>
+    <TreeNode Title="F25B30/06 #以低势热源为特征的[5]" Target="frmContent" Href="../searchservlet?query=F25B30/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25B30/06"/>
+  </TreeNode>
+  <TreeNode Title="F25B31/00 压缩机的布置(压缩机本身入F04)" Target="frmContent" Href="../searchservlet?query=F25B31/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25B31/00">
+    <TreeNode Title="F25B31/02 #电机—压缩机组合的" Target="frmContent" Href="../searchservlet?query=F25B31/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25B31/02"/>
+  </TreeNode>
+  <TreeNode Title="F25B33/00 发生器；分析器；精馏器(发生器—吸收器入F25B 35/00)" Target="frmContent" Href="../searchservlet?query=F25B33/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25B33/00"/>
+  <TreeNode Title="F25B35/00 发生器—吸收器，即可应用吸收作用或吸附作用的发生器" Target="frmContent" Href="../searchservlet?query=F25B35/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25B35/00">
+    <TreeNode Title="F25B35/02 #用液体作吸着剂，例如盐水" Target="frmContent" Href="../searchservlet?query=F25B35/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25B35/02"/>
+    <TreeNode Title="F25B35/04 #用固体作吸着剂" Target="frmContent" Href="../searchservlet?query=F25B35/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25B35/04"/>
+  </TreeNode>
+  <TreeNode Title="F25B37/00 吸收器；吸附器(发生器—吸收器入F25B 35/00；包括用固体吸附剂处理液体的分离过程入B01D 15/00；用吸附作用使气体或蒸气分离的入B01D 53/02；用吸收作用使气体或蒸气分离的入B01D 53/14；利用吸附作用或吸收作用进行测试的入G01N 30/00)" Target="frmContent" Href="../searchservlet?query=F25B37/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25B37/00"/>
+  <TreeNode Title="F25B39/00 蒸发器；冷凝器" Target="frmContent" Href="../searchservlet?query=F25B39/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25B39/00">
+    <TreeNode Title="F25B39/02 #蒸发器" Target="frmContent" Href="../searchservlet?query=F25B39/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25B39/02"/>
+    <TreeNode Title="F25B39/04 #冷凝器" Target="frmContent" Href="../searchservlet?query=F25B39/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25B39/04"/>
+  </TreeNode>
+  <TreeNode Title="F25B40/00 过冷器，过热降温器或回热器[5]" Target="frmContent" Href="../searchservlet?query=F25B40/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25B40/00">
+    <TreeNode Title="F25B40/02 #过冷器[5]" Target="frmContent" Href="../searchservlet?query=F25B40/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25B40/02"/>
+    <TreeNode Title="F25B40/04 #过热降温器[5]" Target="frmContent" Href="../searchservlet?query=F25B40/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25B40/04"/>
+    <TreeNode Title="F25B40/06 #回热器[5]" Target="frmContent" Href="../searchservlet?query=F25B40/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25B40/06"/>
+  </TreeNode>
+  <TreeNode Title="F25B41/00 流体循环装置，例如从蒸发器往发生器输送液体用的(泵本身及其所用密封入F04)" Target="frmContent" Href="../searchservlet?query=F25B41/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25B41/00">
+    <TreeNode Title="F25B41/02 #应用电—渗作用" Target="frmContent" Href="../searchservlet?query=F25B41/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25B41/02"/>
+    <TreeNode Title="F25B41/04 #阀的配置(阀体身入F16K)" Target="frmContent" Href="../searchservlet?query=F25B41/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25B41/04"/>
+    <TreeNode Title="F25B41/06 #流量限制器，例如毛细管；及其配置" Target="frmContent" Href="../searchservlet?query=F25B41/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25B41/06"/>
+  </TreeNode>
+  <TreeNode Title="F25B43/00 分离或净化气体或液体的装置(在分析器或精馏器内的入F25B 33/00)；气化液态制冷剂剩余物的装置，例如用加热(F25B 40/00优先)[5]" Target="frmContent" Href="../searchservlet?query=F25B43/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25B43/00">
+    <TreeNode Title="F25B43/02 #从制冷剂分离润滑剂的" Target="frmContent" Href="../searchservlet?query=F25B43/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25B43/02"/>
+    <TreeNode Title="F25B43/04 #回收不凝气体的" Target="frmContent" Href="../searchservlet?query=F25B43/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25B43/04"/>
+  </TreeNode>
+  <TreeNode Title="F25B45/00 加注和排出制冷剂的装置" Target="frmContent" Href="../searchservlet?query=F25B45/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25B45/00"/>
+  <TreeNode Title="F25B47/00 不包含在其他小类中的防止或清除淀积物或腐蚀物的装置" Target="frmContent" Href="../searchservlet?query=F25B47/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25B47/00">
+    <TreeNode Title="F25B47/02 #除霜循环[5]" Target="frmContent" Href="../searchservlet?query=F25B47/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25B47/02"/>
+  </TreeNode>
+  <TreeNode Title="F25B49/00 控制或安全设备的配置或安装(制冷设备试验入G01M；一般控制入G05)" Target="frmContent" Href="../searchservlet?query=F25B49/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25B49/00">
+    <TreeNode Title="F25B49/02 #用于压缩式制冷机器、装置或系统的[5]" Target="frmContent" Href="../searchservlet?query=F25B49/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25B49/02"/>
+    <TreeNode Title="F25B49/04 #用于吸着式制冷机器、装置或系统的[5]" Target="frmContent" Href="../searchservlet?query=F25B49/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F25B49/04"/>
+  </TreeNode>
+</Root>

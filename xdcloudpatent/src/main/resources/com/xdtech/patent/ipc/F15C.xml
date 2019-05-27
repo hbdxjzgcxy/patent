@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="F15C1/00 无运动部件的回路元件" Target="frmContent" Href="../searchservlet?query=F15C1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F15C1/00">
+    <TreeNode Title="F15C1/02 #零件" Target="frmContent" Href="../searchservlet?query=F15C1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F15C1/02">
+      <TreeNode Title="F15C1/04 ##控制流体进流体装置的方法，例如用电信号" Target="frmContent" Href="../searchservlet?query=F15C1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F15C1/04"/>
+      <TreeNode Title="F15C1/06 ##结构元件；特殊材料的选择" Target="frmContent" Href="../searchservlet?query=F15C1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F15C1/06"/>
+    </TreeNode>
+    <TreeNode Title="F15C1/08 #边界层装置，如附壁型放大器[2]" Target="frmContent" Href="../searchservlet?query=F15C1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F15C1/08">
+      <TreeNode Title="F15C1/10 ##数字的运算，例如形成一种符合逻辑的触发器，“或”门，“非或”门" Target="frmContent" Href="../searchservlet?query=F15C1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F15C1/10">
+        <TreeNode Title="F15C1/12 ###完成同种运算所用的多分路，如多数门、全同门" Target="frmContent" Href="../searchservlet?query=F15C1/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F15C1/12"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="F15C1/14 #射流相互作用装置；动量交换装置，例如用两个垂直的流体喷射的交换操作的" Target="frmContent" Href="../searchservlet?query=F15C1/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F15C1/14"/>
+    <TreeNode Title="F15C1/16 #涡流装置，即其中利用因流体中形成涡流而产生压降的装置" Target="frmContent" Href="../searchservlet?query=F15C1/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F15C1/16"/>
+    <TreeNode Title="F15C1/18 #紊流装置，即其中的控制流动使层流变成紊流的装置" Target="frmContent" Href="../searchservlet?query=F15C1/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F15C1/18"/>
+    <TreeNode Title="F15C1/20 #直接冲击装置，即其中两股相对共线的流体互相冲击的装置" Target="frmContent" Href="../searchservlet?query=F15C1/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F15C1/20"/>
+    <TreeNode Title="F15C1/22 #振荡器[2]" Target="frmContent" Href="../searchservlet?query=F15C1/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F15C1/22"/>
+  </TreeNode>
+  <TreeNode Title="F15C3/00 具有运动部件的回路元件(阀、阀的结构入F16K)" Target="frmContent" Href="../searchservlet?query=F15C3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F15C3/00">
+    <TreeNode Title="F15C3/02 #使用柱形阀的" Target="frmContent" Href="../searchservlet?query=F15C3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F15C3/02"/>
+    <TreeNode Title="F15C3/04 #使用隔膜的(阀与可充气弹性体的连接入B60C 29/00)" Target="frmContent" Href="../searchservlet?query=F15C3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F15C3/04"/>
+    <TreeNode Title="F15C3/06 #使用球阀的" Target="frmContent" Href="../searchservlet?query=F15C3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F15C3/06"/>
+    <TreeNode Title="F15C3/08 #使用片簧的" Target="frmContent" Href="../searchservlet?query=F15C3/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F15C3/08"/>
+    <TreeNode Title="F15C3/10 #使用喷嘴或射流管的" Target="frmContent" Href="../searchservlet?query=F15C3/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F15C3/10">
+      <TreeNode Title="F15C3/12 ##喷嘴和射流管是可移动的" Target="frmContent" Href="../searchservlet?query=F15C3/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F15C3/12"/>
+      <TreeNode Title="F15C3/14 ##喷嘴喷射的流体由转板截断" Target="frmContent" Href="../searchservlet?query=F15C3/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F15C3/14"/>
+    </TreeNode>
+    <TreeNode Title="F15C3/16 #振荡器[2]" Target="frmContent" Href="../searchservlet?query=F15C3/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F15C3/16"/>
+  </TreeNode>
+  <TreeNode Title="F15C4/00 以其特殊功能为特点的回路元件" Target="frmContent" Href="../searchservlet?query=F15C4/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F15C4/00"/>
+  <TreeNode Title="F15C5/00 流体回路元件的制造；其组装件的制造" Target="frmContent" Href="../searchservlet?query=F15C5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F15C5/00"/>
+  <TreeNode Title="F15C7/00 混合元件，即具有属于F15C 1/00和F15C 3/00组之特征的回路元件[2]" Target="frmContent" Href="../searchservlet?query=F15C7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F15C7/00"/>
+</Root>

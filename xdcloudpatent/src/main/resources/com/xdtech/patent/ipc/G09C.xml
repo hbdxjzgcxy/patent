@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="G09C1/00 通过对符号或符号组进行转换或者按照预定的系统用另外的符号来替代，将所给出的符号序列，例如可理解的原文，交换成不可理解的符号序列的装置或方法(密码打字机入G09C 3/00)" Target="frmContent" Href="../searchservlet?query=G09C1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G09C1/00">
+    <TreeNode Title="G09C1/02 #应用图表式编制的密码" Target="frmContent" Href="../searchservlet?query=G09C1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G09C1/02"/>
+    <TreeNode Title="G09C1/04 #应用符号载体或指示器相对于由置换码或键所确定的位置作相对移动，由此给出适合于原文的明的或密写的代码" Target="frmContent" Href="../searchservlet?query=G09C1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G09C1/04"/>
+    <TreeNode Title="G09C1/06 #由相应的符号组成明的原文的各单元和由相应的符号组成的密码的各单元连接起来运转，当器械运转时，这些连接件自动地和连续地以编码或键构件置换" Target="frmContent" Href="../searchservlet?query=G09C1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G09C1/06">
+      <TreeNode Title="G09C1/08 ##机械的连接" Target="frmContent" Href="../searchservlet?query=G09C1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G09C1/08"/>
+      <TreeNode Title="G09C1/10 ##电的连接" Target="frmContent" Href="../searchservlet?query=G09C1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G09C1/10">
+        <TreeNode Title="G09C1/12 ###由装有触点的置换圆盘构成的" Target="frmContent" Href="../searchservlet?query=G09C1/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G09C1/12"/>
+      </TreeNode>
+      <TreeNode Title="G09C1/14 ##包含可拆的或可互换的编码数字，例如主盘带、穿孔卡" Target="frmContent" Href="../searchservlet?query=G09C1/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G09C1/14"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="G09C3/00 编制或破译密码原文的打字机(使用的记录载体入G06K)" Target="frmContent" Href="../searchservlet?query=G09C3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G09C3/00">
+    <TreeNode Title="G09C3/02 #利用辅助的键或键盘作用到原来的键或键盘上" Target="frmContent" Href="../searchservlet?query=G09C3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G09C3/02"/>
+    <TreeNode Title="G09C3/04 #当操作时，在键和活字杆之间的运转的连接件自动地和连续地被编码或键构件所置换" Target="frmContent" Href="../searchservlet?query=G09C3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G09C3/04">
+      <TreeNode Title="G09C3/06 ##机械的连接" Target="frmContent" Href="../searchservlet?query=G09C3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G09C3/06"/>
+      <TreeNode Title="G09C3/08 ##电的连接" Target="frmContent" Href="../searchservlet?query=G09C3/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G09C3/08"/>
+      <TreeNode Title="G09C3/10 ##包含可拆的或可互换的编码构件，例如主盘带、穿孔卡" Target="frmContent" Href="../searchservlet?query=G09C3/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G09C3/10"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="G09C5/00 本小类其他各组中不包含的译成密码的器械或方法，例如包括如设计、书写或打印的文电图表数据的隐蔽或变形" Target="frmContent" Href="../searchservlet?query=G09C5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G09C5/00"/>
+</Root>

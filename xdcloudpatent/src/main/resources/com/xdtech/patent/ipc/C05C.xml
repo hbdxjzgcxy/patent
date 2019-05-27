@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="C05C1/00 硝酸铵肥料" Target="frmContent" Href="../searchservlet?query=C05C1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C05C1/00">
+    <TreeNode Title="C05C1/02 #造粒；压片；稳定；着色" Target="frmContent" Href="../searchservlet?query=C05C1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C05C1/02"/>
+  </TreeNode>
+  <TreeNode Title="C05C3/00 含有其他铵盐或氨的肥料，如煤气水" Target="frmContent" Href="../searchservlet?query=C05C3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C05C3/00"/>
+  <TreeNode Title="C05C5/00 含有其他硝酸盐的肥料" Target="frmContent" Href="../searchservlet?query=C05C5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C05C5/00">
+    <TreeNode Title="C05C5/02 #含硝酸钠或硝酸钾的" Target="frmContent" Href="../searchservlet?query=C05C5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C05C5/02"/>
+    <TreeNode Title="C05C5/04 #含硝酸钙的" Target="frmContent" Href="../searchservlet?query=C05C5/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C05C5/04"/>
+  </TreeNode>
+  <TreeNode Title="C05C7/00 含氰氨化钙或其他氰氨化物的肥料" Target="frmContent" Href="../searchservlet?query=C05C7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C05C7/00">
+    <TreeNode Title="C05C7/02 #造料；压片；脱气；水合；硬化；稳定；油化" Target="frmContent" Href="../searchservlet?query=C05C7/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C05C7/02"/>
+  </TreeNode>
+  <TreeNode Title="C05C9/00 含尿素或尿素化合物的肥料" Target="frmContent" Href="../searchservlet?query=C05C9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C05C9/00">
+    <TreeNode Title="C05C9/02 #含脲醛缩合物的" Target="frmContent" Href="../searchservlet?query=C05C9/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C05C9/02"/>
+  </TreeNode>
+  <TreeNode Title="C05C11/00 其他氮肥" Target="frmContent" Href="../searchservlet?query=C05C11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C05C11/00"/>
+  <TreeNode Title="C05C13/00 包含在C05C 1/00至C05C 11/00一个以上的大组中的混合氮肥" Target="frmContent" Href="../searchservlet?query=C05C13/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C05C13/00"/>
+</Root>

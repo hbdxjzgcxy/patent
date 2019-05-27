@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="H01Q1/00 天线零部件或与天线结合的装置(改变方向图形的指向性的装置入H01Q 3/00)" Target="frmContent" Href="../searchservlet?query=H01Q1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q1/00">
+    <TreeNode Title="H01Q1/02 #除冰装置；干燥装置" Target="frmContent" Href="../searchservlet?query=H01Q1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q1/02"/>
+    <TreeNode Title="H01Q1/04 #适于地下或水中应用的" Target="frmContent" Href="../searchservlet?query=H01Q1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q1/04"/>
+    <TreeNode Title="H01Q1/06 #天线点灯或照明用装置，例如警戒用" Target="frmContent" Href="../searchservlet?query=H01Q1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q1/06"/>
+    <TreeNode Title="H01Q1/08 #折叠天线或其附件的装置(可折叠环形天线入H01Q 7/02；可折叠H形天线或八木天线入H01Q 19/04)" Target="frmContent" Href="../searchservlet?query=H01Q1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q1/08">
+      <TreeNode Title="H01Q1/10 ##可伸缩单元" Target="frmContent" Href="../searchservlet?query=H01Q1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q1/10"/>
+    </TreeNode>
+    <TreeNode Title="H01Q1/12 #支持物；安装装置(一般支持导电体入H02G 7/00)" Target="frmContent" Href="../searchservlet?query=H01Q1/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q1/12">
+      <TreeNode Title="H01Q1/14 ##支持导线或其他非刚性辐射单元的" Target="frmContent" Href="../searchservlet?query=H01Q1/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q1/14">
+        <TreeNode Title="H01Q1/16 ###拉紧器、扩张器或分隔器" Target="frmContent" Href="../searchservlet?query=H01Q1/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q1/16"/>
+      </TreeNode>
+      <TreeNode Title="H01Q1/18 ##在非稳定平台上稳定天线的装置" Target="frmContent" Href="../searchservlet?query=H01Q1/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q1/18"/>
+      <TreeNode Title="H01Q1/20 ##弹性安装件" Target="frmContent" Href="../searchservlet?query=H01Q1/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q1/20"/>
+      <TreeNode Title="H01Q1/22 ##结构上与其他设备或物体相结合的" Target="frmContent" Href="../searchservlet?query=H01Q1/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q1/22">
+        <TreeNode Title="H01Q1/24 ###与接收机相结合的" Target="frmContent" Href="../searchservlet?query=H01Q1/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q1/24"/>
+        <TreeNode Title="H01Q1/26 ###与放电管相结合的" Target="frmContent" Href="../searchservlet?query=H01Q1/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q1/26"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="H01Q1/27 #适合于可移动物体上或其内使用的(H01Q 1/08，H01Q 1/12，H01Q 1/18优先)[3]" Target="frmContent" Href="../searchservlet?query=H01Q1/27&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q1/27">
+      <TreeNode Title="H01Q1/28 ##适合于飞机、导弹、卫星或气球上或其内使用的[3]" Target="frmContent" Href="../searchservlet?query=H01Q1/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q1/28">
+        <TreeNode Title="H01Q1/30 ###用于拖曳天线的装置[3]" Target="frmContent" Href="../searchservlet?query=H01Q1/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q1/30"/>
+      </TreeNode>
+      <TreeNode Title="H01Q1/32 ##适于公路或铁路车辆上或内部使用的(可伸缩单元入H01Q 1/10；天线用弹性安装件入H01Q 1/20)[3]" Target="frmContent" Href="../searchservlet?query=H01Q1/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q1/32"/>
+      <TreeNode Title="H01Q1/34 ##用于轮船、潜艇、浮标或鱼雷上或内部使用的(用于水中的入H01Q 1/04；可伸缩的环形天线入H01Q 7/02)[3]" Target="frmContent" Href="../searchservlet?query=H01Q1/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q1/34"/>
+    </TreeNode>
+    <TreeNode Title="H01Q1/36 #辐射单元的结构形式，例如锥形、螺旋形、伞形(H01Q 1/08，H01Q 1/14优先)" Target="frmContent" Href="../searchservlet?query=H01Q1/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q1/36">
+      <TreeNode Title="H01Q1/38 ##在绝缘支架上由导电层构成的 (一般导电体入H01B 5/14)" Target="frmContent" Href="../searchservlet?query=H01Q1/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q1/38"/>
+    </TreeNode>
+    <TreeNode Title="H01Q1/40 #涂以或镶入保护材料的辐射单元" Target="frmContent" Href="../searchservlet?query=H01Q1/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q1/40"/>
+    <TreeNode Title="H01Q1/42 #与辐射单元非紧密地机械联结的外罩，例如天线罩" Target="frmContent" Href="../searchservlet?query=H01Q1/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q1/42"/>
+    <TreeNode Title="H01Q1/44 #所用装置有其他主要功能而附带用作天线的(H01Q 1/28至H01Q 1/34优先)" Target="frmContent" Href="../searchservlet?query=H01Q1/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q1/44">
+      <TreeNode Title="H01Q1/46 ##供电线路或通信线路" Target="frmContent" Href="../searchservlet?query=H01Q1/46&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q1/46"/>
+    </TreeNode>
+    <TreeNode Title="H01Q1/48 #接地装置；接地屏蔽；接地地网(接地棒入H01R 4/66)" Target="frmContent" Href="../searchservlet?query=H01Q1/48&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q1/48"/>
+    <TreeNode Title="H01Q1/50 #天线与接地开关、引入装置或避雷器的结构联结(引入装置入H01B；避雷器，开关入H01H)" Target="frmContent" Href="../searchservlet?query=H01Q1/50&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q1/50"/>
+    <TreeNode Title="H01Q1/52 #减少天线之间耦合的装置；减少天线与其他结构之间耦合的装置(吸收装置入H01Q 17/00)" Target="frmContent" Href="../searchservlet?query=H01Q1/52&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q1/52"/>
+  </TreeNode>
+  <TreeNode Title="H01Q3/00 改变天线或天线系统辐射波的指向或方向图形的装置" Target="frmContent" Href="../searchservlet?query=H01Q3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q3/00">
+    <TreeNode Title="H01Q3/01 #改变天线或天线系统的形状[3]" Target="frmContent" Href="../searchservlet?query=H01Q3/01&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q3/01"/>
+    <TreeNode Title="H01Q3/02 #利用天线或天线系统的整体机械运动" Target="frmContent" Href="../searchservlet?query=H01Q3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q3/02">
+      <TreeNode Title="H01Q3/04 ##用以在一个坐标内改变指向性" Target="frmContent" Href="../searchservlet?query=H01Q3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q3/04">
+        <TreeNode Title="H01Q3/06 ###在限定角度范围内" Target="frmContent" Href="../searchservlet?query=H01Q3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q3/06"/>
+      </TreeNode>
+      <TreeNode Title="H01Q3/08 ##改变指向性的两个坐标" Target="frmContent" Href="../searchservlet?query=H01Q3/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q3/08">
+        <TreeNode Title="H01Q3/10 ###产生圆锥形或螺旋形扫描" Target="frmContent" Href="../searchservlet?query=H01Q3/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q3/10"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="H01Q3/12 #利用天线或天线系统的一次有源单元与二次装置之间的相对机械运动" Target="frmContent" Href="../searchservlet?query=H01Q3/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q3/12">
+      <TreeNode Title="H01Q3/14 ##改变一次有源单元与折射或绕射装置的相对位置" Target="frmContent" Href="../searchservlet?query=H01Q3/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q3/14"/>
+      <TreeNode Title="H01Q3/16 ##改变一次有源单元与反射装置的相对位置" Target="frmContent" Href="../searchservlet?query=H01Q3/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q3/16">
+        <TreeNode Title="H01Q3/18 ###其中的一次有源单元为可动的，而反射装置是固定的" Target="frmContent" Href="../searchservlet?query=H01Q3/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q3/18"/>
+        <TreeNode Title="H01Q3/20 ###其中的一次有源单元为固定的，而反射装置是可动的" Target="frmContent" Href="../searchservlet?query=H01Q3/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q3/20"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="H01Q3/22 #根据辐射波频率变化而改变指向性的" Target="frmContent" Href="../searchservlet?query=H01Q3/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q3/22"/>
+    <TreeNode Title="H01Q3/24 #把能量从一个有源辐射单元倒换到另一个辐射单元以改变指向性的，例如用于波束转换" Target="frmContent" Href="../searchservlet?query=H01Q3/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q3/24"/>
+    <TreeNode Title="H01Q3/26 #改变两个或两个以上辐射单元之间激励电流的相对相位或相对幅值；改变辐射口径面上的能量分布(H01Q 3/22，H01Q 3/24优先)" Target="frmContent" Href="../searchservlet?query=H01Q3/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q3/26">
+      <TreeNode Title="H01Q3/28 ##改变幅值[3]" Target="frmContent" Href="../searchservlet?query=H01Q3/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q3/28"/>
+      <TreeNode Title="H01Q3/30 ##改变相位[3]" Target="frmContent" Href="../searchservlet?query=H01Q3/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q3/30">
+        <TreeNode Title="H01Q3/32 ###用机械方法[3]" Target="frmContent" Href="../searchservlet?query=H01Q3/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q3/32"/>
+        <TreeNode Title="H01Q3/34 ###用电方法(有源透镜或反射阵入H01Q 3/46优先)[3]" Target="frmContent" Href="../searchservlet?query=H01Q3/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q3/34">
+          <TreeNode Title="H01Q3/36 ####带有可变相移器[3]" Target="frmContent" Href="../searchservlet?query=H01Q3/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q3/36">
+            <TreeNode Title="H01Q3/38 #####数字式相移器[3]" Target="frmContent" Href="../searchservlet?query=H01Q3/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q3/38"/>
+          </TreeNode>
+          <TreeNode Title="H01Q3/40 ####带有定相矩阵的[3]" Target="frmContent" Href="../searchservlet?query=H01Q3/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q3/40"/>
+          <TreeNode Title="H01Q3/42 ####用混频[3]" Target="frmContent" Href="../searchservlet?query=H01Q3/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q3/42"/>
+        </TreeNode>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="H01Q3/44 #改变与辐射单元相关的反射、折射或绕射装置的电特性或磁特性[3]" Target="frmContent" Href="../searchservlet?query=H01Q3/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q3/44">
+      <TreeNode Title="H01Q3/46 ##有源透镜或反射阵[3]" Target="frmContent" Href="../searchservlet?query=H01Q3/46&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q3/46"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="H01Q5/00 使天线同时工作在两个或两个以上不同波段的装置(单元长度为可调的入H01Q 9/14；工作于不同波段且连接到公共馈线系统的单个有源天线单元的组合入H01Q 21/30)[3]" Target="frmContent" Href="../searchservlet?query=H01Q5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q5/00">
+    <TreeNode Title="H01Q5/01 #谐振式天线[3]" Target="frmContent" Href="../searchservlet?query=H01Q5/01&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q5/01">
+      <TreeNode Title="H01Q5/02 ##用于中心馈电天线，包括一个或更多个共线的基本上沿直线伸展的有源单元[3]" Target="frmContent" Href="../searchservlet?query=H01Q5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q5/02"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="H01Q7/00 环形天线，围绕环的电流分布基本上是均匀的，其方向辐射图形位于与环平面相垂直的平面内" Target="frmContent" Href="../searchservlet?query=H01Q7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q7/00">
+    <TreeNode Title="H01Q7/02 #可折叠天线；可伸缩天线" Target="frmContent" Href="../searchservlet?query=H01Q7/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q7/02"/>
+    <TreeNode Title="H01Q7/04 #屏蔽式天线(H01Q 7/02，H01Q 7/06优先)" Target="frmContent" Href="../searchservlet?query=H01Q7/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q7/04"/>
+    <TreeNode Title="H01Q7/06 #带有铁磁材料芯的(H01Q 7/02优先)" Target="frmContent" Href="../searchservlet?query=H01Q7/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q7/06">
+      <TreeNode Title="H01Q7/08 ##铁氧体棒或类似细长磁芯" Target="frmContent" Href="../searchservlet?query=H01Q7/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q7/08"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="H01Q9/00 尺寸不大于工作波长两倍并由导电有源辐射单元组成的电气短天线(环形天线入H01Q 7/00；波导喇叭或开口入H01Q 13/00；隙缝天线入H01Q 13/00；有源单元与二次装置组合产生所需方向特性的入H01Q 19/00；两个或两个以上有源单元的组合入H01Q 21/00)" Target="frmContent" Href="../searchservlet?query=H01Q9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q9/00">
+    <TreeNode Title="H01Q9/02 #非谐振式天线" Target="frmContent" Href="../searchservlet?query=H01Q9/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q9/02"/>
+    <TreeNode Title="H01Q9/04 #谐振式天线" Target="frmContent" Href="../searchservlet?query=H01Q9/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q9/04">
+      <TreeNode Title="H01Q9/06 ##零部件" Target="frmContent" Href="../searchservlet?query=H01Q9/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q9/06">
+        <TreeNode Title="H01Q9/08 ###支持共线钢性单元相邻端点的专用联结箱" Target="frmContent" Href="../searchservlet?query=H01Q9/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q9/08"/>
+        <TreeNode Title="H01Q9/10 ###支持非共线单元相邻端点的专用联结箱" Target="frmContent" Href="../searchservlet?query=H01Q9/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q9/10">
+          <TreeNode Title="H01Q9/12 ####用于调节各单元间的夹角" Target="frmContent" Href="../searchservlet?query=H01Q9/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q9/12"/>
+        </TreeNode>
+        <TreeNode Title="H01Q9/14 ###单元或各单元长度为可调的(可伸缩单元入H01Q 1/10)" Target="frmContent" Href="../searchservlet?query=H01Q9/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q9/14"/>
+      </TreeNode>
+      <TreeNode Title="H01Q9/16 ##在天线端点间的中间位置馈电，例如中心馈电偶极天线(H01Q 9/44优先)" Target="frmContent" Href="../searchservlet?query=H01Q9/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q9/16">
+        <TreeNode Title="H01Q9/18 ###垂直配置的天线" Target="frmContent" Href="../searchservlet?query=H01Q9/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q9/18"/>
+        <TreeNode Title="H01Q9/20 ###两个共线的基本上为直线的有源单元；基本是直线的单个有源单元(H01Q 9/28优先)" Target="frmContent" Href="../searchservlet?query=H01Q9/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q9/20">
+          <TreeNode Title="H01Q9/22 ####刚性棒或单个或多个等效管状单元" Target="frmContent" Href="../searchservlet?query=H01Q9/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q9/22"/>
+          <TreeNode Title="H01Q9/24 ####单个有源单元的并联馈电装置，例如用于三角形匹配" Target="frmContent" Href="../searchservlet?query=H01Q9/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q9/24"/>
+        </TreeNode>
+        <TreeNode Title="H01Q9/26 ###带有折叠单元的，折叠部分间的距离远小于工作波长(谐振式环形天线入H01Q 7/00)" Target="frmContent" Href="../searchservlet?query=H01Q9/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q9/26">
+          <TreeNode Title="H01Q9/27 ####螺旋天线[3]" Target="frmContent" Href="../searchservlet?query=H01Q9/27&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q9/27"/>
+        </TreeNode>
+        <TreeNode Title="H01Q9/28 ###具有扩展辐射面的锥形、圆柱形、笼形、带状、网状或类似单元；具有共线轴和相邻顶点并由双导线馈线馈电的两圆锥形面组成的单元(双锥喇叭入H01Q 13/04)" Target="frmContent" Href="../searchservlet?query=H01Q9/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q9/28"/>
+      </TreeNode>
+      <TreeNode Title="H01Q9/30 ##给细长的有源单元端部馈电的，例如单极子天线(H01Q 9/44优先)" Target="frmContent" Href="../searchservlet?query=H01Q9/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q9/30">
+        <TreeNode Title="H01Q9/32 ###垂直配置的单元(H01Q 9/40优先)" Target="frmContent" Href="../searchservlet?query=H01Q9/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q9/32">
+          <TreeNode Title="H01Q9/34 ####桅杆式、塔式或类似的自立式或拉线式天线" Target="frmContent" Href="../searchservlet?query=H01Q9/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q9/34"/>
+          <TreeNode Title="H01Q9/36 ####带有顶荷的" Target="frmContent" Href="../searchservlet?query=H01Q9/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q9/36"/>
+          <TreeNode Title="H01Q9/38 ####带有接地地网的(具有的地上地网由沿长的单元组成并与有源单元共平面的入H01Q 9/44)" Target="frmContent" Href="../searchservlet?query=H01Q9/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q9/38"/>
+        </TreeNode>
+        <TreeNode Title="H01Q9/40 ###具有扩展辐射面的单元" Target="frmContent" Href="../searchservlet?query=H01Q9/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q9/40"/>
+        <TreeNode Title="H01Q9/42 ###带有折叠单元，折叠部分之间的距离远小于工作波长的" Target="frmContent" Href="../searchservlet?query=H01Q9/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q9/42">
+          <TreeNode Title="H01Q9/43 ####Scimitar天线[3]" Target="frmContent" Href="../searchservlet?query=H01Q9/43&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q9/43"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="H01Q9/44 ##带有多个散开的直线单元的，例如V形偶极天线、X形天线；具有基本上为直线的相互倾斜的多个单元(绕杆式天线入H01Q 21/26)" Target="frmContent" Href="../searchservlet?query=H01Q9/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q9/44">
+        <TreeNode Title="H01Q9/46 ###具有从一个点散开的刚性单元的" Target="frmContent" Href="../searchservlet?query=H01Q9/46&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q9/46"/>
+      </TreeNode>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="H01Q11/00 具有大于最短工作波长两倍的由导电有源辐射单元组成的电气长天线(漏波导天线、隙缝天线入H01Q 13/00；由有源单元与二次装置组合产生所需方向特性的入H01Q 19/00；天线阵或系统入H01Q 21/00)" Target="frmContent" Href="../searchservlet?query=H01Q11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q11/00">
+    <TreeNode Title="H01Q11/02 #非谐振式天线，例如行波天线" Target="frmContent" Href="../searchservlet?query=H01Q11/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q11/02">
+      <TreeNode Title="H01Q11/04 ##具有弯曲、折叠、成形、屏蔽或电负载的部分，使以天线各特定部分辐射的电波具有所需的相位关系(菱形天线、V形天线入H01Q 11/06)" Target="frmContent" Href="../searchservlet?query=H01Q11/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q11/04"/>
+      <TreeNode Title="H01Q11/06 ##菱形天线；V形天线" Target="frmContent" Href="../searchservlet?query=H01Q11/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q11/06"/>
+      <TreeNode Title="H01Q11/08 ##螺旋形天线" Target="frmContent" Href="../searchservlet?query=H01Q11/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q11/08"/>
+      <TreeNode Title="H01Q11/10 ##对数周期天线(H01Q 11/08优先)[3]" Target="frmContent" Href="../searchservlet?query=H01Q11/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q11/10"/>
+    </TreeNode>
+    <TreeNode Title="H01Q11/12 #谐振式天线" Target="frmContent" Href="../searchservlet?query=H01Q11/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q11/12">
+      <TreeNode Title="H01Q11/14 ##具有弯曲、折叠、成形或屏蔽部分或具有调相阻抗使天线各特定部分辐射的电波具有所需的相位关系或得到所需的极化效果" Target="frmContent" Href="../searchservlet?query=H01Q11/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q11/14">
+        <TreeNode Title="H01Q11/16 ###其中各特定部分为共线的" Target="frmContent" Href="../searchservlet?query=H01Q11/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q11/16"/>
+        <TreeNode Title="H01Q11/18 ###其中各特定部分为平行地间隔的[3]" Target="frmContent" Href="../searchservlet?query=H01Q11/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q11/18"/>
+      </TreeNode>
+      <TreeNode Title="H01Q11/20 ##V形天线" Target="frmContent" Href="../searchservlet?query=H01Q11/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q11/20"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="H01Q13/00 波导型喇叭或开口；隙缝天线；漏波导天线；沿着导引波传输的途径辐射的等效结构(多模天线入H01Q 25/04)" Target="frmContent" Href="../searchservlet?query=H01Q13/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q13/00">
+    <TreeNode Title="H01Q13/02 #波导喇叭" Target="frmContent" Href="../searchservlet?query=H01Q13/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q13/02">
+      <TreeNode Title="H01Q13/04 ##双锥形喇叭(由两圆锥面组成，其轴共线，其顶点相邻，并由双导线传输线馈电的双锥形偶极天线入H01Q 9/28)" Target="frmContent" Href="../searchservlet?query=H01Q13/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q13/04"/>
+    </TreeNode>
+    <TreeNode Title="H01Q13/06 #波导开口(喇叭入H01Q 13/02)" Target="frmContent" Href="../searchservlet?query=H01Q13/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q13/06"/>
+    <TreeNode Title="H01Q13/08 #双导线微波传输线的辐射终端，例如同轴线的、微带传输线的" Target="frmContent" Href="../searchservlet?query=H01Q13/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q13/08"/>
+    <TreeNode Title="H01Q13/10 #谐振式隙缝天线" Target="frmContent" Href="../searchservlet?query=H01Q13/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q13/10">
+      <TreeNode Title="H01Q13/12 ##纵向开槽圆筒天线；等效结构" Target="frmContent" Href="../searchservlet?query=H01Q13/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q13/12">
+        <TreeNode Title="H01Q13/14 ###骨架形的圆筒天线" Target="frmContent" Href="../searchservlet?query=H01Q13/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q13/14"/>
+      </TreeNode>
+      <TreeNode Title="H01Q13/16 ##折叠式隙缝天线" Target="frmContent" Href="../searchservlet?query=H01Q13/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q13/16"/>
+      <TreeNode Title="H01Q13/18 ##其后有谐振腔或在谐振腔壁上形成的隙缝 (纵向开槽圆筒入H01Q 13/12)" Target="frmContent" Href="../searchservlet?query=H01Q13/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q13/18"/>
+    </TreeNode>
+    <TreeNode Title="H01Q13/20 #非谐振式漏波导天线或传输线天线；沿着导引波传输途径辐射的等效结构" Target="frmContent" Href="../searchservlet?query=H01Q13/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q13/20">
+      <TreeNode Title="H01Q13/22 ##在波导管或传输线界面上纵向开槽的天线" Target="frmContent" Href="../searchservlet?query=H01Q13/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q13/22"/>
+      <TreeNode Title="H01Q13/24 ##由介质棒或铁磁材料棒，或介质管或铁磁材料管构成的(H01Q 13/28优先)" Target="frmContent" Href="../searchservlet?query=H01Q13/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q13/24"/>
+      <TreeNode Title="H01Q13/26 ##由单导体构成的表面波导，例如带状导体" Target="frmContent" Href="../searchservlet?query=H01Q13/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q13/26"/>
+      <TreeNode Title="H01Q13/28 ##由电气上不连续的并在传播方向间隔的单元组成的，例如介质单元、构成人工介质的导电单元(八木天线入H01Q 19/30)" Target="frmContent" Href="../searchservlet?query=H01Q13/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q13/28"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="H01Q15/00 用于对天线辐射波进行反射、折射、绕射或极化的装置，例如准光学装置(用于改变方向性的可变装置入H01Q 3/00；用于引导电波的此种装置的构成入H01P 3/20；用于调制的可变装置入H03C 7/02)" Target="frmContent" Href="../searchservlet?query=H01Q15/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q15/00">
+    <TreeNode Title="H01Q15/02 #折射或绕射装置，例如透镜或棱镜" Target="frmContent" Href="../searchservlet?query=H01Q15/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q15/02">
+      <TreeNode Title="H01Q15/04 ##包括基本上由垂直于波的电矢量的有效导电面围成的一个或数个导波通道的，例如平行板波导透镜" Target="frmContent" Href="../searchservlet?query=H01Q15/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q15/04"/>
+      <TreeNode Title="H01Q15/06 ##包括多个不同长度导波通道的" Target="frmContent" Href="../searchservlet?query=H01Q15/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q15/06"/>
+      <TreeNode Title="H01Q15/08 ##由固体介质材料构成的" Target="frmContent" Href="../searchservlet?query=H01Q15/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q15/08"/>
+      <TreeNode Title="H01Q15/10 ##包括阻抗不连续的三维天线阵，例如构成人工介质的导电面或导电盘上的孔(漏波导天线入H01Q 13/28)" Target="frmContent" Href="../searchservlet?query=H01Q15/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q15/10"/>
+      <TreeNode Title="H01Q15/12 ##也起极化滤波器作用的" Target="frmContent" Href="../searchservlet?query=H01Q15/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q15/12"/>
+    </TreeNode>
+    <TreeNode Title="H01Q15/14 #反射面；等效结构" Target="frmContent" Href="../searchservlet?query=H01Q15/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q15/14">
+      <TreeNode Title="H01Q15/16 ##二度空间弯曲的，例如抛物面" Target="frmContent" Href="../searchservlet?query=H01Q15/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q15/16"/>
+      <TreeNode Title="H01Q15/18 ##包括多个相互倾斜平面的，例如角形反射器" Target="frmContent" Href="../searchservlet?query=H01Q15/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q15/18">
+        <TreeNode Title="H01Q15/20 ###可折叠反射器" Target="frmContent" Href="../searchservlet?query=H01Q15/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q15/20"/>
+      </TreeNode>
+      <TreeNode Title="H01Q15/22 ##也起极化滤波器作用的" Target="frmContent" Href="../searchservlet?query=H01Q15/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q15/22"/>
+    </TreeNode>
+    <TreeNode Title="H01Q15/23 #反射面与折射或绕射装置的组合[3]" Target="frmContent" Href="../searchservlet?query=H01Q15/23&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q15/23"/>
+    <TreeNode Title="H01Q15/24 #极化装置；极化滤波器(同时起极化滤波器作用和折射或绕射装置或反射器作用的入H01Q 15/12，H01Q 15/22)" Target="frmContent" Href="../searchservlet?query=H01Q15/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q15/24"/>
+  </TreeNode>
+  <TreeNode Title="H01Q17/00 吸收天线辐射波的装置；这种装置与有源天线单元或系统的组合" Target="frmContent" Href="../searchservlet?query=H01Q17/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q17/00"/>
+  <TreeNode Title="H01Q19/00 一次有源天线单元和部件与二次装置的组合，例如与准光学装置的组合，使天线具有所需的方向特性" Target="frmContent" Href="../searchservlet?query=H01Q19/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q19/00">
+    <TreeNode Title="H01Q19/02 #零部件" Target="frmContent" Href="../searchservlet?query=H01Q19/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q19/02">
+      <TreeNode Title="H01Q19/04 ##折叠H形天线或八木天线用的装置" Target="frmContent" Href="../searchservlet?query=H01Q19/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q19/04"/>
+    </TreeNode>
+    <TreeNode Title="H01Q19/06 #应用折射或绕射装置的，例如透镜" Target="frmContent" Href="../searchservlet?query=H01Q19/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q19/06">
+      <TreeNode Title="H01Q19/08 ##这种装置位于辐射喇叭内以改变其辐射图形" Target="frmContent" Href="../searchservlet?query=H01Q19/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q19/08"/>
+      <TreeNode Title="H01Q19/09 ##其中的一次有源单元涂以或嵌入介质材料或磁性材料的(防护材料入H01Q 1/40；具有可变特性的入H01Q 3/44)[3]" Target="frmContent" Href="../searchservlet?query=H01Q19/09&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q19/09"/>
+    </TreeNode>
+    <TreeNode Title="H01Q19/10 #应用反射面的" Target="frmContent" Href="../searchservlet?query=H01Q19/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q19/10">
+      <TreeNode Title="H01Q19/12 ##其面是凹的(H01Q 19/18优先)[3]" Target="frmContent" Href="../searchservlet?query=H01Q19/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q19/12">
+        <TreeNode Title="H01Q19/13 ###一次辐射源是单个辐射单元，例如一偶极子、一隙缝、一波导终端(H01Q 19/15优先)[3]" Target="frmContent" Href="../searchservlet?query=H01Q19/13&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q19/13"/>
+        <TreeNode Title="H01Q19/15 ###一次辐射源是线状源，例如漏波导天线[3]" Target="frmContent" Href="../searchservlet?query=H01Q19/15&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q19/15"/>
+        <TreeNode Title="H01Q19/17 ###一次辐射源包括两个或两个以上辐射单元(H01Q 19/15，H01Q 25/00优先)[3]" Target="frmContent" Href="../searchservlet?query=H01Q19/17&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q19/17"/>
+      </TreeNode>
+      <TreeNode Title="H01Q19/18 ##有两个或两个以上间隔反射面的(由两个焦线正交的圆柱形反射器产生笔尖形波束的入H01Q 19/20)" Target="frmContent" Href="../searchservlet?query=H01Q19/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q19/18">
+        <TreeNode Title="H01Q19/185 ###其中反射面是平面的[3]" Target="frmContent" Href="../searchservlet?query=H01Q19/185&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q19/185"/>
+        <TreeNode Title="H01Q19/19 ###包括一个凹形主反射面和一个辅助反射面相结合的[3]" Target="frmContent" Href="../searchservlet?query=H01Q19/19&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q19/19">
+          <TreeNode Title="H01Q19/195 ####其中一个反射面也作为极化滤波器或极化装置的[3]" Target="frmContent" Href="../searchservlet?query=H01Q19/195&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q19/195"/>
+        </TreeNode>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="H01Q19/20 #由两个焦线正交的圆柱形聚焦装置产生笔尖形波束" Target="frmContent" Href="../searchservlet?query=H01Q19/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q19/20"/>
+    <TreeNode Title="H01Q19/22 #应用单个形状基本上是直的导电单元的二次装置" Target="frmContent" Href="../searchservlet?query=H01Q19/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q19/22">
+      <TreeNode Title="H01Q19/24 ##一次有源单元是中心馈电并基本上是直的，例如H形天线" Target="frmContent" Href="../searchservlet?query=H01Q19/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q19/24"/>
+      <TreeNode Title="H01Q19/26 ##一次有源单元是终端馈电并是细长的" Target="frmContent" Href="../searchservlet?query=H01Q19/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q19/26"/>
+    </TreeNode>
+    <TreeNode Title="H01Q19/28 #应用两个或两个以上形状基本上是直的导电单元的二次装置(对数周期天线入H01Q 11/10；构成反射面的入H01Q 19/10)" Target="frmContent" Href="../searchservlet?query=H01Q19/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q19/28">
+      <TreeNode Title="H01Q19/30 ##一次有源单元是中心馈电并基本上是直的，例如八木天线" Target="frmContent" Href="../searchservlet?query=H01Q19/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q19/30"/>
+      <TreeNode Title="H01Q19/32 ##一次有源单元为终端馈电并是细长的" Target="frmContent" Href="../searchservlet?query=H01Q19/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q19/32"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="H01Q21/00 天线阵或系统(产生一个波束，其指向性或方向性图的形状能改变或变化的入H01Q 3/00；电气长天线入H01Q 11/00)" Target="frmContent" Href="../searchservlet?query=H01Q21/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q21/00">
+    <TreeNode Title="H01Q21/06 #具有相同极化和间隔的单独激励单元的天线阵" Target="frmContent" Href="../searchservlet?query=H01Q21/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q21/06">
+      <TreeNode Title="H01Q21/08 ##天线单元沿着或靠近直线分开的" Target="frmContent" Href="../searchservlet?query=H01Q21/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q21/08">
+        <TreeNode Title="H01Q21/10 ###基本上为直而细长的导电单元的共线配置" Target="frmContent" Href="../searchservlet?query=H01Q21/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q21/10"/>
+        <TreeNode Title="H01Q21/12 ###基本上是直而细长的导电单元的平行配置(用横向单元作负荷的传输线构成的行波天线，例如“鱼骨”形天线入H01Q 11/04)" Target="frmContent" Href="../searchservlet?query=H01Q21/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q21/12">
+          <TreeNode Title="H01Q21/14 ####Adcock天线" Target="frmContent" Href="../searchservlet?query=H01Q21/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q21/14">
+            <TreeNode Title="H01Q21/16 #####U形" Target="frmContent" Href="../searchservlet?query=H01Q21/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q21/16"/>
+            <TreeNode Title="H01Q21/18 #####H形" Target="frmContent" Href="../searchservlet?query=H01Q21/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q21/18"/>
+          </TreeNode>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="H01Q21/20 ##天线单元是沿着靠近曲线分开安排的" Target="frmContent" Href="../searchservlet?query=H01Q21/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q21/20"/>
+      <TreeNode Title="H01Q21/22 ##天线阵中的天线单元其幅值或相位是不均匀激励的，例如对称斜坡天线阵、二项式天线阵" Target="frmContent" Href="../searchservlet?query=H01Q21/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q21/22"/>
+    </TreeNode>
+    <TreeNode Title="H01Q21/24 #极化方向不同的天线单元的组合，以便发射或接收圆极化和椭圆极化波或任意方向极化的线性极化波" Target="frmContent" Href="../searchservlet?query=H01Q21/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q21/24">
+      <TreeNode Title="H01Q21/26 ##由包含3个或3个以上细长的单元绕着水平面内的公共点对称而径向分布的绕杆式或类似的天线" Target="frmContent" Href="../searchservlet?query=H01Q21/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q21/26"/>
+    </TreeNode>
+    <TreeNode Title="H01Q21/28 #基本上是独立的无互作用的天线单元或天线系统的组合" Target="frmContent" Href="../searchservlet?query=H01Q21/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q21/28"/>
+    <TreeNode Title="H01Q21/29 #有不同互作用的天线单元的组合，使产生所需的方向特性(H01Q 25/00优先)[3]" Target="frmContent" Href="../searchservlet?query=H01Q21/29&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q21/29"/>
+    <TreeNode Title="H01Q21/30 #工作在不同波段并连接到同一公共馈电线系统的独立天线单元的组合" Target="frmContent" Href="../searchservlet?query=H01Q21/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q21/30"/>
+  </TreeNode>
+  <TreeNode Title="H01Q23/00 具有有源电路或电路元件的天线，该电路或元件整合在天线内或附装在天线上[3]" Target="frmContent" Href="../searchservlet?query=H01Q23/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q23/00"/>
+  <TreeNode Title="H01Q25/00 至少有两个辐射图形的天线或天线系统(改变或变化方向图形指向性或形状的装置入H01Q 3/00)[3]" Target="frmContent" Href="../searchservlet?query=H01Q25/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q25/00">
+    <TreeNode Title="H01Q25/02 #产生“和”方向图形和“差”方向图形的(多模天线入H01Q 25/04)[3]" Target="frmContent" Href="../searchservlet?query=H01Q25/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q25/02"/>
+    <TreeNode Title="H01Q25/04 #多模天线[3]" Target="frmContent" Href="../searchservlet?query=H01Q25/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01Q25/04"/>
+  </TreeNode>
+</Root>

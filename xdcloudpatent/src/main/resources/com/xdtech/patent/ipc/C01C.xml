@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="C01C1/00 氨；其化合物" Target="frmContent" Href="../searchservlet?query=C01C1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01C1/00">
+    <TreeNode Title="C01C1/02 #氨的制备或分离" Target="frmContent" Href="../searchservlet?query=C01C1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01C1/02">
+      <TreeNode Title="C01C1/04 ##合成法制氨(氨合成用气体混合物的制备或净化入C01B 3/02)" Target="frmContent" Href="../searchservlet?query=C01C1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01C1/04"/>
+      <TreeNode Title="C01C1/08 ##用含氮有机物制氨" Target="frmContent" Href="../searchservlet?query=C01C1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01C1/08"/>
+      <TreeNode Title="C01C1/10 ##从粗氨水，如煤气水中分离氨" Target="frmContent" Href="../searchservlet?query=C01C1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01C1/10"/>
+      <TreeNode Title="C01C1/12 ##从气体和蒸气中分离氨" Target="frmContent" Href="../searchservlet?query=C01C1/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01C1/12">
+        <TreeNode Title="C01C1/14 ###饱和器" Target="frmContent" Href="../searchservlet?query=C01C1/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01C1/14"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="C01C1/16 #铵的卤化物" Target="frmContent" Href="../searchservlet?query=C01C1/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01C1/16"/>
+    <TreeNode Title="C01C1/18 #铵的硝酸盐" Target="frmContent" Href="../searchservlet?query=C01C1/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01C1/18"/>
+    <TreeNode Title="C01C1/20 #硫化物；多硫化物" Target="frmContent" Href="../searchservlet?query=C01C1/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01C1/20"/>
+    <TreeNode Title="C01C1/22 #铵的亚硫酸盐" Target="frmContent" Href="../searchservlet?query=C01C1/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01C1/22"/>
+    <TreeNode Title="C01C1/24 #铵的硫酸盐(C01C 1/14优先)" Target="frmContent" Href="../searchservlet?query=C01C1/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01C1/24">
+      <TreeNode Title="C01C1/242 ##用氨和硫酸或三氧化硫制备[2]" Target="frmContent" Href="../searchservlet?query=C01C1/242&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01C1/242"/>
+      <TreeNode Title="C01C1/244 ##用铵盐与硫酸盐的复分解法制备[2]" Target="frmContent" Href="../searchservlet?query=C01C1/244&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01C1/244"/>
+      <TreeNode Title="C01C1/245 ##用含氮和硫的化合物制备[2]" Target="frmContent" Href="../searchservlet?query=C01C1/245&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01C1/245">
+        <TreeNode Title="C01C1/246 ###用含硫的铵化合物[2]" Target="frmContent" Href="../searchservlet?query=C01C1/246&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01C1/246">
+          <TreeNode Title="C01C1/247 ####用单体氧氧化法[2]" Target="frmContent" Href="../searchservlet?query=C01C1/247&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01C1/247"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="C01C1/248 ##防止结块或控制晶体的形状或大小[2]" Target="frmContent" Href="../searchservlet?query=C01C1/248&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01C1/248"/>
+      <TreeNode Title="C01C1/249 ##晶体的脱酸[2]" Target="frmContent" Href="../searchservlet?query=C01C1/249&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01C1/249"/>
+    </TreeNode>
+    <TreeNode Title="C01C1/26 #铵的碳酸盐或酸式碳酸盐" Target="frmContent" Href="../searchservlet?query=C01C1/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01C1/26"/>
+    <TreeNode Title="C01C1/28 #铵盐的一般制备方法" Target="frmContent" Href="../searchservlet?query=C01C1/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01C1/28"/>
+  </TreeNode>
+  <TreeNode Title="C01C3/00 氰；其化合物" Target="frmContent" Href="../searchservlet?query=C01C3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01C3/00">
+    <TreeNode Title="C01C3/02 #氰化氢的制备" Target="frmContent" Href="../searchservlet?query=C01C3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01C3/02">
+      <TreeNode Title="C01C3/04 ##从气体中分离" Target="frmContent" Href="../searchservlet?query=C01C3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01C3/04"/>
+    </TreeNode>
+    <TreeNode Title="C01C3/06 #氰化氢的稳定" Target="frmContent" Href="../searchservlet?query=C01C3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01C3/06"/>
+    <TreeNode Title="C01C3/08 #简单的或配合的金属氰化物" Target="frmContent" Href="../searchservlet?query=C01C3/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01C3/08">
+      <TreeNode Title="C01C3/10 ##简单碱金属氰化物[3]" Target="frmContent" Href="../searchservlet?query=C01C3/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01C3/10"/>
+      <TreeNode Title="C01C3/11 ##配合氰化物[3]" Target="frmContent" Href="../searchservlet?query=C01C3/11&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01C3/11"/>
+      <TreeNode Title="C01C3/12 ##简单的或配合的铁氰化物[2]" Target="frmContent" Href="../searchservlet?query=C01C3/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01C3/12"/>
+    </TreeNode>
+    <TreeNode Title="C01C3/14 #氰酸；其盐类" Target="frmContent" Href="../searchservlet?query=C01C3/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01C3/14"/>
+    <TreeNode Title="C01C3/16 #氨基氰；其盐类" Target="frmContent" Href="../searchservlet?query=C01C3/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01C3/16">
+      <TreeNode Title="C01C3/18 ##氰氨化钙" Target="frmContent" Href="../searchservlet?query=C01C3/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01C3/18"/>
+    </TreeNode>
+    <TreeNode Title="C01C3/20 #硫氰酸；其盐类" Target="frmContent" Href="../searchservlet?query=C01C3/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C01C3/20"/>
+  </TreeNode>
+</Root>

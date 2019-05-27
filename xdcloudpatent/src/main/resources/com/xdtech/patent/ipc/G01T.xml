@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="G01T1/00X 射线辐射、γ射线辐射、微粒子辐射或宇宙线辐射的测量(G01T 3/00，G01T 5/00优先)[2]" Target="frmContent" Href="../searchservlet?query=G01T1/00X&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01T1/00X">
+    <TreeNode Title="G01T1/02 #剂量计(G01T 1/15优先)[2]" Target="frmContent" Href="../searchservlet?query=G01T1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01T1/02">
+      <TreeNode Title="G01T1/04 ##化学剂量计(G01T 1/06，G01T 1/08优先)" Target="frmContent" Href="../searchservlet?query=G01T1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01T1/04"/>
+      <TreeNode Title="G01T1/06 ##玻璃剂量计" Target="frmContent" Href="../searchservlet?query=G01T1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01T1/06"/>
+      <TreeNode Title="G01T1/08 ##照相剂量计" Target="frmContent" Href="../searchservlet?query=G01T1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01T1/08"/>
+      <TreeNode Title="G01T1/10 ##发光剂量计" Target="frmContent" Href="../searchservlet?query=G01T1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01T1/10">
+        <TreeNode Title="G01T1/105 ###读出装置(G01T 1/115优先)[2]" Target="frmContent" Href="../searchservlet?query=G01T1/105&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01T1/105"/>
+        <TreeNode Title="G01T1/11 ###热发光剂量计" Target="frmContent" Href="../searchservlet?query=G01T1/11&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01T1/11">
+          <TreeNode Title="G01T1/115 ####读出装置[2]" Target="frmContent" Href="../searchservlet?query=G01T1/115&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01T1/115"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="G01T1/12 ##量热剂量计" Target="frmContent" Href="../searchservlet?query=G01T1/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01T1/12"/>
+      <TreeNode Title="G01T1/14 ##静电剂量计(电离室的构造入H01J 47/02)" Target="frmContent" Href="../searchservlet?query=G01T1/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01T1/14">
+        <TreeNode Title="G01T1/142 ###充电装置，读出装置[2]" Target="frmContent" Href="../searchservlet?query=G01T1/142&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01T1/142"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="G01T1/15 #累积由辐射探测器产生的脉冲的仪器，例如应用二极管泵激电路" Target="frmContent" Href="../searchservlet?query=G01T1/15&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01T1/15"/>
+    <TreeNode Title="G01T1/16 #辐射强度测量(G01T 1/29优先)[2]" Target="frmContent" Href="../searchservlet?query=G01T1/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01T1/16">
+      <TreeNode Title="G01T1/161 ##在核医学领域的应用，例如，人体内的计数[2]" Target="frmContent" Href="../searchservlet?query=G01T1/161&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01T1/161">
+        <TreeNode Title="G01T1/163 ###全身计数器[2]" Target="frmContent" Href="../searchservlet?query=G01T1/163&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01T1/163"/>
+        <TreeNode Title="G01T1/164 ###闪烁照相法[2]" Target="frmContent" Href="../searchservlet?query=G01T1/164&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01T1/164">
+          <TreeNode Title="G01T1/166 ####包括探测器和被测体之间的相对运动[2]" Target="frmContent" Href="../searchservlet?query=G01T1/166&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01T1/166"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="G01T1/167 ##测量物体放射性含量，例如，污染的测量(全身计数器入G01T 1/163)[2]" Target="frmContent" Href="../searchservlet?query=G01T1/167&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01T1/167"/>
+      <TreeNode Title="G01T1/169 ##污染的表面面积的探查和定位[2]" Target="frmContent" Href="../searchservlet?query=G01T1/169&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01T1/169"/>
+      <TreeNode Title="G01T1/17 ##专用型探测器以外的电路装置" Target="frmContent" Href="../searchservlet?query=G01T1/17&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01T1/17">
+        <TreeNode Title="G01T1/172 ###带符合电路装置的(G01T 1/178优先)[2]" Target="frmContent" Href="../searchservlet?query=G01T1/172&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01T1/172"/>
+        <TreeNode Title="G01T1/175 ###电源电路[2]" Target="frmContent" Href="../searchservlet?query=G01T1/175&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01T1/175"/>
+        <TreeNode Title="G01T1/178 ###用于测量存在其他放射性物质中的比活度，例如，在空气中或液体中，如在雨水中天然比活度[2]" Target="frmContent" Href="../searchservlet?query=G01T1/178&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01T1/178"/>
+      </TreeNode>
+      <TreeNode Title="G01T1/18 ##用计数管装置，例如，用盖格(Geiger)计数器(计数管入H01J 47/00)" Target="frmContent" Href="../searchservlet?query=G01T1/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01T1/18"/>
+      <TreeNode Title="G01T1/185 ##用电离室装置[2]" Target="frmContent" Href="../searchservlet?query=G01T1/185&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01T1/185"/>
+      <TreeNode Title="G01T1/20 ##用闪烁探测器" Target="frmContent" Href="../searchservlet?query=G01T1/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01T1/20">
+        <TreeNode Title="G01T1/202 ###闪烁体是晶体的" Target="frmContent" Href="../searchservlet?query=G01T1/202&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01T1/202"/>
+        <TreeNode Title="G01T1/203 ###闪烁体是塑料的" Target="frmContent" Href="../searchservlet?query=G01T1/203&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01T1/203"/>
+        <TreeNode Title="G01T1/204 ###闪烁体是液体的" Target="frmContent" Href="../searchservlet?query=G01T1/204&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01T1/204"/>
+        <TreeNode Title="G01T1/205 ###闪烁体是气体的" Target="frmContent" Href="../searchservlet?query=G01T1/205&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01T1/205"/>
+        <TreeNode Title="G01T1/208 ###专用于闪烁探测器的电路，例如，用于光电倍增管部件[2]" Target="frmContent" Href="../searchservlet?query=G01T1/208&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01T1/208"/>
+      </TreeNode>
+      <TreeNode Title="G01T1/22 ##用塞伦科夫(Cerenkov)探测器" Target="frmContent" Href="../searchservlet?query=G01T1/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01T1/22"/>
+      <TreeNode Title="G01T1/24 ##用半导体探测器" Target="frmContent" Href="../searchservlet?query=G01T1/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01T1/24"/>
+      <TreeNode Title="G01T1/26 ##用电阻探测器" Target="frmContent" Href="../searchservlet?query=G01T1/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01T1/26"/>
+      <TreeNode Title="G01T1/28 ##用二次发射探测器" Target="frmContent" Href="../searchservlet?query=G01T1/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01T1/28"/>
+    </TreeNode>
+    <TreeNode Title="G01T1/29 #对辐射束流的测量，例如，测量射束位置或截面；辐射的空间分布的测量[2]" Target="frmContent" Href="../searchservlet?query=G01T1/29&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01T1/29"/>
+    <TreeNode Title="G01T1/30 #测量放射性物质的半衰期" Target="frmContent" Href="../searchservlet?query=G01T1/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01T1/30"/>
+    <TreeNode Title="G01T1/32 #测量粒子的极化" Target="frmContent" Href="../searchservlet?query=G01T1/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01T1/32"/>
+    <TreeNode Title="G01T1/34 #测量截面，例如，测量粒子的吸收截面" Target="frmContent" Href="../searchservlet?query=G01T1/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01T1/34"/>
+    <TreeNode Title="G01T1/36 #测量X射线或核辐射的能谱分布" Target="frmContent" Href="../searchservlet?query=G01T1/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01T1/36">
+      <TreeNode Title="G01T1/38 ##粒子甄别和相对质量的测量；例如，测量能量损耗与距离的关系(dE/dx)[2]" Target="frmContent" Href="../searchservlet?query=G01T1/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01T1/38"/>
+      <TreeNode Title="G01T1/40 ##能谱仪的稳定[2]" Target="frmContent" Href="../searchservlet?query=G01T1/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01T1/40"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="G01T3/00 中子辐射的测量(G01T 5/00优先)[2]" Target="frmContent" Href="../searchservlet?query=G01T3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01T3/00">
+    <TreeNode Title="G01T3/02 #用屏蔽其他辐射的方法" Target="frmContent" Href="../searchservlet?query=G01T3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01T3/02"/>
+    <TreeNode Title="G01T3/04 #用量热器" Target="frmContent" Href="../searchservlet?query=G01T3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01T3/04"/>
+    <TreeNode Title="G01T3/06 #用闪烁探测器[2]" Target="frmContent" Href="../searchservlet?query=G01T3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01T3/06"/>
+    <TreeNode Title="G01T3/08 #用半导体探测器[2]" Target="frmContent" Href="../searchservlet?query=G01T3/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01T3/08"/>
+  </TreeNode>
+  <TreeNode Title="G01T5/00 粒子的运动或轨迹的记录(火花室入H01J 47/14)；粒子轨迹的处理或分析[2]" Target="frmContent" Href="../searchservlet?query=G01T5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01T5/00">
+    <TreeNode Title="G01T5/02 #轨迹的处理；轨迹的分析" Target="frmContent" Href="../searchservlet?query=G01T5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01T5/02"/>
+    <TreeNode Title="G01T5/04 #云雾室，例如，威尔逊(Wilson)云室" Target="frmContent" Href="../searchservlet?query=G01T5/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01T5/04"/>
+    <TreeNode Title="G01T5/06 #气泡室" Target="frmContent" Href="../searchservlet?query=G01T5/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01T5/06"/>
+    <TreeNode Title="G01T5/08 #闪烁室(放电管入H01J 40/00，H01J 47/00)" Target="frmContent" Href="../searchservlet?query=G01T5/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01T5/08"/>
+    <TreeNode Title="G01T5/10 #板或块，其中通过处理后核粒子的轨迹成为可见的，例如，利用照相乳胶，利用云母" Target="frmContent" Href="../searchservlet?query=G01T5/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01T5/10"/>
+    <TreeNode Title="G01T5/12 #具有多线室或平行板电离室的电路装置，例如，火花室(火花放电管本身入H01J 47/00)[2]" Target="frmContent" Href="../searchservlet?query=G01T5/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01T5/12"/>
+  </TreeNode>
+  <TreeNode Title="G01T7/00 辐射计量仪器的附件" Target="frmContent" Href="../searchservlet?query=G01T7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01T7/00">
+    <TreeNode Title="G01T7/02 #用于接收或储存被测试的样品的收集装置" Target="frmContent" Href="../searchservlet?query=G01T7/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01T7/02">
+      <TreeNode Title="G01T7/04 ##用过滤法" Target="frmContent" Href="../searchservlet?query=G01T7/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01T7/04"/>
+      <TreeNode Title="G01T7/06 ##用静电沉淀法(G01T 7/04优先)" Target="frmContent" Href="../searchservlet?query=G01T7/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01T7/06"/>
+    </TreeNode>
+    <TreeNode Title="G01T7/08 #运送接收的样品的装置" Target="frmContent" Href="../searchservlet?query=G01T7/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01T7/08">
+      <TreeNode Title="G01T7/10 ##用转台" Target="frmContent" Href="../searchservlet?query=G01T7/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01T7/10"/>
+    </TreeNode>
+    <TreeNode Title="G01T7/12 #备有报警动作的机构" Target="frmContent" Href="../searchservlet?query=G01T7/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01T7/12"/>
+  </TreeNode>
+</Root>

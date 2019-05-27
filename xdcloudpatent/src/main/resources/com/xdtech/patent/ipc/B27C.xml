@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="B27C1/00 制造平表面的加工机器，例如用旋转式切削刀具；所用的设备" Target="frmContent" Href="../searchservlet?query=B27C1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B27C1/00">
+    <TreeNode Title="B27C1/02 #细刨，即仅加工一个面" Target="frmContent" Href="../searchservlet?query=B27C1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B27C1/02"/>
+    <TreeNode Title="B27C1/04 #压刨机" Target="frmContent" Href="../searchservlet?query=B27C1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B27C1/04"/>
+    <TreeNode Title="B27C1/06 #细刨并接着压刨的机器" Target="frmContent" Href="../searchservlet?query=B27C1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B27C1/06"/>
+    <TreeNode Title="B27C1/08 #同时加工工件几个面的机器" Target="frmContent" Href="../searchservlet?query=B27C1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B27C1/08"/>
+    <TreeNode Title="B27C1/10 #装有机动组合铣刀的手工刨(与执行操作无特殊关联的轻便式机动工具的零件或部件，如机壳、机体入B25F 5/00)[4]" Target="frmContent" Href="../searchservlet?query=B27C1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B27C1/10"/>
+    <TreeNode Title="B27C1/12 #工件进给装置" Target="frmContent" Href="../searchservlet?query=B27C1/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B27C1/12"/>
+    <TreeNode Title="B27C1/14 #其他零件或附件" Target="frmContent" Href="../searchservlet?query=B27C1/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B27C1/14"/>
+  </TreeNode>
+  <TreeNode Title="B27C3/00 钻床或钻孔装置；所用的设备(B23B优先)" Target="frmContent" Href="../searchservlet?query=B27C3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B27C3/00">
+    <TreeNode Title="B27C3/02 #有单根工作主轴的固定式钻床" Target="frmContent" Href="../searchservlet?query=B27C3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B27C3/02"/>
+    <TreeNode Title="B27C3/04 #有多根工作主轴的固定式钻床" Target="frmContent" Href="../searchservlet?query=B27C3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B27C3/04"/>
+    <TreeNode Title="B27C3/06 #打暗榫孔用的钻床或装置" Target="frmContent" Href="../searchservlet?query=B27C3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B27C3/06"/>
+    <TreeNode Title="B27C3/08 #操作人员托住的钻孔机械或装置" Target="frmContent" Href="../searchservlet?query=B27C3/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B27C3/08"/>
+  </TreeNode>
+  <TreeNode Title="B27C5/00 为制造特殊外形或成型工件设计的机器，例如用旋转切削刀具；所用的装置(车削入B27C 7/00；仿形装置的特征入B23Q 35/00；开槽，凿榫眼，制作榫舌或切口入B27F)" Target="frmContent" Href="../searchservlet?query=B27C5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B27C5/00">
+    <TreeNode Title="B27C5/02 #带工作台的机器" Target="frmContent" Href="../searchservlet?query=B27C5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B27C5/02">
+      <TreeNode Title="B27C5/04 ##工件的导向防护装置" Target="frmContent" Href="../searchservlet?query=B27C5/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B27C5/04"/>
+      <TreeNode Title="B27C5/06 ##夹紧或进给工件的装置" Target="frmContent" Href="../searchservlet?query=B27C5/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B27C5/06"/>
+    </TreeNode>
+    <TreeNode Title="B27C5/08 #旋圆机" Target="frmContent" Href="../searchservlet?query=B27C5/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B27C5/08"/>
+    <TreeNode Title="B27C5/10 #轻便式手动木工铣床；特形铣床(与执行操作无特殊关联的轻便式机动工具的零件或部件，如机壳、机体入B25F 5/00)[4]" Target="frmContent" Href="../searchservlet?query=B27C5/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B27C5/10"/>
+  </TreeNode>
+  <TreeNode Title="B27C7/00 木工车床；所用的设备(B23B、B23G、B23Q优先；仿形装置的特征入B23Q 35/00)" Target="frmContent" Href="../searchservlet?query=B27C7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B27C7/00">
+    <TreeNode Title="B27C7/02 #手转动的车床" Target="frmContent" Href="../searchservlet?query=B27C7/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B27C7/02"/>
+    <TreeNode Title="B27C7/04 #工件的定心装置或夹紧装置" Target="frmContent" Href="../searchservlet?query=B27C7/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B27C7/04"/>
+    <TreeNode Title="B27C7/06 #导引或支承工具的装置，如刀架" Target="frmContent" Href="../searchservlet?query=B27C7/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B27C7/06"/>
+  </TreeNode>
+  <TreeNode Title="B27C9/00 多用途机械；通用机械；所用的设备" Target="frmContent" Href="../searchservlet?query=B27C9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B27C9/00">
+    <TreeNode Title="B27C9/02 #有单根工作主轴的" Target="frmContent" Href="../searchservlet?query=B27C9/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B27C9/02"/>
+    <TreeNode Title="B27C9/04 #有多根工作主轴的" Target="frmContent" Href="../searchservlet?query=B27C9/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B27C9/04"/>
+  </TreeNode>
+</Root>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="E01D1/00 一般的桥梁(以结构类型为特征的入E01D 4/00至E01D 15/00)[6]" Target="frmContent" Href="../searchservlet?query=E01D1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E01D1/00"/>
+  <TreeNode Title="E01D2/00 以支撑桥跨结构截面为特征的桥梁[6]" Target="frmContent" Href="../searchservlet?query=E01D2/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E01D2/00">
+    <TreeNode Title="E01D2/02 #Ⅰ字型梁的[6]" Target="frmContent" Href="../searchservlet?query=E01D2/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E01D2/02"/>
+    <TreeNode Title="E01D2/04 #箱型梁的[6]" Target="frmContent" Href="../searchservlet?query=E01D2/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E01D2/04"/>
+  </TreeNode>
+  <TreeNode Title="E01D4/00 拱桥[6]" Target="frmContent" Href="../searchservlet?query=E01D4/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E01D4/00"/>
+  <TreeNode Title="E01D6/00 桁架桥[6]" Target="frmContent" Href="../searchservlet?query=E01D6/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E01D6/00">
+    <TreeNode Title="E01D6/02 #弓弦式的[6]" Target="frmContent" Href="../searchservlet?query=E01D6/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E01D6/02"/>
+  </TreeNode>
+  <TreeNode Title="E01D11/00 悬索式斜拉桥[6]" Target="frmContent" Href="../searchservlet?query=E01D11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E01D11/00">
+    <TreeNode Title="E01D11/02 #悬索桥[6]" Target="frmContent" Href="../searchservlet?query=E01D11/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E01D11/02"/>
+    <TreeNode Title="E01D11/04 #斜拉桥[6]" Target="frmContent" Href="../searchservlet?query=E01D11/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E01D11/04"/>
+  </TreeNode>
+  <TreeNode Title="E01D12/00 其特征在于结构的组合、作为整体不包括在组E01D 2/00至E01D 11/00的单一组中的桥[6]" Target="frmContent" Href="../searchservlet?query=E01D12/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E01D12/00"/>
+  <TreeNode Title="E01D15/00 活动式或轻便式桥(船上的舱外坡道或舷梯的布置入B63B 27/14；承载坡道入B65G 69/28)；浮桥" Target="frmContent" Href="../searchservlet?query=E01D15/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E01D15/00">
+    <TreeNode Title="E01D15/02 #垂直升降桥" Target="frmContent" Href="../searchservlet?query=E01D15/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E01D15/02"/>
+    <TreeNode Title="E01D15/04 #平旋桥" Target="frmContent" Href="../searchservlet?query=E01D15/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E01D15/04"/>
+    <TreeNode Title="E01D15/06 #竖旋桥；滚动式竖旋桥，例如Scherzer桥" Target="frmContent" Href="../searchservlet?query=E01D15/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E01D15/06">
+      <TreeNode Title="E01D15/08 ##吊桥" Target="frmContent" Href="../searchservlet?query=E01D15/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E01D15/08"/>
+    </TreeNode>
+    <TreeNode Title="E01D15/10 #移动桥；滑动桥；转筒式桥，即沿纵轴旋转，用以反转和提高道路" Target="frmContent" Href="../searchservlet?query=E01D15/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E01D15/10"/>
+    <TreeNode Title="E01D15/12 #轻便或分段装配式桥(浮桥入E01D 15/14)" Target="frmContent" Href="../searchservlet?query=E01D15/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E01D15/12">
+      <TreeNode Title="E01D15/127 ##与用于运送、处理或放置桥或桥的节段的地面支承车辆相结合的[6]" Target="frmContent" Href="../searchservlet?query=E01D15/127&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E01D15/127"/>
+      <TreeNode Title="E01D15/133 ##由容易分离的标准节段或部件构成，例如，活动便桥(E01D 15/127优先)[6]" Target="frmContent" Href="../searchservlet?query=E01D15/133&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E01D15/133"/>
+    </TreeNode>
+    <TreeNode Title="E01D15/14 #浮桥，例如，浮船桥(登陆桥入E01D 15/24；浮体或浮筒入B63B)[6]" Target="frmContent" Href="../searchservlet?query=E01D15/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E01D15/14">
+      <TreeNode Title="E01D15/20 ##可折叠的，可膨胀的，可充气的或类似方式的(E01D 15/22优先)[6]" Target="frmContent" Href="../searchservlet?query=E01D15/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E01D15/20"/>
+      <TreeNode Title="E01D15/22 ##设计成车辆或装在车辆上[6]" Target="frmContent" Href="../searchservlet?query=E01D15/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E01D15/22"/>
+    </TreeNode>
+    <TreeNode Title="E01D15/24 #陆上或固定结构上的用来提供通向船或其他浮体结构通路的桥或类似结构  [6]" Target="frmContent" Href="../searchservlet?query=E01D15/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E01D15/24"/>
+  </TreeNode>
+  <TreeNode Title="E01D18/00 专门适用于特殊场合或功能的别处不包括的桥，例如，高架过水桥、支承管线的桥[6]" Target="frmContent" Href="../searchservlet?query=E01D18/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E01D18/00"/>
+  <TreeNode Title="E01D19/00 桥梁零件" Target="frmContent" Href="../searchservlet?query=E01D19/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E01D19/00">
+    <TreeNode Title="E01D19/02 #桥墩；桥台(基础入E02D)" Target="frmContent" Href="../searchservlet?query=E01D19/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E01D19/02"/>
+    <TreeNode Title="E01D19/04 #支座；铰合部件" Target="frmContent" Href="../searchservlet?query=E01D19/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E01D19/04"/>
+    <TreeNode Title="E01D19/06 #伸缩缝的布置、修建或连接" Target="frmContent" Href="../searchservlet?query=E01D19/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E01D19/06"/>
+    <TreeNode Title="E01D19/08 #防潮层或其他隔离层；排水装置或设备" Target="frmContent" Href="../searchservlet?query=E01D19/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E01D19/08"/>
+    <TreeNode Title="E01D19/10 #栏杆；烟或气(例如，机车的)的防护装置；维修用的移动车；桥上管道或缆索的固定" Target="frmContent" Href="../searchservlet?query=E01D19/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E01D19/10"/>
+    <TreeNode Title="E01D19/12 #桥梁的格栅或桥面；桥上铁路轨枕或轨道的固定" Target="frmContent" Href="../searchservlet?query=E01D19/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E01D19/12"/>
+    <TreeNode Title="E01D19/14 #塔；锚；鞍式支座[6]" Target="frmContent" Href="../searchservlet?query=E01D19/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E01D19/14"/>
+    <TreeNode Title="E01D19/16 #悬索；悬索用夹具[6]" Target="frmContent" Href="../searchservlet?query=E01D19/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E01D19/16"/>
+    <TreeNode Title="E01D21/00 #专用于架设或装配桥梁的方法或设备[6]" Target="frmContent" Href="../searchservlet?query=E01D21/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E01D21/00"/>
+    <TreeNode Title="E01D21/06 #通过桥或桥节段的转化运动[6]" Target="frmContent" Href="../searchservlet?query=E01D21/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E01D21/06"/>
+    <TreeNode Title="E01D21/08 #通过桥或桥节段的转动[6]" Target="frmContent" Href="../searchservlet?query=E01D21/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E01D21/08"/>
+    <TreeNode Title="E01D21/10 #悬臂架设[6]" Target="frmContent" Href="../searchservlet?query=E01D21/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E01D21/10"/>
+  </TreeNode>
+  <TreeNode Title="E01D22/00 维修或加固现有桥梁的方法或设备[6]E01D 24/00拆桥的方法或设备[8]" Target="frmContent" Href="../searchservlet?query=E01D22/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E01D22/00"/>
+  <TreeNode Title="E01D101/00 桥梁的材料组成[6]" Target="frmContent" Href="../searchservlet?query=E01D101/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E01D101/00">
+    <TreeNode Title="E01D101/10 #木材[6]" Target="frmContent" Href="../searchservlet?query=E01D101/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E01D101/10"/>
+    <TreeNode Title="E01D101/20 #混凝土、石料或类似石的材料[6]" Target="frmContent" Href="../searchservlet?query=E01D101/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E01D101/20">
+      <TreeNode Title="E01D101/22 ##砌石；砖[6]" Target="frmContent" Href="../searchservlet?query=E01D101/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E01D101/22"/>
+      <TreeNode Title="E01D101/24 ##混凝土[6]" Target="frmContent" Href="../searchservlet?query=E01D101/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E01D101/24">
+        <TreeNode Title="E01D101/26 ###加钢筋的[6]" Target="frmContent" Href="../searchservlet?query=E01D101/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E01D101/26">
+          <TreeNode Title="E01D101/28 ####预应力的[6]" Target="frmContent" Href="../searchservlet?query=E01D101/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E01D101/28"/>
+        </TreeNode>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="E01D101/30 #金属(E01D 101/26优先)[6]" Target="frmContent" Href="../searchservlet?query=E01D101/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E01D101/30">
+      <TreeNode Title="E01D101/32 ##预应力的[6]" Target="frmContent" Href="../searchservlet?query=E01D101/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E01D101/32"/>
+      <TreeNode Title="E01D101/34 ##非铁的，例如，铝[6]" Target="frmContent" Href="../searchservlet?query=E01D101/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E01D101/34"/>
+    </TreeNode>
+    <TreeNode Title="E01D101/40 #塑料[6]" Target="frmContent" Href="../searchservlet?query=E01D101/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E01D101/40"/>
+  </TreeNode>
+</Root>

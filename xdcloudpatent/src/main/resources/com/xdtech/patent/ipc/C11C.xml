@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="C11C1/00 从脂、脂油或蜡制备脂肪酸，该类脂肪酸的精制(从废材料中回收脂肪酸入C11B 13/00)" Target="frmContent" Href="../searchservlet?query=C11C1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C11C1/00">
+    <TreeNode Title="C11C1/02 #从脂或脂油中" Target="frmContent" Href="../searchservlet?query=C11C1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C11C1/02">
+      <TreeNode Title="C11C1/04 ##水解法" Target="frmContent" Href="../searchservlet?query=C11C1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C11C1/04">
+        <TreeNode Title="C11C1/06 ###使用固体催化剂" Target="frmContent" Href="../searchservlet?query=C11C1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C11C1/06"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="C11C1/08 #精制" Target="frmContent" Href="../searchservlet?query=C11C1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C11C1/08">
+      <TreeNode Title="C11C1/10 ##蒸馏法" Target="frmContent" Href="../searchservlet?query=C11C1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C11C1/10"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="C11C3/00 脂肪、油或由其得到的脂肪酸经过化学改性而获得的脂肪、油或脂肪酸(磺化的脂或油入C07C 309/62；油膏入C08H；干性油入C09F)" Target="frmContent" Href="../searchservlet?query=C11C3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C11C3/00">
+    <TreeNode Title="C11C3/02 #脂肪酸与甘油的酯化法" Target="frmContent" Href="../searchservlet?query=C11C3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C11C3/02"/>
+    <TreeNode Title="C11C3/04 #脂或脂油的酯化法" Target="frmContent" Href="../searchservlet?query=C11C3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C11C3/04">
+      <TreeNode Title="C11C3/06 ##与甘油" Target="frmContent" Href="../searchservlet?query=C11C3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C11C3/06"/>
+      <TreeNode Title="C11C3/08 ##与脂肪酸" Target="frmContent" Href="../searchservlet?query=C11C3/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C11C3/08"/>
+      <TreeNode Title="C11C3/10 ##酯交换" Target="frmContent" Href="../searchservlet?query=C11C3/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C11C3/10"/>
+    </TreeNode>
+    <TreeNode Title="C11C3/12 #加氢法" Target="frmContent" Href="../searchservlet?query=C11C3/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C11C3/12"/>
+    <TreeNode Title="C11C3/14 #异构化法" Target="frmContent" Href="../searchservlet?query=C11C3/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C11C3/14"/>
+  </TreeNode>
+  <TreeNode Title="C11C5/00 蜡烛" Target="frmContent" Href="../searchservlet?query=C11C5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C11C5/00">
+    <TreeNode Title="C11C5/02 #制备蜡烛用的设备" Target="frmContent" Href="../searchservlet?query=C11C5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C11C5/02"/>
+  </TreeNode>
+</Root>

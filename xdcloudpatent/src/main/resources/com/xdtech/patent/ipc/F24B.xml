@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="F24B1/00 炉或灶" Target="frmContent" Href="../searchservlet?query=F24B1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24B1/00">
+    <TreeNode Title="F24B1/02 #闭式炉" Target="frmContent" Href="../searchservlet?query=F24B1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24B1/02">
+      <TreeNode Title="F24B1/04 ##用釉石瓷砖建造的(F24B 1/08，F24B 1/16优先)" Target="frmContent" Href="../searchservlet?query=F24B1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24B1/04">
+        <TreeNode Title="F24B1/06 ###瓷砖结构或其所用加固装置的结构，例如填隙衬垫(瓷砖成形入B28B；瓷砖的上釉入C04B)" Target="frmContent" Href="../searchservlet?query=F24B1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24B1/06"/>
+      </TreeNode>
+      <TreeNode Title="F24B1/08 ##炉或灶内燃料贮存在单个未分隔的料箱中" Target="frmContent" Href="../searchservlet?query=F24B1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24B1/08">
+        <TreeNode Title="F24B1/10 ###在水平方向燃烧的(F24B 1/14优先)" Target="frmContent" Href="../searchservlet?query=F24B1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24B1/10"/>
+        <TreeNode Title="F24B1/14 ###在料箱里预先蒸馏的" Target="frmContent" Href="../searchservlet?query=F24B1/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24B1/14"/>
+      </TreeNode>
+      <TreeNode Title="F24B1/16 ##炉或灶内燃料贮存在多个或分隔的料箱中" Target="frmContent" Href="../searchservlet?query=F24B1/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24B1/16"/>
+    </TreeNode>
+    <TreeNode Title="F24B1/18 #明火炉，例如壁炉" Target="frmContent" Href="../searchservlet?query=F24B1/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24B1/18">
+      <TreeNode Title="F24B1/181 ##非固定式壁炉，例如用于活动房子的[4]" Target="frmContent" Href="../searchservlet?query=F24B1/181&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24B1/181"/>
+      <TreeNode Title="F24B1/182 ##带有烹调装置的(带有烹调装置的其他炉入F24B 1/26)[4]" Target="frmContent" Href="../searchservlet?query=F24B1/182&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24B1/182"/>
+      <TreeNode Title="F24B1/183 ##带有热水装置的[4]" Target="frmContent" Href="../searchservlet?query=F24B1/183&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24B1/183"/>
+      <TreeNode Title="F24B1/185 ##带有操控空气装置、热交换装置或附加对流取暖装置的(F24B 1/183优先；调节空气装置、热交换装置或附加对流取暖装置的零件或附件入F24B 1/191)；调节燃烧；其所用控制装置[4]" Target="frmContent" Href="../searchservlet?query=F24B1/185&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24B1/185">
+        <TreeNode Title="F24B1/187 ###调节燃烧用的状态响应控制装置(送风用的阀门或风门入F23L)[4]" Target="frmContent" Href="../searchservlet?query=F24B1/187&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24B1/187"/>
+        <TreeNode Title="F24B1/188 ###以使用热交换方法为特征的(F24B 1/187优先)[4]" Target="frmContent" Href="../searchservlet?query=F24B1/188&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24B1/188"/>
+        <TreeNode Title="F24B1/189 ###以操控空气装置，即燃烧空气、加热空气或烟气的操控装置为特征的，例如引风控制风门(F24B 1/187，F24B 1/188优先)[4]" Target="frmContent" Href="../searchservlet?query=F24B1/189&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24B1/189">
+          <TreeNode Title="F24B1/19 ####供应燃烧空气的[4]" Target="frmContent" Href="../searchservlet?query=F24B1/19&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24B1/19"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="F24B1/191 ##零件；附件[4]" Target="frmContent" Href="../searchservlet?query=F24B1/191&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24B1/191">
+        <TreeNode Title="F24B1/192 ###门；挡板；燃料护板[4]" Target="frmContent" Href="../searchservlet?query=F24B1/192&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24B1/192"/>
+        <TreeNode Title="F24B1/193 ###炉箅；炉子用具[4]" Target="frmContent" Href="../searchservlet?query=F24B1/193&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24B1/193"/>
+        <TreeNode Title="F24B1/195 ###火箱；构架；炉壳；热反射器[4]" Target="frmContent" Href="../searchservlet?query=F24B1/195&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24B1/195"/>
+        <TreeNode Title="F24B1/197 ###炉膛[4]" Target="frmContent" Href="../searchservlet?query=F24B1/197&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24B1/197"/>
+        <TreeNode Title="F24B1/198 ###前围件[4]" Target="frmContent" Href="../searchservlet?query=F24B1/198&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24B1/198"/>
+        <TreeNode Title="F24B1/199 ###燃料处理装置[4]" Target="frmContent" Href="../searchservlet?query=F24B1/199&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24B1/199"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="F24B1/20 #灶" Target="frmContent" Href="../searchservlet?query=F24B1/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24B1/20">
+      <TreeNode Title="F24B1/22 ##烘箱安置在火箱上面的" Target="frmContent" Href="../searchservlet?query=F24B1/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24B1/22"/>
+      <TreeNode Title="F24B1/24 ##内装有蓄热体或隔热块的" Target="frmContent" Href="../searchservlet?query=F24B1/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24B1/24"/>
+    </TreeNode>
+    <TreeNode Title="F24B1/26 #带有烹调装置的炉(附有烹调装置的明火炉入F24B 1/182)[4]" Target="frmContent" Href="../searchservlet?query=F24B1/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24B1/26"/>
+    <TreeNode Title="F24B1/28 #炉或灶的组合装置，例如带有一个公用火箱且背对背的炉" Target="frmContent" Href="../searchservlet?query=F24B1/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24B1/28"/>
+  </TreeNode>
+  <TreeNode Title="F24B3/00 不包含在组F24B 1/00中的取暖装置，例如木灰火盆(用于烹调的入A47J 27/00至A47J 37/00)" Target="frmContent" Href="../searchservlet?query=F24B3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24B3/00"/>
+  <TreeNode Title="F24B5/00 燃烧空气或烟气在炉或灶内或在其周围的循环流动(有操控空气装置的明火炉入F24B 1/185)[4]" Target="frmContent" Href="../searchservlet?query=F24B5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24B5/00">
+    <TreeNode Title="F24B5/02 #在炉内或其周围的" Target="frmContent" Href="../searchservlet?query=F24B5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24B5/02">
+      <TreeNode Title="F24B5/04 ##空气或烟气向下通过炉底或炉箅的" Target="frmContent" Href="../searchservlet?query=F24B5/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24B5/04"/>
+    </TreeNode>
+    <TreeNode Title="F24B5/06 #在灶内或其周围的" Target="frmContent" Href="../searchservlet?query=F24B5/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24B5/06">
+      <TreeNode Title="F24B5/08 ##在烘箱周围的" Target="frmContent" Href="../searchservlet?query=F24B5/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24B5/08"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="F24B7/00 带有对流取暖装置的炉、灶或烟道(以热交换装置的使用为特征的明火炉入F24B 1/185；有热发生装置的空气加热器入F24H 3/00)[4]" Target="frmContent" Href="../searchservlet?query=F24B7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24B7/00">
+    <TreeNode Title="F24B7/02 #带有外部空气通道的" Target="frmContent" Href="../searchservlet?query=F24B7/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24B7/02"/>
+    <TreeNode Title="F24B7/04 #带有内部空气通道的" Target="frmContent" Href="../searchservlet?query=F24B7/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24B7/04"/>
+    <TreeNode Title="F24B7/06 #无空气通道的" Target="frmContent" Href="../searchservlet?query=F24B7/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24B7/06"/>
+  </TreeNode>
+  <TreeNode Title="F24B9/00 带有热水装置的炉、灶或烟道(F24B 1/182，F24B 1/183优先)[3，4]" Target="frmContent" Href="../searchservlet?query=F24B9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24B9/00">
+    <TreeNode Title="F24B9/02 #在开式容器中的，例如水浴器" Target="frmContent" Href="../searchservlet?query=F24B9/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24B9/02"/>
+    <TreeNode Title="F24B9/04 #在闭式容器中的[4]" Target="frmContent" Href="../searchservlet?query=F24B9/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24B9/04"/>
+  </TreeNode>
+  <TreeNode Title="F24B13/00 只应用于燃烧固体燃料的炉或灶的零部件(明火炉的零件或附件入F24B 1/191；从燃烧室清除灰、炉渣或熔渣入F23J 1/00；从通道或燃烧室中火焰达不到的地方清除固体余渣入F23J 3/00；烟囱或烟道的接头或连接件入F23J 13/04；烟囱或烟道排烟口或进口孔入F23J 13/06；监测燃烧的装置入F23M 11/04)[4]" Target="frmContent" Href="../searchservlet?query=F24B13/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24B13/00">
+    <TreeNode Title="F24B13/02 #炉箅组件的配置或安装(炉箅入F23H)；火箱衬层的配置或安装，例如炉衬(陶瓷材料本身入C04B 33/00，C04B 35/00；燃烧室的外壳、衬层、墙壁入F23M)" Target="frmContent" Href="../searchservlet?query=F24B13/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24B13/02"/>
+    <TreeNode Title="F24B13/04 #送进固体燃料的装置，例如料斗(一般向燃烧设备送进固体燃料入F23K)" Target="frmContent" Href="../searchservlet?query=F24B13/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24B13/04"/>
+  </TreeNode>
+  <TreeNode Title="F24B15/00 与炉或灶连带使用的工具(滤灰的筛入B07B；引火物入C10L 11/00；除灰入F23J；其他点火用装置入F23Q)[6]" Target="frmContent" Href="../searchservlet?query=F24B15/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24B15/00">
+    <TreeNode Title="F24B15/02 #用于破碎煤的[6]" Target="frmContent" Href="../searchservlet?query=F24B15/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24B15/02"/>
+    <TreeNode Title="F24B15/04 #煤斗；煤箱[6]" Target="frmContent" Href="../searchservlet?query=F24B15/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24B15/04"/>
+    <TreeNode Title="F24B15/06 #有推出器的铲[6]" Target="frmContent" Href="../searchservlet?query=F24B15/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24B15/06"/>
+    <TreeNode Title="F24B15/08 #带筛子的铲[6]" Target="frmContent" Href="../searchservlet?query=F24B15/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24B15/08"/>
+    <TreeNode Title="F24B15/10 #煤夹[6]" Target="frmContent" Href="../searchservlet?query=F24B15/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F24B15/10"/>
+  </TreeNode>
+</Root>

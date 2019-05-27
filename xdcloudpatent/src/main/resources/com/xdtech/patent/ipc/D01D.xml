@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="D01D1/00 长丝或长丝类产品的原料处理(一般塑料或可塑状态物质的加工入B29)" Target="frmContent" Href="../searchservlet?query=D01D1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01D1/00">
+    <TreeNode Title="D01D1/02 #纺丝溶液的制备" Target="frmContent" Href="../searchservlet?query=D01D1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01D1/02"/>
+    <TreeNode Title="D01D1/04 #长丝原料的熔融" Target="frmContent" Href="../searchservlet?query=D01D1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01D1/04"/>
+    <TreeNode Title="D01D1/06 #喂入溶液于喷丝头(泵的结构入F04)" Target="frmContent" Href="../searchservlet?query=D01D1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01D1/06">
+      <TreeNode Title="D01D1/09 ##压力、温度或喂料速度的调节[3]" Target="frmContent" Href="../searchservlet?query=D01D1/09&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01D1/09"/>
+    </TreeNode>
+    <TreeNode Title="D01D1/10 #纺丝溶液或熔体的过滤和脱泡" Target="frmContent" Href="../searchservlet?query=D01D1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01D1/10"/>
+  </TreeNode>
+  <TreeNode Title="D01D4/00 喷丝头组合件；及其清洁(D01D 5/24，D01D 5/253，D01D 5/28优先)[3]" Target="frmContent" Href="../searchservlet?query=D01D4/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01D4/00">
+    <TreeNode Title="D01D4/02 #喷丝头(其合金入C22C)[3]" Target="frmContent" Href="../searchservlet?query=D01D4/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01D4/02"/>
+    <TreeNode Title="D01D4/04 #喷丝头或喷丝头组合件的其他部件的清洁(一般清洁入B08B)[3]" Target="frmContent" Href="../searchservlet?query=D01D4/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01D4/04"/>
+    <TreeNode Title="D01D4/06 #分配纺丝溶液或熔体于喷丝头[3]" Target="frmContent" Href="../searchservlet?query=D01D4/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01D4/06"/>
+    <TreeNode Title="D01D4/08 #喷丝头或喷丝头组合件的其他部件的支持[3]" Target="frmContent" Href="../searchservlet?query=D01D4/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01D4/08"/>
+  </TreeNode>
+  <TreeNode Title="D01D5/00 长丝、线或类似物的生成" Target="frmContent" Href="../searchservlet?query=D01D5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01D5/00">
+    <TreeNode Title="D01D5/02 #开始成丝" Target="frmContent" Href="../searchservlet?query=D01D5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01D5/02"/>
+    <TreeNode Title="D01D5/04 #干法" Target="frmContent" Href="../searchservlet?query=D01D5/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01D5/04"/>
+    <TreeNode Title="D01D5/06 #湿法" Target="frmContent" Href="../searchservlet?query=D01D5/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01D5/06"/>
+    <TreeNode Title="D01D5/08 #熔融法" Target="frmContent" Href="../searchservlet?query=D01D5/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01D5/08">
+      <TreeNode Title="D01D5/084 ##离开喷丝头后，长丝、线类等的加热[3]" Target="frmContent" Href="../searchservlet?query=D01D5/084&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01D5/084"/>
+      <TreeNode Title="D01D5/088 ##离开喷丝头后，长丝、线类等的冷却[3]" Target="frmContent" Href="../searchservlet?query=D01D5/088&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01D5/088">
+        <TreeNode Title="D01D5/092 ###利用通风管道或烟道[3]" Target="frmContent" Href="../searchservlet?query=D01D5/092&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01D5/092"/>
+      </TreeNode>
+      <TreeNode Title="D01D5/096 ##离开喷丝头后，长丝、线类等的湿度控制或上油[3]" Target="frmContent" Href="../searchservlet?query=D01D5/096&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01D5/096"/>
+      <TreeNode Title="D01D5/098 ##同时拉伸的[4]" Target="frmContent" Href="../searchservlet?query=D01D5/098&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01D5/098"/>
+      <TreeNode Title="D01D5/10 ##用有机原料" Target="frmContent" Href="../searchservlet?query=D01D5/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01D5/10"/>
+    </TreeNode>
+    <TreeNode Title="D01D5/11 #闪蒸纺丝[3]" Target="frmContent" Href="../searchservlet?query=D01D5/11&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01D5/11"/>
+    <TreeNode Title="D01D5/12 #拉伸纺丝方法(拉伸整理入D02J 1/22)" Target="frmContent" Href="../searchservlet?query=D01D5/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01D5/12">
+      <TreeNode Title="D01D5/14 ##用流动液体的拉伸介质" Target="frmContent" Href="../searchservlet?query=D01D5/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01D5/14"/>
+      <TreeNode Title="D01D5/16 ##用罗拉类机械装置，如缓冲小辊" Target="frmContent" Href="../searchservlet?query=D01D5/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01D5/16"/>
+    </TreeNode>
+    <TreeNode Title="D01D5/18 #用旋转喷丝头的方法" Target="frmContent" Href="../searchservlet?query=D01D5/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01D5/18"/>
+    <TreeNode Title="D01D5/20 #沿其长度方向具有不同纤度" Target="frmContent" Href="../searchservlet?query=D01D5/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01D5/20"/>
+    <TreeNode Title="D01D5/22 #带卷曲的结构；带特殊的仿毛结构(成丝之后使长丝或线产生卷曲效果入D02G 1/00)" Target="frmContent" Href="../searchservlet?query=D01D5/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01D5/22">
+      <TreeNode Title="D01D5/23 ##借助离开喷丝头后长丝、线类等的不对称冷却[3]" Target="frmContent" Href="../searchservlet?query=D01D5/23&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01D5/23"/>
+    </TreeNode>
+    <TreeNode Title="D01D5/24 #中空结构及其喷丝头组合件(D01D 5/38优先；塑料管的生产入B29D；形成中空长丝的添加剂入D01F 1/08)[3]" Target="frmContent" Href="../searchservlet?query=D01D5/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01D5/24">
+      <TreeNode Title="D01D5/247 ##不连续中空结构或微孔结构[3]" Target="frmContent" Href="../searchservlet?query=D01D5/247&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01D5/247"/>
+    </TreeNode>
+    <TreeNode Title="D01D5/253 #具有非圆形截面；其喷丝头组合件(D01D 5/38优先)[3]" Target="frmContent" Href="../searchservlet?query=D01D5/253&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01D5/253"/>
+    <TreeNode Title="D01D5/26 #短纤维的形成(利用闪蒸纺丝入D01D 5/11)" Target="frmContent" Href="../searchservlet?query=D01D5/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01D5/26"/>
+    <TreeNode Title="D01D5/28 #在喷丝过程中将不同的纺丝溶液或熔体加以混合；其喷丝头组合件" Target="frmContent" Href="../searchservlet?query=D01D5/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01D5/28">
+      <TreeNode Title="D01D5/30 ##共轭长丝；其喷丝头组合件[3]" Target="frmContent" Href="../searchservlet?query=D01D5/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01D5/30">
+        <TreeNode Title="D01D5/32 ###并列结构；其喷丝头组合件[3]" Target="frmContent" Href="../searchservlet?query=D01D5/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01D5/32"/>
+        <TreeNode Title="D01D5/34 ###皮芯结构；其喷丝头组合件[3]" Target="frmContent" Href="../searchservlet?query=D01D5/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01D5/34"/>
+        <TreeNode Title="D01D5/36 ###矩阵结构；其喷丝头组合件[3]" Target="frmContent" Href="../searchservlet?query=D01D5/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01D5/36"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="D01D5/38 #聚合时长丝、线类等的形成[3]" Target="frmContent" Href="../searchservlet?query=D01D5/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01D5/38"/>
+    <TreeNode Title="D01D5/40 #对形成长丝聚合物的溶液或分散液施用剪切应力，如搅拌[3]" Target="frmContent" Href="../searchservlet?query=D01D5/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01D5/40"/>
+    <TreeNode Title="D01D5/42 #利用切割薄膜成狭幅带子或长丝，或利用薄膜的原纤维化[3]" Target="frmContent" Href="../searchservlet?query=D01D5/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01D5/42"/>
+  </TreeNode>
+  <TreeNode Title="D01D7/00 新喷出的丝的集束(通过加捻对新喷丝的集束入D01H)" Target="frmContent" Href="../searchservlet?query=D01D7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01D7/00">
+    <TreeNode Title="D01D7/02 #在离心式纺丝罐中[3]" Target="frmContent" Href="../searchservlet?query=D01D7/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01D7/02"/>
+  </TreeNode>
+  <TreeNode Title="D01D10/00 在制造期间，即在人造长丝集束之前的连续生产过程中，人造长丝或类似物的物理处理(整理入D02J)[4]" Target="frmContent" Href="../searchservlet?query=D01D10/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01D10/00">
+    <TreeNode Title="D01D10/02 #热处理(整理加热入D02J 13/00)[4]" Target="frmContent" Href="../searchservlet?query=D01D10/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01D10/02"/>
+    <TreeNode Title="D01D10/04 #长丝或类似材料在其处理过程的支撑[4]" Target="frmContent" Href="../searchservlet?query=D01D10/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01D10/04"/>
+    <TreeNode Title="D01D10/06 #清洗或干燥[4]" Target="frmContent" Href="../searchservlet?query=D01D10/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01D10/06"/>
+  </TreeNode>
+  <TreeNode Title="D01D11/00 其他制造特征" Target="frmContent" Href="../searchservlet?query=D01D11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01D11/00">
+    <TreeNode Title="D01D11/02 #开松纤维束使线或长丝间有一定间隙" Target="frmContent" Href="../searchservlet?query=D01D11/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01D11/02"/>
+    <TreeNode Title="D01D11/04 #固定导架" Target="frmContent" Href="../searchservlet?query=D01D11/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01D11/04"/>
+    <TreeNode Title="D01D11/06 #用纺丝液或熔融液进行涂层" Target="frmContent" Href="../searchservlet?query=D01D11/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01D11/06"/>
+  </TreeNode>
+  <TreeNode Title="D01D13/00 生产人造线的成套设备" Target="frmContent" Href="../searchservlet?query=D01D13/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01D13/00">
+    <TreeNode Title="D01D13/02 #联合机零件" Target="frmContent" Href="../searchservlet?query=D01D13/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01D13/02"/>
+  </TreeNode>
+</Root>

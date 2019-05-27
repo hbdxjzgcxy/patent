@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<app-conf>
+	<property>
+		<name>search.servcie.wsdl</name>
+		<value>http://127.0.0.1:8080/xdcloudsearch/service/search?wsdl</value>
+		<description>检索服务接口地址</description>
+	</property>
+	<property>
+		<name>operation.servcie.wsdl</name>
+		<value>http://127.0.0.1:8080/xdcloudsearch/service/operate?wsdl
+		</value>
+		<description>数据更新接口地址</description>
+	</property>
+	<property>
+		<name>user.data.dir</name>
+		<value>~/xdtech-patent</value>
+		<description>用户数据存储目录</description>
+	</property>
+	<property>
+		<name>core.name</name>
+		<value>patent</value>
+	</property>
+	<property>
+		<name>system.debug</name>
+		<value>true</value>
+	</property>
+	<property>
+		<name>temp.dir</name>
+		<value>E:\temp</value>
+		<description>pdf下载临时目录</description>
+	</property>
+	<property>
+		<name>pdf.download.url</name>
+		<value>http://pdf.lindenpat.com/LindenpatTempSite/XOS/LindenpatTemp/DownPdfNetworkAction.do?</value>
+		<description>服务器下载pdf的请求地址</description>
+	</property>
+</app-conf>

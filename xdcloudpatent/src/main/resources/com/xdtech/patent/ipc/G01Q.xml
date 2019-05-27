@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="G01Q10/00 扫描或定位设备，即主动控制探针的运动或位置的设备 [2010.01]" Target="frmContent" Href="../searchservlet?query=G01Q10/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01Q10/00">
+    <TreeNode Title="G01Q10/02 #粗扫描或定位[2010.01]" Target="frmContent" Href="../searchservlet?query=G01Q10/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01Q10/02"/>
+    <TreeNode Title="G01Q10/04 #细扫描或定位 [2010.01]" Target="frmContent" Href="../searchservlet?query=G01Q10/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01Q10/04">
+      <TreeNode Title="G01Q10/06 ##电路或其算法 [2010.01]" Target="frmContent" Href="../searchservlet?query=G01Q10/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01Q10/06"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="G01Q20/00 监测探针的运动或位置[2010.01]" Target="frmContent" Href="../searchservlet?query=G01Q20/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01Q20/00">
+    <TreeNode Title="G01Q20/02 #通过光学方法 [2010.01]" Target="frmContent" Href="../searchservlet?query=G01Q20/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01Q20/02"/>
+    <TreeNode Title="G01Q20/04 #自检测的探针，即在其中探针自身产生一个代表其位置的信号，例如，压电量 [2010.01]" Target="frmContent" Href="../searchservlet?query=G01Q20/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01Q20/04"/>
+  </TreeNode>
+  <TreeNode Title="G01Q30/00 用于辅助或改进扫描探针技术或设备的辅助手段，例如显示或数据处理装置[2010.01]" Target="frmContent" Href="../searchservlet?query=G01Q30/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01Q30/00">
+    <TreeNode Title="G01Q30/02 #非SPM的分析装置，例如，SEM[扫描电子显微镜]，分光计或光学显微镜 [2010.01]" Target="frmContent" Href="../searchservlet?query=G01Q30/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01Q30/02"/>
+    <TreeNode Title="G01Q30/04 #显示或数据处理装置[2010.01]" Target="frmContent" Href="../searchservlet?query=G01Q30/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01Q30/04">
+      <TreeNode Title="G01Q30/06 ##用于误差补偿[2010.01]" Target="frmContent" Href="../searchservlet?query=G01Q30/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01Q30/06"/>
+    </TreeNode>
+    <TreeNode Title="G01Q30/08 #建立或调节样本室所需环境条件的手段 [2010.01]" Target="frmContent" Href="../searchservlet?query=G01Q30/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01Q30/08">
+      <TreeNode Title="G01Q30/10 ##热环境 [2010.01]" Target="frmContent" Href="../searchservlet?query=G01Q30/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01Q30/10"/>
+      <TreeNode Title="G01Q30/12 ##流体环境 [2010.01]" Target="frmContent" Href="../searchservlet?query=G01Q30/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01Q30/12">
+        <TreeNode Title="G01Q30/14 ###液体环境[2010.01]" Target="frmContent" Href="../searchservlet?query=G01Q30/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01Q30/14"/>
+      </TreeNode>
+      <TreeNode Title="G01Q30/16 ##真空环境 [2010.01]" Target="frmContent" Href="../searchservlet?query=G01Q30/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01Q30/16"/>
+    </TreeNode>
+    <TreeNode Title="G01Q30/18 #保护或避免样品室内部受到外界环境状况影响的手段，例如振动或电磁场[2010.01]" Target="frmContent" Href="../searchservlet?query=G01Q30/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01Q30/18"/>
+    <TreeNode Title="G01Q30/20 #样品处理装置或方法 [2010.01]" Target="frmContent" Href="../searchservlet?query=G01Q30/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01Q30/20"/>
+  </TreeNode>
+  <TreeNode Title="G01Q40/00 校准，例如探针的 [2010.01]" Target="frmContent" Href="../searchservlet?query=G01Q40/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01Q40/00">
+    <TreeNode Title="G01Q40/02 #校准标准或其制作方法 [2010.01]" Target="frmContent" Href="../searchservlet?query=G01Q40/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01Q40/02"/>
+  </TreeNode>
+  <TreeNode Title="G01Q60/00 特殊类型的SPM [扫描探针显微术]或其设备；其基本组成 [2010.01]" Target="frmContent" Href="../searchservlet?query=G01Q60/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01Q60/00">
+    <TreeNode Title="G01Q60/02 #多个类型SPM，即包括两种或更多种SPM技术 [2010.01]" Target="frmContent" Href="../searchservlet?query=G01Q60/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01Q60/02">
+      <TreeNode Title="G01Q60/04 ##与AFM [原子力显微术]结合的STM [扫描隧道显微术] [2010.01]" Target="frmContent" Href="../searchservlet?query=G01Q60/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01Q60/04"/>
+      <TreeNode Title="G01Q60/06 ##与AFM [原子力显微术]结合的SNOM [扫描近场光学显微术] [2010.01]" Target="frmContent" Href="../searchservlet?query=G01Q60/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01Q60/06"/>
+      <TreeNode Title="G01Q60/08 ##与AFM [原子力显微术]结合的MFM [磁力显微术][2010.01]" Target="frmContent" Href="../searchservlet?query=G01Q60/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01Q60/08"/>
+    </TreeNode>
+    <TreeNode Title="G01Q60/10 #STM [扫描隧道显微术]或其设备，例如STM探针 [2010.01]" Target="frmContent" Href="../searchservlet?query=G01Q60/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01Q60/10">
+      <TreeNode Title="G01Q60/12 ##STS [扫描隧道光谱法] [2010.01]" Target="frmContent" Href="../searchservlet?query=G01Q60/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01Q60/12"/>
+      <TreeNode Title="G01Q60/14 ##STP [扫描隧道电位法] [2010.01]" Target="frmContent" Href="../searchservlet?query=G01Q60/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01Q60/14"/>
+      <TreeNode Title="G01Q60/16 ##探针，其制造或有关的使用仪器，例如支撑物 [2010.01]" Target="frmContent" Href="../searchservlet?query=G01Q60/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01Q60/16"/>
+    </TreeNode>
+    <TreeNode Title="G01Q60/18 #SNOM [扫描近场光学显微术]或其设备，例如，SNOM探针[2010.01]" Target="frmContent" Href="../searchservlet?query=G01Q60/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01Q60/18">
+      <TreeNode Title="G01Q60/20 ##荧光 [2010.01]" Target="frmContent" Href="../searchservlet?query=G01Q60/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01Q60/20"/>
+      <TreeNode Title="G01Q60/22 ##探针，其制造或有关的使用仪器，例如支撑物 [2010.01]" Target="frmContent" Href="../searchservlet?query=G01Q60/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01Q60/22"/>
+    </TreeNode>
+    <TreeNode Title="G01Q60/24 #AFM [原子力显微术]或其设备，例如AFM探针[2010.01]" Target="frmContent" Href="../searchservlet?query=G01Q60/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01Q60/24">
+      <TreeNode Title="G01Q60/26 ##摩擦力显微术 [2010.01]" Target="frmContent" Href="../searchservlet?query=G01Q60/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01Q60/26"/>
+      <TreeNode Title="G01Q60/28 ##附着力显微术 [2010.01]" Target="frmContent" Href="../searchservlet?query=G01Q60/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01Q60/28"/>
+      <TreeNode Title="G01Q60/30 ##扫描电势显微术 [2010.01]" Target="frmContent" Href="../searchservlet?query=G01Q60/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01Q60/30"/>
+      <TreeNode Title="G01Q60/32 ##交流模式 [2010.01]" Target="frmContent" Href="../searchservlet?query=G01Q60/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01Q60/32">
+        <TreeNode Title="G01Q60/34 ###轻敲模式 [2010.01]" Target="frmContent" Href="../searchservlet?query=G01Q60/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01Q60/34"/>
+      </TreeNode>
+      <TreeNode Title="G01Q60/36 ##直流模式 [2010.01]" Target="frmContent" Href="../searchservlet?query=G01Q60/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01Q60/36"/>
+      <TreeNode Title="G01Q60/38 ##探针，其制造或有关的使用仪器，例如支撑物[2010.01]" Target="frmContent" Href="../searchservlet?query=G01Q60/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01Q60/38">
+        <TreeNode Title="G01Q60/40 ###导电探针 [2010.01]" Target="frmContent" Href="../searchservlet?query=G01Q60/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01Q60/40"/>
+        <TreeNode Title="G01Q60/42 ###功能化 [2010.01]" Target="frmContent" Href="../searchservlet?query=G01Q60/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01Q60/42"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="G01Q60/44 #SICM [扫描离子电导显微术]或其设备，例如SICM探针 [2010.01]" Target="frmContent" Href="../searchservlet?query=G01Q60/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01Q60/44"/>
+    <TreeNode Title="G01Q60/46 #SCM [扫描电容显微术]或其设备，例如SCM探针 [2010.01]" Target="frmContent" Href="../searchservlet?query=G01Q60/46&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01Q60/46">
+      <TreeNode Title="G01Q60/48 ##探针，其制造或有关的使用仪器，例如支撑物[2010.01]" Target="frmContent" Href="../searchservlet?query=G01Q60/48&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01Q60/48"/>
+    </TreeNode>
+    <TreeNode Title="G01Q60/50 #MFM [磁力显微术]或其设备，例如MFM探针 [2010.01]" Target="frmContent" Href="../searchservlet?query=G01Q60/50&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01Q60/50">
+      <TreeNode Title="G01Q60/52 ##共振 [2010.01]" Target="frmContent" Href="../searchservlet?query=G01Q60/52&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01Q60/52"/>
+      <TreeNode Title="G01Q60/54 ##探针，其制造或有关的使用仪器，例如，支撑物[2010.01]" Target="frmContent" Href="../searchservlet?query=G01Q60/54&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01Q60/54">
+        <TreeNode Title="G01Q60/56 ###磁性镀膜的探针 [2010.01]" Target="frmContent" Href="../searchservlet?query=G01Q60/56&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01Q60/56"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="G01Q60/58 #SThM [扫描热学显微术]或其设备，例如SThM探针 [2010.01]" Target="frmContent" Href="../searchservlet?query=G01Q60/58&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01Q60/58"/>
+    <TreeNode Title="G01Q60/60 #SECM [扫描电化学显微术]或其设备，例如SECM探针 [2010.01]" Target="frmContent" Href="../searchservlet?query=G01Q60/60&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01Q60/60"/>
+  </TreeNode>
+  <TreeNode Title="G01Q70/00 SPM探针的一般方面，其制造或有关的使用仪器，它们不专门适用于包括在大组G01Q 60/00中的单独的SPM技术 [2010.01]" Target="frmContent" Href="../searchservlet?query=G01Q70/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01Q70/00">
+    <TreeNode Title="G01Q70/02 #探针支撑物 [2010.01]" Target="frmContent" Href="../searchservlet?query=G01Q70/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01Q70/02">
+      <TreeNode Title="G01Q70/04 ##带有由温度或振动引起的误差的补偿[2010.01]" Target="frmContent" Href="../searchservlet?query=G01Q70/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01Q70/04"/>
+    </TreeNode>
+    <TreeNode Title="G01Q70/06 #探针尖端阵列 [2010.01]" Target="frmContent" Href="../searchservlet?query=G01Q70/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01Q70/06"/>
+    <TreeNode Title="G01Q70/08 #探针特征 [2010.01]" Target="frmContent" Href="../searchservlet?query=G01Q70/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01Q70/08">
+      <TreeNode Title="G01Q70/10 ##形状或锥度 [2010.01]" Target="frmContent" Href="../searchservlet?query=G01Q70/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01Q70/10">
+        <TreeNode Title="G01Q70/12 ###纳米管状尖端 [2010.01]" Target="frmContent" Href="../searchservlet?query=G01Q70/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01Q70/12"/>
+      </TreeNode>
+      <TreeNode Title="G01Q70/14 ##特殊的材料 [2010.01]" Target="frmContent" Href="../searchservlet?query=G01Q70/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01Q70/14"/>
+    </TreeNode>
+    <TreeNode Title="G01Q70/16 #探针制造 [2010.01]" Target="frmContent" Href="../searchservlet?query=G01Q70/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01Q70/16">
+      <TreeNode Title="G01Q70/18 ##功能化 [2010.01]" Target="frmContent" Href="../searchservlet?query=G01Q70/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01Q70/18"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="G01Q80/00 不同于SPM的扫描探针技术的应用(微观结构的制造或处理入B81C；纳米结构的制造或处理入B82B 3/00；使用近场交互作用的信息记录或重现入G11B 9/12、G11B 11/24或G11B 13/08) [2010.01]" Target="frmContent" Href="../searchservlet?query=G01Q80/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01Q80/00"/>
+  <TreeNode Title="G01Q90/00 其他类目不包括的扫描探针技术或设备[2010.01]" Target="frmContent" Href="../searchservlet?query=G01Q90/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01Q90/00"/>
+</Root>

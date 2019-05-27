@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="D06B1/00 用液体、气体或蒸汽对纺织料进行处理，如洗涤、染色、漂白、上浆、浸渍等(丝光入D06B 7/00；溶剂处理入D06B 9/00；纺织材料的局部处理入D06B 11/00；借助振动入D06B 13/00；整理剂的转移施用入D06M 23/00)[4]" Target="frmContent" Href="../searchservlet?query=D06B1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06B1/00">
+    <TreeNode Title="D06B1/02 #喷雾或喷射(D06B 1/08优先；一般喷雾入B05)[2]" Target="frmContent" Href="../searchservlet?query=D06B1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06B1/02"/>
+    <TreeNode Title="D06B1/04 #倾倒或允许流至纺织材料的表面[2]" Target="frmContent" Href="../searchservlet?query=D06B1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06B1/04">
+      <TreeNode Title="D06B1/06 ##流过倾斜的表面[2]" Target="frmContent" Href="../searchservlet?query=D06B1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06B1/06"/>
+    </TreeNode>
+    <TreeNode Title="D06B1/08 #从与纺织材料相接触或几乎接触的出口[2]" Target="frmContent" Href="../searchservlet?query=D06B1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06B1/08"/>
+    <TreeNode Title="D06B1/10 #与纺织材料传送装置相接触[2]" Target="frmContent" Href="../searchservlet?query=D06B1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06B1/10">
+      <TreeNode Title="D06B1/12 ##摩擦接触，如与刷子或衬垫[2]" Target="frmContent" Href="../searchservlet?query=D06B1/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06B1/12"/>
+      <TreeNode Title="D06B1/14 ##与滚筒[2]" Target="frmContent" Href="../searchservlet?query=D06B1/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06B1/14">
+        <TreeNode Title="D06B1/16 ###从滚筒内供应处理的材料[2]" Target="frmContent" Href="../searchservlet?query=D06B1/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06B1/16"/>
+      </TreeNode>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="D06B3/00 使纺织材料通过液体、气体或蒸汽以得到的处理效应，如洗涤、染色、漂白、上浆、浸渍(丝光入D06B 7/00；溶液处理D06B 9/00；局部处理入D06B 11/00；借助振动入D06B 13/00)[2]" Target="frmContent" Href="../searchservlet?query=D06B3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06B3/00">
+    <TreeNode Title="D06B3/02 #纤维、棉条或粗纱的[2]" Target="frmContent" Href="../searchservlet?query=D06B3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06B3/02"/>
+    <TreeNode Title="D06B3/04 #纱、线或长丝的[2]" Target="frmContent" Href="../searchservlet?query=D06B3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06B3/04">
+      <TreeNode Title="D06B3/06 ##单独处理[2]" Target="frmContent" Href="../searchservlet?query=D06B3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06B3/06"/>
+      <TreeNode Title="D06B3/08 ##绞状[2]" Target="frmContent" Href="../searchservlet?query=D06B3/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06B3/08"/>
+      <TreeNode Title="D06B3/09 ##卷装，如筒子纱[3]" Target="frmContent" Href="../searchservlet?query=D06B3/09&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06B3/09"/>
+    </TreeNode>
+    <TreeNode Title="D06B3/10 #织物的(D06B 3/24，D06B 3/28，D06B 3/32优先；卷染机入D06B 3/32)[2]" Target="frmContent" Href="../searchservlet?query=D06B3/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06B3/10">
+      <TreeNode Title="D06B3/12 ##Z形通过导布装置[2]" Target="frmContent" Href="../searchservlet?query=D06B3/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06B3/12"/>
+      <TreeNode Title="D06B3/14 ##卷状[2]" Target="frmContent" Href="../searchservlet?query=D06B3/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06B3/14"/>
+      <TreeNode Title="D06B3/16 ##折叠状，如堆积[2]" Target="frmContent" Href="../searchservlet?query=D06B3/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06B3/16"/>
+      <TreeNode Title="D06B3/18 ##与压挤相结合，如用轧车[2]" Target="frmContent" Href="../searchservlet?query=D06B3/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06B3/18"/>
+      <TreeNode Title="D06B3/20 ##带有改善织物表面处理材料循环的装置[2]" Target="frmContent" Href="../searchservlet?query=D06B3/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06B3/20"/>
+      <TreeNode Title="D06B3/22 ##织物仅单向与导布装置接触[2]" Target="frmContent" Href="../searchservlet?query=D06B3/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06B3/22"/>
+    </TreeNode>
+    <TreeNode Title="D06B3/24 #绳状的织物[2]" Target="frmContent" Href="../searchservlet?query=D06B3/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06B3/24">
+      <TreeNode Title="D06B3/26 ##折叠状，如堆积[2]" Target="frmContent" Href="../searchservlet?query=D06B3/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06B3/26"/>
+    </TreeNode>
+    <TreeNode Title="D06B3/28 #借助处理材料的喷射推进织物的[2]" Target="frmContent" Href="../searchservlet?query=D06B3/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06B3/28"/>
+    <TreeNode Title="D06B3/30 #成品的，如长袜[2]" Target="frmContent" Href="../searchservlet?query=D06B3/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06B3/30"/>
+    <TreeNode Title="D06B3/32 #在处理过程中开幅织物在经轴辊之间的前后运动；卷染机[2]" Target="frmContent" Href="../searchservlet?query=D06B3/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06B3/32"/>
+    <TreeNode Title="D06B3/34 #机器或设备的传动装置[2]" Target="frmContent" Href="../searchservlet?query=D06B3/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06B3/34">
+      <TreeNode Title="D06B3/36 ##传动控制[2]" Target="frmContent" Href="../searchservlet?query=D06B3/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06B3/36"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="D06B5/00 使液体、气体或蒸汽强行透过纺织材料以得到处理效果，如洗涤、染色、漂白、上浆、浸渍(丝光入D06B 7/00；溶剂处理入D06B 9/00；纺织品局部处理入D06B 11/00；借助振动入D06B 13/00) [2]" Target="frmContent" Href="../searchservlet?query=D06B5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06B5/00">
+    <TreeNode Title="D06B5/02 #透过移动的不定长纺织材料[2]" Target="frmContent" Href="../searchservlet?query=D06B5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06B5/02">
+      <TreeNode Title="D06B5/04 ##透过棉条和粗纱[2]" Target="frmContent" Href="../searchservlet?query=D06B5/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06B5/04"/>
+      <TreeNode Title="D06B5/06 ##透过纱、线和长丝[2]" Target="frmContent" Href="../searchservlet?query=D06B5/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06B5/06"/>
+      <TreeNode Title="D06B5/08 ##透过织物[2]" Target="frmContent" Href="../searchservlet?query=D06B5/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06B5/08"/>
+      <TreeNode Title="D06B5/10 ##运用离心力[2]" Target="frmContent" Href="../searchservlet?query=D06B5/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06B5/10"/>
+    </TreeNode>
+    <TreeNode Title="D06B5/12 #透过一定长度的纺织材料[2]" Target="frmContent" Href="../searchservlet?query=D06B5/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06B5/12">
+      <TreeNode Title="D06B5/14 ##透过纤维、棉条或粗纱[2]" Target="frmContent" Href="../searchservlet?query=D06B5/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06B5/14"/>
+      <TreeNode Title="D06B5/16 ##透过纱、线和长丝[2]" Target="frmContent" Href="../searchservlet?query=D06B5/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06B5/16">
+        <TreeNode Title="D06B5/18 ###透过轴经纱[2]" Target="frmContent" Href="../searchservlet?query=D06B5/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06B5/18"/>
+        <TreeNode Title="D06B5/20 ###透过绞纱[2]" Target="frmContent" Href="../searchservlet?query=D06B5/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06B5/20"/>
+      </TreeNode>
+      <TreeNode Title="D06B5/22 ##透过织物[2]" Target="frmContent" Href="../searchservlet?query=D06B5/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06B5/22"/>
+      <TreeNode Title="D06B5/24 ##透过成品，如长袜[2]" Target="frmContent" Href="../searchservlet?query=D06B5/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06B5/24"/>
+      <TreeNode Title="D06B5/26 ##运用离心力[2]" Target="frmContent" Href="../searchservlet?query=D06B5/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06B5/26"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="D06B7/00 丝光，如丝光上光[2]" Target="frmContent" Href="../searchservlet?query=D06B7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06B7/00">
+    <TreeNode Title="D06B7/02 #棉条的[2]" Target="frmContent" Href="../searchservlet?query=D06B7/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06B7/02"/>
+    <TreeNode Title="D06B7/04 #纱、线或长丝的[2]" Target="frmContent" Href="../searchservlet?query=D06B7/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06B7/04">
+      <TreeNode Title="D06B7/06 ##绞纱[2]" Target="frmContent" Href="../searchservlet?query=D06B7/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06B7/06"/>
+    </TreeNode>
+    <TreeNode Title="D06B7/08 #不定长织物的[2]" Target="frmContent" Href="../searchservlet?query=D06B7/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06B7/08"/>
+    <TreeNode Title="D06B7/10 #管形织物或管形制品的[2]" Target="frmContent" Href="../searchservlet?query=D06B7/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06B7/10"/>
+  </TreeNode>
+  <TreeNode Title="D06B9/00 纺织材料的溶剂处理(干洗入D06F 43/00)[2]" Target="frmContent" Href="../searchservlet?query=D06B9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06B9/00">
+    <TreeNode Title="D06B9/02 #溶剂染色[2]" Target="frmContent" Href="../searchservlet?query=D06B9/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06B9/02"/>
+    <TreeNode Title="D06B9/04 #连续使用两种或两种以上不同溶剂基的处理材料[2]" Target="frmContent" Href="../searchservlet?query=D06B9/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06B9/04"/>
+    <TreeNode Title="D06B9/06 #结合溶剂回收[2]" Target="frmContent" Href="../searchservlet?query=D06B9/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06B9/06"/>
+  </TreeNode>
+  <TreeNode Title="D06B11/00 纺织材料的局部处理，如局部染色[2]" Target="frmContent" Href="../searchservlet?query=D06B11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06B11/00"/>
+  <TreeNode Title="D06B13/00 纺织材料借助振动进行的液相、气相和蒸汽处理[2]" Target="frmContent" Href="../searchservlet?query=D06B13/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06B13/00"/>
+  <TreeNode Title="D06B15/00 纺织材料进行液相、气相或蒸汽处理时，液体、气体或蒸汽的去除(干燥入F26B)[2]" Target="frmContent" Href="../searchservlet?query=D06B15/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06B15/00">
+    <TreeNode Title="D06B15/02 #用挤压辊[2]" Target="frmContent" Href="../searchservlet?query=D06B15/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06B15/02"/>
+    <TreeNode Title="D06B15/04 #用吸法[2]" Target="frmContent" Href="../searchservlet?query=D06B15/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06B15/04"/>
+    <TreeNode Title="D06B15/06 #用纺织材料振动[2]" Target="frmContent" Href="../searchservlet?query=D06B15/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06B15/06"/>
+    <TreeNode Title="D06B15/08 #用刮法[2]" Target="frmContent" Href="../searchservlet?query=D06B15/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06B15/08"/>
+    <TreeNode Title="D06B15/09 #利用喷气法[3]" Target="frmContent" Href="../searchservlet?query=D06B15/09&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06B15/09"/>
+    <TreeNode Title="D06B15/10 #运用离心力[2]" Target="frmContent" Href="../searchservlet?query=D06B15/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06B15/10"/>
+    <TreeNode Title="D06B15/12 #达到纺织材料的回潮率[2]" Target="frmContent" Href="../searchservlet?query=D06B15/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06B15/12"/>
+  </TreeNode>
+  <TreeNode Title="D06B17/00 经液相、气相和蒸汽处理的纺织材料的保存(专用的载体或托架入D06B 23/04)[2]" Target="frmContent" Href="../searchservlet?query=D06B17/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06B17/00">
+    <TreeNode Title="D06B17/02 #折叠状的，如堆积；J形箱[2]" Target="frmContent" Href="../searchservlet?query=D06B17/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06B17/02"/>
+    <TreeNode Title="D06B17/04 #卷状[2]" Target="frmContent" Href="../searchservlet?query=D06B17/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06B17/04"/>
+    <TreeNode Title="D06B17/06 #悬挂式穗状[3]" Target="frmContent" Href="../searchservlet?query=D06B17/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06B17/06"/>
+  </TreeNode>
+  <TreeNode Title="D06B19/00 D06B1/00至D06B 17/00组不包括的纺织材料的液相、气相或蒸汽处理[2]" Target="frmContent" Href="../searchservlet?query=D06B19/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06B19/00"/>
+  <TreeNode Title="D06B21/00 纺织材料的液相、气相和蒸汽连续处理(仅与单项处理的特征有关，或者各项处理都具有单项的特征的连续处理则参见各有关单项处理)[2]" Target="frmContent" Href="../searchservlet?query=D06B21/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06B21/00">
+    <TreeNode Title="D06B21/02 #在单一容器里进行的处理[2]" Target="frmContent" Href="../searchservlet?query=D06B21/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06B21/02"/>
+  </TreeNode>
+  <TreeNode Title="D06B23/00 处理纺织材料专用的设备或机器的零件、部件或附件，其使用范围不限于D06B 1/00组至D06B 21/00组内规定的设备[2]" Target="frmContent" Href="../searchservlet?query=D06B23/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06B23/00">
+    <TreeNode Title="D06B23/02 #滚筒[2]" Target="frmContent" Href="../searchservlet?query=D06B23/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06B23/02"/>
+    <TreeNode Title="D06B23/04 #待处理纺织材料的载体或托架[2]" Target="frmContent" Href="../searchservlet?query=D06B23/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06B23/04"/>
+    <TreeNode Title="D06B23/06 #防止长丝、纱或线黏结的导纱装置[2]" Target="frmContent" Href="../searchservlet?query=D06B23/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06B23/06"/>
+    <TreeNode Title="D06B23/08 #退捻装置[2]" Target="frmContent" Href="../searchservlet?query=D06B23/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06B23/08"/>
+    <TreeNode Title="D06B23/10 #小样染色装置(D06B 23/12优先)[2]" Target="frmContent" Href="../searchservlet?query=D06B23/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06B23/10"/>
+    <TreeNode Title="D06B23/12 #在纺织材料处理过程中或处理后的取样装置[2]" Target="frmContent" Href="../searchservlet?query=D06B23/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06B23/12"/>
+    <TreeNode Title="D06B23/14 #容器，如缸[2]" Target="frmContent" Href="../searchservlet?query=D06B23/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06B23/14">
+      <TreeNode Title="D06B23/16 ##能使纺织材料导入或排除，而又不改变容器压力的装置[2]" Target="frmContent" Href="../searchservlet?query=D06B23/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06B23/16"/>
+      <TreeNode Title="D06B23/18 ##封闭设备[2]" Target="frmContent" Href="../searchservlet?query=D06B23/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06B23/18"/>
+    </TreeNode>
+    <TreeNode Title="D06B23/20 #液体、气体或蒸汽的处理过程中所用设备的配置如净化、过滤、蒸馏(设备本身参见各种设备的有关类)[2]" Target="frmContent" Href="../searchservlet?query=D06B23/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06B23/20">
+      <TreeNode Title="D06B23/22 ##加热设备[2]" Target="frmContent" Href="../searchservlet?query=D06B23/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06B23/22"/>
+    </TreeNode>
+    <TreeNode Title="D06B23/24 #纺织材料处理过程中，处理材料吸收量的调节装置[2]" Target="frmContent" Href="../searchservlet?query=D06B23/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06B23/24">
+      <TreeNode Title="D06B23/26 ##根据对纺织材料的试验反应[2]" Target="frmContent" Href="../searchservlet?query=D06B23/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06B23/26"/>
+      <TreeNode Title="D06B23/28 ##根据对处理材料的试验反应[2]" Target="frmContent" Href="../searchservlet?query=D06B23/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06B23/28"/>
+    </TreeNode>
+    <TreeNode Title="D06B23/30 #设备或机器，或其部件的清洁装置[2]" Target="frmContent" Href="../searchservlet?query=D06B23/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06B23/30"/>
+  </TreeNode>
+</Root>

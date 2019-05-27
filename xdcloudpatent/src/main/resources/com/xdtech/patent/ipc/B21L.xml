@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="B21L1/00 通过将棒材、线材或带材坯件弯成椭圆形或其他简单形状的链环以制造链或链节(B21L 3/00、B21L 7/00优先)" Target="frmContent" Href="../searchservlet?query=B21L1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21L1/00">
+    <TreeNode Title="B21L1/02 #靠弯折坯件的末端使其对接的" Target="frmContent" Href="../searchservlet?query=B21L1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21L1/02"/>
+    <TreeNode Title="B21L1/04 #靠弯折并互相连接工作的末端，带或不带单独的连接元件" Target="frmContent" Href="../searchservlet?query=B21L1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21L1/04"/>
+  </TreeNode>
+  <TreeNode Title="B21L3/00 通过弯折链节或链节部分并接着焊接或钎焊对接的末端的方法制造链或链节(B21L 7/00优先)" Target="frmContent" Href="../searchservlet?query=B21L3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21L3/00">
+    <TreeNode Title="B21L3/02 #焊接链节的机械或装置" Target="frmContent" Href="../searchservlet?query=B21L3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21L3/02">
+      <TreeNode Title="B21L3/04 ##利用锻焊或压焊" Target="frmContent" Href="../searchservlet?query=B21L3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21L3/04"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="B21L5/00 通过用加工整体链节即无缝链节加工原材料的方法制造链或链节" Target="frmContent" Href="../searchservlet?query=B21L5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21L5/00">
+    <TreeNode Title="B21L5/02 #用形成相互连接链节的方法的" Target="frmContent" Href="../searchservlet?query=B21L5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21L5/02"/>
+  </TreeNode>
+  <TreeNode Title="B21L7/00 通过从成卷材料上切下一圈或不到一圈，组装切下部分，接着把它们加以扭转，然后进行焊接或不焊接的方法，制造链或链节" Target="frmContent" Href="../searchservlet?query=B21L7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21L7/00"/>
+  <TreeNode Title="B21L9/00 制造链条或链节，链节是由两个或两个以上不同部分组成的，如传动链(B21L 1/04，B21L 7/00，B21L 11/14，B21L 13/00优先)" Target="frmContent" Href="../searchservlet?query=B21L9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21L9/00">
+    <TreeNode Title="B21L9/02 #滚子链或其他板链型的" Target="frmContent" Href="../searchservlet?query=B21L9/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21L9/02">
+      <TreeNode Title="B21L9/04 ##冲压或弯折链节的不同部分" Target="frmContent" Href="../searchservlet?query=B21L9/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21L9/04"/>
+      <TreeNode Title="B21L9/06 ##链条零件的分选、进给、装配；铆接或精整" Target="frmContent" Href="../searchservlet?query=B21L9/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21L9/06"/>
+      <TreeNode Title="B21L9/08 ##链节与辅助零件的结合，如焊上耐磨损零件" Target="frmContent" Href="../searchservlet?query=B21L9/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21L9/08"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="B21L11/00 制造特殊形式的链条或链节" Target="frmContent" Href="../searchservlet?query=B21L11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21L11/00">
+    <TreeNode Title="B21L11/02 #每一链节由单一元件构成，元件两端被弯曲或成型，以便与下一链节的中部相啮合" Target="frmContent" Href="../searchservlet?query=B21L11/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21L11/02">
+      <TreeNode Title="B21L11/04 ##端部被穿或冲成孔" Target="frmContent" Href="../searchservlet?query=B21L11/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21L11/04">
+        <TreeNode Title="B21L11/06 ###坯件是薄金属带" Target="frmContent" Href="../searchservlet?query=B21L11/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21L11/06"/>
+      </TreeNode>
+      <TreeNode Title="B21L11/08 ##端部与相同链节的其他部位相连接" Target="frmContent" Href="../searchservlet?query=B21L11/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21L11/08"/>
+    </TreeNode>
+    <TreeNode Title="B21L11/10 #链条具有对置相应地形成圆筒形部分和似钩形部分，钩形的一部分形成相邻链节的铰链式支承(B21L 11/02优先)" Target="frmContent" Href="../searchservlet?query=B21L11/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21L11/10"/>
+    <TreeNode Title="B21L11/12 #形成珠状链" Target="frmContent" Href="../searchservlet?query=B21L11/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21L11/12"/>
+    <TreeNode Title="B21L11/14 #制造带有插入的或整体形成销的链条" Target="frmContent" Href="../searchservlet?query=B21L11/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21L11/14"/>
+  </TreeNode>
+  <TreeNode Title="B21L13/00 特殊形状的末端或中间链节的制作；链条接头的制作，如活节、锁扣" Target="frmContent" Href="../searchservlet?query=B21L13/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21L13/00"/>
+  <TreeNode Title="B21L15/00 链或链节的精整或表面处理，如清除毛刺、校准(B21L 9/06优先)" Target="frmContent" Href="../searchservlet?query=B21L15/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21L15/00">
+    <TreeNode Title="B21L15/02 #扭转已经闭合的链节" Target="frmContent" Href="../searchservlet?query=B21L15/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21L15/02"/>
+  </TreeNode>
+  <TreeNode Title="B21L19/00 不限于任何特定方法制作链条的附属设备" Target="frmContent" Href="../searchservlet?query=B21L19/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21L19/00"/>
+  <TreeNode Title="B21L21/00 用金属加工法修理链条的工具或器具，如用于拆开变形的链节" Target="frmContent" Href="../searchservlet?query=B21L21/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21L21/00"/>
+  <TreeNode Title="B21L99/00 本小类其他各组中不包括的技术主题[2009.01]" Target="frmContent" Href="../searchservlet?query=B21L99/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21L99/00"/>
+</Root>

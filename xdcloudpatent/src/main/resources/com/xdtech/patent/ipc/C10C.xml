@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="C10C1/00 焦油的加工(制取烃油入C10G)[4]" Target="frmContent" Href="../searchservlet?query=C10C1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10C1/00">
+    <TreeNode Title="C10C1/02 #水的去除(用蒸馏入C10C 1/06)" Target="frmContent" Href="../searchservlet?query=C10C1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10C1/02"/>
+    <TreeNode Title="C10C1/04 #用蒸馏方法" Target="frmContent" Href="../searchservlet?query=C10C1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10C1/04">
+      <TreeNode Title="C10C1/06 ##水的去除" Target="frmContent" Href="../searchservlet?query=C10C1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10C1/06"/>
+      <TreeNode Title="C10C1/08 ##得到芳族馏分" Target="frmContent" Href="../searchservlet?query=C10C1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10C1/08">
+        <TreeNode Title="C10C1/10 ###苯馏分" Target="frmContent" Href="../searchservlet?query=C10C1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10C1/10"/>
+        <TreeNode Title="C10C1/12 ###萘馏分" Target="frmContent" Href="../searchservlet?query=C10C1/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10C1/12"/>
+      </TreeNode>
+      <TreeNode Title="C10C1/14 ##由煤焦油得到煤馏油" Target="frmContent" Href="../searchservlet?query=C10C1/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10C1/14"/>
+      <TreeNode Title="C10C1/16 ##得到石油沥青" Target="frmContent" Href="../searchservlet?query=C10C1/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10C1/16"/>
+    </TreeNode>
+    <TreeNode Title="C10C1/18 #用选择性溶剂萃取" Target="frmContent" Href="../searchservlet?query=C10C1/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10C1/18"/>
+    <TreeNode Title="C10C1/19 #用蒸馏以外的热处理法[4]" Target="frmContent" Href="../searchservlet?query=C10C1/19&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10C1/19"/>
+    <TreeNode Title="C10C1/20 #用化学法提炼" Target="frmContent" Href="../searchservlet?query=C10C1/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10C1/20"/>
+  </TreeNode>
+  <TreeNode Title="C10C3/00 焦油沥青、石油沥青、天然沥青的加工" Target="frmContent" Href="../searchservlet?query=C10C3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10C3/00">
+    <TreeNode Title="C10C3/02 #用化学方法" Target="frmContent" Href="../searchservlet?query=C10C3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10C3/02">
+      <TreeNode Title="C10C3/04 ##用吹气或氧化" Target="frmContent" Href="../searchservlet?query=C10C3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10C3/04"/>
+    </TreeNode>
+    <TreeNode Title="C10C3/06 #用蒸馏" Target="frmContent" Href="../searchservlet?query=C10C3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10C3/06"/>
+    <TreeNode Title="C10C3/08 #用选择萃取" Target="frmContent" Href="../searchservlet?query=C10C3/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10C3/08"/>
+    <TreeNode Title="C10C3/10 #熔化" Target="frmContent" Href="../searchservlet?query=C10C3/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10C3/10">
+      <TreeNode Title="C10C3/12 ##所用设备" Target="frmContent" Href="../searchservlet?query=C10C3/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10C3/12"/>
+    </TreeNode>
+    <TreeNode Title="C10C3/14 #固化；破碎，如粒化" Target="frmContent" Href="../searchservlet?query=C10C3/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10C3/14">
+      <TreeNode Title="C10C3/16 ##与液体直接接触" Target="frmContent" Href="../searchservlet?query=C10C3/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10C3/16"/>
+    </TreeNode>
+    <TreeNode Title="C10C3/18 #从反应器、容器及类似设备中以固体形状移出，如用切割、用压制方法" Target="frmContent" Href="../searchservlet?query=C10C3/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10C3/18"/>
+  </TreeNode>
+  <TreeNode Title="C10C5/00 焦木酸的制造(木材的碳化入C10B)" Target="frmContent" Href="../searchservlet?query=C10C5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C10C5/00"/>
+</Root>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="C13K1/00 葡萄糖(从转化糖中分离入C13K 3/00)；含葡萄糖的糖浆[2]" Target="frmContent" Href="../searchservlet?query=C13K1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C13K1/00">
+    <TreeNode Title="C13K1/02 #通过纤维素材料的糖化来获得(饲料的生产入A23K 1/12)" Target="frmContent" Href="../searchservlet?query=C13K1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C13K1/02">
+      <TreeNode Title="C13K1/04 ##净化" Target="frmContent" Href="../searchservlet?query=C13K1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C13K1/04"/>
+    </TreeNode>
+    <TreeNode Title="C13K1/06 #通过淀粉或含淀粉原料的糖化来获得" Target="frmContent" Href="../searchservlet?query=C13K1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C13K1/06">
+      <TreeNode Title="C13K1/08 ##净化" Target="frmContent" Href="../searchservlet?query=C13K1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C13K1/08"/>
+    </TreeNode>
+    <TreeNode Title="C13K1/10 #结晶" Target="frmContent" Href="../searchservlet?query=C13K1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C13K1/10"/>
+  </TreeNode>
+  <TreeNode Title="C13K3/00 转化糖；从转化糖中分离葡萄糖或果糖" Target="frmContent" Href="../searchservlet?query=C13K3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C13K3/00"/>
+  <TreeNode Title="C13K5/00 乳糖" Target="frmContent" Href="../searchservlet?query=C13K5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C13K5/00"/>
+  <TreeNode Title="C13K7/00 麦芽糖" Target="frmContent" Href="../searchservlet?query=C13K7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C13K7/00"/>
+  <TreeNode Title="C13K11/00 果糖(从转化糖中分离入C13K 3/00)[2]" Target="frmContent" Href="../searchservlet?query=C13K11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C13K11/00"/>
+  <TreeNode Title="C13K13/00 本大类其他类目中不包括的糖[2]" Target="frmContent" Href="../searchservlet?query=C13K13/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C13K13/00"/>
+</Root>

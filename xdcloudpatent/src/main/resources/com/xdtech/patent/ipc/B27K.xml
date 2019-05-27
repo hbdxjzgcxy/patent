@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="B27K1/00 调湿木材" Target="frmContent" Href="../searchservlet?query=B27K1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B27K1/00">
+    <TreeNode Title="B27K1/02 #装置" Target="frmContent" Href="../searchservlet?query=B27K1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B27K1/02"/>
+  </TreeNode>
+  <TreeNode Title="B27K3/00 浸渍木材(染色、着色入B27K 5/00)" Target="frmContent" Href="../searchservlet?query=B27K3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B27K3/00">
+    <TreeNode Title="B27K3/02 #工艺；装置" Target="frmContent" Href="../searchservlet?query=B27K3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B27K3/02">
+      <TreeNode Title="B27K3/04 ##在开口容器中浸渍" Target="frmContent" Href="../searchservlet?query=B27K3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B27K3/04"/>
+      <TreeNode Title="B27K3/06 ##树浆流注法" Target="frmContent" Href="../searchservlet?query=B27K3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B27K3/06"/>
+      <TreeNode Title="B27K3/08 ##加压浸渍" Target="frmContent" Href="../searchservlet?query=B27K3/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B27K3/08">
+        <TreeNode Title="B27K3/10 ###装置" Target="frmContent" Href="../searchservlet?query=B27K3/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B27K3/10"/>
+      </TreeNode>
+      <TreeNode Title="B27K3/12 ##在木材表面涂覆浸渍浆的浸渍" Target="frmContent" Href="../searchservlet?query=B27K3/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B27K3/12"/>
+      <TreeNode Title="B27K3/14 ##绷带法" Target="frmContent" Href="../searchservlet?query=B27K3/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B27K3/14"/>
+      <TreeNode Title="B27K3/15 ##包含聚合反应的浸渍[2]" Target="frmContent" Href="../searchservlet?query=B27K3/15&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B27K3/15"/>
+    </TreeNode>
+    <TreeNode Title="B27K3/16 #无机浸渍剂" Target="frmContent" Href="../searchservlet?query=B27K3/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B27K3/16">
+      <TreeNode Title="B27K3/18 ##碱土金属的化合物" Target="frmContent" Href="../searchservlet?query=B27K3/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B27K3/18"/>
+      <TreeNode Title="B27K3/20 ##碱金属或铵的化合物" Target="frmContent" Href="../searchservlet?query=B27K3/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B27K3/20"/>
+      <TreeNode Title="B27K3/22 ##锌或铜的化合物" Target="frmContent" Href="../searchservlet?query=B27K3/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B27K3/22"/>
+      <TreeNode Title="B27K3/24 ##汞的化合物" Target="frmContent" Href="../searchservlet?query=B27K3/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B27K3/24"/>
+      <TreeNode Title="B27K3/26 ##铁、铝或铬的化合物" Target="frmContent" Href="../searchservlet?query=B27K3/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B27K3/26"/>
+      <TreeNode Title="B27K3/28 ##砷或锑的化合物" Target="frmContent" Href="../searchservlet?query=B27K3/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B27K3/28"/>
+      <TreeNode Title="B27K3/30 ##氟的化合物" Target="frmContent" Href="../searchservlet?query=B27K3/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B27K3/30"/>
+      <TreeNode Title="B27K3/32 ##不同无机浸渍剂的混合物" Target="frmContent" Href="../searchservlet?query=B27K3/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B27K3/32"/>
+    </TreeNode>
+    <TreeNode Title="B27K3/34 #有机浸渍剂" Target="frmContent" Href="../searchservlet?query=B27K3/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B27K3/34">
+      <TreeNode Title="B27K3/36 ##脂族化合物" Target="frmContent" Href="../searchservlet?query=B27K3/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B27K3/36"/>
+      <TreeNode Title="B27K3/38 ##芳香族化合物" Target="frmContent" Href="../searchservlet?query=B27K3/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B27K3/38">
+        <TreeNode Title="B27K3/40 ###卤化的" Target="frmContent" Href="../searchservlet?query=B27K3/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B27K3/40"/>
+        <TreeNode Title="B27K3/42 ###硝化的，或硝化并卤化的" Target="frmContent" Href="../searchservlet?query=B27K3/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B27K3/42"/>
+      </TreeNode>
+      <TreeNode Title="B27K3/44 ##焦油；矿物油" Target="frmContent" Href="../searchservlet?query=B27K3/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B27K3/44">
+        <TreeNode Title="B27K3/46 ###煤焦油" Target="frmContent" Href="../searchservlet?query=B27K3/46&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B27K3/46"/>
+        <TreeNode Title="B27K3/48 ###矿物油" Target="frmContent" Href="../searchservlet?query=B27K3/48&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B27K3/48"/>
+      </TreeNode>
+      <TreeNode Title="B27K3/50 ##不同有机浸渍剂的混合物" Target="frmContent" Href="../searchservlet?query=B27K3/50&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B27K3/50"/>
+    </TreeNode>
+    <TreeNode Title="B27K3/52 #包含无机和有机化合物的混合物浸渍剂" Target="frmContent" Href="../searchservlet?query=B27K3/52&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B27K3/52"/>
+  </TreeNode>
+  <TreeNode Title="B27K5/00 不包含在B27K 1/00，B27K 3/00组中的木材处理" Target="frmContent" Href="../searchservlet?query=B27K5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B27K5/00">
+    <TreeNode Title="B27K5/02 #着色或染色木材；漂白木材(纸浆的漂白入D21C 9/10)" Target="frmContent" Href="../searchservlet?query=B27K5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B27K5/02"/>
+    <TreeNode Title="B27K5/04 #木材的漂白或浸渍与干燥结合的" Target="frmContent" Href="../searchservlet?query=B27K5/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B27K5/04"/>
+    <TreeNode Title="B27K5/06 #软化或硬化木材" Target="frmContent" Href="../searchservlet?query=B27K5/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B27K5/06"/>
+  </TreeNode>
+  <TreeNode Title="B27K7/00 软木的化学或物理处理(软木的机械加工入B27J 5/00)" Target="frmContent" Href="../searchservlet?query=B27K7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B27K7/00"/>
+  <TreeNode Title="B27K9/00 芦苇、稻草或类似材料的化学或物理处理(藤或类似材料的机械加工入B27J 1/00)" Target="frmContent" Href="../searchservlet?query=B27K9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B27K9/00"/>
+</Root>

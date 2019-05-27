@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="G05F1/00 从系统的输出端检测的一个电量对一个或多个预定值的偏差量并反馈到系统中的一个设备里以便使该检测量恢复到它的一个或多个预定值的自动调节系统，即有回授作用的系统" Target="frmContent" Href="../searchservlet?query=G05F1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05F1/00">
+    <TreeNode Title="G05F1/02 #调节电弧的电气特性(用于点焊或缝焊或切割的电极的进给或移动的装置入B23K 9/12，电加热或电照明电极的馈送装置入H05B 7/109，H05B 31/18；放电加热的功率自动控制入H05B 7/148)[2]" Target="frmContent" Href="../searchservlet?query=G05F1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05F1/02">
+      <TreeNode Title="G05F1/04 ##用饱和磁性器件" Target="frmContent" Href="../searchservlet?query=G05F1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05F1/04"/>
+      <TreeNode Title="G05F1/06 ##用放电管的" Target="frmContent" Href="../searchservlet?query=G05F1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05F1/06"/>
+      <TreeNode Title="G05F1/08 ##用半导体器件的" Target="frmContent" Href="../searchservlet?query=G05F1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05F1/08"/>
+    </TreeNode>
+    <TreeNode Title="G05F1/10 #调节电压或电流(G05F 1/02优先；用于电气铁路的入B60M 3/02)" Target="frmContent" Href="../searchservlet?query=G05F1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05F1/10">
+      <TreeNode Title="G05F1/12 ##其中由末级控制器实际调节的变量是交流的(G05F 1/625优先)[4]" Target="frmContent" Href="../searchservlet?query=G05F1/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05F1/12">
+        <TreeNode Title="G05F1/13 ###利用铁磁谐振变压器作为末级控制器的[4]" Target="frmContent" Href="../searchservlet?query=G05F1/13&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05F1/13"/>
+        <TreeNode Title="G05F1/14 ###利用抽头变压器或改变抽头的电感器作为末级控制器的[4]" Target="frmContent" Href="../searchservlet?query=G05F1/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05F1/14">
+          <TreeNode Title="G05F1/147 ####用电动机来传动抽头转换的[4]" Target="frmContent" Href="../searchservlet?query=G05F1/147&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05F1/147">
+            <TreeNode Title="G05F1/153 #####由放电管或半导体器件控制的[4]" Target="frmContent" Href="../searchservlet?query=G05F1/153&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05F1/153"/>
+          </TreeNode>
+          <TreeNode Title="G05F1/16 ####与放电管或半导体器件相结合的" Target="frmContent" Href="../searchservlet?query=G05F1/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05F1/16">
+            <TreeNode Title="G05F1/20 #####仅用半导体器件的" Target="frmContent" Href="../searchservlet?query=G05F1/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05F1/20"/>
+          </TreeNode>
+          <TreeNode Title="G05F1/22 ####与单个的、具有可控饱和度的磁控器件组合的" Target="frmContent" Href="../searchservlet?query=G05F1/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05F1/22"/>
+        </TreeNode>
+        <TreeNode Title="G05F1/24 ###利用抵消电压或提升电压的变压器作为末级控制器的" Target="frmContent" Href="../searchservlet?query=G05F1/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05F1/24">
+          <TreeNode Title="G05F1/247 ####控制电路中有电动机的[4]" Target="frmContent" Href="../searchservlet?query=G05F1/247&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05F1/247"/>
+          <TreeNode Title="G05F1/253 ####电源与负载之间具有多个串连绕组的变压器(G05F 1/247优先)[4]" Target="frmContent" Href="../searchservlet?query=G05F1/253&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05F1/253"/>
+          <TreeNode Title="G05F1/26 ####与放电管或半导体器件相结合的" Target="frmContent" Href="../searchservlet?query=G05F1/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05F1/26">
+            <TreeNode Title="G05F1/30 #####仅用半导体器件的" Target="frmContent" Href="../searchservlet?query=G05F1/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05F1/30"/>
+          </TreeNode>
+        </TreeNode>
+        <TreeNode Title="G05F1/32 ###利用具有可控磁饱和度的磁控器件作为末级控制器的" Target="frmContent" Href="../searchservlet?query=G05F1/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05F1/32">
+          <TreeNode Title="G05F1/325 ####具有特殊铁芯结构的，例如具有空隙、开口、槽、永久磁铁的[4]" Target="frmContent" Href="../searchservlet?query=G05F1/325&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05F1/325"/>
+          <TreeNode Title="G05F1/33 ####具有通过被控传导电流的多个绕组的[4]" Target="frmContent" Href="../searchservlet?query=G05F1/33&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05F1/33">
+            <TreeNode Title="G05F1/335 #####在不同的铁芯上[4]" Target="frmContent" Href="../searchservlet?query=G05F1/335&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05F1/335"/>
+          </TreeNode>
+          <TreeNode Title="G05F1/34 ####与放电管或半导体器件相结合的" Target="frmContent" Href="../searchservlet?query=G05F1/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05F1/34">
+            <TreeNode Title="G05F1/38 #####仅用半导体器件的" Target="frmContent" Href="../searchservlet?query=G05F1/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05F1/38"/>
+          </TreeNode>
+        </TreeNode>
+        <TreeNode Title="G05F1/40 ###利用放电管或半导体器件作为末级控制器的" Target="frmContent" Href="../searchservlet?query=G05F1/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05F1/40">
+          <TreeNode Title="G05F1/42 ####仅用放电管的" Target="frmContent" Href="../searchservlet?query=G05F1/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05F1/42"/>
+          <TreeNode Title="G05F1/44 ####仅用半导体器件的" Target="frmContent" Href="../searchservlet?query=G05F1/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05F1/44">
+            <TreeNode Title="G05F1/445 #####是与负载串联的晶体管[3]" Target="frmContent" Href="../searchservlet?query=G05F1/445&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05F1/445"/>
+            <TreeNode Title="G05F1/45 #####是与负载串联的可控整流器[3]" Target="frmContent" Href="../searchservlet?query=G05F1/45&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05F1/45">
+              <TreeNode Title="G05F1/455 ######用相位控制的[3]" Target="frmContent" Href="../searchservlet?query=G05F1/455&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05F1/455"/>
+            </TreeNode>
+          </TreeNode>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="G05F1/46 ##其中由末级控制器实际调节的变量是直流的(G05F 1/625优先)[4]" Target="frmContent" Href="../searchservlet?query=G05F1/46&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05F1/46">
+        <TreeNode Title="G05F1/52 ###利用与负载串联的放电管作末级控制器的" Target="frmContent" Href="../searchservlet?query=G05F1/52&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05F1/52">
+          <TreeNode Title="G05F1/54 ####由未稳定电源附加控制的" Target="frmContent" Href="../searchservlet?query=G05F1/54&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05F1/54"/>
+        </TreeNode>
+        <TreeNode Title="G05F1/56 ###利用与负载串联的半导体器件作为末级控制器的" Target="frmContent" Href="../searchservlet?query=G05F1/56&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05F1/56">
+          <TreeNode Title="G05F1/563 ####包括至少有一级对输出电平敏感的两个调整级的，例如粗调节与细调节[4]" Target="frmContent" Href="../searchservlet?query=G05F1/563&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05F1/563"/>
+          <TreeNode Title="G05F1/565 ####除对系统输出偏差敏感的装置外，还检测系统一个工况或它的负载的，例如还检测电流、电压、功率因数(G05F 1/563优先)[4]" Target="frmContent" Href="../searchservlet?query=G05F1/565&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05F1/565">
+            <TreeNode Title="G05F1/567 #####用于温度补偿的[4]" Target="frmContent" Href="../searchservlet?query=G05F1/567&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05F1/567"/>
+            <TreeNode Title="G05F1/569 #####用于保护的[4]" Target="frmContent" Href="../searchservlet?query=G05F1/569&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05F1/569">
+              <TreeNode Title="G05F1/571 ######用过压检测器的[4]" Target="frmContent" Href="../searchservlet?query=G05F1/571&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05F1/571"/>
+              <TreeNode Title="G05F1/573 ######用过流检测器的[4]" Target="frmContent" Href="../searchservlet?query=G05F1/573&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05F1/573"/>
+            </TreeNode>
+          </TreeNode>
+          <TreeNode Title="G05F1/575 ####按反馈电路为区分特征的[4]" Target="frmContent" Href="../searchservlet?query=G05F1/575&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05F1/575"/>
+          <TreeNode Title="G05F1/577 ####用于多个负载的[4]" Target="frmContent" Href="../searchservlet?query=G05F1/577&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05F1/577">
+            <TreeNode Title="G05F1/585 #####提供相反极性电压的[4]" Target="frmContent" Href="../searchservlet?query=G05F1/585&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05F1/585"/>
+          </TreeNode>
+          <TreeNode Title="G05F1/59 ####用于单独一个负载、采用多个半导体器件作为末级控制器的[4]" Target="frmContent" Href="../searchservlet?query=G05F1/59&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05F1/59">
+            <TreeNode Title="G05F1/595 #####半导体器件是串联连接的[4]" Target="frmContent" Href="../searchservlet?query=G05F1/595&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05F1/595"/>
+          </TreeNode>
+        </TreeNode>
+        <TreeNode Title="G05F1/607 ###利用与负载并联的放电管作为末级控制器的[3]" Target="frmContent" Href="../searchservlet?query=G05F1/607&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05F1/607">
+          <TreeNode Title="G05F1/61 ####包括至少有一级对输出电平是敏感的两个调整级[4]" Target="frmContent" Href="../searchservlet?query=G05F1/61&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05F1/61"/>
+        </TreeNode>
+        <TreeNode Title="G05F1/613 ###利用与负载并联的半导体器件作为末级控制器的[3]" Target="frmContent" Href="../searchservlet?query=G05F1/613&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05F1/613">
+          <TreeNode Title="G05F1/614 ####包括了至少有一级对输出电平是敏感的两个调整级[4]" Target="frmContent" Href="../searchservlet?query=G05F1/614&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05F1/614"/>
+        </TreeNode>
+        <TreeNode Title="G05F1/618 ###利用一些与负载串联和并联的半导体器件作为末级控制器的[4]" Target="frmContent" Href="../searchservlet?query=G05F1/618&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05F1/618"/>
+        <TreeNode Title="G05F1/62 ###利用抵消或提升的直流电源的" Target="frmContent" Href="../searchservlet?query=G05F1/62&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05F1/62"/>
+      </TreeNode>
+      <TreeNode Title="G05F1/625 ##其中实际被调整的变量是交流或直流是没有关系的[4]" Target="frmContent" Href="../searchservlet?query=G05F1/625&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05F1/625">
+        <TreeNode Title="G05F1/63 ###利用与负载串联的可变阻抗作为末级控制器的[4]" Target="frmContent" Href="../searchservlet?query=G05F1/63&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05F1/63">
+          <TreeNode Title="G05F1/635 ####可变阻抗是霍尔效应器件、磁敏电阻或热敏电阻的[4]" Target="frmContent" Href="../searchservlet?query=G05F1/635&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05F1/635"/>
+          <TreeNode Title="G05F1/644 ####可变阻抗是压敏电阻的[4]" Target="frmContent" Href="../searchservlet?query=G05F1/644&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05F1/644"/>
+          <TreeNode Title="G05F1/648 ####可变阻抗是要被选择的多个电阻器[4]" Target="frmContent" Href="../searchservlet?query=G05F1/648&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05F1/648"/>
+        </TreeNode>
+        <TreeNode Title="G05F1/652 ###利用与负载并联的可变阻抗作为末级控制器的[4]" Target="frmContent" Href="../searchservlet?query=G05F1/652&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05F1/652"/>
+        <TreeNode Title="G05F1/656 ###利用一些与负载串联和并联的可变阻抗作为末级控制器的[4]" Target="frmContent" Href="../searchservlet?query=G05F1/656&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05F1/656"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="G05F1/66 #电功率的调节" Target="frmContent" Href="../searchservlet?query=G05F1/66&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05F1/66">
+      <TreeNode Title="G05F1/67 ##为了从一个发生器，例如太阳能电池，取得最大功率的[4]" Target="frmContent" Href="../searchservlet?query=G05F1/67&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05F1/67"/>
+    </TreeNode>
+    <TreeNode Title="G05F1/70 #调节功率因数；调节无功电流或无功功率[3]" Target="frmContent" Href="../searchservlet?query=G05F1/70&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05F1/70"/>
+  </TreeNode>
+  <TreeNode Title="G05F3/00 应用具有自调节性能的非控制元件或非控制元件的组合来调节电变量的非回授系统" Target="frmContent" Href="../searchservlet?query=G05F3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05F3/00">
+    <TreeNode Title="G05F3/02 #调节电压或电流的" Target="frmContent" Href="../searchservlet?query=G05F3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05F3/02">
+      <TreeNode Title="G05F3/04 ##其中变量是交流的" Target="frmContent" Href="../searchservlet?query=G05F3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05F3/04">
+        <TreeNode Title="G05F3/06 ###应用了饱和的与非饱和的电感器的组合，例如与谐振电路结合的" Target="frmContent" Href="../searchservlet?query=G05F3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05F3/06"/>
+      </TreeNode>
+      <TreeNode Title="G05F3/08 ##其中变量是直流的" Target="frmContent" Href="../searchservlet?query=G05F3/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05F3/08">
+        <TreeNode Title="G05F3/10 ###利用具有非线性特性的非控制器件[4]" Target="frmContent" Href="../searchservlet?query=G05F3/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05F3/10">
+          <TreeNode Title="G05F3/12 ####非控制器件是辉光放电管" Target="frmContent" Href="../searchservlet?query=G05F3/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05F3/12"/>
+          <TreeNode Title="G05F3/16 ####非控制器件是半导体器件[3]" Target="frmContent" Href="../searchservlet?query=G05F3/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05F3/16">
+            <TreeNode Title="G05F3/18 #####应用了齐纳二极管[3]" Target="frmContent" Href="../searchservlet?query=G05F3/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05F3/18"/>
+            <TreeNode Title="G05F3/20 #####应用了二极管与三极管的组合(G05F 3/18优先)[3]" Target="frmContent" Href="../searchservlet?query=G05F3/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05F3/20">
+              <TreeNode Title="G05F3/22 ######其中只用双极型晶体管的(G05F 3/26，G05F 3/30优先)[4]" Target="frmContent" Href="../searchservlet?query=G05F3/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05F3/22"/>
+              <TreeNode Title="G05F3/24 ######其中只用场效应型晶体管的(G05F 3/26，G05F 3/30优先)[4]" Target="frmContent" Href="../searchservlet?query=G05F3/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05F3/24"/>
+              <TreeNode Title="G05F3/26 ######电流反射镜[4]" Target="frmContent" Href="../searchservlet?query=G05F3/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05F3/26">
+                <TreeNode Title="G05F3/28 #######与非线性电流放大器相组合的[4]" Target="frmContent" Href="../searchservlet?query=G05F3/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05F3/28"/>
+              </TreeNode>
+              <TreeNode Title="G05F3/30 ######利用工作在不同电流密度下的两个双极型晶体管基一射极电压之间的差别的调节器(G05F 3/26优先)[4]" Target="frmContent" Href="../searchservlet?query=G05F3/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05F3/30"/>
+            </TreeNode>
+          </TreeNode>
+        </TreeNode>
+      </TreeNode>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="G05F5/00 由检测系统电输入的偏差量从而控制系统中的一个设备以获得调定输出的电变量调节系统" Target="frmContent" Href="../searchservlet?query=G05F5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05F5/00">
+    <TreeNode Title="G05F5/02 #利用电子管、三端或多端半导体器件的相位受控转换[4]" Target="frmContent" Href="../searchservlet?query=G05F5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05F5/02"/>
+    <TreeNode Title="G05F5/04 #利用变压器或电感器作为末级控制器的[4]" Target="frmContent" Href="../searchservlet?query=G05F5/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05F5/04">
+      <TreeNode Title="G05F5/06 ##可饱和的[4]" Target="frmContent" Href="../searchservlet?query=G05F5/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05F5/06"/>
+    </TreeNode>
+    <TreeNode Title="G05F5/08 #利用了线性作用的末级控制器[4]" Target="frmContent" Href="../searchservlet?query=G05F5/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05F5/08"/>
+  </TreeNode>
+  <TreeNode Title="G05F7/00 磁变量的调节(用于测量与磁谐振有关的磁变量的仪器的细部入G01R 33/28)[5]" Target="frmContent" Href="../searchservlet?query=G05F7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G05F7/00"/>
+</Root>

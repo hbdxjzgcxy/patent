@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="B27M1/00 小类B27B至B27L中不包括的木材加工，如用拉伸法[2]" Target="frmContent" Href="../searchservlet?query=B27M1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B27M1/00">
+    <TreeNode Title="B27M1/02 #通过压制" Target="frmContent" Href="../searchservlet?query=B27M1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B27M1/02"/>
+    <TreeNode Title="B27M1/04 #通过冲制" Target="frmContent" Href="../searchservlet?query=B27M1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B27M1/04"/>
+    <TreeNode Title="B27M1/06 #通过燃烧或焦化，例如用热金属丝切割(作为表面处理入B44B)" Target="frmContent" Href="../searchservlet?query=B27M1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B27M1/06"/>
+    <TreeNode Title="B27M1/08 #通过多道加工工序[2]" Target="frmContent" Href="../searchservlet?query=B27M1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B27M1/08"/>
+  </TreeNode>
+  <TreeNode Title="B27M3/00 特种半成品或成品的制造或修整(仿形装置的特征入B23Q；胶合板或单板的制造，将胶合板或单板加工成物品入B27D；胶合板心层的制造入B27D 1/06；一般钉钉机或钉U形钉机入B27F 7/00；制桶或制造木轮用的构件入B27H)" Target="frmContent" Href="../searchservlet?query=B27M3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B27M3/00">
+    <TreeNode Title="B27M3/02 #屋顶构件的，如屋顶板" Target="frmContent" Href="../searchservlet?query=B27M3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B27M3/02"/>
+    <TreeNode Title="B27M3/04 #地板构件的，例如，镶木地板块(在其他材料的衬垫上装配木质构件入B32B，例如B32B 37/00)" Target="frmContent" Href="../searchservlet?query=B27M3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B27M3/04">
+      <TreeNode Title="B27M3/06 ##由装配或接合镶木地板块拼合地板" Target="frmContent" Href="../searchservlet?query=B27M3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B27M3/06"/>
+    </TreeNode>
+    <TreeNode Title="B27M3/08 #特殊成型的木板条或窄木块" Target="frmContent" Href="../searchservlet?query=B27M3/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B27M3/08"/>
+    <TreeNode Title="B27M3/10 #螺旋桨叶片" Target="frmContent" Href="../searchservlet?query=B27M3/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B27M3/10"/>
+    <TreeNode Title="B27M3/12 #栏杆、楼梯、楼梯梁、爬梯或它们的零部件" Target="frmContent" Href="../searchservlet?query=B27M3/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B27M3/12"/>
+    <TreeNode Title="B27M3/14 #铁路枕木" Target="frmContent" Href="../searchservlet?query=B27M3/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B27M3/14"/>
+    <TreeNode Title="B27M3/16 #工具把手或工具，如木槌" Target="frmContent" Href="../searchservlet?query=B27M3/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B27M3/16"/>
+    <TreeNode Title="B27M3/18 #家具" Target="frmContent" Href="../searchservlet?query=B27M3/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B27M3/18"/>
+    <TreeNode Title="B27M3/20 #鞋楦；鞋，如木鞋；鞋的部件，如鞋跟" Target="frmContent" Href="../searchservlet?query=B27M3/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B27M3/20"/>
+    <TreeNode Title="B27M3/22 #体育用品，如滚木球戏中的木瓶、网球拍架、滑雪橇、木桨" Target="frmContent" Href="../searchservlet?query=B27M3/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B27M3/22"/>
+    <TreeNode Title="B27M3/24 #家用器具，如匙子、衣架、衣夹" Target="frmContent" Href="../searchservlet?query=B27M3/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B27M3/24"/>
+    <TreeNode Title="B27M3/26 #烟具，如烟斗" Target="frmContent" Href="../searchservlet?query=B27M3/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B27M3/26"/>
+    <TreeNode Title="B27M3/28 #榫钉或螺栓" Target="frmContent" Href="../searchservlet?query=B27M3/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B27M3/28"/>
+    <TreeNode Title="B27M3/30 #线轴" Target="frmContent" Href="../searchservlet?query=B27M3/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B27M3/30"/>
+    <TreeNode Title="B27M3/32 #锥形柱，如矿井支柱" Target="frmContent" Href="../searchservlet?query=B27M3/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B27M3/32"/>
+    <TreeNode Title="B27M3/34 #木箱、大型木质方管或木盆，不经软化就不能达到良好弯曲的木材或等效材料(一般钉钉或钉U形钉入B25C，B27F；纸板、纸或类似的可加工材料入B31B)" Target="frmContent" Href="../searchservlet?query=B27M3/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B27M3/34">
+      <TreeNode Title="B27M3/36 ##将半成品连在一起的机械或装置，例如用于制作铁丝绑扎的箱子" Target="frmContent" Href="../searchservlet?query=B27M3/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B27M3/36"/>
+    </TreeNode>
+    <TreeNode Title="B27M3/38 #手杖或伞把B27M，B27N" Target="frmContent" Href="../searchservlet?query=B27M3/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B27M3/38"/>
+  </TreeNode>
+</Root>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="B21J1/00 准备金属坯料" Target="frmContent" Href="../searchservlet?query=B21J1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21J1/00">
+    <TreeNode Title="B21J1/02 #无特定形状的金属坯料的初步加工，如修补偏析带，粗锻或粗压(通过变形改进物理性能入C21D 7/00，C22F 1/00)" Target="frmContent" Href="../searchservlet?query=B21J1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21J1/02"/>
+    <TreeNode Title="B21J1/04 #通过锻压或压制仅进行初步成型" Target="frmContent" Href="../searchservlet?query=B21J1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21J1/04"/>
+    <TreeNode Title="B21J1/06 #完成锻压或压制加工的专用的加热或冷却方法或装置" Target="frmContent" Href="../searchservlet?query=B21J1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21J1/06"/>
+  </TreeNode>
+  <TreeNode Title="B21J3/00 锻压或压制时的滑润(滑润一般入F16N)" Target="frmContent" Href="../searchservlet?query=B21J3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21J3/00"/>
+  <TreeNode Title="B21J5/00 锻压、锤击或压制的方法(用于加工金属板或金属管、棒或型材入B21D；用于加工线材入B21F)；其专用设备或附件" Target="frmContent" Href="../searchservlet?query=B21J5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21J5/00">
+    <TreeNode Title="B21J5/02 #模锻；使用专用模具切边" Target="frmContent" Href="../searchservlet?query=B21J5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21J5/02"/>
+    <TreeNode Title="B21J5/04 #通过直接应用液体压力或爆炸作用的方法" Target="frmContent" Href="../searchservlet?query=B21J5/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21J5/04"/>
+    <TreeNode Title="B21J5/06 #用于完成特殊的作业" Target="frmContent" Href="../searchservlet?query=B21J5/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21J5/06">
+      <TreeNode Title="B21J5/08 ##镦粗" Target="frmContent" Href="../searchservlet?query=B21J5/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21J5/08"/>
+      <TreeNode Title="B21J5/10 ##金属坯料的穿孔(与挤压结合入B21C 23/00)" Target="frmContent" Href="../searchservlet?query=B21J5/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21J5/10"/>
+      <TreeNode Title="B21J5/12 ##在内或外表面形成成型表面(用锻压、压制或锤击方法加工螺纹入B21K)" Target="frmContent" Href="../searchservlet?query=B21J5/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21J5/12"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="B21J7/00 锤；带锤的或带受冲击而动作的锻模爪的锻压机(手锤入B25D；电气性能入H部)" Target="frmContent" Href="../searchservlet?query=B21J7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21J7/00">
+    <TreeNode Title="B21J7/02 #特殊设计或构造" Target="frmContent" Href="../searchservlet?query=B21J7/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21J7/02">
+      <TreeNode Title="B21J7/04 ##动力锤" Target="frmContent" Href="../searchservlet?query=B21J7/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21J7/04"/>
+      <TreeNode Title="B21J7/06 ##落锤" Target="frmContent" Href="../searchservlet?query=B21J7/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21J7/06">
+        <TreeNode Title="B21J7/08 ###带刚性导向锤的" Target="frmContent" Href="../searchservlet?query=B21J7/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21J7/08"/>
+      </TreeNode>
+      <TreeNode Title="B21J7/10 ##传动装置和锤部与可转动的杠杆相连接的，如尾锤" Target="frmContent" Href="../searchservlet?query=B21J7/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21J7/10">
+        <TreeNode Title="B21J7/12 ###杠杆为一弹簧，即弹簧锤" Target="frmContent" Href="../searchservlet?query=B21J7/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21J7/12"/>
+      </TreeNode>
+      <TreeNode Title="B21J7/14 ##有几个锤的锻造机" Target="frmContent" Href="../searchservlet?query=B21J7/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21J7/14">
+        <TreeNode Title="B21J7/16 ###在旋转装置中" Target="frmContent" Href="../searchservlet?query=B21J7/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21J7/16"/>
+      </TreeNode>
+      <TreeNode Title="B21J7/18 ##用锻模爪工作的锻造机，如在枢轴上转动的，相对锻造或压制方向可作横向移动的，如型锻" Target="frmContent" Href="../searchservlet?query=B21J7/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21J7/18"/>
+    </TreeNode>
+    <TreeNode Title="B21J7/20 #锤的驱动装置；其传输装置" Target="frmContent" Href="../searchservlet?query=B21J7/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21J7/20">
+      <TreeNode Title="B21J7/22 ##用于动力锤的" Target="frmContent" Href="../searchservlet?query=B21J7/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21J7/22">
+        <TreeNode Title="B21J7/24 ###利用蒸气、空气或其他气体压力操作的" Target="frmContent" Href="../searchservlet?query=B21J7/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21J7/24">
+          <TreeNode Title="B21J7/26 ####利用内燃机操作的" Target="frmContent" Href="../searchservlet?query=B21J7/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21J7/26"/>
+        </TreeNode>
+        <TreeNode Title="B21J7/28 ###利用水压或液压操作的" Target="frmContent" Href="../searchservlet?query=B21J7/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21J7/28"/>
+        <TreeNode Title="B21J7/30 ###利用电磁铁操作的" Target="frmContent" Href="../searchservlet?query=B21J7/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21J7/30"/>
+        <TreeNode Title="B21J7/32 ###利用旋转驱动装置，如用电机操作的" Target="frmContent" Href="../searchservlet?query=B21J7/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21J7/32"/>
+        <TreeNode Title="B21J7/34 ###锤和铁砧共同运动的，所谓撞锤" Target="frmContent" Href="../searchservlet?query=B21J7/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21J7/34"/>
+      </TreeNode>
+      <TreeNode Title="B21J7/36 ##用于落锤" Target="frmContent" Href="../searchservlet?query=B21J7/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21J7/36">
+        <TreeNode Title="B21J7/38 ###利用蒸气、空气或其他气体压力驱动的" Target="frmContent" Href="../searchservlet?query=B21J7/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21J7/38"/>
+        <TreeNode Title="B21J7/40 ###用水压或液压驱动的" Target="frmContent" Href="../searchservlet?query=B21J7/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21J7/40"/>
+        <TreeNode Title="B21J7/42 ###利用旋转驱动装置操作的，如用电机" Target="frmContent" Href="../searchservlet?query=B21J7/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21J7/42">
+          <TreeNode Title="B21J7/44 ####装有皮带、绳、缆、链条的" Target="frmContent" Href="../searchservlet?query=B21J7/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21J7/44"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="B21J7/46 ##不限于在上述单一小组内的，专门适用于锻锤的控制装置" Target="frmContent" Href="../searchservlet?query=B21J7/46&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21J7/46"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="B21J9/00 锻压机" Target="frmContent" Href="../searchservlet?query=B21J9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21J9/00">
+    <TreeNode Title="B21J9/02 #特殊设计或构造" Target="frmContent" Href="../searchservlet?query=B21J9/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21J9/02">
+      <TreeNode Title="B21J9/04 ##穿孔压力机" Target="frmContent" Href="../searchservlet?query=B21J9/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21J9/04"/>
+      <TreeNode Title="B21J9/06 ##型锻压力机；镦锻压力机" Target="frmContent" Href="../searchservlet?query=B21J9/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21J9/06">
+        <TreeNode Title="B21J9/08 ###装有加热工件用的装置(电加热元件入H05B)" Target="frmContent" Href="../searchservlet?query=B21J9/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21J9/08"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="B21J9/10 #锻压机的驱动装置" Target="frmContent" Href="../searchservlet?query=B21J9/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21J9/10">
+      <TreeNode Title="B21J9/12 ##利用水压或液压操作的" Target="frmContent" Href="../searchservlet?query=B21J9/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21J9/12">
+        <TreeNode Title="B21J9/14 ###与电力结合的" Target="frmContent" Href="../searchservlet?query=B21J9/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21J9/14"/>
+        <TreeNode Title="B21J9/16 ###与蒸气或气体动力结合的" Target="frmContent" Href="../searchservlet?query=B21J9/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21J9/16"/>
+      </TreeNode>
+      <TreeNode Title="B21J9/18 ##利用传动机构操作的，如杠杆、主轴、曲轴、偏心轮、肘节杆、齿条" Target="frmContent" Href="../searchservlet?query=B21J9/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21J9/18"/>
+      <TreeNode Title="B21J9/20 ##不限于在上述小组内的，专门用于锻压机的控制装置" Target="frmContent" Href="../searchservlet?query=B21J9/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21J9/20"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="B21J11/00 与锻压机联合的锻锤；能进行锤击和压制的锻压机" Target="frmContent" Href="../searchservlet?query=B21J11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21J11/00"/>
+  <TreeNode Title="B21J13/00 锻压、压制或锤击机械的零件" Target="frmContent" Href="../searchservlet?query=B21J13/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21J13/00">
+    <TreeNode Title="B21J13/02 #锻模或其安装[2]" Target="frmContent" Href="../searchservlet?query=B21J13/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21J13/02">
+      <TreeNode Title="B21J13/03 ##锻模安装[2]" Target="frmContent" Href="../searchservlet?query=B21J13/03&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21J13/03"/>
+    </TreeNode>
+    <TreeNode Title="B21J13/04 #机架，导轨" Target="frmContent" Href="../searchservlet?query=B21J13/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21J13/04"/>
+    <TreeNode Title="B21J13/06 #锻锤锤头；砧子；砧座" Target="frmContent" Href="../searchservlet?query=B21J13/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21J13/06"/>
+    <TreeNode Title="B21J13/08 #操纵工件或工具用的附件" Target="frmContent" Href="../searchservlet?query=B21J13/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21J13/08">
+      <TreeNode Title="B21J13/10 ##操作机(一般入B25J)" Target="frmContent" Href="../searchservlet?query=B21J13/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21J13/10">
+        <TreeNode Title="B21J13/12 ###翻料装置" Target="frmContent" Href="../searchservlet?query=B21J13/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21J13/12"/>
+      </TreeNode>
+      <TreeNode Title="B21J13/14 ##推出装置" Target="frmContent" Href="../searchservlet?query=B21J13/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21J13/14"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="B21J15/00 铆接" Target="frmContent" Href="../searchservlet?query=B21J15/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21J15/00">
+    <TreeNode Title="B21J15/02 #铆接程序" Target="frmContent" Href="../searchservlet?query=B21J15/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21J15/02">
+      <TreeNode Title="B21J15/04 ##用机械方法铆接空心铆钉" Target="frmContent" Href="../searchservlet?query=B21J15/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21J15/04"/>
+      <TreeNode Title="B21J15/06 ##利用水压、液压或气压铆接空心铆钉" Target="frmContent" Href="../searchservlet?query=B21J15/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21J15/06"/>
+      <TreeNode Title="B21J15/08 ##铆接时加热铆钉端部以形成铆钉头" Target="frmContent" Href="../searchservlet?query=B21J15/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21J15/08"/>
+    </TreeNode>
+    <TreeNode Title="B21J15/10 #铆接机(电加热元件入H05B)" Target="frmContent" Href="../searchservlet?query=B21J15/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21J15/10">
+      <TreeNode Title="B21J15/12 ##带有在进给运动时有一附加动作的工具或工具部件，如旋压" Target="frmContent" Href="../searchservlet?query=B21J15/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21J15/12"/>
+      <TreeNode Title="B21J15/14 ##专门用于铆接特定制品的，如闸衬铆机" Target="frmContent" Href="../searchservlet?query=B21J15/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21J15/14"/>
+      <TreeNode Title="B21J15/16 ##铆接机的驱动装置；其传输装置" Target="frmContent" Href="../searchservlet?query=B21J15/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21J15/16">
+        <TreeNode Title="B21J15/18 ###用空气压力或其他气体压力操作的，如爆炸压力" Target="frmContent" Href="../searchservlet?query=B21J15/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21J15/18"/>
+        <TreeNode Title="B21J15/20 ###用水压或液压操作的" Target="frmContent" Href="../searchservlet?query=B21J15/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21J15/20"/>
+        <TreeNode Title="B21J15/22 ###用水压或液压和气压二者操作的" Target="frmContent" Href="../searchservlet?query=B21J15/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21J15/22"/>
+        <TreeNode Title="B21J15/24 ###用电磁铁操作的" Target="frmContent" Href="../searchservlet?query=B21J15/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21J15/24"/>
+        <TreeNode Title="B21J15/26 ###利用旋转的驱动装置操作的，如用电动机" Target="frmContent" Href="../searchservlet?query=B21J15/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21J15/26"/>
+      </TreeNode>
+      <TreeNode Title="B21J15/28 ##不限于在上述分组内的，专门用于铆接机的控制装置" Target="frmContent" Href="../searchservlet?query=B21J15/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21J15/28"/>
+      <TreeNode Title="B21J15/30 ##特殊元件，如支架；专门适用于手提式铆接机的悬挂设备" Target="frmContent" Href="../searchservlet?query=B21J15/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21J15/30">
+        <TreeNode Title="B21J15/32 ###带或不带送料装置的装入或固定铆钉的设备" Target="frmContent" Href="../searchservlet?query=B21J15/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21J15/32">
+          <TreeNode Title="B21J15/34 ####用于安装管式铆钉的" Target="frmContent" Href="../searchservlet?query=B21J15/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21J15/34"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="B21J15/36 ##铆座，即形成铆钉头的工具；用于扩张空心铆钉部件的心轴" Target="frmContent" Href="../searchservlet?query=B21J15/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21J15/36"/>
+    </TreeNode>
+    <TreeNode Title="B21J15/38 #与铆接配合使用的附件，如镦粗用钳；铆接手工工具" Target="frmContent" Href="../searchservlet?query=B21J15/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21J15/38">
+      <TreeNode Title="B21J15/40 ##用于形成铆钉头的" Target="frmContent" Href="../searchservlet?query=B21J15/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21J15/40"/>
+      <TreeNode Title="B21J15/42 ##使工件铆接在一起的专门夹紧装置，如穿过铆钉孔操作的" Target="frmContent" Href="../searchservlet?query=B21J15/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21J15/42"/>
+      <TreeNode Title="B21J15/44 ##铆钉孔定位装置" Target="frmContent" Href="../searchservlet?query=B21J15/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21J15/44"/>
+      <TreeNode Title="B21J15/46 ##制造管接头用的铆钉的定位装置" Target="frmContent" Href="../searchservlet?query=B21J15/46&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21J15/46"/>
+      <TreeNode Title="B21J15/48 ##堵铆钉缝的装置" Target="frmContent" Href="../searchservlet?query=B21J15/48&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21J15/48"/>
+      <TreeNode Title="B21J15/50 ##铆钉的去除或切割装置" Target="frmContent" Href="../searchservlet?query=B21J15/50&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21J15/50"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="B21J17/00 锻造炉(热处理炉入C21D 9/00；炉一般入F27)" Target="frmContent" Href="../searchservlet?query=B21J17/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21J17/00">
+    <TreeNode Title="B21J17/02 #电加热的(电加热元件入H05B)" Target="frmContent" Href="../searchservlet?query=B21J17/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21J17/02"/>
+  </TreeNode>
+  <TreeNode Title="B21J19/00 不包含在其他类目中的锻工必需品" Target="frmContent" Href="../searchservlet?query=B21J19/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21J19/00">
+    <TreeNode Title="B21J19/02 #锻工炉；其专用的送风装置" Target="frmContent" Href="../searchservlet?query=B21J19/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21J19/02"/>
+    <TreeNode Title="B21J19/04 #砧子；有关的零部件" Target="frmContent" Href="../searchservlet?query=B21J19/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B21J19/04"/>
+  </TreeNode>
+</Root>

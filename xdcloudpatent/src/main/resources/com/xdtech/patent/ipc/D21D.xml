@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="D21D1/00 打浆或精浆方法；荷兰式打浆机(除节机入D21F)" Target="frmContent" Href="../searchservlet?query=D21D1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D21D1/00">
+    <TreeNode Title="D21D1/02 #打浆方法；荷兰式打浆机" Target="frmContent" Href="../searchservlet?query=D21D1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D21D1/02">
+      <TreeNode Title="D21D1/04 ##打浆辊及刀片" Target="frmContent" Href="../searchservlet?query=D21D1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D21D1/04"/>
+      <TreeNode Title="D21D1/06 ##底刀" Target="frmContent" Href="../searchservlet?query=D21D1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D21D1/06"/>
+      <TreeNode Title="D21D1/08 ##有快速转动纸浆装置的打浆机" Target="frmContent" Href="../searchservlet?query=D21D1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D21D1/08"/>
+      <TreeNode Title="D21D1/10 ##有调节打浆辊和底刀间压力装置的打浆机" Target="frmContent" Href="../searchservlet?query=D21D1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D21D1/10"/>
+      <TreeNode Title="D21D1/12 ##有连续排料装置的打浆机" Target="frmContent" Href="../searchservlet?query=D21D1/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D21D1/12"/>
+      <TreeNode Title="D21D1/14 ##有一个打浆刀辊和立式浆料循环通道的打浆机" Target="frmContent" Href="../searchservlet?query=D21D1/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D21D1/14"/>
+      <TreeNode Title="D21D1/16 ##有越过打浆刀辊上部回浆装置的打浆机" Target="frmContent" Href="../searchservlet?query=D21D1/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D21D1/16"/>
+      <TreeNode Title="D21D1/18 ##有两个以上打浆刀辊的打浆机" Target="frmContent" Href="../searchservlet?query=D21D1/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D21D1/18"/>
+    </TreeNode>
+    <TreeNode Title="D21D1/20 #精磨方法" Target="frmContent" Href="../searchservlet?query=D21D1/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D21D1/20">
+      <TreeNode Title="D21D1/22 ##锥形精磨机" Target="frmContent" Href="../searchservlet?query=D21D1/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D21D1/22">
+        <TreeNode Title="D21D1/24 ###锥形精磨机刀辊" Target="frmContent" Href="../searchservlet?query=D21D1/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D21D1/24"/>
+        <TreeNode Title="D21D1/26 ###锥形精磨机底刀" Target="frmContent" Href="../searchservlet?query=D21D1/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D21D1/26"/>
+      </TreeNode>
+      <TreeNode Title="D21D1/28 ##球磨机或棒磨机" Target="frmContent" Href="../searchservlet?query=D21D1/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D21D1/28"/>
+      <TreeNode Title="D21D1/30 ##盘磨机(圆盘磨)" Target="frmContent" Href="../searchservlet?query=D21D1/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D21D1/30"/>
+      <TreeNode Title="D21D1/32 ##锤式磨碎机" Target="frmContent" Href="../searchservlet?query=D21D1/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D21D1/32"/>
+      <TreeNode Title="D21D1/34 ##其他形式的磨碎机或精磨机" Target="frmContent" Href="../searchservlet?query=D21D1/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D21D1/34">
+        <TreeNode Title="D21D1/36 ###有立轴的" Target="frmContent" Href="../searchservlet?query=D21D1/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D21D1/36"/>
+        <TreeNode Title="D21D1/38 ###有水平轴的" Target="frmContent" Href="../searchservlet?query=D21D1/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D21D1/38"/>
+      </TreeNode>
+      <TreeNode Title="D21D1/40 ##洗涤纤维" Target="frmContent" Href="../searchservlet?query=D21D1/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D21D1/40"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="D21D5/00 用机械方法精制纸浆悬浮液；此类精制设备(离心机、旋风分离器入B04)" Target="frmContent" Href="../searchservlet?query=D21D5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D21D5/00">
+    <TreeNode Title="D21D5/02 #筛浆" Target="frmContent" Href="../searchservlet?query=D21D5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D21D5/02">
+      <TreeNode Title="D21D5/04 ##平板筛浆机" Target="frmContent" Href="../searchservlet?query=D21D5/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D21D5/04"/>
+      <TreeNode Title="D21D5/06 ##旋转筛鼓筛浆机" Target="frmContent" Href="../searchservlet?query=D21D5/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D21D5/06">
+        <TreeNode Title="D21D5/08 ###带摇振机构的" Target="frmContent" Href="../searchservlet?query=D21D5/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D21D5/08">
+          <TreeNode Title="D21D5/10 ####槽摇振的" Target="frmContent" Href="../searchservlet?query=D21D5/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D21D5/10"/>
+          <TreeNode Title="D21D5/12 ####筛摇振的" Target="frmContent" Href="../searchservlet?query=D21D5/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D21D5/12"/>
+          <TreeNode Title="D21D5/14 ####槽和筛都摇振的" Target="frmContent" Href="../searchservlet?query=D21D5/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D21D5/14"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="D21D5/16 ##筛浆机的筛筒和筛板" Target="frmContent" Href="../searchservlet?query=D21D5/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D21D5/16"/>
+    </TreeNode>
+    <TreeNode Title="D21D5/18 #借助于离心力的" Target="frmContent" Href="../searchservlet?query=D21D5/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D21D5/18">
+      <TreeNode Title="D21D5/20 ##有水平轴装置的" Target="frmContent" Href="../searchservlet?query=D21D5/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D21D5/20"/>
+      <TreeNode Title="D21D5/22 ##有立轴装置的" Target="frmContent" Href="../searchservlet?query=D21D5/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D21D5/22"/>
+      <TreeNode Title="D21D5/24 ##有旋风装置的" Target="frmContent" Href="../searchservlet?query=D21D5/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D21D5/24"/>
+    </TreeNode>
+    <TreeNode Title="D21D5/26 #去除浆料中的空气" Target="frmContent" Href="../searchservlet?query=D21D5/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D21D5/26"/>
+    <TreeNode Title="D21D5/28 #贮存或搅拌纸浆用的槽" Target="frmContent" Href="../searchservlet?query=D21D5/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D21D5/28"/>
+  </TreeNode>
+  <TreeNode Title="D21D99/00 本小类的其他组中未包括的技术主题[8]" Target="frmContent" Href="../searchservlet?query=D21D99/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D21D99/00"/>
+</Root>

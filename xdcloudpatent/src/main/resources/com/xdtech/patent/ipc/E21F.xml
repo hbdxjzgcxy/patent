@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="E21F1/00 矿井或隧道的通风；风流的分配(一般房屋或空间的通风入F24F)[2]" Target="frmContent" Href="../searchservlet?query=E21F1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E21F1/00">
+    <TreeNode Title="E21F1/02 #试验模型(其模拟计算机入G06G 7/50)" Target="frmContent" Href="../searchservlet?query=E21F1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E21F1/02"/>
+    <TreeNode Title="E21F1/04 #风筒(悬挂装置入E21F 17/02)" Target="frmContent" Href="../searchservlet?query=E21F1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E21F1/04">
+      <TreeNode Title="E21F1/06 ##风筒的连接(一般管子连接入F16L)" Target="frmContent" Href="../searchservlet?query=E21F1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E21F1/06"/>
+    </TreeNode>
+    <TreeNode Title="E21F1/08 #与风筒相连的通风设施，例如，安装通风机的设施(通风机本身入F04D)" Target="frmContent" Href="../searchservlet?query=E21F1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E21F1/08"/>
+    <TreeNode Title="E21F1/10 #风门(一般的门入E06B)" Target="frmContent" Href="../searchservlet?query=E21F1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E21F1/10">
+      <TreeNode Title="E21F1/12 ##自动打开风门的装置" Target="frmContent" Href="../searchservlet?query=E21F1/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E21F1/12"/>
+    </TreeNode>
+    <TreeNode Title="E21F1/14 #风障；风闸(防火墙入E21F 17/103；基础工程用气闸入E02D)[6]" Target="frmContent" Href="../searchservlet?query=E21F1/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E21F1/14"/>
+    <TreeNode Title="E21F1/16 #上风竖井盖门" Target="frmContent" Href="../searchservlet?query=E21F1/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E21F1/16"/>
+    <TreeNode Title="E21F1/18 #自然通风(E21F 1/02至E21F 1/16优先)[2]" Target="frmContent" Href="../searchservlet?query=E21F1/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E21F1/18"/>
+  </TreeNode>
+  <TreeNode Title="E21F3/00 空气的冷却或干燥(一般房屋或空间空气调节入F24F)" Target="frmContent" Href="../searchservlet?query=E21F3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E21F3/00"/>
+  <TreeNode Title="E21F5/00 防尘、粘尘、降尘或除尘的装置或方法；防止爆炸或火灾(防火墙入E21F 17/103；一般对表面施用液体或其他流动性材料入B05；废气指示器入G01N)[6]" Target="frmContent" Href="../searchservlet?query=E21F5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E21F5/00">
+    <TreeNode Title="E21F5/02 #用湿润法或喷水法" Target="frmContent" Href="../searchservlet?query=E21F5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E21F5/02">
+      <TreeNode Title="E21F5/04 ##喷水幕(喷嘴、一般喷水入B05B，B05D；具有流体喷嘴装置的截齿入E21C 35/187)" Target="frmContent" Href="../searchservlet?query=E21F5/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E21F5/04"/>
+      <TreeNode Title="E21F5/06 ##喷洒用的液体" Target="frmContent" Href="../searchservlet?query=E21F5/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E21F5/06"/>
+    </TreeNode>
+    <TreeNode Title="E21F5/08 #撒岩粉；使用其他防护物质" Target="frmContent" Href="../searchservlet?query=E21F5/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E21F5/08">
+      <TreeNode Title="E21F5/10 ##撒岩粉装置" Target="frmContent" Href="../searchservlet?query=E21F5/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E21F5/10"/>
+      <TreeNode Title="E21F5/12 ##岩粉的成分" Target="frmContent" Href="../searchservlet?query=E21F5/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E21F5/12"/>
+    </TreeNode>
+    <TreeNode Title="E21F5/14 #在爆破同时或由于爆破而动作的水幕或岩石除尘器" Target="frmContent" Href="../searchservlet?query=E21F5/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E21F5/14"/>
+    <TreeNode Title="E21F5/16 #涂于底板、侧壁等之上的用来粘尘的吸湿层或其他盐类层；这种粘尘层的喷涂(吸尘材料本身入C09K 3/22)" Target="frmContent" Href="../searchservlet?query=E21F5/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E21F5/16"/>
+    <TreeNode Title="E21F5/18 #为粘尘而用液体浸渍侧壁或类似物" Target="frmContent" Href="../searchservlet?query=E21F5/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E21F5/18"/>
+    <TreeNode Title="E21F5/20 #排尘或使灰层沉积(用于冲洗井眼的方法或设备入E21B 21/00；同时进行截割入E21C 35/22)[1，7]" Target="frmContent" Href="../searchservlet?query=E21F5/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E21F5/20"/>
+  </TreeNode>
+  <TreeNode Title="E21F7/00 用于或不用于其他目的的瓦斯排放方法或装置" Target="frmContent" Href="../searchservlet?query=E21F7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E21F7/00"/>
+  <TreeNode Title="E21F9/00 防止机械或仪器产生火花的装置(电机或电器防火花入H01K，H02K)" Target="frmContent" Href="../searchservlet?query=E21F9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E21F9/00"/>
+  <TreeNode Title="E21F11/00 救护装置或其他安全装置，例如，安全硐室、安全通道(医疗用呼吸器入A61H 31/00；呼吸装置入A62B 7/00；苏醒装置入A62B 3/00)" Target="frmContent" Href="../searchservlet?query=E21F11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E21F11/00"/>
+  <TreeNode Title="E21F13/00 专用于地下条件的运输(矿车入B61D；一般运输，装载入B65G)" Target="frmContent" Href="../searchservlet?query=E21F13/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E21F13/00">
+    <TreeNode Title="E21F13/02 #平硐内的" Target="frmContent" Href="../searchservlet?query=E21F13/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E21F13/02"/>
+    <TreeNode Title="E21F13/04 #自重滑行坡内的；暗井或斜井内的" Target="frmContent" Href="../searchservlet?query=E21F13/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E21F13/04"/>
+    <TreeNode Title="E21F13/06 #在工作面或邻近工作面的" Target="frmContent" Href="../searchservlet?query=E21F13/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E21F13/06"/>
+    <TreeNode Title="E21F13/08 #将运输机或其他运输装置从工作面的一个位置移到另一个位置(沿运输采下矿物的运输机导向开采机械入E21C 35/12；与步进式矿顶支架配合使用入E21D 23/00)" Target="frmContent" Href="../searchservlet?query=E21F13/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E21F13/08"/>
+    <TreeNode Title="E21F13/10 #运输机的锚定[2]" Target="frmContent" Href="../searchservlet?query=E21F13/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E21F13/10"/>
+  </TreeNode>
+  <TreeNode Title="E21F15/00 井下采区充入充填物的方法或装置(防火墙入E21F 17/103)[6]" Target="frmContent" Href="../searchservlet?query=E21F15/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E21F15/00">
+    <TreeNode Title="E21F15/02 #充填物的支护工具，例如，背板" Target="frmContent" Href="../searchservlet?query=E21F15/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E21F15/02">
+      <TreeNode Title="E21F15/04 ##充填用挡帘；采空区金属网；隔墙" Target="frmContent" Href="../searchservlet?query=E21F15/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E21F15/04"/>
+    </TreeNode>
+    <TreeNode Title="E21F15/06 #机械充填" Target="frmContent" Href="../searchservlet?query=E21F15/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E21F15/06"/>
+    <TreeNode Title="E21F15/08 #液压或风力充填(液压或风动运输装置入B65G；管，管接头入F16L)" Target="frmContent" Href="../searchservlet?query=E21F15/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E21F15/08">
+      <TreeNode Title="E21F15/10 ##液压或风力充填机械E21F 16/00排水(保持地面基础沟或其他区域的干燥入E02D 19/00)[2]" Target="frmContent" Href="../searchservlet?query=E21F15/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E21F15/10"/>
+    </TreeNode>
+    <TreeNode Title="E21F16/02 #隧道的[2]" Target="frmContent" Href="../searchservlet?query=E21F16/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E21F16/02"/>
+  </TreeNode>
+  <TreeNode Title="E21F17/00 在其他地方没有涉及到的用于矿井或隧道的方法或装置(矿井照明入F21，H05B)[2]" Target="frmContent" Href="../searchservlet?query=E21F17/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E21F17/00">
+    <TreeNode Title="E21F17/02 #管子或类似物的悬挂装置，例如，风筒(管道或电缆用的入F16L 3/00至F16L 7/00)" Target="frmContent" Href="../searchservlet?query=E21F17/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E21F17/02"/>
+    <TreeNode Title="E21F17/04 #动力分配装置[2]" Target="frmContent" Href="../searchservlet?query=E21F17/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E21F17/04">
+      <TreeNode Title="E21F17/06 ##电力分配；电缆网；电缆管道(一般的供配电电路布置入H02J)" Target="frmContent" Href="../searchservlet?query=E21F17/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E21F17/06"/>
+      <TreeNode Title="E21F17/08 ##液压动力分配；液压管道网(一般管道系统入F17D)" Target="frmContent" Href="../searchservlet?query=E21F17/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E21F17/08"/>
+      <TreeNode Title="E21F17/10 ##风压动力分配；压缩空气管道网(一般管道系统入F17D)" Target="frmContent" Href="../searchservlet?query=E21F17/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E21F17/10"/>
+    </TreeNode>
+    <TreeNode Title="E21F17/103 #防火墙，例如，用于通风[6]" Target="frmContent" Href="../searchservlet?query=E21F17/103&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E21F17/103">
+      <TreeNode Title="E21F17/107 ##可膨胀的[6]" Target="frmContent" Href="../searchservlet?query=E21F17/107&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E21F17/107"/>
+      <TreeNode Title="E21F17/12 ##密封门" Target="frmContent" Href="../searchservlet?query=E21F17/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E21F17/12"/>
+    </TreeNode>
+    <TreeNode Title="E21F17/16 #用于储存，尤其是储存液体或气体的矿井通道或硐室的改造(在地下天然或人造洞穴或硐室中储存液体入B65G 5/00)" Target="frmContent" Href="../searchservlet?query=E21F17/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E21F17/16"/>
+    <TreeNode Title="E21F17/18 #信号装置或警报装置的特殊应用(用于电梯、升降机或移动人行道的入B66B；瓦斯传感装置本身入G01N)" Target="frmContent" Href="../searchservlet?query=E21F17/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E21F17/18"/>
+  </TreeNode>
+</Root>

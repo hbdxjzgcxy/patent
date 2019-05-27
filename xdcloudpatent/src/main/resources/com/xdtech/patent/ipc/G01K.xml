@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="G01K1/00 非专用于特殊类型温度计的零部件(用于减小热惯性的电路入G01K 7/42)[6]" Target="frmContent" Href="../searchservlet?query=G01K1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01K1/00">
+    <TreeNode Title="G01K1/02 #指示或记录装置的特殊应用，例如，用于远距离指示" Target="frmContent" Href="../searchservlet?query=G01K1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01K1/02">
+      <TreeNode Title="G01K1/04 ##标度" Target="frmContent" Href="../searchservlet?query=G01K1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01K1/04">
+        <TreeNode Title="G01K1/06 ###方便读数的装置，例如照明、放大镜" Target="frmContent" Href="../searchservlet?query=G01K1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01K1/06"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="G01K1/08 #保护装置，例如，外壳" Target="frmContent" Href="../searchservlet?query=G01K1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01K1/08">
+      <TreeNode Title="G01K1/10 ##防止化学腐蚀的" Target="frmContent" Href="../searchservlet?query=G01K1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01K1/10"/>
+      <TreeNode Title="G01K1/12 ##防止过热损坏的" Target="frmContent" Href="../searchservlet?query=G01K1/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01K1/12"/>
+    </TreeNode>
+    <TreeNode Title="G01K1/14 #支撑；固定装置；在特殊位置安装温度计" Target="frmContent" Href="../searchservlet?query=G01K1/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01K1/14"/>
+    <TreeNode Title="G01K1/16 #用于从物体至传感元件传热的专门装置" Target="frmContent" Href="../searchservlet?query=G01K1/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01K1/16">
+      <TreeNode Title="G01K1/18 ##用于减少热惯性的" Target="frmContent" Href="../searchservlet?query=G01K1/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01K1/18"/>
+    </TreeNode>
+    <TreeNode Title="G01K1/20 #补偿除被测温度外的其他温度变化产生的影响，例如，环境温度的变化" Target="frmContent" Href="../searchservlet?query=G01K1/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01K1/20">
+      <TreeNode Title="G01K1/22 ##利用空心容器中的流体所产生的压力使容器装有的部件可发生变形或位移" Target="frmContent" Href="../searchservlet?query=G01K1/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01K1/22"/>
+      <TreeNode Title="G01K1/24 ##应用复合的片或板，例如，双金属片" Target="frmContent" Href="../searchservlet?query=G01K1/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01K1/24"/>
+    </TreeNode>
+    <TreeNode Title="G01K1/26 #补偿由于压力变化产生的影响" Target="frmContent" Href="../searchservlet?query=G01K1/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01K1/26"/>
+  </TreeNode>
+  <TreeNode Title="G01K3/00 给出除温度瞬时值外其他结果的温度计(G01K 7/42优先)[6]" Target="frmContent" Href="../searchservlet?query=G01K3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01K3/00">
+    <TreeNode Title="G01K3/02 #给出平均值；给出积分值" Target="frmContent" Href="../searchservlet?query=G01K3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01K3/02">
+      <TreeNode Title="G01K3/04 ##对应于时间的" Target="frmContent" Href="../searchservlet?query=G01K3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01K3/04"/>
+      <TreeNode Title="G01K3/06 ##对应于空间的" Target="frmContent" Href="../searchservlet?query=G01K3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01K3/06"/>
+    </TreeNode>
+    <TreeNode Title="G01K3/08 #给出差值的；给出微分值的" Target="frmContent" Href="../searchservlet?query=G01K3/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01K3/08">
+      <TreeNode Title="G01K3/10 ##对应于时间的，例如，仅对温度的快速变化起反应的" Target="frmContent" Href="../searchservlet?query=G01K3/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01K3/10">
+        <TreeNode Title="G01K3/12 ###根据材料的膨胀或收缩" Target="frmContent" Href="../searchservlet?query=G01K3/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01K3/12"/>
+      </TreeNode>
+      <TreeNode Title="G01K3/14 ##对应于空间的" Target="frmContent" Href="../searchservlet?query=G01K3/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01K3/14"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="G01K5/00 以材料的膨胀或收缩为基础的温度测量(G01K 9/00优先；给出除温度瞬时值外其他结果的入G01K 3/00)" Target="frmContent" Href="../searchservlet?query=G01K5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01K5/00">
+    <TreeNode Title="G01K5/02 #材料是液体的(G01K 5/32优先)" Target="frmContent" Href="../searchservlet?query=G01K5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01K5/02">
+      <TreeNode Title="G01K5/04 ##零部件" Target="frmContent" Href="../searchservlet?query=G01K5/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01K5/04">
+        <TreeNode Title="G01K5/06 ###使液体柱复位的结构" Target="frmContent" Href="../searchservlet?query=G01K5/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01K5/06"/>
+        <TreeNode Title="G01K5/08 ###毛细管" Target="frmContent" Href="../searchservlet?query=G01K5/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01K5/08"/>
+        <TreeNode Title="G01K5/10 ###液体的容器" Target="frmContent" Href="../searchservlet?query=G01K5/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01K5/10"/>
+        <TreeNode Title="G01K5/12 ###液体成分的选择" Target="frmContent" Href="../searchservlet?query=G01K5/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01K5/12"/>
+      </TreeNode>
+      <TreeNode Title="G01K5/14 ##该液体使一段较远的液柱或一个固体移动的(最大或最小指示入G01K 5/20)" Target="frmContent" Href="../searchservlet?query=G01K5/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01K5/14"/>
+      <TreeNode Title="G01K5/16 ##有电触点的" Target="frmContent" Href="../searchservlet?query=G01K5/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01K5/16"/>
+      <TreeNode Title="G01K5/18 ##带有最终指示用的电变换装置" Target="frmContent" Href="../searchservlet?query=G01K5/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01K5/18"/>
+      <TreeNode Title="G01K5/20 ##有指示最大或最小值或兼有两种指示的装置(G01K 5/22优先)" Target="frmContent" Href="../searchservlet?query=G01K5/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01K5/20"/>
+      <TreeNode Title="G01K5/22 ##考虑到膨胀指示不超过几度的温度计，例如，体温计" Target="frmContent" Href="../searchservlet?query=G01K5/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01K5/22"/>
+      <TreeNode Title="G01K5/24 ##具有测量两温度差值用的装置" Target="frmContent" Href="../searchservlet?query=G01K5/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01K5/24"/>
+      <TreeNode Title="G01K5/26 ##具有供刻度调零用的装置，例如，Beckmann温度计" Target="frmContent" Href="../searchservlet?query=G01K5/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01K5/26"/>
+    </TreeNode>
+    <TreeNode Title="G01K5/28 #材料是气体的(G01K 5/32优先)" Target="frmContent" Href="../searchservlet?query=G01K5/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01K5/28">
+      <TreeNode Title="G01K5/30 ##该气体使一段液柱移动的" Target="frmContent" Href="../searchservlet?query=G01K5/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01K5/30"/>
+    </TreeNode>
+    <TreeNode Title="G01K5/32 #材料是装在空心容器中的流体，容器装有的部件在此材料所产生压力作用下，可发生变形或移动(处于蒸发所产生的压力作用下的入G01K 11/04)" Target="frmContent" Href="../searchservlet?query=G01K5/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01K5/32">
+      <TreeNode Title="G01K5/34 ##容器是盒式的(G01K 5/36，G01K 5/42优先)" Target="frmContent" Href="../searchservlet?query=G01K5/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01K5/34"/>
+      <TreeNode Title="G01K5/36 ##容器是管形弹簧，例如，布尔登管" Target="frmContent" Href="../searchservlet?query=G01K5/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01K5/36">
+        <TreeNode Title="G01K5/38 ###盘旋形的" Target="frmContent" Href="../searchservlet?query=G01K5/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01K5/38"/>
+        <TreeNode Title="G01K5/40 ###螺旋形的" Target="frmContent" Href="../searchservlet?query=G01K5/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01K5/40"/>
+      </TreeNode>
+      <TreeNode Title="G01K5/42 ##容器是波纹管" Target="frmContent" Href="../searchservlet?query=G01K5/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01K5/42"/>
+      <TreeNode Title="G01K5/44 ##容器是汽缸和活塞" Target="frmContent" Href="../searchservlet?query=G01K5/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01K5/44"/>
+      <TreeNode Title="G01K5/46 ##带有最终指示用的电变换装置" Target="frmContent" Href="../searchservlet?query=G01K5/46&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01K5/46"/>
+    </TreeNode>
+    <TreeNode Title="G01K5/48 #材料是固体" Target="frmContent" Href="../searchservlet?query=G01K5/48&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01K5/48">
+      <TreeNode Title="G01K5/50 ##为可自由膨胀或收缩而安排的" Target="frmContent" Href="../searchservlet?query=G01K5/50&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01K5/50">
+        <TreeNode Title="G01K5/52 ###带有最终指示用的电变换装置" Target="frmContent" Href="../searchservlet?query=G01K5/52&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01K5/52"/>
+      </TreeNode>
+      <TreeNode Title="G01K5/54 ##由枢轴连接的组件构成的" Target="frmContent" Href="../searchservlet?query=G01K5/54&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01K5/54"/>
+      <TreeNode Title="G01K5/56 ##为引起固体膨胀或收缩而加约束的" Target="frmContent" Href="../searchservlet?query=G01K5/56&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01K5/56">
+        <TreeNode Title="G01K5/58 ###固体材料，例如，杆、板、薄膜多点受约束的(G01K 5/62优先)" Target="frmContent" Href="../searchservlet?query=G01K5/58&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01K5/58">
+          <TreeNode Title="G01K5/60 ####固体材料是易弯曲的线或带" Target="frmContent" Href="../searchservlet?query=G01K5/60&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01K5/60"/>
+        </TreeNode>
+        <TreeNode Title="G01K5/62 ###固体是由复合的带或片构成的，例如，双金属片" Target="frmContent" Href="../searchservlet?query=G01K5/62&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01K5/62">
+          <TreeNode Title="G01K5/64 ####复合装置的零部件" Target="frmContent" Href="../searchservlet?query=G01K5/64&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01K5/64">
+            <TreeNode Title="G01K5/66 #####装置组件构成的选择" Target="frmContent" Href="../searchservlet?query=G01K5/66&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01K5/66"/>
+            <TreeNode Title="G01K5/68 #####装置的形状" Target="frmContent" Href="../searchservlet?query=G01K5/68&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01K5/68"/>
+          </TreeNode>
+          <TreeNode Title="G01K5/70 ####专用于指示或记录的" Target="frmContent" Href="../searchservlet?query=G01K5/70&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01K5/70">
+            <TreeNode Title="G01K5/72 #####带有最终指示用的电传输装置" Target="frmContent" Href="../searchservlet?query=G01K5/72&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01K5/72"/>
+          </TreeNode>
+        </TreeNode>
+      </TreeNode>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="G01K7/00 以利用直接对热敏感的电或磁性元件为基础的温度测量(给出除温度瞬时值之外其他结果的入G01K 3/00)" Target="frmContent" Href="../searchservlet?query=G01K7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01K7/00">
+    <TreeNode Title="G01K7/01 #利用具有PN结的半导体元件(G01K 7/02，G01K 7/16，G01K 7/30优先)[6]" Target="frmContent" Href="../searchservlet?query=G01K7/01&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01K7/01"/>
+    <TreeNode Title="G01K7/02 #利用热电元件，例如热电偶" Target="frmContent" Href="../searchservlet?query=G01K7/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01K7/02">
+      <TreeNode Title="G01K7/04 ##被测物体本身不构成热电材料之一" Target="frmContent" Href="../searchservlet?query=G01K7/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01K7/04">
+        <TreeNode Title="G01K7/06 ###将一种热电材料装在另一种里面，露在被测物体中的一端有接头，例如，护套式的" Target="frmContent" Href="../searchservlet?query=G01K7/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01K7/06"/>
+      </TreeNode>
+      <TreeNode Title="G01K7/08 ##被测物体本身构成热电材料之一，例如，尖端型的" Target="frmContent" Href="../searchservlet?query=G01K7/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01K7/08"/>
+      <TreeNode Title="G01K7/10 ##为修正参数，例如，引线长度的补偿装置" Target="frmContent" Href="../searchservlet?query=G01K7/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01K7/10">
+        <TreeNode Title="G01K7/12 ###关于冷接装置，例如，防止周围空气温度影响的" Target="frmContent" Href="../searchservlet?query=G01K7/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01K7/12">
+          <TreeNode Title="G01K7/13 ####冷接补偿电路[6]" Target="frmContent" Href="../searchservlet?query=G01K7/13&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01K7/13"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="G01K7/14 ##改善输出特性的装置，例如线性" Target="frmContent" Href="../searchservlet?query=G01K7/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01K7/14"/>
+    </TreeNode>
+    <TreeNode Title="G01K7/16 #利用电阻元件" Target="frmContent" Href="../searchservlet?query=G01K7/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01K7/16">
+      <TreeNode Title="G01K7/18 ##元件为线性电阻，例如，铂电阻温度计(G01K 7/26优先)" Target="frmContent" Href="../searchservlet?query=G01K7/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01K7/18">
+        <TreeNode Title="G01K7/20 ###置于专门采用的电路内，例如，桥路" Target="frmContent" Href="../searchservlet?query=G01K7/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01K7/20">
+          <TreeNode Title="G01K7/21 ####用于改善输出特性，例如线性[6]" Target="frmContent" Href="../searchservlet?query=G01K7/21&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01K7/21"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="G01K7/22 ##元件为非线性电阻，例如，热敏电阻(G01K 7/26优先)" Target="frmContent" Href="../searchservlet?query=G01K7/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01K7/22">
+        <TreeNode Title="G01K7/24 ###置于专门采用的电路内的，例如，桥路" Target="frmContent" Href="../searchservlet?query=G01K7/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01K7/24">
+          <TreeNode Title="G01K7/25 ####用于改善输出特性，例如线性[6]" Target="frmContent" Href="../searchservlet?query=G01K7/25&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01K7/25"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="G01K7/26 ##元件为电解质" Target="frmContent" Href="../searchservlet?query=G01K7/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01K7/26">
+        <TreeNode Title="G01K7/28 ###置于专门采用的电路内，例如，桥路" Target="frmContent" Href="../searchservlet?query=G01K7/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01K7/28"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="G01K7/30 #利用电阻或导体的热噪声" Target="frmContent" Href="../searchservlet?query=G01K7/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01K7/30"/>
+    <TreeNode Title="G01K7/32 #利用晶体谐振频率的变化" Target="frmContent" Href="../searchservlet?query=G01K7/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01K7/32"/>
+    <TreeNode Title="G01K7/34 #利用电容性元件" Target="frmContent" Href="../searchservlet?query=G01K7/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01K7/34"/>
+    <TreeNode Title="G01K7/36 #利用磁性元件，例如磁体、线圈" Target="frmContent" Href="../searchservlet?query=G01K7/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01K7/36">
+      <TreeNode Title="G01K7/38 ##温度变化影响磁导率的" Target="frmContent" Href="../searchservlet?query=G01K7/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01K7/38"/>
+    </TreeNode>
+    <TreeNode Title="G01K7/40 #利用气体的电离" Target="frmContent" Href="../searchservlet?query=G01K7/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01K7/40"/>
+    <TreeNode Title="G01K7/42 #减少热惯性电路；预测温度稳定值电路[6]" Target="frmContent" Href="../searchservlet?query=G01K7/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01K7/42"/>
+  </TreeNode>
+  <TreeNode Title="G01K9/00 以重量再分布引起运动为基础的温度测量，例如，倾斜温度计(不给出温度瞬时值的入G01K 3/00)" Target="frmContent" Href="../searchservlet?query=G01K9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01K9/00"/>
+  <TreeNode Title="G01K11/00 不包括在G01K 3/00，G01K 5/00，G01K 7/00或G01K 9/00各组的以物理或化学变化为基础的温度测量" Target="frmContent" Href="../searchservlet?query=G01K11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01K11/00">
+    <TreeNode Title="G01K11/02 #应用蒸发或升华作用，例如，通过观察沸腾" Target="frmContent" Href="../searchservlet?query=G01K11/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01K11/02">
+      <TreeNode Title="G01K11/04 ##在空心容器中的材料的蒸发或升华的蒸汽产生的压力作用下，容器装有的部件可发生变形或位移的" Target="frmContent" Href="../searchservlet?query=G01K11/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01K11/04"/>
+    </TreeNode>
+    <TreeNode Title="G01K11/06 #应用融化、冻结或软化" Target="frmContent" Href="../searchservlet?query=G01K11/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01K11/06">
+      <TreeNode Title="G01K11/08 ##可互换的测试元件，例如，圆锥体" Target="frmContent" Href="../searchservlet?query=G01K11/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01K11/08"/>
+    </TreeNode>
+    <TreeNode Title="G01K11/10 #采用烧结" Target="frmContent" Href="../searchservlet?query=G01K11/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01K11/10"/>
+    <TreeNode Title="G01K11/12 #利用颜色或透明度的变化(G01K 11/32优先)[6]" Target="frmContent" Href="../searchservlet?query=G01K11/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01K11/12">
+      <TreeNode Title="G01K11/14 ##无机材料的" Target="frmContent" Href="../searchservlet?query=G01K11/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01K11/14"/>
+      <TreeNode Title="G01K11/16 ##有机材料的" Target="frmContent" Href="../searchservlet?query=G01K11/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01K11/16"/>
+      <TreeNode Title="G01K11/18 ##变透明度材料的" Target="frmContent" Href="../searchservlet?query=G01K11/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01K11/18"/>
+    </TreeNode>
+    <TreeNode Title="G01K11/20 #利用热发光材料(G01K 11/32优先)[6]" Target="frmContent" Href="../searchservlet?query=G01K11/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01K11/20"/>
+    <TreeNode Title="G01K11/22 #利用测量声学效应的" Target="frmContent" Href="../searchservlet?query=G01K11/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01K11/22">
+      <TreeNode Title="G01K11/24 ##声音传播速度的" Target="frmContent" Href="../searchservlet?query=G01K11/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01K11/24"/>
+      <TreeNode Title="G01K11/26 ##共振频率的" Target="frmContent" Href="../searchservlet?query=G01K11/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01K11/26"/>
+    </TreeNode>
+    <TreeNode Title="G01K11/28 #利用密度测量的" Target="frmContent" Href="../searchservlet?query=G01K11/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01K11/28"/>
+    <TreeNode Title="G01K11/30 #利用测量材料对X射线、γ射线或粒子辐射的效应[5]" Target="frmContent" Href="../searchservlet?query=G01K11/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01K11/30"/>
+    <TreeNode Title="G01K11/32 #利用在光纤中的透射、散射或荧光的变化[6]" Target="frmContent" Href="../searchservlet?query=G01K11/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01K11/32"/>
+  </TreeNode>
+  <TreeNode Title="G01K13/00 适用于特殊目的的温度计" Target="frmContent" Href="../searchservlet?query=G01K13/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01K13/00">
+    <TreeNode Title="G01K13/02 #用于测量运动流体或可流动颗粒材料的温度" Target="frmContent" Href="../searchservlet?query=G01K13/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01K13/02"/>
+    <TreeNode Title="G01K13/04 #用于测量运动固体温度的" Target="frmContent" Href="../searchservlet?query=G01K13/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01K13/04">
+      <TreeNode Title="G01K13/06 ##线性运动的" Target="frmContent" Href="../searchservlet?query=G01K13/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01K13/06"/>
+      <TreeNode Title="G01K13/08 ##旋转运动的" Target="frmContent" Href="../searchservlet?query=G01K13/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01K13/08"/>
+    </TreeNode>
+    <TreeNode Title="G01K13/10 #用于测量堆积或垛叠材料中的温度(从被测物体至传感元件的热传导采用专门装置的入G01K 1/16)" Target="frmContent" Href="../searchservlet?query=G01K13/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01K13/10"/>
+    <TreeNode Title="G01K13/12 #与取样装置组合用于测量材料试样温度的" Target="frmContent" Href="../searchservlet?query=G01K13/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01K13/12"/>
+  </TreeNode>
+  <TreeNode Title="G01K15/00 温度计的测试或校准" Target="frmContent" Href="../searchservlet?query=G01K15/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01K15/00"/>
+  <TreeNode Title="G01K17/00 测量热量" Target="frmContent" Href="../searchservlet?query=G01K17/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01K17/00">
+    <TreeNode Title="G01K17/02 #应用指示物质迁移的量热计，例如，蒸发量热计" Target="frmContent" Href="../searchservlet?query=G01K17/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01K17/02"/>
+    <TreeNode Title="G01K17/04 #应用补偿方法的量热计" Target="frmContent" Href="../searchservlet?query=G01K17/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01K17/04"/>
+    <TreeNode Title="G01K17/06 #测量流动介质传递的热量的，例如，在加热系统中(G01K 17/02，G01K 17/04优先)" Target="frmContent" Href="../searchservlet?query=G01K17/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01K17/06">
+      <TreeNode Title="G01K17/08 ##根据温差测量的" Target="frmContent" Href="../searchservlet?query=G01K17/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01K17/08">
+        <TreeNode Title="G01K17/10 ###在入口和出口处之间测量温度差与测量介质流速相结合" Target="frmContent" Href="../searchservlet?query=G01K17/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01K17/10">
+          <TreeNode Title="G01K17/12 ####直接指示温差和流量的乘积" Target="frmContent" Href="../searchservlet?query=G01K17/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01K17/12">
+            <TreeNode Title="G01K17/14 #####两种测量都用机械方法" Target="frmContent" Href="../searchservlet?query=G01K17/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01K17/14"/>
+            <TreeNode Title="G01K17/16 #####两种测量都应用电学方法" Target="frmContent" Href="../searchservlet?query=G01K17/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01K17/16"/>
+            <TreeNode Title="G01K17/18 #####一种测量应用电学方法，另一种应用机械方法" Target="frmContent" Href="../searchservlet?query=G01K17/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01K17/18"/>
+          </TreeNode>
+        </TreeNode>
+        <TreeNode Title="G01K17/20 ###横跨一个辐射面，同确定热传输系数相结合" Target="frmContent" Href="../searchservlet?query=G01K17/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01K17/20"/>
+      </TreeNode>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="G01K19/00 量热器的试验或校准" Target="frmContent" Href="../searchservlet?query=G01K19/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01K19/00"/>
+</Root>

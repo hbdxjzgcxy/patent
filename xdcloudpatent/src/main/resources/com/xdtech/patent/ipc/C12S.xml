@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="C12S1/00 石油、页岩油或沙层油的处理[5]" Target="frmContent" Href="../searchservlet?query=C12S1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12S1/00">
+    <TreeNode Title="C12S1/02 #脱硫[5]" Target="frmContent" Href="../searchservlet?query=C12S1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12S1/02"/>
+  </TreeNode>
+  <TreeNode Title="C12S3/00 动物或植物材料或微生物的处理[5]" Target="frmContent" Href="../searchservlet?query=C12S3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12S3/00">
+    <TreeNode Title="C12S3/02 #碳水化合物材料的回收或纯化[5]" Target="frmContent" Href="../searchservlet?query=C12S3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12S3/02">
+      <TreeNode Title="C12S3/04 ##纤维素，如植物纤维[5]" Target="frmContent" Href="../searchservlet?query=C12S3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12S3/04">
+        <TreeNode Title="C12S3/06 ###大麻或亚麻的处理[5]" Target="frmContent" Href="../searchservlet?query=C12S3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12S3/06"/>
+        <TreeNode Title="C12S3/08 ###在纸浆生产中[5]" Target="frmContent" Href="../searchservlet?query=C12S3/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12S3/08"/>
+      </TreeNode>
+      <TreeNode Title="C12S3/10 ##糖或糖蜜的处理[5]" Target="frmContent" Href="../searchservlet?query=C12S3/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12S3/10"/>
+      <TreeNode Title="C12S3/12 ##果胶或淀粉的处理[5]" Target="frmContent" Href="../searchservlet?query=C12S3/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12S3/12"/>
+    </TreeNode>
+    <TreeNode Title="C12S3/14 #蛋白质材料的回收或纯化[5]" Target="frmContent" Href="../searchservlet?query=C12S3/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12S3/14">
+      <TreeNode Title="C12S3/16 ##胶原或明胶[5]" Target="frmContent" Href="../searchservlet?query=C12S3/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12S3/16"/>
+    </TreeNode>
+    <TreeNode Title="C12S3/18 #甘油酯油、脂肪、酯型蜡或脂肪酸的回收或纯化[5]" Target="frmContent" Href="../searchservlet?query=C12S3/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12S3/18"/>
+    <TreeNode Title="C12S3/20 #由完整或破碎的细胞中去除核酸[5]" Target="frmContent" Href="../searchservlet?query=C12S3/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12S3/20"/>
+    <TreeNode Title="C12S3/22 #血液各组分的处理[5]" Target="frmContent" Href="../searchservlet?query=C12S3/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12S3/22"/>
+    <TreeNode Title="C12S3/24 #动物分泌物或器官的处理[5]" Target="frmContent" Href="../searchservlet?query=C12S3/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12S3/24"/>
+  </TreeNode>
+  <TreeNode Title="C12S5/00 乳液、气体或泡沫处理[5]" Target="frmContent" Href="../searchservlet?query=C12S5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12S5/00"/>
+  <TreeNode Title="C12S7/00 原皮的处理，如脱毛、软化[5]" Target="frmContent" Href="../searchservlet?query=C12S7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12S7/00"/>
+  <TreeNode Title="C12S9/00 清洗材料的固体表面[5]" Target="frmContent" Href="../searchservlet?query=C12S9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12S9/00"/>
+  <TreeNode Title="C12S11/00 织物的处理，如清洗[5]" Target="frmContent" Href="../searchservlet?query=C12S11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12S11/00"/>
+  <TreeNode Title="C12S99/00 本小类其他各组中不包括的技术主题  [2010.01]" Target="frmContent" Href="../searchservlet?query=C12S99/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12S99/00"/>
+</Root>

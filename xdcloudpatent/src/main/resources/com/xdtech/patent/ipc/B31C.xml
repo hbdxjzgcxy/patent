@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="B31C1/00 通过与缠绕轴胎的中心线垂直地送进材料成型装置或纸筒" Target="frmContent" Href="../searchservlet?query=B31C1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B31C1/00">
+    <TreeNode Title="B31C1/02 #所用的有附加轴胎的机器" Target="frmContent" Href="../searchservlet?query=B31C1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B31C1/02"/>
+    <TreeNode Title="B31C1/04 #并使管端成型为容器的底" Target="frmContent" Href="../searchservlet?query=B31C1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B31C1/04"/>
+    <TreeNode Title="B31C1/06 #并向管端嵌入一个底形成容器" Target="frmContent" Href="../searchservlet?query=B31C1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B31C1/06"/>
+    <TreeNode Title="B31C1/08 #不包含在其他类目中的所用机器的辅助装置" Target="frmContent" Href="../searchservlet?query=B31C1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B31C1/08"/>
+  </TreeNode>
+  <TreeNode Title="B31C3/00 通过与缠绕轴胎的中心线倾斜送进材料成型纸管或纸筒" Target="frmContent" Href="../searchservlet?query=B31C3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B31C3/00">
+    <TreeNode Title="B31C3/02 #并向管端嵌入一个底形成容器" Target="frmContent" Href="../searchservlet?query=B31C3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B31C3/02"/>
+    <TreeNode Title="B31C3/04 #接合缝加工" Target="frmContent" Href="../searchservlet?query=B31C3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B31C3/04"/>
+  </TreeNode>
+  <TreeNode Title="B31C5/00 无轴胎成型纸管或纸筒" Target="frmContent" Href="../searchservlet?query=B31C5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B31C5/00"/>
+  <TreeNode Title="B31C7/00 用缠绕法成型锥形纸制品(半成品的绕制入B31B)" Target="frmContent" Href="../searchservlet?query=B31C7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B31C7/00">
+    <TreeNode Title="B31C7/02 #成型截锥体" Target="frmContent" Href="../searchservlet?query=B31C7/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B31C7/02">
+      <TreeNode Title="B31C7/04 ##在两个或多个轴胎上" Target="frmContent" Href="../searchservlet?query=B31C7/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B31C7/04">
+        <TreeNode Title="B31C7/06 ###并在锥体一端嵌入一个底形成容器" Target="frmContent" Href="../searchservlet?query=B31C7/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B31C7/06"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="B31C7/08 #成型尖锥体" Target="frmContent" Href="../searchservlet?query=B31C7/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B31C7/08">
+      <TreeNode Title="B31C7/10 ##在两个或多个轴胎上" Target="frmContent" Href="../searchservlet?query=B31C7/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B31C7/10"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="B31C9/00 用缠绕分开的卷筒纸的方法同时成型圆柱体和圆锥体，如成型瓶子(半成品的绕制入B31B)" Target="frmContent" Href="../searchservlet?query=B31C9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B31C9/00"/>
+  <TreeNode Title="B31C11/00 与其他机械结合的纸绕制机械" Target="frmContent" Href="../searchservlet?query=B31C11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B31C11/00">
+    <TreeNode Title="B31C11/02 #用于附加成型纸品" Target="frmContent" Href="../searchservlet?query=B31C11/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B31C11/02"/>
+    <TreeNode Title="B31C11/04 #用于在绕制期间用涂覆物质浸渍" Target="frmContent" Href="../searchservlet?query=B31C11/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B31C11/04"/>
+    <TreeNode Title="B31C11/06 #用于干燥绕制和浸渍的纸品" Target="frmContent" Href="../searchservlet?query=B31C11/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B31C11/06"/>
+  </TreeNode>
+  <TreeNode Title="B31C99/00 本小类其他各组中不包括的技术主题[2009.01]" Target="frmContent" Href="../searchservlet?query=B31C99/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B31C99/00"/>
+</Root>

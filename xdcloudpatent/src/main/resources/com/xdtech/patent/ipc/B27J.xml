@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="B27J1/00 藤茎或类似材料的机械加工(编织入D03D)" Target="frmContent" Href="../searchservlet?query=B27J1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B27J1/00">
+    <TreeNode Title="B27J1/02 #编结，如篮筐制作(一般编结入D04C)" Target="frmContent" Href="../searchservlet?query=B27J1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B27J1/02"/>
+  </TreeNode>
+  <TreeNode Title="B27J3/00 柳条杆剥皮(树干或原木剥皮入B27L 1/00)" Target="frmContent" Href="../searchservlet?query=B27J3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B27J3/00"/>
+  <TreeNode Title="B27J5/00 软木的机械加工(用干燥方法加工软木碎粒或纤维构成的物品入B27N)" Target="frmContent" Href="../searchservlet?query=B27J5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B27J5/00"/>
+  <TreeNode Title="B27J7/00 不包含在其他类目中的树木或植物材料的机械加工" Target="frmContent" Href="../searchservlet?query=B27J7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="B27J7/00"/>
+</Root>

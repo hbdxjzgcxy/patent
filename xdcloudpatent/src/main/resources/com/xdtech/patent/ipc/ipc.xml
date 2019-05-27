@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="A 人类生活必需" NodeXMLSrc="A.xml"/>
+  <TreeNode Title="B 作业；运输" NodeXMLSrc="B.xml"/>
+  <TreeNode Title="C 化学；冶金" NodeXMLSrc="C.xml"/>
+  <TreeNode Title="D 纺织；造纸" NodeXMLSrc="D.xml"/>
+  <TreeNode Title="E 固定建筑物" NodeXMLSrc="E.xml"/>
+  <TreeNode Title="F 机械工程；照明；加热；武器；爆破" NodeXMLSrc="F.xml"/>
+  <TreeNode Title="G 物理" NodeXMLSrc="G.xml"/>
+  <TreeNode Title="H 电学" NodeXMLSrc="H.xml"/>
+</Root>

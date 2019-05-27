@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="C12G1/00 葡萄酒或起泡葡萄酒的制备" Target="frmContent" Href="../searchservlet?query=C12G1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12G1/00">
+    <TreeNode Title="C12G1/02 #从葡萄制备葡萄汁；葡萄汁的处理或发酵" Target="frmContent" Href="../searchservlet?query=C12G1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12G1/02">
+      <TreeNode Title="C12G1/022 ##发酵；微生物或酶处理[6]" Target="frmContent" Href="../searchservlet?query=C12G1/022&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12G1/022">
+        <TreeNode Title="C12G1/024 ###在卧式安放的圆筒形容器中(C12G 1/026优先)[6]" Target="frmContent" Href="../searchservlet?query=C12G1/024&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12G1/024"/>
+        <TreeNode Title="C12G1/026 ###在带有用于混合内含物的可移动设备的容器中[6]" Target="frmContent" Href="../searchservlet?query=C12G1/026&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12G1/026"/>
+        <TreeNode Title="C12G1/028 ###对葡萄或葡萄汁进行热处理[6]" Target="frmContent" Href="../searchservlet?query=C12G1/028&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12G1/028"/>
+        <TreeNode Title="C12G1/032 ###葡萄汁的重复环流，以进行萃取(pompage)[6]" Target="frmContent" Href="../searchservlet?query=C12G1/032&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12G1/032"/>
+        <TreeNode Title="C12G1/036 ###用家用葡萄酒制备容器[6]" Target="frmContent" Href="../searchservlet?query=C12G1/036&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12G1/036"/>
+      </TreeNode>
+      <TreeNode Title="C12G1/04 ##葡萄汁的亚硫酸处理；脱亚硫酸" Target="frmContent" Href="../searchservlet?query=C12G1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12G1/04"/>
+    </TreeNode>
+    <TreeNode Title="C12G1/06 #起泡葡萄酒，如香槟酒的制备；葡萄酒中充满二氧化碳" Target="frmContent" Href="../searchservlet?query=C12G1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12G1/06">
+      <TreeNode Title="C12G1/067 ##连续方法[6]" Target="frmContent" Href="../searchservlet?query=C12G1/067&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12G1/067"/>
+      <TreeNode Title="C12G1/073 ##用固定化酵母进行发酵[6]" Target="frmContent" Href="../searchservlet?query=C12G1/073&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12G1/073"/>
+    </TreeNode>
+    <TreeNode Title="C12G1/08 #酵母的去除(“排去酒泥”)" Target="frmContent" Href="../searchservlet?query=C12G1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12G1/08">
+      <TreeNode Title="C12G1/09 ##搅动、离心或瓶子的振动[6]" Target="frmContent" Href="../searchservlet?query=C12G1/09&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12G1/09"/>
+    </TreeNode>
+    <TreeNode Title="C12G1/10 #葡萄酒的脱酸化[6]" Target="frmContent" Href="../searchservlet?query=C12G1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12G1/10"/>
+    <TreeNode Title="C12G1/12 #防止酒石沉淀的方法[6]" Target="frmContent" Href="../searchservlet?query=C12G1/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12G1/12"/>
+  </TreeNode>
+  <TreeNode Title="C12G3/00 其他酒精饮料的制备" Target="frmContent" Href="../searchservlet?query=C12G3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12G3/00">
+    <TreeNode Title="C12G3/02 #用直接发酵法" Target="frmContent" Href="../searchservlet?query=C12G3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12G3/02"/>
+    <TreeNode Title="C12G3/04 #用混合法，如配制酒" Target="frmContent" Href="../searchservlet?query=C12G3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12G3/04">
+      <TreeNode Title="C12G3/06 ##加调味配料" Target="frmContent" Href="../searchservlet?query=C12G3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12G3/06">
+        <TreeNode Title="C12G3/07 ###用木材或木材提取物作为香料；所使用木材的预处理[6]" Target="frmContent" Href="../searchservlet?query=C12G3/07&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12G3/07"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="C12G3/08 #用其他方法来改变发酵溶液的组成(从酒精饮料中去除酒精以获得无醇或低醇饮料入C12H 3/00)" Target="frmContent" Href="../searchservlet?query=C12G3/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12G3/08">
+      <TreeNode Title="C12G3/10 ##增加酒精含量" Target="frmContent" Href="../searchservlet?query=C12G3/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12G3/10">
+        <TreeNode Title="C12G3/12 ###用蒸馏法(一般蒸馏方法或设备入B01D 3/00)" Target="frmContent" Href="../searchservlet?query=C12G3/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12G3/12"/>
+        <TreeNode Title="C12G3/14 ###用冷冻法[6]" Target="frmContent" Href="../searchservlet?query=C12G3/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C12G3/14"/>
+      </TreeNode>
+    </TreeNode>
+  </TreeNode>
+</Root>

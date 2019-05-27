@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="C09F1/00 天然树脂的取得，精制或化学改性，如含油树脂" Target="frmContent" Href="../searchservlet?query=C09F1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09F1/00">
+    <TreeNode Title="C09F1/02 #精制" Target="frmContent" Href="../searchservlet?query=C09F1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09F1/02"/>
+    <TreeNode Title="C09F1/04 #化学改性，如酯化" Target="frmContent" Href="../searchservlet?query=C09F1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09F1/04"/>
+  </TreeNode>
+  <TreeNode Title="C09F3/00 获得松节油" Target="frmContent" Href="../searchservlet?query=C09F3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09F3/00">
+    <TreeNode Title="C09F3/02 #作为纸浆工艺过程中的一种副产物" Target="frmContent" Href="../searchservlet?query=C09F3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09F3/02"/>
+  </TreeNode>
+  <TreeNode Title="C09F5/00 获得干性油" Target="frmContent" Href="../searchservlet?query=C09F5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09F5/00">
+    <TreeNode Title="C09F5/02 #从天然资源" Target="frmContent" Href="../searchservlet?query=C09F5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09F5/02">
+      <TreeNode Title="C09F5/04 ##从槚如坚果" Target="frmContent" Href="../searchservlet?query=C09F5/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09F5/04"/>
+    </TreeNode>
+    <TreeNode Title="C09F5/06 #用羟基化的脂肪酸或油的脱水" Target="frmContent" Href="../searchservlet?query=C09F5/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09F5/06"/>
+    <TreeNode Title="C09F5/08 #用脂肪酸的酯化" Target="frmContent" Href="../searchservlet?query=C09F5/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09F5/08"/>
+    <TreeNode Title="C09F5/10 #精制" Target="frmContent" Href="../searchservlet?query=C09F5/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09F5/10">
+      <TreeNode Title="C09F5/12 ##用蒸馏法" Target="frmContent" Href="../searchservlet?query=C09F5/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09F5/12"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="C09F7/00 干性油的化学改性(油膏入C08H)" Target="frmContent" Href="../searchservlet?query=C09F7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09F7/00">
+    <TreeNode Title="C09F7/02 #用氧化" Target="frmContent" Href="../searchservlet?query=C09F7/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09F7/02"/>
+    <TreeNode Title="C09F7/04 #用无声放电处理" Target="frmContent" Href="../searchservlet?query=C09F7/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09F7/04"/>
+    <TreeNode Title="C09F7/06 #用聚合" Target="frmContent" Href="../searchservlet?query=C09F7/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09F7/06"/>
+    <TreeNode Title="C09F7/08 #用异构化" Target="frmContent" Href="../searchservlet?query=C09F7/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09F7/08"/>
+    <TreeNode Title="C09F7/10 #用再酯化" Target="frmContent" Href="../searchservlet?query=C09F7/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09F7/10"/>
+    <TreeNode Title="C09F7/12 #所用设备" Target="frmContent" Href="../searchservlet?query=C09F7/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09F7/12"/>
+  </TreeNode>
+  <TreeNode Title="C09F9/00 用作催干剂(干料)的化合物" Target="frmContent" Href="../searchservlet?query=C09F9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09F9/00"/>
+  <TreeNode Title="C09F11/00 虫胶清漆的制备" Target="frmContent" Href="../searchservlet?query=C09F11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="C09F11/00"/>
+</Root>

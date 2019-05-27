@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="G06K1/00 以数字方式标记记录载体的方法或装置(解译的入G06K 3/02)" Target="frmContent" Href="../searchservlet?query=G06K1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06K1/00">
+    <TreeNode Title="G06K1/02 #用穿孔法的(一般穿孔入B26F)" Target="frmContent" Href="../searchservlet?query=G06K1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06K1/02">
+      <TreeNode Title="G06K1/04 ##在穿孔的记录载体上，通过读出标记进行控制的(记录载体的读出入G06K 7/00)" Target="frmContent" Href="../searchservlet?query=G06K1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06K1/04"/>
+      <TreeNode Title="G06K1/05 ##高速穿孔，例如，用电子计算机控制的" Target="frmContent" Href="../searchservlet?query=G06K1/05&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06K1/05"/>
+      <TreeNode Title="G06K1/06 ##手动控制的设备" Target="frmContent" Href="../searchservlet?query=G06K1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06K1/06">
+        <TreeNode Title="G06K1/08 ###卡片穿孔" Target="frmContent" Href="../searchservlet?query=G06K1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06K1/08"/>
+        <TreeNode Title="G06K1/10 ###纸带穿孔(专门用途的穿孔，见有关的小类，例如，数字信息的传输入H04L)" Target="frmContent" Href="../searchservlet?query=G06K1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06K1/10"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="G06K1/12 #除穿孔以外的(一般打印入B41，例如，B41J)" Target="frmContent" Href="../searchservlet?query=G06K1/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06K1/12"/>
+    <TreeNode Title="G06K1/14 #通过从同类或不同类记录载体转移数据的" Target="frmContent" Href="../searchservlet?query=G06K1/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06K1/14">
+      <TreeNode Title="G06K1/16 ##不用代码表示从一穿孔卡片到一个或多个穿孔卡片的数据再制造，即复制" Target="frmContent" Href="../searchservlet?query=G06K1/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06K1/16"/>
+      <TreeNode Title="G06K1/18 ##从一种记录载体到另一种记录载体上转移数据，例如，从磁带到穿孔卡片" Target="frmContent" Href="../searchservlet?query=G06K1/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06K1/18"/>
+    </TreeNode>
+    <TreeNode Title="G06K1/20 #记录载体和数据打印输出同时发生的标记，例如，打印—穿孔" Target="frmContent" Href="../searchservlet?query=G06K1/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06K1/20">
+      <TreeNode Title="G06K1/22 ##在不同的记录载体上，例如，在不同类型的记录载体上，同时发生的标记和打印" Target="frmContent" Href="../searchservlet?query=G06K1/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06K1/22"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="G06K3/00 打印来自记录载体上的字母数字或其他字符形式的数据的方法或装置，例如，来自磁带上的数据解译、打印输出" Target="frmContent" Href="../searchservlet?query=G06K3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06K3/00">
+    <TreeNode Title="G06K3/02 #将在一记录载体上的标记编译成为该同一记录载体上的打印数据，即解译" Target="frmContent" Href="../searchservlet?query=G06K3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06K3/02"/>
+  </TreeNode>
+  <TreeNode Title="G06K5/00 检验在记录载体上标记正确性的方法或装置；纵列检测设备" Target="frmContent" Href="../searchservlet?query=G06K5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06K5/00">
+    <TreeNode Title="G06K5/02 #形成部分标记动作的检验" Target="frmContent" Href="../searchservlet?query=G06K5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06K5/02"/>
+    <TreeNode Title="G06K5/04 #标记对准的检验" Target="frmContent" Href="../searchservlet?query=G06K5/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06K5/04"/>
+  </TreeNode>
+  <TreeNode Title="G06K7/00 读出记录载体的方法或装置(G06K 9/00优先)" Target="frmContent" Href="../searchservlet?query=G06K7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06K7/00">
+    <TreeNode Title="G06K7/01 #细目" Target="frmContent" Href="../searchservlet?query=G06K7/01&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06K7/01">
+      <TreeNode Title="G06K7/015 ##读出装置相对于记录载体的对准或中心校正(一般的入G11B)" Target="frmContent" Href="../searchservlet?query=G06K7/015&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06K7/015"/>
+      <TreeNode Title="G06K7/016 ##读出过程的同步(一般的入G11B)" Target="frmContent" Href="../searchservlet?query=G06K7/016&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06K7/016"/>
+    </TreeNode>
+    <TreeNode Title="G06K7/02 #采用气动或液压方法的，例如，用压缩空气穿孔的读出；借助于声学装置的" Target="frmContent" Href="../searchservlet?query=G06K7/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06K7/02"/>
+    <TreeNode Title="G06K7/04 #采用机械装置的，例如，用控制电接触点的插头" Target="frmContent" Href="../searchservlet?query=G06K7/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06K7/04"/>
+    <TreeNode Title="G06K7/06 #采用当有或无标记时，电流导通装置的，例如，导电标记用的接触电刷" Target="frmContent" Href="../searchservlet?query=G06K7/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06K7/06"/>
+    <TreeNode Title="G06K7/08 #采用检测静电或磁场变化的装置的，例如，检测电极间电容的变化" Target="frmContent" Href="../searchservlet?query=G06K7/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06K7/08"/>
+    <TreeNode Title="G06K7/10 #采用电磁辐射的，例如，光学读出；应用微粒子辐射" Target="frmContent" Href="../searchservlet?query=G06K7/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06K7/10">
+      <TreeNode Title="G06K7/12 ##应用选择波长的，例如，读出红标记而略去蓝标记" Target="frmContent" Href="../searchservlet?query=G06K7/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06K7/12"/>
+      <TreeNode Title="G06K7/14 ##应用无波长选择的光，例如，读出反射的白光" Target="frmContent" Href="../searchservlet?query=G06K7/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06K7/14"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="G06K9/00 用于阅读或识别印刷或书写字符或者用于识别图形，例如，指纹的方法或装置(核粒子踪迹的处理或分析入G01T 5/02；测试纸币或类似的有价值的纸上的图形入G07D 7/20；语音识别入G10L 15/00)[1，7]" Target="frmContent" Href="../searchservlet?query=G06K9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06K9/00">
+    <TreeNode Title="G06K9/03 #错误的检测或校正，例如，用重复扫描图形的方法[3]" Target="frmContent" Href="../searchservlet?query=G06K9/03&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06K9/03"/>
+    <TreeNode Title="G06K9/18 #应用具有附加代码标记或含有代码标记的打印字符的，例如，由不同形状的各个笔画组成的，而且每个笔画表示不同的代码值的字符" Target="frmContent" Href="../searchservlet?query=G06K9/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06K9/18"/>
+    <TreeNode Title="G06K9/20 #图像捕获[3]" Target="frmContent" Href="../searchservlet?query=G06K9/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06K9/20">
+      <TreeNode Title="G06K9/22 ##应用手持仪器的[3]" Target="frmContent" Href="../searchservlet?query=G06K9/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06K9/22">
+        <TreeNode Title="G06K9/24 ###仪器的结构[3]" Target="frmContent" Href="../searchservlet?query=G06K9/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06K9/24"/>
+      </TreeNode>
+      <TreeNode Title="G06K9/26 ##应用在图像上方移动的槽缝的[3]" Target="frmContent" Href="../searchservlet?query=G06K9/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06K9/26"/>
+      <TreeNode Title="G06K9/28 ##在各预定点上应用离散的读出元件的[3]" Target="frmContent" Href="../searchservlet?query=G06K9/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06K9/28"/>
+      <TreeNode Title="G06K9/30 ##应用自动曲线描绘装置的[3]" Target="frmContent" Href="../searchservlet?query=G06K9/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06K9/30"/>
+      <TreeNode Title="G06K9/32 ##图像拾取或图像分布图的对准或中心校正[3]" Target="frmContent" Href="../searchservlet?query=G06K9/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06K9/32"/>
+      <TreeNode Title="G06K9/34 ##在图像分布图中，相接触的或相重叠的图形的分割[3]" Target="frmContent" Href="../searchservlet?query=G06K9/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06K9/34"/>
+    </TreeNode>
+    <TreeNode Title="G06K9/36 #图像预处理，即无须判定关于图像的同一性而进行的图像信息处理(图像数据处理或产生，一般入G06T)[3]" Target="frmContent" Href="../searchservlet?query=G06K9/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06K9/36">
+      <TreeNode Title="G06K9/38 ##模拟图像信号的量子化[3]" Target="frmContent" Href="../searchservlet?query=G06K9/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06K9/38"/>
+      <TreeNode Title="G06K9/40 ##噪声的滤除[3]" Target="frmContent" Href="../searchservlet?query=G06K9/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06K9/40"/>
+      <TreeNode Title="G06K9/42 ##图形尺寸的规范化[3]" Target="frmContent" Href="../searchservlet?query=G06K9/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06K9/42"/>
+      <TreeNode Title="G06K9/44 ##图形的修匀或减薄[3]" Target="frmContent" Href="../searchservlet?query=G06K9/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06K9/44"/>
+      <TreeNode Title="G06K9/46 ##图像特征或特性的抽取[3]" Target="frmContent" Href="../searchservlet?query=G06K9/46&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06K9/46">
+        <TreeNode Title="G06K9/48 ###采用对图形的轮廓进行编码的方法[3]" Target="frmContent" Href="../searchservlet?query=G06K9/48&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06K9/48"/>
+        <TreeNode Title="G06K9/50 ###采用对横断图形的断片进行分析的方法[3]" Target="frmContent" Href="../searchservlet?query=G06K9/50&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06K9/50"/>
+        <TreeNode Title="G06K9/52 ###从整体图像中导出数学或几何特性的[3]" Target="frmContent" Href="../searchservlet?query=G06K9/52&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06K9/52"/>
+      </TreeNode>
+      <TreeNode Title="G06K9/54 ##多种预处理作用的组合[3]" Target="frmContent" Href="../searchservlet?query=G06K9/54&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06K9/54">
+        <TreeNode Title="G06K9/56 ###应用局部算符的，即在基本图像点上，根据紧绕该点的环境条件进行运算的方法[3]" Target="frmContent" Href="../searchservlet?query=G06K9/56&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06K9/56"/>
+      </TreeNode>
+      <TreeNode Title="G06K9/58 ##采用光学方法的[3]" Target="frmContent" Href="../searchservlet?query=G06K9/58&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06K9/58"/>
+    </TreeNode>
+    <TreeNode Title="G06K9/60 #图像捕获和多种预处理作用的组合[3]" Target="frmContent" Href="../searchservlet?query=G06K9/60&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06K9/60"/>
+    <TreeNode Title="G06K9/62 #应用电子设备进行识别的方法或装置(学习机入G06F 15/18；数字相关性法入G06F 17/15；模拟相关性入G06G 7/19)[3]" Target="frmContent" Href="../searchservlet?query=G06K9/62&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06K9/62">
+      <TreeNode Title="G06K9/64 ##应用带有许多基准的多个图像信号的同时比较或相关的，例如，电阻矩阵[3]" Target="frmContent" Href="../searchservlet?query=G06K9/64&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06K9/64">
+        <TreeNode Title="G06K9/66 ###这些基准通过适宜的方法是能够进行调节的，例如，学习[3]" Target="frmContent" Href="../searchservlet?query=G06K9/66&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06K9/66"/>
+      </TreeNode>
+      <TreeNode Title="G06K9/68 ##应用带有许多基准的多个图像信号的顺序比较的，例如，可寻址存储器[3]" Target="frmContent" Href="../searchservlet?query=G06K9/68&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06K9/68">
+        <TreeNode Title="G06K9/70 ###下一个基准的选取决定于前一个比较结果的[3]" Target="frmContent" Href="../searchservlet?query=G06K9/70&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06K9/70"/>
+      </TreeNode>
+      <TreeNode Title="G06K9/72 ##应用基于一系列连续模式的临时识别的同一性进行上下文分析的，例如，对字的分析[3]" Target="frmContent" Href="../searchservlet?query=G06K9/72&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06K9/72"/>
+    </TreeNode>
+    <TreeNode Title="G06K9/74 #应用光学基准掩膜进行识别的装置(光学模拟相关的入G06E 3/00)[3]" Target="frmContent" Href="../searchservlet?query=G06K9/74&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06K9/74">
+      <TreeNode Title="G06K9/76 ##应用全息光掩膜的[3]" Target="frmContent" Href="../searchservlet?query=G06K9/76&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06K9/76"/>
+    </TreeNode>
+    <TreeNode Title="G06K9/78 #图像捕获和多种识别功能的组合[3]" Target="frmContent" Href="../searchservlet?query=G06K9/78&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06K9/78"/>
+    <TreeNode Title="G06K9/80 #图像预处理和多种识别功能的组合[3]" Target="frmContent" Href="../searchservlet?query=G06K9/80&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06K9/80">
+      <TreeNode Title="G06K9/82 ##在一个或两个功能中应用光学方法的[3]" Target="frmContent" Href="../searchservlet?query=G06K9/82&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06K9/82"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="G06K11/00 用于图表阅读或者将诸如力或现状态的机械参量的图形转换为电信号的方法或装置(与字符或图形识别相结合的入G06K 9/00；机床上复制设备的探测器入B23Q 35/00；测量面积的装置入G01B；测量力的入G01L；专用于计算机的输入设备接口入G06F 3/00；用于相对于预定参照系的目标位置传送系统，例如，电传自动绘图系统入G08C 21/00)[2]" Target="frmContent" Href="../searchservlet?query=G06K11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06K11/00">
+    <TreeNode Title="G06K11/02 #自动曲线描绘仪" Target="frmContent" Href="../searchservlet?query=G06K11/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06K11/02">
+      <TreeNode Title="G06K11/04 ##应用辅助扫描图形的[2]" Target="frmContent" Href="../searchservlet?query=G06K11/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06K11/04"/>
+    </TreeNode>
+    <TreeNode Title="G06K11/06 #用于将手操作的书写或描绘构件的位置转换为电信号的装置[3]" Target="frmContent" Href="../searchservlet?query=G06K11/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06K11/06"/>
+  </TreeNode>
+  <TreeNode Title="G06K13/00 将记录载体从一处到另一处的传送，例如，从叠式存储器到穿孔机(一般运输设备入B65G)" Target="frmContent" Href="../searchservlet?query=G06K13/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06K13/00">
+    <TreeNode Title="G06K13/02 #纵向和横向尺度相差不多的记录载体，例如，穿孔卡片" Target="frmContent" Href="../searchservlet?query=G06K13/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06K13/02">
+      <TreeNode Title="G06K13/04 ##零部件，例如，卡片分类装置的拆叶" Target="frmContent" Href="../searchservlet?query=G06K13/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06K13/04">
+        <TreeNode Title="G06K13/05 ###绞盘；挟持滚筒" Target="frmContent" Href="../searchservlet?query=G06K13/05&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06K13/05"/>
+      </TreeNode>
+      <TreeNode Title="G06K13/06 ##卡片的制导；卡片传送机构正确运转的检验[2]" Target="frmContent" Href="../searchservlet?query=G06K13/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06K13/06">
+        <TreeNode Title="G06K13/063 ###卡片的排列[2]" Target="frmContent" Href="../searchservlet?query=G06K13/063&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06K13/063"/>
+        <TreeNode Title="G06K13/067 ###卡片的有、无、正确位置或移动状况的检验[2]" Target="frmContent" Href="../searchservlet?query=G06K13/067&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06K13/067"/>
+      </TreeNode>
+      <TreeNode Title="G06K13/07 ##卡片在各位置之间的传送" Target="frmContent" Href="../searchservlet?query=G06K13/07&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06K13/07">
+        <TreeNode Title="G06K13/073 ###有连续移动的[2]" Target="frmContent" Href="../searchservlet?query=G06K13/073&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06K13/073"/>
+        <TreeNode Title="G06K13/077 ###有断续移动的；制动或停动[2]" Target="frmContent" Href="../searchservlet?query=G06K13/077&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06K13/077"/>
+      </TreeNode>
+      <TreeNode Title="G06K13/08 ##卡片的馈送或卸出" Target="frmContent" Href="../searchservlet?query=G06K13/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06K13/08">
+        <TreeNode Title="G06K13/10 ###从存卡匣到传送装置" Target="frmContent" Href="../searchservlet?query=G06K13/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06K13/10">
+          <TreeNode Title="G06K13/103 ####应用机械装置的[2]" Target="frmContent" Href="../searchservlet?query=G06K13/103&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06K13/103"/>
+          <TreeNode Title="G06K13/107 ####应用气动装置的[2]" Target="frmContent" Href="../searchservlet?query=G06K13/107&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06K13/107"/>
+        </TreeNode>
+        <TreeNode Title="G06K13/12 ###从传送装置到存卡匣" Target="frmContent" Href="../searchservlet?query=G06K13/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06K13/12"/>
+        <TreeNode Title="G06K13/14 ###卡片盒，例如，口袋、储卡机(一般卡片盒入B42F)" Target="frmContent" Href="../searchservlet?query=G06K13/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06K13/14"/>
+      </TreeNode>
+      <TreeNode Title="G06K13/16 ##软纸的处理，例如，支票" Target="frmContent" Href="../searchservlet?query=G06K13/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06K13/16"/>
+    </TreeNode>
+    <TreeNode Title="G06K13/18 #纵向伸展的记录载体，例如，穿孔纸带(除数据处理之外的有关重要零部件入G11B；磁带的驱动入G11B 15/00)" Target="frmContent" Href="../searchservlet?query=G06K13/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06K13/18">
+      <TreeNode Title="G06K13/20 ##零部件" Target="frmContent" Href="../searchservlet?query=G06K13/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06K13/20">
+        <TreeNode Title="G06K13/22 ###绞盘；挟持滚筒" Target="frmContent" Href="../searchservlet?query=G06K13/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06K13/22"/>
+      </TreeNode>
+      <TreeNode Title="G06K13/24 ##记录载体的制导；记录载体末端的识别" Target="frmContent" Href="../searchservlet?query=G06K13/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06K13/24"/>
+      <TreeNode Title="G06K13/26 ##记录载体的包卷或拆卷；记录载体的驱动[2]" Target="frmContent" Href="../searchservlet?query=G06K13/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06K13/26">
+        <TreeNode Title="G06K13/28 ###连续地[2]" Target="frmContent" Href="../searchservlet?query=G06K13/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06K13/28"/>
+        <TreeNode Title="G06K13/30 ###断续地[2]" Target="frmContent" Href="../searchservlet?query=G06K13/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06K13/30"/>
+      </TreeNode>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="G06K15/00 产生输出数据的永久直观显示的装置[3]" Target="frmContent" Href="../searchservlet?query=G06K15/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06K15/00">
+    <TreeNode Title="G06K15/02 #使用打印机(打印机本身入B41J)" Target="frmContent" Href="../searchservlet?query=G06K15/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06K15/02">
+      <TreeNode Title="G06K15/04 ##借助于齿条型打印机的" Target="frmContent" Href="../searchservlet?query=G06K15/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06K15/04"/>
+      <TreeNode Title="G06K15/06 ##借助于打印字轮式打印机的" Target="frmContent" Href="../searchservlet?query=G06K15/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06K15/06">
+        <TreeNode Title="G06K15/07 ###借助于连续旋转打印字轮式打印机的，例如，旋转滚筒式打印机[2]" Target="frmContent" Href="../searchservlet?query=G06K15/07&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06K15/07"/>
+      </TreeNode>
+      <TreeNode Title="G06K15/08 ##用沿着打印行方向移动的活铅字作输送式打印的，例如，链式打印机" Target="frmContent" Href="../searchservlet?query=G06K15/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06K15/08"/>
+      <TreeNode Title="G06K15/10 ##使用点阵式打印机" Target="frmContent" Href="../searchservlet?query=G06K15/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06K15/10"/>
+      <TreeNode Title="G06K15/12 ##用照相印字的" Target="frmContent" Href="../searchservlet?query=G06K15/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06K15/12"/>
+      <TreeNode Title="G06K15/14 ##用电记录术印字的，例如，静电复印的；用磁刻术印字的" Target="frmContent" Href="../searchservlet?query=G06K15/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06K15/14"/>
+      <TreeNode Title="G06K15/16 ##纸张或表格的馈送装置" Target="frmContent" Href="../searchservlet?query=G06K15/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06K15/16"/>
+    </TreeNode>
+    <TreeNode Title="G06K15/22 #使用绘图机(绘图机本身入B43L 13/00)[3]" Target="frmContent" Href="../searchservlet?query=G06K15/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06K15/22"/>
+  </TreeNode>
+  <TreeNode Title="G06K17/00 在包括G06K 1/00至G06K 15/00两个或多个大组中的设备之间实现协同作业的方法或装置，例如，结合有传送和读数操作的自动卡片文件" Target="frmContent" Href="../searchservlet?query=G06K17/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06K17/00"/>
+  <TreeNode Title="G06K19/00 连同机器一起使用的记录载体，并且至少其中一部分设计带有数字标记(专用于控制特定机器的记录载体，见该机器所属的适当小类，例如，B23Q，D03C，G10F，H04L；表格印制入B41；文件卡片入B42F 19/00；一般记录载体入G11)" Target="frmContent" Href="../searchservlet?query=G06K19/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06K19/00">
+    <TreeNode Title="G06K19/02 #按所选用的材料区分的，例如，通过机器运输时避免磨损的材料" Target="frmContent" Href="../searchservlet?query=G06K19/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06K19/02"/>
+    <TreeNode Title="G06K19/04 #按形状特征区分的" Target="frmContent" Href="../searchservlet?query=G06K19/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06K19/04"/>
+    <TreeNode Title="G06K19/06 #按数字标记的种类区分的，例如，形状、性质、代码" Target="frmContent" Href="../searchservlet?query=G06K19/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06K19/06">
+      <TreeNode Title="G06K19/063 ##载体被穿孔或开槽，例如，具有拉长槽的载体[5]" Target="frmContent" Href="../searchservlet?query=G06K19/063&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06K19/063"/>
+      <TreeNode Title="G06K19/067 ##带有导电标记、印刷电路或半导体电路元件的记录载体，例如，信用卡或识别卡(采用编码卡授权来自电话机的呼叫入H04M 1/675)[5]" Target="frmContent" Href="../searchservlet?query=G06K19/067&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06K19/067">
+        <TreeNode Title="G06K19/07 ###带有集成电路芯片[5]" Target="frmContent" Href="../searchservlet?query=G06K19/07&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06K19/07">
+          <TreeNode Title="G06K19/073 ####用于电路的特殊装置，例如，在存储器中用于保护的识别码(阻止计算机存储器越权使用的保护入G06F 12/14)[5]" Target="frmContent" Href="../searchservlet?query=G06K19/073&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06K19/073"/>
+          <TreeNode Title="G06K19/077 ####结构的细节，例如，在该载体中电路的装配[5]" Target="frmContent" Href="../searchservlet?query=G06K19/077&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06K19/077"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="G06K19/08 ##在同一记录载体上，应用不同种类的标记的，例如，一个标记用光学装置读出，而另一个要用磁性装置读出" Target="frmContent" Href="../searchservlet?query=G06K19/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06K19/08">
+        <TreeNode Title="G06K19/10 ###至少一种用于证明的标记，例如，信用卡或识别卡(在被它们启动的机构中，编码识别卡或信用卡的检验入G07F 7/12)[5]" Target="frmContent" Href="../searchservlet?query=G06K19/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06K19/10">
+          <TreeNode Title="G06K19/12 ####由磁性元件检测该标记[5]" Target="frmContent" Href="../searchservlet?query=G06K19/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06K19/12"/>
+          <TreeNode Title="G06K19/14 ####由辐射检测该标记[5]" Target="frmContent" Href="../searchservlet?query=G06K19/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06K19/14">
+            <TreeNode Title="G06K19/16 #####该标记带有全息图或衍射光栅[5]" Target="frmContent" Href="../searchservlet?query=G06K19/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06K19/16"/>
+          </TreeNode>
+          <TreeNode Title="G06K19/18 ####结构的细节[5]" Target="frmContent" Href="../searchservlet?query=G06K19/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06K19/18"/>
+        </TreeNode>
+      </TreeNode>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="G06K21/00 从为手工使用或机器处理而设计的穿孔卡片上检索信息(G06K 19/00优先)；这类卡片的处理装置，例如，标记或校正" Target="frmContent" Href="../searchservlet?query=G06K21/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06K21/00">
+    <TreeNode Title="G06K21/02 #其中标记的重合是机械指示的，例如，用指针指示" Target="frmContent" Href="../searchservlet?query=G06K21/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06K21/02"/>
+    <TreeNode Title="G06K21/04 #其中标记的重合是光学指示的，例如，一组卡片的同位穿孔系统" Target="frmContent" Href="../searchservlet?query=G06K21/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06K21/04"/>
+    <TreeNode Title="G06K21/06 #专用于情报检索卡片打孔或作其他标记用的设备或工具(用于打眼的一般工具入B26F)" Target="frmContent" Href="../searchservlet?query=G06K21/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06K21/06"/>
+    <TreeNode Title="G06K21/08 #用于穿孔或打孔时校正错误的仪表或工具[2]" Target="frmContent" Href="../searchservlet?query=G06K21/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G06K21/08"/>
+  </TreeNode>
+</Root>

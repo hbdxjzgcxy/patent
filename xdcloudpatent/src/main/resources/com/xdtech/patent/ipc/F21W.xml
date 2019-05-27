@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="F21W101/00 车辆上或其中的照明装置的用途或应用[7]" Target="frmContent" Href="../searchservlet?query=F21W101/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F21W101/00">
+    <TreeNode Title="F21W101/02 #用于陆地车辆[7]" Target="frmContent" Href="../searchservlet?query=F21W101/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F21W101/02">
+      <TreeNode Title="F21W101/023 ##用于自行车[7]" Target="frmContent" Href="../searchservlet?query=F21W101/023&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F21W101/023">
+        <TreeNode Title="F21W101/027 ###用于摩托车[7]" Target="frmContent" Href="../searchservlet?query=F21W101/027&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F21W101/027"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="F21W101/04 #用于水面船只[7]" Target="frmContent" Href="../searchservlet?query=F21W101/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F21W101/04"/>
+    <TreeNode Title="F21W101/06 #用于飞机[7]" Target="frmContent" Href="../searchservlet?query=F21W101/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F21W101/06"/>
+    <TreeNode Title="F21W101/08 #内部照明灯[7]" Target="frmContent" Href="../searchservlet?query=F21W101/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F21W101/08"/>
+    <TreeNode Title="F21W101/10 #前灯、聚光灯或雾灯[7]" Target="frmContent" Href="../searchservlet?query=F21W101/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F21W101/10"/>
+    <TreeNode Title="F21W101/12 #方向指示灯[7]" Target="frmContent" Href="../searchservlet?query=F21W101/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F21W101/12"/>
+    <TreeNode Title="F21W101/14 #尾灯或停车灯[7]" Target="frmContent" Href="../searchservlet?query=F21W101/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F21W101/14"/>
+  </TreeNode>
+  <TreeNode Title="F21W111/00 不包含在F21W 101/00组中的用于发信号、作标志或指示的照明装置或系统[7]" Target="frmContent" Href="../searchservlet?query=F21W111/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F21W111/00">
+    <TreeNode Title="F21W111/02 #用于大道或小路[7]" Target="frmContent" Href="../searchservlet?query=F21W111/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F21W111/02">
+      <TreeNode Title="F21W111/023 ##用于步行道路[7]" Target="frmContent" Href="../searchservlet?query=F21W111/023&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F21W111/023"/>
+      <TreeNode Title="F21W111/027 ##用于指示路缘、台阶或楼梯[7]" Target="frmContent" Href="../searchservlet?query=F21W111/027&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F21W111/027"/>
+    </TreeNode>
+    <TreeNode Title="F21W111/04 #用于航道[7]" Target="frmContent" Href="../searchservlet?query=F21W111/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F21W111/04">
+      <TreeNode Title="F21W111/043 ##用于灯塔或灯船[7]" Target="frmContent" Href="../searchservlet?query=F21W111/043&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F21W111/043"/>
+      <TreeNode Title="F21W111/047 ##用于浮标[7]" Target="frmContent" Href="../searchservlet?query=F21W111/047&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F21W111/047"/>
+    </TreeNode>
+    <TreeNode Title="F21W111/06 #用于飞机跑道或类似道路[7]" Target="frmContent" Href="../searchservlet?query=F21W111/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F21W111/06"/>
+    <TreeNode Title="F21W111/08 #用于操纵杆或栏杆[7]" Target="frmContent" Href="../searchservlet?query=F21W111/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F21W111/08"/>
+    <TreeNode Title="F21W111/10 #个人用途，例如手提[7]" Target="frmContent" Href="../searchservlet?query=F21W111/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F21W111/10"/>
+  </TreeNode>
+  <TreeNode Title="F21W121/00 用于装饰的照明装置或系统的用途或应用[7]" Target="frmContent" Href="../searchservlet?query=F21W121/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F21W121/00">
+    <TreeNode Title="F21W121/02 #用于喷泉[7]" Target="frmContent" Href="../searchservlet?query=F21W121/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F21W121/02"/>
+    <TreeNode Title="F21W121/04 #用于圣诞树[7]" Target="frmContent" Href="../searchservlet?query=F21W121/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F21W121/04"/>
+    <TreeNode Title="F21W121/06 #用于个人穿戴[7]" Target="frmContent" Href="../searchservlet?query=F21W121/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F21W121/06"/>
+  </TreeNode>
+  <TreeNode Title="F21W131/00 不包含在F21W 101/00至F21W 121/00组中的照明装置或系统的用途或应用[7]" Target="frmContent" Href="../searchservlet?query=F21W131/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F21W131/00">
+    <TreeNode Title="F21W131/10 #户外照明[7]" Target="frmContent" Href="../searchservlet?query=F21W131/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F21W131/10">
+      <TreeNode Title="F21W131/101 ##用于通道或类似道路，例如桥下[7]" Target="frmContent" Href="../searchservlet?query=F21W131/101&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F21W131/101"/>
+      <TreeNode Title="F21W131/103 ##用于大街或道路[7]" Target="frmContent" Href="../searchservlet?query=F21W131/103&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F21W131/103"/>
+      <TreeNode Title="F21W131/105 ##用于舞台或类似场合[7]" Target="frmContent" Href="../searchservlet?query=F21W131/105&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F21W131/105"/>
+      <TreeNode Title="F21W131/107 ##用于建筑物外墙[7]" Target="frmContent" Href="../searchservlet?query=F21W131/107&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F21W131/107"/>
+      <TreeNode Title="F21W131/109 ##用于花园[7]" Target="frmContent" Href="../searchservlet?query=F21W131/109&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F21W131/109"/>
+    </TreeNode>
+    <TreeNode Title="F21W131/20 #医用照明[7]" Target="frmContent" Href="../searchservlet?query=F21W131/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F21W131/20">
+      <TreeNode Title="F21W131/202 ##牙科用[7]" Target="frmContent" Href="../searchservlet?query=F21W131/202&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F21W131/202"/>
+      <TreeNode Title="F21W131/205 ##手术室用[7]" Target="frmContent" Href="../searchservlet?query=F21W131/205&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F21W131/205"/>
+      <TreeNode Title="F21W131/208 ##医院病房用[7]" Target="frmContent" Href="../searchservlet?query=F21W131/208&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F21W131/208"/>
+    </TreeNode>
+    <TreeNode Title="F21W131/30 #社区或个人用照明[7]" Target="frmContent" Href="../searchservlet?query=F21W131/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F21W131/30">
+      <TreeNode Title="F21W131/301 ##家具用[7]" Target="frmContent" Href="../searchservlet?query=F21W131/301&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F21W131/301"/>
+      <TreeNode Title="F21W131/302 ##镜用[7]" Target="frmContent" Href="../searchservlet?query=F21W131/302&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F21W131/302"/>
+      <TreeNode Title="F21W131/304 ##画用[7]" Target="frmContent" Href="../searchservlet?query=F21W131/304&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F21W131/304"/>
+      <TreeNode Title="F21W131/305 ##电冰箱用[7]" Target="frmContent" Href="../searchservlet?query=F21W131/305&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F21W131/305"/>
+      <TreeNode Title="F21W131/307 ##烤炉用[7]" Target="frmContent" Href="../searchservlet?query=F21W131/307&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F21W131/307"/>
+      <TreeNode Title="F21W131/308 ##鱼缸用[7]" Target="frmContent" Href="../searchservlet?query=F21W131/308&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F21W131/308"/>
+    </TreeNode>
+    <TreeNode Title="F21W131/40 #用于工业、商业、娱乐或军事的照明[7]" Target="frmContent" Href="../searchservlet?query=F21W131/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F21W131/40">
+      <TreeNode Title="F21W131/401 ##游泳池用[7]" Target="frmContent" Href="../searchservlet?query=F21W131/401&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F21W131/401"/>
+      <TreeNode Title="F21W131/402 ##工作地点用[7]" Target="frmContent" Href="../searchservlet?query=F21W131/402&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F21W131/402"/>
+      <TreeNode Title="F21W131/403 ##机器用[7]" Target="frmContent" Href="../searchservlet?query=F21W131/403&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F21W131/403">
+        <TreeNode Title="F21W131/4035 ###缝纫机用[7]" Target="frmContent" Href="../searchservlet?query=F21W131/4035&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F21W131/4035"/>
+      </TreeNode>
+      <TreeNode Title="F21W131/405 ##橱窗或陈列用[7]" Target="frmContent" Href="../searchservlet?query=F21W131/405&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F21W131/405"/>
+      <TreeNode Title="F21W131/406 ##歌剧院、舞台或电影摄影棚用[7]" Target="frmContent" Href="../searchservlet?query=F21W131/406&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F21W131/406"/>
+      <TreeNode Title="F21W131/407 ##室内剧场用[7]" Target="frmContent" Href="../searchservlet?query=F21W131/407&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F21W131/407"/>
+      <TreeNode Title="F21W131/409 ##炉或窑用[7]" Target="frmContent" Href="../searchservlet?query=F21W131/409&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F21W131/409"/>
+      <TreeNode Title="F21W131/411 ##用于检查中空结构的内部，例如容器、管子[7]" Target="frmContent" Href="../searchservlet?query=F21W131/411&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F21W131/411"/>
+    </TreeNode>
+  </TreeNode>
+</Root>

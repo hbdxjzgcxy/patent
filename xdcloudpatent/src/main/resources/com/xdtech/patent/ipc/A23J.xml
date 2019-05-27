@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="A23J1/00 提取食用蛋白质组合物；整批打蛋和分离蛋黄与蛋白[4]" Target="frmContent" Href="../searchservlet?query=A23J1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A23J1/00">
+    <TreeNode Title="A23J1/02 #从肉类" Target="frmContent" Href="../searchservlet?query=A23J1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A23J1/02"/>
+    <TreeNode Title="A23J1/04 #从鱼类或其他海洋动物" Target="frmContent" Href="../searchservlet?query=A23J1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A23J1/04"/>
+    <TreeNode Title="A23J1/06 #从血液[2]" Target="frmContent" Href="../searchservlet?query=A23J1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A23J1/06"/>
+    <TreeNode Title="A23J1/08 #从蛋类" Target="frmContent" Href="../searchservlet?query=A23J1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A23J1/08">
+      <TreeNode Title="A23J1/09 ##分离蛋黄与蛋白" Target="frmContent" Href="../searchservlet?query=A23J1/09&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A23J1/09"/>
+    </TreeNode>
+    <TreeNode Title="A23J1/10 #从毛发、羽毛、角、皮、皮革、骨等" Target="frmContent" Href="../searchservlet?query=A23J1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A23J1/10"/>
+    <TreeNode Title="A23J1/12 #从谷种、小麦、糠麸或废糖蜜" Target="frmContent" Href="../searchservlet?query=A23J1/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A23J1/12"/>
+    <TreeNode Title="A23J1/14 #从豆科或其他蔬菜种籽；从油饼或其他含油种籽" Target="frmContent" Href="../searchservlet?query=A23J1/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A23J1/14"/>
+    <TreeNode Title="A23J1/16 #从淀粉厂废水或类似废物" Target="frmContent" Href="../searchservlet?query=A23J1/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A23J1/16"/>
+    <TreeNode Title="A23J1/18 #从酵母" Target="frmContent" Href="../searchservlet?query=A23J1/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A23J1/18"/>
+    <TreeNode Title="A23J1/20 #从奶，例如酪蛋白(凝乳或干酪入A23C)；从乳清" Target="frmContent" Href="../searchservlet?query=A23J1/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A23J1/20">
+      <TreeNode Title="A23J1/22 ##干酪蛋白" Target="frmContent" Href="../searchservlet?query=A23J1/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A23J1/22"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="A23J3/00 食用蛋白质加工" Target="frmContent" Href="../searchservlet?query=A23J3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A23J3/00">
+    <TreeNode Title="A23J3/04 #动物蛋白质 [5]" Target="frmContent" Href="../searchservlet?query=A23J3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A23J3/04">
+      <TreeNode Title="A23J3/06 ##明胶 [5]" Target="frmContent" Href="../searchservlet?query=A23J3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A23J3/06"/>
+      <TreeNode Title="A23J3/08 ##乳蛋白质 [5]" Target="frmContent" Href="../searchservlet?query=A23J3/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A23J3/08">
+        <TreeNode Title="A23J3/10 ###酪蛋白(干酪蛋白入A23J 1/22) [5]" Target="frmContent" Href="../searchservlet?query=A23J3/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A23J3/10"/>
+      </TreeNode>
+      <TreeNode Title="A23J3/12 ##从血液 [5]" Target="frmContent" Href="../searchservlet?query=A23J3/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A23J3/12"/>
+    </TreeNode>
+    <TreeNode Title="A23J3/14 #植物蛋白质 [5]" Target="frmContent" Href="../searchservlet?query=A23J3/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A23J3/14">
+      <TreeNode Title="A23J3/16 ##从大豆 [5]" Target="frmContent" Href="../searchservlet?query=A23J3/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A23J3/16"/>
+      <TreeNode Title="A23J3/18 ##从小麦 [5]" Target="frmContent" Href="../searchservlet?query=A23J3/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A23J3/18"/>
+    </TreeNode>
+    <TreeNode Title="A23J3/20 #从微生物或单细胞藻类中的蛋白质 [5]" Target="frmContent" Href="../searchservlet?query=A23J3/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A23J3/20"/>
+    <TreeNode Title="A23J3/22 #用组织化处理 [5]" Target="frmContent" Href="../searchservlet?query=A23J3/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A23J3/22">
+      <TreeNode Title="A23J3/24 ##用冷冻 [5]" Target="frmContent" Href="../searchservlet?query=A23J3/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A23J3/24"/>
+      <TreeNode Title="A23J3/26 ##用挤压或膨化 [5]" Target="frmContent" Href="../searchservlet?query=A23J3/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A23J3/26"/>
+      <TreeNode Title="A23J3/28 ##用从溶槽或在溶槽中凝固，例如丝状纤维 [5]" Target="frmContent" Href="../searchservlet?query=A23J3/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A23J3/28"/>
+    </TreeNode>
+    <TreeNode Title="A23J3/30 #用水解 [5]" Target="frmContent" Href="../searchservlet?query=A23J3/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A23J3/30">
+      <TreeNode Title="A23J3/32 ##用化学试剂 [5]" Target="frmContent" Href="../searchservlet?query=A23J3/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A23J3/32">
+        <TreeNode Title="A23J3/34 ###用酶 [5]" Target="frmContent" Href="../searchservlet?query=A23J3/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A23J3/34"/>
+      </TreeNode>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="A23J7/00 食用磷脂组合物，例如卵磷脂 [4]" Target="frmContent" Href="../searchservlet?query=A23J7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="A23J7/00"/>
+</Root>

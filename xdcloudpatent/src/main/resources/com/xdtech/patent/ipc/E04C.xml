@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="E04C1/00 建筑部件中的块状或其他形状的建筑构件(较薄形构件入E04C 2/00；长条形的承重构件入E04C 3/00，例如，柱或支柱入E04C 3/30；砖，石或类似物的制作或材料入B28，C03，C04；铺路构件入E01C；一般建筑构造入E04B，例如，墙入E04B 2/00，楼板入E04B 5/00，屋顶入E04B 7/00，顶棚入E04B 9/00；专门设计供作建筑物内管道井用的结构构件入E04F；建筑炉灶用的专用构件入F24B，F27Ｄ)[5]" Target="frmContent" Href="../searchservlet?query=E04C1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04C1/00">
+    <TreeNode Title="E04C1/39 #以特殊用途为特征的，例如，设置管道用的，形成拱腹面，花檐或搁板用的，固定墙板或门框用的，供作回廊用的" Target="frmContent" Href="../searchservlet?query=E04C1/39&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04C1/39"/>
+    <TreeNode Title="E04C1/40 #由不同材料构成的部件，例如，由几层不同材料或带有填充或带有隔绝添加物的石质材料" Target="frmContent" Href="../searchservlet?query=E04C1/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04C1/40">
+      <TreeNode Title="E04C1/41 ##由隔绝材料和承重混凝土、石料或石类材料组成[6]" Target="frmContent" Href="../searchservlet?query=E04C1/41&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04C1/41"/>
+    </TreeNode>
+    <TreeNode Title="E04C1/42 #用玻璃或其他透明材料制作的" Target="frmContent" Href="../searchservlet?query=E04C1/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04C1/42"/>
+  </TreeNode>
+  <TreeNode Title="E04C2/00 建造房屋部件用的较薄形构件，例如，各种薄板、平板或镶板(材料或制作参见有关分类，例如，B27Ｎ，B29，D21J；现场制作的入E04B；专门设计作隔绝其他防护用的入E04B 1/62；承重楼板结构入E04B 5/02，E04B 5/16；由自支承板构成的屋顶入E04B 7/20；屋顶或类似的覆盖构件入E04D 3/00；作衬里或装修用的入E04F 13/00)" Target="frmContent" Href="../searchservlet?query=E04C2/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04C2/00">
+    <TreeNode Title="E04C2/02 #以特殊材料为特征的(透明的入E04C 2/54)" Target="frmContent" Href="../searchservlet?query=E04C2/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04C2/02">
+      <TreeNode Title="E04C2/04 ##用混凝土或其他石类材料制作的；用石棉水泥制作的(E04C 2/26优先，材料或制作方法入B28，C04)" Target="frmContent" Href="../searchservlet?query=E04C2/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04C2/04">
+        <TreeNode Title="E04C2/06 ###加筋的" Target="frmContent" Href="../searchservlet?query=E04C2/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04C2/06"/>
+      </TreeNode>
+      <TreeNode Title="E04C2/08 ##用金属制作的，例如，金属薄板(E04C 2/26优先)" Target="frmContent" Href="../searchservlet?query=E04C2/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04C2/08"/>
+      <TreeNode Title="E04C2/10 ##用木材，纤维，木屑，植物秆或类似材料制作的；用塑料制作的；用泡沫制品制作的(E04C 2/26优先)" Target="frmContent" Href="../searchservlet?query=E04C2/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04C2/10">
+        <TreeNode Title="E04C2/12 ###用厚木板制作的" Target="frmContent" Href="../searchservlet?query=E04C2/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04C2/12">
+          <TreeNode Title="E04C2/14 ####加筋的" Target="frmContent" Href="../searchservlet?query=E04C2/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04C2/14"/>
+        </TreeNode>
+        <TreeNode Title="E04C2/16 ###用纤维、木屑、植物秆或类似材料制作的" Target="frmContent" Href="../searchservlet?query=E04C2/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04C2/16">
+          <TreeNode Title="E04C2/18 ####具有绑扎钢丝、钢筋或类似物" Target="frmContent" Href="../searchservlet?query=E04C2/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04C2/18"/>
+        </TreeNode>
+        <TreeNode Title="E04C2/20 ###用塑料制作的" Target="frmContent" Href="../searchservlet?query=E04C2/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04C2/20">
+          <TreeNode Title="E04C2/22 ####增强的" Target="frmContent" Href="../searchservlet?query=E04C2/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04C2/22"/>
+        </TreeNode>
+        <TreeNode Title="E04C2/24 ###由E04C 2/12，E04C 2/16，E04C 2/20中两个或更多个小组所包括的几种材料层叠或组合而成" Target="frmContent" Href="../searchservlet?query=E04C2/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04C2/24"/>
+      </TreeNode>
+      <TreeNode Title="E04C2/26 ##由E04C 2/04，E04C 2/08，E04C 2/10中两个或更多个小组所包括的几种材料组成或者由这些小组中的任一分组所包括的材料和不包括在这些小组中的材料组成" Target="frmContent" Href="../searchservlet?query=E04C2/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04C2/26">
+        <TreeNode Title="E04C2/28 ###由E04C 2/04和E04C 2/08中所包括的材料的结合" Target="frmContent" Href="../searchservlet?query=E04C2/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04C2/28"/>
+        <TreeNode Title="E04C2/284 ###至少有一种材料是隔绝材料[6]" Target="frmContent" Href="../searchservlet?query=E04C2/284&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04C2/284">
+          <TreeNode Title="E04C2/288 ####由隔绝材料和混凝土、石料或石类材料组成[6]" Target="frmContent" Href="../searchservlet?query=E04C2/288&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04C2/288"/>
+          <TreeNode Title="E04C2/292 ####由隔绝材料和金属层组成[6]" Target="frmContent" Href="../searchservlet?query=E04C2/292&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04C2/292"/>
+          <TreeNode Title="E04C2/296 ####由隔绝材料和非金属的或非特定的材料层组成(E04C 2/288优先)[6]" Target="frmContent" Href="../searchservlet?query=E04C2/296&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04C2/296"/>
+        </TreeNode>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="E04C2/30 #以形状或结构为特征的(透明的入E04C 2/54)" Target="frmContent" Href="../searchservlet?query=E04C2/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04C2/30">
+      <TreeNode Title="E04C2/32 ##由波形或其他有凹痕的薄板状材料构成的；由这类层组合而成，其中可含有或不含有平板状材料层" Target="frmContent" Href="../searchservlet?query=E04C2/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04C2/32"/>
+      <TreeNode Title="E04C2/34 ##由两块或多块相互隔开的薄板状部件组成的(E04C 2/32优先；空心墙的隔撑入E04B 2/44)" Target="frmContent" Href="../searchservlet?query=E04C2/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04C2/34">
+        <TreeNode Title="E04C2/36 ###由横向放置的条形材料隔开，例如，蜂窝板(成层制品的蜂窝或其他夹芯部件入B32B)" Target="frmContent" Href="../searchservlet?query=E04C2/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04C2/36"/>
+      </TreeNode>
+      <TreeNode Title="E04C2/38 ##带肋、翼缘或类似物的，例如，有框架的镶板(有关装配在其他镶板或构件上以形成一结构的，参见有关结构的位置，例如，E04B 2/00)" Target="frmContent" Href="../searchservlet?query=E04C2/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04C2/38"/>
+      <TreeNode Title="E04C2/40 ##由若干固定地或活动地连结在一起的较小部件组成，例如，以锁接、铰接方式连结在一起" Target="frmContent" Href="../searchservlet?query=E04C2/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04C2/40"/>
+      <TreeNode Title="E04C2/42 ##格栅；格形镶板(加筋构件入E04C 5/00；内装的格栅入E04F 19/10；一般的格栅入F16S 3/00)" Target="frmContent" Href="../searchservlet?query=E04C2/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04C2/42"/>
+      <TreeNode Title="E04C2/52 ##专门适于辅助性用途的，例如，用于铺设管道的(E04C 2/54优先；其块状构件入E04C 1/39；带有管道的楼板结构入E04B 5/48)" Target="frmContent" Href="../searchservlet?query=E04C2/52&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04C2/52"/>
+    </TreeNode>
+    <TreeNode Title="E04C2/54 #板状半透明构件(透射光的楼板入E04B 5/46；半透明或格子顶棚入E04B  9/32，E04B 9/34；半透明屋顶入E04D 3/06，E04D 3/28)[5]" Target="frmContent" Href="../searchservlet?query=E04C2/54&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04C2/54"/>
+  </TreeNode>
+  <TreeNode Title="E04C3/00 用于承重的长条形结构构件(用作建筑辅助件的入E04G)" Target="frmContent" Href="../searchservlet?query=E04C3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04C3/00">
+    <TreeNode Title="E04C3/02 #托梁；大梁，桁梁或桁架式结构，例如，预制的；过梁；横档(E04C 3/38优先；以可移动，可分开或可折叠部件为特征的结构入E04B 1/343)" Target="frmContent" Href="../searchservlet?query=E04C3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04C3/02">
+      <TreeNode Title="E04C3/04 ##金属的(E04C 3/29优先；用作钢筋构件的入E04C 5/06；制作入B21)" Target="frmContent" Href="../searchservlet?query=E04C3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04C3/04">
+        <TreeNode Title="E04C3/06 ###具有基本上是实体的腹板，即无孔的腹板(E04C 3/10，E04C 3/11优先)" Target="frmContent" Href="../searchservlet?query=E04C3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04C3/06">
+          <TreeNode Title="E04C3/07 ####至少部分地由弯曲的或以其他形式变形的带形或薄板材料制成" Target="frmContent" Href="../searchservlet?query=E04C3/07&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04C3/07"/>
+        </TreeNode>
+        <TreeNode Title="E04C3/08 ###具有孔洞的腹板，例如，由杆件组成的腹板；蜂窝状大梁(E04C 3/10，E04C 3/11优先)" Target="frmContent" Href="../searchservlet?query=E04C3/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04C3/08">
+          <TreeNode Title="E04C3/09 ####至少部分地由弯曲的或以其他形式变形的带形或薄板材料制成" Target="frmContent" Href="../searchservlet?query=E04C3/09&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04C3/09"/>
+        </TreeNode>
+        <TreeNode Title="E04C3/10 ###预应力的" Target="frmContent" Href="../searchservlet?query=E04C3/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04C3/10"/>
+        <TreeNode Title="E04C3/11 ###有不相平行的上弦和下弦，例如，屋架(拱形梁，桥门架入E04C 3/38)" Target="frmContent" Href="../searchservlet?query=E04C3/11&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04C3/11"/>
+      </TreeNode>
+      <TreeNode Title="E04C3/12 ##木制的，例如，带加强件，带拉伸件的(E04C 3/292优先)" Target="frmContent" Href="../searchservlet?query=E04C3/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04C3/12">
+        <TreeNode Title="E04C3/14 ###具有基本上是实体的腹板，即无孔的腹板(E04C 3/17，E04C 3/18优先)" Target="frmContent" Href="../searchservlet?query=E04C3/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04C3/14"/>
+        <TreeNode Title="E04C3/16 ###具有孔洞的腹板，例如，桁架(E04C 3/17，E04C 3/18优先)" Target="frmContent" Href="../searchservlet?query=E04C3/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04C3/16"/>
+        <TreeNode Title="E04C3/17 ###有不相平行的上弦和下弦，例如，屋架" Target="frmContent" Href="../searchservlet?query=E04C3/17&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04C3/17"/>
+        <TreeNode Title="E04C3/18 ###有金属加强件或拉伸件的" Target="frmContent" Href="../searchservlet?query=E04C3/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04C3/18"/>
+      </TreeNode>
+      <TreeNode Title="E04C3/20 ##用混凝土或其他类石材料制作的，例如，带加强件或拉伸件的(加强件入E04C 5/00)" Target="frmContent" Href="../searchservlet?query=E04C3/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04C3/20">
+        <TreeNode Title="E04C3/22 ###由成直线连接的构件制成的" Target="frmContent" Href="../searchservlet?query=E04C3/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04C3/22"/>
+        <TreeNode Title="E04C3/26 ###预应力的(E04C 3/22，E04C 3/29优先；预应力构件入E04C 5/08)" Target="frmContent" Href="../searchservlet?query=E04C3/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04C3/26"/>
+      </TreeNode>
+      <TreeNode Title="E04C3/28 ##用其他材料制作的" Target="frmContent" Href="../searchservlet?query=E04C3/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04C3/28"/>
+      <TreeNode Title="E04C3/29 ##由不同材料的部件制作的" Target="frmContent" Href="../searchservlet?query=E04C3/29&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04C3/29">
+        <TreeNode Title="E04C3/292 ###以木料和金属为材料" Target="frmContent" Href="../searchservlet?query=E04C3/292&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04C3/292"/>
+        <TreeNode Title="E04C3/293 ###以钢和混凝土为材料(具有内部加强件或拉伸件的混凝土入E04C 3/20)" Target="frmContent" Href="../searchservlet?query=E04C3/293&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04C3/293">
+          <TreeNode Title="E04C3/294 ####用混凝土和侧向伸到构件外面的梁式结构相结合的构件(作加强件的轻型梁入E04C 5/065，作楼板结构的部件入E04B 5/23)" Target="frmContent" Href="../searchservlet?query=E04C3/294&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04C3/294"/>
+        </TreeNode>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="E04C3/30 #柱；墩柱；支柱(并非设计用于承受端负荷的入E04C 3/02；作为独立结构的立柱、桅杆入E04H 12/00)" Target="frmContent" Href="../searchservlet?query=E04C3/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04C3/30">
+      <TreeNode Title="E04C3/32 ##金属的(E04C 3/36优先)" Target="frmContent" Href="../searchservlet?query=E04C3/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04C3/32"/>
+      <TreeNode Title="E04C3/34 ##混凝土或其他石类材料制作的，带或不带永久型模板构件的，带或不带内部或外部加强件的，例如，金属覆盖物(E04C 3/36优先)" Target="frmContent" Href="../searchservlet?query=E04C3/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04C3/34"/>
+      <TreeNode Title="E04C3/36 ##用其他材料制作的" Target="frmContent" Href="../searchservlet?query=E04C3/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04C3/36"/>
+    </TreeNode>
+    <TreeNode Title="E04C3/38 #拱形梁或桥门梁(能弯曲的直梁入E04C 3/02，一般的充气帐篷或天篷入E04H 15/20)" Target="frmContent" Href="../searchservlet?query=E04C3/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04C3/38">
+      <TreeNode Title="E04C3/40 ##金属的(E04C 3/46优先)" Target="frmContent" Href="../searchservlet?query=E04C3/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04C3/40"/>
+      <TreeNode Title="E04C3/42 ##木制的，例如，椽式屋顶用的构件(E04C 3/46优先)" Target="frmContent" Href="../searchservlet?query=E04C3/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04C3/42"/>
+      <TreeNode Title="E04C3/44 ##混凝土或其他石类材料制作的，例如，具有加强件或拉伸件的(E04C 3/46优先)" Target="frmContent" Href="../searchservlet?query=E04C3/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04C3/44"/>
+      <TreeNode Title="E04C3/46 ##用其他材料制作的" Target="frmContent" Href="../searchservlet?query=E04C3/46&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04C3/46"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="E04C5/00 加强件，例如，用于混凝土的；其辅助构件(材料组分入C21，C22；加强件的布置参见有关类)" Target="frmContent" Href="../searchservlet?query=E04C5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04C5/00">
+    <TreeNode Title="E04C5/01 #金属的加强构件，例如，带不作为结构材料涂层的[5]" Target="frmContent" Href="../searchservlet?query=E04C5/01&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04C5/01">
+      <TreeNode Title="E04C5/02 ##抗弯能力低的，即基本上是一维或二维伸展的" Target="frmContent" Href="../searchservlet?query=E04C5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04C5/02">
+        <TreeNode Title="E04C5/03 ###带凹槽、突出部分、肋或类似部分的，用来增强与混凝土的黏着性" Target="frmContent" Href="../searchservlet?query=E04C5/03&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04C5/03"/>
+        <TreeNode Title="E04C5/04 ###栅网(抹灰的底层入E04F 13/04)" Target="frmContent" Href="../searchservlet?query=E04C5/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04C5/04"/>
+      </TreeNode>
+      <TreeNode Title="E04C5/06 ##抗弯能力高的，即基本上是三维伸展的，例如格构梁" Target="frmContent" Href="../searchservlet?query=E04C5/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04C5/06">
+        <TreeNode Title="E04C5/065 ###轻型梁，例如，带有预制部件的(一般的轻型梁入E04C 3/08，E04C 3/294)" Target="frmContent" Href="../searchservlet?query=E04C5/065&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04C5/065"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="E04C5/07 #非金属材料的加强件，例如，玻璃的、塑料的或不完全用金属制作的(具有非结构涂层的金属件入E04C 5/01)[5]" Target="frmContent" Href="../searchservlet?query=E04C5/07&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04C5/07"/>
+    <TreeNode Title="E04C5/08 #专门用于预应力结构中的构件" Target="frmContent" Href="../searchservlet?query=E04C5/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04C5/08">
+      <TreeNode Title="E04C5/10 ##管道" Target="frmContent" Href="../searchservlet?query=E04C5/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04C5/10"/>
+    </TreeNode>
+    <TreeNode Title="E04C5/12 #锚定装置(张拉用的工具或方法入E04G 21/12)[5]" Target="frmContent" Href="../searchservlet?query=E04C5/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04C5/12"/>
+    <TreeNode Title="E04C5/16 #加强件的辅助部件，例如，连结器，隔撑，钢箍(连接加强件的工具入E04G 21/12)" Target="frmContent" Href="../searchservlet?query=E04C5/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04C5/16">
+      <TreeNode Title="E04C5/18 ##金属的或基本上是金属的" Target="frmContent" Href="../searchservlet?query=E04C5/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04C5/18"/>
+      <TreeNode Title="E04C5/20 ##用除金属以外的其他材料制作的或仅具有附加金属部件的，例如，带绑扎钢丝的混凝土或塑料隔撑" Target="frmContent" Href="../searchservlet?query=E04C5/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="E04C5/20"/>
+    </TreeNode>
+  </TreeNode>
+</Root>

@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="H01S1/00 微波激射器，即利用受激发射对波长比红外射线长的电磁波进行产生、放大、调制、解调或变频的器件" Target="frmContent" Href="../searchservlet?query=H01S1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01S1/00">
+    <TreeNode Title="H01S1/02 #固体的" Target="frmContent" Href="../searchservlet?query=H01S1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01S1/02"/>
+    <TreeNode Title="H01S1/04 #液体的" Target="frmContent" Href="../searchservlet?query=H01S1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01S1/04"/>
+    <TreeNode Title="H01S1/06 #气体的" Target="frmContent" Href="../searchservlet?query=H01S1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01S1/06"/>
+  </TreeNode>
+  <TreeNode Title="H01S3/00 激光器，即利用受激发射对红外光、可见光或紫外线进行产生、放大、调制、解调或变频的器件(半导体激光器入H01S 5/00)" Target="frmContent" Href="../searchservlet?query=H01S3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01S3/00">
+    <TreeNode Title="H01S3/02 #结构零部件" Target="frmContent" Href="../searchservlet?query=H01S3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01S3/02">
+      <TreeNode Title="H01S3/03 ##气体激光器放电管的[2]" Target="frmContent" Href="../searchservlet?query=H01S3/03&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01S3/03">
+        <TreeNode Title="H01S3/032 ###用于限制放电的，例如利用放电收缩管的专门特性[5]" Target="frmContent" Href="../searchservlet?query=H01S3/032&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01S3/032"/>
+        <TreeNode Title="H01S3/034 ###气体激光管内的光学装置或构件，例如窗口、镜片(对谐振腔的初始调节具有可变性能或位置的反射镜入H01S 3/086)[5]" Target="frmContent" Href="../searchservlet?query=H01S3/034&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01S3/034"/>
+        <TreeNode Title="H01S3/036 ###气体激光放射管内取得或保持所需气体压力的方法，例如利用吸气剂、充气；气体循环装置，例如为了平衡管内的压力。(气体激光器的冷却装置入H01S 3/041；气动激光器入H01S 3/0979)[5]" Target="frmContent" Href="../searchservlet?query=H01S3/036&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01S3/036"/>
+        <TreeNode Title="H01S3/038 ###电极，例如特殊的形状、结构或组分[5]" Target="frmContent" Href="../searchservlet?query=H01S3/038&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01S3/038"/>
+      </TreeNode>
+      <TreeNode Title="H01S3/04 ##冷却装置" Target="frmContent" Href="../searchservlet?query=H01S3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01S3/04">
+        <TreeNode Title="H01S3/041 ###用于气体激光器的[5]" Target="frmContent" Href="../searchservlet?query=H01S3/041&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01S3/041"/>
+        <TreeNode Title="H01S3/042 ###用于固体激光器的[5]" Target="frmContent" Href="../searchservlet?query=H01S3/042&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01S3/042"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="H01S3/05 #光学谐振器的结构或形状；包括激活介质的调节；激活介质的形状" Target="frmContent" Href="../searchservlet?query=H01S3/05&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01S3/05">
+      <TreeNode Title="H01S3/06 ##激活介质的结构或形状" Target="frmContent" Href="../searchservlet?query=H01S3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01S3/06">
+        <TreeNode Title="H01S3/063 ###波导激光器，例如激光放大器[7]" Target="frmContent" Href="../searchservlet?query=H01S3/063&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01S3/063">
+          <TreeNode Title="H01S3/067 ####纤维激光器[7]" Target="frmContent" Href="../searchservlet?query=H01S3/067&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01S3/067"/>
+        </TreeNode>
+        <TreeNode Title="H01S3/07 ###由多个部件组成的，例如段片(H01S 3/067优先)[2，7]" Target="frmContent" Href="../searchservlet?query=H01S3/07&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01S3/07"/>
+      </TreeNode>
+      <TreeNode Title="H01S3/08 ##光学谐振器或其部件的结构或形状[2]" Target="frmContent" Href="../searchservlet?query=H01S3/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01S3/08">
+        <TreeNode Title="H01S3/081 ###有两个以上反射器的[2]" Target="frmContent" Href="../searchservlet?query=H01S3/081&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01S3/081">
+          <TreeNode Title="H01S3/082 ####多个谐振器，例如用于模式的选择[2]" Target="frmContent" Href="../searchservlet?query=H01S3/082&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01S3/082"/>
+          <TreeNode Title="H01S3/083 ####环形激光器(激光陀螺测试仪入G01C 19/66)[2]" Target="frmContent" Href="../searchservlet?query=H01S3/083&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01S3/083"/>
+        </TreeNode>
+        <TreeNode Title="H01S3/086 ###用于对谐振器进行起始调节的具有可变性能或位置的1个或多个反射器(在工作时改变激光器输出参数的入H01S 3/10；激光器输出的稳定入H01S 3/13)[2]" Target="frmContent" Href="../searchservlet?query=H01S3/086&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01S3/086"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="H01S3/09 #激励的方法或装置，例如泵激励" Target="frmContent" Href="../searchservlet?query=H01S3/09&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01S3/09">
+      <TreeNode Title="H01S3/091 ##应用光泵的[2]" Target="frmContent" Href="../searchservlet?query=H01S3/091&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01S3/091">
+        <TreeNode Title="H01S3/0915 ###利用非相干光[5]" Target="frmContent" Href="../searchservlet?query=H01S3/0915&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01S3/0915">
+          <TreeNode Title="H01S3/092 ####闪光灯的(H01S 3/0937优先)[2，5]" Target="frmContent" Href="../searchservlet?query=H01S3/092&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01S3/092">
+            <TreeNode Title="H01S3/093 #####把激励能引入或聚集在激活介质中[2，5]" Target="frmContent" Href="../searchservlet?query=H01S3/093&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01S3/093"/>
+          </TreeNode>
+          <TreeNode Title="H01S3/0933 ####半导体，如发光二极管的[5]" Target="frmContent" Href="../searchservlet?query=H01S3/0933&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01S3/0933"/>
+          <TreeNode Title="H01S3/0937 ####利用爆炸或易燃材料产生的[5]" Target="frmContent" Href="../searchservlet?query=H01S3/0937&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01S3/0937"/>
+        </TreeNode>
+        <TreeNode Title="H01S3/094 ###利用相干光[2]" Target="frmContent" Href="../searchservlet?query=H01S3/094&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01S3/094">
+          <TreeNode Title="H01S3/0941 ####半导体激光器，例如激光二极管的[6]" Target="frmContent" Href="../searchservlet?query=H01S3/0941&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01S3/0941"/>
+          <TreeNode Title="H01S3/0943 ####气体激光器的[5]" Target="frmContent" Href="../searchservlet?query=H01S3/0943&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01S3/0943"/>
+          <TreeNode Title="H01S3/0947 ####有机染料激光器的[5]" Target="frmContent" Href="../searchservlet?query=H01S3/0947&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01S3/0947"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="H01S3/095 ##应用化学泵或热泵的[2]" Target="frmContent" Href="../searchservlet?query=H01S3/095&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01S3/095">
+        <TreeNode Title="H01S3/0951 ###通过增加激光器气体介质的压力[5]" Target="frmContent" Href="../searchservlet?query=H01S3/0951&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01S3/0951">
+          <TreeNode Title="H01S3/0953 ####气动激光器，即利用激光气体介质膨胀到超声气流速度[5]" Target="frmContent" Href="../searchservlet?query=H01S3/0953&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01S3/0953"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="H01S3/0955 ##利用高能粒子的泵浦[5]" Target="frmContent" Href="../searchservlet?query=H01S3/0955&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01S3/0955">
+        <TreeNode Title="H01S3/0957 ###通过高能核粒子[5]" Target="frmContent" Href="../searchservlet?query=H01S3/0957&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01S3/0957"/>
+        <TreeNode Title="H01S3/0959 ###通过电子束[5]" Target="frmContent" Href="../searchservlet?query=H01S3/0959&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01S3/0959"/>
+      </TreeNode>
+      <TreeNode Title="H01S3/097 ##通过气体激光器的气体放电[2]" Target="frmContent" Href="../searchservlet?query=H01S3/097&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01S3/097">
+        <TreeNode Title="H01S3/0971 ###横向激励的(H01S 3/0975优先)[5]" Target="frmContent" Href="../searchservlet?query=H01S3/0971&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01S3/0971">
+          <TreeNode Title="H01S3/0973 ####具有行波通过激活介质[5]" Target="frmContent" Href="../searchservlet?query=H01S3/0973&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01S3/0973"/>
+        </TreeNode>
+        <TreeNode Title="H01S3/0975 ###利用电感或电容激励[5]" Target="frmContent" Href="../searchservlet?query=H01S3/0975&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01S3/0975"/>
+        <TreeNode Title="H01S3/0977 ###具有辅助电离装置[5]" Target="frmContent" Href="../searchservlet?query=H01S3/0977&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01S3/0977"/>
+        <TreeNode Title="H01S3/0979 ###气动激光器，即利用把气体激光介质膨胀到超声气流速度[5]" Target="frmContent" Href="../searchservlet?query=H01S3/0979&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01S3/0979"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="H01S3/098 #模式锁定；模式抑制(应用多个谐振器的模式抑制入H01S 3/082)[2]" Target="frmContent" Href="../searchservlet?query=H01S3/098&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01S3/098"/>
+    <TreeNode Title="H01S3/10 #控制辐射的强度、频率、相位、极化或方向，例如开关、选通、调制或解调(模式锁定入H01S 3/098；一般的光束的控制、变频、非线性光学、光逻辑元件入G02F)[2]" Target="frmContent" Href="../searchservlet?query=H01S3/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01S3/10">
+      <TreeNode Title="H01S3/101 ##激光器，具有改变激光发射的位置和方向的装置(一般的光扫描系统入G02B 26/10)；光电、光磁或光声的偏转器件或装置入G02F 1/29)[2]" Target="frmContent" Href="../searchservlet?query=H01S3/101&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01S3/101"/>
+      <TreeNode Title="H01S3/102 ##由控制激活媒质，例如通过控制激励的方法或设备(H01S 3/13优先)[4]" Target="frmContent" Href="../searchservlet?query=H01S3/102&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01S3/102">
+        <TreeNode Title="H01S3/104 ###在气体激光器中[4]" Target="frmContent" Href="../searchservlet?query=H01S3/104&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01S3/104"/>
+      </TreeNode>
+      <TreeNode Title="H01S3/105 ##由控制腔的反射器的相互位置或反射性能(H01S 3/13优先)[4]" Target="frmContent" Href="../searchservlet?query=H01S3/105&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01S3/105">
+        <TreeNode Title="H01S3/1055 ###反射器之一是由绕射光栅构成的[4]" Target="frmContent" Href="../searchservlet?query=H01S3/1055&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01S3/1055"/>
+      </TreeNode>
+      <TreeNode Title="H01S3/106 ##由控制安置在腔内1个器件(H01S 3/13优先)[4]" Target="frmContent" Href="../searchservlet?query=H01S3/106&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01S3/106">
+        <TreeNode Title="H01S3/107 ###应用1个光电器件，例如呈现波克耳效应或科尔效应的[4]" Target="frmContent" Href="../searchservlet?query=H01S3/107&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01S3/107"/>
+        <TreeNode Title="H01S3/108 ###应用1个非线性光学器件，例如呈现布里渊散射或拉曼散射的[4]" Target="frmContent" Href="../searchservlet?query=H01S3/108&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01S3/108">
+          <TreeNode Title="H01S3/109 ####倍频，例如谐波的产生[4]" Target="frmContent" Href="../searchservlet?query=H01S3/109&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01S3/109"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="H01S3/11 ##其中光谐振器的品质因数迅速改变的，即巨脉冲技术的" Target="frmContent" Href="../searchservlet?query=H01S3/11&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01S3/11">
+        <TreeNode Title="H01S3/113 ###应用漂白或负光感介质[2]" Target="frmContent" Href="../searchservlet?query=H01S3/113&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01S3/113"/>
+        <TreeNode Title="H01S3/115 ###应用1个电光器件[4]" Target="frmContent" Href="../searchservlet?query=H01S3/115&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01S3/115"/>
+        <TreeNode Title="H01S3/117 ###应用1个声光器件[4]" Target="frmContent" Href="../searchservlet?query=H01S3/117&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01S3/117"/>
+        <TreeNode Title="H01S3/121 ###应用1个机械器件[4]" Target="frmContent" Href="../searchservlet?query=H01S3/121&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01S3/121">
+          <TreeNode Title="H01S3/123 ####旋转镜[4]" Target="frmContent" Href="../searchservlet?query=H01S3/123&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01S3/123"/>
+          <TreeNode Title="H01S3/125 ####旋转棱镜[4]" Target="frmContent" Href="../searchservlet?query=H01S3/125&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01S3/125"/>
+        </TreeNode>
+        <TreeNode Title="H01S3/127 ###多个Q开关[4]" Target="frmContent" Href="../searchservlet?query=H01S3/127&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01S3/127"/>
+      </TreeNode>
+      <TreeNode Title="H01S3/13 ##激光器输出参数，例如频率、幅度的稳定[2]" Target="frmContent" Href="../searchservlet?query=H01S3/13&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01S3/13">
+        <TreeNode Title="H01S3/131 ###由控制激活手段，例如通过控制激励方法或设备[4]" Target="frmContent" Href="../searchservlet?query=H01S3/131&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01S3/131">
+          <TreeNode Title="H01S3/134 ####在气体激光器中[4]" Target="frmContent" Href="../searchservlet?query=H01S3/134&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01S3/134"/>
+        </TreeNode>
+        <TreeNode Title="H01S3/136 ###由控制安置在腔内的1个器件[4]" Target="frmContent" Href="../searchservlet?query=H01S3/136&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01S3/136">
+          <TreeNode Title="H01S3/137 ####用于稳定频率的[4]" Target="frmContent" Href="../searchservlet?query=H01S3/137&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01S3/137"/>
+        </TreeNode>
+        <TreeNode Title="H01S3/139 ###由控制腔的反射器的相互位置或反射器的反射性能[4]" Target="frmContent" Href="../searchservlet?query=H01S3/139&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01S3/139"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="H01S3/14 #按所用激活介质的材料区分的" Target="frmContent" Href="../searchservlet?query=H01S3/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01S3/14">
+      <TreeNode Title="H01S3/16 ##固体材料" Target="frmContent" Href="../searchservlet?query=H01S3/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01S3/16">
+        <TreeNode Title="H01S3/17 ###非晶体的，例如玻璃[2]" Target="frmContent" Href="../searchservlet?query=H01S3/17&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01S3/17"/>
+      </TreeNode>
+      <TreeNode Title="H01S3/20 ##液体的" Target="frmContent" Href="../searchservlet?query=H01S3/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01S3/20">
+        <TreeNode Title="H01S3/207 ###包括1种螯合物[5]" Target="frmContent" Href="../searchservlet?query=H01S3/207&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01S3/207"/>
+        <TreeNode Title="H01S3/213 ###包括1种有机染料[5]" Target="frmContent" Href="../searchservlet?query=H01S3/213&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01S3/213"/>
+      </TreeNode>
+      <TreeNode Title="H01S3/22 ##气体的" Target="frmContent" Href="../searchservlet?query=H01S3/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01S3/22">
+        <TreeNode Title="H01S3/223 ###激光气体是多原子的，即含有1个原子以上的(H01S 3/227优先)[2，5]" Target="frmContent" Href="../searchservlet?query=H01S3/223&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01S3/223">
+          <TreeNode Title="H01S3/225 ####包括1种激发物或激态复合物[5]" Target="frmContent" Href="../searchservlet?query=H01S3/225&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01S3/225"/>
+        </TreeNode>
+        <TreeNode Title="H01S3/227 ###金属蒸气[5]" Target="frmContent" Href="../searchservlet?query=H01S3/227&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01S3/227"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="H01S3/23 #在H01S 3/02至H01S 3/14各组中不包含的两个或两个以上激光器装置，例如分离激活介质的串联装置(仅包含半导体激光器入H01S 5/40)[2，7]" Target="frmContent" Href="../searchservlet?query=H01S3/23&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01S3/23"/>
+    <TreeNode Title="H01S3/30 #应用散射效应的，例如受激布里渊效应或拉曼效应[2]" Target="frmContent" Href="../searchservlet?query=H01S3/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01S3/30"/>
+  </TreeNode>
+  <TreeNode Title="H01S4/00 不包含在H01S 1/00，H01S 3/00或H01S 5/00各组中的，应用受激发射波能的器件，例如声子激发器、γ射线激射器" Target="frmContent" Href="../searchservlet?query=H01S4/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01S4/00"/>
+  <TreeNode Title="H01S5/00 半导体激光器[7]" Target="frmContent" Href="../searchservlet?query=H01S5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01S5/00">
+    <TreeNode Title="H01S5/02 #基本上不涉及激光作用的结构零件或组件[7]" Target="frmContent" Href="../searchservlet?query=H01S5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01S5/02">
+      <TreeNode Title="H01S5/022 ##安装座；外壳[7]" Target="frmContent" Href="../searchservlet?query=H01S5/022&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01S5/022"/>
+      <TreeNode Title="H01S5/024 ##冷却装置[7]" Target="frmContent" Href="../searchservlet?query=H01S5/024&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01S5/024"/>
+      <TreeNode Title="H01S5/026 ##单块集成组件，例如波导、监测光探测器、激励器(输出稳定入H01S 5/06；光导与光电元件的耦合入G02B 6/42；专门适用于光发射，由在一共用基片内或其上形成的多个半导体器件或其他固态组件组成的器件入H01L 27/15)[7]" Target="frmContent" Href="../searchservlet?query=H01S5/026&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01S5/026"/>
+      <TreeNode Title="H01S5/028 ##镀层[7]" Target="frmContent" Href="../searchservlet?query=H01S5/028&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01S5/028"/>
+    </TreeNode>
+    <TreeNode Title="H01S5/04 #激励的方法或装置，例如泵激励(H01S 5/06优先)[7]" Target="frmContent" Href="../searchservlet?query=H01S5/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01S5/04">
+      <TreeNode Title="H01S5/042 ##电激励[7]" Target="frmContent" Href="../searchservlet?query=H01S5/042&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01S5/042"/>
+    </TreeNode>
+    <TreeNode Title="H01S5/06 #控制激光器输出参数的装置，例如控制激活介质(利用光的传输系统入H04B 10/00)[7]" Target="frmContent" Href="../searchservlet?query=H01S5/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01S5/06">
+      <TreeNode Title="H01S5/062 ##通过变化电极电位的(H01S 5/065优先)[7]" Target="frmContent" Href="../searchservlet?query=H01S5/062&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01S5/062">
+        <TreeNode Title="H01S5/0625 ###在多节激光器里[7]" Target="frmContent" Href="../searchservlet?query=H01S5/0625&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01S5/0625"/>
+      </TreeNode>
+      <TreeNode Title="H01S5/065 ##模式锁定；模式抑制；模式选择[7]" Target="frmContent" Href="../searchservlet?query=H01S5/065&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01S5/065"/>
+      <TreeNode Title="H01S5/068 ##激光器输出参数的稳定(H01S 5/0625优先)[7]" Target="frmContent" Href="../searchservlet?query=H01S5/068&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01S5/068">
+        <TreeNode Title="H01S5/0683 ###通过监测光输出参数的[7]" Target="frmContent" Href="../searchservlet?query=H01S5/0683&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01S5/0683">
+          <TreeNode Title="H01S5/0687 ####稳定激光器频率的[7]" Target="frmContent" Href="../searchservlet?query=H01S5/0687&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01S5/0687"/>
+        </TreeNode>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="H01S5/10 #光学谐振腔的结构或形状[7]" Target="frmContent" Href="../searchservlet?query=H01S5/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01S5/10">
+      <TreeNode Title="H01S5/12 ##具有周期性结构的谐振腔，例如在分步反馈激光器里(DFB-激光器)(H01S 5/18优先)[7]" Target="frmContent" Href="../searchservlet?query=H01S5/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01S5/12">
+        <TreeNode Title="H01S5/125 ###分布布喇格反射器激光器(DBR-激光器)[7]" Target="frmContent" Href="../searchservlet?query=H01S5/125&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01S5/125"/>
+      </TreeNode>
+      <TreeNode Title="H01S5/14 ##外腔谐振器激光器(H01S 5/18优先；模式锁定入H01S 5/065)[7]" Target="frmContent" Href="../searchservlet?query=H01S5/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01S5/14"/>
+      <TreeNode Title="H01S5/16 ##窗型激光器，即带有在激活区和反射面之间有不吸收材料区的(H01S 5/14优先)[7]" Target="frmContent" Href="../searchservlet?query=H01S5/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01S5/16"/>
+      <TreeNode Title="H01S5/18 ##面发射激光器(SE-激光器)[7]" Target="frmContent" Href="../searchservlet?query=H01S5/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01S5/18">
+        <TreeNode Title="H01S5/183 ###具有垂直腔的(VCSE-激光器)[7]" Target="frmContent" Href="../searchservlet?query=H01S5/183&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01S5/183"/>
+        <TreeNode Title="H01S5/187 ###用分布布喇格反射器的(SE-DBR-激光器)(H01S 5/183优先)[7]" Target="frmContent" Href="../searchservlet?query=H01S5/187&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01S5/187"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="H01S5/20 #用于控制光波导的半导体的结构或形状[7]" Target="frmContent" Href="../searchservlet?query=H01S5/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01S5/20">
+      <TreeNode Title="H01S5/22 ##具有脊状或条状结构的[7]" Target="frmContent" Href="../searchservlet?query=H01S5/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01S5/22">
+        <TreeNode Title="H01S5/223 ###埋入的条状结构(H01S 5/227优先)[7]" Target="frmContent" Href="../searchservlet?query=H01S5/223&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01S5/223"/>
+        <TreeNode Title="H01S5/227 ###埋入的台面结构[7]" Target="frmContent" Href="../searchservlet?query=H01S5/227&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01S5/227"/>
+      </TreeNode>
+      <TreeNode Title="H01S5/24 ##具有槽结构的，例如V-槽结构的[7]" Target="frmContent" Href="../searchservlet?query=H01S5/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01S5/24"/>
+    </TreeNode>
+    <TreeNode Title="H01S5/30 #激活区的结构或形状；用于激活区的材料[7]" Target="frmContent" Href="../searchservlet?query=H01S5/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01S5/30">
+      <TreeNode Title="H01S5/32 ##含有PN结的，例如异结的或双异质结的结构(H01S 5/34, H01S 5/36优先)[7]" Target="frmContent" Href="../searchservlet?query=H01S5/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01S5/32">
+        <TreeNode Title="H01S5/323 ###用AⅢBⅤ族化合物材料的，例如AlGaAs-激光器[7]" Target="frmContent" Href="../searchservlet?query=H01S5/323&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01S5/323"/>
+        <TreeNode Title="H01S5/327 ###用AⅡBⅥ族化合物材料的，例如ZnCdSe-激光器[7]" Target="frmContent" Href="../searchservlet?query=H01S5/327&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01S5/327"/>
+      </TreeNode>
+      <TreeNode Title="H01S5/34 ##含有量子阱的或超晶格结构的，例如单量子阱激光器(SQW-激光器)、多量子阱激光器(MQW-激光器)，缓变折射率(光电)分别限制异质结构激光器(GRINSCH-激光器) (H01S 5/36 优先)[7]" Target="frmContent" Href="../searchservlet?query=H01S5/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01S5/34">
+        <TreeNode Title="H01S5/343 ###用AⅢBⅤ族化合物材料的，例如AlGaAs-激光器[7]" Target="frmContent" Href="../searchservlet?query=H01S5/343&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01S5/343"/>
+        <TreeNode Title="H01S5/347 ###用AⅡBⅥ族化合物材料的，例如ZnCdSe-激光器[7]" Target="frmContent" Href="../searchservlet?query=H01S5/347&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01S5/347"/>
+      </TreeNode>
+      <TreeNode Title="H01S5/36 ##包含有机材料的 (染料激光器入H01S 3/213)[8]" Target="frmContent" Href="../searchservlet?query=H01S5/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01S5/36"/>
+    </TreeNode>
+    <TreeNode Title="H01S5/40 #在H01S 5/02至H01S 5/30各组中不包含的两个或两个以上半导体激光器装置(H01S 5/50优先)[7]" Target="frmContent" Href="../searchservlet?query=H01S5/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01S5/40">
+      <TreeNode Title="H01S5/42 ##面发射激光器的排列[7]" Target="frmContent" Href="../searchservlet?query=H01S5/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01S5/42"/>
+    </TreeNode>
+    <TreeNode Title="H01S5/50 #在H01S 5/02至H01S 5/30各组中不包括的放大器结构(传输系统的中继器入H04B 10/17)[7]" Target="frmContent" Href="../searchservlet?query=H01S5/50&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="H01S5/50"/>
+  </TreeNode>
+</Root>

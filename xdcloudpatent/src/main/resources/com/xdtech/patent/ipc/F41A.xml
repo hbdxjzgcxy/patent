@@ -1,0 +1,555 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="F41A1/00 以使用炸药或易燃的推进装药为特征的导弹推进器(不使用炸药或易燃的推进装药发射导弹入F41B；发射火箭或鱼雷入F41F 3/00；导弹自身推进入F42B 15/00)[5]" Target="frmContent" Href="../searchservlet?query=F41A1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A1/00">
+    <TreeNode Title="F41A1/02 #使用增加推进力的接连装置的极高速导弹推进器，例如使用沿身管全长安排的连续起爆推进装药；多级火箭推进器[5]" Target="frmContent" Href="../searchservlet?query=F41A1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A1/02"/>
+    <TreeNode Title="F41A1/04 #使用液体或气体燃料,例如双组份火箭燃料燃烧的导弹推进器[5]" Target="frmContent" Href="../searchservlet?query=F41A1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A1/04"/>
+    <TreeNode Title="F41A1/06 #不改变仰角或推进装药性能，例如通过排泄一部分推进装药气体调整射程，或通过调整弹药筒或燃烧室的容量[5]" Target="frmContent" Href="../searchservlet?query=F41A1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A1/06"/>
+    <TreeNode Title="F41A1/08 #无后坐力炮，即具有防后坐推进装置的炮[5]" Target="frmContent" Href="../searchservlet?query=F41A1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A1/08">
+      <TreeNode Title="F41A1/10 ##被用于平衡后坐的反向射弹[5]" Target="frmContent" Href="../searchservlet?query=F41A1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A1/10"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="F41A3/00 后膛机构，例如闭锁装置[5]" Target="frmContent" Href="../searchservlet?query=F41A3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A3/00">
+    <TreeNode Title="F41A3/02 #闭锁动作，即主闭锁机开启运动横过身管轴线[5]" Target="frmContent" Href="../searchservlet?query=F41A3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A3/02">
+      <TreeNode Title="F41A3/04 ##带有枢轴的闭锁机[5]" Target="frmContent" Href="../searchservlet?query=F41A3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A3/04">
+        <TreeNode Title="F41A3/06 ###在闭锁机后部水平轴线横过身管轴线(F41A 3/08优先)[5]" Target="frmContent" Href="../searchservlet?query=F41A3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A3/06"/>
+        <TreeNode Title="F41A3/08 ###含有1个可旋转安装的螺纹或断隔螺纹类型的塞座(F41A 3/30优先)[5]" Target="frmContent" Href="../searchservlet?query=F41A3/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A3/08"/>
+      </TreeNode>
+      <TreeNode Title="F41A3/10 ##带有滑动闭锁机，例如立式的[5]" Target="frmContent" Href="../searchservlet?query=F41A3/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A3/10"/>
+    </TreeNode>
+    <TreeNode Title="F41A3/12 #枪栓动作，即主要闭锁装置开启运动平行身管轴线[5]" Target="frmContent" Href="../searchservlet?query=F41A3/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A3/12">
+      <TreeNode Title="F41A3/14 ##刚性枪栓闭锁，即有1个刚性闭锁元件分别地固定在枪栓或枪栓手柄和身管或枪机框上[5]" Target="frmContent" Href="../searchservlet?query=F41A3/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A3/14">
+        <TreeNode Title="F41A3/16 ###闭锁元件相对于身管轴线产生旋转运动，例如旋转柱形枪栓闭锁装置[5]" Target="frmContent" Href="../searchservlet?query=F41A3/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A3/16">
+          <TreeNode Title="F41A3/18 ####手动的[5]" Target="frmContent" Href="../searchservlet?query=F41A3/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A3/18">
+            <TreeNode Title="F41A3/20 #####水平的拉动枪栓闭锁装置，即手动操作仅产生一个平行于身管轴线的水平运动[5]" Target="frmContent" Href="../searchservlet?query=F41A3/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A3/20"/>
+            <TreeNode Title="F41A3/22 #####通过使操作手柄回转或使杠杆相对于身管轴线产生横向运动进行闭锁的[5]" Target="frmContent" Href="../searchservlet?query=F41A3/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A3/22">
+              <TreeNode Title="F41A3/24 ######闭锁元件构成操作手柄或杆的一部分[5]" Target="frmContent" Href="../searchservlet?query=F41A3/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A3/24"/>
+            </TreeNode>
+          </TreeNode>
+          <TreeNode Title="F41A3/26 ####半自动或全自动操作的，例如有1个可滑动的枪栓载体和能旋转的枪栓[5]" Target="frmContent" Href="../searchservlet?query=F41A3/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A3/26">
+            <TreeNode Title="F41A3/28 #####在非旋转的枪栓上有固定的闭锁元件和在身管上或枪机框上，例如可旋转环上，有可旋转闭锁元件[5]" Target="frmContent" Href="../searchservlet?query=F41A3/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A3/28"/>
+          </TreeNode>
+          <TreeNode Title="F41A3/30 ####互锁装置，例如闭锁突缘、螺纹[5]" Target="frmContent" Href="../searchservlet?query=F41A3/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A3/30"/>
+        </TreeNode>
+        <TreeNode Title="F41A3/32 ###枪栓相对于名义轴线的摆动横过身管轴线[5]" Target="frmContent" Href="../searchservlet?query=F41A3/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A3/32"/>
+        <TreeNode Title="F41A3/34 ###枪栓附带产生横过身管轴线的滑动运动[5]" Target="frmContent" Href="../searchservlet?query=F41A3/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A3/34"/>
+      </TreeNode>
+      <TreeNode Title="F41A3/36 ##半刚性枪栓闭锁装置，即闭锁元件可运动地装配在枪栓或身管或枪机框上[5]" Target="frmContent" Href="../searchservlet?query=F41A3/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A3/36">
+        <TreeNode Title="F41A3/38 ###具有摆动的闭锁元件，例如枢轴杆或轮叶[5]" Target="frmContent" Href="../searchservlet?query=F41A3/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A3/38">
+          <TreeNode Title="F41A3/40 ####安装在枪栓上(F41A 3/42优先)[5]" Target="frmContent" Href="../searchservlet?query=F41A3/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A3/40"/>
+          <TreeNode Title="F41A3/42 ####手动的[5]" Target="frmContent" Href="../searchservlet?query=F41A3/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A3/42"/>
+        </TreeNode>
+        <TreeNode Title="F41A3/44 ###具有滑动闭锁元件，例如球、滚珠[5]" Target="frmContent" Href="../searchservlet?query=F41A3/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A3/44">
+          <TreeNode Title="F41A3/46 ####安装在枪栓上(F41A 3/48优先)[5]" Target="frmContent" Href="../searchservlet?query=F41A3/46&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A3/46"/>
+          <TreeNode Title="F41A3/48 ####手动的[5]" Target="frmContent" Href="../searchservlet?query=F41A3/48&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A3/48"/>
+        </TreeNode>
+        <TreeNode Title="F41A3/50 ###肘节闭锁，例如曲柄动作的[5]" Target="frmContent" Href="../searchservlet?query=F41A3/50&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A3/50">
+          <TreeNode Title="F41A3/52 ####手动的[5]" Target="frmContent" Href="../searchservlet?query=F41A3/52&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A3/52"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="F41A3/54 ##非闭锁类型的枪栓闭锁，即靠惯性操作的[5]" Target="frmContent" Href="../searchservlet?query=F41A3/54&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A3/54">
+        <TreeNode Title="F41A3/56 ###配有附加可滑动质量的枪栓[5]" Target="frmContent" Href="../searchservlet?query=F41A3/56&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A3/56"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="F41A3/58 #分解式闭锁机构，例如用于猎枪的[5]" Target="frmContent" Href="../searchservlet?query=F41A3/58&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A3/58"/>
+    <TreeNode Title="F41A3/60 #适用于具有两根或多根枪管的枪的闭锁机构(F41A 3/58优先；用于回转加农炮的入F41F 1/10)[5]" Target="frmContent" Href="../searchservlet?query=F41A3/60&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A3/60"/>
+    <TreeNode Title="F41A3/62 #使用燃烧气体压力附加到闭锁机构上产生闭锁动作或用于延迟枪栓的开启运动[5]" Target="frmContent" Href="../searchservlet?query=F41A3/62&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A3/62"/>
+    <TreeNode Title="F41A3/64 #闭锁机的安装；用于闭锁机或闭锁机安装的附件[5]" Target="frmContent" Href="../searchservlet?query=F41A3/64&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A3/64">
+      <TreeNode Title="F41A3/66 ##枪机框或构架；接收装置[5]" Target="frmContent" Href="../searchservlet?query=F41A3/66&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A3/66"/>
+      <TreeNode Title="F41A3/68 ##枪栓制动件，即用于限制枪栓开启运动[5]" Target="frmContent" Href="../searchservlet?query=F41A3/68&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A3/68"/>
+      <TreeNode Title="F41A3/70 ##防回跳装置，即防止枪栓回跳出发射位置以外[5]" Target="frmContent" Href="../searchservlet?query=F41A3/70&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A3/70"/>
+      <TreeNode Title="F41A3/72 ##操作手柄或杆；及其在闭锁机或枪栓上的固定[5]" Target="frmContent" Href="../searchservlet?query=F41A3/72&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A3/72"/>
+      <TreeNode Title="F41A3/74 ##用于防止闭锁机构中气体泄漏的塞或密封件[5]" Target="frmContent" Href="../searchservlet?query=F41A3/74&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A3/74">
+        <TreeNode Title="F41A3/76 ###专门适用于密封弹膛前端和身管后端之间的间隙，例如密封左轮手枪或左轮手枪类型的枪[5]" Target="frmContent" Href="../searchservlet?query=F41A3/76&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A3/76"/>
+      </TreeNode>
+      <TreeNode Title="F41A3/78 ##枪栓缓冲垫或复进机[5]" Target="frmContent" Href="../searchservlet?query=F41A3/78&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A3/78">
+        <TreeNode Title="F41A3/80 ###能调整弹簧的缓冲垫[5]" Target="frmContent" Href="../searchservlet?query=F41A3/80&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A3/80"/>
+        <TreeNode Title="F41A3/82 ###螺旋弹簧缓冲垫(F41A 3/80优先)[5]" Target="frmContent" Href="../searchservlet?query=F41A3/82&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A3/82">
+          <TreeNode Title="F41A3/84 ####固定在枪托内[5]" Target="frmContent" Href="../searchservlet?query=F41A3/84&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A3/84"/>
+          <TreeNode Title="F41A3/86 ####固定在身管下部[5]" Target="frmContent" Href="../searchservlet?query=F41A3/86&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A3/86"/>
+          <TreeNode Title="F41A3/88 ####环绕身管的固定[5]" Target="frmContent" Href="../searchservlet?query=F41A3/88&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A3/88"/>
+        </TreeNode>
+        <TreeNode Title="F41A3/90 ###流体缓冲垫[5]" Target="frmContent" Href="../searchservlet?query=F41A3/90&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A3/90">
+          <TreeNode Title="F41A3/92 ####能调整的[5]" Target="frmContent" Href="../searchservlet?query=F41A3/92&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A3/92"/>
+          <TreeNode Title="F41A3/94 ####和弹簧缓冲垫的共同结合[5]" Target="frmContent" Href="../searchservlet?query=F41A3/94&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A3/94"/>
+        </TreeNode>
+      </TreeNode>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="F41A5/00 用推进装药能量自动开锁的操作机构或系统[5]" Target="frmContent" Href="../searchservlet?query=F41A5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A5/00">
+    <TreeNode Title="F41A5/02 #后坐操作的[5]" Target="frmContent" Href="../searchservlet?query=F41A5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A5/02">
+      <TreeNode Title="F41A5/04 ##在后坐过程中，身管被倾斜[5]" Target="frmContent" Href="../searchservlet?query=F41A5/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A5/04"/>
+      <TreeNode Title="F41A5/06 ##在后坐过程中，身管相对于其纵轴线旋转[5]" Target="frmContent" Href="../searchservlet?query=F41A5/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A5/06"/>
+      <TreeNode Title="F41A5/08 ##在闭锁机或枪栓开启运动中有加速器杆起作用[5]" Target="frmContent" Href="../searchservlet?query=F41A5/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A5/08"/>
+      <TreeNode Title="F41A5/10 ##有能移动的惯性重量[5]" Target="frmContent" Href="../searchservlet?query=F41A5/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A5/10">
+        <TreeNode Title="F41A5/12 ###安装在具有固定身管的枪内[5]" Target="frmContent" Href="../searchservlet?query=F41A5/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A5/12"/>
+      </TreeNode>
+      <TreeNode Title="F41A5/14 ##身管止动装置，即保持后坐的身管在预定的位置，例如后坐位置的装置[5]" Target="frmContent" Href="../searchservlet?query=F41A5/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A5/14"/>
+      <TreeNode Title="F41A5/16 ##在发射一发子弹后枪管向前运动的[5]" Target="frmContent" Href="../searchservlet?query=F41A5/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A5/16"/>
+    </TreeNode>
+    <TreeNode Title="F41A5/18 #气体操作的[5]" Target="frmContent" Href="../searchservlet?query=F41A5/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A5/18">
+      <TreeNode Title="F41A5/20 ##使用环绕身管同心安装的气体活塞[5]" Target="frmContent" Href="../searchservlet?query=F41A5/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A5/20"/>
+      <TreeNode Title="F41A5/22 ##具有两个或多个气体活塞[5]" Target="frmContent" Href="../searchservlet?query=F41A5/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A5/22"/>
+      <TreeNode Title="F41A5/24 ##由施加在枪栓或闭锁元件上的气体压力直接作用的[5]" Target="frmContent" Href="../searchservlet?query=F41A5/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A5/24"/>
+      <TreeNode Title="F41A5/26 ##用于自身管泄漏气体的装置或系统(F41A 5/20至F41A 5/24优先)[5]" Target="frmContent" Href="../searchservlet?query=F41A5/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A5/26">
+        <TreeNode Title="F41A5/28 ###可调整的系统[5]" Target="frmContent" Href="../searchservlet?query=F41A5/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A5/28"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="F41A5/30 #气体或后坐操作，例如选择气体或后坐操作系统[5]" Target="frmContent" Href="../searchservlet?query=F41A5/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A5/30"/>
+    <TreeNode Title="F41A5/32 #能量累积系统，即在身管或气体活塞后坐过程中通过储存的能量开启闭锁机的系统[5]" Target="frmContent" Href="../searchservlet?query=F41A5/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A5/32">
+      <TreeNode Title="F41A5/34 ##带弹性累积器[5]" Target="frmContent" Href="../searchservlet?query=F41A5/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A5/34"/>
+      <TreeNode Title="F41A5/36 ##带液体累积器[5]" Target="frmContent" Href="../searchservlet?query=F41A5/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A5/36"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="F41A7/00 在自动发射前用于把闭锁机构或枪栓或枪管带到启动位置的辅助机构(操作手柄或杆入F41A 3/00)；外部动力枪的驱动装置(回转式加农炮入F41A 1/00)；遥控枪的装填装置[5]" Target="frmContent" Href="../searchservlet?query=F41A7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A7/00">
+    <TreeNode Title="F41A7/02 #机关枪充装填装置，例如手动的[5]" Target="frmContent" Href="../searchservlet?query=F41A7/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A7/02">
+      <TreeNode Title="F41A7/04 ##液动的[5]" Target="frmContent" Href="../searchservlet?query=F41A7/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A7/04"/>
+      <TreeNode Title="F41A7/06 ##电动的[5]" Target="frmContent" Href="../searchservlet?query=F41A7/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A7/06"/>
+    </TreeNode>
+    <TreeNode Title="F41A7/08 #用于外部动力枪的驱动装置，即在自动发射期间用外力推动闭锁机或枪栓的驱动装置[5]" Target="frmContent" Href="../searchservlet?query=F41A7/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A7/08">
+      <TreeNode Title="F41A7/10 ##使用旋转筒形弹鼓，带有凸轮沟槽的[5]" Target="frmContent" Href="../searchservlet?query=F41A7/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A7/10"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="F41A9/00 弹药供给或装填(适合于从气枪弹匣供给或装填发射物的入F41B 11/02)；弹匣；用于抓取子弹的导引装置(抓弹钩、推壳器入F41A 15/00)[5]" Target="frmContent" Href="../searchservlet?query=F41A9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A9/00">
+    <TreeNode Title="F41A9/01 #无子弹带的弹药供给[5]" Target="frmContent" Href="../searchservlet?query=F41A9/01&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A9/01">
+      <TreeNode Title="F41A9/02 ##使用轮式输弹器，例如星形输弹器[5]" Target="frmContent" Href="../searchservlet?query=F41A9/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A9/02"/>
+      <TreeNode Title="F41A9/03 ##使用螺旋或回转螺旋输弹器[5]" Target="frmContent" Href="../searchservlet?query=F41A9/03&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A9/03"/>
+      <TreeNode Title="F41A9/04 ##使用环形链条输送多发弹药[5]" Target="frmContent" Href="../searchservlet?query=F41A9/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A9/04">
+        <TreeNode Title="F41A9/05 ###用串联传动系统[5]" Target="frmContent" Href="../searchservlet?query=F41A9/05&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A9/05"/>
+      </TreeNode>
+      <TreeNode Title="F41A9/06 ##使用环状运动输弹器，即装有弹药推进装置或运载装置的输弹器，在返回行程，运载装置是空的或不与弹药啮合[5]" Target="frmContent" Href="../searchservlet?query=F41A9/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A9/06">
+        <TreeNode Title="F41A9/07 ###往复式输弹器，即输弹器在供弹行程推动多发弹药[5]" Target="frmContent" Href="../searchservlet?query=F41A9/07&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A9/07"/>
+        <TreeNode Title="F41A9/09 ###可移动弹药的运载装置或装填托盘，例如用于从弹匣供弹[5]" Target="frmContent" Href="../searchservlet?query=F41A9/09&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A9/09">
+          <TreeNode Title="F41A9/10 ####枢轴的或摆动的[5]" Target="frmContent" Href="../searchservlet?query=F41A9/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A9/10">
+            <TreeNode Title="F41A9/11 #####在水平面[5]" Target="frmContent" Href="../searchservlet?query=F41A9/11&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A9/11">
+              <TreeNode Title="F41A9/12 ######安装在轻武器内[5]" Target="frmContent" Href="../searchservlet?query=F41A9/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A9/12"/>
+            </TreeNode>
+            <TreeNode Title="F41A9/13 #####在垂直平面[5]" Target="frmContent" Href="../searchservlet?query=F41A9/13&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A9/13">
+              <TreeNode Title="F41A9/14 ######传送到身管轴线[5]" Target="frmContent" Href="../searchservlet?query=F41A9/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A9/14">
+                <TreeNode Title="F41A9/15 #######安装在轻武器内[5]" Target="frmContent" Href="../searchservlet?query=F41A9/15&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A9/15"/>
+              </TreeNode>
+              <TreeNode Title="F41A9/16 ######平行于身管轴线[5]" Target="frmContent" Href="../searchservlet?query=F41A9/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A9/16">
+                <TreeNode Title="F41A9/17 #######安装在轻武器内[5]" Target="frmContent" Href="../searchservlet?query=F41A9/17&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A9/17">
+                  <TreeNode Title="F41A9/18 ########从身管下面的弹匣供给的[5]" Target="frmContent" Href="../searchservlet?query=F41A9/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A9/18"/>
+                  <TreeNode Title="F41A9/19 ########从装在枪托柄内的弹匣供弹的[5]" Target="frmContent" Href="../searchservlet?query=F41A9/19&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A9/19"/>
+                </TreeNode>
+              </TreeNode>
+            </TreeNode>
+          </TreeNode>
+          <TreeNode Title="F41A9/20 ####滑动的，例如往复运动的[5]" Target="frmContent" Href="../searchservlet?query=F41A9/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A9/20">
+            <TreeNode Title="F41A9/21 #####在垂直方向(F41A 9/23优先)[5]" Target="frmContent" Href="../searchservlet?query=F41A9/21&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A9/21"/>
+            <TreeNode Title="F41A9/22 #####在水平方向(F41A 9/23优先)[5]" Target="frmContent" Href="../searchservlet?query=F41A9/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A9/22"/>
+            <TreeNode Title="F41A9/23 #####安装在轻武器内[5]" Target="frmContent" Href="../searchservlet?query=F41A9/23&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A9/23"/>
+          </TreeNode>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="F41A9/24 ##使用可移动的弹匣或弹夹作为供给部件[5]" Target="frmContent" Href="../searchservlet?query=F41A9/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A9/24">
+        <TreeNode Title="F41A9/25 ###使用滑动弹夹[5]" Target="frmContent" Href="../searchservlet?query=F41A9/25&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A9/25"/>
+        <TreeNode Title="F41A9/26 ###使用回转鼓形弹匣[5]" Target="frmContent" Href="../searchservlet?query=F41A9/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A9/26">
+          <TreeNode Title="F41A9/27 ####用于转轮类型枪中[5]" Target="frmContent" Href="../searchservlet?query=F41A9/27&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A9/27">
+            <TreeNode Title="F41A9/28 #####用在轻武器类型枪中(用于左轮手枪入F41C 3/14)[5]" Target="frmContent" Href="../searchservlet?query=F41A9/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A9/28"/>
+          </TreeNode>
+        </TreeNode>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="F41A9/29 #弹带的弹药供给[5]" Target="frmContent" Href="../searchservlet?query=F41A9/29&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A9/29">
+      <TreeNode Title="F41A9/30 ##链轮式皮带输弹器[5]" Target="frmContent" Href="../searchservlet?query=F41A9/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A9/30">
+        <TreeNode Title="F41A9/31 ###带有子弹分解装置[5]" Target="frmContent" Href="../searchservlet?query=F41A9/31&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A9/31"/>
+      </TreeNode>
+      <TreeNode Title="F41A9/32 ##往复滑动型条带输弹器[5]" Target="frmContent" Href="../searchservlet?query=F41A9/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A9/32">
+        <TreeNode Title="F41A9/33 ###带有子弹分解装置[5]" Target="frmContent" Href="../searchservlet?query=F41A9/33&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A9/33"/>
+      </TreeNode>
+      <TreeNode Title="F41A9/34 ##从弹匣上(用于带弹带弹药的弹匣本身入F41A 9/79)[5]" Target="frmContent" Href="../searchservlet?query=F41A9/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A9/34"/>
+    </TreeNode>
+    <TreeNode Title="F41A9/35 #多身管枪的给料[5]" Target="frmContent" Href="../searchservlet?query=F41A9/35&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A9/35">
+      <TreeNode Title="F41A9/36 ##用于回转加农炮的供给机构[5]" Target="frmContent" Href="../searchservlet?query=F41A9/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A9/36"/>
+    </TreeNode>
+    <TreeNode Title="F41A9/37 #供给两种或多种弹药到同样的枪中；从两侧供给[5]" Target="frmContent" Href="../searchservlet?query=F41A9/37&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A9/37"/>
+    <TreeNode Title="F41A9/38 #装填装置；即把弹药输至发射位置[5]" Target="frmContent" Href="../searchservlet?query=F41A9/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A9/38">
+      <TreeNode Title="F41A9/39 ##压弹装置[5]" Target="frmContent" Href="../searchservlet?query=F41A9/39&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A9/39">
+        <TreeNode Title="F41A9/40 ###闭锁机本身是压弹装置[5]" Target="frmContent" Href="../searchservlet?query=F41A9/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A9/40">
+          <TreeNode Title="F41A9/41 ####把不带弹带的弹药从枪身上的盒式弹仓推入弹膛[5]" Target="frmContent" Href="../searchservlet?query=F41A9/41&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A9/41"/>
+        </TreeNode>
+        <TreeNode Title="F41A9/42 ###从闭锁机上分离压弹装置[5]" Target="frmContent" Href="../searchservlet?query=F41A9/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A9/42">
+          <TreeNode Title="F41A9/43 ####链式压弹装置[5]" Target="frmContent" Href="../searchservlet?query=F41A9/43&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A9/43"/>
+          <TreeNode Title="F41A9/44 ####液动活塞压弹装置[5]" Target="frmContent" Href="../searchservlet?query=F41A9/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A9/44"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="F41A9/45 ##在装填和发射位置之间弹膛或身管作为一个可倾斜的整体[5]" Target="frmContent" Href="../searchservlet?query=F41A9/45&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A9/45"/>
+      <TreeNode Title="F41A9/46 ##弹膛是由两个辅助部件构成的[5]" Target="frmContent" Href="../searchservlet?query=F41A9/46&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A9/46"/>
+      <TreeNode Title="F41A9/47 ##使用向前滑动的身管或身管部件用于装填的[5]" Target="frmContent" Href="../searchservlet?query=F41A9/47&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A9/47"/>
+      <TreeNode Title="F41A9/48 ##利用重力[5]" Target="frmContent" Href="../searchservlet?query=F41A9/48&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A9/48"/>
+    </TreeNode>
+    <TreeNode Title="F41A9/49 #内动力装置，即由推进装药能量操作，例如联接器、接合器、能量累积器[5]" Target="frmContent" Href="../searchservlet?query=F41A9/49&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A9/49"/>
+    <TreeNode Title="F41A9/50 #外动力或控制系统[5]" Target="frmContent" Href="../searchservlet?query=F41A9/50&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A9/50">
+      <TreeNode Title="F41A9/51 ##辅助装置,即外动力马达[5]" Target="frmContent" Href="../searchservlet?query=F41A9/51&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A9/51"/>
+    </TreeNode>
+    <TreeNode Title="F41A9/52 #用于将自动的或弹匣装填改变为手工装填的装置[5]" Target="frmContent" Href="../searchservlet?query=F41A9/52&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A9/52"/>
+    <TreeNode Title="F41A9/53 #装填状态指示器，即表明子弹在弹膛内的状况[5]" Target="frmContent" Href="../searchservlet?query=F41A9/53&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A9/53"/>
+    <TreeNode Title="F41A9/54 #子弹导引装置、止动装置或定位装置，例如用于子弹的引出[5]" Target="frmContent" Href="../searchservlet?query=F41A9/54&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A9/54">
+      <TreeNode Title="F41A9/55 ##在弹膛上或靠近弹膛安装的固定导引装置[5]" Target="frmContent" Href="../searchservlet?query=F41A9/55&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A9/55"/>
+      <TreeNode Title="F41A9/56 ##可移动的导引装置[5]" Target="frmContent" Href="../searchservlet?query=F41A9/56&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A9/56">
+        <TreeNode Title="F41A9/57 ###柔性斜槽，例如把带弹带弹药从弹匣导入枪内[5]" Target="frmContent" Href="../searchservlet?query=F41A9/57&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A9/57"/>
+      </TreeNode>
+      <TreeNode Title="F41A9/58 ##子弹止动器；子弹定位器[5]" Target="frmContent" Href="../searchservlet?query=F41A9/58&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A9/58"/>
+    </TreeNode>
+    <TreeNode Title="F41A9/59 #用于弹夹或弹匣的推顶器，例如当空的时[5]" Target="frmContent" Href="../searchservlet?query=F41A9/59&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A9/59"/>
+    <TreeNode Title="F41A9/60 #空弹壳或条带式链条聚集器或收集器(F41A 9/81优先)[5]" Target="frmContent" Href="../searchservlet?query=F41A9/60&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A9/60"/>
+    <TreeNode Title="F41A9/61 #弹匣[5]" Target="frmContent" Href="../searchservlet?query=F41A9/61&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A9/61">
+      <TreeNode Title="F41A9/62 ##具有显示弹匣内剩余子弹数量的装置，例如最后一发子弹指示器(最后一发子弹保险装置入F41A 17/40)[5]" Target="frmContent" Href="../searchservlet?query=F41A9/62&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A9/62"/>
+      <TreeNode Title="F41A9/63 ##专门适用于与其他弹匣可解脱的连接[5]" Target="frmContent" Href="../searchservlet?query=F41A9/63&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A9/63"/>
+      <TreeNode Title="F41A9/64 ##用于无弹带弹药[5]" Target="frmContent" Href="../searchservlet?query=F41A9/64&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A9/64">
+        <TreeNode Title="F41A9/65 ###具有子弹输弹装置的盒式弹匣[5]" Target="frmContent" Href="../searchservlet?query=F41A9/65&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A9/65">
+          <TreeNode Title="F41A9/66 ####用于装药,即再装填的装置(用于弹匣再装填的装置或工具入F41A 9/83)[5]" Target="frmContent" Href="../searchservlet?query=F41A9/66&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A9/66">
+            <TreeNode Title="F41A9/67 #####具有压下子弹输弹装置的机构，或用于把子弹锁在受压的位置[5]" Target="frmContent" Href="../searchservlet?query=F41A9/67&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A9/67"/>
+          </TreeNode>
+          <TreeNode Title="F41A9/68 ####多个弹匣,例如串联弹匣[5]" Target="frmContent" Href="../searchservlet?query=F41A9/68&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A9/68"/>
+          <TreeNode Title="F41A9/69 ####其特征在于多排或盘旋弯曲的子弹安排[5]" Target="frmContent" Href="../searchservlet?query=F41A9/69&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A9/69"/>
+          <TreeNode Title="F41A9/70 ####释入，例如子弹导向装置或释放弹颈的装置[5]" Target="frmContent" Href="../searchservlet?query=F41A9/70&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A9/70"/>
+          <TreeNode Title="F41A9/71 ####改变容量的装置，用于转换子弹大小或类型的附加件或插入件[5]" Target="frmContent" Href="../searchservlet?query=F41A9/71&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A9/71"/>
+        </TreeNode>
+        <TreeNode Title="F41A9/72 ###筒形的弹匣，即把弹药包含在纵向串联系统中的弹匣[5]" Target="frmContent" Href="../searchservlet?query=F41A9/72&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A9/72"/>
+        <TreeNode Title="F41A9/73 ###鼓形弹匣[5]" Target="frmContent" Href="../searchservlet?query=F41A9/73&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A9/73">
+          <TreeNode Title="F41A9/74 ####径向排列子弹[5]" Target="frmContent" Href="../searchservlet?query=F41A9/74&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A9/74"/>
+          <TreeNode Title="F41A9/75 ####具有螺旋形子弹通道[5]" Target="frmContent" Href="../searchservlet?query=F41A9/75&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A9/75"/>
+        </TreeNode>
+        <TreeNode Title="F41A9/76 ###具有环链传送带的弹匣[5]" Target="frmContent" Href="../searchservlet?query=F41A9/76&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A9/76"/>
+        <TreeNode Title="F41A9/77 ###具有螺旋传送器的弹匣[5]" Target="frmContent" Href="../searchservlet?query=F41A9/77&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A9/77"/>
+        <TreeNode Title="F41A9/78 ###具有往复传送装置的弹匣[5]" Target="frmContent" Href="../searchservlet?query=F41A9/78&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A9/78"/>
+      </TreeNode>
+      <TreeNode Title="F41A9/79 ##用于带弹带的弹药[5]" Target="frmContent" Href="../searchservlet?query=F41A9/79&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A9/79">
+        <TreeNode Title="F41A9/80 ###具有适用于快速联结邻近弹匣的弹带的装置[5]" Target="frmContent" Href="../searchservlet?query=F41A9/80&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A9/80"/>
+        <TreeNode Title="F41A9/81 ###具有收集弹链或空弹壳的装置[5]" Target="frmContent" Href="../searchservlet?query=F41A9/81&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A9/81"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="F41A9/82 #再装填的弹匣[5]" Target="frmContent" Href="../searchservlet?query=F41A9/82&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A9/82">
+      <TreeNode Title="F41A9/83 ##适用于再装填无弹带弹药的弹匣的装置或工具，例如弹夹[5]" Target="frmContent" Href="../searchservlet?query=F41A9/83&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A9/83">
+        <TreeNode Title="F41A9/84 ###弹夹[5]" Target="frmContent" Href="../searchservlet?query=F41A9/84&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A9/84">
+          <TreeNode Title="F41A9/85 ####用于再装填旋转类型的弹匣[5]" Target="frmContent" Href="../searchservlet?query=F41A9/85&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A9/85"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="F41A9/86 ##把带弹带的弹药输入弹匣[5]" Target="frmContent" Href="../searchservlet?query=F41A9/86&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A9/86"/>
+    </TreeNode>
+    <TreeNode Title="F41A9/87 #弹药输送车或运输车(F41A 9/86优先)[5]" Target="frmContent" Href="../searchservlet?query=F41A9/87&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A9/87"/>
+  </TreeNode>
+  <TreeNode Title="F41A11/00 装配或拆卸部件；组合原理；铰接的或可折叠枪(F41A 3/64，F41A 19/10至F41A 19/15，F41A 21/48，F41A 25/26优先)[5]" Target="frmContent" Href="../searchservlet?query=F41A11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A11/00">
+    <TreeNode Title="F41A11/02 #组合原理，例如武器族原理[5]" Target="frmContent" Href="../searchservlet?query=F41A11/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A11/02"/>
+    <TreeNode Title="F41A11/04 #铰接或可折叠枪，即带有适于运输或储藏的铰链或套筒(分解式猎枪或步枪入F41C 7/11；折叠或套筒式枪托或枪托部件入F41C 23/04)[5]" Target="frmContent" Href="../searchservlet?query=F41A11/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A11/04">
+      <TreeNode Title="F41A11/06 ##可伸缩枪[5]" Target="frmContent" Href="../searchservlet?query=F41A11/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A11/06"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="F41A13/00 冷却或加热系统(带有散热片或肋的身管或枪管入F41A 21/00)；向枪管吹气；排气系统[5]" Target="frmContent" Href="../searchservlet?query=F41A13/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A13/00">
+    <TreeNode Title="F41A13/02 #加热系统[5]" Target="frmContent" Href="../searchservlet?query=F41A13/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A13/02"/>
+    <TreeNode Title="F41A13/04 #向枪管或弹膛注入液体(F41A 13/08优先)[5]" Target="frmContent" Href="../searchservlet?query=F41A13/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A13/04"/>
+    <TreeNode Title="F41A13/06 #自枪管排出燃烧气体(F41A 13/10优先)[5]" Target="frmContent" Href="../searchservlet?query=F41A13/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A13/06">
+      <TreeNode Title="F41A13/08 ##枪膛真空装置，即环绕枪管安装的储藏燃烧气体的腔室和随后把燃烧气体导入枪管提供负压的腔室[5]" Target="frmContent" Href="../searchservlet?query=F41A13/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A13/08"/>
+    </TreeNode>
+    <TreeNode Title="F41A13/10 #抽真空或冷却枪的压缩机或透平机，例如由燃烧的气体压力或反冲力驱动的[5]" Target="frmContent" Href="../searchservlet?query=F41A13/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A13/10"/>
+    <TreeNode Title="F41A13/12 #冷却枪管外表面的冷却装置(F41A 13/10优先)[5]" Target="frmContent" Href="../searchservlet?query=F41A13/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A13/12"/>
+  </TreeNode>
+  <TreeNode Title="F41A15/00 抓弹钩，即至少部分地把子弹或弹壳拉出弹膛的装置；推弹器，即把拉出的子弹或弹壳抛出枪外的装置(F41A 9/54优先)[5]" Target="frmContent" Href="../searchservlet?query=F41A15/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A15/00">
+    <TreeNode Title="F41A15/02 #适用于左轮手枪类型的枪，即左轮手枪[5]" Target="frmContent" Href="../searchservlet?query=F41A15/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A15/02"/>
+    <TreeNode Title="F41A15/04 #在发射时，专门适用于变形的弹壳，例如塑料制的[5]" Target="frmContent" Href="../searchservlet?query=F41A15/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A15/04"/>
+    <TreeNode Title="F41A15/06 #适用于分解枪[5]" Target="frmContent" Href="../searchservlet?query=F41A15/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A15/06"/>
+    <TreeNode Title="F41A15/08 #适用于闭锁动作的枪[5]" Target="frmContent" Href="../searchservlet?query=F41A15/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A15/08">
+      <TreeNode Title="F41A15/10 ##用于滑动闭锁类型的枪[5]" Target="frmContent" Href="../searchservlet?query=F41A15/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A15/10"/>
+    </TreeNode>
+    <TreeNode Title="F41A15/12 #用于枪机动作的枪[5]" Target="frmContent" Href="../searchservlet?query=F41A15/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A15/12">
+      <TreeNode Title="F41A15/14 ##推弹器安装于枪机上或枪机内[5]" Target="frmContent" Href="../searchservlet?query=F41A15/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A15/14"/>
+      <TreeNode Title="F41A15/16 ##推弹器安装在闭锁机构上或枪身上[5]" Target="frmContent" Href="../searchservlet?query=F41A15/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A15/16"/>
+    </TreeNode>
+    <TreeNode Title="F41A15/18 #适用于装有能向前滑动的枪管的枪[5]" Target="frmContent" Href="../searchservlet?query=F41A15/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A15/18"/>
+    <TreeNode Title="F41A15/20 #专门适用于无壳弹药假弹[5]" Target="frmContent" Href="../searchservlet?query=F41A15/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A15/20"/>
+    <TreeNode Title="F41A15/22 #抽弹工具[5]" Target="frmContent" Href="../searchservlet?query=F41A15/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A15/22"/>
+  </TreeNode>
+  <TreeNode Title="F41A17/00 安全设备，例如保险装置[5]" Target="frmContent" Href="../searchservlet?query=F41A17/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A17/00">
+    <TreeNode Title="F41A17/02 #按钮操作的保险装置[5]" Target="frmContent" Href="../searchservlet?query=F41A17/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A17/02"/>
+    <TreeNode Title="F41A17/04 #组合闭锁类型的保险装置(F41A 17/02优先)[5]" Target="frmContent" Href="../searchservlet?query=F41A17/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A17/04"/>
+    <TreeNode Title="F41A17/06 #电或电机保险装置(F41A 17/04，F41A 17/08优先)[5]" Target="frmContent" Href="../searchservlet?query=F41A17/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A17/06"/>
+    <TreeNode Title="F41A17/08 #用于阻止在一个特殊方向射击，例如在一个友好人员旁或在保护区域内(F41A 27/02优先)[5]" Target="frmContent" Href="../searchservlet?query=F41A17/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A17/08">
+      <TreeNode Title="F41A17/10 ##带俯仰阻止的发射机构[5]" Target="frmContent" Href="../searchservlet?query=F41A17/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A17/10"/>
+      <TreeNode Title="F41A17/12 ##带防翻转保险装置的发射机构[5]" Target="frmContent" Href="../searchservlet?query=F41A17/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A17/12"/>
+    </TreeNode>
+    <TreeNode Title="F41A17/14 #双装填防护[5]" Target="frmContent" Href="../searchservlet?query=F41A17/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A17/14"/>
+    <TreeNode Title="F41A17/16 #自燃防护，即防止待发射的枪弹由子弹膛壁灼热而自燃发射[5]" Target="frmContent" Href="../searchservlet?query=F41A17/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A17/16"/>
+    <TreeNode Title="F41A17/18 #滞发射防护[5]" Target="frmContent" Href="../searchservlet?query=F41A17/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A17/18"/>
+    <TreeNode Title="F41A17/20 #柄或托保险装置，即防止被扣住的柄或托脱开的保险装置(拇指操作的滑动保险装置入F41A 17/52，F41A 17/62，F41A 17/70，F41A 17/80)[5]" Target="frmContent" Href="../searchservlet?query=F41A17/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A17/20">
+      <TreeNode Title="F41A17/22 ##靠扳机起作用的[5]" Target="frmContent" Href="../searchservlet?query=F41A17/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A17/22"/>
+      <TreeNode Title="F41A17/24 ##靠击针起作用的[5]" Target="frmContent" Href="../searchservlet?query=F41A17/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A17/24"/>
+      <TreeNode Title="F41A17/26 ##靠击锤起作用的[5]" Target="frmContent" Href="../searchservlet?query=F41A17/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A17/26"/>
+      <TreeNode Title="F41A17/28 ##靠阻铁起作用的[5]" Target="frmContent" Href="../searchservlet?query=F41A17/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A17/28"/>
+    </TreeNode>
+    <TreeNode Title="F41A17/30 #多重保险装置，即保险装置对发射机构中至少一个元件和枪中至少一个其他元件起作用，例如移动的枪管[5]" Target="frmContent" Href="../searchservlet?query=F41A17/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A17/30">
+      <TreeNode Title="F41A17/32 ##其他元件是枪闩或枪机[5]" Target="frmContent" Href="../searchservlet?query=F41A17/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A17/32"/>
+    </TreeNode>
+    <TreeNode Title="F41A17/34 #弹匣保险装置[5]" Target="frmContent" Href="../searchservlet?query=F41A17/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A17/34">
+      <TreeNode Title="F41A17/36 ##当弹匣是空的或被取下，在保险状况下闭锁枪[5]" Target="frmContent" Href="../searchservlet?query=F41A17/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A17/36"/>
+      <TreeNode Title="F41A17/38 ##把弹匣锁紧在枪内[5]" Target="frmContent" Href="../searchservlet?query=F41A17/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A17/38"/>
+    </TreeNode>
+    <TreeNode Title="F41A17/40 #最后一发枪弹保险装置(F41A 17/34优先)[5]" Target="frmContent" Href="../searchservlet?query=F41A17/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A17/40"/>
+    <TreeNode Title="F41A17/42 #用于在保险位置锁住闭锁装置或枪机的保险装置(F41A 17/32，F41A 17/36，F41A 17/40优先)[5]" Target="frmContent" Href="../searchservlet?query=F41A17/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A17/42"/>
+    <TreeNode Title="F41A17/44 #保险销，例如用于插入弹膛内[5]" Target="frmContent" Href="../searchservlet?query=F41A17/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A17/44"/>
+    <TreeNode Title="F41A17/46 #扳机保险装置，即用于防止扳机移动的装置(F41A 17/02至F41A 17/40优先)[5]" Target="frmContent" Href="../searchservlet?query=F41A17/46&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A17/46">
+      <TreeNode Title="F41A17/48 ##自动操作的扳机保险装置，即由开闭运动的枪闩操作的[5]" Target="frmContent" Href="../searchservlet?query=F41A17/48&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A17/48">
+        <TreeNode Title="F41A17/50 ###用开启动作[5]" Target="frmContent" Href="../searchservlet?query=F41A17/50&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A17/50"/>
+      </TreeNode>
+      <TreeNode Title="F41A17/52 ##固定在枪托上部的用大拇指操作的滑动保险装置，例如用于猎枪[5]" Target="frmContent" Href="../searchservlet?query=F41A17/52&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A17/52"/>
+      <TreeNode Title="F41A17/54 ##用于扳机护圈的保护帽；固定在扳机护圈上或固定在扳机护圈内的扳机闭锁片[5]" Target="frmContent" Href="../searchservlet?query=F41A17/54&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A17/54"/>
+    </TreeNode>
+    <TreeNode Title="F41A17/56 #击发阻铁保险装置，即把扳机运动传递到击针、击锤、枪机上击发阻铁提供不起作用的中间手段的装置(F41A 17/02至F41A 17/40优先)[5]" Target="frmContent" Href="../searchservlet?query=F41A17/56&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A17/56">
+      <TreeNode Title="F41A17/58 ##自动操作的，即由开闭运动的枪闩操作的[5]" Target="frmContent" Href="../searchservlet?query=F41A17/58&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A17/58">
+        <TreeNode Title="F41A17/60 ###由开启动作[5]" Target="frmContent" Href="../searchservlet?query=F41A17/60&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A17/60"/>
+      </TreeNode>
+      <TreeNode Title="F41A17/62 ##固定在枪托上部用大拇指操作的滑动保险装置，例如用于猎枪[5]" Target="frmContent" Href="../searchservlet?query=F41A17/62&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A17/62"/>
+    </TreeNode>
+    <TreeNode Title="F41A17/64 #击针保险装置，即防止可滑动安装的击锤移动的装置(F41A 17/02至F41A 17/40优先)[5]" Target="frmContent" Href="../searchservlet?query=F41A17/64&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A17/64">
+      <TreeNode Title="F41A17/66 ##自动操作的，即由开锁或闭锁运动的枪闩操作的[5]" Target="frmContent" Href="../searchservlet?query=F41A17/66&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A17/66">
+        <TreeNode Title="F41A17/68 ###由开启动作[5]" Target="frmContent" Href="../searchservlet?query=F41A17/68&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A17/68"/>
+      </TreeNode>
+      <TreeNode Title="F41A17/70 ##固定在枪托上部用大拇指操作的滑动保险装置，例如用于猎枪[5]" Target="frmContent" Href="../searchservlet?query=F41A17/70&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A17/70"/>
+      <TreeNode Title="F41A17/72 ##扳机操作的，即在发射时扳机的运动使得击针销保险装置进入不工作的位置[5]" Target="frmContent" Href="../searchservlet?query=F41A17/72&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A17/72"/>
+    </TreeNode>
+    <TreeNode Title="F41A17/74 #击锤保险装置，即防止枢轴安装的击锤打击枪弹或击针的装置(F41A 17/02至F41A 17/40优先)[5]" Target="frmContent" Href="../searchservlet?query=F41A17/74&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A17/74">
+      <TreeNode Title="F41A17/76 ##自动操作的，即由开锁或闭锁运动的枪闩操作的[5]" Target="frmContent" Href="../searchservlet?query=F41A17/76&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A17/76">
+        <TreeNode Title="F41A17/78 ###由开启动作[5]" Target="frmContent" Href="../searchservlet?query=F41A17/78&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A17/78"/>
+      </TreeNode>
+      <TreeNode Title="F41A17/80 ##固定在枪托上部用大拇指操作的滑动保险装置，例如用于猎枪的[5]" Target="frmContent" Href="../searchservlet?query=F41A17/80&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A17/80"/>
+      <TreeNode Title="F41A17/82 ##扳机操作的，即在发射期间扳机的运动致使击锤保险装置进入不工作的位置[5]" Target="frmContent" Href="../searchservlet?query=F41A17/82&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A17/82"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="F41A19/00 击发或扳机机构；待发机构[5]" Target="frmContent" Href="../searchservlet?query=F41A19/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A19/00">
+    <TreeNode Title="F41A19/01 #显示已射击子弹数目的计数装置[5]" Target="frmContent" Href="../searchservlet?query=F41A19/01&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A19/01">
+      <TreeNode Title="F41A19/02 ##连发射击限制器(F41A 19/67优先)[5]" Target="frmContent" Href="../searchservlet?query=F41A19/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A19/02"/>
+    </TreeNode>
+    <TreeNode Title="F41A19/03 #射速控制装置(F41A 3/78，F41A 5/28，F41A 19/05，F41A 19/66优先)[5]" Target="frmContent" Href="../searchservlet?query=F41A19/03&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A19/03">
+      <TreeNode Title="F41A19/04 ##通过调整释放击针或击锤的时间[5]" Target="frmContent" Href="../searchservlet?query=F41A19/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A19/04"/>
+    </TreeNode>
+    <TreeNode Title="F41A19/05 #用于同步地通过航空器推进装置发射的[5]" Target="frmContent" Href="../searchservlet?query=F41A19/05&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A19/05"/>
+    <TreeNode Title="F41A19/06 #机械发射装置(F41A 19/01至F41A 19/05，F41A 19/59优先)[5]" Target="frmContent" Href="../searchservlet?query=F41A19/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A19/06">
+      <TreeNode Title="F41A19/07 ##按钮致动的，例如带大拇指托架的[5]" Target="frmContent" Href="../searchservlet?query=F41A19/07&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A19/07"/>
+      <TreeNode Title="F41A19/08 ##遥控致动的；拉火绳致动的[5]" Target="frmContent" Href="../searchservlet?query=F41A19/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A19/08"/>
+      <TreeNode Title="F41A19/09 ##辅助扳机装置(F41A 19/08优先)[5]" Target="frmContent" Href="../searchservlet?query=F41A19/09&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A19/09"/>
+      <TreeNode Title="F41A19/10 ##扳机；扳机固定件[5]" Target="frmContent" Href="../searchservlet?query=F41A19/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A19/10"/>
+      <TreeNode Title="F41A19/11 ##扳机护圈；扳机护圈固定件(F41A 19/15优先)[5]" Target="frmContent" Href="../searchservlet?query=F41A19/11&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A19/11"/>
+      <TreeNode Title="F41A19/12 ##阻铁；阻铁固定件[5]" Target="frmContent" Href="../searchservlet?query=F41A19/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A19/12"/>
+      <TreeNode Title="F41A19/13 ##撞击击针，即固定或可滑动地安装在击锤部件上，及其固定件[5]" Target="frmContent" Href="../searchservlet?query=F41A19/13&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A19/13"/>
+      <TreeNode Title="F41A19/14 ##击锤，即枢轴固定的撞锤部件；击锤固定件[5]" Target="frmContent" Href="../searchservlet?query=F41A19/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A19/14"/>
+      <TreeNode Title="F41A19/15 ##组合式发射机构部件[5]" Target="frmContent" Href="../searchservlet?query=F41A19/15&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A19/15"/>
+      <TreeNode Title="F41A19/16 ##可调整发射机构，带有可调整扳机拉力的扳机机构(F41A 19/17优先)[5]" Target="frmContent" Href="../searchservlet?query=F41A19/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A19/16"/>
+      <TreeNode Title="F41A19/17 ##微力扳机机构[5]" Target="frmContent" Href="../searchservlet?query=F41A19/17&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A19/17"/>
+      <TreeNode Title="F41A19/18 ##用于多管枪(F41A 19/68优先)[5]" Target="frmContent" Href="../searchservlet?query=F41A19/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A19/18">
+        <TreeNode Title="F41A19/19 ###带有可能用单个扳机发射的[5]" Target="frmContent" Href="../searchservlet?query=F41A19/19&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A19/19">
+          <TreeNode Title="F41A19/20 ####带有可能由单个扳机致动的双扳机结构装置[5]" Target="frmContent" Href="../searchservlet?query=F41A19/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A19/20"/>
+          <TreeNode Title="F41A19/21 ####仅有一个扳机[5]" Target="frmContent" Href="../searchservlet?query=F41A19/21&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A19/21">
+            <TreeNode Title="F41A19/22 #####仅有一个击锤部件[5]" Target="frmContent" Href="../searchservlet?query=F41A19/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A19/22">
+              <TreeNode Title="F41A19/23 ######相对连续射击的枪管轴线平行的轴线是可旋转的[5]" Target="frmContent" Href="../searchservlet?query=F41A19/23&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A19/23"/>
+            </TreeNode>
+          </TreeNode>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="F41A19/24 ##释放扳机机构，即击锤部件在扳机连续地由扳机拉力作用而作回转运动期间被释放的机构[5]" Target="frmContent" Href="../searchservlet?query=F41A19/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A19/24"/>
+      <TreeNode Title="F41A19/25 ##仅有可滑动地安装的击锤部件，即撞针或击针[5]" Target="frmContent" Href="../searchservlet?query=F41A19/25&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A19/25">
+        <TreeNode Title="F41A19/26 ###撞针或击针和闭锁机或枪机形成一个部件[5]" Target="frmContent" Href="../searchservlet?query=F41A19/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A19/26"/>
+        <TreeNode Title="F41A19/27 ###撞针或击针相对于闭锁机能移动的[5]" Target="frmContent" Href="../searchservlet?query=F41A19/27&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A19/27">
+          <TreeNode Title="F41A19/28 ####当闭锁机或枪机在闭锁位置由凸轮或杠杆推动的[5]" Target="frmContent" Href="../searchservlet?query=F41A19/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A19/28"/>
+          <TreeNode Title="F41A19/29 ####由受张力的弹簧推动的[5]" Target="frmContent" Href="../searchservlet?query=F41A19/29&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A19/29">
+            <TreeNode Title="F41A19/30 #####用于枪机动作的枪[5]" Target="frmContent" Href="../searchservlet?query=F41A19/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A19/30">
+              <TreeNode Title="F41A19/31 ######为此所装配的阻铁(F41A 19/33优先)[5]" Target="frmContent" Href="../searchservlet?query=F41A19/31&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A19/31">
+                <TreeNode Title="F41A19/32 #######用于每次射击后锁住撞针或击针，即在单发或半自动发射状态[5]" Target="frmContent" Href="../searchservlet?query=F41A19/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A19/32"/>
+              </TreeNode>
+              <TreeNode Title="F41A19/33 ######选择自动或半自动射击的装置[5]" Target="frmContent" Href="../searchservlet?query=F41A19/33&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A19/33"/>
+              <TreeNode Title="F41A19/34 ######待发机构[5]" Target="frmContent" Href="../searchservlet?query=F41A19/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A19/34">
+                <TreeNode Title="F41A19/35 #######双作用机构，即在扳机受拉运动期间待发起作用[5]" Target="frmContent" Href="../searchservlet?query=F41A19/35&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A19/35"/>
+              </TreeNode>
+            </TreeNode>
+            <TreeNode Title="F41A19/36 #####在闭锁动作的枪中[5]" Target="frmContent" Href="../searchservlet?query=F41A19/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A19/36">
+              <TreeNode Title="F41A19/37 ######待发机构[5]" Target="frmContent" Href="../searchservlet?query=F41A19/37&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A19/37">
+                <TreeNode Title="F41A19/38 #######双作用机构，即在扳机受拉运动期间待发起作用[5]" Target="frmContent" Href="../searchservlet?query=F41A19/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A19/38"/>
+              </TreeNode>
+            </TreeNode>
+            <TreeNode Title="F41A19/39 #####用于其他类型的枪的待发机构，例如固定闭锁机类型的，向前滑动枪管类型的[5]" Target="frmContent" Href="../searchservlet?query=F41A19/39&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A19/39">
+              <TreeNode Title="F41A19/40 ######双作用机构，即在扳机受拉运动期间待发起作用[5]" Target="frmContent" Href="../searchservlet?query=F41A19/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A19/40"/>
+              <TreeNode Title="F41A19/41 ######用于分解的枪[5]" Target="frmContent" Href="../searchservlet?query=F41A19/41&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A19/41"/>
+            </TreeNode>
+          </TreeNode>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="F41A19/42 ##至少有一个锤[5]" Target="frmContent" Href="../searchservlet?query=F41A19/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A19/42">
+        <TreeNode Title="F41A19/43 ###在枪机动作的枪内[5]" Target="frmContent" Href="../searchservlet?query=F41A19/43&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A19/43">
+          <TreeNode Title="F41A19/44 ####安装有阻铁(F41A 19/46优先)[5]" Target="frmContent" Href="../searchservlet?query=F41A19/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A19/44">
+            <TreeNode Title="F41A19/45 #####用于每次射击后扣住击锤的，即单发射击或半自动射击模式[5]" Target="frmContent" Href="../searchservlet?query=F41A19/45&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A19/45"/>
+          </TreeNode>
+          <TreeNode Title="F41A19/46 ####选择自动或半自动射击的装置[5]" Target="frmContent" Href="../searchservlet?query=F41A19/46&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A19/46"/>
+          <TreeNode Title="F41A19/47 ####待发机构[5]" Target="frmContent" Href="../searchservlet?query=F41A19/47&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A19/47">
+            <TreeNode Title="F41A19/48 #####双作用机构，即在扳机受拉运动期间待发起作用[5]" Target="frmContent" Href="../searchservlet?query=F41A19/48&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A19/48"/>
+          </TreeNode>
+        </TreeNode>
+        <TreeNode Title="F41A19/49 ###在闭锁动作的枪中[5]" Target="frmContent" Href="../searchservlet?query=F41A19/49&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A19/49">
+          <TreeNode Title="F41A19/50 ####待发机构[5]" Target="frmContent" Href="../searchservlet?query=F41A19/50&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A19/50">
+            <TreeNode Title="F41A19/51 #####双作用机构，即在扳机受拉运动期间待发起作用[5]" Target="frmContent" Href="../searchservlet?query=F41A19/51&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A19/51"/>
+          </TreeNode>
+        </TreeNode>
+        <TreeNode Title="F41A19/52 ###用于其他类型枪的待发机构，例如固定闭锁机类型，旋转式类型[5]" Target="frmContent" Href="../searchservlet?query=F41A19/52&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A19/52">
+          <TreeNode Title="F41A19/53 ####双作用机构，即在扳机受拉运动期间待发起作用[5]" Target="frmContent" Href="../searchservlet?query=F41A19/53&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A19/53"/>
+          <TreeNode Title="F41A19/54 ####用于分解式枪[5]" Target="frmContent" Href="../searchservlet?query=F41A19/54&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A19/54"/>
+        </TreeNode>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="F41A19/55 #液动发射机构[5]" Target="frmContent" Href="../searchservlet?query=F41A19/55&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A19/55">
+      <TreeNode Title="F41A19/56 ##推进装药通过绝热压缩与受热空气接触点燃的[5]" Target="frmContent" Href="../searchservlet?query=F41A19/56&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A19/56"/>
+    </TreeNode>
+    <TreeNode Title="F41A19/57 #与带底火的子弹作用的发射机构[5]" Target="frmContent" Href="../searchservlet?query=F41A19/57&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A19/57"/>
+    <TreeNode Title="F41A19/58 #电击发机构(F41A 17/10，F41A 17/12优先)[5]" Target="frmContent" Href="../searchservlet?query=F41A19/58&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A19/58">
+      <TreeNode Title="F41A19/59 ##电机发射机构，即由电操作设备致动或释放的机械撞击部件[5]" Target="frmContent" Href="../searchservlet?query=F41A19/59&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A19/59"/>
+      <TreeNode Title="F41A19/60 ##其特征在于电能产生的装置[5]" Target="frmContent" Href="../searchservlet?query=F41A19/60&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A19/60">
+        <TreeNode Title="F41A19/61 ###感应发生器[5]" Target="frmContent" Href="../searchservlet?query=F41A19/61&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A19/61"/>
+        <TreeNode Title="F41A19/62 ###压电发生器[5]" Target="frmContent" Href="../searchservlet?query=F41A19/62&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A19/62"/>
+      </TreeNode>
+      <TreeNode Title="F41A19/63 ##具有用于无接触传输电能的装置，例如通过感应或火花隙[5]" Target="frmContent" Href="../searchservlet?query=F41A19/63&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A19/63"/>
+      <TreeNode Title="F41A19/64 ##用于自动或连发射击模式[5]" Target="frmContent" Href="../searchservlet?query=F41A19/64&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A19/64">
+        <TreeNode Title="F41A19/65 ###用于脉动射击，即用于定时复合火药发射的电程序控制装置，例如用于火箭发射器[5]" Target="frmContent" Href="../searchservlet?query=F41A19/65&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A19/65"/>
+        <TreeNode Title="F41A19/66 ###电射速控制装置(F41A 19/65优先)[5]" Target="frmContent" Href="../searchservlet?query=F41A19/66&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A19/66"/>
+        <TreeNode Title="F41A19/67 ###连发限制器[5]" Target="frmContent" Href="../searchservlet?query=F41A19/67&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A19/67"/>
+      </TreeNode>
+      <TreeNode Title="F41A19/68 ##用于多枪管的枪(F41A 19/65优先)[5]" Target="frmContent" Href="../searchservlet?query=F41A19/68&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A19/68"/>
+      <TreeNode Title="F41A19/69 ##电接触或特有的开关(F41A 19/65优先)[5]" Target="frmContent" Href="../searchservlet?query=F41A19/69&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A19/69">
+        <TreeNode Title="F41A19/70 ###电撞针；其装配[5]" Target="frmContent" Href="../searchservlet?query=F41A19/70&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A19/70"/>
+      </TreeNode>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="F41A21/00 身管；枪管；枪口附件；身管固定装置(F41A 25/00优先；用于发射枪榴弹或控制轻武器发射的弹药的扰动的附件入F41C 27/06；瞄准装置入F41G 1/00)[5]" Target="frmContent" Href="../searchservlet?query=F41A21/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A21/00">
+    <TreeNode Title="F41A21/02 #组合身管，即具有多层的身管，例如不同的材料[5]" Target="frmContent" Href="../searchservlet?query=F41A21/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A21/02">
+      <TreeNode Title="F41A21/04 ##身管的衬管[5]" Target="frmContent" Href="../searchservlet?query=F41A21/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A21/04"/>
+    </TreeNode>
+    <TreeNode Title="F41A21/06 #复合身管[5]" Target="frmContent" Href="../searchservlet?query=F41A21/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A21/06">
+      <TreeNode Title="F41A21/08 ##身管的连接[5]" Target="frmContent" Href="../searchservlet?query=F41A21/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A21/08"/>
+    </TreeNode>
+    <TreeNode Title="F41A21/10 #插入身管，即用于发射减小了口径的弹药的身管，该身管被固定在正常身管以内[5]" Target="frmContent" Href="../searchservlet?query=F41A21/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A21/10"/>
+    <TreeNode Title="F41A21/12 #弹膛；弹膛衬层(F41A 3/74，F41A 9/46，F41A 21/04优先)[5]" Target="frmContent" Href="../searchservlet?query=F41A21/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A21/12">
+      <TreeNode Title="F41A21/14 ##相对于身管轴线横向的弹膛布置[5]" Target="frmContent" Href="../searchservlet?query=F41A21/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A21/14"/>
+    </TreeNode>
+    <TreeNode Title="F41A21/16 #身管或枪管的特征在于孔的形状[5]" Target="frmContent" Href="../searchservlet?query=F41A21/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A21/16">
+      <TreeNode Title="F41A21/18 ##沟槽；膛线[5]" Target="frmContent" Href="../searchservlet?query=F41A21/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A21/18"/>
+    </TreeNode>
+    <TreeNode Title="F41A21/20 #身管或枪管的特征在于材料(F41A 21/02优先)[5]" Target="frmContent" Href="../searchservlet?query=F41A21/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A21/20"/>
+    <TreeNode Title="F41A21/22 #经过表面处理的身管，例如磷化处理[5]" Target="frmContent" Href="../searchservlet?query=F41A21/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A21/22"/>
+    <TreeNode Title="F41A21/24 #身管或枪管带有散热片或肋，例如用于冷却[5]" Target="frmContent" Href="../searchservlet?query=F41A21/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A21/24"/>
+    <TreeNode Title="F41A21/26 #特别适合于反冲增强的，例如用于训练目的[5]" Target="frmContent" Href="../searchservlet?query=F41A21/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A21/26"/>
+    <TreeNode Title="F41A21/28 #气体膨胀弹膛；带有排气口的身管(F41A 1/06，F41A 13/08优先)[5]" Target="frmContent" Href="../searchservlet?query=F41A21/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A21/28"/>
+    <TreeNode Title="F41A21/30 #消音器[5]" Target="frmContent" Href="../searchservlet?query=F41A21/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A21/30"/>
+    <TreeNode Title="F41A21/32 #枪口附件或密封装置(F41A 21/26，F41A 21/30，F41A 21/46优先)[5]" Target="frmContent" Href="../searchservlet?query=F41A21/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A21/32">
+      <TreeNode Title="F41A21/34 ##灭光器[5]" Target="frmContent" Href="../searchservlet?query=F41A21/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A21/34"/>
+      <TreeNode Title="F41A21/36 ##用于反冲减弱(反冲减弱装置一般入F41A 25/00)[5]" Target="frmContent" Href="../searchservlet?query=F41A21/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A21/36">
+        <TreeNode Title="F41A21/38 ###能调整的[5]" Target="frmContent" Href="../searchservlet?query=F41A21/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A21/38"/>
+      </TreeNode>
+      <TreeNode Title="F41A21/40 ##猎枪扼流装置[5]" Target="frmContent" Href="../searchservlet?query=F41A21/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A21/40">
+        <TreeNode Title="F41A21/42 ###能调整的[5]" Target="frmContent" Href="../searchservlet?query=F41A21/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A21/42"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="F41A21/44 #绝缘套；防护套[5]" Target="frmContent" Href="../searchservlet?query=F41A21/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A21/44"/>
+    <TreeNode Title="F41A21/46 #身管配有排除弹壳的装置[5]" Target="frmContent" Href="../searchservlet?query=F41A21/46&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A21/46"/>
+    <TreeNode Title="F41A21/48 #身管固定装置，例如适合于更换身管的可拆卸安装[5]" Target="frmContent" Href="../searchservlet?query=F41A21/48&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A21/48"/>
+  </TreeNode>
+  <TreeNode Title="F41A23/00 枪的固定，例如在车辆上；在车辆上枪的配置(F41A 25/00，F41A 27/00优先)[5]" Target="frmContent" Href="../searchservlet?query=F41A23/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A23/00">
+    <TreeNode Title="F41A23/02 #无轮固定[5]" Target="frmContent" Href="../searchservlet?query=F41A23/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A23/02">
+      <TreeNode Title="F41A23/04 ##独脚的[5]" Target="frmContent" Href="../searchservlet?query=F41A23/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A23/04">
+        <TreeNode Title="F41A23/06 ###可调节的[5]" Target="frmContent" Href="../searchservlet?query=F41A23/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A23/06"/>
+      </TreeNode>
+      <TreeNode Title="F41A23/08 ##两脚架[5]" Target="frmContent" Href="../searchservlet?query=F41A23/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A23/08">
+        <TreeNode Title="F41A23/10 ###可调节的[5]" Target="frmContent" Href="../searchservlet?query=F41A23/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A23/10"/>
+      </TreeNode>
+      <TreeNode Title="F41A23/12 ##三脚架[5]" Target="frmContent" Href="../searchservlet?query=F41A23/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A23/12">
+        <TreeNode Title="F41A23/14 ###可调节的[5]" Target="frmContent" Href="../searchservlet?query=F41A23/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A23/14"/>
+      </TreeNode>
+      <TreeNode Title="F41A23/16 ##试验固定[5]" Target="frmContent" Href="../searchservlet?query=F41A23/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A23/16"/>
+      <TreeNode Title="F41A23/18 ##在非射击位置支撑轻武器的支架(用于储藏的支架入A47B 81/00，车辆内的行李架入B60R 11/00)[5]" Target="frmContent" Href="../searchservlet?query=F41A23/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A23/18"/>
+    </TreeNode>
+    <TreeNode Title="F41A23/20 #用于隐显的枪[5]" Target="frmContent" Href="../searchservlet?query=F41A23/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A23/20">
+      <TreeNode Title="F41A23/22 ##在潜水艇甲板上[5]" Target="frmContent" Href="../searchservlet?query=F41A23/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A23/22"/>
+    </TreeNode>
+    <TreeNode Title="F41A23/24 #回转式枪的固定(供给、装填或导引弹药入F41A 9/00；回转式枪机械的俯仰或横动装置入F41A 27/18优先)[5]" Target="frmContent" Href="../searchservlet?query=F41A23/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A23/24"/>
+    <TreeNode Title="F41A23/26 #仅用于运输的固定；使用在运载飞行器上的枪的装卸装置(F41A 23/50优先)[5]" Target="frmContent" Href="../searchservlet?query=F41A23/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A23/26"/>
+    <TreeNode Title="F41A23/28 #轮式枪的固定；环道枪的固定[5]" Target="frmContent" Href="../searchservlet?query=F41A23/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A23/28">
+      <TreeNode Title="F41A23/30 ##轮子从发射的地面能被举起的[5]" Target="frmContent" Href="../searchservlet?query=F41A23/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A23/30"/>
+      <TreeNode Title="F41A23/32 ##带有可拆拉杆(F41A 23/30，F41A 23/46优先)[5]" Target="frmContent" Href="../searchservlet?query=F41A23/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A23/32"/>
+    </TreeNode>
+    <TreeNode Title="F41A23/34 #在轮子上或环道运载装置上[5]" Target="frmContent" Href="../searchservlet?query=F41A23/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A23/34">
+      <TreeNode Title="F41A23/36 ##在拖车上(F41A 23/42优先)[5]" Target="frmContent" Href="../searchservlet?query=F41A23/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A23/36"/>
+      <TreeNode Title="F41A23/38 ##在摩托车上[5]" Target="frmContent" Href="../searchservlet?query=F41A23/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A23/38"/>
+      <TreeNode Title="F41A23/40 ##在有轨运输装置上[5]" Target="frmContent" Href="../searchservlet?query=F41A23/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A23/40"/>
+      <TreeNode Title="F41A23/42 ##用于火箭投掷器[5]" Target="frmContent" Href="../searchservlet?query=F41A23/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A23/42"/>
+    </TreeNode>
+    <TreeNode Title="F41A23/44 #在雪橇上[5]" Target="frmContent" Href="../searchservlet?query=F41A23/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A23/44"/>
+    <TreeNode Title="F41A23/46 #后伸驻锄[5]" Target="frmContent" Href="../searchservlet?query=F41A23/46&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A23/46">
+      <TreeNode Title="F41A23/48 ##弹性的[5]" Target="frmContent" Href="../searchservlet?query=F41A23/48&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A23/48"/>
+    </TreeNode>
+    <TreeNode Title="F41A23/50 #移动式锁紧装置；在运输期间，把枪底座保持在固定位置的制动装置[5]" Target="frmContent" Href="../searchservlet?query=F41A23/50&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A23/50"/>
+    <TreeNode Title="F41A23/52 #用于固定枪的基座[5]" Target="frmContent" Href="../searchservlet?query=F41A23/52&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A23/52">
+      <TreeNode Title="F41A23/54 ##用于迫击炮[5]" Target="frmContent" Href="../searchservlet?query=F41A23/54&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A23/54"/>
+    </TreeNode>
+    <TreeNode Title="F41A23/56 #在水平或垂直位置能调整枪座的装置(F41A 17/10，F41A 17/12优先)[5]" Target="frmContent" Href="../searchservlet?query=F41A23/56&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A23/56">
+      <TreeNode Title="F41A23/58 ##液压千斤顶[5]" Target="frmContent" Href="../searchservlet?query=F41A23/58&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A23/58"/>
+      <TreeNode Title="F41A23/60 ##螺旋操作千斤顶[5]" Target="frmContent" Href="../searchservlet?query=F41A23/60&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A23/60"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="F41A25/00 允许后坐或返回到待发射状态的枪固定装置，例如枪摇架；枪管缓冲器或制动装置(无后坐力枪入F41A 1/08)[5]" Target="frmContent" Href="../searchservlet?query=F41A25/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A25/00">
+    <TreeNode Title="F41A25/02 #液体操作系统[5]" Target="frmContent" Href="../searchservlet?query=F41A25/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A25/02">
+      <TreeNode Title="F41A25/04 ##能调整的[5]" Target="frmContent" Href="../searchservlet?query=F41A25/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A25/04"/>
+    </TreeNode>
+    <TreeNode Title="F41A25/06 #摩擦操作系统[5]" Target="frmContent" Href="../searchservlet?query=F41A25/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A25/06">
+      <TreeNode Title="F41A25/08 ##能调整的[5]" Target="frmContent" Href="../searchservlet?query=F41A25/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A25/08"/>
+    </TreeNode>
+    <TreeNode Title="F41A25/10 #弹性操作系统[5]" Target="frmContent" Href="../searchservlet?query=F41A25/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A25/10">
+      <TreeNode Title="F41A25/12 ##使用螺旋弹簧[5]" Target="frmContent" Href="../searchservlet?query=F41A25/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A25/12">
+        <TreeNode Title="F41A25/14 ###能调整的[5]" Target="frmContent" Href="../searchservlet?query=F41A25/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A25/14"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="F41A25/16 #复合系统[5]" Target="frmContent" Href="../searchservlet?query=F41A25/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A25/16">
+      <TreeNode Title="F41A25/18 ##液压弹性系统[5]" Target="frmContent" Href="../searchservlet?query=F41A25/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A25/18"/>
+      <TreeNode Title="F41A25/20 ##液压气动系统[5]" Target="frmContent" Href="../searchservlet?query=F41A25/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A25/20"/>
+    </TreeNode>
+    <TreeNode Title="F41A25/22 #用于往复式枪固定或枪管移动的轴承装置[5]" Target="frmContent" Href="../searchservlet?query=F41A25/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A25/22">
+      <TreeNode Title="F41A25/24 ##使用球轴承或滚珠轴承[5]" Target="frmContent" Href="../searchservlet?query=F41A25/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A25/24"/>
+    </TreeNode>
+    <TreeNode Title="F41A25/26 #组合的或可拆卸后坐部件或装置[5]" Target="frmContent" Href="../searchservlet?query=F41A25/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A25/26"/>
+  </TreeNode>
+  <TreeNode Title="F41A27/00 允许作横向或俯仰运动的枪固定件，例如枪支架[5]" Target="frmContent" Href="../searchservlet?query=F41A27/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A27/00">
+    <TreeNode Title="F41A27/02 #用于在移动枪和邻近的结构之间防止干扰的控制装置[5]" Target="frmContent" Href="../searchservlet?query=F41A27/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A27/02"/>
+    <TreeNode Title="F41A27/04 #扩散器发射装置，即在发射期间用于自动振荡枪的装置[5]" Target="frmContent" Href="../searchservlet?query=F41A27/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A27/04"/>
+    <TreeNode Title="F41A27/06 #机械装置(F41A 27/02，F41A 27/04，F41A 27/30优先)[5]" Target="frmContent" Href="../searchservlet?query=F41A27/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A27/06">
+      <TreeNode Title="F41A27/08 ##轴承，例如耳轴；制动或阻塞装置[5]" Target="frmContent" Href="../searchservlet?query=F41A27/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A27/08">
+        <TreeNode Title="F41A27/10 ###以壁支撑枢轴的枪的轴承，例如回转壁[5]" Target="frmContent" Href="../searchservlet?query=F41A27/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A27/10"/>
+        <TreeNode Title="F41A27/12 ###阻塞横向或俯仰传动装置在一个固定位置的制动部件或闭锁部件[5]" Target="frmContent" Href="../searchservlet?query=F41A27/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A27/12"/>
+        <TreeNode Title="F41A27/14 ###中央枢轴轴承[5]" Target="frmContent" Href="../searchservlet?query=F41A27/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A27/14"/>
+        <TreeNode Title="F41A27/16 ###使用座圈的轴承，例如支撑回转塔[5]" Target="frmContent" Href="../searchservlet?query=F41A27/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A27/16"/>
+      </TreeNode>
+      <TreeNode Title="F41A27/18 ##用于支撑炮塔(F41A 27/08优先)[5]" Target="frmContent" Href="../searchservlet?query=F41A27/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A27/18">
+        <TreeNode Title="F41A27/20 ###炮塔运动的驱动装置[5]" Target="frmContent" Href="../searchservlet?query=F41A27/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A27/20"/>
+      </TreeNode>
+      <TreeNode Title="F41A27/22 ##横向传动装置(F41A 27/18优先)[5]" Target="frmContent" Href="../searchservlet?query=F41A27/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A27/22"/>
+      <TreeNode Title="F41A27/24 ##俯仰传动装置(F41A 27/18优先)[5]" Target="frmContent" Href="../searchservlet?query=F41A27/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A27/24"/>
+    </TreeNode>
+    <TreeNode Title="F41A27/26 #液体操作装置(F41A 27/02，F41A 27/04，F41A 27/30优先)[5]" Target="frmContent" Href="../searchservlet?query=F41A27/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A27/26"/>
+    <TreeNode Title="F41A27/28 #电动装置(F41A 27/02，F41A 27/04，F41A 27/30优先)[5]" Target="frmContent" Href="../searchservlet?query=F41A27/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A27/28"/>
+    <TreeNode Title="F41A27/30 #稳定或调整装置，例如调整枪管重量或旋转力[5]" Target="frmContent" Href="../searchservlet?query=F41A27/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A27/30"/>
+  </TreeNode>
+  <TreeNode Title="F41A29/00 清洁或润滑装置(把液体喷入枪管或弹膛入F41A 13/04)[5]" Target="frmContent" Href="../searchservlet?query=F41A29/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A29/00">
+    <TreeNode Title="F41A29/02 #刮刀或清理杆[5]" Target="frmContent" Href="../searchservlet?query=F41A29/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A29/02"/>
+    <TreeNode Title="F41A29/04 #加润滑油、涂油或润滑设备，例如在使用期间操作的[5]" Target="frmContent" Href="../searchservlet?query=F41A29/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A29/04"/>
+  </TreeNode>
+  <TreeNode Title="F41A31/00 试验装置(试验安装设备入F41A 23/16)[5]" Target="frmContent" Href="../searchservlet?query=F41A31/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A31/00">
+    <TreeNode Title="F41A31/02 #检验枪管[5]" Target="frmContent" Href="../searchservlet?query=F41A31/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A31/02"/>
+  </TreeNode>
+  <TreeNode Title="F41A33/00 训练配合部件(用于后坐加强的枪管配合部件入F41A 21/26)；枪模拟装置(用于枪瞄准或枪安装的训练或实习装置入F41G 3/26)[5]" Target="frmContent" Href="../searchservlet?query=F41A33/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A33/00">
+    <TreeNode Title="F41A33/02 #光发射枪[5]" Target="frmContent" Href="../searchservlet?query=F41A33/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A33/02"/>
+    <TreeNode Title="F41A33/04 #枪发射声模拟器，例如信号装置[5]" Target="frmContent" Href="../searchservlet?query=F41A33/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A33/04"/>
+    <TreeNode Title="F41A33/06 #后坐模拟器[5]" Target="frmContent" Href="../searchservlet?query=F41A33/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A33/06"/>
+  </TreeNode>
+  <TreeNode Title="F41A35/00 不包含在其他类目中的附件或零件[5]" Target="frmContent" Href="../searchservlet?query=F41A35/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A35/00">
+    <TreeNode Title="F41A35/02 #灰尘或风雨防护套或覆盖装置(扳机护圈保护帽入F41A 17/54)[5]" Target="frmContent" Href="../searchservlet?query=F41A35/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A35/02">
+      <TreeNode Title="F41A35/04 ##枪口罩[5]" Target="frmContent" Href="../searchservlet?query=F41A35/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A35/04"/>
+    </TreeNode>
+    <TreeNode Title="F41A35/06 #适合于左右手使用的枪配合件[5]" Target="frmContent" Href="../searchservlet?query=F41A35/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A35/06"/>
+  </TreeNode>
+  <TreeNode Title="F41A99/00 不包含在本小类其他组中的技术主题[8]" Target="frmContent" Href="../searchservlet?query=F41A99/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F41A99/00"/>
+</Root>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="D01C1/00 植物原料的处理" Target="frmContent" Href="../searchservlet?query=D01C1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01C1/00">
+    <TreeNode Title="D01C1/02 #用化学法制出韧皮纤维" Target="frmContent" Href="../searchservlet?query=D01C1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01C1/02"/>
+    <TreeNode Title="D01C1/04 #细菌沤麻" Target="frmContent" Href="../searchservlet?query=D01C1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01C1/04"/>
+  </TreeNode>
+  <TreeNode Title="D01C3/00 动物原料的处理，如化学洗毛(羊毛脂或羊毛蜡的回收入C11B 11/00)" Target="frmContent" Href="../searchservlet?query=D01C3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01C3/00">
+    <TreeNode Title="D01C3/02 #脱胶" Target="frmContent" Href="../searchservlet?query=D01C3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01C3/02"/>
+  </TreeNode>
+  <TreeNode Title="D01C5/00 碳化破碎的呢块回收动物纤维(从动物纤维制成的纱线或织物中化学去除植物杂质入D06M)" Target="frmContent" Href="../searchservlet?query=D01C5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D01C5/00"/>
+</Root>

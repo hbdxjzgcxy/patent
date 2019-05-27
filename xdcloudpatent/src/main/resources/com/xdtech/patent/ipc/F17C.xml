@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="F17C1/00 压力容器，例如气瓶、气罐、可替换的筒(除供贮存目的外，其他压力装置见有关小类，例如A62C，B05B；与车辆有关的见B60至B64类的适当小类；一般压力容器入F16J 12/00)" Target="frmContent" Href="../searchservlet?query=F17C1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F17C1/00">
+    <TreeNode Title="F17C1/02 #需要加强装置的[4]" Target="frmContent" Href="../searchservlet?query=F17C1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F17C1/02">
+      <TreeNode Title="F17C1/04 ##具有保护外壳的" Target="frmContent" Href="../searchservlet?query=F17C1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F17C1/04">
+        <TreeNode Title="F17C1/06 ###由缠绕的带或丝状材料做成的，例如金属丝[4]" Target="frmContent" Href="../searchservlet?query=F17C1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F17C1/06"/>
+      </TreeNode>
+      <TreeNode Title="F17C1/08 ##整体加强，例如加强肋" Target="frmContent" Href="../searchservlet?query=F17C1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F17C1/08"/>
+    </TreeNode>
+    <TreeNode Title="F17C1/10 #带有防腐蚀的保护措施，例如对于气体酸(一般金属材料的防腐蚀或防积垢入C23F)[4]" Target="frmContent" Href="../searchservlet?query=F17C1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F17C1/10"/>
+    <TreeNode Title="F17C1/12 #带有隔热措施的(一般隔热入F16L 59/00)[4]" Target="frmContent" Href="../searchservlet?query=F17C1/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F17C1/12"/>
+    <TreeNode Title="F17C1/14 #铝结构的；非磁性钢结构的" Target="frmContent" Href="../searchservlet?query=F17C1/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F17C1/14"/>
+    <TreeNode Title="F17C1/16 #塑料结构的" Target="frmContent" Href="../searchservlet?query=F17C1/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F17C1/16"/>
+  </TreeNode>
+  <TreeNode Title="F17C3/00 非压力容器" Target="frmContent" Href="../searchservlet?query=F17C3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F17C3/00">
+    <TreeNode Title="F17C3/02 #带有隔热措施的(一般隔热入F16L 59/00)" Target="frmContent" Href="../searchservlet?query=F17C3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F17C3/02">
+      <TreeNode Title="F17C3/04 ##用隔热层的(F17C 3/08优先)" Target="frmContent" Href="../searchservlet?query=F17C3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F17C3/04">
+        <TreeNode Title="F17C3/06 ###在内表面上的，即在与所贮流体相接触的表面上[4]" Target="frmContent" Href="../searchservlet?query=F17C3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F17C3/06"/>
+      </TreeNode>
+      <TreeNode Title="F17C3/08 ##用真空空间的，例如保温瓶(家用的入A47J 41/02)" Target="frmContent" Href="../searchservlet?query=F17C3/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F17C3/08"/>
+      <TreeNode Title="F17C3/10 ##用液体循环套或蒸气循环套的" Target="frmContent" Href="../searchservlet?query=F17C3/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F17C3/10"/>
+    </TreeNode>
+    <TreeNode Title="F17C3/12 #带有防腐蚀的保护措施，例如对于气体酸(一般的防腐蚀入C23F)" Target="frmContent" Href="../searchservlet?query=F17C3/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F17C3/12"/>
+  </TreeNode>
+  <TreeNode Title="F17C5/00 液化、固化或压缩气体装入压力容器的方法和设备(将发射剂加到烟雾剂容器入B65B 31/00)" Target="frmContent" Href="../searchservlet?query=F17C5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F17C5/00">
+    <TreeNode Title="F17C5/02 #用于装填液化气体的" Target="frmContent" Href="../searchservlet?query=F17C5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F17C5/02">
+      <TreeNode Title="F17C5/04 ##要求制冷使用的，例如装填氦或氢" Target="frmContent" Href="../searchservlet?query=F17C5/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F17C5/04"/>
+    </TreeNode>
+    <TreeNode Title="F17C5/06 #用于装填压缩气体的" Target="frmContent" Href="../searchservlet?query=F17C5/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F17C5/06"/>
+  </TreeNode>
+  <TreeNode Title="F17C6/00 液化或固化气体装入非压力容器的方法或设备[3]" Target="frmContent" Href="../searchservlet?query=F17C6/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F17C6/00"/>
+  <TreeNode Title="F17C7/00 从压力容器内排放液化、固化或压缩气体的其他小类内不包含的方法或设备" Target="frmContent" Href="../searchservlet?query=F17C7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F17C7/00">
+    <TreeNode Title="F17C7/02 #排放液化气体的" Target="frmContent" Href="../searchservlet?query=F17C7/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F17C7/02">
+      <TreeNode Title="F17C7/04 ##改变状态的，例如汽化[3]" Target="frmContent" Href="../searchservlet?query=F17C7/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F17C7/04"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="F17C9/00 自非压力容器排放液化或固化气体的方法或装置" Target="frmContent" Href="../searchservlet?query=F17C9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F17C9/00">
+    <TreeNode Title="F17C9/02 #改变状态的，例如汽化" Target="frmContent" Href="../searchservlet?query=F17C9/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F17C9/02">
+      <TreeNode Title="F17C9/04 ##回收热能的[3]" Target="frmContent" Href="../searchservlet?query=F17C9/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F17C9/04"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="F17C11/00 在容器中使用气体溶剂或气体吸收剂" Target="frmContent" Href="../searchservlet?query=F17C11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F17C11/00"/>
+  <TreeNode Title="F17C13/00 容器或容器装填排放的零部件" Target="frmContent" Href="../searchservlet?query=F17C13/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F17C13/00">
+    <TreeNode Title="F17C13/02 #指示、计量或监控装置的专门应用(一般测量入G01)" Target="frmContent" Href="../searchservlet?query=F17C13/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F17C13/02"/>
+    <TreeNode Title="F17C13/04 #阀的配置和安装(阀本身入F16K)" Target="frmContent" Href="../searchservlet?query=F17C13/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F17C13/04"/>
+    <TreeNode Title="F17C13/06 #封闭件，例如帽盖、易碎件(一般容器的封闭件入B65D)" Target="frmContent" Href="../searchservlet?query=F17C13/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F17C13/06"/>
+    <TreeNode Title="F17C13/08 #容器的安装装置" Target="frmContent" Href="../searchservlet?query=F17C13/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F17C13/08"/>
+    <TreeNode Title="F17C13/10 #预防结冰的装置" Target="frmContent" Href="../searchservlet?query=F17C13/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F17C13/10"/>
+    <TreeNode Title="F17C13/12 #配置或安装预防爆炸或将其影响减至最小程度的装置(阻焰器本身入A62C 4/00)" Target="frmContent" Href="../searchservlet?query=F17C13/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="F17C13/12"/>
+  </TreeNode>
+</Root>

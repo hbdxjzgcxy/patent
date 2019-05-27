@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="G01P1/00 仪器的零部件" Target="frmContent" Href="../searchservlet?query=G01P1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01P1/00">
+    <TreeNode Title="G01P1/02 #外壳" Target="frmContent" Href="../searchservlet?query=G01P1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01P1/02"/>
+    <TreeNode Title="G01P1/04 #专用的驱动装置" Target="frmContent" Href="../searchservlet?query=G01P1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01P1/04"/>
+    <TreeNode Title="G01P1/07 #指示装置，例如遥控指示装置(指示车辆工作情况的入G07C 5/00)[3]" Target="frmContent" Href="../searchservlet?query=G01P1/07&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01P1/07">
+      <TreeNode Title="G01P1/08 ##刻度尺、指针、指示灯或声指示器的装置，例如汽车上速度表中的" Target="frmContent" Href="../searchservlet?query=G01P1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01P1/08">
+        <TreeNode Title="G01P1/10 ###指示预定速度的" Target="frmContent" Href="../searchservlet?query=G01P1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01P1/10">
+          <TreeNode Title="G01P1/11 ####通过指示器指针位置检测的[3]" Target="frmContent" Href="../searchservlet?query=G01P1/11&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01P1/11"/>
+        </TreeNode>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="G01P1/12 #记录装置(记录车辆的工作情况入G07C 5/00)[3]" Target="frmContent" Href="../searchservlet?query=G01P1/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01P1/12">
+      <TreeNode Title="G01P1/14 ##用于永久性的记录[3]" Target="frmContent" Href="../searchservlet?query=G01P1/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01P1/14"/>
+      <TreeNode Title="G01P1/16 ##用于可消除的记录，例如磁记录[3]" Target="frmContent" Href="../searchservlet?query=G01P1/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01P1/16"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="G01P3/00 线速度或角速度的测量；线速度或角速度差值的测量(G01P 5/00至G01P 11/00优先；计数机构入G06M)" Target="frmContent" Href="../searchservlet?query=G01P3/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01P3/00">
+    <TreeNode Title="G01P3/02 #以应用机械方法为特征的装置" Target="frmContent" Href="../searchservlet?query=G01P3/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01P3/02">
+      <TreeNode Title="G01P3/04 ##通过两个速度的比较" Target="frmContent" Href="../searchservlet?query=G01P3/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01P3/04">
+        <TreeNode Title="G01P3/06 ###应用摩擦装置" Target="frmContent" Href="../searchservlet?query=G01P3/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01P3/06"/>
+        <TreeNode Title="G01P3/08 ###应用差动齿轮传动装置" Target="frmContent" Href="../searchservlet?query=G01P3/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01P3/08"/>
+      </TreeNode>
+      <TreeNode Title="G01P3/10 ##通过固定时间内驱动指示元件，例如指针" Target="frmContent" Href="../searchservlet?query=G01P3/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01P3/10"/>
+      <TreeNode Title="G01P3/12 ##通过用冲击激励的系统" Target="frmContent" Href="../searchservlet?query=G01P3/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01P3/12"/>
+      <TreeNode Title="G01P3/14 ##通过激发一个或多个机械谐振系统" Target="frmContent" Href="../searchservlet?query=G01P3/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01P3/14"/>
+      <TreeNode Title="G01P3/16 ##通过用固体的离心力(调速器入G05D 13/00)" Target="frmContent" Href="../searchservlet?query=G01P3/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01P3/16">
+        <TreeNode Title="G01P3/18 ###通过机械的方法传送到指示器" Target="frmContent" Href="../searchservlet?query=G01P3/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01P3/18"/>
+        <TreeNode Title="G01P3/20 ###通过流体的方法传送到指示器" Target="frmContent" Href="../searchservlet?query=G01P3/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01P3/20"/>
+        <TreeNode Title="G01P3/22 ###通过电或磁的方法传送到指示器" Target="frmContent" Href="../searchservlet?query=G01P3/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01P3/22"/>
+      </TreeNode>
+      <TreeNode Title="G01P3/24 ##通过用摩擦作用(G01P 3/06优先)" Target="frmContent" Href="../searchservlet?query=G01P3/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01P3/24"/>
+    </TreeNode>
+    <TreeNode Title="G01P3/26 #按所用流体为特征的装置" Target="frmContent" Href="../searchservlet?query=G01P3/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01P3/26">
+      <TreeNode Title="G01P3/28 ##通过用泵的" Target="frmContent" Href="../searchservlet?query=G01P3/28&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01P3/28"/>
+      <TreeNode Title="G01P3/30 ##通过用流体离心力的" Target="frmContent" Href="../searchservlet?query=G01P3/30&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01P3/30">
+        <TreeNode Title="G01P3/32 ###连通固定容器的旋转容器" Target="frmContent" Href="../searchservlet?query=G01P3/32&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01P3/32"/>
+      </TreeNode>
+      <TreeNode Title="G01P3/34 ##通过用摩擦作用的" Target="frmContent" Href="../searchservlet?query=G01P3/34&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01P3/34"/>
+    </TreeNode>
+    <TreeNode Title="G01P3/36 #按所用的光学方法为特征的装置，例如利用红外光、可见光或紫外光(G01P 3/68优先；利用萨格奈效应，即利用逆向旋转的两电磁束之间旋转产生位移的陀螺测量仪入G01C 19/64)" Target="frmContent" Href="../searchservlet?query=G01P3/36&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01P3/36">
+      <TreeNode Title="G01P3/38 ##利用照相方法" Target="frmContent" Href="../searchservlet?query=G01P3/38&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01P3/38"/>
+      <TreeNode Title="G01P3/40 ##利用频闪方法" Target="frmContent" Href="../searchservlet?query=G01P3/40&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01P3/40"/>
+    </TreeNode>
+    <TreeNode Title="G01P3/42 #按所用电或磁的方法为特征的装置(G01P 3/66优先；一般电磁量测量入G01R)" Target="frmContent" Href="../searchservlet?query=G01P3/42&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01P3/42">
+      <TreeNode Title="G01P3/44 ##用于角速度的测量(G01P 3/56优先)" Target="frmContent" Href="../searchservlet?query=G01P3/44&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01P3/44">
+        <TreeNode Title="G01P3/46 ###通过测量所产生的电流或电压幅度" Target="frmContent" Href="../searchservlet?query=G01P3/46&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01P3/46"/>
+        <TreeNode Title="G01P3/48 ###通过测量所产生的电流或电压频率" Target="frmContent" Href="../searchservlet?query=G01P3/48&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01P3/48">
+          <TreeNode Title="G01P3/481 ####脉冲信号的[3]" Target="frmContent" Href="../searchservlet?query=G01P3/481&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01P3/481">
+            <TreeNode Title="G01P3/482 #####由核辐射检测器提供的[3]" Target="frmContent" Href="../searchservlet?query=G01P3/482&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01P3/482"/>
+            <TreeNode Title="G01P3/483 #####由可变电容检测器提供的[3]" Target="frmContent" Href="../searchservlet?query=G01P3/483&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01P3/483"/>
+            <TreeNode Title="G01P3/484 #####由接触开关提供的[3]" Target="frmContent" Href="../searchservlet?query=G01P3/484&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01P3/484"/>
+            <TreeNode Title="G01P3/486 #####由光—电检测器提供的[3]" Target="frmContent" Href="../searchservlet?query=G01P3/486&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01P3/486"/>
+            <TreeNode Title="G01P3/487 #####由旋转磁体提供的[3]" Target="frmContent" Href="../searchservlet?query=G01P3/487&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01P3/487"/>
+            <TreeNode Title="G01P3/488 #####由可变磁阻检测器提供的[3]" Target="frmContent" Href="../searchservlet?query=G01P3/488&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01P3/488"/>
+            <TreeNode Title="G01P3/489 #####其数字电路[3]" Target="frmContent" Href="../searchservlet?query=G01P3/489&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01P3/489"/>
+          </TreeNode>
+        </TreeNode>
+        <TreeNode Title="G01P3/49 ###利用涡流" Target="frmContent" Href="../searchservlet?query=G01P3/49&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01P3/49">
+          <TreeNode Title="G01P3/495 ####其中指示装置受涡流和形成磁场所产生的力的控制[3]" Target="frmContent" Href="../searchservlet?query=G01P3/495&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01P3/495"/>
+        </TreeNode>
+      </TreeNode>
+      <TreeNode Title="G01P3/50 ##用于线速度的测量(G01P 3/56优先)" Target="frmContent" Href="../searchservlet?query=G01P3/50&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01P3/50">
+        <TreeNode Title="G01P3/52 ###测量所产生的电流或电压辐度" Target="frmContent" Href="../searchservlet?query=G01P3/52&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01P3/52"/>
+        <TreeNode Title="G01P3/54 ###测量所产生的电流或电压频率" Target="frmContent" Href="../searchservlet?query=G01P3/54&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01P3/54"/>
+      </TreeNode>
+      <TreeNode Title="G01P3/56 ##用于比较两种速度" Target="frmContent" Href="../searchservlet?query=G01P3/56&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01P3/56">
+        <TreeNode Title="G01P3/58 ###测量或比较所产生的电流或电压辐度" Target="frmContent" Href="../searchservlet?query=G01P3/58&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01P3/58"/>
+        <TreeNode Title="G01P3/60 ###测量或比较所产生的电流或电压频率" Target="frmContent" Href="../searchservlet?query=G01P3/60&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01P3/60"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="G01P3/62 #以测定不同高度大气压力的变化来计量速度垂直分量为特征的装置(一般压力测量入G01L)" Target="frmContent" Href="../searchservlet?query=G01P3/62&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01P3/62"/>
+    <TreeNode Title="G01P3/64 #以测量移动一定距离所需要时间为特征的装置" Target="frmContent" Href="../searchservlet?query=G01P3/64&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01P3/64">
+      <TreeNode Title="G01P3/66 ##采用电或磁的方法(G01P 3/80优先；测定短时间间隔入G04F)[4]" Target="frmContent" Href="../searchservlet?query=G01P3/66&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01P3/66"/>
+      <TreeNode Title="G01P3/68 ##采用光学方法，即采用红外光、可见光或紫外光(G01P 3/80优先)[4]" Target="frmContent" Href="../searchservlet?query=G01P3/68&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01P3/68"/>
+      <TreeNode Title="G01P3/80 ##采用自相关或互相关检测方法[4]" Target="frmContent" Href="../searchservlet?query=G01P3/80&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01P3/80"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="G01P5/00 测量流体的速度，例如空气流；测量物体相对于流体的速度，例如船、航行器的速度(计量流量的速度测量装置的应用入G01F)" Target="frmContent" Href="../searchservlet?query=G01P5/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01P5/00">
+    <TreeNode Title="G01P5/01 #利用涡流式流量计[3]" Target="frmContent" Href="../searchservlet?query=G01P5/01&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01P5/01"/>
+    <TreeNode Title="G01P5/02 #通过测量流体作用于固体上的力，例如风速表" Target="frmContent" Href="../searchservlet?query=G01P5/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01P5/02">
+      <TreeNode Title="G01P5/04 ##应用挡板的偏转" Target="frmContent" Href="../searchservlet?query=G01P5/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01P5/04"/>
+      <TreeNode Title="G01P5/06 ##应用叶片的旋转(测量转轴的速度入G01P 3/00)" Target="frmContent" Href="../searchservlet?query=G01P5/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01P5/06">
+        <TreeNode Title="G01P5/07 ###与指示装置具有电耦合[3]" Target="frmContent" Href="../searchservlet?query=G01P5/07&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01P5/07"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="G01P5/08 #通过测量受流量直接影响的电变量的变化，例如应用机—电效应的" Target="frmContent" Href="../searchservlet?query=G01P5/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01P5/08"/>
+    <TreeNode Title="G01P5/10 #通过测量热变量" Target="frmContent" Href="../searchservlet?query=G01P5/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01P5/10">
+      <TreeNode Title="G01P5/12 ##应用加热导体的电阻变化" Target="frmContent" Href="../searchservlet?query=G01P5/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01P5/12"/>
+    </TreeNode>
+    <TreeNode Title="G01P5/14 #通过测量流体中的压差" Target="frmContent" Href="../searchservlet?query=G01P5/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01P5/14">
+      <TreeNode Title="G01P5/16 ##应用皮托(pitot)管" Target="frmContent" Href="../searchservlet?query=G01P5/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01P5/16">
+        <TreeNode Title="G01P5/165 ###皮托(pitot)管的布局或结构[3]" Target="frmContent" Href="../searchservlet?query=G01P5/165&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01P5/165"/>
+        <TreeNode Title="G01P5/17 ###与指示器的联接装置[3]" Target="frmContent" Href="../searchservlet?query=G01P5/17&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01P5/17">
+          <TreeNode Title="G01P5/175 ####有测定马赫数的(其所用模拟计算机入G06G 7/57)[3]" Target="frmContent" Href="../searchservlet?query=G01P5/175&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01P5/175"/>
+        </TreeNode>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="G01P5/18 #通过测量流体移动一定距离所需的时间[1，7]" Target="frmContent" Href="../searchservlet?query=G01P5/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01P5/18">
+      <TreeNode Title="G01P5/20 ##用流束夹带颗粒的方法(G01P 5/22优先)[4]" Target="frmContent" Href="../searchservlet?query=G01P5/20&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01P5/20"/>
+      <TreeNode Title="G01P5/22 ##用自相关或互相关检测方法[4]" Target="frmContent" Href="../searchservlet?query=G01P5/22&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01P5/22"/>
+    </TreeNode>
+    <TreeNode Title="G01P5/24 #通过测量流动中的流体对检测用声波性质的直接影响[7]" Target="frmContent" Href="../searchservlet?query=G01P5/24&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01P5/24"/>
+    <TreeNode Title="G01P5/26 #通过测量流动中的流体对检测用光波性质的直接影响[7]" Target="frmContent" Href="../searchservlet?query=G01P5/26&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01P5/26"/>
+  </TreeNode>
+  <TreeNode Title="G01P7/00 用积分加速度的方法测量速度(用加速度的双重积分测量行程入G01C 21/16)" Target="frmContent" Href="../searchservlet?query=G01P7/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01P7/00"/>
+  <TreeNode Title="G01P9/00 应用陀螺效应测量速度，例如应用气体、应用电子束(陀螺仪或旋转传感器本身入G01C 19/00)" Target="frmContent" Href="../searchservlet?query=G01P9/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01P9/00">
+    <TreeNode Title="G01P9/02 #应用旋转陀螺仪" Target="frmContent" Href="../searchservlet?query=G01P9/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01P9/02"/>
+    <TreeNode Title="G01P9/04 #应用带振动体，例如音叉的旋转传感器" Target="frmContent" Href="../searchservlet?query=G01P9/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01P9/04"/>
+  </TreeNode>
+  <TreeNode Title="G01P11/00 测量速度的平均值(通过测量移动一定距离所需的时间入G01P 3/64，G01P 5/18)" Target="frmContent" Href="../searchservlet?query=G01P11/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01P11/00">
+    <TreeNode Title="G01P11/02 #测量一定数量物体的平均速度，例如为交通控制测量车辆的平均速度" Target="frmContent" Href="../searchservlet?query=G01P11/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01P11/02"/>
+  </TreeNode>
+  <TreeNode Title="G01P13/00 指示或记录运动的存在、不存在或方向(运动物体的记数入G06M 7/00；电开关入H01H)" Target="frmContent" Href="../searchservlet?query=G01P13/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01P13/00">
+    <TreeNode Title="G01P13/02 #仅指示方向的，例如用风向标" Target="frmContent" Href="../searchservlet?query=G01P13/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01P13/02">
+      <TreeNode Title="G01P13/04 ##指示直线运动的正向或反向，或旋转运动的顺时针或逆时针方向[3]" Target="frmContent" Href="../searchservlet?query=G01P13/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01P13/04"/>
+    </TreeNode>
+  </TreeNode>
+  <TreeNode Title="G01P15/00 测量加速度；测量减速度；测量冲击即加速度的突变" Target="frmContent" Href="../searchservlet?query=G01P15/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01P15/00">
+    <TreeNode Title="G01P15/02 #利用惯性力(G01P 15/14，G01P 15/18优先)[1，7]" Target="frmContent" Href="../searchservlet?query=G01P15/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01P15/02">
+      <TreeNode Title="G01P15/03 ##利用非电的方法[3]" Target="frmContent" Href="../searchservlet?query=G01P15/03&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01P15/03"/>
+      <TreeNode Title="G01P15/04 ##用于指示最大值" Target="frmContent" Href="../searchservlet?query=G01P15/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01P15/04">
+        <TreeNode Title="G01P15/06 ###利用发生永久变形的构件" Target="frmContent" Href="../searchservlet?query=G01P15/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01P15/06"/>
+      </TreeNode>
+      <TreeNode Title="G01P15/08 ##用变换成电或磁量" Target="frmContent" Href="../searchservlet?query=G01P15/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01P15/08">
+        <TreeNode Title="G01P15/09 ###应用压电变送器[3]" Target="frmContent" Href="../searchservlet?query=G01P15/09&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01P15/09"/>
+        <TreeNode Title="G01P15/093 ###采用光电法取样[7]" Target="frmContent" Href="../searchservlet?query=G01P15/093&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01P15/093"/>
+        <TreeNode Title="G01P15/097 ###采用振动元件[7]" Target="frmContent" Href="../searchservlet?query=G01P15/097&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01P15/097">
+          <TreeNode Title="G01P15/10 ####应用振弦" Target="frmContent" Href="../searchservlet?query=G01P15/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01P15/10"/>
+        </TreeNode>
+        <TreeNode Title="G01P15/105 ###采用磁敏装置[7]" Target="frmContent" Href="../searchservlet?query=G01P15/105&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01P15/105">
+          <TreeNode Title="G01P15/11 ####应用电感变送器[3]" Target="frmContent" Href="../searchservlet?query=G01P15/11&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01P15/11"/>
+        </TreeNode>
+        <TreeNode Title="G01P15/12 ###应用电阻值的改变" Target="frmContent" Href="../searchservlet?query=G01P15/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01P15/12"/>
+        <TreeNode Title="G01P15/125 ###应用电容变送器[3]" Target="frmContent" Href="../searchservlet?query=G01P15/125&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01P15/125"/>
+        <TreeNode Title="G01P15/13 ###通过测量使承受惯性力的检测质量恢复至零位所需要的力[3]" Target="frmContent" Href="../searchservlet?query=G01P15/13&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01P15/13"/>
+        <TreeNode Title="G01P15/135 ###利用由可移动的惯性质量驱动的触点[3]" Target="frmContent" Href="../searchservlet?query=G01P15/135&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01P15/135"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="G01P15/14 #通过利用陀螺仪(G01P 15/18优先；陀螺仪本身入G01C 19/00)[1，7]" Target="frmContent" Href="../searchservlet?query=G01P15/14&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01P15/14"/>
+    <TreeNode Title="G01P15/16 #通过计算被测速度信号的时间导数(G01P 15/18优先)[3，7]" Target="frmContent" Href="../searchservlet?query=G01P15/16&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01P15/16"/>
+    <TreeNode Title="G01P15/18 #在二维或更高维空间中[7]" Target="frmContent" Href="../searchservlet?query=G01P15/18&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01P15/18"/>
+  </TreeNode>
+  <TreeNode Title="G01P21/00 包含在本小类其他组中的仪表或装置的测试或校准" Target="frmContent" Href="../searchservlet?query=G01P21/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01P21/00">
+    <TreeNode Title="G01P21/02 #速度计的" Target="frmContent" Href="../searchservlet?query=G01P21/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="G01P21/02"/>
+  </TreeNode>
+</Root>

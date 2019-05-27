@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Root>
+  <TreeNode Title="D06J1/00 织物或服装的打褶、打裥或折裥处理" Target="frmContent" Href="../searchservlet?query=D06J1/00&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06J1/00">
+    <TreeNode Title="D06J1/02 #连续地且与喂入方向垂直" Target="frmContent" Href="../searchservlet?query=D06J1/02&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06J1/02">
+      <TreeNode Title="D06J1/04 ##用互相配合的凸凹辊或皮带" Target="frmContent" Href="../searchservlet?query=D06J1/04&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06J1/04"/>
+      <TreeNode Title="D06J1/06 ##用往复翼片" Target="frmContent" Href="../searchservlet?query=D06J1/06&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06J1/06">
+        <TreeNode Title="D06J1/08 ###在辊或皮带之间产生皱折" Target="frmContent" Href="../searchservlet?query=D06J1/08&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06J1/08"/>
+      </TreeNode>
+    </TreeNode>
+    <TreeNode Title="D06J1/10 #连续纵向喂入" Target="frmContent" Href="../searchservlet?query=D06J1/10&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06J1/10"/>
+    <TreeNode Title="D06J1/12 #褶及类似物的式样" Target="frmContent" Href="../searchservlet?query=D06J1/12&amp;ipcsch=1&amp;db=all&amp;fuzzyipc=0&amp;pageSize=20&amp;currPage=1&amp;recordtotal=100&amp;singledb=null&amp;sIPC=null" CheckData="D06J1/12"/>
+  </TreeNode>
+</Root>
