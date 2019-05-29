@@ -23,6 +23,7 @@ public class AppContextListener implements ServletContextListener {
 		ParamService paramService = AppContextUtils.getBean("paramService");
 		paramService.initSystemParam();
 		//ParamContext.init();
+
 	}
 	
 	
